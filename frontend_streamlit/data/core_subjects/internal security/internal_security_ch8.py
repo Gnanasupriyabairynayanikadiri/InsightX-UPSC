@@ -1,0 +1,583 @@
+TOPICS = [
+    {
+        "name": "Cyber Warfare & Factors Contributing to Cyber Attacks",
+        "notes": [
+            {
+                "heading": "Cyber Warfare – Overview",
+                "points": [
+                    "Cyber warfare refers to the use of digital attacks by states or non-state actors to damage or disrupt another nation's systems",
+                    "It targets critical infrastructure such as defence networks, banking systems, power grids, and communication networks",
+                    "It is a modern extension of traditional warfare using cyberspace as a battlefield",
+                    "It can be offensive (attacking systems) or defensive (protecting systems)",
+                    "Often used as part of hybrid warfare combining cyber, information, and conventional tactics"
+                ]
+            },
+            {
+                "heading": "Nature of Cyber Warfare",
+                "points": [
+                    "Borderless and anonymous in nature",
+                    "Low cost but high impact operations",
+                    "Difficult to attribute attacks to specific actors",
+                    "Can be launched from anywhere in the world",
+                    "Targets both military and civilian infrastructure",
+                    "Continuous and evolving threat environment"
+                ]
+            },
+            {
+                "heading": "Targets of Cyber Warfare",
+                "points": [
+                    "Critical infrastructure (power grids, railways, airports)",
+                    "Military and defence communication systems",
+                    "Financial systems and banking networks",
+                    "Government databases and e-governance platforms",
+                    "Media and information systems",
+                    "Private corporations and intellectual property systems"
+                ]
+            },
+            {
+                "heading": "Types of Cyber Warfare Attacks",
+                "points": [
+                    "Distributed Denial of Service (DDoS) attacks",
+                    "Malware and ransomware attacks on critical systems",
+                    "Cyber espionage for stealing sensitive information",
+                    "Website defacement and propaganda dissemination",
+                    "Supply chain attacks targeting software/hardware systems",
+                    "Attacks on satellite and communication networks"
+                ]
+            },
+            {
+                "heading": "Actors in Cyber Warfare",
+                "points": [
+                    "Nation-states conducting state-sponsored cyber attacks",
+                    "Non-state actors like terrorist groups and hackers",
+                    "Organized cybercrime networks",
+                    "Hacktivist groups with political motives",
+                    "Insider threats within organizations",
+                    "Private contractors engaged in cyber operations"
+                ]
+            },
+            {
+                "heading": "Factors Contributing to Rise of Cyber Attacks – Overview",
+                "points": [
+                    "Cyber attacks are increasing rapidly due to technological, political, and economic factors",
+                    "Growing dependence on digital systems has increased vulnerability",
+                    "Attackers exploit weak cyber hygiene and security gaps",
+                    "Anonymity of cyberspace encourages offensive operations",
+                    "Cyber warfare has become a tool of geopolitical competition"
+                ]
+            },
+            {
+                "heading": "Technological Factors",
+                "points": [
+                    "Rapid digitalization and expansion of internet connectivity",
+                    "Proliferation of IoT devices with weak security",
+                    "Use of AI and automation by attackers",
+                    "Complexity of modern software systems with vulnerabilities",
+                    "Cloud computing increasing attack surfaces",
+                    "Lack of updated security infrastructure in many systems"
+                ]
+            },
+            {
+                "heading": "Political and Strategic Factors",
+                "points": [
+                    "Cyber warfare used as a tool of statecraft and geopolitics",
+                    "Tensions between nations leading to cyber retaliation",
+                    "Espionage activities targeting defence and strategic assets",
+                    "Hybrid warfare combining cyber and conventional conflict",
+                    "Lack of globally binding cyber laws and norms",
+                    "Competition for dominance in cyberspace"
+                ]
+            },
+            {
+                "heading": "Economic Factors",
+                "points": [
+                    "Cybercrime is highly profitable with low operational cost",
+                    "Ransomware attacks generating large financial gains",
+                    "Theft of intellectual property and trade secrets",
+                    "Disruption of financial systems for extortion",
+                    "Underground cybercrime economy on dark web",
+                    "Use of cryptocurrency enabling anonymous transactions"
+                ]
+            },
+            {
+                "heading": "Social and Human Factors",
+                "points": [
+                    "Low awareness about cyber hygiene among users",
+                    "Human error like clicking phishing links",
+                    "Weak passwords and poor security practices",
+                    "Increasing reliance on digital platforms",
+                    "Social engineering attacks exploiting human psychology",
+                    "Rapid adoption of technology without security training"
+                ]
+            },
+            {
+                "heading": "Organizational Factors",
+                "points": [
+                    "Weak cybersecurity policies in organizations",
+                    "Lack of skilled cyber security professionals",
+                    "Insufficient investment in cyber defense systems",
+                    "Poor incident response mechanisms",
+                    "Delayed software updates and patching",
+                    "Limited internal monitoring systems"
+                ]
+            },
+            {
+                "heading": "Consequences of Cyber Warfare",
+                "points": [
+                    "Disruption of national infrastructure and services",
+                    "Loss of sensitive military and strategic data",
+                    "Economic losses due to system shutdowns",
+                    "Erosion of public trust in digital governance",
+                    "Potential escalation into physical conflicts",
+                    "Global instability due to cyber retaliation cycles"
+                ]
+            },
+            {
+                "heading": "India’s Concerns in Cyber Warfare",
+                "points": [
+                    "Increasing cyber attacks on government and defence systems",
+                    "Threats to critical infrastructure like power and banking",
+                    "Use of cyber tools by hostile state and non-state actors",
+                    "Need for stronger cyber defense capabilities",
+                    "Dependence on foreign technology systems",
+                    "Growing digital economy increasing attack surface"
+                ]
+            },
+            {
+                "heading": "Way Forward",
+                "points": [
+                    "Strengthening cyber security infrastructure and resilience",
+                    "Development of indigenous cyber defence technologies",
+                    "Capacity building of cyber security professionals",
+                    "Regular cyber audits and vulnerability assessments",
+                    "International cooperation on cyber norms and laws",
+                    "Promoting cyber hygiene and awareness among citizens"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Cyber warfare refers to:",
+                    "options": [
+                    "Physical battlefield war",
+                    "Use of digital attacks against systems",
+                    "Space exploration",
+                    "Agricultural conflict"
+                    ],
+                    "answer": "Use of digital attacks against systems"
+                },
+                {
+                    "question": "One major target of cyber warfare is:",
+                    "options": [
+                    "Weather systems",
+                    "Critical infrastructure",
+                    "Agriculture fields",
+                    "Tourism industry only"
+                    ],
+                    "answer": "Critical infrastructure"
+                },
+                {
+                    "question": "DDoS attack means:",
+                    "options": [
+                    "Data Design Operating System",
+                    "Distributed Denial of Service",
+                    "Digital Data Operating System",
+                    "Direct Defense Online System"
+                    ],
+                    "answer": "Distributed Denial of Service"
+                },
+                {
+                    "question": "Cyber warfare is characterized by:",
+                    "options": [
+                    "High cost and low impact",
+                    "Low cost and high impact",
+                    "No impact",
+                    "Physical destruction only"
+                    ],
+                    "answer": "Low cost and high impact"
+                },
+                {
+                    "question": "Cyber espionage refers to:",
+                    "options": [
+                    "Weather monitoring",
+                    "Stealing sensitive digital information",
+                    "Agriculture monitoring",
+                    "Space research"
+                    ],
+                    "answer": "Stealing sensitive digital information"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "One factor increasing cyber attacks is:",
+                    "options": [
+                    "Reduced internet use",
+                    "Digitalization",
+                    "Less technology",
+                    "No connectivity"
+                    ],
+                    "answer": "Digitalization"
+                },
+                {
+                    "question": "Cyber warfare is part of:",
+                    "options": [
+                    "Only traditional war",
+                    "Hybrid warfare",
+                    "Agricultural policy",
+                    "Climate policy"
+                    ],
+                    "answer": "Hybrid warfare"
+                },
+                {
+                    "question": "Ransomware attacks are motivated by:",
+                    "options": [
+                    "Education",
+                    "Financial gain",
+                    "Weather control",
+                    "Sports competition"
+                    ],
+                    "answer": "Financial gain"
+                },
+                {
+                    "question": "One human factor in cyber attacks is:",
+                    "options": [
+                    "Strong encryption",
+                    "Phishing vulnerability",
+                    "AI protection",
+                    "Firewall usage"
+                    ],
+                    "answer": "Phishing vulnerability"
+                },
+                {
+                    "question": "Cyber attacks are difficult to trace because:",
+                    "options": [
+                    "They are physical",
+                    "They are anonymous and borderless",
+                    "They are offline",
+                    "They are visible"
+                    ],
+                    "answer": "They are anonymous and borderless"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Cyber warfare targets only military systems\n2. Cyber attacks are often anonymous\n3. Cyber warfare is part of hybrid warfare",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "2 and 3"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "DDoS – system overload attack",
+                    "Phishing – space attack",
+                    "Firewall – cyber attack tool",
+                    "Ransomware – weather system"
+                    ],
+                    "answer": "DDoS – system overload attack"
+                },
+                {
+                    "question": "Cyber warfare is increasing due to:",
+                    "options": [
+                    "Reduced connectivity",
+                    "Digital dependency and geopolitics",
+                    "No internet usage",
+                    "Physical borders"
+                    ],
+                    "answer": "Digital dependency and geopolitics"
+                },
+                {
+                    "question": "One key risk of cyber warfare is:",
+                    "options": [
+                    "Improved governance",
+                    "Disruption of critical infrastructure",
+                    "Better security",
+                    "Reduced trade"
+                    ],
+                    "answer": "Disruption of critical infrastructure"
+                },
+                {
+                    "question": "Effective cyber defense requires:",
+                    "options": [
+                    "No technology",
+                    "Technology, awareness, and cooperation",
+                    "Only laws",
+                    "Reduced internet usage"
+                    ],
+                    "answer": "Technology, awareness, and cooperation"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Recent Initiatives for Tackling Cyber Warfare",
+        "notes": [
+            {
+                "heading": "Overview – Tackling Cyber Warfare",
+                "points": [
+                    "Cyber warfare requires continuous strengthening of national cyber defence systems",
+                    "India has taken multiple institutional, legal, and technological initiatives in recent years",
+                    "Focus is on prevention, detection, response, and resilience",
+                    "Approach combines government, military, and private sector participation",
+                    "Emphasis on securing critical information infrastructure and strategic assets"
+                ]
+            },
+            {
+                "heading": "Institutional Initiatives",
+                "points": [
+                    "Indian Computer Emergency Response Team (CERT-In) strengthened for real-time cyber incident response",
+                    "National Critical Information Infrastructure Protection Centre (NCIIPC) safeguards critical sectors like power, banking, and telecom",
+                    "National Cyber Coordination Centre (NCCC) for monitoring cyber threats",
+                    "Cyber Swachhta Kendra for malware analysis and cleanup",
+                    "Indian Cyber Crime Coordination Centre (I4C) for cybercrime management and coordination"
+                ]
+            },
+            {
+                "heading": "Defence and Strategic Cyber Initiatives",
+                "points": [
+                    "Establishment of Defence Cyber Agency (DCA) for cyber warfare operations",
+                    "Integration of cyber capabilities into military strategy",
+                    "Strengthening of tri-service cyber command structure",
+                    "Focus on offensive and defensive cyber capabilities",
+                    "Cyber readiness exercises and simulations for armed forces"
+                ]
+            },
+            {
+                "heading": "Policy and Legal Initiatives",
+                "points": [
+                    "Information Technology Act, 2000 strengthened through amendments",
+                    "Draft and evolving Data Protection framework for securing personal data",
+                    "National Cyber Security Policy 2013 as foundational framework",
+                    "CERT-In directions for mandatory reporting of cyber incidents",
+                    "Stronger penalties for cyber terrorism and cyber fraud"
+                ]
+            },
+            {
+                "heading": "Technological Initiatives",
+                "points": [
+                    "Use of Artificial Intelligence for threat detection and response",
+                    "Machine learning-based intrusion detection systems",
+                    "Deployment of Security Operations Centres (SOCs)",
+                    "Blockchain-based secure data systems in some sectors",
+                    "Advanced encryption standards for government communication",
+                    "Cyber range platforms for training and simulation"
+                ]
+            },
+            {
+                "heading": "Critical Infrastructure Protection",
+                "points": [
+                    "Protection of sectors like power grids, banking, telecom, and transport",
+                    "NCIIPC designated as nodal agency for critical infrastructure security",
+                    "Regular cyber audits of sensitive systems",
+                    "Isolation of critical networks from public internet (air-gapping in some cases)",
+                    "Enhanced monitoring of Industrial Control Systems (ICS)"
+                ]
+            },
+            {
+                "heading": "Capacity Building and Training",
+                "points": [
+                    "Training programs for cyber security professionals",
+                    "Cyber hygiene awareness campaigns for government employees and citizens",
+                    "Specialized cyber security courses in universities and institutes",
+                    "Simulation exercises and cyber drills for crisis response",
+                    "Collaboration with private sector for skill development"
+                ]
+            },
+            {
+                "heading": "Public-Private Partnerships",
+                "points": [
+                    "Collaboration with IT industry for cyber security solutions",
+                    "Information sharing between government and private companies",
+                    "Outsourcing of cyber security audits to certified agencies",
+                    "Start-up ecosystem for cyber defence innovation",
+                    "Joint initiatives for securing financial and digital payment systems"
+                ]
+            },
+            {
+                "heading": "International Cooperation",
+                "points": [
+                    "Participation in global cyber security forums",
+                    "Bilateral agreements for cyber threat intelligence sharing",
+                    "Cooperation with INTERPOL and other agencies for cybercrime tracking",
+                    "Engagement in UN discussions on cyber norms",
+                    "Joint cyber security exercises with friendly countries"
+                ]
+            },
+            {
+                "heading": "Challenges in Tackling Cyber Warfare",
+                "points": [
+                    "Rapid evolution of cyber threats and technologies",
+                    "Shortage of skilled cyber security professionals",
+                    "Attribution problem (difficulty in identifying attackers)",
+                    "Dependence on imported technologies",
+                    "Coordination gaps among multiple agencies",
+                    "Increasing sophistication of state-sponsored attacks"
+                ]
+            },
+            {
+                "heading": "Way Forward",
+                "points": [
+                    "Development of indigenous cyber security technologies",
+                    "Strengthening cyber resilience of critical infrastructure",
+                    "Continuous upgradation of cyber laws and frameworks",
+                    "Expansion of cyber education and awareness programs",
+                    "Improved coordination among civil and defence agencies",
+                    "Proactive cyber defence and threat intelligence sharing"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "CERT-In is responsible for:",
+                    "options": [
+                    "Agriculture policy",
+                    "Cyber incident response",
+                    "Space missions",
+                    "Transport regulation"
+                    ],
+                    "answer": "Cyber incident response"
+                },
+                {
+                    "question": "NCIIPC protects:",
+                    "options": [
+                    "Only schools",
+                    "Critical information infrastructure",
+                    "Weather systems",
+                    "Tourism sector"
+                    ],
+                    "answer": "Critical information infrastructure"
+                },
+                {
+                    "question": "Cyber Swachhta Kendra is related to:",
+                    "options": [
+                    "Malware cleaning",
+                    "Space research",
+                    "Agriculture development",
+                    "Bank loans"
+                    ],
+                    "answer": "Malware cleaning"
+                },
+                {
+                    "question": "Defence Cyber Agency deals with:",
+                    "options": [
+                    "Cyber warfare operations",
+                    "Road safety",
+                    "Tax collection",
+                    "Education reforms"
+                    ],
+                    "answer": "Cyber warfare operations"
+                },
+                {
+                    "question": "One goal of cyber security initiatives is:",
+                    "options": [
+                    "Increase cyber attacks",
+                    "Protect critical infrastructure",
+                    "Reduce internet usage",
+                    "Stop digitalization"
+                    ],
+                    "answer": "Protect critical infrastructure"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Cyber warfare defence requires:",
+                    "options": [
+                    "Only physical security",
+                    "Technology and coordination",
+                    "No monitoring",
+                    "Reduced connectivity"
+                    ],
+                    "answer": "Technology and coordination"
+                },
+                {
+                    "question": "One challenge in cyber security is:",
+                    "options": [
+                    "Easy attribution",
+                    "Difficulty in identifying attackers",
+                    "No internet use",
+                    "Low digital growth"
+                    ],
+                    "answer": "Difficulty in identifying attackers"
+                },
+                {
+                    "question": "Security Operations Centres are used for:",
+                    "options": [
+                    "Cyber monitoring",
+                    "Space exploration",
+                    "Agriculture control",
+                    "Weather prediction only"
+                    ],
+                    "answer": "Cyber monitoring"
+                },
+                {
+                    "question": "Public-private partnership helps in:",
+                    "options": [
+                    "Weakening cyber systems",
+                    "Improving cyber defence",
+                    "Stopping technology use",
+                    "Reducing coordination"
+                    ],
+                    "answer": "Improving cyber defence"
+                },
+                {
+                    "question": "Cyber range is used for:",
+                    "options": [
+                    "Military training simulations",
+                    "Weather forecasting",
+                    "Farming techniques",
+                    "Transport planning"
+                    ],
+                    "answer": "Military training simulations"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. CERT-In handles cyber incident response\n2. NCIIPC protects critical infrastructure\n3. Cyber warfare has no role in national security",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Defence Cyber Agency – cyber warfare operations",
+                    "NCCC – agriculture monitoring",
+                    "Cyber Swachhta Kendra – space defence",
+                    "CERT-In – tax collection"
+                    ],
+                    "answer": "Defence Cyber Agency – cyber warfare operations"
+                },
+                {
+                    "question": "Cyber defence is strengthened by:",
+                    "options": [
+                    "Weak coordination",
+                    "AI-based monitoring systems",
+                    "No technology use",
+                    "Reduced awareness"
+                    ],
+                    "answer": "AI-based monitoring systems"
+                },
+                {
+                    "question": "International cooperation in cyber security helps in:",
+                    "options": [
+                    "Increasing attacks",
+                    "Tracking cyber criminals",
+                    "Stopping internet",
+                    "Reducing defence"
+                    ],
+                    "answer": "Tracking cyber criminals"
+                },
+                {
+                    "question": "Effective cyber warfare preparedness requires:",
+                    "options": [
+                    "Only laws",
+                    "Integrated institutional, technological, and policy measures",
+                    "No cyber monitoring",
+                    "Reduced digital systems"
+                    ],
+                    "answer": "Integrated institutional, technological, and policy measures"
+                }
+            ]
+        }
+    }
+]

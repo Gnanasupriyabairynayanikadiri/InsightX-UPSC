@@ -1,0 +1,846 @@
+[
+    {
+        "name": "Challenges & Social Diversity as Security Threat",
+        "notes": [
+            {
+                "heading": "Internal Security – Overview",
+                "points": [
+                    "Internal security refers to maintaining peace, law, and order within a country",
+                    "It includes protection against threats like terrorism, insurgency, cyber attacks, and communal violence",
+                    "It ensures sovereignty, stability, and development of the nation",
+                    "Handled by multiple agencies like police, paramilitary forces, and intelligence agencies",
+                    "It is a continuous process, not a one-time response"
+                ]
+            },
+            {
+                "heading": "Internal Security Challenges in India – Major Types",
+                "points": [
+                    "Terrorism and extremism (urban and rural areas)",
+                    "Left Wing Extremism (LWE) in tribal and forest regions",
+                    "Insurgency in North-East India",
+                    "Communal and religious violence",
+                    "Cyber security threats and digital crimes",
+                    "Drug trafficking and smuggling networks",
+                    "Cross-border infiltration and illegal migration"
+                ]
+            },
+            {
+                "heading": "Causes of Internal Security Challenges",
+                "points": [
+                    "Socio-economic inequality and poverty",
+                    "Unemployment and lack of opportunities",
+                    "Weak governance and corruption",
+                    "Geographical isolation of certain regions",
+                    "Ethnic, linguistic, and religious diversity",
+                    "External support to insurgent groups",
+                    "Spread of extremist ideologies through digital platforms"
+                ]
+            },
+            {
+                "heading": "Left Wing Extremism (LWE)",
+                "points": [
+                    "Also known as Naxalism or Maoism",
+                    "Active in forest and tribal regions of central India",
+                    "Root causes include land alienation and tribal exploitation",
+                    "Targets government infrastructure and security forces",
+                    "Government response includes development + security approach"
+                ]
+            },
+            {
+                "heading": "Insurgency in North-East India",
+                "points": [
+                    "Arises from ethnic identity and autonomy demands",
+                    "Includes groups demanding separate states or independence",
+                    "Causes include historical neglect and cultural differences",
+                    "Government uses dialogue, autonomy, and development packages",
+                    "Peace accords have reduced violence in many areas"
+                ]
+            },
+            {
+                "heading": "Cyber Security Threats",
+                "points": [
+                    "Includes hacking, phishing, data theft, and cyber terrorism",
+                    "Targets government systems, banks, and individuals",
+                    "Rapid digitalization increases vulnerability",
+                    "Need for cyber laws and agencies like CERT-In",
+                    "Artificial intelligence is both a tool and a threat"
+                ]
+            },
+            {
+                "heading": "Social Diversity as a Security Challenge – Overview",
+                "points": [
+                    "India’s diversity includes religion, language, ethnicity, and culture",
+                    "Diversity is a strength but can also lead to tensions if unmanaged",
+                    "Exploitation of differences can lead to conflict",
+                    "External forces may exploit internal divisions",
+                    "Requires inclusive governance and national integration"
+                ]
+            },
+            {
+                "heading": "How Social Diversity Becomes a Security Threat",
+                "points": [
+                    "Communal tensions between religious groups",
+                    "Ethnic conflicts demanding separate identity or statehood",
+                    "Language-based agitations and regionalism",
+                    "Caste-based violence and discrimination",
+                    "Political mobilization based on identity divisions"
+                ]
+            },
+            {
+                "heading": "Factors Aggravating Diversity-Based Conflicts",
+                "points": [
+                    "Economic inequality between groups",
+                    "Political exploitation of identity issues",
+                    "Historical grievances and mistrust",
+                    "Poor governance and lack of dialogue",
+                    "External propaganda and misinformation"
+                ]
+            },
+            {
+                "heading": "Government Measures to Address Internal Security",
+                "points": [
+                    "Strengthening intelligence and policing systems",
+                    "Development programs in backward regions",
+                    "Special forces deployment in insurgency areas",
+                    "Cyber security frameworks and IT laws",
+                    "Peace talks and conflict resolution mechanisms",
+                    "Community engagement and awareness programs"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Internal security refers to:",
+                    "options": [
+                        "External border defense",
+                        "Space security",
+                        "Maintaining law and order within the country",
+                        "International diplomacy"
+                    ],
+                    "answer": "Maintaining law and order within the country"
+                },
+                {
+                    "question": "LWE stands for:",
+                    "options": [
+                        "Local Welfare Establishment",
+                        "Left Wing Extremism",
+                        "Legal Work Environment",
+                        "Land Water Ecology"
+                    ],
+                    "answer": "Left Wing Extremism"
+                },
+                {
+                    "question": "Cyber security threats include:",
+                    "options": [
+                        "Floods",
+                        "Earthquakes",
+                        "Hacking and phishing",
+                        "Agriculture issues"
+                    ],
+                    "answer": "Hacking and phishing"
+                },
+                {
+                    "question": "Insurgency in North-East India is mainly due to:",
+                    "options": [
+                        "Space exploration",
+                        "Ethnic identity issues",
+                        "Industrial growth",
+                        "Climate change"
+                    ],
+                    "answer": "Ethnic identity issues"
+                },
+                {
+                    "question": "Internal security is handled by:",
+                    "options": [
+                        "Only army",
+                        "Only navy",
+                        "Police and paramilitary forces",
+                        "Only courts"
+                    ],
+                    "answer": "Police and paramilitary forces"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "One major cause of internal security issues is:",
+                    "options": [
+                        "High literacy rate",
+                        "Socio-economic inequality",
+                        "Strong governance",
+                        "Climate stability"
+                    ],
+                    "answer": "Socio-economic inequality"
+                },
+                {
+                    "question": "Cyber security threats increase due to:",
+                    "options": [
+                        "Digitalization",
+                        "Decline in internet use",
+                        "Reduced technology",
+                        "No online systems"
+                    ],
+                    "answer": "Digitalization"
+                },
+                {
+                    "question": "LWE mainly operates in:",
+                    "options": [
+                        "Urban metro cities",
+                        "Forest and tribal regions",
+                        "Coastal islands",
+                        "Airports"
+                    ],
+                    "answer": "Forest and tribal regions"
+                },
+                {
+                    "question": "Social diversity can become a security issue when:",
+                    "options": [
+                        "It is well managed",
+                        "It is ignored or exploited",
+                        "It is celebrated",
+                        "It promotes unity"
+                    ],
+                    "answer": "It is ignored or exploited"
+                },
+                {
+                    "question": "One response to insurgency is:",
+                    "options": [
+                        "Only military action",
+                        "Development and dialogue",
+                        "Ignoring the issue",
+                        "External war"
+                    ],
+                    "answer": "Development and dialogue"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Internal security includes cyber threats\n2. Diversity always leads to conflict\n3. LWE is linked to socio-economic issues",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "1 and 3"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                        "LWE – tribal region insurgency",
+                        "Cyber security – floods",
+                        "Insurgency – climate change",
+                        "Diversity – always negative"
+                    ],
+                    "answer": "LWE – tribal region insurgency"
+                },
+                {
+                    "question": "Internal security challenges arise mainly due to:",
+                    "options": [
+                        "External space missions",
+                        "Socio-economic and political factors",
+                        "Ocean currents",
+                        "Solar activity"
+                    ],
+                    "answer": "Socio-economic and political factors"
+                },
+                {
+                    "question": "Social diversity becomes a threat when:",
+                    "options": [
+                        "It promotes unity",
+                        "It is politically exploited",
+                        "It is inclusive",
+                        "It is respected"
+                    ],
+                    "answer": "It is politically exploited"
+                },
+                {
+                    "question": "Effective internal security requires:",
+                    "options": [
+                        "Only military action",
+                        "Only police action",
+                        "Integrated development and security approach",
+                        "Ignoring socio-economic issues"
+                    ],
+                    "answer": "Integrated development and security approach"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Internal Challenges, Neighbours & Non-State Actors",
+        "notes": [
+            {
+                "heading": "Challenges from Within – Overview",
+                "points": [
+                    "Internal challenges originate inside the country and affect sovereignty and stability",
+                    "They include insurgency, terrorism, communalism, corruption, and cyber threats",
+                    "Often arise due to socio-economic inequality, governance gaps, and identity conflicts",
+                    "Can weaken trust in institutions and reduce national integration",
+                    "Require coordinated response from security forces, administration, and society"
+                ]
+            },
+            {
+                "heading": "Major Internal Challenges",
+                "points": [
+                    "Left Wing Extremism (Naxalism) in tribal belts",
+                    "Insurgency in North-East regions",
+                    "Communal and caste-based violence",
+                    "Urban terrorism and radicalization",
+                    "Cybercrime and digital warfare",
+                    "Organized crime networks (drugs, arms, human trafficking)"
+                ]
+            },
+            {
+                "heading": "Causes of Internal Challenges",
+                "points": [
+                    "Economic inequality and poverty",
+                    "Unemployment and lack of opportunities",
+                    "Political instability and identity politics",
+                    "Weak law enforcement and governance gaps",
+                    "Historical grievances and alienation",
+                    "Spread of extremist ideology"
+                ]
+            },
+            {
+                "heading": "Neighbours as Issue of Security Threat – Overview",
+                "points": [
+                    "India shares borders with multiple countries, making border security crucial",
+                    "Neighbouring countries can be sources of external support to internal threats",
+                    "Porous borders increase infiltration, smuggling, and illegal migration",
+                    "Geopolitical tensions affect internal security stability",
+                    "Security challenges often have cross-border dimensions"
+                ]
+            },
+            {
+                "heading": "Ways Neighbours Become Security Threats",
+                "points": [
+                    "Cross-border terrorism and infiltration",
+                    "Support and funding to insurgent groups",
+                    "Smuggling of arms, drugs, and counterfeit currency",
+                    "Illegal migration affecting demographic balance",
+                    "Border disputes and territorial tensions",
+                    "Use of proxy groups to destabilize regions"
+                ]
+            },
+            {
+                "heading": "Examples of Neighbour-Linked Security Issues",
+                "points": [
+                    "Cross-border terrorism in Jammu & Kashmir region",
+                    "Insurgent groups in North-East receiving external support",
+                    "Drug trafficking through Golden Crescent and Golden Triangle routes",
+                    "Illegal migration from neighboring countries",
+                    "Maritime security challenges in coastal regions"
+                ]
+            },
+            {
+                "heading": "Government Response to Neighbour-Linked Threats",
+                "points": [
+                    "Strengthening border security forces (BSF, ITBP, Assam Rifles)",
+                    "Fencing and surveillance of international borders",
+                    "Diplomatic engagement and bilateral agreements",
+                    "Coastal security measures and radar systems",
+                    "Intelligence sharing with friendly countries",
+                    "Counter-terrorism operations and coordination"
+                ]
+            },
+            {
+                "heading": "Non-State Actors – Overview",
+                "points": [
+                    "Non-state actors are individuals or groups not officially part of government",
+                    "They can be domestic or international in nature",
+                    "Some contribute positively (NGOs), while others pose threats (terror groups)",
+                    "They operate across borders using networks and technology",
+                    "Increasingly influential in global and internal security"
+                ]
+            },
+            {
+                "heading": "Types of Non-State Actors (Security Context)",
+                "points": [
+                    "Terrorist organizations and extremist groups",
+                    "Organized crime syndicates",
+                    "Cyber criminals and hacking groups",
+                    "Smuggling and trafficking networks",
+                    "Radical ideological organizations",
+                    "Some foreign-funded NGOs (in security-sensitive contexts)"
+                ]
+            },
+            {
+                "heading": "How Non-State Actors Threaten Security",
+                "points": [
+                    "Conduct terrorist attacks and violence",
+                    "Spread radicalization through online platforms",
+                    "Finance illegal activities through global networks",
+                    "Exploit weak governance areas",
+                    "Disrupt economic stability through smuggling and cybercrime",
+                    "Create fear and instability in society"
+                ]
+            },
+            {
+                "heading": "Challenges in Dealing with Non-State Actors",
+                "points": [
+                    "Lack of clear territorial boundaries",
+                    "Use of encrypted digital communication",
+                    "Cross-border safe havens",
+                    "Difficulty in intelligence tracking",
+                    "Rapid radicalization through social media",
+                    "Financial networks that are hard to trace"
+                ]
+            },
+            {
+                "heading": "Government Measures Against Non-State Actors",
+                "points": [
+                    "Strengthening intelligence and surveillance systems",
+                    "Anti-terror laws and legal frameworks",
+                    "International cooperation and extradition treaties",
+                    "Cyber security infrastructure development",
+                    "Financial monitoring through agencies like FIU",
+                    "Community policing and de-radicalization programs"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Internal security challenges originate from:",
+                    "options": [
+                        "Outside the country only",
+                        "Inside the country",
+                        "Only oceans",
+                        "Only space"
+                    ],
+                    "answer": "Inside the country"
+                },
+                {
+                    "question": "Non-state actors include:",
+                    "options": [
+                        "Only government agencies",
+                        "Only army",
+                        "Terror groups and NGOs",
+                        "Only courts"
+                    ],
+                    "answer": "Terror groups and NGOs"
+                },
+                {
+                    "question": "One major issue from neighbours is:",
+                    "options": [
+                        "Space exploration",
+                        "Cross-border terrorism",
+                        "Weather changes",
+                        "Agriculture growth"
+                    ],
+                    "answer": "Cross-border terrorism"
+                },
+                {
+                    "question": "Illegal migration affects:",
+                    "options": [
+                        "Only education",
+                        "Demographic balance",
+                        "Space systems",
+                        "Climate only"
+                    ],
+                    "answer": "Demographic balance"
+                },
+                {
+                    "question": "Non-state actors operate:",
+                    "options": [
+                        "Only within government offices",
+                        "Outside official government structure",
+                        "Only in courts",
+                        "Only in schools"
+                    ],
+                    "answer": "Outside official government structure"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "A major internal security challenge is:",
+                    "options": [
+                        "Cybercrime",
+                        "Solar radiation",
+                        "Ocean tides",
+                        "Earth rotation"
+                    ],
+                    "answer": "Cybercrime"
+                },
+                {
+                    "question": "Neighbours can threaten security through:",
+                    "options": [
+                        "Cultural exchange only",
+                        "Support to insurgents",
+                        "Tourism promotion",
+                        "Trade agreements only"
+                    ],
+                    "answer": "Support to insurgents"
+                },
+                {
+                    "question": "Non-state actors often use:",
+                    "options": [
+                        "Traditional letters only",
+                        "Digital platforms",
+                        "Stone tools",
+                        "No communication"
+                    ],
+                    "answer": "Digital platforms"
+                },
+                {
+                    "question": "One example of non-state actor threat is:",
+                    "options": [
+                        "Space research",
+                        "Terrorism",
+                        "Weather forecasting",
+                        "Agriculture reform"
+                    ],
+                    "answer": "Terrorism"
+                },
+                {
+                    "question": "Border security is important because:",
+                    "options": [
+                        "It increases tourism only",
+                        "It prevents infiltration",
+                        "It stops climate change",
+                        "It improves agriculture only"
+                    ],
+                    "answer": "It prevents infiltration"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Non-state actors include terrorist groups\n2. Neighbouring countries have no role in internal security\n3. Internal challenges include cyber threats",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "1 and 3"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                        "Non-state actor – terrorist organization",
+                        "Neighbour threat – weather change",
+                        "Internal challenge – ocean currents",
+                        "Border issue – space research"
+                    ],
+                    "answer": "Non-state actor – terrorist organization"
+                },
+                {
+                    "question": "Internal security is affected by neighbours due to:",
+                    "options": [
+                        "Geological factors",
+                        "Cross-border linkages",
+                        "Solar activity",
+                        "Earthquake zones"
+                    ],
+                    "answer": "Cross-border linkages"
+                },
+                {
+                    "question": "Non-state actors are difficult to control because:",
+                    "options": [
+                        "They follow strict government rules",
+                        "They operate across borders and use technology",
+                        "They are fully transparent",
+                        "They do not use networks"
+                    ],
+                    "answer": "They operate across borders and use technology"
+                },
+                {
+                    "question": "Effective response to internal security threats requires:",
+                    "options": [
+                        "Only military action",
+                        "Only diplomacy",
+                        "Integrated security, intelligence and cooperation",
+                        "Ignoring non-state actors"
+                    ],
+                    "answer": "Integrated security, intelligence and cooperation"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Global Indices, Vulnerability & Law vs Internal Security",
+        "notes": [
+            {
+                "heading": "Global Indices – Overview",
+                "points": [
+                    "Global indices measure a country's performance on various governance and security parameters",
+                    "They help assess internal stability, vulnerability, and resilience of a state",
+                    "Used by international organizations, think tanks, and policy institutions",
+                    "Important for comparing countries and tracking improvement over time",
+                    "Relevant for understanding exposure to non-state actors and internal threats"
+                ]
+            },
+            {
+                "heading": "Important Global Indices Related to Security",
+                "points": [
+                    "Global Terrorism Index (GTI) – measures impact of terrorism",
+                    "Fragile States Index (FSI) – assesses vulnerability to conflict and collapse",
+                    "Global Peace Index (GPI) – ranks countries by peace and security levels",
+                    "Corruption Perception Index (CPI) – reflects governance quality",
+                    "Cybersecurity Index – evaluates digital security preparedness",
+                    "Rule of Law Index – measures justice and institutional strength"
+                ]
+            },
+            {
+                "heading": "Global Terrorism Index (GTI)",
+                "points": [
+                    "Developed by Institute for Economics and Peace",
+                    "Measures impact of terrorism based on deaths, incidents, and damage",
+                    "Higher score = higher terrorism impact",
+                    "Helps identify countries vulnerable to extremist violence",
+                    "Useful for analyzing non-state actor influence"
+                ]
+            },
+            {
+                "heading": "Fragile States Index (FSI)",
+                "points": [
+                    "Published by Fund for Peace",
+                    "Assesses vulnerability of states to conflict or collapse",
+                    "Factors include social, economic, and political pressures",
+                    "High fragility indicates weak governance and high instability",
+                    "Closely linked with internal security risks"
+                ]
+            },
+            {
+                "heading": "Global Peace Index (GPI)",
+                "points": [
+                    "Measures peacefulness of countries",
+                    "Considers internal conflict, militarization, and societal safety",
+                    "Lower rank indicates higher violence and instability",
+                    "Helps compare internal security conditions globally",
+                    "Important for policy and investment decisions"
+                ]
+            },
+            {
+                "heading": "Measurement of Vulnerability to Non-State Actors",
+                "points": [
+                    "Vulnerability refers to how exposed a state is to threats like terrorism and crime",
+                    "Weak institutions increase vulnerability",
+                    "Poor border management increases infiltration risk",
+                    "Digital infrastructure gaps increase cyber threats",
+                    "Social divisions can be exploited by non-state actors"
+                ]
+            },
+            {
+                "heading": "Key Factors of Vulnerability",
+                "points": [
+                    "Weak governance and corruption",
+                    "Economic inequality and unemployment",
+                    "Porous borders and poor surveillance",
+                    "Low cyber security preparedness",
+                    "Social fragmentation and identity conflicts",
+                    "Limited intelligence and policing capacity"
+                ]
+            },
+            {
+                "heading": "Role of Indices in Measuring Vulnerability",
+                "points": [
+                    "Help identify weak areas in governance and security systems",
+                    "Assist in policy planning and reforms",
+                    "Allow comparison with global standards",
+                    "Highlight risk zones for non-state actor activity",
+                    "Support early warning and preventive strategies"
+                ]
+            },
+            {
+                "heading": "Law and Order vs Internal Security – Overview",
+                "points": [
+                    "Law and order refers to maintaining public order within local jurisdictions",
+                    "Internal security is broader and includes national-level threats",
+                    "Law and order is primarily a state subject in India",
+                    "Internal security involves coordination between Centre and States",
+                    "Both are interlinked but differ in scope and scale"
+                ]
+            },
+            {
+                "heading": "Differences between Law and Order and Internal Security",
+                "points": [
+                    "Law and order deals with routine crime and public disturbances",
+                    "Internal security deals with terrorism, insurgency, and national threats",
+                    "Law and order is handled by state police",
+                    "Internal security involves central agencies like IB, NIA, CRPF",
+                    "Law and order is local; internal security is national"
+                ]
+            },
+            {
+                "heading": "Overlap between Law and Order and Internal Security",
+                "points": [
+                    "Riots and communal violence can escalate from law and order to internal security issue",
+                    "Terror incidents start locally but affect national security",
+                    "Cybercrime can have both local and national implications",
+                    "Coordination is essential between state and central agencies",
+                    "Intelligence sharing bridges the gap between both domains"
+                ]
+            },
+            {
+                "heading": "Challenges in Managing Both",
+                "points": [
+                    "Coordination issues between state and central agencies",
+                    "Political interference in law and order situations",
+                    "Resource limitations in police forces",
+                    "Rapid evolution of non-state actor tactics",
+                    "Technology-driven crimes increasing complexity"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Global indices are used to measure:",
+                    "options": [
+                        "Weather patterns",
+                        "Country performance and vulnerability",
+                        "Space activity",
+                        "Ocean currents"
+                    ],
+                    "answer": "Country performance and vulnerability"
+                },
+                {
+                    "question": "GTI stands for:",
+                    "options": [
+                        "Global Trade Index",
+                        "Global Terrorism Index",
+                        "Government Transparency Index",
+                        "Global Technology Index"
+                    ],
+                    "answer": "Global Terrorism Index"
+                },
+                {
+                    "question": "Law and order in India is mainly a subject of:",
+                    "options": [
+                        "Central government",
+                        "State government",
+                        "Judiciary",
+                        "Army"
+                    ],
+                    "answer": "State government"
+                },
+                {
+                    "question": "Internal security deals with:",
+                    "options": [
+                        "Only traffic issues",
+                        "National-level threats",
+                        "Only village disputes",
+                        "Weather forecasting"
+                    ],
+                    "answer": "National-level threats"
+                },
+                {
+                    "question": "FSI measures:",
+                    "options": [
+                        "Peace levels",
+                        "State fragility and instability",
+                        "Trade growth",
+                        "Education levels"
+                    ],
+                    "answer": "State fragility and instability"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "A higher GTI score means:",
+                    "options": [
+                        "Less terrorism",
+                        "More terrorism impact",
+                        "More peace",
+                        "Better governance"
+                    ],
+                    "answer": "More terrorism impact"
+                },
+                {
+                    "question": "Law and order is mainly handled by:",
+                    "options": [
+                        "Central agencies",
+                        "State police",
+                        "International bodies",
+                        "Private security only"
+                    ],
+                    "answer": "State police"
+                },
+                {
+                    "question": "Internal security includes:",
+                    "options": [
+                        "Only local disputes",
+                        "Terrorism and insurgency",
+                        "Only traffic control",
+                        "Only elections"
+                    ],
+                    "answer": "Terrorism and insurgency"
+                },
+                {
+                    "question": "One factor of vulnerability is:",
+                    "options": [
+                        "Strong governance",
+                        "Weak institutions",
+                        "High literacy",
+                        "Stable economy"
+                    ],
+                    "answer": "Weak institutions"
+                },
+                {
+                    "question": "Global Peace Index measures:",
+                    "options": [
+                        "Agriculture output",
+                        "Peace and security levels",
+                        "Climate change",
+                        "Education quality"
+                    ],
+                    "answer": "Peace and security levels"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. GTI measures terrorism impact\n2. Law and order is a central subject\n3. Internal security is broader than law and order",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "1 and 3"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                        "FSI – state fragility",
+                        "GTI – education index",
+                        "GPI – trade index",
+                        "CPI – climate index"
+                    ],
+                    "answer": "FSI – state fragility"
+                },
+                {
+                    "question": "Internal security differs from law and order because:",
+                    "options": [
+                        "It is narrower in scope",
+                        "It includes national-level threats",
+                        "It is only local",
+                        "It ignores terrorism"
+                    ],
+                    "answer": "It includes national-level threats"
+                },
+                {
+                    "question": "Vulnerability to non-state actors increases due to:",
+                    "options": [
+                        "Strong institutions",
+                        "Weak governance and porous borders",
+                        "High economic growth",
+                        "Stable politics"
+                    ],
+                    "answer": "Weak governance and porous borders"
+                },
+                {
+                    "question": "Effective internal security requires:",
+                    "options": [
+                        "Only state police action",
+                        "Only central agency action",
+                        "Coordination between multiple agencies",
+                        "Ignoring global indices"
+                    ],
+                    "answer": "Coordination between multiple agencies"
+                }
+            ]
+        }
+    }
+]

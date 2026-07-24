@@ -1,0 +1,668 @@
+[
+    {
+        "name": "Fairs and Festivals of India",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "India is known as a land of diverse festivals reflecting its cultural, religious, and regional diversity",
+                    "Fairs and festivals are deeply connected with agriculture, seasons, religion, and social traditions",
+                    "They promote unity in diversity and cultural exchange",
+                    "Festivals can be religious, seasonal, tribal, or national",
+                    "Fairs often combine trade, pilgrimage, and cultural performances"
+                ]
+            },
+            {
+                "heading": "Classification of Festivals",
+                "points": [
+                    "Religious festivals – based on Hinduism, Islam, Christianity, Sikhism, Buddhism, Jainism, etc.",
+                    "Seasonal festivals – linked to harvest and agricultural cycles",
+                    "Tribal festivals – unique to indigenous communities",
+                    "National festivals – celebrated across India (Independence Day, Republic Day, Gandhi Jayanti)",
+                    "Cultural fairs – mix of trade, culture, and rituals"
+                ]
+            },
+            {
+                "heading": "Hindu Festivals",
+                "points": [
+                    "Diwali – festival of lights symbolizing victory of good over evil",
+                    "Holi – festival of colors celebrating spring and divine love",
+                    "Navratri/Durga Puja – worship of Goddess Durga",
+                    "Makar Sankranti – harvest festival marking sun’s transition",
+                    "Raksha Bandhan – celebration of sibling bond"
+                ]
+            },
+            {
+                "heading": "Islamic Festivals",
+                "points": [
+                    "Eid-ul-Fitr – marks end of Ramadan fasting",
+                    "Eid-ul-Adha – commemorates sacrifice of Prophet Ibrahim",
+                    "Muharram – mourning of martyrdom of Imam Hussain",
+                    "Milad-un-Nabi – celebration of Prophet Muhammad’s birth",
+                    "Festivals emphasize charity, fasting, and community"
+                ]
+            },
+            {
+                "heading": "Christian Festivals",
+                "points": [
+                    "Christmas – celebration of birth of Jesus Christ",
+                    "Good Friday – remembrance of crucifixion of Jesus",
+                    "Easter – celebration of resurrection of Jesus",
+                    "Emphasis on faith, sacrifice, and renewal",
+                    "Observed across India with regional variations"
+                ]
+            },
+            {
+                "heading": "Sikh Festivals",
+                "points": [
+                    "Guru Nanak Jayanti – birth of Guru Nanak",
+                    "Baisakhi – harvest festival and formation of Khalsa",
+                    "Martyrdom days of Sikh Gurus",
+                    "Emphasis on equality, service, and community",
+                    "Celebrated with processions and langar"
+                ]
+            },
+            {
+                "heading": "Buddhist Festivals",
+                "points": [
+                    "Buddha Purnima – birth, enlightenment, and death of Buddha",
+                    "Asalha Puja – first sermon of Buddha",
+                    "Kathina festival – offering of robes to monks",
+                    "Emphasis on peace, meditation, and compassion",
+                    "Observed in India and Buddhist countries"
+                ]
+            },
+            {
+                "heading": "Jain Festivals",
+                "points": [
+                    "Mahavir Jayanti – birth of Lord Mahavira",
+                    "Paryushana – period of fasting and forgiveness",
+                    "Diwali – marks Nirvana of Mahavira",
+                    "Emphasis on non-violence (Ahimsa)",
+                    "Rituals include fasting and meditation"
+                ]
+            },
+            {
+                "heading": "Seasonal and Harvest Festivals",
+                "points": [
+                    "Pongal – Tamil Nadu harvest festival",
+                    "Onam – Kerala harvest festival",
+                    "Bihu – Assam harvest festival",
+                    "Lohri – Punjab winter harvest festival",
+                    "Makar Sankranti – pan-India harvest celebration"
+                ]
+            },
+            {
+                "heading": "Tribal Festivals",
+                "points": [
+                    "Hornbill Festival – Nagaland cultural festival",
+                    "Chapchar Kut – Mizoram festival",
+                    "Sarhul – Jharkhand tribal festival",
+                    "Wangala – Meghalaya harvest festival",
+                    "Celebrate nature, ancestors, and community life"
+                ]
+            },
+            {
+                "heading": "Major Fairs of India",
+                "points": [
+                    "Kumbh Mela – largest religious gathering in the world",
+                    "Pushkar Fair – Rajasthan cattle and camel fair",
+                    "Sonepur Mela – Bihar livestock fair",
+                    "Surajkund Mela – Haryana handicraft fair",
+                    "Gangasagar Mela – West Bengal pilgrimage fair"
+                ]
+            },
+            {
+                "heading": "Kumbh Mela",
+                "points": [
+                    "Held every 12 years at four locations: Prayagraj, Haridwar, Ujjain, Nashik",
+                    "One of the largest peaceful gatherings in the world",
+                    "Based on Hindu mythology of nectar (Amrit)",
+                    "UNESCO Intangible Cultural Heritage",
+                    "Important pilgrimage for Hindus"
+                ]
+            },
+            {
+                "heading": "Cultural Significance",
+                "points": [
+                    "Promote social harmony and unity",
+                    "Preserve traditional arts, music, and dance",
+                    "Encourage trade and local economy",
+                    "Strengthen religious and cultural identity",
+                    "Platform for cultural exchange"
+                ]
+            },
+            {
+                "heading": "Economic Importance",
+                "points": [
+                    "Boost tourism industry",
+                    "Support handicrafts and local artisans",
+                    "Generate seasonal employment",
+                    "Promote rural economy",
+                    "Increase cultural exports"
+                ]
+            },
+            {
+                "heading": "UPSC Importance",
+                "points": [
+                    "Frequently asked in Art & Culture section",
+                    "Kumbh Mela and UNESCO tag are important",
+                    "Matching festival-state questions are common",
+                    "Tribal festivals are often asked in Prelims",
+                    "Link between festivals and cultural geography is important"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Diwali is known as festival of:",
+                    "options": [
+                        "Lights",
+                        "Colors",
+                        "Harvest",
+                        "Music"
+                    ],
+                    "answer": "Lights"
+                },
+                {
+                    "question": "Eid-ul-Fitr is celebrated after:",
+                    "options": [
+                        "Ramadan",
+                        "Hajj",
+                        "Muharram",
+                        "Diwali"
+                    ],
+                    "answer": "Ramadan"
+                },
+                {
+                    "question": "Buddha Purnima is related to:",
+                    "options": [
+                        "Buddha",
+                        "Mahavira",
+                        "Guru Nanak",
+                        "Jesus"
+                    ],
+                    "answer": "Buddha"
+                },
+                {
+                    "question": "Onam is a festival of:",
+                    "options": [
+                        "Kerala",
+                        "Punjab",
+                        "Gujarat",
+                        "Bihar"
+                    ],
+                    "answer": "Kerala"
+                },
+                {
+                    "question": "Kumbh Mela is held every:",
+                    "options": [
+                        "12 years",
+                        "5 years",
+                        "10 years",
+                        "2 years"
+                    ],
+                    "answer": "12 years"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Hornbill Festival is celebrated in:",
+                    "options": [
+                        "Nagaland",
+                        "Assam",
+                        "Kerala",
+                        "Punjab"
+                    ],
+                    "answer": "Nagaland"
+                },
+                {
+                    "question": "Baisakhi is associated with:",
+                    "options": [
+                        "Sikh festival and harvest",
+                        "Holi celebration",
+                        "Christmas",
+                        "Diwali"
+                    ],
+                    "answer": "Sikh festival and harvest"
+                },
+                {
+                    "question": "Pushkar Fair is held in:",
+                    "options": [
+                        "Rajasthan",
+                        "Gujarat",
+                        "Bihar",
+                        "Odisha"
+                    ],
+                    "answer": "Rajasthan"
+                },
+                {
+                    "question": "Paryushana is a festival of:",
+                    "options": [
+                        "Jainism",
+                        "Islam",
+                        "Christianity",
+                        "Hinduism"
+                    ],
+                    "answer": "Jainism"
+                },
+                {
+                    "question": "Pongal is celebrated in:",
+                    "options": [
+                        "Tamil Nadu",
+                        "Kerala",
+                        "Karnataka",
+                        "Maharashtra"
+                    ],
+                    "answer": "Tamil Nadu"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Kumbh Mela is UNESCO heritage\n2. Onam is harvest festival of Kerala\n3. Bihu is festival of Gujarat",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                        "Hornbill Festival – Nagaland",
+                        "Pushkar Fair – Punjab",
+                        "Bihu – Kerala",
+                        "Sonepur Mela – Rajasthan"
+                    ],
+                    "answer": "Hornbill Festival – Nagaland"
+                },
+                {
+                    "question": "Kumbh Mela is associated with:",
+                    "options": [
+                        "Hindu pilgrimage",
+                        "Muslim festival",
+                        "Buddhist ritual",
+                        "Tribal festival"
+                    ],
+                    "answer": "Hindu pilgrimage"
+                },
+                {
+                    "question": "Tribal festivals mainly celebrate:",
+                    "options": [
+                        "Nature and community life",
+                        "Urban development",
+                        "Political events",
+                        "Trade agreements"
+                    ],
+                    "answer": "Nature and community life"
+                },
+                {
+                    "question": "Surajkund Mela is famous for:",
+                    "options": [
+                        "Handicrafts and culture",
+                        "Religious rituals",
+                        "Agriculture only",
+                        "Military display"
+                    ],
+                    "answer": "Handicrafts and culture"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Major Festivals of North-East India",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "North-East India is one of the most culturally diverse regions of India",
+                    "It includes 8 states: Assam, Arunachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland, Tripura, and Sikkim",
+                    "Festivals are deeply connected with tribal traditions, agriculture, and nature worship",
+                    "They reflect community life, oral traditions, and indigenous identity",
+                    "Many festivals are now also promoted for tourism and cultural preservation"
+                ]
+            },
+            {
+                "heading": "Assam – Major Festivals",
+                "points": [
+                    "Bihu – most important festival of Assam (three types: Rongali, Kongali, Bhogali)",
+                    "Rongali Bihu – Assamese New Year and spring festival",
+                    "Magh Bihu (Bhogali Bihu) – harvest and feast festival",
+                    "Kongali Bihu – simple festival during crop growth stage",
+                    "Ambubachi Mela – associated with Kamakhya Temple"
+                ]
+            },
+            {
+                "heading": "Significance of Assam Festivals",
+                "points": [
+                    "Closely linked with agricultural cycles",
+                    "Celebrates nature, fertility, and community bonding",
+                    "Traditional dance (Bihu dance) and music are central",
+                    "Strong participation of youth and rural communities",
+                    "Blend of tribal and Hindu traditions"
+                ]
+            },
+            {
+                "heading": "Nagaland – Major Festivals",
+                "points": [
+                    "Hornbill Festival – most famous cultural festival of Nagaland",
+                    "Celebrates unity among different Naga tribes",
+                    "Showcases traditional dance, music, crafts, and food",
+                    "Held annually in Kisama Heritage Village",
+                    "Named after the Hornbill bird, important in Naga culture"
+                ]
+            },
+            {
+                "heading": "Significance of Nagaland Festivals",
+                "points": [
+                    "Preserves tribal identity and traditions",
+                    "Promotes inter-tribal harmony",
+                    "Boosts tourism and cultural exchange",
+                    "Displays warrior traditions and folklore",
+                    "Strong connection with nature and ancestry"
+                ]
+            },
+            {
+                "heading": "Manipur – Major Festivals",
+                "points": [
+                    "Yaoshang – Manipuri version of Holi",
+                    "Lai Haraoba – festival of local deities",
+                    "Ningol Chakouba – family reunion festival",
+                    "Cheiraoba – Meitei New Year",
+                    "Raas Leela – devotional dance form"
+                ]
+            },
+            {
+                "heading": "Significance of Manipur Festivals",
+                "points": [
+                    "Blend of Vaishnavism and indigenous traditions",
+                    "Strong cultural importance of dance and music",
+                    "Community bonding and family reunions",
+                    "Religious devotion to local deities (Umang Lai)",
+                    "Preservation of Manipuri classical dance tradition"
+                ]
+            },
+            {
+                "heading": "Meghalaya – Major Festivals",
+                "points": [
+                    "Wangala Festival – harvest festival of Garo tribe",
+                    "Shad Suk Mynsiem – Khasi thanksgiving festival",
+                    "Behdeinkhlam – Jaintia festival for health and prosperity",
+                    "Nongkrem Dance Festival – religious dance festival",
+                    "A blend of tribal religion and nature worship"
+                ]
+            },
+            {
+                "heading": "Significance of Meghalaya Festivals",
+                "points": [
+                    "Agriculture-based celebrations",
+                    "Deep connection with nature and spirits",
+                    "Traditional music, drums, and dance performances",
+                    "Role of community elders and priests",
+                    "Strong preservation of matrilineal culture"
+                ]
+            },
+            {
+                "heading": "Mizoram – Major Festivals",
+                "points": [
+                    "Chapchar Kut – most important spring festival",
+                    "Mim Kut – festival after maize harvest",
+                    "Pawl Kut – harvest thanksgiving festival",
+                    "Traditional dances like Cheraw (bamboo dance)",
+                    "Community feasting and cultural performances"
+                ]
+            },
+            {
+                "heading": "Significance of Mizoram Festivals",
+                "points": [
+                    "Closely linked with shifting cultivation (jhum)",
+                    "Expression of gratitude for harvest",
+                    "Strong role of music and dance",
+                    "Community participation is central",
+                    "Reflects Mizo cultural identity"
+                ]
+            },
+            {
+                "heading": "Arunachal Pradesh – Major Festivals",
+                "points": [
+                    "Losar – Tibetan Buddhist New Year",
+                    "Solung – Adi tribe harvest festival",
+                    "Dree Festival – agricultural festival of Apatani tribe",
+                    "Nyokum – worship of nature and spirits",
+                    "Mopin – festival of Galo tribe"
+                ]
+            },
+            {
+                "heading": "Significance of Arunachal Festivals",
+                "points": [
+                    "Mix of Buddhist and tribal traditions",
+                    "Nature worship is central theme",
+                    "Rituals for agricultural prosperity",
+                    "Strong oral traditions and folklore",
+                    "Community feasts and dances"
+                ]
+            },
+            {
+                "heading": "Tripura – Major Festivals",
+                "points": [
+                    "Kharchi Puja – worship of 14 deities",
+                    "Garia Puja – tribal festival for prosperity",
+                    "Ker Puja – protection of community",
+                    "Durga Puja – widely celebrated Hindu festival",
+                    "Mix of tribal and Hindu traditions"
+                ]
+            },
+            {
+                "heading": "Significance of Tripura Festivals",
+                "points": [
+                    "Blend of indigenous and Hindu practices",
+                    "Agricultural and community protection rituals",
+                    "Strong participation of tribal communities",
+                    "Religious harmony among different groups",
+                    "Cultural identity preservation"
+                ]
+            },
+            {
+                "heading": "Sikkim – Major Festivals",
+                "points": [
+                    "Losar – Tibetan New Year",
+                    "Saga Dawa – Buddha’s life events",
+                    "Pang Lhabsol – worship of Mount Kanchenjunga",
+                    "Losoong – harvest festival",
+                    "Dasain (Dussehra) – Hindu influence"
+                ]
+            },
+            {
+                "heading": "Significance of Sikkim Festivals",
+                "points": [
+                    "Strong influence of Tibetan Buddhism",
+                    "Mountain worship and nature reverence",
+                    "Blend of Hindu and Buddhist traditions",
+                    "Community rituals and monasteries play key role",
+                    "Cultural harmony among ethnic groups"
+                ]
+            },
+            {
+                "heading": "Common Features of North-East Festivals",
+                "points": [
+                    "Strong connection with nature and agriculture",
+                    "Community-based celebrations",
+                    "Rich tribal dance and music traditions",
+                    "Oral storytelling and folklore importance",
+                    "Increasing role of tourism and cultural promotion"
+                ]
+            },
+            {
+                "heading": "UPSC Importance",
+                "points": [
+                    "Frequently asked in Prelims (festival-state matching)",
+                    "Hornbill Festival and Bihu are very important",
+                    "Tribal festivals often appear in MCQs",
+                    "Cultural geography of North-East is important",
+                    "Useful for understanding India’s diversity in Mains answers"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Bihu festival is celebrated in:",
+                    "options": [
+                        "Assam",
+                        "Nagaland",
+                        "Manipur",
+                        "Meghalaya"
+                    ],
+                    "answer": "Assam"
+                },
+                {
+                    "question": "Hornbill Festival is associated with:",
+                    "options": [
+                        "Nagaland",
+                        "Sikkim",
+                        "Tripura",
+                        "Mizoram"
+                    ],
+                    "answer": "Nagaland"
+                },
+                {
+                    "question": "Losar festival is celebrated in:",
+                    "options": [
+                        "Arunachal Pradesh",
+                        "Goa",
+                        "Punjab",
+                        "Kerala"
+                    ],
+                    "answer": "Arunachal Pradesh"
+                },
+                {
+                    "question": "Wangala festival belongs to:",
+                    "options": [
+                        "Meghalaya",
+                        "Assam",
+                        "Bihar",
+                        "Odisha"
+                    ],
+                    "answer": "Meghalaya"
+                },
+                {
+                    "question": "Chapchar Kut is a festival of:",
+                    "options": [
+                        "Mizoram",
+                        "Manipur",
+                        "Sikkim",
+                        "Tripura"
+                    ],
+                    "answer": "Mizoram"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Yaoshang festival is associated with:",
+                    "options": [
+                        "Manipur",
+                        "Assam",
+                        "Nagaland",
+                        "Mizoram"
+                    ],
+                    "answer": "Manipur"
+                },
+                {
+                    "question": "Kharchi Puja is celebrated in:",
+                    "options": [
+                        "Tripura",
+                        "Assam",
+                        "Sikkim",
+                        "Meghalaya"
+                    ],
+                    "answer": "Tripura"
+                },
+                {
+                    "question": "Pang Lhabsol is a festival of:",
+                    "options": [
+                        "Sikkim",
+                        "Nagaland",
+                        "Manipur",
+                        "Arunachal Pradesh"
+                    ],
+                    "answer": "Sikkim"
+                },
+                {
+                    "question": "Dree festival is associated with:",
+                    "options": [
+                        "Apatani tribe",
+                        "Garo tribe",
+                        "Naga tribe",
+                        "Mizo tribe"
+                    ],
+                    "answer": "Apatani tribe"
+                },
+                {
+                    "question": "Lai Haraoba is a festival of:",
+                    "options": [
+                        "Manipur",
+                        "Assam",
+                        "Tripura",
+                        "Mizoram"
+                    ],
+                    "answer": "Manipur"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Bihu is Assam festival\n2. Hornbill is Nagaland festival\n3. Losar is Meghalaya festival",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                        "Wangala – Meghalaya",
+                        "Chapchar Kut – Assam",
+                        "Kharchi Puja – Sikkim",
+                        "Pang Lhabsol – Tripura"
+                    ],
+                    "answer": "Wangala – Meghalaya"
+                },
+                {
+                    "question": "North-East festivals are mainly based on:",
+                    "options": [
+                        "Agriculture and nature",
+                        "Industrial growth",
+                        "Political events",
+                        "Urban lifestyle"
+                    ],
+                    "answer": "Agriculture and nature"
+                },
+                {
+                    "question": "Hornbill Festival promotes:",
+                    "options": [
+                        "Tribal unity and culture",
+                        "Only agriculture",
+                        "Only religion",
+                        "Military training"
+                    ],
+                    "answer": "Tribal unity and culture"
+                },
+                {
+                    "question": "Bihu festival is linked with:",
+                    "options": [
+                        "Agricultural cycle",
+                        "War history",
+                        "Trade agreements",
+                        "Monastic rituals"
+                    ],
+                    "answer": "Agricultural cycle"
+                }
+            ]
+        }
+    }
+]

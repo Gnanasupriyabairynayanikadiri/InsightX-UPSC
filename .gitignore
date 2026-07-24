@@ -1,0 +1,89 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Database
+*.db
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build folders
+dist/
+build/
+
+# Flutter
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+# Cache
+.cache/
+.pytest_cache/
+
+# Temporary files
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# User storage
+storage/users.json
+storage/*.json
+
+# Node
+node_modules/
+
+# Expo
+.expo/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Runtime data
+frontend_streamlit/storage/*.json
+frontend_streamlit/storage/*.ipynb
+frontend_streamlit/user_state.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+
+# Expo
+.expo/

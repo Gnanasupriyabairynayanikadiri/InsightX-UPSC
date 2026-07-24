@@ -1,0 +1,679 @@
+TOPICS = [
+    {
+        "name": "Medieval India – State and Government under Akbar: Suzerainty, Central & Provincial Administration",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Akbar built a highly centralized and efficient administrative system",
+                    "His concept of sovereignty combined political authority with cultural integration",
+                    "The Mughal state under Akbar was based on strong central control with structured provincial governance",
+                    "Administrative reforms ensured stability across a vast and diverse empire",
+                    "This system became the foundation of later Mughal governance"
+                ]
+            },
+            {
+                "heading": "Akbar’s Concept of Suzerainty (Kingship)",
+                "points": [
+                    "Emperor was the supreme authority (divine-right-like authority but not theocratic)",
+                    "Sovereignty based on legitimacy, justice, and welfare of subjects",
+                    "Concept of ‘Padshah’ as universal ruler",
+                    "Emphasis on secular governance (Sulh-i-Kul)",
+                    "King seen as protector of all communities"
+                ]
+            },
+            {
+                "heading": "Features of Akbar’s Kingship",
+                "points": [
+                    "Centralized authority under emperor",
+                    "Religious neutrality in governance",
+                    "Emphasis on justice and welfare",
+                    "Strong military backing of sovereignty",
+                    "Integration of diverse social groups into administration"
+                ]
+            },
+            {
+                "heading": "Theory of Sovereignty under Akbar",
+                "points": [
+                    "King was supreme political authority",
+                    "Not bound by any religious clergy",
+                    "Authority justified through administrative efficiency",
+                    "Emphasis on ethical and moral governance",
+                    "State considered protector of harmony and order"
+                ]
+            },
+            {
+                "heading": "Structure of Government – Overview",
+                "points": [
+                    "Highly centralized administration",
+                    "Divided into Central and Provincial levels",
+                    "Efficient coordination between different departments",
+                    "Strong bureaucratic system",
+                    "Based on merit and loyalty"
+                ]
+            },
+            {
+                "heading": "Central Administration – Emperor",
+                "points": [
+                    "Emperor was head of state and government",
+                    "Final authority in law, military, and administration",
+                    "Supervised all major policy decisions",
+                    "Controlled appointments and promotions",
+                    "Maintained direct contact with officials"
+                ]
+            },
+            {
+                "heading": "Central Ministries – Overview",
+                "points": [
+                    "Important ministers assisted emperor in governance",
+                    "Each ministry had specialized functions",
+                    "System ensured administrative efficiency",
+                    "Ministers were directly responsible to emperor",
+                    "Key departments handled revenue, military, and finance"
+                ]
+            },
+            {
+                "heading": "Vakil (Vikalat) – Role",
+                "points": [
+                    "Vakil was initially the Prime Minister-like position",
+                    "Acted as chief advisor to emperor",
+                    "Supervised general administration",
+                    "During Akbar’s reign, power of Vakil was reduced",
+                    "Position became less powerful over time"
+                ]
+            },
+            {
+                "heading": "Wazir / Diwan (Finance Minister)",
+                "points": [
+                    "Head of revenue and finance department",
+                    "Managed taxation and income of empire",
+                    "Controlled expenditure of state",
+                    "Maintained financial records",
+                    "Key role in economic stability of empire"
+                ]
+            },
+            {
+                "heading": "Mir Bakshi (Military Department)",
+                "points": [
+                    "Head of military administration",
+                    "Responsible for recruitment and payment of soldiers",
+                    "Maintained mansabdari records",
+                    "Supervised intelligence system",
+                    "Ensured discipline in army"
+                ]
+            },
+            {
+                "heading": "Sadr-us-Sadur (Religious Department)",
+                "points": [
+                    "Head of religious and charitable grants",
+                    "Managed waqf and endowments",
+                    "Advised on religious matters",
+                    "Recommended scholars and qazis",
+                    "Ensured balance between state and religion"
+                ]
+            },
+            {
+                "heading": "Provincial Administration – Subas",
+                "points": [
+                    "Empire divided into provinces called Subas",
+                    "Each Suba governed by Subedar",
+                    "Centralized control with local administration",
+                    "Subas had revenue, military, and judicial officials",
+                    "Ensured efficient governance across empire"
+                ]
+            },
+            {
+                "heading": "Provincial Officers",
+                "points": [
+                    "Subedar – Governor of province",
+                    "Diwan – Revenue officer at provincial level",
+                    "Bakshi – Military officer",
+                    "Qazi – Judicial officer",
+                    "Sadr – Religious officer",
+                    "All reported to central government"
+                ]
+            },
+            {
+                "heading": "Features of Provincial Administration",
+                "points": [
+                    "Strong central control over provinces",
+                    "Regular inspection by imperial officers",
+                    "Efficient revenue collection system",
+                    "Military presence in provinces",
+                    "Judicial and administrative separation"
+                ]
+            },
+            {
+                "heading": "Central–Provincial Coordination",
+                "points": [
+                    "Provincial officers accountable to emperor",
+                    "Frequent transfer of officials",
+                    "Spy and intelligence system maintained control",
+                    "Revenue sent to central treasury",
+                    "Balanced autonomy with central authority"
+                ]
+            },
+            {
+                "heading": "Importance of Akbar’s Administration",
+                "points": [
+                    "Created strong centralized Mughal state",
+                    "Ensured political stability over large empire",
+                    "Improved revenue efficiency",
+                    "Integrated diverse regions under one system",
+                    "Model for later Mughal administration"
+                ]
+            },
+            {
+                "heading": "Significance in Indian History",
+                "points": [
+                    "Foundation of modern administrative practices",
+                    "Balance between centralization and local governance",
+                    "Integration of diverse cultures in governance",
+                    "Strengthened imperial unity",
+                    "Long-lasting administrative legacy"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Akbar’s concept of kingship was mainly based on:",
+                    "options": [
+                    "Religious dominance",
+                    "Universal sovereignty and justice",
+                    "Feudal isolation",
+                    "Colonial administration"
+                    ],
+                    "answer": "Universal sovereignty and justice"
+                },
+                {
+                    "question": "Head of Mughal finance department was:",
+                    "options": [
+                    "Mir Bakshi",
+                    "Wazir (Diwan)",
+                    "Sadr",
+                    "Subedar"
+                    ],
+                    "answer": "Wazir (Diwan)"
+                },
+                {
+                    "question": "Provincial units under Akbar were called:",
+                    "options": [
+                    "Sarkars",
+                    "Subas",
+                    "Parganas",
+                    "Doabs"
+                    ],
+                    "answer": "Subas"
+                },
+                {
+                    "question": "Mir Bakshi was responsible for:",
+                    "options": [
+                    "Religion",
+                    "Military administration",
+                    "Trade",
+                    "Education"
+                    ],
+                    "answer": "Military administration"
+                },
+                {
+                    "question": "Akbar followed policy of:",
+                    "options": [
+                    "Religious intolerance",
+                    "Sulh-i-Kul",
+                    "Jihad",
+                    "Isolationism"
+                    ],
+                    "answer": "Sulh-i-Kul"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Vakil during Akbar’s early reign was:",
+                    "options": [
+                    "Military commander",
+                    "Chief advisor to emperor",
+                    "Religious head",
+                    "Provincial governor"
+                    ],
+                    "answer": "Chief advisor to emperor"
+                },
+                {
+                    "question": "Sadr-us-Sadur dealt with:",
+                    "options": [
+                    "Revenue",
+                    "Religious and charitable matters",
+                    "Military campaigns",
+                    "Trade routes"
+                    ],
+                    "answer": "Religious and charitable matters"
+                },
+                {
+                    "question": "Main feature of Mughal provincial administration was:",
+                    "options": [
+                    "Complete independence",
+                    "Strong central control",
+                    "No taxation",
+                    "Hereditary rule"
+                    ],
+                    "answer": "Strong central control"
+                },
+                {
+                    "question": "Subedar was responsible for:",
+                    "options": [
+                    "Revenue only",
+                    "Governance of province",
+                    "Religion only",
+                    "Education only"
+                    ],
+                    "answer": "Governance of province"
+                },
+                {
+                    "question": "Akbar’s administration was based on:",
+                    "options": [
+                    "Feudal fragmentation",
+                    "Centralized bureaucracy",
+                    "Tribal system",
+                    "Colonial rule"
+                    ],
+                    "answer": "Centralized bureaucracy"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Vakil became less powerful during Akbar’s reign\n2. Subas were fully independent provinces\n3. Mir Bakshi handled military administration",
+                    "options": [
+                    "1 and 3 only",
+                    "2 and 3 only",
+                    "1 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "Akbar’s kingship was characterized by:",
+                    "options": [
+                    "Theocratic rule",
+                    "Secular and centralized authority",
+                    "Military dictatorship only",
+                    "Decentralized tribal rule"
+                    ],
+                    "answer": "Secular and centralized authority"
+                },
+                {
+                    "question": "Main objective of provincial administration was:",
+                    "options": [
+                    "Autonomy of provinces",
+                    "Efficient central control",
+                    "Foreign domination",
+                    "Religious conversion"
+                    ],
+                    "answer": "Efficient central control"
+                },
+                {
+                    "question": "Sadr-us-Sadur was responsible for:",
+                    "options": [
+                    "Justice and revenue",
+                    "Religious grants and institutions",
+                    "Military recruitment",
+                    "Trade regulation"
+                    ],
+                    "answer": "Religious grants and institutions"
+                },
+                {
+                    "question": "Akbar’s administrative system helped in:",
+                    "options": [
+                    "Empire fragmentation",
+                    "Long-term political stability",
+                    "Foreign colonization",
+                    "Decline of agriculture"
+                    ],
+                    "answer": "Long-term political stability"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Medieval India – Akbar: District & Local Government, Revenue System, Dahsala System, Mansabdari System & Army",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Akbar developed a highly structured administrative system from central to local levels",
+                    "District and local governance ensured efficient control over vast empire",
+                    "Land revenue system was the backbone of Mughal economy",
+                    "Dahsala system introduced scientific assessment of revenue",
+                    "Mansabdari system integrated civil and military administration"
+                ]
+            },
+            {
+                "heading": "Structure of Government – Overview",
+                "points": [
+                    "Centralized monarchy with emperor at top",
+                    "Provincial administration under Subas",
+                    "District-level administration for local control",
+                    "Revenue, military, and judicial functions clearly defined",
+                    "Strong bureaucratic hierarchy ensured efficiency"
+                ]
+            },
+            {
+                "heading": "Role of the Ruler (Emperor)",
+                "points": [
+                    "Supreme authority in administration and law",
+                    "Final decision-maker in military and revenue matters",
+                    "Controlled appointments and promotions",
+                    "Ensured justice and welfare of subjects",
+                    "Maintained unity of diverse empire"
+                ]
+            },
+            {
+                "heading": "District Administration – Sarkar",
+                "points": [
+                    "Each Suba divided into Sarkars (districts)",
+                    "Sarkar headed by Faujdar (military officer)",
+                    "Amalguzar handled revenue collection",
+                    "Administrative coordination between central and village levels",
+                    "Ensured law and order at district level"
+                ]
+            },
+            {
+                "heading": "Local Administration – Pargana and Village",
+                "points": [
+                    "Pargana was subdivision of Sarkar",
+                    "Officials included Shiqdar (law and order) and Amin (revenue assessment)",
+                    "Village was lowest administrative unit",
+                    "Village headman (Muqaddam) and Patwari handled records",
+                    "Panchayat system resolved local disputes"
+                ]
+            },
+            {
+                "heading": "Features of Local Government",
+                "points": [
+                    "Combination of formal and traditional institutions",
+                    "Village autonomy in day-to-day affairs",
+                    "Revenue collection integrated with local system",
+                    "Judicial functions handled locally",
+                    "Efficient coordination with central administration"
+                ]
+            },
+            {
+                "heading": "Land Revenue System – Overview",
+                "points": [
+                    "Main source of Mughal state income",
+                    "Based on agriculture productivity",
+                    "Systemized under Akbar and Todar Mal",
+                    "Fair and scientific assessment methods introduced",
+                    "Reduced exploitation of peasants"
+                ]
+            },
+            {
+                "heading": "Objectives of Revenue System",
+                "points": [
+                    "Ensure stable state income",
+                    "Prevent corruption in collection",
+                    "Protect peasant interests",
+                    "Standardize taxation across empire",
+                    "Improve agricultural productivity"
+                ]
+            },
+            {
+                "heading": "Dahsala System – Introduction",
+                "points": [
+                    "Developed by Raja Todar Mal under Akbar",
+                    "Based on 10 years average of crop yields",
+                    "Scientific method of revenue assessment",
+                    "Fixed cash or crop-based taxation",
+                    "Most advanced revenue system of its time"
+                ]
+            },
+            {
+                "heading": "Features of Dahsala System",
+                "points": [
+                    "Measurement of land (zabt system)",
+                    "Classification of land based on fertility",
+                    "Average yield calculated over 10 years",
+                    "Fixed revenue demand from peasants",
+                    "Reduced uncertainty in taxation"
+                ]
+            },
+            {
+                "heading": "Importance of Dahsala System",
+                "points": [
+                    "Ensured stable revenue for empire",
+                    "Reduced burden on peasants in bad years",
+                    "Improved agricultural planning",
+                    "Strengthened state control over economy",
+                    "Later influenced revenue systems in India"
+                ]
+            },
+            {
+                "heading": "Mansabdari System – Overview",
+                "points": [
+                    "Introduced and formalized by Akbar",
+                    "Based on rank (mansab) and salary",
+                    "Combined civil and military responsibilities",
+                    "All nobles were part of mansabdari hierarchy",
+                    "Ensured loyalty to emperor"
+                ]
+            },
+            {
+                "heading": "Features of Mansabdari System",
+                "points": [
+                    "Rank system based on numerical grading",
+                    "Zat (personal rank) and Sawar (cavalry rank)",
+                    "Nobles maintained cavalry for empire",
+                    "Transfers prevented hereditary power",
+                    "Paid through jagir assignments"
+                ]
+            },
+            {
+                "heading": "Importance of Mansabdari System",
+                "points": [
+                    "Created centralized military administration",
+                    "Reduced risk of rebellion by nobles",
+                    "Ensured efficient army structure",
+                    "Integrated civil and military services",
+                    "Strengthened emperor’s control over nobility"
+                ]
+            },
+            {
+                "heading": "Army under Akbar – Structure",
+                "points": [
+                    "Large standing army under central control",
+                    "Cavalry was most important unit",
+                    "Infantry, artillery, and elephants used",
+                    "Mansabdars maintained troops",
+                    "Strong discipline and organization"
+                ]
+            },
+            {
+                "heading": "Military Organization",
+                "points": [
+                    "Dagh system (branding of horses)",
+                    "Chehra system (soldier identification)",
+                    "Regular inspection of troops",
+                    "Efficient supply and logistics system",
+                    "Use of artillery and matchlocks"
+                ]
+            },
+            {
+                "heading": "Strengths of Mughal Army",
+                "points": [
+                    "Highly organized structure",
+                    "Large manpower from mansabdars",
+                    "Strong cavalry force",
+                    "Efficient leadership under emperor",
+                    "Ability to handle large-scale campaigns"
+                ]
+            },
+            {
+                "heading": "Importance of Administrative System",
+                "points": [
+                    "Created strong centralized empire",
+                    "Integrated revenue and military systems",
+                    "Improved governance efficiency",
+                    "Maintained political stability",
+                    "Foundation for Mughal imperial strength"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Dahsala system was introduced by:",
+                    "options": [
+                    "Akbar",
+                    "Babur",
+                    "Sher Shah",
+                    "Aurangzeb"
+                    ],
+                    "answer": "Akbar"
+                },
+                {
+                    "question": "Main feature of Mansabdari system was:",
+                    "options": [
+                    "Hereditary rule",
+                    "Rank-based administration",
+                    "Religious leadership",
+                    "Trade monopoly"
+                    ],
+                    "answer": "Rank-based administration"
+                },
+                {
+                    "question": "Village headman was called:",
+                    "options": [
+                    "Subedar",
+                    "Muqaddam",
+                    "Faujdar",
+                    "Diwan"
+                    ],
+                    "answer": "Muqaddam"
+                },
+                {
+                    "question": "Zat and Sawar were related to:",
+                    "options": [
+                    "Revenue system",
+                    "Mansabdari system",
+                    "Religious system",
+                    "Trade system"
+                    ],
+                    "answer": "Mansabdari system"
+                },
+                {
+                    "question": "Main source of Mughal income was:",
+                    "options": [
+                    "Trade",
+                    "Land revenue",
+                    "Mining",
+                    "Tribute only"
+                    ],
+                    "answer": "Land revenue"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Dahsala system was based on:",
+                    "options": [
+                    "1 year average",
+                    "10 year average",
+                    "5 year average",
+                    "Fixed religious tax"
+                    ],
+                    "answer": "10 year average"
+                },
+                {
+                    "question": "Mansabdars were paid through:",
+                    "options": [
+                    "Salary only",
+                    "Jagirs",
+                    "Trade profits",
+                    "Gold coins only"
+                    ],
+                    "answer": "Jagirs"
+                },
+                {
+                    "question": "Faujdar was responsible for:",
+                    "options": [
+                    "Religion",
+                    "Law and order at district level",
+                    "Trade",
+                    "Education"
+                    ],
+                    "answer": "Law and order at district level"
+                },
+                {
+                    "question": "Chehra system was used for:",
+                    "options": [
+                    "Revenue collection",
+                    "Soldier identification",
+                    "Religious reforms",
+                    "Tax exemption"
+                    ],
+                    "answer": "Soldier identification"
+                },
+                {
+                    "question": "Todar Mal is associated with:",
+                    "options": [
+                    "Military reforms",
+                    "Revenue reforms",
+                    "Religious reforms",
+                    "Naval reforms"
+                    ],
+                    "answer": "Revenue reforms"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Dahsala system was based on average yield of 10 years\n2. Mansabdari system combined civil and military roles\n3. Village was the highest administrative unit",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "A key objective of Mansabdari system was:",
+                    "options": [
+                    "Decentralization",
+                    "Centralized control over nobility",
+                    "Religious expansion",
+                    "Trade monopoly"
+                    ],
+                    "answer": "Centralized control over nobility"
+                },
+                {
+                    "question": "Dahsala system improved:",
+                    "options": [
+                    "Religious unity",
+                    "Revenue stability",
+                    "Foreign trade only",
+                    "Naval power"
+                    ],
+                    "answer": "Revenue stability"
+                },
+                {
+                    "question": "Mughal army strength was based on:",
+                    "options": [
+                    "Naval dominance",
+                    "Cavalry and mansabdari system",
+                    "Air force",
+                    "Mercenaries only"
+                    ],
+                    "answer": "Cavalry and mansabdari system"
+                },
+                {
+                    "question": "Akbar’s administrative system ensured:",
+                    "options": [
+                    "Fragmentation",
+                    "Centralized imperial control",
+                    "Colonial dependence",
+                    "Religious war"
+                    ],
+                    "answer": "Centralized imperial control"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,1723 @@
+TOPICS = [
+    {
+        "name": "Industrial Development in India – Features, Role of Sectors & Disinvestment",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Industrial development in India reflects a transition from state-led planning to a market-oriented economy",
+                    "It involves growth of manufacturing, infrastructure, and services linked to production",
+                    "Key actors include public sector, private sector, and foreign investors",
+                    "Focus has shifted toward efficiency, competitiveness, and employment generation"
+                ]
+            },
+            {
+                "heading": "Main Features of Industrial Development in India",
+                "points": [
+                    "Mixed economy structure with coexistence of public and private sectors",
+                    "Gradual shift from heavy industry focus to diversified industrial base",
+                    "Growth of MSMEs alongside large industries",
+                    "Increasing role of services linked industries (IT, logistics, fintech)",
+                    "Regional imbalance in industrial development persists",
+                    "Rising integration with global value chains after 1991 reforms",
+                    "Technology adoption improving but uneven across sectors"
+                ]
+            },
+            {
+                "heading": "Pre and Post Reform Industrial Structure",
+                "points": [
+                    "Pre-1991: Public sector dominance, License Raj, import substitution",
+                    "Post-1991: Liberalization, privatization, globalization (LPG)",
+                    "Shift from protection to competition",
+                    "Greater role of private and foreign investment after reforms"
+                ]
+            },
+            {
+                "heading": "Role of Private Sector in Industrial Development",
+                "points": [
+                    "Major driver of industrial growth after 1991 reforms",
+                    "Higher efficiency and productivity compared to public sector in many areas",
+                    "Key contributor in IT, automobiles, pharmaceuticals, and services-linked industries",
+                    "Attracts domestic and foreign investment",
+                    "Promotes innovation and entrepreneurship",
+                    "Creates employment in organized and informal sectors",
+                    "Important in export-led growth strategy"
+                ]
+            },
+            {
+                "heading": "Limitations of Private Sector",
+                "points": [
+                    "Focus on profit may neglect social objectives",
+                    "Regional concentration in developed states",
+                    "Low investment in infrastructure-heavy sectors",
+                    "Limited participation in high-risk strategic sectors",
+                    "Jobless growth concerns in capital-intensive industries"
+                ]
+            },
+            {
+                "heading": "Role of Public Sector in Industrial Development",
+                "points": [
+                    "Built basic and heavy industries in early planning period",
+                    "Ensures strategic control in sectors like defense, energy, railways",
+                    "Provides employment and regional development",
+                    "Supports infrastructure development",
+                    "Acts as stabilizer in economic crises",
+                    "Important for social welfare objectives"
+                ]
+            },
+            {
+                "heading": "Limitations of Public Sector",
+                "points": [
+                    "Low efficiency and productivity in many PSUs",
+                    "Bureaucratic delays in decision-making",
+                    "High financial burden on government",
+                    "Poor return on investment in several enterprises",
+                    "Lack of competition-led innovation"
+                ]
+            },
+            {
+                "heading": "Investment in Industrial Sector",
+                "points": [
+                    "Investment comes from public sector, private sector, and foreign investment",
+                    "Private investment dominates post-1991 industrial growth",
+                    "FDI plays a major role in technology and capital inflow",
+                    "Public investment focuses on infrastructure and strategic sectors",
+                    "MSMEs contribute significantly to decentralized investment",
+                    "Capital formation is key determinant of industrial growth"
+                ]
+            },
+            {
+                "heading": "Impact of Industrial Investment",
+                "points": [
+                    "Increases production capacity and GDP growth",
+                    "Creates employment opportunities",
+                    "Improves productivity and efficiency",
+                    "Encourages technological advancement",
+                    "Supports export competitiveness",
+                    "Promotes regional industrial development"
+                ]
+            },
+            {
+                "heading": "Employment in Industrial Sector",
+                "points": [
+                    "Manufacturing provides significant employment but less than services",
+                    "MSMEs are major employment generators",
+                    "Capital-intensive industries create limited jobs",
+                    "Informal sector dominates employment in many industries",
+                    "Skill mismatch affects industrial employment quality"
+                ]
+            },
+            {
+                "heading": "Productivity in Industrial Sector",
+                "points": [
+                    "Productivity varies widely across sectors",
+                    "Private sector generally more productive than public sector",
+                    "Technology adoption improves productivity",
+                    "MSMEs face productivity constraints due to scale",
+                    "Infrastructure bottlenecks reduce efficiency",
+                    "Global competition drives productivity improvements"
+                ]
+            },
+            {
+                "heading": "Profitability in Industrial Sector",
+                "points": [
+                    "Private sector focuses on profit maximization",
+                    "Public sector profitability varies across enterprises",
+                    "Efficient PSUs generate surplus, others incur losses",
+                    "Profit depends on market conditions and cost efficiency",
+                    "Global integration increases profit opportunities"
+                ]
+            },
+            {
+                "heading": "Disinvestment – Meaning",
+                "points": [
+                    "Disinvestment refers to sale of government stake in public sector enterprises",
+                    "Aims to reduce fiscal burden and improve efficiency",
+                    "Includes minority stake sale, strategic sale, and IPOs",
+                    "Part of broader privatization strategy"
+                ]
+            },
+            {
+                "heading": "Strategies of Disinvestment",
+                "points": [
+                    "Minority stake sale while retaining control",
+                    "Strategic sale involving transfer of management control",
+                    "Public offering (IPO/FPO) of PSU shares",
+                    "Asset monetization of underutilized PSU assets",
+                    "Creation of public wealth through market participation"
+                ]
+            },
+            {
+                "heading": "Privatization – Meaning",
+                "points": [
+                    "Privatization involves transfer of ownership or management from public to private sector",
+                    "Aims to improve efficiency, competitiveness, and profitability",
+                    "Reduces government role in business operations",
+                    "Encourages market-driven industrial growth"
+                ]
+            },
+            {
+                "heading": "Advantages of Privatization",
+                "points": [
+                    "Improves efficiency and productivity",
+                    "Reduces fiscal burden on government",
+                    "Encourages innovation and competition",
+                    "Attracts private and foreign investment",
+                    "Improves service quality and management practices"
+                ]
+            },
+            {
+                "heading": "Concerns in Privatization",
+                "points": [
+                    "Risk of monopoly in private hands",
+                    "Job losses in restructuring process",
+                    "Neglect of social welfare objectives",
+                    "Regional imbalance in industrial growth",
+                    "Strategic sector concerns (national security issues)"
+                ]
+            },
+            {
+                "heading": "Way Forward",
+                "points": [
+                    "Balanced approach between public and private sector roles",
+                    "Focus on strategic disinvestment rather than complete withdrawal",
+                    "Strengthen governance of PSUs",
+                    "Encourage MSME integration in industrial value chains",
+                    "Improve infrastructure and logistics",
+                    "Promote skill development for industrial workforce",
+                    "Ensure inclusive and sustainable industrial growth"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Industrial development in India is mainly based on:",
+                    "options": [
+                    "Pure market economy",
+                    "Mixed economy",
+                    "Command economy",
+                    "Feudal economy"
+                    ],
+                    "answer": "Mixed economy"
+                },
+                {
+                    "question": "Disinvestment means:",
+                    "options": [
+                    "Increasing government stake",
+                    "Selling government stake in PSUs",
+                    "Increasing taxes",
+                    "Import control"
+                    ],
+                    "answer": "Selling government stake in PSUs"
+                },
+                {
+                    "question": "Private sector is mainly driven by:",
+                    "options": [
+                    "Welfare",
+                    "Profit motive",
+                    "Political goals",
+                    "Subsidies"
+                    ],
+                    "answer": "Profit motive"
+                },
+                {
+                    "question": "MSMEs are important for:",
+                    "options": [
+                    "Employment generation",
+                    "Defense production",
+                    "Monopoly creation",
+                    "Import restriction"
+                    ],
+                    "answer": "Employment generation"
+                },
+                {
+                    "question": "Privatization aims at:",
+                    "options": [
+                    "Increasing public ownership",
+                    "Improving efficiency and competitiveness",
+                    "Stopping production",
+                    "Increasing subsidies"
+                    ],
+                    "answer": "Improving efficiency and competitiveness"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "One major issue in public sector:",
+                    "options": [
+                    "High efficiency",
+                    "Low productivity",
+                    "Excess profits",
+                    "No role"
+                    ],
+                    "answer": "Low productivity"
+                },
+                {
+                    "question": "FDI helps in:",
+                    "options": [
+                    "Reducing technology",
+                    "Capital and technology inflow",
+                    "Stopping exports",
+                    "Reducing growth"
+                    ],
+                    "answer": "Capital and technology inflow"
+                },
+                {
+                    "question": "Disinvestment is part of:",
+                    "options": [
+                    "Monetary policy",
+                    "Privatization strategy",
+                    "Agricultural policy",
+                    "Trade restriction"
+                    ],
+                    "answer": "Privatization strategy"
+                },
+                {
+                    "question": "Private sector contributes mainly to:",
+                    "options": [
+                    "Efficiency and innovation",
+                    "Bureaucracy",
+                    "Subsidies only",
+                    "Control economy"
+                    ],
+                    "answer": "Efficiency and innovation"
+                },
+                {
+                    "question": "One limitation of privatization:",
+                    "options": [
+                    "Increased efficiency",
+                    "Risk of inequality and monopoly",
+                    "More employment always",
+                    "No investment"
+                    ],
+                    "answer": "Risk of inequality and monopoly"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Private sector is profit-driven\n2. Public sector is always more efficient than private sector\n3. Disinvestment reduces fiscal burden",
+                    "options": [
+                    "1 and 3 only",
+                    "2 and 3 only",
+                    "1 and 2 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "Main objective of disinvestment:",
+                    "options": [
+                    "Increase subsidies",
+                    "Improve efficiency and reduce fiscal burden",
+                    "Stop industrial growth",
+                    "Increase imports"
+                    ],
+                    "answer": "Improve efficiency and reduce fiscal burden"
+                },
+                {
+                    "question": "Industrial productivity depends on:",
+                    "options": [
+                    "Only subsidies",
+                    "Technology and infrastructure",
+                    "Only taxes",
+                    "No investment"
+                    ],
+                    "answer": "Technology and infrastructure"
+                },
+                {
+                    "question": "Best description of Indian industrial structure:",
+                    "options": [
+                    "Pure public sector economy",
+                    "Mixed economy with dominant private sector post-1991",
+                    "No industry system",
+                    "Agriculture-based only"
+                    ],
+                    "answer": "Mixed economy with dominant private sector post-1991"
+                },
+                {
+                    "question": "Key goal of privatization:",
+                    "options": [
+                    "Reduce efficiency",
+                    "Increase competition and performance",
+                    "Increase regulation",
+                    "Reduce investment"
+                    ],
+                    "answer": "Increase competition and performance"
+                }
+            ]
+        }
+    },
+    {
+        "name": "MSME Sector in India, Government Policy, Globalization Impact & New Manufacturing Policy",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Micro, Small and Medium Enterprises (MSMEs) are the backbone of the Indian economy",
+                    "They contribute significantly to GDP, employment, exports, and industrial output",
+                    "MSMEs act as a bridge between agriculture, industry, and services",
+                    "Government policies focus on strengthening MSMEs and boosting manufacturing competitiveness"
+                ]
+            },
+            {
+                "heading": "Classification of MSMEs (as per MSME Development Act)",
+                "points": [
+                    "Micro enterprises: smallest scale units with very low investment and turnover",
+                    "Small enterprises: higher investment and production capacity than micro units",
+                    "Medium enterprises: larger units with higher capital and turnover limits",
+                    "Classification is based on investment in plant & machinery and annual turnover"
+                ]
+            },
+            {
+                "heading": "Role of MSMEs in Indian Economy",
+                "points": [
+                    "Major contributor to employment generation, especially in rural and semi-urban areas",
+                    "Significant share in India’s exports (especially textiles, leather, engineering goods)",
+                    "Promotes entrepreneurship and innovation",
+                    "Supports balanced regional development",
+                    "Acts as feeder industry to large industries",
+                    "Encourages inclusive growth by involving weaker sections of society"
+                ]
+            },
+            {
+                "heading": "Economic Importance of MSMEs",
+                "points": [
+                    "High employment intensity compared to large industries",
+                    "Low capital requirement makes them accessible for entrepreneurs",
+                    "Flexible and adaptable to market changes",
+                    "Promote local resource utilization",
+                    "Support decentralization of industrial activity"
+                ]
+            },
+            {
+                "heading": "Government Policy for MSMEs",
+                "points": [
+                    "MSME Development Act provides legal framework",
+                    "Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE)",
+                    "PM Employment Generation Programme (PMEGP)",
+                    "Udyam Registration for formalization",
+                    "Atmanirbhar Bharat package support",
+                    "Ease of doing business reforms for MSMEs"
+                ]
+            },
+            {
+                "heading": "Financial Support Policies",
+                "points": [
+                    "Priority sector lending by banks",
+                    "Collateral-free loans for MSMEs",
+                    "Mudra Yojana for micro enterprises",
+                    "SIDBI support for MSME financing",
+                    "Interest subvention schemes",
+                    "Credit guarantee schemes to reduce risk"
+                ]
+            },
+            {
+                "heading": "Main Problems of MSMEs",
+                "points": [
+                    "Limited access to formal credit",
+                    "Delayed payments from large buyers",
+                    "Technology gap and low modernization",
+                    "Poor infrastructure and logistics support",
+                    "High cost of raw materials",
+                    "Regulatory and compliance burden",
+                    "Lack of skilled labour",
+                    "Weak marketing and branding capacity"
+                ]
+            },
+            {
+                "heading": "Structural Challenges",
+                "points": [
+                    "High informality in MSME sector",
+                    "Fragmented production structure",
+                    "Low economies of scale",
+                    "Low R&D investment",
+                    "Weak integration with global value chains"
+                ]
+            },
+            {
+                "heading": "Effects of Globalization on MSMEs",
+                "points": [
+                    "Increased competition from global firms",
+                    "Access to larger export markets",
+                    "Technology transfer opportunities",
+                    "Pressure to improve quality and standards",
+                    "Risk of market displacement for small firms",
+                    "Dependence on global supply chains",
+                    "Rise of contract manufacturing opportunities"
+                ]
+            },
+            {
+                "heading": "Positive Impact of Globalization",
+                "points": [
+                    "Expanded export opportunities",
+                    "Improved technology adoption",
+                    "Better access to global finance and investment",
+                    "Integration into global value chains",
+                    "Encouragement of innovation and efficiency"
+                ]
+            },
+            {
+                "heading": "Negative Impact of Globalization",
+                "points": [
+                    "Competition from large multinational corporations",
+                    "Closure of uncompetitive MSMEs",
+                    "Pressure on pricing and margins",
+                    "Job insecurity in small units",
+                    "Unequal benefits across regions and sectors"
+                ]
+            },
+            {
+                "heading": "New Manufacturing Policy (NMP) – Overview",
+                "points": [
+                    "Launched to increase manufacturing share in GDP",
+                    "Aims to make India a global manufacturing hub",
+                    "Targets inclusive and sustainable industrial growth",
+                    "Focus on MSME integration with large industries",
+                    "Supports employment-intensive manufacturing"
+                ]
+            },
+            {
+                "heading": "Objectives of New Manufacturing Policy",
+                "points": [
+                    "Raise manufacturing share in GDP",
+                    "Create large-scale employment opportunities",
+                    "Enhance global competitiveness of Indian industries",
+                    "Promote green and sustainable manufacturing",
+                    "Develop industrial clusters and infrastructure",
+                    "Strengthen MSME ecosystem"
+                ]
+            },
+            {
+                "heading": "Key Features of NMP",
+                "points": [
+                    "National Investment and Manufacturing Zones (NIMZs)",
+                    "Skill development for industrial workforce",
+                    "Focus on infrastructure development",
+                    "Promotion of innovation and R&D",
+                    "Simplification of regulatory procedures",
+                    "Encouragement of private and foreign investment",
+                    "Environmental sustainability in manufacturing"
+                ]
+            },
+            {
+                "heading": "National Investment and Manufacturing Zones (NIMZs)",
+                "points": [
+                    "Large industrial townships with world-class infrastructure",
+                    "Integrated planning with industrial, residential, and logistics facilities",
+                    "Single window clearance system",
+                    "Focus on export-oriented manufacturing",
+                    "Designed to attract domestic and foreign investment"
+                ]
+            },
+            {
+                "heading": "Limitations of MSME Sector and NMP Implementation",
+                "points": [
+                    "Slow implementation of industrial zones",
+                    "Insufficient credit flow to MSMEs",
+                    "Infrastructure bottlenecks",
+                    "Skill mismatch in workforce",
+                    "Limited penetration of technology in small units",
+                    "Regional imbalance in industrial development"
+                ]
+            },
+            {
+                "heading": "Way Forward",
+                "points": [
+                    "Strengthen credit access for MSMEs",
+                    "Promote digitalization and technology adoption",
+                    "Develop industrial clusters and logistics infrastructure",
+                    "Improve skill development programs",
+                    "Encourage MSME participation in global value chains",
+                    "Ensure effective implementation of industrial policies",
+                    "Focus on sustainable and green manufacturing"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "MSME stands for:",
+                    "options": [
+                    "Micro, Small and Medium Enterprises",
+                    "Major Sector Manufacturing Entity",
+                    "Market Service Manufacturing Economy",
+                    "Medium Scale Market Enterprises"
+                    ],
+                    "answer": "Micro, Small and Medium Enterprises"
+                },
+                {
+                    "question": "MSMEs are important mainly for:",
+                    "options": [
+                    "Defense production",
+                    "Employment generation",
+                    "Import control",
+                    "Tax collection"
+                    ],
+                    "answer": "Employment generation"
+                },
+                {
+                    "question": "Mudra Yojana provides:",
+                    "options": [
+                    "Defense loans",
+                    "Micro enterprise credit",
+                    "Foreign investment",
+                    "Export subsidy only"
+                    ],
+                    "answer": "Micro enterprise credit"
+                },
+                {
+                    "question": "Globalization leads to:",
+                    "options": [
+                    "Isolation",
+                    "Increased global integration",
+                    "No trade",
+                    "Reduced production"
+                    ],
+                    "answer": "Increased global integration"
+                },
+                {
+                    "question": "New Manufacturing Policy aims at:",
+                    "options": [
+                    "Reducing manufacturing",
+                    "Boosting manufacturing sector",
+                    "Stopping exports",
+                    "Increasing imports"
+                    ],
+                    "answer": "Boosting manufacturing sector"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "One major MSME issue:",
+                    "options": [
+                    "Excess credit",
+                    "Limited access to finance",
+                    "Overproduction",
+                    "High exports"
+                    ],
+                    "answer": "Limited access to finance"
+                },
+                {
+                    "question": "Globalization benefits MSMEs by:",
+                    "options": [
+                    "Reducing competition",
+                    "Expanding export markets",
+                    "Stopping trade",
+                    "Increasing tariffs"
+                    ],
+                    "answer": "Expanding export markets"
+                },
+                {
+                    "question": "NIMZs are related to:",
+                    "options": [
+                    "Agriculture zones",
+                    "Industrial development zones",
+                    "Defense zones",
+                    "Forest zones"
+                    ],
+                    "answer": "Industrial development zones"
+                },
+                {
+                    "question": "One challenge of MSMEs:",
+                    "options": [
+                    "Excess modernization",
+                    "Technology gap",
+                    "Over-financing",
+                    "No demand"
+                    ],
+                    "answer": "Technology gap"
+                },
+                {
+                    "question": "MSMEs contribute significantly to:",
+                    "options": [
+                    "GDP, employment, exports",
+                    "Only imports",
+                    "Only agriculture",
+                    "Only banking"
+                    ],
+                    "answer": "GDP, employment, exports"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. MSMEs are employment intensive\n2. Globalization has no impact on MSMEs\n3. NMP promotes industrial clusters",
+                    "options": [
+                    "1 and 3 only",
+                    "2 and 3 only",
+                    "1 and 2 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "Main objective of NMP:",
+                    "options": [
+                    "Reduce manufacturing",
+                    "Increase manufacturing share in GDP",
+                    "Stop industrial growth",
+                    "Reduce exports"
+                    ],
+                    "answer": "Increase manufacturing share in GDP"
+                },
+                {
+                    "question": "One negative impact of globalization:",
+                    "options": [
+                    "Market expansion",
+                    "Increased competition for MSMEs",
+                    "Technology transfer",
+                    "Export growth"
+                    ],
+                    "answer": "Increased competition for MSMEs"
+                },
+                {
+                    "question": "Best strategy for MSME growth:",
+                    "options": [
+                    "Reduce credit access",
+                    "Improve technology and infrastructure",
+                    "Increase regulation",
+                    "Reduce production"
+                    ],
+                    "answer": "Improve technology and infrastructure"
+                },
+                {
+                    "question": "MSMEs are important because they:",
+                    "options": [
+                    "Reduce employment",
+                    "Promote inclusive growth",
+                    "Increase imports",
+                    "Reduce GDP"
+                    ],
+                    "answer": "Promote inclusive growth"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Industrial Disbursal, Industrial Corridors, SEZs & Industrial Sickness",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Industrial disbursal refers to spatial distribution of industries across regions to ensure balanced development",
+                    "Industrial corridors and SEZs are key instruments for industrial decentralization and export promotion",
+                    "Industrial sickness refers to financially unviable or non-performing industrial units",
+                    "Government policy focuses on revival, restructuring, and efficient exit mechanisms"
+                ]
+            },
+            {
+                "heading": "Industrial Disbursal – Meaning",
+                "points": [
+                    "It refers to planned distribution of industries across different regions",
+                    "Aim is to reduce regional disparities in industrial development",
+                    "Encourages balanced growth of backward and developed regions",
+                    "Supports employment generation across geography"
+                ]
+            },
+            {
+                "heading": "Challenges in Industrial Disbursal",
+                "points": [
+                    "Concentration of industries in urban and coastal regions",
+                    "Infrastructure gaps in backward areas",
+                    "Lack of skilled labour in rural regions",
+                    "Poor connectivity and logistics",
+                    "Uneven policy implementation by states"
+                ]
+            },
+            {
+                "heading": "Industrial Corridors – Concept",
+                "points": [
+                    "Industrial corridors are high-tech infrastructure networks connecting industrial clusters",
+                    "They integrate manufacturing, transport, logistics, and urban development",
+                    "Aim to improve industrial efficiency and global competitiveness",
+                    "Promote cluster-based industrial growth"
+                ]
+            },
+            {
+                "heading": "Major Industrial Corridors in India",
+                "points": [
+                    "Delhi–Mumbai Industrial Corridor (DMIC)",
+                    "Chennai–Bengaluru Industrial Corridor (CBIC)",
+                    "Bengaluru–Mumbai Economic Corridor",
+                    "Amritsar–Kolkata Industrial Corridor",
+                    "Vizag–Chennai Industrial Corridor"
+                ]
+            },
+            {
+                "heading": "Benefits of Industrial Corridors",
+                "points": [
+                    "Boosts manufacturing and exports",
+                    "Improves logistics efficiency and reduces transport cost",
+                    "Encourages foreign and domestic investment",
+                    "Creates employment opportunities",
+                    "Promotes urbanization and smart cities",
+                    "Supports regional development"
+                ]
+            },
+            {
+                "heading": "Issues in Industrial Corridors",
+                "points": [
+                    "High capital requirement and implementation delays",
+                    "Land acquisition challenges",
+                    "Environmental concerns",
+                    "Uneven regional development along corridors",
+                    "Coordination issues between states and Centre",
+                    "Slow project execution"
+                ]
+            },
+            {
+                "heading": "Special Economic Zones (SEZs) – Meaning",
+                "points": [
+                    "SEZs are designated areas with liberal economic policies",
+                    "Aimed at promoting exports and attracting foreign investment",
+                    "Provide tax incentives, infrastructure, and simplified regulations",
+                    "Operated under SEZ Act, 2005 in India"
+                ]
+            },
+            {
+                "heading": "Objectives of SEZs",
+                "points": [
+                    "Promote exports of goods and services",
+                    "Attract FDI and technology transfer",
+                    "Create employment opportunities",
+                    "Develop world-class infrastructure",
+                    "Boost economic growth through industrial clusters"
+                ]
+            },
+            {
+                "heading": "Main Issues with SEZs",
+                "points": [
+                    "Land use concerns and diversion of agricultural land",
+                    "Relocation of existing industries rather than new creation",
+                    "Limited net export gains in some cases",
+                    "Revenue loss due to tax exemptions",
+                    "Uneven geographical distribution",
+                    "Underutilization of SEZ capacity in some regions"
+                ]
+            },
+            {
+                "heading": "SEZs – Export Earnings vs Tax Revenue Loss",
+                "points": [
+                    "SEZs generate export earnings and foreign exchange",
+                    "However, tax exemptions reduce government revenue",
+                    "Net benefit depends on productivity and actual new investment",
+                    "Critics argue some SEZs lead to revenue leakage",
+                    "Supporters argue long-term gains outweigh short-term losses"
+                ]
+            },
+            {
+                "heading": "Industrial Sickness – Meaning",
+                "points": [
+                    "Industrial sickness refers to industries that become financially unviable",
+                    "Defined by continuous losses, low productivity, and inability to repay debts",
+                    "Often leads to closure or restructuring needs",
+                    "Common in MSMEs and some public sector units"
+                ]
+            },
+            {
+                "heading": "Causes of Industrial Sickness",
+                "points": [
+                    "Poor management and inefficiency",
+                    "Technological obsolescence",
+                    "High production costs",
+                    "Poor demand and market conditions",
+                    "Financial mismanagement",
+                    "Labor issues and strikes",
+                    "Delayed policy responses"
+                ]
+            },
+            {
+                "heading": "Impact of Industrial Sickness",
+                "points": [
+                    "Loss of employment",
+                    "Increase in non-performing assets (NPAs)",
+                    "Underutilization of resources",
+                    "Reduced industrial output",
+                    "Negative impact on banking sector"
+                ]
+            },
+            {
+                "heading": "Institutional Mechanisms for Sick Industries",
+                "points": [
+                    "Board for Industrial and Financial Reconstruction (BIFR) – earlier mechanism",
+                    "Sick Industrial Companies Act (SICA) framework",
+                    "Asset Reconstruction Companies (ARCs)",
+                    "SARFAESI Act for recovery of loans",
+                    "Banks-led restructuring packages",
+                    "Insolvency and Bankruptcy Code (IBC), 2016 for resolution"
+                ]
+            },
+            {
+                "heading": "Exit Policy – Meaning",
+                "points": [
+                    "Exit policy allows closure or restructuring of unviable firms",
+                    "Ensures efficient reallocation of resources",
+                    "Provides legal framework for winding up industries",
+                    "Encourages ease of doing business"
+                ]
+            },
+            {
+                "heading": "Issues in Exit Policy in India",
+                "points": [
+                    "Rigid labor laws making layoffs difficult",
+                    "Delays in insolvency resolution process",
+                    "Legal complexities in liquidation",
+                    "Social concerns regarding unemployment",
+                    "Resistance from stakeholders and unions"
+                ]
+            },
+            {
+                "heading": "Insolvency and Bankruptcy Code (IBC) – Role",
+                "points": [
+                    "Introduced time-bound resolution of stressed assets",
+                    "Improves ease of exit for failed businesses",
+                    "Strengthens creditor rights",
+                    "Encourages resolution over liquidation",
+                    "Improves credit discipline in economy"
+                ]
+            },
+            {
+                "heading": "Way Forward",
+                "points": [
+                    "Improve infrastructure and logistics in industrial corridors",
+                    "Ensure balanced regional development of SEZs",
+                    "Reform land acquisition policies",
+                    "Strengthen MSME support in industrial clusters",
+                    "Fast-track insolvency resolution under IBC",
+                    "Promote sustainable and inclusive industrialization",
+                    "Improve coordination between Centre and States"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Industrial corridors are mainly aimed at:",
+                    "options": [
+                    "Agricultural development",
+                    "Industrial and infrastructure development",
+                    "Defense production",
+                    "Tax collection"
+                    ],
+                    "answer": "Industrial and infrastructure development"
+                },
+                {
+                    "question": "SEZ stands for:",
+                    "options": [
+                    "Special Economic Zone",
+                    "State Export Zone",
+                    "Small Enterprise Zone",
+                    "Strategic Economic Zone"
+                    ],
+                    "answer": "Special Economic Zone"
+                },
+                {
+                    "question": "Industrial sickness refers to:",
+                    "options": [
+                    "Highly profitable industries",
+                    "Financially unviable industries",
+                    "Export industries",
+                    "New startups only"
+                    ],
+                    "answer": "Financially unviable industries"
+                },
+                {
+                    "question": "IBC stands for:",
+                    "options": [
+                    "Industrial Banking Code",
+                    "Insolvency and Bankruptcy Code",
+                    "International Business Council",
+                    "Investment and Business Code"
+                    ],
+                    "answer": "Insolvency and Bankruptcy Code"
+                },
+                {
+                    "question": "One major objective of SEZs:",
+                    "options": [
+                    "Reduce exports",
+                    "Promote exports and FDI",
+                    "Increase taxes",
+                    "Stop industrial growth"
+                    ],
+                    "answer": "Promote exports and FDI"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "One issue in SEZ development:",
+                    "options": [
+                    "Excess employment",
+                    "Land acquisition problems",
+                    "No investment",
+                    "No production"
+                    ],
+                    "answer": "Land acquisition problems"
+                },
+                {
+                    "question": "Industrial corridors help in:",
+                    "options": [
+                    "Increasing logistics cost",
+                    "Reducing infrastructure efficiency",
+                    "Improving connectivity and industrial growth",
+                    "Reducing trade"
+                    ],
+                    "answer": "Improving connectivity and industrial growth"
+                },
+                {
+                    "question": "Industrial sickness leads to:",
+                    "options": [
+                    "Job creation",
+                    "NPA increase",
+                    "Higher exports",
+                    "No impact"
+                    ],
+                    "answer": "NPA increase"
+                },
+                {
+                    "question": "Exit policy helps in:",
+                    "options": [
+                    "Freezing industries",
+                    "Closing unviable firms efficiently",
+                    "Increasing subsidies",
+                    "Reducing production"
+                    ],
+                    "answer": "Closing unviable firms efficiently"
+                },
+                {
+                    "question": "BIFR was related to:",
+                    "options": [
+                    "Banking reforms",
+                    "Industrial sickness rehabilitation",
+                    "Taxation",
+                    "Trade policy"
+                    ],
+                    "answer": "Industrial sickness rehabilitation"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. SEZs are meant to promote exports\n2. Industrial corridors improve logistics efficiency\n3. Industrial sickness always leads to profit growth",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Main challenge in SEZs:",
+                    "options": [
+                    "Excess exports",
+                    "Revenue loss due to tax exemptions",
+                    "No infrastructure",
+                    "No investment"
+                    ],
+                    "answer": "Revenue loss due to tax exemptions"
+                },
+                {
+                    "question": "Industrial corridors primarily aim at:",
+                    "options": [
+                    "Rural development only",
+                    "Integrated industrial growth",
+                    "Import restriction",
+                    "Tax reduction only"
+                    ],
+                    "answer": "Integrated industrial growth"
+                },
+                {
+                    "question": "IBC improves:",
+                    "options": [
+                    "Loan recovery and insolvency resolution",
+                    "Agricultural output",
+                    "Tax collection only",
+                    "Trade barriers"
+                    ],
+                    "answer": "Loan recovery and insolvency resolution"
+                },
+                {
+                    "question": "Best description of industrial restructuring tools:",
+                    "options": [
+                    "SEZs and corridors promote growth; IBC handles failures",
+                    "Only SEZs promote agriculture",
+                    "Only corridors reduce exports",
+                    "No policy relevance"
+                    ],
+                    "answer": "SEZs and corridors promote growth; IBC handles failures"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Constraints in Industrial Development of India & Impact of Globalization, Subprime Crisis & Sovereign Debt Crisis",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Industrial development in India faces structural, financial, infrastructural, and policy-related constraints",
+                    "Globalization has created both opportunities and challenges for Indian industries",
+                    "External shocks like the 2008 Subprime Crisis and Sovereign Debt Crisis affected industrial growth and investment flows",
+                    "Understanding these factors is important for GS Paper 3 (Economy and Industry)"
+                ]
+            },
+            {
+                "heading": "Main Constraints in Industrial Development of India",
+                "points": [
+                    "Infrastructure bottlenecks in power, transport, logistics, and warehousing",
+                    "High cost of credit and limited access to affordable finance",
+                    "Regulatory and compliance burden despite reforms",
+                    "Slow pace of land acquisition and land use conflicts",
+                    "Skill gaps and shortage of trained workforce",
+                    "Technological backwardness in MSMEs and traditional industries",
+                    "Regional imbalance in industrial growth",
+                    "Low R&D expenditure and innovation capacity",
+                    "Environmental regulations and sustainability constraints",
+                    "Dependence on imports for critical inputs and capital goods"
+                ]
+            },
+            {
+                "heading": "Financial Constraints",
+                "points": [
+                    "High interest rates affecting industrial borrowing",
+                    "Stress in banking sector and rise of NPAs",
+                    "Limited venture capital for manufacturing startups",
+                    "Poor credit availability for MSMEs",
+                    "Delayed payments affecting working capital cycle"
+                ]
+            },
+            {
+                "heading": "Structural Constraints",
+                "points": [
+                    "Dominance of small-scale informal sector in manufacturing",
+                    "Low economies of scale in many industries",
+                    "Fragmented supply chains",
+                    "Uneven industrial distribution across states",
+                    "Overdependence on few sectors like services"
+                ]
+            },
+            {
+                "heading": "Institutional Constraints",
+                "points": [
+                    "Multiplicity of approvals and regulatory delays",
+                    "Weak implementation of industrial policies at state level",
+                    "Labor law complexities (though reforms are ongoing)",
+                    "Judicial delays in industrial dispute resolution",
+                    "Limited coordination between Centre and States"
+                ]
+            },
+            {
+                "heading": "Effects of Globalization on Indian Industries",
+                "points": [
+                    "Increased competition from multinational corporations",
+                    "Expansion of export markets for Indian industries",
+                    "Technology transfer and modernization of production",
+                    "Integration into global value chains",
+                    "Rise of outsourcing and contract manufacturing",
+                    "Pressure to meet international quality standards"
+                ]
+            },
+            {
+                "heading": "Positive Effects of Globalization",
+                "points": [
+                    "Greater foreign direct investment (FDI) inflows",
+                    "Improved productivity and efficiency",
+                    "Access to global markets and customers",
+                    "Technological upgradation in industries",
+                    "Growth of export-oriented sectors like IT, pharma, textiles"
+                ]
+            },
+            {
+                "heading": "Negative Effects of Globalization",
+                "points": [
+                    "Intense competition leading to closure of weak domestic firms",
+                    "Dependence on global supply chains",
+                    "Unequal benefits across sectors and regions",
+                    "Job insecurity in vulnerable industries",
+                    "Pressure on small and medium enterprises"
+                ]
+            },
+            {
+                "heading": "Subprime Crisis (2008) – Overview",
+                "points": [
+                    "Originated in the United States due to collapse of housing market",
+                    "Triggered global financial crisis affecting banking and credit systems",
+                    "Led to liquidity crunch and decline in global demand",
+                    "India was affected indirectly through trade and financial channels"
+                ]
+            },
+            {
+                "heading": "Impact of Subprime Crisis on Indian Industry",
+                "points": [
+                    "Decline in export demand, especially IT, textiles, and manufacturing",
+                    "Reduction in foreign capital inflows and FDI slowdown",
+                    "Stock market volatility affecting investor confidence",
+                    "Credit tightening in domestic banking system",
+                    "Industrial slowdown in export-oriented sectors",
+                    "Rupee depreciation pressure"
+                ]
+            },
+            {
+                "heading": "Lessons from Subprime Crisis",
+                "points": [
+                    "Need for stronger financial regulation",
+                    "Diversification of export markets",
+                    "Building domestic demand resilience",
+                    "Prudent risk management in banking sector",
+                    "Importance of macroeconomic stability"
+                ]
+            },
+            {
+                "heading": "Sovereign Debt Crisis – Overview",
+                "points": [
+                    "Refers to situation where countries are unable to repay their debt obligations",
+                    "Major example: Eurozone crisis (Greece, Italy, Spain, Portugal)",
+                    "Led to fiscal austerity and reduced global demand",
+                    "Affected global trade and investment flows"
+                ]
+            },
+            {
+                "heading": "Impact of Sovereign Debt Crisis on India",
+                "points": [
+                    "Reduced demand from European markets affecting exports",
+                    "Slowdown in industrial production in export sectors",
+                    "Volatility in foreign investment flows",
+                    "Uncertainty in global financial markets",
+                    "Pressure on Indian currency and trade balance"
+                ]
+            },
+            {
+                "heading": "Combined Impact on Indian Industry",
+                "points": [
+                    "Temporary slowdown in industrial growth",
+                    "Export-oriented industries faced demand shocks",
+                    "Increased focus on domestic market-driven growth",
+                    "Greater emphasis on economic self-reliance (Atmanirbhar Bharat)",
+                    "Need for diversification of trade partners"
+                ]
+            },
+            {
+                "heading": "Policy Response by India",
+                "points": [
+                    "Fiscal stimulus packages during global downturns",
+                    "Monetary easing by RBI to support credit flow",
+                    "Boost to infrastructure investment",
+                    "Promotion of Make in India initiative",
+                    "Export incentives and trade diversification strategies"
+                ]
+            },
+            {
+                "heading": "Way Forward",
+                "points": [
+                    "Strengthen domestic industrial base and supply chains",
+                    "Improve ease of doing business and regulatory environment",
+                    "Enhance skill development and workforce productivity",
+                    "Promote MSMEs and innovation-driven industries",
+                    "Diversify export markets to reduce external shocks",
+                    "Increase resilience against global financial crises"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "One major constraint in industrial development in India is:",
+                    "options": [
+                    "Excess exports",
+                    "Infrastructure bottlenecks",
+                    "No demand",
+                    "No industries"
+                    ],
+                    "answer": "Infrastructure bottlenecks"
+                },
+                {
+                    "question": "Globalization mainly leads to:",
+                    "options": [
+                    "Isolation",
+                    "Global integration",
+                    "Trade ban",
+                    "No production"
+                    ],
+                    "answer": "Global integration"
+                },
+                {
+                    "question": "Subprime crisis originated in:",
+                    "options": [
+                    "India",
+                    "USA",
+                    "China",
+                    "Japan"
+                    ],
+                    "answer": "USA"
+                },
+                {
+                    "question": "Sovereign debt crisis mainly refers to:",
+                    "options": [
+                    "Corporate debt",
+                    "Government debt crisis",
+                    "Bank loans only",
+                    "Agricultural loans"
+                    ],
+                    "answer": "Government debt crisis"
+                },
+                {
+                    "question": "One effect of globalization on industries:",
+                    "options": [
+                    "No competition",
+                    "Increased competition",
+                    "No trade",
+                    "No investment"
+                    ],
+                    "answer": "Increased competition"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Subprime crisis affected India mainly through:",
+                    "options": [
+                    "Agriculture sector",
+                    "Trade and financial channels",
+                    "Defense sector",
+                    "Public distribution system"
+                    ],
+                    "answer": "Trade and financial channels"
+                },
+                {
+                    "question": "One major benefit of globalization:",
+                    "options": [
+                    "Reduced exports",
+                    "Technology transfer",
+                    "No investment",
+                    "Isolation"
+                    ],
+                    "answer": "Technology transfer"
+                },
+                {
+                    "question": "Sovereign debt crisis reduced:",
+                    "options": [
+                    "Global demand",
+                    "Domestic production only",
+                    "Agricultural output",
+                    "Population"
+                    ],
+                    "answer": "Global demand"
+                },
+                {
+                    "question": "MSMEs are affected by globalization due to:",
+                    "options": [
+                    "Excess subsidies",
+                    "Foreign competition",
+                    "No markets",
+                    "No labour"
+                    ],
+                    "answer": "Foreign competition"
+                },
+                {
+                    "question": "One policy response to global crisis:",
+                    "options": [
+                    "Fiscal stimulus",
+                    "Trade ban",
+                    "No reforms",
+                    "Import restriction only"
+                    ],
+                    "answer": "Fiscal stimulus"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Subprime crisis originated in USA\n2. Sovereign debt crisis affects government borrowing capacity\n3. Globalization reduces industrial competition",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Main industrial impact of global crises:",
+                    "options": [
+                    "Increase in exports always",
+                    "Decline in demand and investment",
+                    "No effect on economy",
+                    "Increase in production only"
+                    ],
+                    "answer": "Decline in demand and investment"
+                },
+                {
+                    "question": "Best strategy to reduce external shocks:",
+                    "options": [
+                    "Export dependency increase",
+                    "Domestic demand strengthening",
+                    "No trade",
+                    "Higher tariffs only"
+                    ],
+                    "answer": "Domestic demand strengthening"
+                },
+                {
+                    "question": "One structural constraint in India:",
+                    "options": [
+                    "High innovation",
+                    "Infrastructure bottlenecks",
+                    "Excess skilled labor",
+                    "Over-industrialization"
+                    ],
+                    "answer": "Infrastructure bottlenecks"
+                },
+                {
+                    "question": "Globalization has led to:",
+                    "options": [
+                    "Industrial isolation",
+                    "Integration into global value chains",
+                    "No trade relations",
+                    "Decline in technology"
+                    ],
+                    "answer": "Integration into global value chains"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Industrial Finance in India & Make in India Achievements",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Industrial finance is the backbone of industrial development and entrepreneurship",
+                    "It includes long-term, medium-term, and short-term financing for industries",
+                    "Multiple institutions like banks, development banks, venture capital, and angel investors play key roles",
+                    "Make in India initiative focuses on transforming India into a global manufacturing hub"
+                ]
+            },
+            {
+                "heading": "Meaning of Industrial Finance",
+                "points": [
+                    "Provision of funds required for setting up, expansion, and modernization of industries",
+                    "Includes equity finance, debt finance, and hybrid instruments",
+                    "Essential for capital formation and industrial growth",
+                    "Supports both large industries and MSMEs"
+                ]
+            },
+            {
+                "heading": "Role of Development Banks in Industrial Finance",
+                "points": [
+                    "Provide long-term finance for industrial projects",
+                    "Support infrastructure and heavy industries",
+                    "Offer project appraisal and technical guidance",
+                    "Promote balanced regional development",
+                    "Examples: IDBI, SIDBI, IFCI"
+                ]
+            },
+            {
+                "heading": "Importance of Development Banks",
+                "points": [
+                    "Fill gap in long-term industrial credit",
+                    "Support high-risk and long-gestation projects",
+                    "Encourage industrial modernization",
+                    "Promote entrepreneurship in capital-intensive sectors"
+                ]
+            },
+            {
+                "heading": "Role of Commercial Banks in Industrial Finance",
+                "points": [
+                    "Provide working capital and short-term loans",
+                    "Fund medium and small industries",
+                    "Support trade and production activities",
+                    "Offer credit under priority sector lending",
+                    "Play key role in MSME financing"
+                ]
+            },
+            {
+                "heading": "Limitations of Commercial Banks",
+                "points": [
+                    "Preference for short-term lending over long-term industrial loans",
+                    "Risk aversion in financing MSMEs",
+                    "High collateral requirements",
+                    "NPA concerns reduce lending capacity"
+                ]
+            },
+            {
+                "heading": "Venture Capital in Industrialization",
+                "points": [
+                    "Provides equity financing to high-risk startups",
+                    "Supports innovative and technology-based industries",
+                    "Encourages entrepreneurship in emerging sectors",
+                    "Helps in scaling up startups",
+                    "Important for IT, biotech, fintech industries"
+                ]
+            },
+            {
+                "heading": "Role of Venture Capital",
+                "points": [
+                    "Finances early-stage companies with growth potential",
+                    "Provides managerial and strategic support",
+                    "Encourages innovation and R&D",
+                    "Bridges financing gap for startups"
+                ]
+            },
+            {
+                "heading": "Angel Capital / Angel Investors",
+                "points": [
+                    "High-net-worth individuals investing in startups",
+                    "Provide seed funding at early stages",
+                    "Offer mentorship and business guidance",
+                    "Higher risk tolerance than institutional investors",
+                    "Important for startup ecosystem growth"
+                ]
+            },
+            {
+                "heading": "Role of Angel Investors in Entrepreneurship",
+                "points": [
+                    "Support idea-stage and early-stage ventures",
+                    "Encourage innovation-driven startups",
+                    "Provide networking opportunities",
+                    "Help in validation of business models",
+                    "Act as bridge between idea and venture capital funding"
+                ]
+            },
+            {
+                "heading": "Overall Role of Industrial Finance in Entrepreneurship",
+                "points": [
+                    "Ensures availability of capital at different stages of business",
+                    "Promotes innovation and industrial diversification",
+                    "Supports MSME and startup ecosystem",
+                    "Enhances employment generation",
+                    "Drives economic growth and industrial expansion"
+                ]
+            },
+            {
+                "heading": "Challenges in Industrial Finance",
+                "points": [
+                    "Credit gap in MSME sector",
+                    "High cost of borrowing",
+                    "Risk aversion of financial institutions",
+                    "Poor financial literacy among entrepreneurs",
+                    "Limited access to venture and angel funding in rural areas",
+                    "Non-performing assets affecting lending capacity"
+                ]
+            },
+            {
+                "heading": "Make in India – Overview",
+                "points": [
+                    "Launched in 2014 to transform India into a global manufacturing hub",
+                    "Focuses on boosting manufacturing, innovation, and investment",
+                    "Encourages domestic and foreign investment",
+                    "Aims to increase manufacturing share in GDP"
+                ]
+            },
+            {
+                "heading": "Objectives of Make in India",
+                "points": [
+                    "Increase manufacturing sector growth",
+                    "Create employment opportunities",
+                    "Enhance ease of doing business",
+                    "Attract FDI and domestic investment",
+                    "Promote innovation and skill development",
+                    "Develop global competitiveness"
+                ]
+            },
+            {
+                "heading": "Achievements of Make in India",
+                "points": [
+                    "Increase in FDI inflows in manufacturing and services",
+                    "Growth in automobile, electronics, and defense manufacturing",
+                    "Improved ranking in Ease of Doing Business (pre-2020 improvements)",
+                    "Expansion of industrial corridors and SEZ infrastructure",
+                    "Growth of startup ecosystem under Startup India synergy",
+                    "Rise in mobile phone manufacturing in India",
+                    "Boost in defense production under Atmanirbhar Bharat push"
+                ]
+            },
+            {
+                "heading": "Sectoral Achievements",
+                "points": [
+                    "Electronics: India became major mobile manufacturing hub",
+                    "Automobiles: Growth in domestic production and exports",
+                    "Defense: Increased indigenous production and exports",
+                    "Textiles: Expansion of export-oriented units",
+                    "Pharmaceuticals: Strengthened global supply position"
+                ]
+            },
+            {
+                "heading": "Challenges in Make in India",
+                "points": [
+                    "Slow growth of manufacturing share in GDP",
+                    "Infrastructure bottlenecks",
+                    "Skill mismatch in workforce",
+                    "Dependence on imported intermediate goods",
+                    "Regulatory delays in some sectors",
+                    "Global supply chain disruptions"
+                ]
+            },
+            {
+                "heading": "Way Forward",
+                "points": [
+                    "Strengthen industrial financing ecosystem for startups and MSMEs",
+                    "Promote venture capital and angel investment networks",
+                    "Improve credit access through banking reforms",
+                    "Enhance industrial infrastructure and logistics",
+                    "Focus on skill development and innovation",
+                    "Deepen integration into global value chains",
+                    "Strengthen Make in India through PLI and export incentives"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Development banks mainly provide:",
+                    "options": [
+                    "Short-term loans",
+                    "Long-term industrial finance",
+                    "Only agricultural loans",
+                    "Only trade finance"
+                    ],
+                    "answer": "Long-term industrial finance"
+                },
+                {
+                    "question": "Venture capital mainly supports:",
+                    "options": [
+                    "Government projects",
+                    "High-risk startups",
+                    "Only agriculture",
+                    "Only banking sector"
+                    ],
+                    "answer": "High-risk startups"
+                },
+                {
+                    "question": "Angel investors are usually:",
+                    "options": [
+                    "Government agencies",
+                    "High-net-worth individuals",
+                    "Banks only",
+                    "Foreign governments"
+                    ],
+                    "answer": "High-net-worth individuals"
+                },
+                {
+                    "question": "Make in India was launched in:",
+                    "options": [
+                    "2005",
+                    "2010",
+                    "2014",
+                    "2020"
+                    ],
+                    "answer": "2014"
+                },
+                {
+                    "question": "Industrial finance is essential for:",
+                    "options": [
+                    "Agricultural production",
+                    "Industrial development",
+                    "Only trade",
+                    "Tax collection"
+                    ],
+                    "answer": "Industrial development"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "SIDBI mainly supports:",
+                    "options": [
+                    "Large industries",
+                    "MSMEs",
+                    "Agriculture",
+                    "Imports"
+                    ],
+                    "answer": "MSMEs"
+                },
+                {
+                    "question": "One key feature of venture capital:",
+                    "options": [
+                    "Low risk investment",
+                    "High-risk high-return investment",
+                    "Government subsidy",
+                    "Trade finance only"
+                    ],
+                    "answer": "High-risk high-return investment"
+                },
+                {
+                    "question": "Make in India aims to:",
+                    "options": [
+                    "Reduce manufacturing",
+                    "Promote manufacturing",
+                    "Stop exports",
+                    "Reduce FDI"
+                    ],
+                    "answer": "Promote manufacturing"
+                },
+                {
+                    "question": "Commercial banks mainly provide:",
+                    "options": [
+                    "Long-term equity",
+                    "Working capital finance",
+                    "Only grants",
+                    "Only subsidies"
+                    ],
+                    "answer": "Working capital finance"
+                },
+                {
+                    "question": "One achievement of Make in India:",
+                    "options": [
+                    "Decline in FDI",
+                    "Growth in mobile manufacturing",
+                    "No industrial growth",
+                    "Export ban"
+                    ],
+                    "answer": "Growth in mobile manufacturing"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Venture capital supports startups\n2. Angel investors provide seed funding\n3. Development banks provide only short-term loans",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Main objective of industrial finance:",
+                    "options": [
+                    "Reduce investment",
+                    "Support industrial growth and entrepreneurship",
+                    "Stop startups",
+                    "Increase taxes"
+                    ],
+                    "answer": "Support industrial growth and entrepreneurship"
+                },
+                {
+                    "question": "Make in India is closely linked with:",
+                    "options": [
+                    "Import substitution only",
+                    "Industrial growth and FDI",
+                    "Agricultural reform",
+                    "Banking regulation"
+                    ],
+                    "answer": "Industrial growth and FDI"
+                },
+                {
+                    "question": "Main limitation of MSME financing:",
+                    "options": [
+                    "Excess credit availability",
+                    "Credit gap and collateral issues",
+                    "Overinvestment",
+                    "No demand"
+                    ],
+                    "answer": "Credit gap and collateral issues"
+                },
+                {
+                    "question": "Best description of industrial financing ecosystem:",
+                    "options": [
+                    "Only banks involved",
+                    "Multi-institutional system including banks, VC, angel investors",
+                    "Only government funding",
+                    "No financial system"
+                    ],
+                    "answer": "Multi-institutional system including banks, VC, angel investors"
+                }
+            ]
+        }
+    }
+]

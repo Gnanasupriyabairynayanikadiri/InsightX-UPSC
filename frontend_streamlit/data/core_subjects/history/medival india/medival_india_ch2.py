@@ -1,0 +1,1051 @@
+TOPICS = [
+    {
+        "name": "Medieval India – Cholas and Other South Indian Kingdoms: Chola Rulers, Political History & Administration",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "The Cholas represent one of the most powerful and well-organized South Indian dynasties (c. 9th–13th century CE)",
+                    "They established a strong centralized administration with efficient governance",
+                    "Known for naval power, overseas trade, and temple architecture",
+                    "Along with Cholas, other South Indian kingdoms like Pandyas and Cheras continued to exist",
+                    "Chola period is considered a golden age of South Indian history"
+                ]
+            },
+            {
+                "heading": "Chola Empire – Background",
+                "points": [
+                    "Early Cholas existed during Sangam age, but imperial Cholas rose in 9th century CE",
+                    "Founded by Vijayalaya Chola in 850 CE",
+                    "Capital: Thanjavur (later Gangaikonda Cholapuram)",
+                    "Reached peak between 10th–11th century CE",
+                    "Strong maritime and military expansion"
+                ]
+            },
+            {
+                "heading": "Chola Rulers – Overview",
+                "points": [
+                    "Vijayalaya Chola – founder of imperial Chola dynasty",
+                    "Aditya I – expanded Chola power",
+                    "Parantaka I – consolidated empire",
+                    "Rajaraja Chola I – greatest Chola ruler",
+                    "Rajendra Chola I – extended empire overseas"
+                ]
+            },
+            {
+                "heading": "Rajaraja Chola I (985–1014 CE)",
+                "points": [
+                    "Expanded Chola empire across South India",
+                    "Conquered parts of Sri Lanka and Maldives",
+                    "Built Brihadeeswarar Temple at Thanjavur",
+                    "Strengthened navy and administration",
+                    "Established efficient revenue system"
+                ]
+            },
+            {
+                "heading": "Rajendra Chola I (1014–1044 CE)",
+                "points": [
+                    "Extended Chola influence up to Ganga river in North India",
+                    "Defeated Pala rulers of Bengal",
+                    "Founded Gangaikonda Cholapuram",
+                    "Conducted naval expeditions to Southeast Asia",
+                    "Strengthened overseas trade and diplomacy"
+                ]
+            },
+            {
+                "heading": "Chola Political History",
+                "points": [
+                    "Strong centralized monarchy system",
+                    "King was supreme military and administrative authority",
+                    "Efficient bureaucracy supported governance",
+                    "Frequent military campaigns for expansion",
+                    "Well-organized provincial administration"
+                ]
+            },
+            {
+                "heading": "Chola Military System",
+                "points": [
+                    "Powerful standing army and navy",
+                    "Infantry, cavalry, and elephant divisions",
+                    "Strong naval dominance in Indian Ocean",
+                    "Overseas expeditions to Southeast Asia",
+                    "Military supported by revenue from agriculture and trade"
+                ]
+            },
+            {
+                "heading": "Chola Administration – Overview",
+                "points": [
+                    "Highly organized and efficient administrative system",
+                    "Combination of central authority and local self-government",
+                    "Revenue administration based on land assessment",
+                    "Village autonomy was a key feature",
+                    "Well-documented through inscriptions"
+                ]
+            },
+            {
+                "heading": "Central Administration",
+                "points": [
+                    "King was the supreme authority",
+                    "Council of ministers assisted governance",
+                    "Efficient bureaucracy for revenue and military",
+                    "Royal orders were implemented through officials",
+                    "Strong emphasis on law and order"
+                ]
+            },
+            {
+                "heading": "Provincial Administration",
+                "points": [
+                    "Empire divided into Mandalams (provinces)",
+                    "Further divided into Valanadus and Nadus",
+                    "Officials appointed by the king governed provinces",
+                    "Some autonomy at local levels",
+                    "Efficient tax collection system"
+                ]
+            },
+            {
+                "heading": "Village Administration",
+                "points": [
+                    "Chola villages had strong self-government",
+                    "Sabha (Brahmin villages) and Ur (non-Brahmin villages)",
+                    "Elected committees managed local affairs",
+                    "Land and water management handled locally",
+                    "Example of early democratic practices"
+                ]
+            },
+            {
+                "heading": "Revenue Administration",
+                "points": [
+                    "Land revenue was main source of income",
+                    "Detailed land survey and classification system",
+                    "Taxes collected in kind and cash",
+                    "Efficient record-keeping system",
+                    "Revenue supported military and temples"
+                ]
+            },
+            {
+                "heading": "Judicial System",
+                "points": [
+                    "King was the highest judicial authority",
+                    "Local disputes resolved by village assemblies",
+                    "Punishments were based on customary laws",
+                    "Emphasis on fairness and order",
+                    "Religious institutions also played role in justice"
+                ]
+            },
+            {
+                "heading": "Chola Economy",
+                "points": [
+                    "Agriculture was backbone of economy",
+                    "Well-developed irrigation system (especially Kaveri delta)",
+                    "Strong internal and external trade",
+                    "Maritime trade with Southeast Asia",
+                    "Guilds (nagaram) controlled commerce"
+                ]
+            },
+            {
+                "heading": "Chola Society",
+                "points": [
+                    "Caste system was well established",
+                    "Brahmins enjoyed high status",
+                    "Village communities were socially active",
+                    "Women had participation in religious and cultural life",
+                    "Agrarian society with strong temple influence"
+                ]
+            },
+            {
+                "heading": "Religion and Culture",
+                "points": [
+                    "Hinduism (Shaivism and Vaishnavism) was dominant",
+                    "Temples were cultural and economic centers",
+                    "Buddhism and Jainism declined during this period",
+                    "Patronage of Tamil literature",
+                    "Bhakti movement began gaining influence"
+                ]
+            },
+            {
+                "heading": "Art and Architecture",
+                "points": [
+                    "Dravidian temple architecture reached peak",
+                    "Brihadeeswarar Temple (Thanjavur) is UNESCO site",
+                    "Massive stone temples with intricate sculptures",
+                    "Bronze sculptures of Nataraja are famous",
+                    "Temple architecture symbolized political power"
+                ]
+            },
+            {
+                "heading": "Chola Overseas Expansion",
+                "points": [
+                    "Naval expeditions to Sri Lanka and Southeast Asia",
+                    "Influence over Srivijaya empire",
+                    "Trade links with China and Arab world",
+                    "Control over Indian Ocean trade routes",
+                    "Spread of Indian culture to Southeast Asia"
+                ]
+            },
+            {
+                "heading": "Decline of Cholas",
+                "points": [
+                    "Rise of Pandyas and Hoysalas",
+                    "Weak successors after Kulottunga I",
+                    "Internal administrative issues",
+                    "Loss of overseas control",
+                    "End of dynasty by 13th century CE"
+                ]
+            },
+            {
+                "heading": "Significance of Chola Empire",
+                "points": [
+                    "Model of efficient administration and governance",
+                    "Strong naval power and overseas trade",
+                    "Development of Dravidian temple architecture",
+                    "Promotion of Tamil culture and literature",
+                    "Important example of decentralized yet efficient administration"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Founder of Imperial Chola dynasty was:",
+                    "options": [
+                    "Rajaraja Chola I",
+                    "Vijayalaya Chola",
+                    "Rajendra Chola I",
+                    "Aditya I"
+                    ],
+                    "answer": "Vijayalaya Chola"
+                },
+                {
+                    "question": "Capital of Rajaraja Chola I was:",
+                    "options": [
+                    "Kanchipuram",
+                    "Thanjavur",
+                    "Madurai",
+                    "Delhi"
+                    ],
+                    "answer": "Thanjavur"
+                },
+                {
+                    "question": "Brihadeeswarar Temple was built by:",
+                    "options": [
+                    "Rajendra Chola I",
+                    "Rajaraja Chola I",
+                    "Pulakesin II",
+                    "Harsha"
+                    ],
+                    "answer": "Rajaraja Chola I"
+                },
+                {
+                    "question": "Chola administration was famous for:",
+                    "options": [
+                    "Centralized bureaucracy only",
+                    "Village self-government",
+                    "Nomadic rule",
+                    "Military dictatorship"
+                    ],
+                    "answer": "Village self-government"
+                },
+                {
+                    "question": "Main economic base of Chola empire was:",
+                    "options": [
+                    "Mining",
+                    "Agriculture",
+                    "Industry",
+                    "Hunting"
+                    ],
+                    "answer": "Agriculture"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Chola empire reached its peak under:",
+                    "options": [
+                    "Vijayalaya Chola",
+                    "Rajaraja Chola I",
+                    "Pulakesin II",
+                    "Ashoka"
+                    ],
+                    "answer": "Rajaraja Chola I"
+                },
+                {
+                    "question": "Chola provinces were called:",
+                    "options": [
+                    "Janapadas",
+                    "Mandalams",
+                    "Mahajanapadas",
+                    "Satrapies"
+                    ],
+                    "answer": "Mandalams"
+                },
+                {
+                    "question": "Chola naval expeditions were mainly directed to:",
+                    "options": [
+                    "Europe",
+                    "Southeast Asia",
+                    "Africa",
+                    "Central Asia"
+                    ],
+                    "answer": "Southeast Asia"
+                },
+                {
+                    "question": "Chola village assemblies were called:",
+                    "options": [
+                    "Sabha and Ur",
+                    "Janapada",
+                    "Samiti",
+                    "Mahasabha"
+                    ],
+                    "answer": "Sabha and Ur"
+                },
+                {
+                    "question": "Famous Chola bronze sculpture is of:",
+                    "options": [
+                    "Buddha",
+                    "Nataraja",
+                    "Mahavira",
+                    "Ashoka"
+                    ],
+                    "answer": "Nataraja"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Cholas had a strong navy\n2. Village self-government was a key feature\n3. Cholas ruled North India completely",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "A major feature of Chola administration was:",
+                    "options": [
+                    "Centralized monarchy only",
+                    "Decentralized village governance",
+                    "Republic system",
+                    "Colonial system"
+                    ],
+                    "answer": "Decentralized village governance"
+                },
+                {
+                    "question": "Chola overseas expansion is linked with:",
+                    "options": [
+                    "European colonization",
+                    "Indian Ocean trade",
+                    "Silk Route only",
+                    "Desert trade"
+                    ],
+                    "answer": "Indian Ocean trade"
+                },
+                {
+                    "question": "Correct statement about Cholas is:",
+                    "options": [
+                    "They were weak in administration",
+                    "They built advanced temple architecture",
+                    "They ruled only North India",
+                    "They had no navy"
+                    ],
+                    "answer": "They built advanced temple architecture"
+                },
+                {
+                    "question": "Chola economy was primarily based on:",
+                    "options": [
+                    "Industrial production",
+                    "Agriculture and trade",
+                    "Hunting",
+                    "Mining only"
+                    ],
+                    "answer": "Agriculture and trade"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Medieval India – Socio-Economic Life, Education & Literature, Cheras (9th–12th Century)",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "South India during early medieval period witnessed strong agrarian economy and temple-centered society",
+                    "Education and literature flourished under Cholas, Pandyas, and Cheras",
+                    "Cheras played a key role in Kerala and parts of Tamil region (9th–12th century CE)",
+                    "Maritime trade and cultural exchange were important features",
+                    "Temples acted as social, economic, and cultural hubs"
+                ]
+            },
+            {
+                "heading": "Socio-Economic Life – Overview",
+                "points": [
+                    "Agriculture was the backbone of economy, especially rice cultivation in fertile river valleys",
+                    "Temple economy dominated social and economic life",
+                    "Land grants supported Brahmins, temples, and officials",
+                    "Guilds (merchant organizations) controlled trade and crafts",
+                    "Society was hierarchical with caste system firmly established"
+                ]
+            },
+            {
+                "heading": "Agrarian Structure",
+                "points": [
+                    "Irrigated agriculture was highly developed in South India",
+                    "Large-scale use of tanks, canals, and river systems",
+                    "Peasants formed the base of society",
+                    "Land ownership concentrated with elites and temples",
+                    "Surplus production supported urban centers and trade"
+                ]
+            },
+            {
+                "heading": "Temple Economy",
+                "points": [
+                    "Temples owned large tracts of land",
+                    "Acted as centers of administration and redistribution",
+                    "Employed priests, artisans, and laborers",
+                    "Received donations from kings and merchants",
+                    "Supported festivals and cultural activities"
+                ]
+            },
+            {
+                "heading": "Trade and Commerce",
+                "points": [
+                    "Internal and external trade was active",
+                    "Maritime trade with Southeast Asia and China",
+                    "Merchant guilds like Manigramam and Ayyavole controlled trade",
+                    "Spices, textiles, and pearls were major exports",
+                    "Ports like Muziris played key role in commerce"
+                ]
+            },
+            {
+                "heading": "Society and Caste System",
+                "points": [
+                    "Caste system was well established in South India",
+                    "Brahmins enjoyed high social status",
+                    "Shudras and laboring classes formed majority",
+                    "Guilds also had social influence",
+                    "Women participated in religious and economic life but had limited political role"
+                ]
+            },
+            {
+                "heading": "Education System",
+                "points": [
+                    "Education was mainly temple-based and religious",
+                    "Agraharas (Brahmin settlements) were centers of learning",
+                    "Vedic studies and Sanskrit education were prominent",
+                    "Local schools also taught grammar, literature, and philosophy",
+                    "Education supported by royal patronage and temple endowments"
+                ]
+            },
+            {
+                "heading": "Centers of Learning",
+                "points": [
+                    "Temples acted as educational institutions",
+                    "Mathas (monasteries) played important role",
+                    "Scholars were supported through land grants",
+                    "Tamil and Sanskrit education flourished",
+                    "Education focused on religion, philosophy, and administration"
+                ]
+            },
+            {
+                "heading": "Literature – Overview",
+                "points": [
+                    "Both Tamil and Sanskrit literature developed significantly",
+                    "Bhakti movement influenced literary works",
+                    "Religious and devotional themes were dominant",
+                    "Court poets were patronized by kings",
+                    "Literature reflected social and cultural life"
+                ]
+            },
+            {
+                "heading": "Tamil Literature",
+                "points": [
+                    "Continuation of Sangam literary tradition",
+                    "Nayanars (Shaiva saints) and Alvars (Vaishnava saints)",
+                    "Devotional hymns like Tevaram and Divya Prabandham",
+                    "Kamban wrote Tamil Ramayana",
+                    "Strong influence of Bhakti movement"
+                ]
+            },
+            {
+                "heading": "Sanskrit Literature",
+                "points": [
+                    "Used for royal inscriptions and court literature",
+                    "Scholarly works in grammar, philosophy, and law",
+                    "Supported by Brahmin scholars",
+                    "Interacted with regional languages",
+                    "Helped in administrative and religious contexts"
+                ]
+            },
+            {
+                "heading": "The Cheras – Overview",
+                "points": [
+                    "Ruled Kerala and parts of western Tamil Nadu (9th–12th century CE)",
+                    "Capital: Mahodayapuram (modern Kodungallur)",
+                    "Important maritime trading kingdom",
+                    "Strong links with Arab and Southeast Asian trade",
+                    "Known for cultural and religious harmony"
+                ]
+            },
+            {
+                "heading": "Chera Rulers",
+                "points": [
+                    "Sthanu Ravi – early prominent ruler",
+                    "Rama Rajasekhara – known for patronage of art and literature",
+                    "Later rulers continued trade dominance",
+                    "Maintained relations with Cholas and Pandyas",
+                    "Gradually declined by 12th century CE"
+                ]
+            },
+            {
+                "heading": "Chera Administration",
+                "points": [
+                    "Monarchical system with regional governance",
+                    "Influence of Brahmin settlements (Agraharas)",
+                    "Local chieftains had autonomy",
+                    "Revenue from agriculture and trade",
+                    "Temple institutions played administrative role"
+                ]
+            },
+            {
+                "heading": "Chera Economy",
+                "points": [
+                    "Maritime trade was backbone of economy",
+                    "Spices like pepper were major export items",
+                    "Trade links with Arabs, Romans (earlier), and Southeast Asia",
+                    "Agriculture also important in fertile regions",
+                    "Ports like Muziris were global trade hubs"
+                ]
+            },
+            {
+                "heading": "Chera Society and Culture",
+                "points": [
+                    "Influenced by Tamil and Kerala traditions",
+                    "Strong Bhakti movement presence",
+                    "Hinduism (Shaiva and Vaishnava traditions) dominant",
+                    "Buddhism and Jainism declined over time",
+                    "Cultural synthesis of trade and religion"
+                ]
+            },
+            {
+                "heading": "Art and Architecture – Cheras",
+                "points": [
+                    "Temple architecture influenced by Kerala style",
+                    "Wooden temple structures prominent",
+                    "Murals and sculptures in temples",
+                    "Integration of Dravidian and local styles",
+                    "Temples served religious and social functions"
+                ]
+            },
+            {
+                "heading": "Decline of Cheras",
+                "points": [
+                    "Rise of Chola influence in South India",
+                    "Internal fragmentation of power",
+                    "Decline of maritime trade dominance",
+                    "Competition with other regional kingdoms",
+                    "Gradual loss of political importance by 12th century"
+                ]
+            },
+            {
+                "heading": "Significance of Socio-Economic Life and Cheras",
+                "points": [
+                    "Temple-centered economy shaped South Indian society",
+                    "Education and literature flourished under royal patronage",
+                    "Maritime trade integrated India with global networks",
+                    "Cheras contributed to Kerala’s cultural identity",
+                    "Strengthened regional diversity in medieval India"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Main economic base of South Indian society was:",
+                    "options": [
+                    "Mining",
+                    "Agriculture",
+                    "Hunting",
+                    "Industry"
+                    ],
+                    "answer": "Agriculture"
+                },
+                {
+                    "question": "Cheras mainly ruled:",
+                    "options": [
+                    "Punjab",
+                    "Kerala region",
+                    "Bengal",
+                    "Rajasthan"
+                    ],
+                    "answer": "Kerala region"
+                },
+                {
+                    "question": "Major export item of Cheras was:",
+                    "options": [
+                    "Wheat",
+                    "Spices",
+                    "Iron",
+                    "Gold"
+                    ],
+                    "answer": "Spices"
+                },
+                {
+                    "question": "Centers of education in medieval South India were mainly:",
+                    "options": [
+                    "Factories",
+                    "Temples",
+                    "Markets",
+                    "Forts"
+                    ],
+                    "answer": "Temples"
+                },
+                {
+                    "question": "Tamil Bhakti saints included:",
+                    "options": [
+                    "Nayanars and Alvars",
+                    "Mauryas and Guptas",
+                    "Rajputs and Palas",
+                    "Mughals and Sultans"
+                    ],
+                    "answer": "Nayanars and Alvars"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Chera capital was:",
+                    "options": [
+                    "Thanjavur",
+                    "Mahodayapuram",
+                    "Kanchipuram",
+                    "Madurai"
+                    ],
+                    "answer": "Mahodayapuram"
+                },
+                {
+                    "question": "Merchant guild in South India was:",
+                    "options": [
+                    "Shreni",
+                    "Ayyavole",
+                    "Janapada",
+                    "Sabha"
+                    ],
+                    "answer": "Ayyavole"
+                },
+                {
+                    "question": "Kamban is known for:",
+                    "options": [
+                    "Mahabharata",
+                    "Tamil Ramayana",
+                    "Arthashastra",
+                    "Silappadikaram"
+                    ],
+                    "answer": "Tamil Ramayana"
+                },
+                {
+                    "question": "Chera economy was mainly based on:",
+                    "options": [
+                    "Industrial production",
+                    "Maritime trade",
+                    "Mining",
+                    "Hunting"
+                    ],
+                    "answer": "Maritime trade"
+                },
+                {
+                    "question": "Agraharas were associated with:",
+                    "options": [
+                    "Military training",
+                    "Brahmin settlements and education",
+                    "Trade centers",
+                    "Ports"
+                    ],
+                    "answer": "Brahmin settlements and education"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Cheras were involved in maritime trade\n2. Temples played role in education\n3. South Indian society had no caste system",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "A key feature of South Indian economy was:",
+                    "options": [
+                    "Industrial revolution",
+                    "Temple-centered agrarian economy",
+                    "Nomadic trade",
+                    "Colonial system"
+                    ],
+                    "answer": "Temple-centered agrarian economy"
+                },
+                {
+                    "question": "Chera ports were important for:",
+                    "options": [
+                    "Silk manufacturing",
+                    "International spice trade",
+                    "Iron export only",
+                    "Military expansion"
+                    ],
+                    "answer": "International spice trade"
+                },
+                {
+                    "question": "Bhakti movement influenced:",
+                    "options": [
+                    "Only politics",
+                    "Literature and society",
+                    "Only economy",
+                    "Only warfare"
+                    ],
+                    "answer": "Literature and society"
+                },
+                {
+                    "question": "South Indian education system was mainly:",
+                    "options": [
+                    "Factory-based",
+                    "Temple-based",
+                    "Military-based",
+                    "Nomadic"
+                    ],
+                    "answer": "Temple-based"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Medieval India – The Yadavas (12th–13th Century) & Contact with South-East Asia",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "The Yadava dynasty emerged as a major regional power in the Deccan during 12th–13th century CE",
+                    "Capital: Devagiri (modern Daulatabad in Maharashtra)",
+                    "They were contemporaries of the Hoysalas and Kakatiyas",
+                    "Period marked by regional consolidation before Delhi Sultanate expansion",
+                    "Strong trade and cultural contacts with South-East Asia continued during this period"
+                ]
+            },
+            {
+                "heading": "The Yadavas – Origin and Background",
+                "points": [
+                    "Claimed descent from the legendary Yadu dynasty",
+                    "Initially served as feudatories under the Western Chalukyas",
+                    "Gradually became independent in late 12th century CE",
+                    "Controlled northern Deccan region (Maharashtra and parts of Karnataka)",
+                    "Rose in the context of weakening Chalukya authority"
+                ]
+            },
+            {
+                "heading": "Yadava Rulers",
+                "points": [
+                    "Bhillama V (1185–1193 CE) – founder of independent Yadava rule",
+                    "Jaitugi I – consolidated power",
+                    "Simhana II (Singhana II) – greatest ruler, expanded empire",
+                    "Rulers promoted regional administration and military strength",
+                    "Decline began after repeated Delhi Sultanate invasions"
+                ]
+            },
+            {
+                "heading": "Political History of Yadavas",
+                "points": [
+                    "Initially feudatories of Chalukyas of Kalyani",
+                    "Became independent after decline of Chalukyas",
+                    "Constant conflicts with Hoysalas and Kakatiyas",
+                    "Controlled trade routes in Deccan plateau",
+                    "Defeated by Alauddin Khalji in early 14th century (end of dynasty)"
+                ]
+            },
+            {
+                "heading": "Yadava Administration",
+                "points": [
+                    "Monarchical system with centralized authority",
+                    "King was supreme military and administrative head",
+                    "Provincial governors managed territories",
+                    "Feudal elements existed with local chiefs",
+                    "Revenue mainly from agriculture and trade"
+                ]
+            },
+            {
+                "heading": "Yadava Economy",
+                "points": [
+                    "Agriculture was primary occupation",
+                    "Well-developed irrigation in Deccan region",
+                    "Trade routes connected Deccan with coastal ports",
+                    "Cotton textiles were important export item",
+                    "Internal trade supported by market towns"
+                ]
+            },
+            {
+                "heading": "Yadava Society and Culture",
+                "points": [
+                    "Hinduism was dominant religion (Shaivism and Vaishnavism)",
+                    "Strong influence of Bhakti movement",
+                    "Marathi language began to develop literary importance",
+                    "Brahmins held significant social position",
+                    "Temple culture flourished in the region"
+                ]
+            },
+            {
+                "heading": "Art and Architecture – Yadavas",
+                "points": [
+                    "Temple architecture influenced by Hemadpanti style",
+                    "Use of black basalt stone in construction",
+                    "Temples were simple but structurally strong",
+                    "Blend of Nagara and regional styles",
+                    "Examples include temples at Devagiri region"
+                ]
+            },
+            {
+                "heading": "Decline of Yadavas",
+                "points": [
+                    "Frequent invasions by Delhi Sultanate armies",
+                    "Defeat by Alauddin Khalji in early 14th century",
+                    "Internal feudal conflicts weakened authority",
+                    "Loss of control over trade routes",
+                    "Absorption into Delhi Sultanate territory"
+                ]
+            },
+            {
+                "heading": "Contact with South-East Asia – Overview",
+                "points": [
+                    "India maintained strong cultural and trade links with South-East Asia from ancient to medieval period",
+                    "Cholas, Palas, and later regional kingdoms contributed to maritime exchange",
+                    "Spread of Indian culture, religion, and language occurred through trade routes",
+                    "Indian Ocean acted as a bridge for economic and cultural interaction",
+                    "This is known as 'Indianization' of South-East Asia"
+                ]
+            },
+            {
+                "heading": "Nature of Contacts",
+                "points": [
+                    "Primarily commercial and maritime in nature",
+                    "Exchange of spices, textiles, gold, and luxury goods",
+                    "Indian traders settled in coastal regions of South-East Asia",
+                    "Buddhist and Hindu cultural influence spread through merchants and monks",
+                    "Diplomatic and cultural exchanges also existed"
+                ]
+            },
+            {
+                "heading": "Chola Contribution to South-East Asia Contact",
+                "points": [
+                    "Strong naval expeditions to Srivijaya empire",
+                    "Control over Indian Ocean trade routes",
+                    "Trade relations with Cambodia, Indonesia, and Thailand",
+                    "Spread of Tamil culture and Shaiva traditions",
+                    "Construction of temples influenced Southeast Asian architecture"
+                ]
+            },
+            {
+                "heading": "Cultural Influence on South-East Asia",
+                "points": [
+                    "Spread of Hinduism and Buddhism",
+                    "Adoption of Sanskrit language in inscriptions",
+                    "Indian epics like Ramayana and Mahabharata influenced local culture",
+                    "Temple architecture in Angkor Wat reflects Indian style",
+                    "Development of hybrid cultural traditions"
+                ]
+            },
+            {
+                "heading": "Economic Aspects of Contact",
+                "points": [
+                    "Indian merchants dominated spice trade",
+                    "Ports like Nagapattinam played key role",
+                    "Maritime trade connected India with China and Arab world via SE Asia",
+                    "Indian textiles and spices were highly demanded",
+                    "Trade guilds facilitated commercial exchange"
+                ]
+            },
+            {
+                "heading": "Religious and Intellectual Exchange",
+                "points": [
+                    "Spread of Buddhism (especially Mahayana tradition)",
+                    "Hindu temples built in Cambodia and Indonesia",
+                    "Indian monks traveled to Southeast Asia",
+                    "Exchange of philosophical ideas and texts",
+                    "Development of syncretic religious traditions"
+                ]
+            },
+            {
+                "heading": "Significance of South-East Asia Contact",
+                "points": [
+                    "Expanded India’s cultural influence beyond subcontinent",
+                    "Strengthened Indian Ocean trade network",
+                    "Facilitated cultural synthesis in Asia",
+                    "Enhanced economic prosperity of coastal kingdoms",
+                    "Created long-lasting civilizational linkages"
+                ]
+            },
+            {
+                "heading": "Significance of Yadava Period",
+                "points": [
+                    "Marked regional consolidation in Deccan before Delhi Sultanate expansion",
+                    "Development of Marathi cultural identity",
+                    "Growth of temple architecture and Bhakti tradition",
+                    "Important transitional phase in medieval Indian history",
+                    "Linked Deccan region with wider Indian Ocean economy"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Capital of Yadava dynasty was:",
+                    "options": [
+                    "Thanjavur",
+                    "Devagiri",
+                    "Kanchi",
+                    "Kannauj"
+                    ],
+                    "answer": "Devagiri"
+                },
+                {
+                    "question": "Founder of independent Yadava rule was:",
+                    "options": [
+                    "Bhillama V",
+                    "Rajaraja Chola",
+                    "Harsha",
+                    "Pulakesin II"
+                    ],
+                    "answer": "Bhillama V"
+                },
+                {
+                    "question": "Yadavas mainly ruled in:",
+                    "options": [
+                    "Bengal",
+                    "Deccan region",
+                    "Punjab",
+                    "Kerala"
+                    ],
+                    "answer": "Deccan region"
+                },
+                {
+                    "question": "Main export from India to South-East Asia was:",
+                    "options": [
+                    "Iron",
+                    "Spices",
+                    "Coal",
+                    "Copper"
+                    ],
+                    "answer": "Spices"
+                },
+                {
+                    "question": "Indian cultural influence in Southeast Asia is called:",
+                    "options": [
+                    "Westernization",
+                    "Indianization",
+                    "Colonization",
+                    "Globalization"
+                    ],
+                    "answer": "Indianization"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Greatest Yadava ruler was:",
+                    "options": [
+                    "Simhana II",
+                    "Bhillama V",
+                    "Rajendra Chola I",
+                    "Ashoka"
+                    ],
+                    "answer": "Simhana II"
+                },
+                {
+                    "question": "Hemadpanti style is associated with:",
+                    "options": [
+                    "Yadavas",
+                    "Cholas",
+                    "Guptas",
+                    "Mauryas"
+                    ],
+                    "answer": "Yadavas"
+                },
+                {
+                    "question": "Chola naval expedition was directed towards:",
+                    "options": [
+                    "Europe",
+                    "Southeast Asia",
+                    "Africa",
+                    "Central Asia"
+                    ],
+                    "answer": "Southeast Asia"
+                },
+                {
+                    "question": "Angkor Wat shows influence of:",
+                    "options": [
+                    "Greek architecture",
+                    "Indian temple architecture",
+                    "Roman architecture",
+                    "Persian architecture"
+                    ],
+                    "answer": "Indian temple architecture"
+                },
+                {
+                    "question": "Main religion spread to Southeast Asia was:",
+                    "options": [
+                    "Judaism",
+                    "Hinduism and Buddhism",
+                    "Christianity",
+                    "Zoroastrianism"
+                    ],
+                    "answer": "Hinduism and Buddhism"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Yadavas ruled Deccan region\n2. India had trade links with Southeast Asia\n3. Indian Ocean trade was inactive in medieval period",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "A key feature of South-East Asia contact was:",
+                    "options": [
+                    "Colonial conquest",
+                    "Cultural and trade exchange",
+                    "Military occupation",
+                    "No interaction"
+                    ],
+                    "answer": "Cultural and trade exchange"
+                },
+                {
+                    "question": "Decline of Yadavas was mainly due to:",
+                    "options": [
+                    "Mauryan invasion",
+                    "Delhi Sultanate invasions",
+                    "British rule",
+                    "Roman attack"
+                    ],
+                    "answer": "Delhi Sultanate invasions"
+                },
+                {
+                    "question": "Indian influence in Southeast Asia is visible in:",
+                    "options": [
+                    "Only language",
+                    "Religion, art, and architecture",
+                    "Only trade",
+                    "Only warfare"
+                    ],
+                    "answer": "Religion, art, and architecture"
+                },
+                {
+                    "question": "Medieval Indian Ocean trade was important because:",
+                    "options": [
+                    "It isolated India",
+                    "It connected India to global economy",
+                    "It stopped agriculture",
+                    "It ended culture"
+                    ],
+                    "answer": "It connected India to global economy"
+                }
+            ]
+        }
+    }
+]

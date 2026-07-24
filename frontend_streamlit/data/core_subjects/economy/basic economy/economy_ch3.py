@@ -1,0 +1,1492 @@
+TOPICS = [
+    {
+        "name": "Inclusive Growth – Meaning, India’s Experience & Social Sector Initiatives",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Inclusive growth ensures that the benefits of economic growth are shared by all sections of society",
+                    "Focuses on reducing inequality and promoting equitable opportunities",
+                    "Closely linked with poverty reduction, employment generation, and social justice"
+                ]
+            },
+            {
+                "heading": "Inclusive Growth – Meaning",
+                "points": [
+                    "Economic growth that creates opportunities for all sections of society",
+                    "Ensures equitable distribution of income and wealth",
+                    "Focuses on participation of marginalized and vulnerable groups",
+                    "Aims at reducing poverty, inequality, and regional disparities",
+                    "Promotes both economic and social development"
+                ]
+            },
+            {
+                "heading": "Concept of Inclusion",
+                "points": [
+                    "Inclusion means integrating all individuals into economic, social, and political processes",
+                    "Ensures access to basic services like education, healthcare, and employment",
+                    "Promotes equality of opportunity",
+                    "Targets disadvantaged groups (SCs, STs, women, minorities, rural poor)",
+                    "Linked with concepts like social justice and human development"
+                ]
+            },
+            {
+                "heading": "Dimensions of Inclusive Growth",
+                "points": [
+                    "Economic inclusion – access to jobs and income opportunities",
+                    "Social inclusion – access to education, health, and welfare",
+                    "Financial inclusion – access to banking and financial services",
+                    "Regional inclusion – balanced development across regions",
+                    "Political inclusion – participation in governance"
+                ]
+            },
+            {
+                "heading": "India’s Experience with Inclusive Growth",
+                "points": [
+                    "Post-1991 reforms led to high economic growth",
+                    "Growth not evenly distributed across regions and sectors",
+                    "Significant reduction in poverty over time",
+                    "Persistent inequality and unemployment issues",
+                    "Urban-rural divide and regional disparities continue"
+                ]
+            },
+            {
+                "heading": "Achievements in Inclusive Growth",
+                "points": [
+                    "Reduction in poverty levels",
+                    "Improved literacy and education access",
+                    "Expansion of healthcare services",
+                    "Growth of middle class",
+                    "Financial inclusion through banking expansion"
+                ]
+            },
+            {
+                "heading": "Challenges in Inclusive Growth",
+                "points": [
+                    "Income and wealth inequality",
+                    "Unemployment and underemployment",
+                    "Regional imbalances (rural vs urban)",
+                    "Social exclusion of marginalized groups",
+                    "Poor quality of education and healthcare",
+                    "Gender inequality"
+                ]
+            },
+            {
+                "heading": "Social Sector Initiatives – Overview",
+                "points": [
+                    "Government programs aimed at improving social welfare",
+                    "Focus on health, education, employment, and social security",
+                    "Key tools for achieving inclusive growth",
+                    "Target vulnerable and disadvantaged groups"
+                ]
+            },
+            {
+                "heading": "Major Social Sector Initiatives",
+                "points": [
+                    "MGNREGA – Employment guarantee scheme",
+                    "National Food Security Act (NFSA)",
+                    "Ayushman Bharat – Health insurance scheme",
+                    "Sarva Shiksha Abhiyan – Universal education",
+                    "Mid-Day Meal Scheme",
+                    "Pradhan Mantri Jan Dhan Yojana – Financial inclusion",
+                    "National Rural Livelihood Mission (NRLM)"
+                ]
+            },
+            {
+                "heading": "Role of Social Sector in Inclusion Process",
+                "points": [
+                    "Provides basic services to all citizens",
+                    "Reduces poverty and vulnerability",
+                    "Enhances human capital development",
+                    "Promotes equality and social justice",
+                    "Supports sustainable and inclusive development"
+                ]
+            },
+            {
+                "heading": "Inclusion Process in India",
+                "points": [
+                    "Policy focus on inclusive growth since 11th Five-Year Plan",
+                    "Use of targeted welfare schemes",
+                    "Expansion of financial inclusion initiatives",
+                    "Digital inclusion through technology (DBT, Aadhaar)",
+                    "Focus on women empowerment and rural development"
+                ]
+            },
+            {
+                "heading": "Issues in Inclusion Process",
+                "points": [
+                    "Leakages and inefficiencies in welfare schemes",
+                    "Exclusion errors (beneficiaries left out)",
+                    "Lack of awareness among beneficiaries",
+                    "Administrative and implementation challenges",
+                    "Digital divide affecting access"
+                ]
+            },
+            {
+                "heading": "Way Forward",
+                "points": [
+                    "Strengthen governance and transparency",
+                    "Improve targeting of beneficiaries",
+                    "Enhance quality of education and healthcare",
+                    "Promote skill development and employment",
+                    "Reduce regional disparities",
+                    "Encourage inclusive policies and sustainable growth"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Inclusive growth focuses on:",
+                    "options": [
+                    "Only economic growth",
+                    "Growth with equality",
+                    "Only industrial growth",
+                    "Only exports"
+                    ],
+                    "answer": "Growth with equality"
+                },
+                {
+                    "question": "Inclusion means:",
+                    "options": [
+                    "Excluding poor",
+                    "Integrating all sections",
+                    "Only urban development",
+                    "Only industrial growth"
+                    ],
+                    "answer": "Integrating all sections"
+                },
+                {
+                    "question": "MGNREGA provides:",
+                    "options": [
+                    "Education",
+                    "Employment",
+                    "Healthcare",
+                    "Housing"
+                    ],
+                    "answer": "Employment"
+                },
+                {
+                    "question": "Jan Dhan Yojana is related to:",
+                    "options": [
+                    "Health",
+                    "Education",
+                    "Financial inclusion",
+                    "Agriculture"
+                    ],
+                    "answer": "Financial inclusion"
+                },
+                {
+                    "question": "Inclusive growth reduces:",
+                    "options": [
+                    "Exports",
+                    "Inequality",
+                    "Imports",
+                    "Population"
+                    ],
+                    "answer": "Inequality"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which plan emphasized inclusive growth?",
+                    "options": [
+                    "9th Plan",
+                    "10th Plan",
+                    "11th Plan",
+                    "12th Plan"
+                    ],
+                    "answer": "11th Plan"
+                },
+                {
+                    "question": "Major challenge in inclusive growth:",
+                    "options": [
+                    "High equality",
+                    "Income inequality",
+                    "Low population",
+                    "High exports"
+                    ],
+                    "answer": "Income inequality"
+                },
+                {
+                    "question": "Ayushman Bharat is related to:",
+                    "options": [
+                    "Education",
+                    "Health",
+                    "Agriculture",
+                    "Industry"
+                    ],
+                    "answer": "Health"
+                },
+                {
+                    "question": "Financial inclusion means:",
+                    "options": [
+                    "Access to banking services",
+                    "Access to roads",
+                    "Access to schools",
+                    "Access to markets"
+                    ],
+                    "answer": "Access to banking services"
+                },
+                {
+                    "question": "Digital inclusion involves:",
+                    "options": [
+                    "Only internet",
+                    "Access to digital services",
+                    "Only banking",
+                    "Only education"
+                    ],
+                    "answer": "Access to digital services"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Inclusive growth reduces inequality\n2. Growth automatically ensures inclusion\n3. Social sector schemes promote inclusion",
+                    "options": [
+                    "1 and 3 only",
+                    "2 and 3 only",
+                    "1 and 2 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "Which is NOT a dimension of inclusion?",
+                    "options": [
+                    "Economic",
+                    "Social",
+                    "Military",
+                    "Financial"
+                    ],
+                    "answer": "Military"
+                },
+                {
+                    "question": "Major issue in inclusion process:",
+                    "options": [
+                    "High awareness",
+                    "Leakages in schemes",
+                    "Excess equality",
+                    "High growth"
+                    ],
+                    "answer": "Leakages in schemes"
+                },
+                {
+                    "question": "DBT helps in:",
+                    "options": [
+                    "Increasing corruption",
+                    "Reducing leakages",
+                    "Reducing growth",
+                    "Increasing taxes"
+                    ],
+                    "answer": "Reducing leakages"
+                },
+                {
+                    "question": "Inclusive growth is linked to:",
+                    "options": [
+                    "Only GDP growth",
+                    "Human development",
+                    "Only trade",
+                    "Only industry"
+                    ],
+                    "answer": "Human development"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Inclusive Growth – Ground Reality, Flagship Schemes & India’s Growth Paradox",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Focuses on implementation of flagship schemes and their real-world impact",
+                    "Analyzes India's growth story in the context of inclusiveness",
+                    "Explains reasons behind non-inclusive growth"
+                ]
+            },
+            {
+                "heading": "Ground Reality of Flagship Schemes",
+                "points": [
+                    "Schemes designed to promote inclusive growth often face implementation gaps",
+                    "Benefits do not always reach intended beneficiaries",
+                    "Regional disparities in implementation",
+                    "Dependence on state capacity and governance quality",
+                    "Improvement seen due to digitization and Direct Benefit Transfer (DBT)"
+                ]
+            },
+            {
+                "heading": "Key Issues in Ground-Level Implementation",
+                "points": [
+                    "Leakages and corruption in delivery mechanisms",
+                    "Inclusion and exclusion errors in beneficiary identification",
+                    "Lack of awareness among beneficiaries",
+                    "Administrative inefficiencies and delays",
+                    "Digital divide affecting access to schemes"
+                ]
+            },
+            {
+                "heading": "Working of Major Flagship Schemes",
+                "points": [
+                    "MGNREGA – Provides rural employment but faces delays in wage payments",
+                    "Public Distribution System (PDS) – Improved through digitization but still leakages exist",
+                    "Ayushman Bharat – Expanded healthcare access but limited infrastructure in rural areas",
+                    "PM Jan Dhan Yojana – Increased financial inclusion but inactive accounts remain an issue",
+                    "Swachh Bharat Mission – Improved sanitation but behavioral change still needed"
+                ]
+            },
+            {
+                "heading": "Improvements in Recent Years",
+                "points": [
+                    "Direct Benefit Transfer (DBT) reduced leakages",
+                    "Use of Aadhaar for targeting beneficiaries",
+                    "Digital governance improved transparency",
+                    "Greater focus on accountability and monitoring",
+                    "Increased financial inclusion through banking access"
+                ]
+            },
+            {
+                "heading": "India’s Growth Story",
+                "points": [
+                    "India has been one of the fastest-growing major economies",
+                    "High GDP growth post-1991 reforms",
+                    "Rapid expansion of services sector",
+                    "Improvement in infrastructure and digital economy",
+                    "Rise of middle class and consumer market"
+                ]
+            },
+            {
+                "heading": "Achievements in Growth",
+                "points": [
+                    "Significant poverty reduction over decades",
+                    "Improved literacy and life expectancy",
+                    "Expansion of financial and digital inclusion",
+                    "Growth in exports and global integration",
+                    "Emergence as a major global economic player"
+                ]
+            },
+            {
+                "heading": "Why India's Growth is Not Fully Inclusive",
+                "points": [
+                    "High income and wealth inequality",
+                    "Jobless growth (growth without sufficient employment)",
+                    "Regional disparities (urban vs rural, developed vs backward states)",
+                    "Agricultural distress and low farmer incomes",
+                    "Unequal access to education and healthcare",
+                    "Gender inequality and low female workforce participation"
+                ]
+            },
+            {
+                "heading": "Structural Issues Behind Non-Inclusive Growth",
+                "points": [
+                    "Service-led growth benefits skilled workers more",
+                    "Slow growth of manufacturing sector",
+                    "Large informal sector with low wages",
+                    "Limited skill development among workforce",
+                    "Population pressure on resources"
+                ]
+            },
+            {
+                "heading": "Social and Institutional Challenges",
+                "points": [
+                    "Caste and social barriers",
+                    "Inefficient governance and corruption",
+                    "Weak public service delivery systems",
+                    "Lack of coordination between center and states",
+                    "Inadequate infrastructure in rural areas"
+                ]
+            },
+            {
+                "heading": "Way Forward for Inclusive Growth",
+                "points": [
+                    "Strengthen implementation of welfare schemes",
+                    "Promote labor-intensive manufacturing",
+                    "Enhance skill development and education quality",
+                    "Improve healthcare access",
+                    "Reduce regional disparities through targeted policies",
+                    "Encourage women participation in workforce",
+                    "Leverage technology for better governance"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Major issue in flagship schemes is:",
+                    "options": [
+                    "Overfunding",
+                    "Leakages",
+                    "High awareness",
+                    "Excess benefits"
+                    ],
+                    "answer": "Leakages"
+                },
+                {
+                    "question": "DBT helps in:",
+                    "options": [
+                    "Increasing corruption",
+                    "Reducing leakages",
+                    "Reducing growth",
+                    "Increasing taxes"
+                    ],
+                    "answer": "Reducing leakages"
+                },
+                {
+                    "question": "India's growth is mainly driven by:",
+                    "options": [
+                    "Agriculture",
+                    "Industry",
+                    "Services",
+                    "Mining"
+                    ],
+                    "answer": "Services"
+                },
+                {
+                    "question": "Jobless growth means:",
+                    "options": [
+                    "No growth",
+                    "Growth without employment",
+                    "High employment",
+                    "Agricultural growth"
+                    ],
+                    "answer": "Growth without employment"
+                },
+                {
+                    "question": "PDS is related to:",
+                    "options": [
+                    "Health",
+                    "Food distribution",
+                    "Education",
+                    "Employment"
+                    ],
+                    "answer": "Food distribution"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Major challenge in rural schemes:",
+                    "options": [
+                    "High technology",
+                    "Delay in implementation",
+                    "Excess funds",
+                    "High awareness"
+                    ],
+                    "answer": "Delay in implementation"
+                },
+                {
+                    "question": "Which sector benefits skilled workers more?",
+                    "options": [
+                    "Agriculture",
+                    "Industry",
+                    "Services",
+                    "Mining"
+                    ],
+                    "answer": "Services"
+                },
+                {
+                    "question": "Main reason for inequality:",
+                    "options": [
+                    "Equal distribution",
+                    "Uneven growth",
+                    "Low population",
+                    "High exports"
+                    ],
+                    "answer": "Uneven growth"
+                },
+                {
+                    "question": "Digital divide refers to:",
+                    "options": [
+                    "Equal access to tech",
+                    "Gap in access to digital services",
+                    "Only internet usage",
+                    "Only banking"
+                    ],
+                    "answer": "Gap in access to digital services"
+                },
+                {
+                    "question": "Agricultural distress leads to:",
+                    "options": [
+                    "High income",
+                    "Low farmer income",
+                    "High exports",
+                    "Industrial growth"
+                    ],
+                    "answer": "Low farmer income"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. DBT reduces leakages\n2. Growth automatically ensures inclusion\n3. Services sector growth is skill-intensive",
+                    "options": [
+                    "1 and 3 only",
+                    "2 and 3 only",
+                    "1 and 2 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "Which is a structural issue in India?",
+                    "options": [
+                    "High manufacturing growth",
+                    "Strong informal sector",
+                    "Equal income distribution",
+                    "High rural infrastructure"
+                    ],
+                    "answer": "Strong informal sector"
+                },
+                {
+                    "question": "Main cause of non-inclusive growth:",
+                    "options": [
+                    "Balanced development",
+                    "Income inequality",
+                    "High employment",
+                    "Equal opportunities"
+                    ],
+                    "answer": "Income inequality"
+                },
+                {
+                    "question": "Female workforce participation in India is:",
+                    "options": [
+                    "Very high",
+                    "Moderate",
+                    "Low",
+                    "Universal"
+                    ],
+                    "answer": "Low"
+                },
+                {
+                    "question": "Key solution for inclusive growth:",
+                    "options": [
+                    "Ignore agriculture",
+                    "Promote skill development",
+                    "Reduce education",
+                    "Increase inequality"
+                    ],
+                    "answer": "Promote skill development"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Rural Economy-Based Growth, Sustainable Agriculture & PDS",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Rural economy plays a crucial role in India's overall economic development",
+                    "Agriculture remains the backbone of rural livelihoods",
+                    "Sustainable agriculture, food security, and welfare schemes like PDS are key for inclusive growth"
+                ]
+            },
+            {
+                "heading": "Rural Economy-Based Growth – Concept",
+                "points": [
+                    "Growth driven by development of rural areas and agriculture",
+                    "Focus on improving rural income and livelihoods",
+                    "Includes agriculture, allied activities, and rural industries",
+                    "Aims at reducing rural poverty and migration",
+                    "Supports balanced regional development"
+                ]
+            },
+            {
+                "heading": "Importance of Rural Economy in India",
+                "points": [
+                    "Employs a large portion of population",
+                    "Major contributor to food production",
+                    "Supports agro-based industries",
+                    "Reduces urban migration pressure",
+                    "Promotes inclusive and equitable growth"
+                ]
+            },
+            {
+                "heading": "Challenges in Rural Economy",
+                "points": [
+                    "Low agricultural productivity",
+                    "Fragmented landholdings",
+                    "Dependence on monsoon",
+                    "Lack of infrastructure (roads, storage, markets)",
+                    "Limited access to credit and technology",
+                    "Farmer distress and low income"
+                ]
+            },
+            {
+                "heading": "Sustainable Agriculture – Need",
+                "points": [
+                    "Ensures long-term productivity without harming environment",
+                    "Prevents soil degradation and water depletion",
+                    "Promotes efficient use of natural resources",
+                    "Reduces dependence on chemical inputs",
+                    "Essential for climate change adaptation"
+                ]
+            },
+            {
+                "heading": "Components of Sustainable Agriculture",
+                "points": [
+                    "Organic farming and eco-friendly practices",
+                    "Crop diversification",
+                    "Efficient irrigation (drip, sprinkler)",
+                    "Use of renewable energy in farming",
+                    "Soil health management",
+                    "Integrated pest management"
+                ]
+            },
+            {
+                "heading": "Food Security – Concept",
+                "points": [
+                    "Ensuring availability, accessibility, and affordability of food",
+                    "Right to adequate nutrition for all citizens",
+                    "Includes production, distribution, and consumption aspects",
+                    "Linked with poverty reduction and health outcomes"
+                ]
+            },
+            {
+                "heading": "Dimensions of Food Security",
+                "points": [
+                    "Availability – Sufficient food production",
+                    "Accessibility – Economic and physical access to food",
+                    "Affordability – Food at reasonable prices",
+                    "Stability – Consistent supply over time"
+                ]
+            },
+            {
+                "heading": "Resilience in Agriculture",
+                "points": [
+                    "Ability of agricultural systems to withstand shocks (climate, market)",
+                    "Important in context of climate change and disasters",
+                    "Includes drought-resistant crops and risk management",
+                    "Strengthens farmer income stability",
+                    "Promotes sustainable growth"
+                ]
+            },
+            {
+                "heading": "Public Distribution System (PDS) – Overview",
+                "points": [
+                    "Government system for distribution of essential commodities",
+                    "Provides subsidized food grains to poor households",
+                    "Operates through fair price shops",
+                    "Key component of food security in India",
+                    "Strengthened under National Food Security Act (NFSA)"
+                ]
+            },
+            {
+                "heading": "Role of PDS in Inclusive Growth",
+                "points": [
+                    "Ensures food security for vulnerable populations",
+                    "Reduces poverty and hunger",
+                    "Stabilizes food prices",
+                    "Supports nutritional security",
+                    "Acts as safety net during crises"
+                ]
+            },
+            {
+                "heading": "Improvements in PDS",
+                "points": [
+                    "Digitization of ration cards",
+                    "Aadhaar-based authentication",
+                    "Direct Benefit Transfer (DBT) in some states",
+                    "End-to-end computerization of supply chain",
+                    "One Nation One Ration Card scheme"
+                ]
+            },
+            {
+                "heading": "Issues in PDS",
+                "points": [
+                    "Leakages and diversion of food grains",
+                    "Inclusion and exclusion errors",
+                    "Quality issues in food grains",
+                    "Limited coverage in some regions",
+                    "Dependence on cereals (lack of nutrition diversity)"
+                ]
+            },
+            {
+                "heading": "Way Forward",
+                "points": [
+                    "Promote sustainable and climate-resilient agriculture",
+                    "Improve rural infrastructure and market access",
+                    "Strengthen PDS efficiency and transparency",
+                    "Diversify food basket for better nutrition",
+                    "Enhance farmer income through reforms and support",
+                    "Encourage rural non-farm employment"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Rural economy mainly depends on:",
+                    "options": ["Industry", "Services", "Agriculture", "IT"],
+                    "answer": "Agriculture"
+                },
+                {
+                    "question": "PDS provides:",
+                    "options": [
+                    "Education",
+                    "Healthcare",
+                    "Subsidized food grains",
+                    "Employment"
+                    ],
+                    "answer": "Subsidized food grains"
+                },
+                {
+                    "question": "Sustainable agriculture aims at:",
+                    "options": [
+                    "Short-term profit",
+                    "Environmental protection",
+                    "Industrial growth",
+                    "Urban development"
+                    ],
+                    "answer": "Environmental protection"
+                },
+                {
+                    "question": "Food security ensures:",
+                    "options": [
+                    "Only production",
+                    "Only consumption",
+                    "Availability and access to food",
+                    "Exports only"
+                    ],
+                    "answer": "Availability and access to food"
+                },
+                {
+                    "question": "NFSA is related to:",
+                    "options": ["Health", "Education", "Food security", "Industry"],
+                    "answer": "Food security"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Major issue in rural economy:",
+                    "options": [
+                    "High productivity",
+                    "Fragmented landholdings",
+                    "Excess infrastructure",
+                    "High income"
+                    ],
+                    "answer": "Fragmented landholdings"
+                },
+                {
+                    "question": "Crop diversification helps in:",
+                    "options": [
+                    "Increasing risk",
+                    "Reducing risk",
+                    "Reducing income",
+                    "Increasing pollution"
+                    ],
+                    "answer": "Reducing risk"
+                },
+                {
+                    "question": "One Nation One Ration Card aims at:",
+                    "options": [
+                    "Education reform",
+                    "Food portability",
+                    "Industrial growth",
+                    "Tax reform"
+                    ],
+                    "answer": "Food portability"
+                },
+                {
+                    "question": "Resilience in agriculture means:",
+                    "options": [
+                    "High production",
+                    "Ability to handle shocks",
+                    "High exports",
+                    "Urbanization"
+                    ],
+                    "answer": "Ability to handle shocks"
+                },
+                {
+                    "question": "PDS operates through:",
+                    "options": [
+                    "Banks",
+                    "Fair price shops",
+                    "Schools",
+                    "Hospitals"
+                    ],
+                    "answer": "Fair price shops"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Sustainable agriculture protects environment\n2. PDS ensures food security\n3. Rural economy is independent of agriculture",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Major challenge in PDS:",
+                    "options": [
+                    "High efficiency",
+                    "Leakages",
+                    "Excess food supply",
+                    "High awareness"
+                    ],
+                    "answer": "Leakages"
+                },
+                {
+                    "question": "Climate-resilient agriculture focuses on:",
+                    "options": [
+                    "Ignoring climate",
+                    "Adapting to climate change",
+                    "Increasing pollution",
+                    "Urban development"
+                    ],
+                    "answer": "Adapting to climate change"
+                },
+                {
+                    "question": "Food security includes:",
+                    "options": [
+                    "Only production",
+                    "Only distribution",
+                    "Availability, access, affordability",
+                    "Exports only"
+                    ],
+                    "answer": "Availability, access, affordability"
+                },
+                {
+                    "question": "Inclusive growth in rural areas requires:",
+                    "options": [
+                    "Ignoring agriculture",
+                    "Strengthening rural economy",
+                    "Reducing employment",
+                    "Urban focus only"
+                    ],
+                    "answer": "Strengthening rural economy"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Financial Inclusion, Poverty Alleviation & Employment Generation – Inclusive Growth",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Financial inclusion, poverty alleviation, and employment generation are core pillars of inclusive growth",
+                    "They ensure equitable access to economic opportunities and resources",
+                    "Help reduce inequality and improve standard of living"
+                ]
+            },
+            {
+                "heading": "Financial Inclusion – Meaning",
+                "points": [
+                    "Access to affordable financial services for all sections of society",
+                    "Includes banking, credit, insurance, and pension services",
+                    "Targets unbanked and underbanked populations",
+                    "Promotes economic participation and empowerment"
+                ]
+            },
+            {
+                "heading": "Objectives of Financial Inclusion",
+                "points": [
+                    "Provide universal access to banking services",
+                    "Promote savings habits",
+                    "Ensure access to credit for small businesses and farmers",
+                    "Reduce dependence on informal moneylenders",
+                    "Support inclusive and sustainable growth"
+                ]
+            },
+            {
+                "heading": "Key Components of Financial Inclusion",
+                "points": [
+                    "Bank accounts (basic savings accounts)",
+                    "Credit facilities (loans, microfinance)",
+                    "Insurance services",
+                    "Pension schemes",
+                    "Digital payments and financial literacy"
+                ]
+            },
+            {
+                "heading": "Major Initiatives for Financial Inclusion",
+                "points": [
+                    "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+                    "Direct Benefit Transfer (DBT)",
+                    "Unified Payments Interface (UPI)",
+                    "Pradhan Mantri Mudra Yojana (PMMY)",
+                    "Atal Pension Yojana (APY)",
+                    "Stand-Up India Scheme"
+                ]
+            },
+            {
+                "heading": "Role of Financial Inclusion in Inclusive Growth",
+                "points": [
+                    "Empowers poor and marginalized groups",
+                    "Enhances savings and investment",
+                    "Improves access to credit and entrepreneurship",
+                    "Reduces poverty and inequality",
+                    "Promotes digital and formal economy"
+                ]
+            },
+            {
+                "heading": "Challenges in Financial Inclusion",
+                "points": [
+                    "Low financial literacy",
+                    "Inactive bank accounts",
+                    "Digital divide and lack of internet access",
+                    "Limited banking infrastructure in rural areas",
+                    "Dependence on informal credit sources"
+                ]
+            },
+            {
+                "heading": "Poverty Alleviation – Concept",
+                "points": [
+                    "Efforts to reduce poverty and improve living standards",
+                    "Focus on income generation and social security",
+                    "Key objective of development policies",
+                    "Linked with inclusive growth and human development"
+                ]
+            },
+            {
+                "heading": "Strategies for Poverty Alleviation",
+                "points": [
+                    "Employment generation programs",
+                    "Food security schemes",
+                    "Subsidies and welfare programs",
+                    "Skill development initiatives",
+                    "Access to education and healthcare"
+                ]
+            },
+            {
+                "heading": "Major Poverty Alleviation Programs",
+                "points": [
+                    "MGNREGA – Rural employment guarantee",
+                    "National Food Security Act (NFSA)",
+                    "Pradhan Mantri Awas Yojana (PMAY)",
+                    "National Rural Livelihood Mission (NRLM)",
+                    "Deendayal Antyodaya Yojana (DAY)",
+                    "Ayushman Bharat"
+                ]
+            },
+            {
+                "heading": "Employment Generation – Importance",
+                "points": [
+                    "Provides income and livelihood security",
+                    "Reduces poverty and inequality",
+                    "Enhances economic productivity",
+                    "Promotes social stability",
+                    "Key driver of inclusive growth"
+                ]
+            },
+            {
+                "heading": "Types of Employment Programs",
+                "points": [
+                    "Wage employment programs (MGNREGA)",
+                    "Self-employment schemes (PMMY, NRLM)",
+                    "Skill development initiatives (Skill India Mission)",
+                    "Startup and entrepreneurship programs",
+                    "Urban employment schemes"
+                ]
+            },
+            {
+                "heading": "Issues in Poverty Alleviation and Employment",
+                "points": [
+                    "Jobless growth and underemployment",
+                    "Low quality of jobs (informal sector dominance)",
+                    "Inefficient implementation of schemes",
+                    "Regional disparities in employment opportunities",
+                    "Lack of skill development and training"
+                ]
+            },
+            {
+                "heading": "Way Forward",
+                "points": [
+                    "Strengthen financial literacy and digital access",
+                    "Promote inclusive banking infrastructure",
+                    "Enhance skill development and vocational training",
+                    "Encourage entrepreneurship and startups",
+                    "Improve targeting and implementation of welfare schemes",
+                    "Focus on labor-intensive sectors"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Financial inclusion means:",
+                    "options": [
+                    "Access to luxury goods",
+                    "Access to banking services",
+                    "Access to roads",
+                    "Access to industries"
+                    ],
+                    "answer": "Access to banking services"
+                },
+                {
+                    "question": "PMJDY is related to:",
+                    "options": [
+                    "Health",
+                    "Education",
+                    "Financial inclusion",
+                    "Agriculture"
+                    ],
+                    "answer": "Financial inclusion"
+                },
+                {
+                    "question": "MGNREGA provides:",
+                    "options": [
+                    "Health",
+                    "Education",
+                    "Employment",
+                    "Housing"
+                    ],
+                    "answer": "Employment"
+                },
+                {
+                    "question": "Poverty alleviation aims to:",
+                    "options": [
+                    "Increase inequality",
+                    "Reduce poverty",
+                    "Increase taxes",
+                    "Reduce exports"
+                    ],
+                    "answer": "Reduce poverty"
+                },
+                {
+                    "question": "Employment generation helps in:",
+                    "options": [
+                    "Increasing poverty",
+                    "Reducing poverty",
+                    "Reducing growth",
+                    "Increasing inequality"
+                    ],
+                    "answer": "Reducing poverty"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "UPI is related to:",
+                    "options": [
+                    "Education",
+                    "Digital payments",
+                    "Healthcare",
+                    "Agriculture"
+                    ],
+                    "answer": "Digital payments"
+                },
+                {
+                    "question": "Major issue in employment:",
+                    "options": [
+                    "High wages",
+                    "Underemployment",
+                    "High growth",
+                    "High exports"
+                    ],
+                    "answer": "Underemployment"
+                },
+                {
+                    "question": "Skill India Mission focuses on:",
+                    "options": [
+                    "Agriculture",
+                    "Skill development",
+                    "Exports",
+                    "Imports"
+                    ],
+                    "answer": "Skill development"
+                },
+                {
+                    "question": "Informal sector jobs are:",
+                    "options": [
+                    "Highly secure",
+                    "Low security",
+                    "Highly paid",
+                    "Government jobs"
+                    ],
+                    "answer": "Low security"
+                },
+                {
+                    "question": "Financial literacy means:",
+                    "options": [
+                    "Knowledge of farming",
+                    "Knowledge of financial services",
+                    "Knowledge of exports",
+                    "Knowledge of imports"
+                    ],
+                    "answer": "Knowledge of financial services"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Financial inclusion promotes savings\n2. Employment reduces poverty\n3. Poverty alleviation increases inequality",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Which is NOT a financial inclusion scheme?",
+                    "options": [
+                    "PMJDY",
+                    "UPI",
+                    "MGNREGA",
+                    "APY"
+                    ],
+                    "answer": "MGNREGA"
+                },
+                {
+                    "question": "Main cause of poverty:",
+                    "options": [
+                    "High employment",
+                    "Low income",
+                    "High growth",
+                    "High savings"
+                    ],
+                    "answer": "Low income"
+                },
+                {
+                    "question": "Self-employment schemes include:",
+                    "options": [
+                    "MGNREGA",
+                    "PMMY",
+                    "PDS",
+                    "NFSA"
+                    ],
+                    "answer": "PMMY"
+                },
+                {
+                    "question": "Inclusive growth requires:",
+                    "options": [
+                    "Ignoring poor",
+                    "Financial access for all",
+                    "Only industrial growth",
+                    "Only exports"
+                    ],
+                    "answer": "Financial access for all"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Social Sector, PPP, Industrial Integration & Diversification for Inclusive Growth",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Inclusive growth requires multi-dimensional strategies including social sector development, PPP, industrial integration, and diversification",
+                    "These instruments ensure balanced and equitable economic development",
+                    "They help reduce inequality, create jobs, and improve quality of life"
+                ]
+            },
+            {
+                "heading": "Social Sector Development – Meaning",
+                "points": [
+                    "Development of sectors like education, health, nutrition, and social security",
+                    "Focuses on improving human capital",
+                    "Essential for long-term sustainable growth",
+                    "Ensures equitable access to basic services"
+                ]
+            },
+            {
+                "heading": "Role of Social Sector in Inclusive Growth",
+                "points": [
+                    "Improves human development indicators",
+                    "Reduces poverty and inequality",
+                    "Enhances productivity and employability",
+                    "Promotes social justice and equity",
+                    "Supports sustainable development"
+                ]
+            },
+            {
+                "heading": "Key Social Sector Initiatives",
+                "points": [
+                    "Ayushman Bharat – Healthcare access",
+                    "Sarva Shiksha Abhiyan – Universal education",
+                    "Mid-Day Meal Scheme – Nutrition support",
+                    "National Health Mission (NHM)",
+                    "Integrated Child Development Services (ICDS)",
+                    "National Education Policy (NEP)"
+                ]
+            },
+            {
+                "heading": "Challenges in Social Sector Development",
+                "points": [
+                    "Low public expenditure on health and education",
+                    "Quality issues in service delivery",
+                    "Regional disparities in access",
+                    "Infrastructure gaps",
+                    "Shortage of skilled workforce"
+                ]
+            },
+            {
+                "heading": "Public-Private Partnership (PPP) – Meaning",
+                "points": [
+                    "Collaboration between government and private sector",
+                    "Used for financing, building, and operating public services",
+                    "Combines efficiency of private sector with public welfare goals",
+                    "Important for infrastructure and service delivery"
+                ]
+            },
+            {
+                "heading": "Role of PPP in Inclusive Growth",
+                "points": [
+                    "Bridges infrastructure gap",
+                    "Improves service delivery efficiency",
+                    "Mobilizes private investment",
+                    "Reduces burden on government finances",
+                    "Promotes innovation and technology adoption"
+                ]
+            },
+            {
+                "heading": "Examples of PPP in India",
+                "points": [
+                    "Roads and highways (BOT, HAM models)",
+                    "Healthcare services",
+                    "Education infrastructure",
+                    "Urban development projects",
+                    "Renewable energy projects"
+                ]
+            },
+            {
+                "heading": "Challenges in PPP",
+                "points": [
+                    "Risk sharing issues",
+                    "Contractual disputes",
+                    "Regulatory uncertainties",
+                    "High project costs",
+                    "Limited private participation in social sectors"
+                ]
+            },
+            {
+                "heading": "Industrial Integration – Meaning",
+                "points": [
+                    "Linking various sectors of economy (agriculture, industry, services)",
+                    "Promotes value addition and supply chain development",
+                    "Encourages coordination between different industries",
+                    "Supports balanced economic development"
+                ]
+            },
+            {
+                "heading": "Role of Industrial Integration in Inclusive Growth",
+                "points": [
+                    "Creates employment opportunities",
+                    "Enhances productivity and efficiency",
+                    "Supports rural-industrial linkages",
+                    "Promotes MSMEs and small industries",
+                    "Boosts exports and economic growth"
+                ]
+            },
+            {
+                "heading": "Examples of Industrial Integration",
+                "points": [
+                    "Agro-based industries",
+                    "Food processing sector",
+                    "Textile industry value chain",
+                    "Industrial corridors",
+                    "Cluster-based development"
+                ]
+            },
+            {
+                "heading": "Sectoral Diversification – Meaning",
+                "points": [
+                    "Shifting from dependence on one sector to multiple sectors",
+                    "Balanced growth across agriculture, industry, and services",
+                    "Reduces risk and dependency",
+                    "Promotes sustainable development"
+                ]
+            },
+            {
+                "heading": "Regional Diversification – Meaning",
+                "points": [
+                    "Balanced development across different regions",
+                    "Focus on backward and underdeveloped areas",
+                    "Reduces regional inequalities",
+                    "Promotes inclusive national growth"
+                ]
+            },
+            {
+                "heading": "Role of Diversification in Inclusive Growth",
+                "points": [
+                    "Reduces economic disparities",
+                    "Creates employment in different sectors and regions",
+                    "Enhances resilience of economy",
+                    "Promotes balanced development",
+                    "Encourages investment in backward areas"
+                ]
+            },
+            {
+                "heading": "Challenges in Diversification",
+                "points": [
+                    "Regional imbalances in infrastructure",
+                    "Lack of investment in backward areas",
+                    "Skill gaps in workforce",
+                    "Policy and implementation challenges",
+                    "Uneven industrial development"
+                ]
+            },
+            {
+                "heading": "Way Forward",
+                "points": [
+                    "Increase investment in social sector",
+                    "Strengthen PPP frameworks",
+                    "Promote industrial linkages and MSMEs",
+                    "Encourage balanced regional development",
+                    "Enhance skill development and education",
+                    "Focus on sustainable and inclusive policies"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Social sector includes:",
+                    "options": [
+                    "Industry",
+                    "Agriculture",
+                    "Health and education",
+                    "Mining"
+                    ],
+                    "answer": "Health and education"
+                },
+                {
+                    "question": "PPP stands for:",
+                    "options": [
+                    "Public Private Partnership",
+                    "Private Public Policy",
+                    "Public Policy Program",
+                    "Private Planning Process"
+                    ],
+                    "answer": "Public Private Partnership"
+                },
+                {
+                    "question": "Industrial integration links:",
+                    "options": [
+                    "Countries",
+                    "Sectors",
+                    "Only industries",
+                    "Only agriculture"
+                    ],
+                    "answer": "Sectors"
+                },
+                {
+                    "question": "Sectoral diversification reduces:",
+                    "options": [
+                    "Growth",
+                    "Risk",
+                    "Employment",
+                    "Income"
+                    ],
+                    "answer": "Risk"
+                },
+                {
+                    "question": "Regional diversification aims at:",
+                    "options": [
+                    "Urban growth only",
+                    "Balanced regional development",
+                    "Industrial decline",
+                    "Population growth"
+                    ],
+                    "answer": "Balanced regional development"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "PPP helps in:",
+                    "options": [
+                    "Increasing burden on government",
+                    "Mobilizing private investment",
+                    "Reducing infrastructure",
+                    "Reducing growth"
+                    ],
+                    "answer": "Mobilizing private investment"
+                },
+                {
+                    "question": "Agro-based industries are example of:",
+                    "options": [
+                    "Industrial decline",
+                    "Industrial integration",
+                    "Regional imbalance",
+                    "Financial inclusion"
+                    ],
+                    "answer": "Industrial integration"
+                },
+                {
+                    "question": "Major issue in social sector:",
+                    "options": [
+                    "High investment",
+                    "Low quality services",
+                    "High literacy",
+                    "High health standards"
+                    ],
+                    "answer": "Low quality services"
+                },
+                {
+                    "question": "Diversification improves:",
+                    "options": [
+                    "Inequality",
+                    "Resilience",
+                    "Risk",
+                    "Unemployment"
+                    ],
+                    "answer": "Resilience"
+                },
+                {
+                    "question": "PPP is widely used in:",
+                    "options": [
+                    "Only agriculture",
+                    "Infrastructure",
+                    "Only education",
+                    "Only health"
+                    ],
+                    "answer": "Infrastructure"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Social sector improves human capital\n2. PPP reduces government burden\n3. Diversification increases risk",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Industrial corridors promote:",
+                    "options": [
+                    "Regional imbalance",
+                    "Industrial integration",
+                    "Agricultural decline",
+                    "Financial exclusion"
+                    ],
+                    "answer": "Industrial integration"
+                },
+                {
+                    "question": "Major challenge in PPP:",
+                    "options": [
+                    "Efficient delivery",
+                    "Risk sharing",
+                    "High growth",
+                    "Innovation"
+                    ],
+                    "answer": "Risk sharing"
+                },
+                {
+                    "question": "Sectoral diversification means:",
+                    "options": [
+                    "Dependence on one sector",
+                    "Balanced sector growth",
+                    "Industrial decline",
+                    "Urbanization only"
+                    ],
+                    "answer": "Balanced sector growth"
+                },
+                {
+                    "question": "Inclusive growth requires:",
+                    "options": [
+                    "Ignoring backward regions",
+                    "Balanced development",
+                    "Only service growth",
+                    "Only exports"
+                    ],
+                    "answer": "Balanced development"
+                }
+            ]
+        }
+    }
+]

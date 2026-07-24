@@ -1,0 +1,917 @@
+TOPICS = [
+    {
+        "name": "Impact of Agriculture on Climate & CO₂ Emissions – UPSC Notes",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Agriculture is both a victim and contributor to climate change",
+                    "It contributes significantly to greenhouse gas emissions including CO₂, CH₄, and N₂O",
+                    "Modern intensive farming increases environmental pressure",
+                    "Agriculture affects land use, soil carbon balance, and ecosystem stability"
+                ]
+            },
+            {
+                "heading": "Agriculture and Climate Change – Linkage",
+                "points": [
+                    "Agriculture contributes to greenhouse gas emissions through multiple processes",
+                    "Land-use change (deforestation for farming) releases stored carbon",
+                    "Use of fertilizers increases nitrous oxide emissions",
+                    "Rice cultivation and livestock produce methane",
+                    "Energy use in agriculture adds CO₂ emissions"
+                ]
+            },
+            {
+                "heading": "Carbon Dioxide (CO₂) Emissions from Agriculture",
+                "points": [
+                    "Deforestation for agricultural expansion releases CO₂",
+                    "Soil tillage exposes organic carbon to oxidation",
+                    "Use of fossil fuels in tractors, irrigation pumps, and machinery",
+                    "Burning of crop residues releases large amounts of CO₂",
+                    "Food processing and transportation also contribute emissions"
+                ]
+            },
+            {
+                "heading": "Other Greenhouse Gases from Agriculture",
+                "points": [
+                    "Methane (CH₄): rice paddies, enteric fermentation in cattle",
+                    "Nitrous Oxide (N₂O): nitrogen-based fertilizers",
+                    "Ammonia (NH₃): livestock waste and fertilizers",
+                    "These gases have higher warming potential than CO₂",
+                    "Agriculture is a major non-CO₂ emission sector"
+                ]
+            },
+            {
+                "heading": "Major Agricultural Practices Increasing Emissions",
+                "points": [
+                    "Intensive monoculture farming",
+                    "Excessive use of chemical fertilizers and pesticides",
+                    "Over-irrigation and paddy cultivation",
+                    "Slash-and-burn agriculture",
+                    "Livestock overproduction in industrial farming systems"
+                ]
+            },
+            {
+                "heading": "Impact of Agriculture on Climate",
+                "points": [
+                    "Increases global greenhouse gas concentration",
+                    "Contributes to global warming",
+                    "Alters local rainfall patterns",
+                    "Degrades soil carbon storage capacity",
+                    "Leads to biodiversity loss in agro-ecosystems"
+                ]
+            },
+            {
+                "heading": "Climate Change Impact on Agriculture (Reverse Link)",
+                "points": [
+                    "Increased temperature reduces crop yield in many regions",
+                    "Erratic monsoon affects agricultural productivity in India",
+                    "Increased frequency of droughts and floods",
+                    "Pest and disease outbreaks in crops",
+                    "Shift in cropping patterns and seasons"
+                ]
+            },
+            {
+                "heading": "Agriculture and Carbon Sink Function",
+                "points": [
+                    "Soil acts as a carbon sink when managed sustainably",
+                    "Organic farming increases soil carbon storage",
+                    "Agroforestry helps absorb CO₂",
+                    "Reduced tillage farming preserves carbon in soil",
+                    "Healthy ecosystems reduce net emissions"
+                ]
+            },
+            {
+                "heading": "Sustainable Agricultural Practices",
+                "points": [
+                    "Organic farming to reduce chemical fertilizer use",
+                    "Drip irrigation to conserve water and energy",
+                    "Crop rotation and mixed cropping",
+                    "Agroforestry systems",
+                    "Use of biofertilizers and biopesticides"
+                ]
+            },
+            {
+                "heading": "Climate-Smart Agriculture",
+                "points": [
+                    "Integrates productivity, adaptation, and mitigation",
+                    "Improves resilience to climate change",
+                    "Reduces greenhouse gas emissions",
+                    "Enhances food security",
+                    "Promotes sustainable land management"
+                ]
+            },
+            {
+                "heading": "India-Specific Context",
+                "points": [
+                    "Agriculture is highly dependent on monsoon in India",
+                    "Rice cultivation contributes significantly to methane emissions",
+                    "Crop residue burning increases CO₂ and particulate pollution",
+                    "High fertilizer usage increases nitrous oxide emissions",
+                    "Government promotes natural farming and climate-smart agriculture"
+                ]
+            },
+            {
+                "heading": "Government Initiatives",
+                "points": [
+                    "National Mission for Sustainable Agriculture (NMSA)",
+                    "Paramparagat Krishi Vikas Yojana (PKVY) – organic farming",
+                    "Soil Health Card Scheme",
+                    "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)",
+                    "Promotion of climate-resilient agriculture practices"
+                ]
+            },
+            {
+                "heading": "Challenges",
+                "points": [
+                    "High dependency on chemical fertilizers",
+                    "Small and fragmented land holdings",
+                    "Low awareness of sustainable practices",
+                    "Economic constraints for farmers",
+                    "Balancing food security with environmental sustainability"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Agriculture contributes to climate change mainly through:",
+                    "options": [
+                    "Only oxygen production",
+                    "Greenhouse gas emissions",
+                    "Ozone formation",
+                    "Rainfall increase only"
+                    ],
+                    "answer": "Greenhouse gas emissions"
+                },
+                {
+                    "question": "Major CO₂ emission source in agriculture is:",
+                    "options": [
+                    "Solar energy use",
+                    "Deforestation",
+                    "Cloud formation",
+                    "River flow"
+                    ],
+                    "answer": "Deforestation"
+                },
+                {
+                    "question": "Methane is mainly produced in agriculture from:",
+                    "options": [
+                    "Rice fields and livestock",
+                    "Forests",
+                    "Mountains",
+                    "Solar panels"
+                    ],
+                    "answer": "Rice fields and livestock"
+                },
+                {
+                    "question": "Nitrous oxide is mainly linked to:",
+                    "options": [
+                    "Fertilizers",
+                    "Wind energy",
+                    "Hydropower",
+                    "Forests"
+                    ],
+                    "answer": "Fertilizers"
+                },
+                {
+                    "question": "Agriculture is considered:",
+                    "options": [
+                    "Only a carbon sink",
+                    "Both source and sink of carbon",
+                    "Only oxygen sink",
+                    "Neutral to climate"
+                    ],
+                    "answer": "Both source and sink of carbon"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Crop residue burning leads to:",
+                    "options": [
+                    "CO₂ emissions",
+                    "Water purification",
+                    "Soil improvement",
+                    "Forest growth"
+                    ],
+                    "answer": "CO₂ emissions"
+                },
+                {
+                    "question": "Climate-smart agriculture aims to:",
+                    "options": [
+                    "Increase emissions",
+                    "Enhance productivity and reduce emissions",
+                    "Stop farming",
+                    "Increase deforestation"
+                    ],
+                    "answer": "Enhance productivity and reduce emissions"
+                },
+                {
+                    "question": "Rice cultivation mainly emits:",
+                    "options": [
+                    "Oxygen",
+                    "Methane",
+                    "Ozone",
+                    "Nitrogen"
+                    ],
+                    "answer": "Methane"
+                },
+                {
+                    "question": "Soil acts as:",
+                    "options": [
+                    "Carbon sink",
+                    "Carbon source only",
+                    "Water pollutant",
+                    "Oxygen absorber"
+                    ],
+                    "answer": "Carbon sink"
+                },
+                {
+                    "question": "Excess fertilizer use increases:",
+                    "options": [
+                    "Nitrous oxide emissions",
+                    "Rainfall",
+                    "Snowfall",
+                    "Wind speed"
+                    ],
+                    "answer": "Nitrous oxide emissions"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Agriculture contributes to greenhouse gas emissions\n2. Rice cultivation emits methane\n3. Soil can store carbon",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1, 2 and 3"
+                },
+                {
+                    "question": "Agriculture contributes to CO₂ emissions through:",
+                    "options": [
+                    "Deforestation and fossil fuel use",
+                    "Rainfall increase",
+                    "Wind patterns",
+                    "Ocean currents"
+                    ],
+                    "answer": "Deforestation and fossil fuel use"
+                },
+                {
+                    "question": "Climate-smart agriculture focuses on:",
+                    "options": [
+                    "Mitigation and adaptation",
+                    "Only industrial farming",
+                    "Only export farming",
+                    "Urban development"
+                    ],
+                    "answer": "Mitigation and adaptation"
+                },
+                {
+                    "question": "Agriculture impacts climate by:",
+                    "options": [
+                    "Increasing GHG emissions",
+                    "Reducing greenhouse gases completely",
+                    "Stopping climate change",
+                    "No impact"
+                    ],
+                    "answer": "Increasing GHG emissions"
+                },
+                {
+                    "question": "Sustainable agriculture helps in:",
+                    "options": [
+                    "Carbon sequestration",
+                    "Increasing emissions",
+                    "Deforestation",
+                    "Soil degradation only"
+                    ],
+                    "answer": "Carbon sequestration"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Emissions, Monoculture & Chemical Fertilizer Pollution – UPSC Notes",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Agricultural emissions, monoculture farming, and chemical fertilizers are major drivers of environmental degradation",
+                    "They affect biodiversity, soil health, water quality, and climate systems",
+                    "Modern intensive agriculture increases productivity but reduces ecological balance"
+                ]
+            },
+            {
+                "heading": "Emissions from Agriculture – Overview",
+                "points": [
+                    "Agriculture is a significant source of greenhouse gas emissions globally",
+                    "Main gases: carbon dioxide (CO₂), methane (CH₄), and nitrous oxide (N₂O)",
+                    "Emissions arise from farming practices, livestock, and land-use change",
+                    "Intensive agriculture increases fossil fuel use and chemical inputs",
+                    "Contributes to global climate change"
+                ]
+            },
+            {
+                "heading": "Sources of Agricultural Emissions",
+                "points": [
+                    "Deforestation for agricultural expansion releases CO₂",
+                    "Use of tractors, irrigation pumps increases fossil fuel emissions",
+                    "Rice cultivation emits methane under anaerobic conditions",
+                    "Livestock digestion (enteric fermentation) produces methane",
+                    "Fertilizer use emits nitrous oxide"
+                ]
+            },
+            {
+                "heading": "Monoculture Farming – Concept",
+                "points": [
+                    "Monoculture refers to growing a single crop species over a large area",
+                    "Common in commercial agriculture for high yield and efficiency",
+                    "Examples: wheat, rice, maize plantations",
+                    "Used in industrial agriculture and export-oriented farming",
+                    "Reduces crop diversity in agricultural ecosystems"
+                ]
+            },
+            {
+                "heading": "Impacts of Monoculture on Biodiversity",
+                "points": [
+                    "Reduces species diversity in agro-ecosystems",
+                    "Eliminates habitat variety for flora and fauna",
+                    "Increases vulnerability to pests and diseases",
+                    "Leads to decline of pollinators and beneficial insects",
+                    "Disrupts ecological balance and food webs"
+                ]
+            },
+            {
+                "heading": "Soil and Environmental Impacts of Monoculture",
+                "points": [
+                    "Soil nutrient depletion due to repeated cultivation of same crop",
+                    "Increased dependence on chemical fertilizers and pesticides",
+                    "Soil erosion due to lack of crop rotation",
+                    "Reduced soil microbial diversity",
+                    "Long-term decline in soil fertility"
+                ]
+            },
+            {
+                "heading": "Climate Impacts of Monoculture",
+                "points": [
+                    "Reduced carbon sequestration capacity of soil",
+                    "Higher greenhouse gas emissions due to intensive inputs",
+                    "Increased irrigation demand leads to energy use",
+                    "Loss of agro-ecosystem resilience to climate change",
+                    "Encourages deforestation for expansion"
+                ]
+            },
+            {
+                "heading": "Chemical Fertilizers – Overview",
+                "points": [
+                    "Chemical fertilizers are synthetic substances used to enhance crop growth",
+                    "Main types: nitrogenous, phosphatic, and potassic fertilizers",
+                    "Increase agricultural productivity significantly",
+                    "Widely used in modern intensive farming systems",
+                    "Excess use leads to environmental pollution"
+                ]
+            },
+            {
+                "heading": "Pollution Due to Chemical Fertilizers",
+                "points": [
+                    "Leaching into groundwater causing nitrate contamination",
+                    "Eutrophication of lakes and rivers due to nutrient runoff",
+                    "Soil acidification and degradation",
+                    "Emission of nitrous oxide (a greenhouse gas)",
+                    "Contamination of food chain and human health risks"
+                ]
+            },
+            {
+                "heading": "Eutrophication Process",
+                "points": [
+                    "Excess fertilizers enter water bodies through runoff",
+                    "Algal blooms develop due to nutrient enrichment",
+                    "Oxygen depletion occurs in water bodies",
+                    "Aquatic life dies due to hypoxic conditions",
+                    "Leads to ecological imbalance in freshwater systems"
+                ]
+            },
+            {
+                "heading": "Health Impacts of Fertilizer Pollution",
+                "points": [
+                    "Nitrate contamination in drinking water causes methemoglobinemia (blue baby syndrome)",
+                    "Long-term exposure linked to cancers and kidney disorders",
+                    "Air pollution from fertilizer-related emissions",
+                    "Food contamination due to chemical residues",
+                    "Soil toxicity affecting crop quality"
+                ]
+            },
+            {
+                "heading": "Environmental Impacts of Fertilizer Use",
+                "points": [
+                    "Loss of soil fertility over time",
+                    "Disruption of soil microbial ecosystem",
+                    "Water pollution in surface and groundwater",
+                    "Contribution to greenhouse gas emissions",
+                    "Degradation of aquatic ecosystems"
+                ]
+            },
+            {
+                "heading": "Sustainable Alternatives",
+                "points": [
+                    "Organic farming using natural compost",
+                    "Use of biofertilizers and green manure",
+                    "Integrated Nutrient Management (INM)",
+                    "Crop rotation and mixed cropping",
+                    "Precision agriculture techniques"
+                ]
+            },
+            {
+                "heading": "Government Measures in India",
+                "points": [
+                    "Promotion of organic farming under Paramparagat Krishi Vikas Yojana (PKVY)",
+                    "Soil Health Card Scheme for balanced fertilizer use",
+                    "Neem-coated urea to reduce nitrogen loss",
+                    "National Mission on Sustainable Agriculture (NMSA)",
+                    "Awareness campaigns on sustainable fertilizer use"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Monoculture refers to:",
+                    "options": [
+                    "Growing multiple crops together",
+                    "Growing a single crop over a large area",
+                    "Forest cultivation",
+                    "Urban farming only"
+                    ],
+                    "answer": "Growing a single crop over a large area"
+                },
+                {
+                    "question": "Main greenhouse gas from fertilizers is:",
+                    "options": [
+                    "CO₂",
+                    "N₂O",
+                    "O₂",
+                    "H₂"
+                    ],
+                    "answer": "N₂O"
+                },
+                {
+                    "question": "Eutrophication is caused by:",
+                    "options": [
+                    "Excess nutrients in water",
+                    "Oxygen increase",
+                    "Rainfall reduction",
+                    "Wind flow"
+                    ],
+                    "answer": "Excess nutrients in water"
+                },
+                {
+                    "question": "Monoculture reduces:",
+                    "options": [
+                    "Biodiversity",
+                    "Water availability",
+                    "Rainfall",
+                    "Wind speed"
+                    ],
+                    "answer": "Biodiversity"
+                },
+                {
+                    "question": "Chemical fertilizers mainly affect:",
+                    "options": [
+                    "Soil and water quality",
+                    "Ocean tides",
+                    "Solar radiation",
+                    "Earth rotation"
+                    ],
+                    "answer": "Soil and water quality"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Monoculture increases vulnerability to:",
+                    "options": [
+                    "Pests and diseases",
+                    "Earthquakes",
+                    "Cyclones",
+                    "Volcanoes"
+                    ],
+                    "answer": "Pests and diseases"
+                },
+                {
+                    "question": "Nitrate pollution affects:",
+                    "options": [
+                    "Drinking water",
+                    "Air pressure",
+                    "Wind patterns",
+                    "Sunlight"
+                    ],
+                    "answer": "Drinking water"
+                },
+                {
+                    "question": "Eutrophication leads to:",
+                    "options": [
+                    "Oxygen depletion in water",
+                    "Increase in forest cover",
+                    "Soil enrichment always",
+                    "Rainfall increase"
+                    ],
+                    "answer": "Oxygen depletion in water"
+                },
+                {
+                    "question": "Monoculture reduces:",
+                    "options": [
+                    "Genetic diversity",
+                    "Industrial growth",
+                    "Urbanization",
+                    "Rainfall variability"
+                    ],
+                    "answer": "Genetic diversity"
+                },
+                {
+                    "question": "Excess fertilizers cause:",
+                    "options": [
+                    "Soil degradation",
+                    "Forest growth",
+                    "Ocean expansion",
+                    "Wind formation"
+                    ],
+                    "answer": "Soil degradation"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Monoculture reduces biodiversity\n2. Fertilizers contribute to greenhouse gas emissions\n3. Eutrophication affects aquatic ecosystems",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1, 2 and 3"
+                },
+                {
+                    "question": "Monoculture farming leads to:",
+                    "options": [
+                    "Soil nutrient depletion",
+                    "Increase in biodiversity",
+                    "Natural pest resistance always",
+                    "Water conservation only"
+                    ],
+                    "answer": "Soil nutrient depletion"
+                },
+                {
+                    "question": "Chemical fertilizers contribute to:",
+                    "options": [
+                    "Water pollution",
+                    "Air purification",
+                    "Forest growth",
+                    "Rainfall increase"
+                    ],
+                    "answer": "Water pollution"
+                },
+                {
+                    "question": "Eutrophication is caused by:",
+                    "options": [
+                    "Nutrient runoff",
+                    "Solar radiation",
+                    "Wind movement",
+                    "Earth rotation"
+                    ],
+                    "answer": "Nutrient runoff"
+                },
+                {
+                    "question": "Sustainable alternatives include:",
+                    "options": [
+                    "Organic farming",
+                    "Monoculture expansion",
+                    "Excess fertilizer use",
+                    "Deforestation"
+                    ],
+                    "answer": "Organic farming"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Soil-Related Effects & Fertilizers’ Impact on Environment",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Soil is a critical natural resource supporting agriculture, ecosystems, and biodiversity",
+                    "Excessive and unscientific use of fertilizers leads to soil degradation and environmental pollution",
+                    "Soil-related environmental effects include erosion, salinization, acidification, and loss of fertility",
+                    "Fertilizer use impacts soil, water, air, and human health"
+                ]
+            },
+            {
+                "heading": "Soil-Related Environmental Effects – Overview",
+                "points": [
+                    "Soil degradation is the decline in soil quality due to natural or human activities",
+                    "Major causes include deforestation, overgrazing, chemical farming, and industrial pollution",
+                    "Soil acts as a medium for nutrient cycling and carbon storage",
+                    "Healthy soil is essential for food security and ecosystem balance",
+                    "Degraded soil reduces agricultural productivity and biodiversity"
+                ]
+            },
+            {
+                "heading": "Soil Erosion",
+                "points": [
+                    "Removal of top fertile layer of soil by wind or water",
+                    "Caused by deforestation, overgrazing, and improper farming practices",
+                    "Reduces soil fertility and agricultural output",
+                    "Leads to sedimentation in rivers and reservoirs",
+                    "Can result in desertification in extreme cases"
+                ]
+            },
+            {
+                "heading": "Soil Acidification",
+                "points": [
+                    "Decrease in soil pH due to excessive use of nitrogen fertilizers",
+                    "Leads to loss of essential nutrients like calcium and magnesium",
+                    "Reduces microbial activity in soil",
+                    "Affects crop growth and yield",
+                    "Common in intensively farmed regions"
+                ]
+            },
+            {
+                "heading": "Soil Salinization",
+                "points": [
+                    "Accumulation of soluble salts in soil",
+                    "Caused by improper irrigation and poor drainage",
+                    "Reduces soil fertility and plant growth",
+                    "Common in arid and semi-arid regions",
+                    "Leads to land becoming unproductive (saline soils)"
+                ]
+            },
+            {
+                "heading": "Soil Compaction",
+                "points": [
+                    "Compression of soil particles reducing pore space",
+                    "Caused by heavy machinery and overgrazing",
+                    "Reduces water infiltration and root growth",
+                    "Decreases soil aeration and microbial activity",
+                    "Leads to poor crop productivity"
+                ]
+            },
+            {
+                "heading": "Loss of Soil Organic Matter",
+                "points": [
+                    "Decline in humus content due to intensive farming",
+                    "Reduces soil fertility and water retention capacity",
+                    "Affects soil structure and nutrient cycling",
+                    "Leads to carbon release into atmosphere",
+                    "Weakens ecosystem resilience"
+                ]
+            },
+            {
+                "heading": "Fertilizers – Overview",
+                "points": [
+                    "Fertilizers are substances added to soil to improve plant growth",
+                    "Types: nitrogenous, phosphatic, and potassic fertilizers",
+                    "Used to increase agricultural productivity",
+                    "Both organic and chemical fertilizers are used in farming",
+                    "Excessive use leads to environmental problems"
+                ]
+            },
+            {
+                "heading": "Positive Effects of Fertilizers",
+                "points": [
+                    "Increases crop yield and food production",
+                    "Improves soil nutrient content in short term",
+                    "Supports intensive farming practices",
+                    "Helps in meeting food demand of growing population",
+                    "Enhances agricultural productivity"
+                ]
+            },
+            {
+                "heading": "Negative Environmental Effects of Fertilizers",
+                "points": [
+                    "Soil degradation due to nutrient imbalance",
+                    "Water pollution through leaching and runoff",
+                    "Eutrophication of lakes and rivers",
+                    "Emission of nitrous oxide (greenhouse gas)",
+                    "Loss of soil microbial diversity"
+                ]
+            },
+            {
+                "heading": "Groundwater Pollution",
+                "points": [
+                    "Nitrate from fertilizers leaches into groundwater",
+                    "Causes health issues like methemoglobinemia",
+                    "Makes drinking water unsafe",
+                    "Common in intensive agricultural regions",
+                    "Long-term contamination of aquifers"
+                ]
+            },
+            {
+                "heading": "Eutrophication",
+                "points": [
+                    "Excess fertilizers enter water bodies through runoff",
+                    "Leads to excessive algal growth",
+                    "Reduces oxygen levels in water",
+                    "Kills aquatic organisms",
+                    "Disrupts aquatic ecosystems"
+                ]
+            },
+            {
+                "heading": "Air Pollution from Fertilizers",
+                "points": [
+                    "Emission of ammonia and nitrous oxide gases",
+                    "Contribution to greenhouse effect",
+                    "Formation of secondary particulate matter",
+                    "Odor pollution near agricultural fields",
+                    "Climate change contribution"
+                ]
+            },
+            {
+                "heading": "Soil Biodiversity Loss",
+                "points": [
+                    "Reduction in earthworms and beneficial microbes",
+                    "Disruption of nutrient cycling processes",
+                    "Decline in soil fertility over time",
+                    "Increased dependency on chemical inputs",
+                    "Weakening of natural soil ecosystem"
+                ]
+            },
+            {
+                "heading": "Sustainable Soil Management Practices",
+                "points": [
+                    "Organic farming and use of compost",
+                    "Crop rotation and mixed cropping",
+                    "Use of biofertilizers",
+                    "Reduced tillage farming",
+                    "Integrated nutrient management (INM)"
+                ]
+            },
+            {
+                "heading": "Government Initiatives in India",
+                "points": [
+                    "Soil Health Card Scheme for balanced fertilizer use",
+                    "Paramparagat Krishi Vikas Yojana (PKVY) for organic farming",
+                    "Neem-coated urea to reduce nitrogen loss",
+                    "National Mission for Sustainable Agriculture (NMSA)",
+                    "Promotion of integrated farming systems"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Soil erosion refers to:",
+                    "options": [
+                    "Increase in soil fertility",
+                    "Loss of topsoil",
+                    "Formation of new soil",
+                    "Water purification"
+                    ],
+                    "answer": "Loss of topsoil"
+                },
+                {
+                    "question": "Main cause of soil acidification is:",
+                    "options": [
+                    "Excess nitrogen fertilizers",
+                    "Rainfall increase",
+                    "Wind erosion",
+                    "Deforestation only"
+                    ],
+                    "answer": "Excess nitrogen fertilizers"
+                },
+                {
+                    "question": "Fertilizers mainly improve:",
+                    "options": [
+                    "Crop yield",
+                    "Ocean salinity",
+                    "Wind speed",
+                    "Earth rotation"
+                    ],
+                    "answer": "Crop yield"
+                },
+                {
+                    "question": "Eutrophication affects:",
+                    "options": [
+                    "Air quality",
+                    "Water bodies",
+                    "Soil temperature",
+                    "Solar radiation"
+                    ],
+                    "answer": "Water bodies"
+                },
+                {
+                    "question": "Nitrate pollution mainly affects:",
+                    "options": [
+                    "Drinking water",
+                    "Oceans only",
+                    "Mountains",
+                    "Wind patterns"
+                    ],
+                    "answer": "Drinking water"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Soil salinization is caused by:",
+                    "options": [
+                    "Proper irrigation",
+                    "Improper irrigation",
+                    "Rainfall only",
+                    "Forests"
+                    ],
+                    "answer": "Improper irrigation"
+                },
+                {
+                    "question": "Soil compaction reduces:",
+                    "options": [
+                    "Water infiltration",
+                    "Rainfall",
+                    "Temperature",
+                    "Wind speed"
+                    ],
+                    "answer": "Water infiltration"
+                },
+                {
+                    "question": "Excess fertilizers lead to:",
+                    "options": [
+                    "Groundwater pollution",
+                    "Forest growth",
+                    "Ocean cooling",
+                    "Wind reduction"
+                    ],
+                    "answer": "Groundwater pollution"
+                },
+                {
+                    "question": "Soil biodiversity includes:",
+                    "options": [
+                    "Microbes and earthworms",
+                    "Only plants",
+                    "Only animals",
+                    "Only rocks"
+                    ],
+                    "answer": "Microbes and earthworms"
+                },
+                {
+                    "question": "Integrated Nutrient Management aims to:",
+                    "options": [
+                    "Balance fertilizer use",
+                    "Increase pollution",
+                    "Reduce farming",
+                    "Stop irrigation"
+                    ],
+                    "answer": "Balance fertilizer use"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Soil erosion reduces fertility\n2. Fertilizers can cause eutrophication\n3. Soil biodiversity is important for nutrient cycling",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1, 2 and 3"
+                },
+                {
+                    "question": "Soil degradation includes:",
+                    "options": [
+                    "Erosion and salinization",
+                    "Forest growth",
+                    "Rainfall increase",
+                    "Ocean formation"
+                    ],
+                    "answer": "Erosion and salinization"
+                },
+                {
+                    "question": "Excess fertilizers lead to:",
+                    "options": [
+                    "Water pollution",
+                    "Air purification",
+                    "Soil regeneration",
+                    "Forest expansion"
+                    ],
+                    "answer": "Water pollution"
+                },
+                {
+                    "question": "Soil health is improved by:",
+                    "options": [
+                    "Organic farming",
+                    "Excess chemicals",
+                    "Deforestation",
+                    "Overgrazing"
+                    ],
+                    "answer": "Organic farming"
+                },
+                {
+                    "question": "Eutrophication results in:",
+                    "options": [
+                    "Oxygen depletion in water",
+                    "Increase in forests",
+                    "Soil fertility increase",
+                    "Rainfall increase"
+                    ],
+                    "answer": "Oxygen depletion in water"
+                }
+            ]
+        }
+    }
+]

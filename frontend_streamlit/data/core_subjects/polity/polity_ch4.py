@@ -1,0 +1,370 @@
+TOPICS = [
+    {
+        "name": "Preamble of the Indian Constitution",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "The Preamble is the introductory part of the Constitution",
+                    "It reflects the philosophy, objectives, and ideals of the Constitution",
+                    "It is based on the Objectives Resolution of Jawaharlal Nehru (1946)",
+                    "It is considered the identity card of the Constitution"
+                ]
+            },
+            {
+                "heading": "Text of the Preamble (Key Ideas)",
+                "points": [
+                    "We, the People of India",
+                    "Sovereign, Socialist, Secular, Democratic, Republic",
+                    "Justice, Liberty, Equality, and Fraternity",
+                    "Securing dignity of the individual and unity and integrity of the nation"
+                ]
+            },
+            {
+                "heading": "Key Terms Explained",
+                "points": [
+                    "Sovereign: Independent authority, no external control",
+                    "Socialist: Social and economic equality (added by 42nd Amendment)",
+                    "Secular: Equal respect for all religions (added by 42nd Amendment)",
+                    "Democratic: Government elected by people",
+                    "Republic: Head of state is elected, not hereditary"
+                ]
+            },
+            {
+                "heading": "Objectives of the Preamble",
+                "points": [
+                    "Justice – social, economic, and political",
+                    "Liberty – thought, expression, belief, faith, and worship",
+                    "Equality – of status and opportunity",
+                    "Fraternity – ensuring dignity and unity of nation"
+                ]
+            },
+            {
+                "heading": "Amendment of the Preamble",
+                "points": [
+                    "Preamble was amended only once by 42nd Constitutional Amendment Act, 1976",
+                    "Added three words: Socialist, Secular, Integrity",
+                    "Supreme Court in Kesavananda Bharati case held that Preamble can be amended",
+                    "But basic structure of Preamble cannot be altered"
+                ]
+            },
+            {
+                "heading": "Importance of the Preamble",
+                "points": [
+                    "Helps interpret Constitution provisions",
+                    "Reflects basic structure of Constitution",
+                    "Guides judiciary in constitutional interpretation",
+                    "Represents philosophy and soul of Constitution"
+                ]
+            },
+            {
+                "heading": "Legal Status",
+                "points": [
+                    "Not enforceable in a court of law",
+                    "But used as an interpretative tool by judiciary",
+                    "Declared as part of Constitution in Kesavananda Bharati case (1973)",
+                    "Helps in understanding constitutional intent"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Preamble is NOT a source of power or prohibition",
+                    "It was adopted on 26 November 1949",
+                    "Enforced on 26 January 1950",
+                    "It reflects the soul of the Constitution"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "The Preamble is called:",
+                    "options": ["Body of Constitution", "Identity of Constitution", "Law of Constitution", "Schedule of Constitution"],
+                    "answer": "Identity of Constitution"
+                },
+                {
+                    "question": "The Preamble begins with:",
+                    "options": ["We, the States", "We, the Government", "We, the People of India", "We, the Court"],
+                    "answer": "We, the People of India"
+                },
+                {
+                    "question": "Which word was added by the 42nd Amendment?",
+                    "options": ["Justice", "Equality", "Socialist", "Liberty"],
+                    "answer": "Socialist"
+                },
+                {
+                    "question": "The Preamble was adopted on:",
+                    "options": ["26 Jan 1950", "15 Aug 1947", "26 Nov 1949", "2 Oct 1949"],
+                    "answer": "26 Nov 1949"
+                },
+                {
+                    "question": "The Preamble is:",
+                    "options": ["Legally enforceable", "Not enforceable", "A law", "A directive"],
+                    "answer": "Not enforceable"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which of the following is NOT in the Preamble?",
+                    "options": ["Justice", "Liberty", "Federalism", "Fraternity"],
+                    "answer": "Federalism"
+                },
+                {
+                    "question": "Which case held that Preamble is part of Constitution?",
+                    "options": ["Golaknath case", "Kesavananda Bharati case", "Maneka Gandhi case", "Minerva Mills case"],
+                    "answer": "Kesavananda Bharati case"
+                },
+                {
+                    "question": "Which concept is NOT explicitly mentioned in Preamble?",
+                    "options": ["Equality", "Fraternity", "Federal structure", "Liberty"],
+                    "answer": "Federal structure"
+                },
+                {
+                    "question": "Which word in Preamble ensures dignity of individual?",
+                    "options": ["Justice", "Liberty", "Fraternity", "Equality"],
+                    "answer": "Fraternity"
+                },
+                {
+                    "question": "Preamble is:",
+                    "options": ["Source of power", "Source of prohibition", "Neither source of power nor prohibition", "Law-making body"],
+                    "answer": "Neither source of power nor prohibition"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Preamble is enforceable in court\n2. It was amended once\n3. It is part of Constitution",
+                    "options": ["2 and 3", "1 and 2", "3 only", "All"],
+                    "answer": "2 and 3"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Preamble gives powers to government",
+                        "Preamble is not part of Constitution",
+                        "Preamble reflects philosophy of Constitution",
+                        "Preamble is a law"
+                    ],
+                    "answer": "Preamble reflects philosophy of Constitution"
+                },
+                {
+                    "question": "Which of the following was added in 1976?",
+                    "options": ["Justice", "Sovereign", "Socialist", "Republic"],
+                    "answer": "Socialist"
+                },
+                {
+                    "question": "Which is correct about Preamble?",
+                    "options": [
+                        "It is rigid and unamendable",
+                        "It can be amended but basic structure cannot be changed",
+                        "It is not part of Constitution",
+                        "It is enforceable law"
+                    ],
+                    "answer": "It can be amended but basic structure cannot be changed"
+                },
+                {
+                    "question": "Main significance of Preamble is:",
+                    "options": [
+                        "Legal enforcement",
+                        "Administrative control",
+                        "Constitutional philosophy",
+                        "Taxation structure"
+                    ],
+                    "answer": "Constitutional philosophy"
+                }
+            ]
+        }
+    },
+
+    {
+        "name": "Amendability of the Preamble",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "The question of whether the Preamble can be amended has been debated in constitutional law",
+                    "Supreme Court has clarified that the Preamble is part of the Constitution",
+                    "It can be amended under Article 368, but subject to the Basic Structure Doctrine",
+                    "Kesavananda Bharati case is the most important judgment on this issue"
+                ]
+            },
+            {
+                "heading": "Initial Position (Berubari Case, 1960)",
+                "points": [
+                    "In the Berubari Union case (1960), Supreme Court held that Preamble is not a part of the Constitution",
+                    "It was considered only a key to understand the Constitution",
+                    "Therefore, initially it was thought to be non-amendable",
+                    "This view was later overruled"
+                ]
+            },
+            {
+                "heading": "Kesavananda Bharati Case (1973)",
+                "points": [
+                    "Supreme Court held that the Preamble is part of the Constitution",
+                    "It can be amended under Article 368",
+                    "However, the Basic Structure of the Constitution cannot be altered",
+                    "Preamble reflects the basic structure elements like liberty, equality, and fraternity"
+                ]
+            },
+            {
+                "heading": "42nd Constitutional Amendment (1976)",
+                "points": [
+                    "First and only amendment made to the Preamble",
+                    "Added three words: Socialist, Secular, and Integrity",
+                    "Reflects India’s commitment to socio-economic justice and unity",
+                    "Done during Emergency period"
+                ]
+            },
+            {
+                "heading": "Current Legal Position",
+                "points": [
+                    "Preamble is a part of the Constitution",
+                    "It can be amended under Article 368",
+                    "But amendment cannot destroy or alter the basic structure",
+                    "Acts as interpretative aid in constitutional interpretation"
+                ]
+            },
+            {
+                "heading": "Basic Structure Connection",
+                "points": [
+                    "Preamble contains core values of Constitution",
+                    "These values are part of the Basic Structure Doctrine",
+                    "Courts use Preamble to identify constitutional spirit",
+                    "Any amendment violating these values is invalid"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Berubari case initially said Preamble is not part of Constitution",
+                    "Kesavananda Bharati overruled it",
+                    "Preamble was amended only once (1976)",
+                    "It cannot be amended to destroy constitutional identity"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "The Preamble can be amended under:",
+                    "options": ["Article 14", "Article 19", "Article 368", "Article 32"],
+                    "answer": "Article 368"
+                },
+                {
+                    "question": "Which case held that Preamble is part of Constitution?",
+                    "options": ["Berubari case", "Kesavananda Bharati case", "Minerva Mills case", "Golaknath case"],
+                    "answer": "Kesavananda Bharati case"
+                },
+                {
+                    "question": "How many times has the Preamble been amended?",
+                    "options": ["Never", "Once", "Twice", "Thrice"],
+                    "answer": "Once"
+                },
+                {
+                    "question": "Which amendment modified the Preamble?",
+                    "options": ["42nd", "44th", "73rd", "86th"],
+                    "answer": "42nd"
+                },
+                {
+                    "question": "Preamble is now considered:",
+                    "options": ["Non-part of Constitution", "Part of Constitution", "Ordinary law", "Directive Principle"],
+                    "answer": "Part of Constitution"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which of the following is correct regarding Berubari case?",
+                    "options": [
+                        "Preamble is part of Constitution",
+                        "Preamble is not part of Constitution",
+                        "Preamble is enforceable law",
+                        "Preamble cannot be read"
+                    ],
+                    "answer": "Preamble is not part of Constitution"
+                },
+                {
+                    "question": "Which doctrine restricts amendment of Preamble?",
+                    "options": [
+                        "Doctrine of Pleasure",
+                        "Basic Structure Doctrine",
+                        "Doctrine of Severability",
+                        "Doctrine of Eclipse"
+                    ],
+                    "answer": "Basic Structure Doctrine"
+                },
+                {
+                    "question": "Which words were added in 1976?",
+                    "options": ["Justice, Liberty", "Sovereign, Democratic", "Socialist, Secular, Integrity", "Fraternity, Equality"],
+                    "answer": "Socialist, Secular, Integrity"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Preamble cannot be amended",
+                        "Preamble can be amended but not basic structure",
+                        "Preamble is not part of Constitution now",
+                        "Preamble is a law"
+                    ],
+                    "answer": "Preamble can be amended but not basic structure"
+                },
+                {
+                    "question": "Which case overruled the Berubari view indirectly?",
+                    "options": [
+                        "Golaknath case",
+                        "Kesavananda Bharati case",
+                        "Maneka Gandhi case",
+                        "Minerva Mills case"
+                    ],
+                    "answer": "Kesavananda Bharati case"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Preamble can be amended under Article 368\n2. It is not part of Constitution\n3. It is subject to Basic Structure Doctrine",
+                    "options": ["1 and 3", "2 and 3", "1 and 2", "All"],
+                    "answer": "1 and 3"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Preamble is completely unamendable",
+                        "Preamble is part of Constitution and can be amended",
+                        "Preamble is a statutory law",
+                        "Preamble is a Directive Principle"
+                    ],
+                    "answer": "Preamble is part of Constitution and can be amended"
+                },
+                {
+                    "question": "Which of the following is true?",
+                    "options": [
+                        "Berubari case still holds good",
+                        "Kesavananda Bharati made Preamble non-amendable",
+                        "Preamble reflects basic structure values",
+                        "Preamble is only symbolic and irrelevant"
+                    ],
+                    "answer": "Preamble reflects basic structure values"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Preamble can be amended",
+                        "It cannot violate basic structure",
+                        "It is not part of Constitution",
+                        "It was amended in 1976"
+                    ],
+                    "answer": "It is not part of Constitution"
+                },
+                {
+                    "question": "Main constitutional principle governing amendment of Preamble is:",
+                    "options": [
+                        "Doctrine of Pleasure",
+                        "Basic Structure Doctrine",
+                        "Rule of Law only",
+                        "Parliamentary Sovereignty"
+                    ],
+                    "answer": "Basic Structure Doctrine"
+                }
+            ]
+        }
+    }
+]

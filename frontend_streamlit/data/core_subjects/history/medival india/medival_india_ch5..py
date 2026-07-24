@@ -1,0 +1,1294 @@
+TOPICS = [
+    {
+        "name": "Medieval India – Struggle for Empire in North India: Afghans, Rajputs and Mughals (Babur, Lodi, Rana Sanga)",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Early 16th century North India witnessed intense struggle between Afghans (Lodis), Rajputs, and Mughals",
+                    "This phase marked the transition from Delhi Sultanate to Mughal Empire",
+                    "Key events include Babur’s invasion, defeat of Ibrahim Lodi, and establishment of Mughal rule",
+                    "Rajput resistance under Rana Sanga posed a major challenge to Babur",
+                    "Battle of Panipat (1526) became a turning point in Indian history"
+                ]
+            },
+            {
+                "heading": "Background of Political Situation in North India",
+                "points": [
+                    "Delhi Sultanate under Ibrahim Lodi was weakening",
+                    "Afghan nobility was divided and rebellious",
+                    "Regional kingdoms like Rajputs were asserting independence",
+                    "India was politically fragmented",
+                    "Babur saw opportunity for invasion from Central Asia"
+                ]
+            },
+            {
+                "heading": "Struggle between Ibrahim Lodi and Babur",
+                "points": [
+                    "Ibrahim Lodi was Sultan of Delhi (1517–1526)",
+                    "Faced internal opposition from Afghan nobles",
+                    "Daulat Khan Lodi (Punjab governor) invited Babur to invade India",
+                    "Babur had already established control over Kabul",
+                    "Conflict culminated in First Battle of Panipat (1526)"
+                ]
+            },
+            {
+                "heading": "Babur – Background",
+                "points": [
+                    "Founder of Mughal Empire in India",
+                    "Descendant of Timur (father side) and Genghis Khan (mother side)",
+                    "Originally ruled Ferghana and Kabul",
+                    "Wrote autobiography ‘Baburnama’",
+                    "Expert military strategist with artillery advantage"
+                ]
+            },
+            {
+                "heading": "First Battle of Panipat (1526)",
+                "points": [
+                    "Fought between Babur and Ibrahim Lodi",
+                    "Occurred on 21 April 1526",
+                    "Located near modern Panipat (Haryana)",
+                    "Babur used field artillery and Tulughma tactics",
+                    "Ibrahim Lodi was defeated and killed"
+                ]
+            },
+            {
+                "heading": "Significance of Battle of Panipat (1526)",
+                "points": [
+                    "End of Delhi Sultanate",
+                    "Establishment of Mughal Empire in India",
+                    "Introduction of gunpowder artillery in Indian warfare",
+                    "Decline of Afghan dominance in North India",
+                    "Beginning of new political era"
+                ]
+            },
+            {
+                "heading": "Babur’s Military Strategy",
+                "points": [
+                    "Use of field artillery (Ottoman-style cannons)",
+                    "Tulughma system (encirclement tactic)",
+                    "Superior cavalry tactics",
+                    "Strong discipline and leadership",
+                    "Psychological warfare techniques"
+                ]
+            },
+            {
+                "heading": "Babur’s Problems after Panipat",
+                "points": [
+                    "Control over vast and unfamiliar territory",
+                    "Resistance from Afghan nobles",
+                    "Challenge from Rajput confederacy",
+                    "Limited administrative structure initially",
+                    "Need to stabilize newly conquered empire"
+                ]
+            },
+            {
+                "heading": "Consolidation Challenges",
+                "points": [
+                    "Afghan resistance continued in eastern India",
+                    "Local chieftains resisted Mughal authority",
+                    "Rajput states formed strong alliance under Rana Sanga",
+                    "Babur’s army was small compared to Indian forces",
+                    "Need to establish legitimacy in India"
+                ]
+            },
+            {
+                "heading": "Struggle with Rana Sanga – Background",
+                "points": [
+                    "Rana Sanga (Rana Sangram Singh) was ruler of Mewar",
+                    "Led Rajput confederacy against Babur",
+                    "Aimed to restore Rajput dominance in North India",
+                    "Allied with Afghan nobles against Mughals",
+                    "Represented strongest indigenous resistance to Babur"
+                ]
+            },
+            {
+                "heading": "Battle of Khanwa (1527)",
+                "points": [
+                    "Fought between Babur and Rana Sanga",
+                    "Took place near Fatehpur Sikri (Rajasthan)",
+                    "Rajput-Afghan alliance fought Babur",
+                    "Babur used artillery and tactical superiority",
+                    "Rana Sanga was defeated"
+                ]
+            },
+            {
+                "heading": "Significance of Battle of Khanwa",
+                "points": [
+                    "Established Mughal supremacy in North India",
+                    "Weakened Rajput resistance significantly",
+                    "Strengthened Babur’s control over India",
+                    "Marked end of major Rajput challenge",
+                    "Consolidated Mughal Empire foundation"
+                ]
+            },
+            {
+                "heading": "Rajput Resistance under Rana Sanga",
+                "points": [
+                    "Attempted to unify Rajput kingdoms",
+                    "Formed coalition against Babur",
+                    "Strong military tradition and valor",
+                    "Defeat weakened Rajput political power",
+                    "However, Rajputs later integrated into Mughal system"
+                ]
+            },
+            {
+                "heading": "Babur’s Establishment of Mughal Rule",
+                "points": [
+                    "Won key battles: Panipat (1526), Khanwa (1527)",
+                    "Suppressed Afghan and Rajput opposition",
+                    "Established Mughal administration foundation",
+                    "Introduced Central Asian military traditions",
+                    "Set stage for expansion under Humayun and Akbar"
+                ]
+            },
+            {
+                "heading": "Features of Early Mughal Rule",
+                "points": [
+                    "Military-based empire",
+                    "Use of gunpowder technology",
+                    "Persianized administrative system",
+                    "Centralized monarchy",
+                    "Continued resistance from regional powers"
+                ]
+            },
+            {
+                "heading": "Impact of Struggle for Empire",
+                "points": [
+                    "End of Delhi Sultanate and beginning of Mughal era",
+                    "Decline of Afghan political power",
+                    "Weakening of Rajput confederacy",
+                    "Introduction of new warfare technology",
+                    "Political unification of North India under Mughals"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Founder of Mughal Empire in India was:",
+                    "options": [
+                    "Akbar",
+                    "Babur",
+                    "Humayun",
+                    "Aurangzeb"
+                    ],
+                    "answer": "Babur"
+                },
+                {
+                    "question": "First Battle of Panipat was fought in:",
+                    "options": [
+                    "1526",
+                    "1527",
+                    "1556",
+                    "1192"
+                    ],
+                    "answer": "1526"
+                },
+                {
+                    "question": "Ibrahim Lodi was defeated by:",
+                    "options": [
+                    "Akbar",
+                    "Babur",
+                    "Aurangzeb",
+                    "Shah Jahan"
+                    ],
+                    "answer": "Babur"
+                },
+                {
+                    "question": "Battle of Khanwa was fought between Babur and:",
+                    "options": [
+                    "Rana Pratap",
+                    "Rana Sanga",
+                    "Prithviraj Chauhan",
+                    "Jaichandra"
+                    ],
+                    "answer": "Rana Sanga"
+                },
+                {
+                    "question": "Babur wrote his autobiography called:",
+                    "options": [
+                    "Akbarnama",
+                    "Baburnama",
+                    "Tuzuk-i-Baburi",
+                    "Humayun Nama"
+                    ],
+                    "answer": "Baburnama"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Daulat Khan Lodi invited Babur to India because:",
+                    "options": [
+                    "He wanted peace",
+                    "He was rebelling against Ibrahim Lodi",
+                    "He was Babur’s friend",
+                    "He was Mughal supporter"
+                    ],
+                    "answer": "He was rebelling against Ibrahim Lodi"
+                },
+                {
+                    "question": "Babur used artillery effectively in:",
+                    "options": [
+                    "Battle of Plassey",
+                    "Battle of Panipat (1526)",
+                    "Battle of Haldighati",
+                    "Battle of Talikota"
+                    ],
+                    "answer": "Battle of Panipat (1526)"
+                },
+                {
+                    "question": "Rana Sanga belonged to:",
+                    "options": [
+                    "Mewar",
+                    "Malwa",
+                    "Bengal",
+                    "Gujarat"
+                    ],
+                    "answer": "Mewar"
+                },
+                {
+                    "question": "Main cause of Ibrahim Lodi’s defeat was:",
+                    "options": [
+                    "Strong navy",
+                    "Babur’s superior tactics",
+                    "European support",
+                    "Agricultural crisis"
+                    ],
+                    "answer": "Babur’s superior tactics"
+                },
+                {
+                    "question": "Battle of Khanwa was fought in:",
+                    "options": [
+                    "1526",
+                    "1527",
+                    "1530",
+                    "1540"
+                    ],
+                    "answer": "1527"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Babur defeated Ibrahim Lodi in 1526\n2. Rana Sanga supported Babur in Khanwa\n3. Battle of Khanwa strengthened Mughal rule",
+                    "options": [
+                    "1 and 3 only",
+                    "2 and 3 only",
+                    "1 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "A major factor in Babur’s victory was:",
+                    "options": [
+                    "Elephants only",
+                    "Gunpowder artillery",
+                    "Naval power",
+                    "Diplomacy"
+                    ],
+                    "answer": "Gunpowder artillery"
+                },
+                {
+                    "question": "Struggle between Babur and Rana Sanga represented:",
+                    "options": [
+                    "Foreign trade conflict",
+                    "Indigenous resistance to Mughal rule",
+                    "Religious reform",
+                    "Economic revolution"
+                    ],
+                    "answer": "Indigenous resistance to Mughal rule"
+                },
+                {
+                    "question": "After Panipat, Babur faced challenge mainly from:",
+                    "options": [
+                    "British",
+                    "Rajputs and Afghans",
+                    "Portuguese",
+                    "Chinese"
+                    ],
+                    "answer": "Rajputs and Afghans"
+                },
+                {
+                    "question": "Significance of 1526 Battle of Panipat was:",
+                    "options": [
+                    "Start of British rule",
+                    "End of Delhi Sultanate",
+                    "Start of Gupta Empire",
+                    "End of Mauryan Empire"
+                    ],
+                    "answer": "End of Delhi Sultanate"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Medieval India – Problems of Eastern Areas & Afghans + Babur’s Contribution and Significance of His Advent",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "After Babur’s victory at Panipat (1526), consolidation of Mughal power was not immediate",
+                    "Eastern India and Afghan nobles posed major challenges to Mughal authority",
+                    "Afghans continued resistance in Bihar, Bengal, and eastern Gangetic plains",
+                    "Babur had to stabilize a fragmented political structure",
+                    "His advent marked the beginning of a new imperial phase in Indian history"
+                ]
+            },
+            {
+                "heading": "Political Situation after Panipat (1526)",
+                "points": [
+                    "Delhi Sultanate had collapsed but no stable empire was formed yet",
+                    "Afghan nobles still controlled large parts of North India",
+                    "Eastern regions like Bihar and Bengal were semi-independent",
+                    "Rajput resistance was still active in Rajasthan",
+                    "Babur’s control was mainly limited to Delhi and Agra region"
+                ]
+            },
+            {
+                "heading": "Problems of Eastern Areas – Overview",
+                "points": [
+                    "Eastern India was politically unstable after fall of Lodi rule",
+                    "Afghan chiefs established independent control in Bihar and Bengal",
+                    "Weak central authority allowed rise of regional governors",
+                    "Communication with Delhi was difficult due to distance",
+                    "Economic resources of eastern region were not fully under Mughal control"
+                ]
+            },
+            {
+                "heading": "Afghan Resistance in Eastern India",
+                "points": [
+                    "Afghan nobles regrouped after Ibrahim Lodi’s defeat",
+                    "Sher Shah Suri later emerged from this Afghan resistance base",
+                    "Afghans controlled Bihar and parts of Bengal",
+                    "They opposed Mughal authority continuously",
+                    "Frequent rebellions weakened early Mughal consolidation"
+                ]
+            },
+            {
+                "heading": "Important Afghan Leaders in East",
+                "points": [
+                    "Mahmud Lodi – attempted to revive Afghan power",
+                    "Muhammad Khan Nuhani – controlled Bihar region",
+                    "Afghan chiefs in Bengal resisted Mughal expansion",
+                    "Local Afghan governors acted independently",
+                    "This instability continued until Sher Shah’s rise"
+                ]
+            },
+            {
+                "heading": "Problems in Bihar and Bengal",
+                "points": [
+                    "Bihar became center of Afghan resistance",
+                    "Bengal was ruled by independent Sultanate",
+                    "Frequent conflicts between local chiefs",
+                    "Weak administrative integration with Delhi",
+                    "Strategic importance due to fertile land and trade routes"
+                ]
+            },
+            {
+                "heading": "Babur’s Response to Eastern Problems",
+                "points": [
+                    "Sent military expeditions to suppress Afghan rebels",
+                    "Delegated control to trusted nobles",
+                    "Focused first on North India consolidation",
+                    "Could not fully integrate eastern regions during his reign",
+                    "Maintained nominal control over Bihar and Bengal regions"
+                ]
+            },
+            {
+                "heading": "Babur’s Military and Political Challenges",
+                "points": [
+                    "Small Mughal army compared to vast territories",
+                    "Continuous Afghan rebellions",
+                    "Rajput resistance under Rana Sanga",
+                    "Need to establish legitimacy in India",
+                    "Limited administrative structure in newly conquered regions"
+                ]
+            },
+            {
+                "heading": "Babur’s Contribution – Overview",
+                "points": [
+                    "Founder of Mughal Empire in India",
+                    "Introduced gunpowder artillery warfare",
+                    "Defeated both Afghan and Rajput powers",
+                    "Established centralized imperial authority",
+                    "Laid foundation for long-lasting Mughal rule"
+                ]
+            },
+            {
+                "heading": "Military Contributions of Babur",
+                "points": [
+                    "Introduced effective use of field artillery in India",
+                    "Used advanced Central Asian tactics (Tulughma system)",
+                    "Improved cavalry mobility and discipline",
+                    "Defeated larger Indian armies with smaller force",
+                    "Changed nature of warfare in India"
+                ]
+            },
+            {
+                "heading": "Administrative Contributions",
+                "points": [
+                    "Started centralized imperial administration",
+                    "Appointed trusted nobles to key regions",
+                    "Maintained Persian court culture",
+                    "Established revenue and governance framework (initial stage)",
+                    "Set foundation for Mughal administrative system"
+                ]
+            },
+            {
+                "heading": "Cultural Contributions",
+                "points": [
+                    "Promoted Persian literature and culture",
+                    "Authored Baburnama (autobiography)",
+                    "Introduced Central Asian court traditions",
+                    "Encouraged gardens and architectural planning",
+                    "Blended Timurid and Indian cultural elements"
+                ]
+            },
+            {
+                "heading": "Economic Contributions",
+                "points": [
+                    "Secured major trade centers like Agra and Delhi",
+                    "Encouraged agricultural stability in core regions",
+                    "Strengthened revenue collection in initial phase",
+                    "Controlled important trade routes of North India",
+                    "Laid base for later Mughal economic expansion"
+                ]
+            },
+            {
+                "heading": "Significance of Babur’s Advent into India",
+                "points": [
+                    "Ended Delhi Sultanate and established Mughal rule",
+                    "Introduced new military technology (artillery)",
+                    "Began long period of centralized imperial rule",
+                    "Weakened Afghan political dominance permanently",
+                    "Shifted India into early modern imperial phase"
+                ]
+            },
+            {
+                "heading": "Impact on Indian Polity",
+                "points": [
+                    "Unified large parts of North India under one rule",
+                    "Decline of fragmented Sultanate system",
+                    "Rise of imperial monarchy system",
+                    "Integration of Indian and Central Asian traditions",
+                    "Set stage for expansion under Akbar"
+                ]
+            },
+            {
+                "heading": "Limitations of Babur’s Rule",
+                "points": [
+                    "Control limited to North India core regions",
+                    "Eastern India remained unstable",
+                    "Continuous Afghan resistance",
+                    "Short reign (1526–1530)",
+                    "Need for consolidation left to Humayun"
+                ]
+            },
+            {
+                "heading": "Overall Significance",
+                "points": [
+                    "Babur’s advent marked turning point in Indian history",
+                    "Established foundation of Mughal Empire",
+                    "Introduced new warfare and governance systems",
+                    "Triggered long process of imperial consolidation",
+                    "Transformed political structure of North India"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Babur defeated Ibrahim Lodi in which battle?",
+                    "options": [
+                    "Battle of Khanwa",
+                    "First Battle of Panipat",
+                    "Battle of Haldighati",
+                    "Battle of Talikota"
+                    ],
+                    "answer": "First Battle of Panipat"
+                },
+                {
+                    "question": "Main area of Afghan resistance after 1526 was:",
+                    "options": [
+                    "Gujarat",
+                    "Bihar and Bengal",
+                    "Deccan",
+                    "Rajasthan only"
+                    ],
+                    "answer": "Bihar and Bengal"
+                },
+                {
+                    "question": "Baburnama is:",
+                    "options": [
+                    "Religious text",
+                    "Autobiography of Babur",
+                    "Law book",
+                    "Poetry collection"
+                    ],
+                    "answer": "Autobiography of Babur"
+                },
+                {
+                    "question": "Babur belonged to which dynasty lineage?",
+                    "options": [
+                    "Sayyid",
+                    "Timurid",
+                    "Lodi",
+                    "Khalji"
+                    ],
+                    "answer": "Timurid"
+                },
+                {
+                    "question": "Eastern India after Panipat was mainly controlled by:",
+                    "options": [
+                    "Rajputs",
+                    "Afghan chiefs",
+                    "Portuguese",
+                    "Mughals fully"
+                    ],
+                    "answer": "Afghan chiefs"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Main challenge for Babur after Panipat was:",
+                    "options": [
+                    "European invasion",
+                    "Consolidation of power",
+                    "Industrial development",
+                    "Maritime expansion"
+                    ],
+                    "answer": "Consolidation of power"
+                },
+                {
+                    "question": "Tulughma system refers to:",
+                    "options": [
+                    "Revenue system",
+                    "Encirclement military tactic",
+                    "Tax system",
+                    "Religious law"
+                    ],
+                    "answer": "Encirclement military tactic"
+                },
+                {
+                    "question": "Bihar became a center of:",
+                    "options": [
+                    "Trade only",
+                    "Afghan resistance",
+                    "Buddhism revival",
+                    "Portuguese settlement"
+                    ],
+                    "answer": "Afghan resistance"
+                },
+                {
+                    "question": "Babur’s reign lasted approximately:",
+                    "options": [
+                    "10 years",
+                    "4 years",
+                    "20 years",
+                    "25 years"
+                    ],
+                    "answer": "4 years"
+                },
+                {
+                    "question": "Babur introduced artillery technology from:",
+                    "options": [
+                    "China",
+                    "Central Asia/Ottoman influence",
+                    "Europe only",
+                    "Africa"
+                    ],
+                    "answer": "Central Asia/Ottoman influence"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Eastern India was fully controlled by Babur\n2. Afghans continued resistance after 1526\n3. Babur introduced artillery warfare in India",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "2 and 3 only"
+                },
+                {
+                    "question": "A major reason for Babur’s success was:",
+                    "options": [
+                    "Large army",
+                    "Gunpowder artillery and tactics",
+                    "Naval superiority",
+                    "Economic wealth of India"
+                    ],
+                    "answer": "Gunpowder artillery and tactics"
+                },
+                {
+                    "question": "Babur’s main limitation in India was:",
+                    "options": [
+                    "Strong navy",
+                    "Weak administrative control in provinces",
+                    "Industrial backwardness",
+                    "Lack of soldiers"
+                    ],
+                    "answer": "Weak administrative control in provinces"
+                },
+                {
+                    "question": "Afghan resistance in eastern India later led to rise of:",
+                    "options": [
+                    "Mauryas",
+                    "Sher Shah Suri",
+                    "Guptas",
+                    "Cholas"
+                    ],
+                    "answer": "Sher Shah Suri"
+                },
+                {
+                    "question": "Significance of Babur’s advent includes:",
+                    "options": [
+                    "End of Mughal Empire",
+                    "Beginning of Mughal Empire",
+                    "End of British rule",
+                    "Start of Gupta Empire"
+                    ],
+                    "answer": "Beginning of Mughal Empire"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Medieval India – Humayun and the Afghans: Early Activities, Tussle with Bahadur Shah & Gujarat Campaign",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Humayun (1530–1540, 1555–1556) was the second Mughal emperor and son of Babur",
+                    "His reign was marked by continuous conflicts with Afghans and regional powers",
+                    "Main challenges included Bahadur Shah of Gujarat and Afghan resurgence under Sher Shah Suri",
+                    "Early Mughal consolidation was weak due to administrative instability",
+                    "His rule represents a phase of struggle and temporary decline of Mughal power"
+                ]
+            },
+            {
+                "heading": "Humayun – Background",
+                "points": [
+                    "Succeeded Babur in 1530 CE",
+                    "Inherited an unstable and newly established empire",
+                    "Faced internal divisions among Mughal nobles",
+                    "Lacked strong administrative control compared to Babur",
+                    "Had to deal with Afghan resurgence and regional kingdoms"
+                ]
+            },
+            {
+                "heading": "Early Activities of Humayun",
+                "points": [
+                    "Divided empire among his brothers (weak administrative decision)",
+                    "Faced rebellions in Bengal, Bihar, and Gujarat",
+                    "Initial focus on consolidating Mughal territories",
+                    "Struggled with Afghan nobles gaining strength",
+                    "Failed to maintain unity among Mughal princes"
+                ]
+            },
+            {
+                "heading": "Administrative Weaknesses of Humayun",
+                "points": [
+                    "Loose control over provincial governors",
+                    "Over-reliance on trusted nobles",
+                    "Poor coordination in military campaigns",
+                    "Fragmented empire structure",
+                    "Lack of strong centralized authority"
+                ]
+            },
+            {
+                "heading": "Rise of Afghan Power during Humayun’s Reign",
+                "points": [
+                    "Afghans regrouped under leaders like Sher Shah Suri",
+                    "Bihar and Bengal became centers of Afghan strength",
+                    "Afghan nobles challenged Mughal authority continuously",
+                    "Local resistance weakened Mughal control in east",
+                    "Afghan resurgence became major threat to Humayun"
+                ]
+            },
+            {
+                "heading": "Bahadur Shah of Gujarat – Background",
+                "points": [
+                    "Ruler of Gujarat Sultanate",
+                    "Expanded power in western India",
+                    "Controlled wealthy trade region",
+                    "Provided refuge to Mughal enemies",
+                    "Became major rival of Humayun"
+                ]
+            },
+            {
+                "heading": "Tussle with Bahadur Shah of Gujarat",
+                "points": [
+                    "Bahadur Shah supported Afghan rebels against Mughals",
+                    "Controlled strategic ports and trade routes",
+                    "Humayun saw Gujarat as economically important",
+                    "Conflict emerged over dominance in western India",
+                    "Led to Gujarat Campaign by Humayun"
+                ]
+            },
+            {
+                "heading": "Causes of Conflict with Bahadur Shah",
+                "points": [
+                    "Strategic importance of Gujarat ports (trade with West Asia)",
+                    "Bahadur Shah’s expansionist policy",
+                    "Support to enemies of Mughals",
+                    "Desire of Humayun to expand Mughal empire",
+                    "Political rivalry between two powers"
+                ]
+            },
+            {
+                "heading": "Gujarat Campaign (1535 CE)",
+                "points": [
+                    "Humayun marched against Bahadur Shah",
+                    "Successfully captured Mandu and Champaner",
+                    "Bahadur Shah temporarily fled",
+                    "Mughal forces occupied Gujarat region",
+                    "However, control was not sustained long-term"
+                ]
+            },
+            {
+                "heading": "Outcome of Gujarat Campaign",
+                "points": [
+                    "Temporary Mughal control over Gujarat",
+                    "Administrative instability in newly conquered region",
+                    "Bahadur Shah regained Gujarat later",
+                    "Humayun diverted attention from eastern Afghan threat",
+                    "Weak consolidation of western territories"
+                ]
+            },
+            {
+                "heading": "Strategic Mistakes of Humayun in Gujarat Campaign",
+                "points": [
+                    "Overextension of military resources",
+                    "Lack of stable administration after conquest",
+                    "Neglected Afghan threat in Bihar and Bengal",
+                    "Delayed response to Sher Shah Suri’s rise",
+                    "Failure to consolidate victories"
+                ]
+            },
+            {
+                "heading": "Sher Shah Suri Connection (Indirect Impact)",
+                "points": [
+                    "While Humayun was busy in Gujarat, Sher Shah strengthened in east",
+                    "Afghan power consolidated in Bihar and Bengal",
+                    "Sher Shah defeated local Mughal governors",
+                    "Became dominant Afghan leader",
+                    "Later defeated Humayun at Chausa and Kannauj"
+                ]
+            },
+            {
+                "heading": "Importance of Early Conflicts of Humayun",
+                "points": [
+                    "Exposed weaknesses of early Mughal administration",
+                    "Showed importance of centralized control",
+                    "Shifted focus between multiple fronts weakened empire",
+                    "Allowed rise of Sher Shah Suri",
+                    "Set stage for temporary exile of Humayun"
+                ]
+            },
+            {
+                "heading": "Significance of Gujarat Campaign",
+                "points": [
+                    "Highlighted importance of western trade routes",
+                    "Expanded Mughal territorial ambitions",
+                    "Demonstrated limits of Mughal military control",
+                    "Temporary expansion of empire",
+                    "Strategic distraction from eastern threats"
+                ]
+            },
+            {
+                "heading": "Conclusion",
+                "points": [
+                    "Humayun’s early reign was marked by instability and weak consolidation",
+                    "Conflict with Bahadur Shah reflected regional power struggles",
+                    "Gujarat campaign showed both ambition and administrative weakness",
+                    "Neglect of eastern Afghan threat proved costly",
+                    "His early failures paved way for Sher Shah Suri’s rise and later Mughal restoration"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Humayun succeeded which Mughal ruler?",
+                    "options": [
+                    "Akbar",
+                    "Babur",
+                    "Aurangzeb",
+                    "Jahangir"
+                    ],
+                    "answer": "Babur"
+                },
+                {
+                    "question": "Bahadur Shah was ruler of:",
+                    "options": [
+                    "Bengal",
+                    "Gujarat",
+                    "Malwa",
+                    "Mewar"
+                    ],
+                    "answer": "Gujarat"
+                },
+                {
+                    "question": "Gujarat Campaign was led by:",
+                    "options": [
+                    "Babur",
+                    "Humayun",
+                    "Akbar",
+                    "Sher Shah"
+                    ],
+                    "answer": "Humayun"
+                },
+                {
+                    "question": "Humayun’s reign is best described as:",
+                    "options": [
+                    "Stable empire",
+                    "Period of struggle",
+                    "Golden age",
+                    "Colonial phase"
+                    ],
+                    "answer": "Period of struggle"
+                },
+                {
+                    "question": "Sher Shah Suri emerged from:",
+                    "options": [
+                    "Rajput states",
+                    "Afghan power base in Bihar",
+                    "Gujarat Sultanate",
+                    "Deccan Sultanate"
+                    ],
+                    "answer": "Afghan power base in Bihar"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Main reason for conflict between Humayun and Bahadur Shah was:",
+                    "options": [
+                    "Religious difference",
+                    "Trade and territorial control",
+                    "Language dispute",
+                    "Cultural rivalry only"
+                    ],
+                    "answer": "Trade and territorial control"
+                },
+                {
+                    "question": "One major weakness of Humayun was:",
+                    "options": [
+                    "Strong navy",
+                    "Administrative instability",
+                    "Industrial growth",
+                    "Scientific advancement"
+                    ],
+                    "answer": "Administrative instability"
+                },
+                {
+                    "question": "Gujarat was important mainly because of:",
+                    "options": [
+                    "Minerals",
+                    "Sea trade routes",
+                    "Forest resources",
+                    "Military camps"
+                    ],
+                    "answer": "Sea trade routes"
+                },
+                {
+                    "question": "Humayun’s Gujarat conquest was:",
+                    "options": [
+                    "Permanent success",
+                    "Temporary success",
+                    "Failure from start",
+                    "Not attempted"
+                    ],
+                    "answer": "Temporary success"
+                },
+                {
+                    "question": "Eastern Afghan threat was mainly under:",
+                    "options": [
+                    "Rana Sanga",
+                    "Sher Shah Suri",
+                    "Akbar",
+                    "Ibrahim Lodi"
+                    ],
+                    "answer": "Sher Shah Suri"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Humayun defeated Bahadur Shah permanently\n2. Gujarat was important for trade routes\n3. Sher Shah Suri rose during Humayun’s absence from east",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "2 and 3 only"
+                },
+                {
+                    "question": "A major strategic mistake of Humayun was:",
+                    "options": [
+                    "Ignoring agriculture",
+                    "Dividing focus between multiple fronts",
+                    "Building navy",
+                    "Religious intolerance"
+                    ],
+                    "answer": "Dividing focus between multiple fronts"
+                },
+                {
+                    "question": "Gujarat campaign weakened Mughal control because:",
+                    "options": [
+                    "It strengthened eastern defense",
+                    "It diverted attention from Afghan threat",
+                    "It ended trade",
+                    "It unified India"
+                    ],
+                    "answer": "It diverted attention from Afghan threat"
+                },
+                {
+                    "question": "Bahadur Shah’s importance lay in:",
+                    "options": [
+                    "Northern expansion",
+                    "Control of western trade routes",
+                    "Religious reforms",
+                    "Agrarian reforms"
+                    ],
+                    "answer": "Control of western trade routes"
+                },
+                {
+                    "question": "Humayun’s reign ultimately led to:",
+                    "options": [
+                    "Stable empire",
+                    "Temporary Mughal decline",
+                    "British rule",
+                    "Mauryan revival"
+                    ],
+                    "answer": "Temporary Mughal decline"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Medieval India – Bengal Campaign & Struggle with Sher Khan (Sher Shah Suri) under Humayun",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Humayun’s conflict with Sher Khan (later Sher Shah Suri) was the most decisive phase of his reign",
+                    "Bengal campaign exposed Mughal administrative and military weaknesses",
+                    "Sher Khan emerged as the strongest Afghan leader in eastern India",
+                    "Series of defeats at Chausa (1539) and Kannauj (1540) led to Humayun’s exile",
+                    "This struggle marked the temporary end of Mughal rule in North India"
+                ]
+            },
+            {
+                "heading": "Background: Rise of Sher Khan (Sher Shah Suri)",
+                "points": [
+                    "Originally named Farid Khan, later titled Sher Khan",
+                    "Belonged to Afghan Sur tribe",
+                    "Built power base in Bihar and eastern Uttar Pradesh",
+                    "Served under Afghan ruler of Bihar before gaining independence",
+                    "Established strong administrative and military base in eastern India"
+                ]
+            },
+            {
+                "heading": "Early Relations between Humayun and Sher Khan",
+                "points": [
+                    "Sher Khan initially served under Mughal administration in Bihar",
+                    "Humayun underestimated Sher Khan’s political strength",
+                    "Sher Khan gradually consolidated control over Bihar",
+                    "He expanded influence into Bengal region",
+                    "Humayun delayed decisive action against him"
+                ]
+            },
+            {
+                "heading": "Importance of Bengal Campaign",
+                "points": [
+                    "Bengal was rich in agriculture and trade",
+                    "Strategic control over eastern India",
+                    "Control of riverine trade routes (Ganga delta)",
+                    "Economic importance for Mughal treasury",
+                    "Bengal was under weak Sultanate rule before Sher Khan’s intervention"
+                ]
+            },
+            {
+                "heading": "Sher Khan’s Expansion into Bengal",
+                "points": [
+                    "Defeated Bengal Sultan Mahmud Shah",
+                    "Captured large parts of Bengal region",
+                    "Established control over eastern India",
+                    "Strengthened revenue collection system",
+                    "Became dominant power in Bihar-Bengal region"
+                ]
+            },
+            {
+                "heading": "Humayun’s Bengal Campaign (1537–1538)",
+                "points": [
+                    "Humayun marched against Sher Khan from Agra",
+                    "Captured Chunar fort (strategic location)",
+                    "Advanced slowly into Bengal region",
+                    "Occupied Gaur (capital of Bengal Sultanate)",
+                    "Delayed return weakened Mughal position in north"
+                ]
+            },
+            {
+                "heading": "Strategic Mistakes in Bengal Campaign",
+                "points": [
+                    "Excessive time spent in Bengal administration",
+                    "Neglected Sher Khan’s growing power in Bihar",
+                    "Poor supply lines for Mughal army",
+                    "Lack of coordination among Mughal nobles",
+                    "Underestimated Afghan military strength"
+                ]
+            },
+            {
+                "heading": "Sher Khan’s Counter Strategy",
+                "points": [
+                    "Cut off Mughal supply routes",
+                    "Occupied strategic forts like Rohtas",
+                    "Isolated Humayun in Bengal",
+                    "Mobilized Afghan support across eastern India",
+                    "Used guerrilla warfare tactics effectively"
+                ]
+            },
+            {
+                "heading": "Battle of Chausa (1539)",
+                "points": [
+                    "Fought between Humayun and Sher Khan near Chausa (Bihar)",
+                    "Mughal army suffered severe defeat",
+                    "Humayun narrowly escaped death by swimming across river",
+                    "Sher Khan assumed title Sher Shah after victory",
+                    "Marked turning point in Mughal-Afghan struggle"
+                ]
+            },
+            {
+                "heading": "Significance of Battle of Chausa",
+                "points": [
+                    "Severe weakening of Mughal military strength",
+                    "Boosted Sher Shah’s legitimacy as ruler",
+                    "Loss of Bengal campaign gains for Humayun",
+                    "Encouraged Afghan resurgence",
+                    "Prepared ground for final battle at Kannauj"
+                ]
+            },
+            {
+                "heading": "Battle of Kannauj / Bilgram (1540)",
+                "points": [
+                    "Final decisive battle between Humayun and Sher Shah",
+                    "Fought in Uttar Pradesh region",
+                    "Sher Shah completely defeated Mughal forces",
+                    "Humayun forced into exile",
+                    "End of early Mughal rule in India"
+                ]
+            },
+            {
+                "heading": "Consequences of Kannauj Defeat",
+                "points": [
+                    "Establishment of Sur Empire under Sher Shah",
+                    "Humayun fled to Persia and later returned after 15 years",
+                    "Temporary end of Mughal dynasty in India",
+                    "Afghan dominance restored in North India",
+                    "Beginning of administrative reforms under Sher Shah"
+                ]
+            },
+            {
+                "heading": "Why Humayun Failed against Sher Shah",
+                "points": [
+                    "Weak administrative coordination",
+                    "Poor strategic planning in Bengal campaign",
+                    "Underestimation of Sher Shah’s capabilities",
+                    "Lack of unified Mughal nobility",
+                    "Overextension of military resources"
+                ]
+            },
+            {
+                "heading": "Sher Shah’s Strengths",
+                "points": [
+                    "Strong administrative skills",
+                    "Efficient revenue system",
+                    "Excellent military strategy",
+                    "Strong intelligence network",
+                    "Popular support among Afghan nobles"
+                ]
+            },
+            {
+                "heading": "Impact of Bengal Campaign and Afghan Struggle",
+                "points": [
+                    "Shifted power from Mughals to Sur Empire temporarily",
+                    "Strengthened Afghan political dominance",
+                    "Exposed weaknesses of early Mughal administration",
+                    "Highlighted importance of logistics in warfare",
+                    "Set stage for later Mughal reforms under Akbar"
+                ]
+            },
+            {
+                "heading": "Historical Significance",
+                "points": [
+                    "Marked one of the most important transitions in Indian history",
+                    "Showed rise of Sher Shah as an administrative genius",
+                    "Demonstrated failure of Humayun’s early rule",
+                    "Temporary interruption of Mughal rule",
+                    "Led to stronger Mughal Empire after Humayun’s return"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Sher Khan later became known as:",
+                    "options": [
+                    "Akbar",
+                    "Sher Shah Suri",
+                    "Babur",
+                    "Aurangzeb"
+                    ],
+                    "answer": "Sher Shah Suri"
+                },
+                {
+                    "question": "Battle of Chausa was fought in:",
+                    "options": [
+                    "1539",
+                    "1540",
+                    "1526",
+                    "1556"
+                    ],
+                    "answer": "1539"
+                },
+                {
+                    "question": "Battle of Kannauj (Bilgram) resulted in defeat of:",
+                    "options": [
+                    "Babur",
+                    "Humayun",
+                    "Akbar",
+                    "Ibrahim Lodi"
+                    ],
+                    "answer": "Humayun"
+                },
+                {
+                    "question": "Bengal was important mainly because of:",
+                    "options": [
+                    "Religious centers",
+                    "Trade and agriculture",
+                    "Military training",
+                    "Desert resources"
+                    ],
+                    "answer": "Trade and agriculture"
+                },
+                {
+                    "question": "Sher Khan belonged to which Afghan tribe?",
+                    "options": [
+                    "Khalji",
+                    "Sur",
+                    "Lodi",
+                    "Suriya"
+                    ],
+                    "answer": "Sur"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Humayun’s Bengal campaign was weakened mainly due to:",
+                    "options": [
+                    "Strong navy",
+                    "Logistical and strategic errors",
+                    "Foreign invasion",
+                    "Natural disaster"
+                    ],
+                    "answer": "Logistical and strategic errors"
+                },
+                {
+                    "question": "After victory at Chausa, Sher Khan assumed title:",
+                    "options": [
+                    "Akbar",
+                    "Sher Shah",
+                    "Humayun",
+                    "Sikandar"
+                    ],
+                    "answer": "Sher Shah"
+                },
+                {
+                    "question": "Humayun escaped at Chausa by:",
+                    "options": [
+                    "Horse ride",
+                    "Swimming across river",
+                    "Boat only",
+                    "Disguise"
+                    ],
+                    "answer": "Swimming across river"
+                },
+                {
+                    "question": "Final defeat of Humayun occurred at:",
+                    "options": [
+                    "Panipat",
+                    "Kannauj",
+                    "Khanwa",
+                    "Chittor"
+                    ],
+                    "answer": "Kannauj"
+                },
+                {
+                    "question": "Sher Shah’s rise led to establishment of:",
+                    "options": [
+                    "Gupta Empire",
+                    "Sur Empire",
+                    "Mauryan Empire",
+                    "Maratha Empire"
+                    ],
+                    "answer": "Sur Empire"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Humayun defeated Sher Khan at Chausa\n2. Bengal campaign weakened Mughal position in North India\n3. Sher Shah introduced efficient administration later",
+                    "options": [
+                    "2 and 3 only",
+                    "1 and 2 only",
+                    "1 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "2 and 3 only"
+                },
+                {
+                    "question": "A major reason for Humayun’s defeat was:",
+                    "options": [
+                    "Superior Mughal logistics",
+                    "Sher Shah’s superior strategy",
+                    "European support to Mughals",
+                    "Naval weakness"
+                    ],
+                    "answer": "Sher Shah’s superior strategy"
+                },
+                {
+                    "question": "Battle of Chausa is significant because:",
+                    "options": [
+                    "It established Mughal rule",
+                    "It marked Sher Shah’s rise",
+                    "It ended British rule",
+                    "It started Mauryan Empire"
+                    ],
+                    "answer": "It marked Sher Shah’s rise"
+                },
+                {
+                    "question": "Bengal campaign failure led to:",
+                    "options": [
+                    "Mughal expansion",
+                    "Temporary Mughal decline",
+                    "Industrial growth",
+                    "Religious reforms"
+                    ],
+                    "answer": "Temporary Mughal decline"
+                },
+                {
+                    "question": "Sher Shah Suri’s rise was primarily due to:",
+                    "options": [
+                    "Religious leadership",
+                    "Administrative and military strength",
+                    "Foreign invasion",
+                    "European support"
+                    ],
+                    "answer": "Administrative and military strength"
+                }
+            ]
+        }
+    }
+]

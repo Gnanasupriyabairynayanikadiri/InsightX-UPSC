@@ -1,0 +1,1445 @@
+TOPICS = [
+    {
+        "name": "Nano-Science & Nanotechnology – Basics, Origin & Nanomaterials",
+        "notes": [
+            {
+                "heading": "Introduction",
+                "points": [
+                    "Nanoscience is the study of materials at extremely small scale (1 to 100 nanometers)",
+                    "Nanotechnology is the application of nanoscience in designing new materials and devices",
+                    "At nanoscale, materials show unique physical, chemical, and biological properties",
+                    "It is an interdisciplinary field involving physics, chemistry, biology, and engineering",
+                    "Important for UPSC GS Paper 3 (Science & Technology, Emerging Technologies)"
+                ]
+            },
+            {
+                "heading": "What is Nanoscience?",
+                "points": [
+                    "Nanoscience deals with understanding materials at atomic and molecular scale",
+                    "Size range is typically 1–100 nanometers (1 nm = 10⁻⁹ meter)",
+                    "At this scale, quantum effects become dominant",
+                    "Properties of materials change significantly compared to bulk form",
+                    "Focuses on studying behavior of particles at nanoscale"
+                ]
+            },
+            {
+                "heading": "What is Nanotechnology?",
+                "points": [
+                    "Nanotechnology is the practical application of nanoscience",
+                    "It involves designing, producing, and using structures at nanoscale",
+                    "Used to create advanced materials, devices, and systems",
+                    "Works at molecular and atomic level manipulation",
+                    "Enables innovation in medicine, electronics, energy, and environment"
+                ]
+            },
+            {
+                "heading": "Origination of Nanoscience and Technology",
+                "points": [
+                    "Concept first introduced by physicist Richard Feynman in 1959 lecture ‘There’s Plenty of Room at the Bottom’",
+                    "Term ‘nanotechnology’ was popularized by Norio Taniguchi in 1974",
+                    "Development accelerated with invention of scanning tunneling microscope (1981)",
+                    "Advances in microscopy allowed observation of atoms and molecules",
+                    "Modern nanotechnology grew rapidly in late 20th century"
+                ]
+            },
+            {
+                "heading": "Milestones in Nanotechnology",
+                "points": [
+                    "1959 – Concept introduced by Richard Feynman",
+                    "1981 – Scanning Tunneling Microscope invented",
+                    "1991 – Discovery of carbon nanotubes",
+                    "2000s – Global nanotechnology research programs expanded",
+                    "Present – Applications in medicine, electronics, and materials science"
+                ]
+            },
+            {
+                "heading": "Basics of Nanoscience",
+                "points": [
+                    "Deals with behavior of materials at nanoscale",
+                    "Quantum effects dominate at this scale",
+                    "Surface area to volume ratio increases significantly",
+                    "Physical properties like strength, color, and conductivity change",
+                    "Atoms and molecules can be manipulated individually"
+                ]
+            },
+            {
+                "heading": "Key Principles of Nanoscience",
+                "points": [
+                    "Quantum mechanics governs particle behavior at nanoscale",
+                    "Increased surface area enhances reactivity",
+                    "Size-dependent properties (optical, electrical, magnetic)",
+                    "Self-assembly of molecules",
+                    "Manipulation at atomic level"
+                ]
+            },
+            {
+                "heading": "Nanomaterials – Overview",
+                "points": [
+                    "Nanomaterials are materials with structural components smaller than 100 nm",
+                    "Exhibit unique properties compared to bulk materials",
+                    "Can be naturally occurring, incidental, or engineered",
+                    "Used in electronics, medicine, energy, and environment",
+                    "Key area of nanotechnology applications"
+                ]
+            },
+            {
+                "heading": "Types of Nanomaterials",
+                "points": [
+                    "Zero-dimensional (0D) – nanoparticles, quantum dots",
+                    "One-dimensional (1D) – nanowires, nanotubes",
+                    "Two-dimensional (2D) – graphene sheets",
+                    "Three-dimensional (3D) – nanostructured materials",
+                    "Each type has distinct properties and uses"
+                ]
+            },
+            {
+                "heading": "Properties of Nanomaterials",
+                "points": [
+                    "High surface area to volume ratio",
+                    "Enhanced chemical reactivity",
+                    "Improved strength and durability",
+                    "Unique optical and electrical properties",
+                    "Quantum effects dominate behavior"
+                ]
+            },
+            {
+                "heading": "Applications of Nanomaterials",
+                "points": [
+                    "Medicine – targeted drug delivery, cancer treatment",
+                    "Electronics – faster chips and sensors",
+                    "Energy – solar cells and batteries",
+                    "Environment – water purification and pollution control",
+                    "Materials – stronger and lighter composites"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Nanotechnology deals with size range of:",
+                    "options": [
+                    "1–10 meters",
+                    "1–100 nanometers",
+                    "1–100 millimeters",
+                    "1–100 kilometers"
+                    ],
+                    "answer": "1–100 nanometers"
+                },
+                {
+                    "question": "Father of nanotechnology concept is:",
+                    "options": [
+                    "Albert Einstein",
+                    "Richard Feynman",
+                    "Newton",
+                    "Bohr"
+                    ],
+                    "answer": "Richard Feynman"
+                },
+                {
+                    "question": "Nanomaterials are usually smaller than:",
+                    "options": [
+                    "1 meter",
+                    "100 nanometers",
+                    "100 micrometers",
+                    "1 kilometer"
+                    ],
+                    "answer": "100 nanometers"
+                },
+                {
+                    "question": "Quantum effects are dominant in:",
+                    "options": [
+                    "Macro scale",
+                    "Nano scale",
+                    "Large scale",
+                    "Planetary scale"
+                    ],
+                    "answer": "Nano scale"
+                },
+                {
+                    "question": "Graphene is an example of:",
+                    "options": [
+                    "0D material",
+                    "2D material",
+                    "3D material",
+                    "Gas material"
+                    ],
+                    "answer": "2D material"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Nanotechnology was coined by:",
+                    "options": [
+                    "Newton",
+                    "Norio Taniguchi",
+                    "Einstein",
+                    "Tesla"
+                    ],
+                    "answer": "Norio Taniguchi"
+                },
+                {
+                    "question": "Carbon nanotubes are:",
+                    "options": [
+                    "0D materials",
+                    "1D materials",
+                    "2D materials",
+                    "Bulk materials"
+                    ],
+                    "answer": "1D materials"
+                },
+                {
+                    "question": "Nanomaterials have high:",
+                    "options": [
+                    "Mass",
+                    "Surface area to volume ratio",
+                    "Temperature only",
+                    "Gravity"
+                    ],
+                    "answer": "Surface area to volume ratio"
+                },
+                {
+                    "question": "Quantum dots belong to:",
+                    "options": [
+                    "0D nanomaterials",
+                    "1D nanomaterials",
+                    "2D nanomaterials",
+                    "Bulk materials"
+                    ],
+                    "answer": "0D nanomaterials"
+                },
+                {
+                    "question": "Nanotechnology is used in:",
+                    "options": [
+                    "Only agriculture",
+                    "Medicine and electronics",
+                    "Only mining",
+                    "Only transport"
+                    ],
+                    "answer": "Medicine and electronics"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. Nanotechnology works at atomic scale\n2. Nanomaterials always behave like bulk materials\n3. Graphene is a 2D material",
+                    "options": [
+                    "1 and 3 only",
+                    "2 and 3 only",
+                    "1 and 2 only",
+                    "All"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                    "Nanoscience – Study of nanoscale phenomena",
+                    "Nanotechnology – Study of planets",
+                    "Quantum dots – 3D materials",
+                    "Graphene – 1D material"
+                    ],
+                    "answer": "Nanoscience – Study of nanoscale phenomena"
+                },
+                {
+                    "question": "Main feature of nanomaterials is:",
+                    "options": [
+                    "Low reactivity",
+                    "High surface reactivity",
+                    "No change in properties",
+                    "Large size"
+                    ],
+                    "answer": "High surface reactivity"
+                },
+                {
+                    "question": "Scanning Tunneling Microscope helped in:",
+                    "options": [
+                    "Space exploration",
+                    "Seeing atoms",
+                    "Cooking food",
+                    "Weather forecasting"
+                    ],
+                    "answer": "Seeing atoms"
+                },
+                {
+                    "question": "Nanotechnology improves:",
+                    "options": [
+                    "Only agriculture",
+                    "Medicine, electronics, and energy",
+                    "Only transport",
+                    "Only mining"
+                    ],
+                    "answer": "Medicine, electronics, and energy"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Applications of Nanotechnology – Nanomedicine, Semiconductors & Food",
+        "notes": [
+            {
+                "heading": "Introduction",
+                "points": [
+                    "Nanotechnology is the manipulation of matter at 1–100 nanometer scale",
+                    "At this scale, materials exhibit unique properties different from bulk materials",
+                    "These properties are widely used in medicine, electronics, and food industry",
+                    "It is a key emerging technology for innovation and economic growth",
+                    "Important for UPSC GS Paper 3 (Science & Technology, Health, Industry)"
+                ]
+            },
+            {
+                "heading": "Applications of Nanotechnology – Overview",
+                "points": [
+                    "Nanotechnology is applied in multiple sectors due to enhanced material properties",
+                    "Major sectors include healthcare, electronics, energy, agriculture, and food",
+                    "Enables targeted solutions at molecular level",
+                    "Improves efficiency, precision, and sustainability",
+                    "Supports advanced research and industrial development"
+                ]
+            },
+            {
+                "heading": "Nanomedicine – Overview",
+                "points": [
+                    "Nanomedicine is the application of nanotechnology in healthcare",
+                    "Focuses on diagnosis, treatment, and prevention of diseases at molecular level",
+                    "Uses nanoparticles for targeted drug delivery",
+                    "Improves effectiveness and reduces side effects of medicines",
+                    "Revolutionizing modern healthcare systems"
+                ]
+            },
+            {
+                "heading": "Applications of Nanomedicine",
+                "points": [
+                    "Targeted drug delivery systems for cancer treatment",
+                    "Nanoparticles used for imaging and diagnostics",
+                    "Early detection of diseases like cancer and infections",
+                    "Regenerative medicine and tissue repair",
+                    "Smart drug delivery systems controlled by stimuli"
+                ]
+            },
+            {
+                "heading": "Advantages of Nanomedicine",
+                "points": [
+                    "Higher precision in drug targeting",
+                    "Reduced side effects compared to traditional medicine",
+                    "Improved absorption of drugs in body",
+                    "Early disease detection",
+                    "Better treatment outcomes for chronic diseases"
+                ]
+            },
+            {
+                "heading": "Challenges in Nanomedicine",
+                "points": [
+                    "Potential toxicity of nanoparticles",
+                    "High research and development cost",
+                    "Regulatory and ethical issues",
+                    "Long-term health effects still under study",
+                    "Complex manufacturing processes"
+                ]
+            },
+            {
+                "heading": "Nanotechnology in Semiconductors and Computing",
+                "points": [
+                    "Nanotechnology is used to design smaller and faster electronic components",
+                    "Enhances performance of semiconductor chips",
+                    "Enables miniaturization of electronic devices",
+                    "Critical for development of advanced computing systems",
+                    "Supports AI, IoT, and quantum computing technologies"
+                ]
+            },
+            {
+                "heading": "Applications in Semiconductors",
+                "points": [
+                    "Nano-scale transistors in microprocessors",
+                    "Improved memory storage devices",
+                    "Faster and energy-efficient chips",
+                    "Quantum dots used in displays and computing",
+                    "Advanced sensors in electronic devices"
+                ]
+            },
+            {
+                "heading": "Importance in Computing",
+                "points": [
+                    "Increases processing speed of computers",
+                    "Reduces size of electronic devices",
+                    "Improves battery efficiency",
+                    "Enables development of quantum computing",
+                    "Supports high-performance computing systems"
+                ]
+            },
+            {
+                "heading": "Nanotechnology in Food Industry",
+                "points": [
+                    "Used to improve food quality, safety, and packaging",
+                    "Enhances shelf life of food products",
+                    "Helps in detection of contaminants and pathogens",
+                    "Improves nutrient delivery in functional foods",
+                    "Supports smart packaging systems"
+                ]
+            },
+            {
+                "heading": "Applications in Food Sector",
+                "points": [
+                    "Nano-encapsulation of nutrients for better absorption",
+                    "Antimicrobial food packaging materials",
+                    "Sensors to detect spoilage and contamination",
+                    "Improved flavor and texture enhancement",
+                    "Controlled release of additives and preservatives"
+                ]
+            },
+            {
+                "heading": "Benefits of Nanotechnology in Food",
+                "points": [
+                    "Improved food safety and hygiene",
+                    "Longer shelf life of food products",
+                    "Enhanced nutritional value",
+                    "Reduced food wastage",
+                    "Efficient food processing technologies"
+                ]
+            },
+            {
+                "heading": "Concerns in Food Nanotechnology",
+                "points": [
+                    "Potential toxicity of nano-additives",
+                    "Lack of clear regulations in some regions",
+                    "Consumer acceptance issues",
+                    "Environmental impact of nano-materials",
+                    "Need for long-term safety studies"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Nanomedicine is mainly used in:",
+                    "options": [
+                    "Space exploration",
+                    "Healthcare and disease treatment",
+                    "Agriculture only",
+                    "Construction"
+                    ],
+                    "answer": "Healthcare and disease treatment"
+                },
+                {
+                    "question": "Nanotechnology improves semiconductor devices by:",
+                    "options": [
+                    "Increasing size",
+                    "Miniaturization and efficiency",
+                    "Reducing speed",
+                    "Increasing weight"
+                    ],
+                    "answer": "Miniaturization and efficiency"
+                },
+                {
+                    "question": "Nanotechnology in food is used for:",
+                    "options": [
+                    "Building houses",
+                    "Food safety and packaging",
+                    "Mining",
+                    "Transport systems"
+                    ],
+                    "answer": "Food safety and packaging"
+                },
+                {
+                    "question": "Nano-encapsulation is used for:",
+                    "options": [
+                    "Destroying food",
+                    "Controlled nutrient delivery",
+                    "Increasing pollution",
+                    "Reducing internet speed"
+                    ],
+                    "answer": "Controlled nutrient delivery"
+                },
+                {
+                    "question": "Nanomedicine helps in:",
+                    "options": [
+                    "Targeted drug delivery",
+                    "Road construction",
+                    "Water transportation",
+                    "Satellite launch"
+                    ],
+                    "answer": "Targeted drug delivery"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Nanotechnology in semiconductors helps in:",
+                    "options": [
+                    "Slower computing",
+                    "Faster and smaller chips",
+                    "Increasing pollution",
+                    "Reducing battery life"
+                    ],
+                    "answer": "Faster and smaller chips"
+                },
+                {
+                    "question": "One application of nanotechnology in food is:",
+                    "options": [
+                    "Nano packaging",
+                    "Space travel",
+                    "Coal mining",
+                    "Fishing"
+                    ],
+                    "answer": "Nano packaging"
+                },
+                {
+                    "question": "Nanomedicine reduces side effects by:",
+                    "options": [
+                    "Non-targeted drug delivery",
+                    "Targeted drug delivery",
+                    "No treatment",
+                    "Increasing dosage randomly"
+                    ],
+                    "answer": "Targeted drug delivery"
+                },
+                {
+                    "question": "Nanotechnology improves computing by:",
+                    "options": [
+                    "Reducing processing speed",
+                    "Increasing efficiency and speed",
+                    "Stopping chip production",
+                    "Eliminating software"
+                    ],
+                    "answer": "Increasing efficiency and speed"
+                },
+                {
+                    "question": "Food spoilage detection is done using:",
+                    "options": [
+                    "Nano sensors",
+                    "Mechanical tools",
+                    "Paper testing",
+                    "Magnetic fields only"
+                    ],
+                    "answer": "Nano sensors"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. Nanomedicine is used in cancer treatment\n2. Nanotechnology increases semiconductor size\n3. Nano packaging improves food shelf life",
+                    "options": [
+                    "1 and 3 only",
+                    "2 and 3 only",
+                    "1 and 2 only",
+                    "All"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                    "Nanomedicine – Drug delivery systems",
+                    "Semiconductors – Food packaging",
+                    "Food nanotech – Space exploration",
+                    "Computing – Agriculture irrigation only"
+                    ],
+                    "answer": "Nanomedicine – Drug delivery systems"
+                },
+                {
+                    "question": "Nano sensors in food are used for:",
+                    "options": [
+                    "Detecting spoilage and contamination",
+                    "Increasing internet speed",
+                    "Building roads",
+                    "Water purification only"
+                    ],
+                    "answer": "Detecting spoilage and contamination"
+                },
+                {
+                    "question": "Main advantage of nanotechnology in computing is:",
+                    "options": [
+                    "Larger devices",
+                    "Higher efficiency and speed",
+                    "Lower battery life",
+                    "Reduced processing"
+                    ],
+                    "answer": "Higher efficiency and speed"
+                },
+                {
+                    "question": "Nanomedicine works at:",
+                    "options": [
+                    "Macroscopic level",
+                    "Molecular level",
+                    "City level",
+                    "Planetary level"
+                    ],
+                    "answer": "Molecular level"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Nanotechnology Applications – Textiles, Sustainable Energy, Environment & Transport",
+        "notes": [
+            {
+                "heading": "Introduction",
+                "points": [
+                    "Nanotechnology is widely applied beyond medicine and electronics",
+                    "It plays a key role in improving materials, energy systems, environment, and transport",
+                    "These applications focus on efficiency, sustainability, and performance enhancement",
+                    "Important for UPSC GS Paper 3 (Science & Technology, Environment, Infrastructure)"
+                ]
+            },
+            {
+                "heading": "Nanotechnology in Textiles – Overview",
+                "points": [
+                    "Nanotechnology is used to improve fabric properties at molecular level",
+                    "It enhances durability, comfort, and functionality of textiles",
+                    "Nanofibers and coatings are commonly used in modern fabrics",
+                    "Creates smart and functional clothing",
+                    "Widely used in sportswear, medical textiles, and defense clothing"
+                ]
+            },
+            {
+                "heading": "Applications in Textiles",
+                "points": [
+                    "Stain-resistant and water-repellent fabrics using nano-coatings",
+                    "Antibacterial textiles for healthcare use",
+                    "UV-protective clothing using nanoparticles",
+                    "Self-cleaning fabrics",
+                    "Smart textiles with sensors for health monitoring"
+                ]
+            },
+            {
+                "heading": "Benefits in Textile Industry",
+                "points": [
+                    "Improved durability and lifespan of fabrics",
+                    "Enhanced comfort and breathability",
+                    "Reduced washing and maintenance needs",
+                    "Protection against microbes and UV radiation",
+                    "Development of high-performance smart clothing"
+                ]
+            },
+            {
+                "heading": "Nanotechnology in Sustainable Energy – Overview",
+                "points": [
+                    "Nanotechnology improves efficiency of renewable energy systems",
+                    "Enhances energy storage and conversion technologies",
+                    "Used in solar cells, batteries, and fuel cells",
+                    "Helps reduce dependence on fossil fuels",
+                    "Supports clean and green energy transition"
+                ]
+            },
+            {
+                "heading": "Applications in Sustainable Energy",
+                "points": [
+                    "Nanostructured solar cells with higher efficiency",
+                    "Improved lithium-ion batteries for energy storage",
+                    "Nanocatalysts in fuel cells",
+                    "Hydrogen energy production using nanomaterials",
+                    "Energy-efficient LED lighting systems"
+                ]
+            },
+            {
+                "heading": "Benefits in Energy Sector",
+                "points": [
+                    "Higher energy conversion efficiency",
+                    "Lower energy loss",
+                    "Longer battery life and storage capacity",
+                    "Reduced environmental pollution",
+                    "Supports renewable energy adoption"
+                ]
+            },
+            {
+                "heading": "Nanotechnology in Environment – Overview",
+                "points": [
+                    "Nanotechnology helps in environmental protection and pollution control",
+                    "Used for water purification, air filtration, and waste management",
+                    "Detects and removes pollutants at molecular level",
+                    "Supports sustainable environmental management",
+                    "Important for combating climate change impacts"
+                ]
+            },
+            {
+                "heading": "Applications in Environment",
+                "points": [
+                    "Nanofilters for water purification",
+                    "Air purification systems using nanomaterials",
+                    "Detection of toxic gases and pollutants",
+                    "Soil remediation using nanoparticles",
+                    "Wastewater treatment using nanocatalysts"
+                ]
+            },
+            {
+                "heading": "Benefits in Environment Sector",
+                "points": [
+                    "Efficient removal of contaminants",
+                    "Improved water and air quality",
+                    "Cost-effective pollution control",
+                    "Early detection of environmental hazards",
+                    "Supports sustainable development goals"
+                ]
+            },
+            {
+                "heading": "Nanotechnology in Transport – Overview",
+                "points": [
+                    "Nanotechnology improves efficiency, safety, and durability in transport systems",
+                    "Used in automobiles, aviation, railways, and aerospace",
+                    "Helps in lightweight materials and fuel efficiency",
+                    "Enhances safety and performance of vehicles",
+                    "Important for future smart transport systems"
+                ]
+            },
+            {
+                "heading": "Applications in Transport",
+                "points": [
+                    "Lightweight nanocomposites in vehicles",
+                    "Improved fuel efficiency in engines",
+                    "Scratch-resistant coatings for vehicles",
+                    "Smart sensors for traffic management",
+                    "Nanotechnology in aircraft materials for strength and durability"
+                ]
+            },
+            {
+                "heading": "Benefits in Transport Sector",
+                "points": [
+                    "Reduced fuel consumption",
+                    "Increased vehicle durability",
+                    "Enhanced safety features",
+                    "Lower maintenance costs",
+                    "Improved performance of transport systems"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Nanotechnology in textiles is used for:",
+                    "options": [
+                    "Building houses",
+                    "Stain-resistant fabrics",
+                    "Space travel",
+                    "Mining operations"
+                    ],
+                    "answer": "Stain-resistant fabrics"
+                },
+                {
+                    "question": "Nanotechnology improves solar cells by:",
+                    "options": [
+                    "Reducing efficiency",
+                    "Increasing efficiency",
+                    "Stopping energy production",
+                    "Increasing pollution"
+                    ],
+                    "answer": "Increasing efficiency"
+                },
+                {
+                    "question": "Nanofilters are used in:",
+                    "options": [
+                    "Water purification",
+                    "Road construction",
+                    "Telecommunication",
+                    "Agriculture only"
+                    ],
+                    "answer": "Water purification"
+                },
+                {
+                    "question": "Nanotechnology in transport helps in:",
+                    "options": [
+                    "Increasing vehicle weight",
+                    "Lightweight materials",
+                    "Slower engines",
+                    "Higher fuel consumption"
+                    ],
+                    "answer": "Lightweight materials"
+                },
+                {
+                    "question": "Smart textiles are used for:",
+                    "options": [
+                    "Health monitoring",
+                    "Mining",
+                    "Fishing",
+                    "Construction"
+                    ],
+                    "answer": "Health monitoring"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Nanotechnology improves sustainable energy by:",
+                    "options": [
+                    "Increasing pollution",
+                    "Enhancing energy storage",
+                    "Reducing solar efficiency",
+                    "Blocking batteries"
+                    ],
+                    "answer": "Enhancing energy storage"
+                },
+                {
+                    "question": "Nanomaterials in environment are used for:",
+                    "options": [
+                    "Pollution control",
+                    "Space travel",
+                    "Food production only",
+                    "Textbook printing"
+                    ],
+                    "answer": "Pollution control"
+                },
+                {
+                    "question": "Nanotechnology in vehicles improves:",
+                    "options": [
+                    "Fuel efficiency",
+                    "Road construction",
+                    "Internet speed",
+                    "Food production"
+                    ],
+                    "answer": "Fuel efficiency"
+                },
+                {
+                    "question": "Air purification using nanotech is done using:",
+                    "options": [
+                    "Nano filters",
+                    "Paper filters only",
+                    "Plastic sheets",
+                    "Wood materials"
+                    ],
+                    "answer": "Nano filters"
+                },
+                {
+                    "question": "Nanotechnology helps in transport by:",
+                    "options": [
+                    "Increasing vehicle size",
+                    "Reducing fuel consumption",
+                    "Stopping engines",
+                    "Eliminating roads"
+                    ],
+                    "answer": "Reducing fuel consumption"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. Nanotechnology is used in smart textiles\n2. Nanotech reduces efficiency of solar cells\n3. Nanofilters are used in water purification",
+                    "options": [
+                    "1 and 3 only",
+                    "2 and 3 only",
+                    "1 and 2 only",
+                    "All"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                    "Textiles – Stain-resistant fabrics",
+                    "Energy – Increased pollution",
+                    "Environment – Space exploration",
+                    "Transport – Food production"
+                    ],
+                    "answer": "Textiles – Stain-resistant fabrics"
+                },
+                {
+                    "question": "Nanotechnology in energy mainly improves:",
+                    "options": [
+                    "Fuel inefficiency",
+                    "Energy conversion efficiency",
+                    "Noise pollution",
+                    "Water scarcity"
+                    ],
+                    "answer": "Energy conversion efficiency"
+                },
+                {
+                    "question": "Nanomaterials in transport are mainly used for:",
+                    "options": [
+                    "Heavy materials",
+                    "Lightweight composites",
+                    "Paper systems",
+                    "Biological systems only"
+                    ],
+                    "answer": "Lightweight composites"
+                },
+                {
+                    "question": "Nanotech in environment helps in:",
+                    "options": [
+                    "Increasing pollution",
+                    "Pollution detection and control",
+                    "Deforestation",
+                    "Mining expansion"
+                    ],
+                    "answer": "Pollution detection and control"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Applications of Space Technology – Agriculture, Health & Environmental Impacts",
+        "notes": [
+            {
+                "heading": "Introduction",
+                "points": [
+                    "Space technology refers to technologies developed for space exploration and satellite systems",
+                    "Its applications on Earth are extensive and impact agriculture, health, environment, and disaster management",
+                    "India uses space technology through ISRO for socio-economic development",
+                    "Important for UPSC GS Paper 3 (Science & Technology, Environment, Disaster Management)"
+                ]
+            },
+            {
+                "heading": "Space Technology in Agriculture – Overview",
+                "points": [
+                    "Satellite and remote sensing technologies help improve agricultural productivity",
+                    "Provides real-time data on weather, soil, and crop conditions",
+                    "Supports precision farming and resource optimization",
+                    "Helps in early warning of droughts, floods, and pest attacks",
+                    "Improves food security and sustainable farming"
+                ]
+            },
+            {
+                "heading": "Applications in Agriculture",
+                "points": [
+                    "Crop monitoring using satellite imagery",
+                    "Soil moisture and fertility analysis",
+                    "Weather forecasting for farming decisions",
+                    "Irrigation management using remote sensing data",
+                    "Yield estimation and crop insurance support"
+                ]
+            },
+            {
+                "heading": "Importance in Agriculture",
+                "points": [
+                    "Increases agricultural productivity",
+                    "Reduces dependency on guesswork in farming",
+                    "Helps in climate-resilient agriculture",
+                    "Supports government schemes like PM Fasal Bima Yojana",
+                    "Enables efficient resource management"
+                ]
+            },
+            {
+                "heading": "Space Technology in Health – Overview",
+                "points": [
+                    "Space technology supports healthcare through telemedicine and remote diagnostics",
+                    "Satellite communication enables medical services in remote areas",
+                    "Helps in disease monitoring and epidemic prediction",
+                    "Used in medical imaging and research",
+                    "Improves access to healthcare in rural regions"
+                ]
+            },
+            {
+                "heading": "Applications in Health Sector",
+                "points": [
+                    "Telemedicine services in remote areas",
+                    "Satellite-based emergency medical support",
+                    "Disease surveillance using GIS mapping",
+                    "Disaster medical response coordination",
+                    "Medical research in microgravity conditions"
+                ]
+            },
+            {
+                "heading": "Benefits in Healthcare",
+                "points": [
+                    "Improved access to healthcare in rural and remote regions",
+                    "Faster emergency response systems",
+                    "Better disease tracking and control",
+                    "Cost-effective healthcare delivery",
+                    "Enhanced medical research opportunities"
+                ]
+            },
+            {
+                "heading": "Space Technology and Environment – Overview",
+                "points": [
+                    "Space technology plays a key role in environmental monitoring and protection",
+                    "Satellites help track climate change and natural resources",
+                    "Used for pollution monitoring and disaster prediction",
+                    "Supports sustainable environmental management",
+                    "Critical for global climate studies"
+                ]
+            },
+            {
+                "heading": "Applications in Environment",
+                "points": [
+                    "Monitoring deforestation and land use changes",
+                    "Tracking air and water pollution levels",
+                    "Climate change studies using satellite data",
+                    "Weather forecasting and cyclone tracking",
+                    "Disaster management (floods, droughts, forest fires)"
+                ]
+            },
+            {
+                "heading": "Benefits in Environmental Management",
+                "points": [
+                    "Early warning of natural disasters",
+                    "Better climate change understanding",
+                    "Efficient natural resource management",
+                    "Protection of biodiversity and ecosystems",
+                    "Supports sustainable development goals"
+                ]
+            },
+            {
+                "heading": "Adverse Health Effects of Space Technology",
+                "points": [
+                    "Exposure to space radiation affects astronauts' health",
+                    "Microgravity causes muscle and bone loss",
+                    "Vision problems and fluid redistribution in body",
+                    "Psychological stress due to isolation",
+                    "Long-term health risks still being studied"
+                ]
+            },
+            {
+                "heading": "Environmental Concerns of Space Technology",
+                "points": [
+                    "Space debris (space junk) poses collision risks",
+                    "Pollution from rocket launches (carbon emissions, chemicals)",
+                    "Orbital congestion affecting satellites",
+                    "Risk of damage to atmosphere during launches",
+                    "Need for sustainable space operations"
+                ]
+            },
+            {
+                "heading": "Space Debris – Key Issue",
+                "points": [
+                    "Defunct satellites, rocket parts, and fragments orbit Earth",
+                    "Can collide with operational satellites and spacecraft",
+                    "Increases risk for future space missions",
+                    "Requires active debris removal strategies",
+                    "International cooperation needed for mitigation"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Space technology is mainly used in:",
+                    "options": [
+                    "Agriculture, health, and environment",
+                    "Only space travel",
+                    "Only military use",
+                    "Only entertainment"
+                    ],
+                    "answer": "Agriculture, health, and environment"
+                },
+                {
+                    "question": "Satellite data helps farmers in:",
+                    "options": [
+                    "Crop monitoring",
+                    "Road construction",
+                    "Mining only",
+                    "Cooking"
+                    ],
+                    "answer": "Crop monitoring"
+                },
+                {
+                    "question": "Telemedicine uses:",
+                    "options": [
+                    "Satellite communication",
+                    "Road transport",
+                    "Railways",
+                    "Airports"
+                    ],
+                    "answer": "Satellite communication"
+                },
+                {
+                    "question": "Space debris refers to:",
+                    "options": [
+                    "Fresh satellites",
+                    "Defunct objects in orbit",
+                    "Clouds in atmosphere",
+                    "Ocean waste"
+                    ],
+                    "answer": "Defunct objects in orbit"
+                },
+                {
+                    "question": "ISRO is related to:",
+                    "options": [
+                    "Agriculture",
+                    "Space research",
+                    "Banking",
+                    "Education only"
+                    ],
+                    "answer": "Space research"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Remote sensing is used for:",
+                    "options": [
+                    "Crop monitoring and environment tracking",
+                    "Only entertainment",
+                    "Cooking food",
+                    "Transport scheduling only"
+                    ],
+                    "answer": "Crop monitoring and environment tracking"
+                },
+                {
+                    "question": "Microgravity mainly affects:",
+                    "options": [
+                    "Weather systems",
+                    "Astronaut health",
+                    "Road conditions",
+                    "Internet speed"
+                    ],
+                    "answer": "Astronaut health"
+                },
+                {
+                    "question": "Space technology helps in:",
+                    "options": [
+                    "Disaster management",
+                    "Bank printing",
+                    "Coal mining",
+                    "Sports only"
+                    ],
+                    "answer": "Disaster management"
+                },
+                {
+                    "question": "Space debris is dangerous because it:",
+                    "options": [
+                    "Improves satellites",
+                    "Can damage spacecraft",
+                    "Creates rainfall",
+                    "Stops earthquakes"
+                    ],
+                    "answer": "Can damage spacecraft"
+                },
+                {
+                    "question": "Climate change monitoring uses:",
+                    "options": [
+                    "Satellite data",
+                    "Paper maps only",
+                    "Radio signals only",
+                    "Telephones"
+                    ],
+                    "answer": "Satellite data"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. Space technology helps in crop monitoring\n2. Microgravity has no health effects\n3. Space debris is a growing concern",
+                    "options": [
+                    "1 and 3 only",
+                    "2 and 3 only",
+                    "1 and 2 only",
+                    "All"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                    "Remote sensing – Agriculture monitoring",
+                    "Telemedicine – Road transport",
+                    "Space debris – Weather forecasting",
+                    "ISRO – Banking services"
+                    ],
+                    "answer": "Remote sensing – Agriculture monitoring"
+                },
+                {
+                    "question": "One major use of satellite technology in health is:",
+                    "options": [
+                    "Telemedicine",
+                    "Road construction",
+                    "Fishing",
+                    "Mining"
+                    ],
+                    "answer": "Telemedicine"
+                },
+                {
+                    "question": "Space debris primarily threatens:",
+                    "options": [
+                    "Farmers",
+                    "Satellites and spacecraft",
+                    "Schools",
+                    "Banks"
+                    ],
+                    "answer": "Satellites and spacecraft"
+                },
+                {
+                    "question": "Environmental monitoring using space tech includes:",
+                    "options": [
+                    "Deforestation tracking",
+                    "Cooking systems",
+                    "Sports analysis",
+                    "Music production"
+                    ],
+                    "answer": "Deforestation tracking"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Impacts of Nanotechnology – Social, Ethical & Nanoscience in India",
+        "notes": [
+            {
+                "heading": "Introduction",
+                "points": [
+                    "Nanotechnology deals with materials and devices at 1–100 nanometer scale",
+                    "It has wide applications in medicine, energy, environment, electronics, and agriculture",
+                    "While it offers major benefits, it also raises social, ethical, and safety concerns",
+                    "India is actively investing in nanoscience research and applications",
+                    "Important for UPSC GS Paper 3 (Science & Technology, Ethics, Governance)"
+                ]
+            },
+            {
+                "heading": "Positive Impacts of Nanotechnology",
+                "points": [
+                    "Improves healthcare through targeted drug delivery and early diagnosis",
+                    "Enhances energy efficiency in solar cells and batteries",
+                    "Helps in environmental protection through pollution control",
+                    "Boosts electronics with smaller, faster, and efficient devices",
+                    "Supports agriculture and food security through smart materials"
+                ]
+            },
+            {
+                "heading": "Economic Impacts",
+                "points": [
+                    "Creates new industries and job opportunities in high-tech sectors",
+                    "Boosts innovation and startups in science and technology",
+                    "Improves productivity in manufacturing and healthcare",
+                    "Reduces cost of energy and materials in long term",
+                    "Strengthens national competitiveness in global markets"
+                ]
+            },
+            {
+                "heading": "Social Impacts of Nanotechnology",
+                "points": [
+                    "Improves quality of life through advanced healthcare",
+                    "Increases access to clean water and better food quality",
+                    "Enhances communication and digital connectivity",
+                    "May create inequality due to high cost of advanced technologies",
+                    "Requires skill development for new job opportunities"
+                ]
+            },
+            {
+                "heading": "Ethical Impacts of Nanotechnology",
+                "points": [
+                    "Concerns about privacy due to nano-surveillance devices",
+                    "Possible misuse in military and surveillance applications",
+                    "Uncertainty about long-term health effects of nanoparticles",
+                    "Ethical issues in human enhancement technologies",
+                    "Need for regulation and responsible innovation"
+                ]
+            },
+            {
+                "heading": "Health and Environmental Risks",
+                "points": [
+                    "Potential toxicity of nanoparticles in human body",
+                    "Unknown long-term environmental impact",
+                    "Bioaccumulation of nanomaterials in ecosystems",
+                    "Risk of uncontrolled exposure during production",
+                    "Need for strict safety standards and research"
+                ]
+            },
+            {
+                "heading": "Regulatory and Safety Challenges",
+                "points": [
+                    "Lack of standardized global regulations",
+                    "Difficulty in detecting nanoparticles in environment",
+                    "Need for risk assessment frameworks",
+                    "Balancing innovation and safety",
+                    "Importance of ethical guidelines for research"
+                ]
+            },
+            {
+                "heading": "Nanoscience and Nanotechnology in India – Overview",
+                "points": [
+                    "India is actively investing in nanoscience research and development",
+                    "Focus on healthcare, energy, agriculture, and materials science",
+                    "Government supports research through various missions and programs",
+                    "Collaboration between universities, CSIR, and IITs",
+                    "Aims to become global leader in nanotechnology applications"
+                ]
+            },
+            {
+                "heading": "Key Institutions in India",
+                "points": [
+                    "Department of Science and Technology (DST) – main funding body",
+                    "CSIR laboratories – research in nanomaterials and applications",
+                    "IITs and IISc – advanced nanotechnology research",
+                    "DRDO – defense-related nanotechnology applications",
+                    "BARC – nuclear and material science applications"
+                ]
+            },
+            {
+                "heading": "National Nanoscience Initiatives",
+                "points": [
+                    "Nano Mission launched by Government of India",
+                    "Focus on basic research, infrastructure, and application development",
+                    "Promotion of interdisciplinary research in nanoscience",
+                    "Support for startups and innovation",
+                    "Collaboration with international research institutions"
+                ]
+            },
+            {
+                "heading": "Applications of Nanotechnology in India",
+                "points": [
+                    "Healthcare – drug delivery systems and diagnostics",
+                    "Water purification using nanofilters",
+                    "Agriculture – nano-fertilizers and pesticides",
+                    "Energy – improved solar cells and batteries",
+                    "Defense – advanced materials and sensors"
+                ]
+            },
+            {
+                "heading": "Challenges in India",
+                "points": [
+                    "Limited funding compared to developed countries",
+                    "Lack of large-scale commercialization",
+                    "Brain drain of skilled researchers",
+                    "Safety and regulatory framework still developing",
+                    "Need for stronger industry-academia collaboration"
+                ]
+            },
+            {
+                "heading": "Future Prospects in India",
+                "points": [
+                    "Growth in healthcare and biotechnology applications",
+                    "Expansion of clean energy solutions",
+                    "Development of smart materials and electronics",
+                    "Increased role in environmental sustainability",
+                    "Potential to become global nanotechnology hub"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Nanotechnology deals with size range of:",
+                    "options": [
+                    "1–10 meters",
+                    "1–100 nanometers",
+                    "1–100 millimeters",
+                    "1–100 kilometers"
+                    ],
+                    "answer": "1–100 nanometers"
+                },
+                {
+                    "question": "Nano Mission in India is launched by:",
+                    "options": [
+                    "ISRO",
+                    "Department of Science and Technology",
+                    "DRDO",
+                    "Railways"
+                    ],
+                    "answer": "Department of Science and Technology"
+                },
+                {
+                    "question": "One positive impact of nanotechnology is:",
+                    "options": [
+                    "Increased pollution",
+                    "Targeted drug delivery",
+                    "Deforestation",
+                    "Traffic jams"
+                    ],
+                    "answer": "Targeted drug delivery"
+                },
+                {
+                    "question": "Nanotechnology is used in:",
+                    "options": [
+                    "Healthcare and energy",
+                    "Only agriculture",
+                    "Only transport",
+                    "Only mining"
+                    ],
+                    "answer": "Healthcare and energy"
+                },
+                {
+                    "question": "CSIR is involved in:",
+                    "options": [
+                    "Space travel",
+                    "Scientific research including nanotechnology",
+                    "Banking",
+                    "Education policy only"
+                    ],
+                    "answer": "Scientific research including nanotechnology"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "One ethical concern of nanotechnology is:",
+                    "options": [
+                    "Better roads",
+                    "Privacy issues",
+                    "Improved farming",
+                    "Higher salaries"
+                    ],
+                    "answer": "Privacy issues"
+                },
+                {
+                    "question": "Nano Mission focuses on:",
+                    "options": [
+                    "Only agriculture",
+                    "Research and development in nanoscience",
+                    "Only space exploration",
+                    "Only defense weapons"
+                    ],
+                    "answer": "Research and development in nanoscience"
+                },
+                {
+                    "question": "Nanotechnology in India is supported by:",
+                    "options": [
+                    "DST and CSIR",
+                    "Only private companies",
+                    "Only schools",
+                    "Only banks"
+                    ],
+                    "answer": "DST and CSIR"
+                },
+                {
+                    "question": "One risk of nanotechnology is:",
+                    "options": [
+                    "No innovation",
+                    "Nanoparticle toxicity",
+                    "Better health always",
+                    "No side effects"
+                    ],
+                    "answer": "Nanoparticle toxicity"
+                },
+                {
+                    "question": "DRDO uses nanotechnology mainly for:",
+                    "options": [
+                    "Entertainment",
+                    "Defense applications",
+                    "Food packaging only",
+                    "Banking systems"
+                    ],
+                    "answer": "Defense applications"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. Nanotechnology has ethical concerns\n2. India has Nano Mission\n3. Nanotechnology has no environmental risks",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "All"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                    "DST – Nano Mission funding",
+                    "ISRO – Nanomedicine regulation",
+                    "RBI – Nanoscience research",
+                    "Railways – Nano technology development"
+                    ],
+                    "answer": "DST – Nano Mission funding"
+                },
+                {
+                    "question": "Major challenge in nanotechnology is:",
+                    "options": [
+                    "Unlimited funding",
+                    "Health and environmental risks",
+                    "No research activity",
+                    "No applications"
+                    ],
+                    "answer": "Health and environmental risks"
+                },
+                {
+                    "question": "Nanotechnology contributes to India’s development by:",
+                    "options": [
+                    "Reducing innovation",
+                    "Improving healthcare and energy",
+                    "Stopping industrial growth",
+                    "Reducing science research"
+                    ],
+                    "answer": "Improving healthcare and energy"
+                },
+                {
+                    "question": "Ethical concern in nanotechnology includes:",
+                    "options": [
+                    "Better farming",
+                    "Human enhancement misuse",
+                    "Improved communication",
+                    "Better transport"
+                    ],
+                    "answer": "Human enhancement misuse"
+                }
+            ]
+        }
+    }
+]

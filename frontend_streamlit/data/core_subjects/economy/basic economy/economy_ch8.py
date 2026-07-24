@@ -1,0 +1,614 @@
+TOPICS = [
+    {
+        "name": "Monetary Policy in India, Instruments & Pre-Reform Era (1948–1991)",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Monetary policy is a key macroeconomic tool used to control money supply and credit in the economy",
+                    "Formulated and implemented by the Reserve Bank of India (RBI)",
+                    "Aims to achieve price stability, growth, and financial stability"
+                ]
+            },
+            {
+                "heading": "Monetary Policy – Meaning",
+                "points": [
+                    "Policy used by central bank to regulate money supply and interest rates",
+                    "Influences inflation, liquidity, and economic growth",
+                    "Works alongside fiscal policy",
+                    "Implemented mainly through RBI in India"
+                ]
+            },
+            {
+                "heading": "Objectives of Monetary Policy",
+                "points": [
+                    "Control inflation",
+                    "Promote economic growth",
+                    "Ensure financial stability",
+                    "Maintain exchange rate stability",
+                    "Ensure adequate credit flow to productive sectors"
+                ]
+            },
+            {
+                "heading": "Monetary Policy in India – Framework",
+                "points": [
+                    "Conducted by RBI under Monetary Policy Committee (MPC)",
+                    "Inflation targeting framework (4% ± 2%)",
+                    "Bi-monthly policy reviews",
+                    "Focus on price stability and growth"
+                ]
+            },
+            {
+                "heading": "Instruments of Monetary Policy – Overview",
+                "points": [
+                    "Tools used by RBI to control money supply and credit",
+                    "Divided into quantitative and qualitative instruments"
+                ]
+            },
+            {
+                "heading": "Quantitative Instruments",
+                "points": [
+                    "Repo Rate – Rate at which RBI lends to banks",
+                    "Reverse Repo Rate – Rate at which RBI borrows from banks",
+                    "Cash Reserve Ratio (CRR) – Portion of deposits banks must keep with RBI",
+                    "Statutory Liquidity Ratio (SLR) – Portion of deposits in liquid assets",
+                    "Open Market Operations (OMO) – Buying and selling of government securities",
+                    "Bank Rate – Long-term lending rate of RBI"
+                ]
+            },
+            {
+                "heading": "Qualitative Instruments",
+                "points": [
+                    "Credit Rationing",
+                    "Moral Suasion",
+                    "Selective Credit Control",
+                    "Directives to banks",
+                    "Margin requirements"
+                ]
+            },
+            {
+                "heading": "Monetary Policy in Pre-Reform Era (1948–1991)",
+                "points": [
+                    "Characterized by strong government control over financial system",
+                    "Focus on planned economic development",
+                    "Priority sector lending was emphasized",
+                    "Interest rates were administered (not market-determined)",
+                    "High statutory requirements like CRR and SLR",
+                    "Directed credit programs to support agriculture and industry"
+                ]
+            },
+            {
+                "heading": "Features of Pre-Reform Monetary Policy",
+                "points": [
+                    "Credit allocation based on government priorities",
+                    "Limited role of market forces",
+                    "Financial repression (controlled interest rates)",
+                    "Dominance of public sector banks",
+                    "Low efficiency in financial intermediation"
+                ]
+            },
+            {
+                "heading": "Objectives in Pre-Reform Era",
+                "points": [
+                    "Support Five-Year Plans",
+                    "Promote industrialization",
+                    "Provide cheap credit to priority sectors",
+                    "Control inflation",
+                    "Ensure equitable growth"
+                ]
+            },
+            {
+                "heading": "Limitations of Pre-Reform Monetary Policy",
+                "points": [
+                    "Inefficient allocation of resources",
+                    "Low profitability of banks",
+                    "High inflation at times",
+                    "Limited financial innovation",
+                    "Weak transmission of monetary policy"
+                ]
+            },
+            {
+                "heading": "Transition to Reforms (Post-1991)",
+                "points": [
+                    "Shift towards market-based monetary policy",
+                    "Deregulation of interest rates",
+                    "Reduction in CRR and SLR",
+                    "Strengthening of financial markets",
+                    "Introduction of new instruments"
+                ]
+            },
+            {
+                "heading": "Importance of Monetary Policy",
+                "points": [
+                    "Controls inflation",
+                    "Stabilizes economy",
+                    "Supports growth",
+                    "Manages liquidity",
+                    "Ensures financial stability"
+                ]
+            },
+            {
+                "heading": "Challenges in Monetary Policy",
+                "points": [
+                    "Inflation vs growth trade-off",
+                    "Global economic shocks",
+                    "Transmission issues",
+                    "Fiscal dominance",
+                    "Volatility in capital flows"
+                ]
+            },
+            {
+                "heading": "Way Forward",
+                "points": [
+                    "Strengthen monetary transmission mechanism",
+                    "Enhance coordination with fiscal policy",
+                    "Improve financial inclusion",
+                    "Develop financial markets",
+                    "Maintain price stability with growth"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Monetary policy is controlled by:",
+                    "options": [
+                    "Government",
+                    "RBI",
+                    "SEBI",
+                    "NITI Aayog"
+                    ],
+                    "answer": "RBI"
+                },
+                {
+                    "question": "Repo rate is:",
+                    "options": [
+                    "Borrowing rate of RBI",
+                    "Lending rate of RBI",
+                    "Tax rate",
+                    "Inflation rate"
+                    ],
+                    "answer": "Lending rate of RBI"
+                },
+                {
+                    "question": "CRR means:",
+                    "options": [
+                    "Cash Reserve Ratio",
+                    "Credit Risk Ratio",
+                    "Capital Reserve Rate",
+                    "Cash Revenue Rate"
+                    ],
+                    "answer": "Cash Reserve Ratio"
+                },
+                {
+                    "question": "Pre-reform era was before:",
+                    "options": [
+                    "1980",
+                    "1991",
+                    "2000",
+                    "2010"
+                    ],
+                    "answer": "1991"
+                },
+                {
+                    "question": "OMO stands for:",
+                    "options": [
+                    "Open Market Operations",
+                    "Official Money Order",
+                    "Online Market Option",
+                    "Open Monetary Order"
+                    ],
+                    "answer": "Open Market Operations"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "SLR requires banks to keep:",
+                    "options": [
+                    "Cash only",
+                    "Liquid assets",
+                    "Gold only",
+                    "Foreign currency"
+                    ],
+                    "answer": "Liquid assets"
+                },
+                {
+                    "question": "Pre-reform policy emphasized:",
+                    "options": [
+                    "Market forces",
+                    "Government control",
+                    "Exports",
+                    "Imports"
+                    ],
+                    "answer": "Government control"
+                },
+                {
+                    "question": "Qualitative tools include:",
+                    "options": [
+                    "CRR",
+                    "Repo rate",
+                    "Moral suasion",
+                    "SLR"
+                    ],
+                    "answer": "Moral suasion"
+                },
+                {
+                    "question": "Inflation targeting in India is:",
+                    "options": [
+                    "2%",
+                    "4% ± 2%",
+                    "6%",
+                    "10%"
+                    ],
+                    "answer": "4% ± 2%"
+                },
+                {
+                    "question": "Interest rates in pre-reform era were:",
+                    "options": [
+                    "Market-based",
+                    "Administered",
+                    "Flexible",
+                    "Floating"
+                    ],
+                    "answer": "Administered"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. RBI controls monetary policy\n2. Pre-reform era had market-based rates\n3. CRR is a quantitative tool",
+                    "options": [
+                    "1 and 3 only",
+                    "2 and 3 only",
+                    "1 and 2 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "Financial repression means:",
+                    "options": [
+                    "Free market",
+                    "Controlled interest rates",
+                    "High exports",
+                    "Low imports"
+                    ],
+                    "answer": "Controlled interest rates"
+                },
+                {
+                    "question": "Main limitation of pre-reform policy:",
+                    "options": [
+                    "Efficiency",
+                    "Inefficiency",
+                    "Growth",
+                    "Exports"
+                    ],
+                    "answer": "Inefficiency"
+                },
+                {
+                    "question": "Repo rate increase leads to:",
+                    "options": [
+                    "More borrowing",
+                    "Less borrowing",
+                    "More inflation",
+                    "No change"
+                    ],
+                    "answer": "Less borrowing"
+                },
+                {
+                    "question": "Priority sector lending aims at:",
+                    "options": [
+                    "Rich sectors",
+                    "Key sectors",
+                    "Only exports",
+                    "Only imports"
+                    ],
+                    "answer": "Key sectors"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Monetary Policy in Post-Reform Era, Urjit Patel Committee & MPC",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Post-1991 reforms transformed India's monetary policy from a controlled to a market-oriented system",
+                    "Focus shifted towards price stability, inflation targeting, and financial market development",
+                    "Institutional reforms like MPC improved transparency and accountability"
+                ]
+            },
+            {
+                "heading": "Monetary Policy in Post-Reform Era (Since 1991)",
+                "points": [
+                    "Shift from direct controls to indirect market-based instruments",
+                    "Deregulation of interest rates",
+                    "Reduction in CRR and SLR",
+                    "Development of financial markets (money, capital markets)",
+                    "Greater autonomy to RBI",
+                    "Focus on inflation control and macroeconomic stability"
+                ]
+            },
+            {
+                "heading": "Key Features of Post-Reform Monetary Policy",
+                "points": [
+                    "Market-determined interest rates",
+                    "Use of repo and reverse repo as main policy tools",
+                    "Liquidity Adjustment Facility (LAF)",
+                    "Open Market Operations (OMO) as active tool",
+                    "Improved monetary transmission",
+                    "Integration with global financial markets"
+                ]
+            },
+            {
+                "heading": "Objectives in Post-Reform Era",
+                "points": [
+                    "Maintain price stability",
+                    "Support economic growth",
+                    "Ensure financial stability",
+                    "Control inflation",
+                    "Promote efficient allocation of resources"
+                ]
+            },
+            {
+                "heading": "Urjit Patel Committee Report (2014)",
+                "points": [
+                    "Committee set up by RBI to review monetary policy framework",
+                    "Recommended adoption of inflation targeting",
+                    "Suggested CPI as main inflation indicator",
+                    "Proposed establishment of Monetary Policy Committee (MPC)",
+                    "Recommended inflation target of 4% ± 2%",
+                    "Emphasized transparency and accountability in policy making"
+                ]
+            },
+            {
+                "heading": "Significance of Urjit Patel Committee",
+                "points": [
+                    "Shift towards modern monetary policy framework",
+                    "Institutionalized inflation targeting",
+                    "Reduced discretion in decision-making",
+                    "Enhanced credibility of RBI",
+                    "Aligned India with global best practices"
+                ]
+            },
+            {
+                "heading": "Monetary Policy Committee (MPC) – Overview",
+                "points": [
+                    "Established in 2016 under RBI Act amendment",
+                    "Responsible for setting policy interest rates",
+                    "Institutional mechanism for monetary policy decisions",
+                    "Ensures transparency and accountability"
+                ]
+            },
+            {
+                "heading": "Composition of MPC",
+                "points": [
+                    "6 members total",
+                    "3 from RBI (including Governor as Chairperson)",
+                    "3 external members appointed by government",
+                    "Each member has one vote",
+                    "Governor has casting vote in case of tie"
+                ]
+            },
+            {
+                "heading": "Functions of MPC",
+                "points": [
+                    "Decide repo rate",
+                    "Formulate monetary policy",
+                    "Maintain inflation target",
+                    "Ensure price stability while supporting growth",
+                    "Conduct regular policy meetings"
+                ]
+            },
+            {
+                "heading": "Inflation Targeting Framework",
+                "points": [
+                    "Flexible inflation targeting adopted in India",
+                    "Target: 4% CPI inflation with tolerance band of ±2%",
+                    "Primary objective is price stability",
+                    "Government sets target in consultation with RBI",
+                    "Accountability mechanism if target is missed"
+                ]
+            },
+            {
+                "heading": "Advantages of MPC and Inflation Targeting",
+                "points": [
+                    "Improves transparency in decision-making",
+                    "Reduces policy uncertainty",
+                    "Enhances credibility of central bank",
+                    "Anchors inflation expectations",
+                    "Promotes macroeconomic stability"
+                ]
+            },
+            {
+                "heading": "Challenges in Post-Reform Monetary Policy",
+                "points": [
+                    "Inflation-growth trade-off",
+                    "External shocks (oil prices, global crises)",
+                    "Transmission issues in banking system",
+                    "Fiscal dominance",
+                    "Supply-side inflation beyond RBI control"
+                ]
+            },
+            {
+                "heading": "Way Forward",
+                "points": [
+                    "Strengthen monetary transmission",
+                    "Improve coordination with fiscal policy",
+                    "Enhance financial inclusion",
+                    "Develop financial markets further",
+                    "Maintain balance between growth and inflation"
+                ]
+            },
+            {
+                "heading": "Comparison: Pre vs Post Reform",
+                "points": [
+                    "Pre-reform – Government-controlled, administered rates",
+                    "Post-reform – Market-based, flexible rates",
+                    "Pre-reform – Direct instruments",
+                    "Post-reform – Indirect instruments",
+                    "Pre-reform – Focus on development",
+                    "Post-reform – Focus on stability and inflation control"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Post-reform monetary policy started after:",
+                    "options": [
+                    "1980",
+                    "1991",
+                    "2000",
+                    "2010"
+                    ],
+                    "answer": "1991"
+                },
+                {
+                    "question": "MPC was established in:",
+                    "options": [
+                    "2000",
+                    "2010",
+                    "2016",
+                    "2020"
+                    ],
+                    "answer": "2016"
+                },
+                {
+                    "question": "Inflation target in India is:",
+                    "options": [
+                    "2%",
+                    "4% ± 2%",
+                    "6%",
+                    "10%"
+                    ],
+                    "answer": "4% ± 2%"
+                },
+                {
+                    "question": "Urjit Patel Committee recommended:",
+                    "options": [
+                    "GST",
+                    "Inflation targeting",
+                    "FDI",
+                    "PPP"
+                    ],
+                    "answer": "Inflation targeting"
+                },
+                {
+                    "question": "MPC has total members:",
+                    "options": [
+                    "3",
+                    "5",
+                    "6",
+                    "8"
+                    ],
+                    "answer": "6"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Chairperson of MPC is:",
+                    "options": [
+                    "Finance Minister",
+                    "RBI Governor",
+                    "PM",
+                    "SEBI Chairman"
+                    ],
+                    "answer": "RBI Governor"
+                },
+                {
+                    "question": "CPI is used for:",
+                    "options": [
+                    "GDP",
+                    "Inflation",
+                    "Exports",
+                    "Imports"
+                    ],
+                    "answer": "Inflation"
+                },
+                {
+                    "question": "Post-reform policy uses:",
+                    "options": [
+                    "Direct controls",
+                    "Market instruments",
+                    "Only subsidies",
+                    "Only taxes"
+                    ],
+                    "answer": "Market instruments"
+                },
+                {
+                    "question": "LAF stands for:",
+                    "options": [
+                    "Liquidity Adjustment Facility",
+                    "Loan Adjustment Fund",
+                    "Local Asset Fund",
+                    "Liquidity Asset Framework"
+                    ],
+                    "answer": "Liquidity Adjustment Facility"
+                },
+                {
+                    "question": "Main goal of inflation targeting:",
+                    "options": [
+                    "High inflation",
+                    "Price stability",
+                    "Exports",
+                    "Imports"
+                    ],
+                    "answer": "Price stability"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. MPC decides repo rate\n2. Inflation targeting improves credibility\n3. Pre-reform policy was market-based",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Flexible inflation targeting means:",
+                    "options": [
+                    "Fixed inflation",
+                    "Range-based target",
+                    "No target",
+                    "High inflation"
+                    ],
+                    "answer": "Range-based target"
+                },
+                {
+                    "question": "Governor’s casting vote is used when:",
+                    "options": [
+                    "Majority exists",
+                    "Tie occurs",
+                    "No meeting",
+                    "No vote"
+                    ],
+                    "answer": "Tie occurs"
+                },
+                {
+                    "question": "Main feature of post-reform policy:",
+                    "options": [
+                    "Control",
+                    "Flexibility",
+                    "Rigidity",
+                    "No policy"
+                    ],
+                    "answer": "Flexibility"
+                },
+                {
+                    "question": "Urjit Patel Committee aligns India with:",
+                    "options": [
+                    "Old system",
+                    "Global practices",
+                    "Local rules",
+                    "No system"
+                    ],
+                    "answer": "Global practices"
+                }
+            ]
+        }
+    }
+]

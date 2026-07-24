@@ -1,0 +1,831 @@
+[
+    {
+        "name": "Biology: Economic Zoology",
+        "notes": [
+            {
+                "heading": "Introduction to Economic Zoology",
+                "points": [
+                    "Economic zoology deals with animals that are useful to humans",
+                    "It includes animals used for food, agriculture, industry, and ecosystem services",
+                    "Focus is on beneficial and commercially important animals",
+                    "Helps in understanding sustainable use of animal resources",
+                    "Important branch for biotechnology, agriculture, and fisheries"
+                ]
+            },
+            {
+                "heading": "Corals – Importance",
+                "points": [
+                    "Corals are marine invertebrates forming coral reefs",
+                    "They live in symbiosis with algae called zooxanthellae",
+                    "Coral reefs are biodiversity hotspots",
+                    "Protect coastlines from erosion and storms",
+                    "Used in tourism and marine ecosystem balance"
+                ]
+            },
+            {
+                "heading": "Earthworm – Importance",
+                "points": [
+                    "Earthworms are called ‘friends of farmers’",
+                    "They improve soil fertility by aeration and mixing",
+                    "Help in decomposition of organic matter",
+                    "Increase nutrient availability in soil",
+                    "Used in vermicomposting"
+                ]
+            },
+            {
+                "heading": "Vermiculture",
+                "points": [
+                    "Vermiculture is the rearing of earthworms",
+                    "Used for producing vermicompost (organic fertilizer)",
+                    "Eco-friendly method of waste management",
+                    "Improves soil structure and fertility",
+                    "Reduces dependence on chemical fertilizers"
+                ]
+            },
+            {
+                "heading": "Beneficial Insects",
+                "points": [
+                    "Insects that provide economic or ecological benefits",
+                    "Bees: pollination and honey production",
+                    "Silkworms: production of silk",
+                    "Ladybird beetles: natural pest control",
+                    "Important in agriculture and biodiversity"
+                ]
+            },
+            {
+                "heading": "Prawns, Lobsters and Crabs",
+                "points": [
+                    "Belong to crustacean group of marine animals",
+                    "Important source of seafood and protein",
+                    "Prawn farming is a major aquaculture activity",
+                    "Lobsters are high-value commercial seafood",
+                    "Crabs are consumed widely and support fisheries economy"
+                ]
+            },
+            {
+                "heading": "Pearl Oysters",
+                "points": [
+                    "Pearl oysters produce natural pearls",
+                    "Pearls are formed as a protective response to irritants",
+                    "Used in jewellery and luxury trade",
+                    "Cultured pearl farming is widely practiced",
+                    "Important part of marine aquaculture industry"
+                ]
+            },
+            {
+                "heading": "Fishes – Economic Importance",
+                "points": [
+                    "Fish are a major source of protein for humans",
+                    "Support inland and marine fisheries",
+                    "Used in aquaculture (fish farming)",
+                    "Provide fish oil and other industrial products",
+                    "Important for livelihood in coastal regions"
+                ]
+            },
+            {
+                "heading": "Guano",
+                "points": [
+                    "Guano is accumulated excreta of seabirds, bats, and seals",
+                    "Rich in nitrogen, phosphate, and potassium",
+                    "Used as a natural fertilizer",
+                    "Highly effective in agriculture",
+                    "Historically important export product in some countries"
+                ]
+            },
+            {
+                "heading": "Aquarium",
+                "points": [
+                    "An aquarium is a tank for keeping aquatic organisms",
+                    "Used for decoration, education, and research",
+                    "Helps in studying aquatic life in controlled environment",
+                    "Requires proper maintenance of water quality",
+                    "Supports conservation awareness"
+                ]
+            },
+            {
+                "heading": "Vivarium",
+                "points": [
+                    "A vivarium is an enclosed area for keeping animals/plants",
+                    "Can simulate natural habitat conditions",
+                    "Used for research and educational purposes",
+                    "Includes terrariums (land) and aquariums (water)",
+                    "Helps in studying behavior and ecology of organisms"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Earthworms are useful in:",
+                    "options": [
+                        "Pollution increase",
+                        "Soil fertility improvement",
+                        "Disease spread",
+                        "Water contamination"
+                    ],
+                    "answer": "Soil fertility improvement"
+                },
+                {
+                    "question": "Vermiculture involves:",
+                    "options": [
+                        "Fish farming",
+                        "Rearing of earthworms",
+                        "Bee keeping",
+                        "Silk production"
+                    ],
+                    "answer": "Rearing of earthworms"
+                },
+                {
+                    "question": "Pearls are produced by:",
+                    "options": [
+                        "Fish",
+                        "Pearl oysters",
+                        "Crabs",
+                        "Corals"
+                    ],
+                    "answer": "Pearl oysters"
+                },
+                {
+                    "question": "Guano is used as:",
+                    "options": [
+                        "Fuel",
+                        "Fertilizer",
+                        "Plastic",
+                        "Medicine"
+                    ],
+                    "answer": "Fertilizer"
+                },
+                {
+                    "question": "Bees are important because they help in:",
+                    "options": [
+                        "Digestion",
+                        "Pollination",
+                        "Respiration",
+                        "Excretion"
+                    ],
+                    "answer": "Pollination"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Coral reefs are important because they:",
+                    "options": [
+                        "Destroy marine life",
+                        "Support biodiversity",
+                        "Reduce oxygen",
+                        "Increase pollution"
+                    ],
+                    "answer": "Support biodiversity"
+                },
+                {
+                    "question": "Lobsters belong to:",
+                    "options": [
+                        "Insects",
+                        "Crustaceans",
+                        "Fish",
+                        "Mammals"
+                    ],
+                    "answer": "Crustaceans"
+                },
+                {
+                    "question": "Silkworm is useful for production of:",
+                    "options": [
+                        "Wool",
+                        "Silk",
+                        "Cotton",
+                        "Leather"
+                    ],
+                    "answer": "Silk"
+                },
+                {
+                    "question": "Aquarium is used for:",
+                    "options": [
+                        "Soil testing",
+                        "Keeping aquatic organisms",
+                        "Plant breeding",
+                        "Mining"
+                    ],
+                    "answer": "Keeping aquatic organisms"
+                },
+                {
+                    "question": "Vivarium is mainly used for:",
+                    "options": [
+                        "Cooking",
+                        "Research and habitat simulation",
+                        "Mining",
+                        "Irrigation"
+                    ],
+                    "answer": "Research and habitat simulation"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. Earthworms improve soil fertility\n2. Guano is rich in nutrients\n3. Corals are terrestrial organisms",
+                    "options": [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "All"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                        "Bees – silk production",
+                        "Silkworm – honey production",
+                        "Bees – pollination",
+                        "Crabs – photosynthesis"
+                    ],
+                    "answer": "Bees – pollination"
+                },
+                {
+                    "question": "Pearl formation in oysters is:",
+                    "options": [
+                        "Normal growth",
+                        "Protective response",
+                        "Disease process",
+                        "Respiration process"
+                    ],
+                    "answer": "Protective response"
+                },
+                {
+                    "question": "Aquaculture refers to:",
+                    "options": [
+                        "Plant farming",
+                        "Fish farming",
+                        "Mining",
+                        "Forestry"
+                    ],
+                    "answer": "Fish farming"
+                },
+                {
+                    "question": "Coral reefs are important because they:",
+                    "options": [
+                        "Increase desertification",
+                        "Support marine biodiversity",
+                        "Reduce rainfall",
+                        "Destroy fish population"
+                    ],
+                    "answer": "Support marine biodiversity"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Biology: Harmful Animals (Vectors, Poisonous Organisms, Fouling Organisms & Pests)",
+        "notes": [
+            {
+                "heading": "Introduction to Harmful Animals",
+                "points": [
+                    "Harmful animals are organisms that negatively affect human health, agriculture, or economy",
+                    "They may spread diseases, damage crops, or contaminate environments",
+                    "They include disease-causing organisms, vectors, pests, poisonous and fouling organisms",
+                    "Understanding them is important for public health and agriculture management",
+                    "Control measures are essential for disease prevention and economic protection"
+                ]
+            },
+            {
+                "heading": "Disease-Causing Organisms (Pathogens)",
+                "points": [
+                    "Pathogens are organisms that cause diseases in humans, animals, and plants",
+                    "They include bacteria, viruses, fungi, protozoa, and worms",
+                    "Spread through air, water, food, and vectors",
+                    "Examples: Plasmodium (malaria), Vibrio cholerae (cholera)",
+                    "Control through hygiene, vaccination, and sanitation"
+                ]
+            },
+            {
+                "heading": "Vectors – Overview",
+                "points": [
+                    "Vectors are organisms that transmit disease-causing pathogens",
+                    "They do not necessarily cause disease themselves",
+                    "Common vectors include mosquitoes, flies, ticks, and fleas",
+                    "They spread diseases between humans, animals, or plants",
+                    "Vector control is key in disease prevention"
+                ]
+            },
+            {
+                "heading": "Examples of Disease Vectors",
+                "points": [
+                    "Mosquito – malaria, dengue, chikungunya",
+                    "Housefly – typhoid, cholera",
+                    "Tick – Lyme disease",
+                    "Flea – plague",
+                    "Sandfly – kala-azar"
+                ]
+            },
+            {
+                "heading": "Poisonous Organisms",
+                "points": [
+                    "Poisonous organisms produce toxins harmful to humans or animals",
+                    "Toxins can be injected or ingested",
+                    "Examples include snakes, jellyfish, and scorpions",
+                    "Venom is injected through bites or stings",
+                    "Poisonous plants and fungi also exist"
+                ]
+            },
+            {
+                "heading": "Examples of Poisonous Animals",
+                "points": [
+                    "Snake – neurotoxic or hemotoxic venom",
+                    "Jellyfish – stinging cells (cnidocytes)",
+                    "Scorpion – painful venomous sting",
+                    "Pufferfish – contains tetrodotoxin",
+                    "Spiders – some species are highly venomous"
+                ]
+            },
+            {
+                "heading": "Fouling Organisms",
+                "points": [
+                    "Fouling organisms grow on submerged surfaces",
+                    "They attach to ships, pipelines, and underwater structures",
+                    "Examples include barnacles, algae, and mussels",
+                    "Cause corrosion and reduce efficiency of machines",
+                    "Marine fouling increases fuel consumption in ships"
+                ]
+            },
+            {
+                "heading": "Impact of Fouling Organisms",
+                "points": [
+                    "Increase drag on ships, reducing speed",
+                    "Damage underwater structures",
+                    "Increase maintenance costs",
+                    "Block pipelines and water systems",
+                    "Affect marine industry efficiency"
+                ]
+            },
+            {
+                "heading": "Pests – Overview",
+                "points": [
+                    "Pests are organisms that damage crops, livestock, or stored food",
+                    "Includes insects, rodents, weeds, and fungi",
+                    "Major threat to agriculture and food security",
+                    "Controlled using pesticides and biological methods",
+                    "Integrated Pest Management (IPM) is widely used"
+                ]
+            },
+            {
+                "heading": "Examples of Pests",
+                "points": [
+                    "Locusts – destroy large areas of crops",
+                    "Termites – damage wooden structures and crops",
+                    "Rodents – eat stored grains",
+                    "Aphids – suck plant sap",
+                    "Weeds – compete with crops for nutrients"
+                ]
+            },
+            {
+                "heading": "Control Measures",
+                "points": [
+                    "Chemical control using pesticides and insecticides",
+                    "Biological control using natural predators",
+                    "Mechanical control like traps and barriers",
+                    "Environmental management and sanitation",
+                    "Integrated Pest Management (IPM) approach"
+                ]
+            },
+            {
+                "heading": "Importance in UPSC",
+                "points": [
+                    "Frequently asked in Environment and Biology sections",
+                    "Important for public health and agriculture-related questions",
+                    "Relevant to disease control and vector management policies",
+                    "Useful in disaster and epidemic management topics",
+                    "Common in assertion-reason and match-the-following questions"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Vectors are organisms that:",
+                    "options": [
+                        "Cause diseases directly",
+                        "Transmit disease-causing pathogens",
+                        "Produce oxygen",
+                        "Fix nitrogen"
+                    ],
+                    "answer": "Transmit disease-causing pathogens"
+                },
+                {
+                    "question": "Malaria is transmitted by:",
+                    "options": [
+                        "Housefly",
+                        "Mosquito",
+                        "Tick",
+                        "Flea"
+                    ],
+                    "answer": "Mosquito"
+                },
+                {
+                    "question": "Pests mainly damage:",
+                    "options": [
+                        "Air quality",
+                        "Crops and stored food",
+                        "Rocks",
+                        "Weather systems"
+                    ],
+                    "answer": "Crops and stored food"
+                },
+                {
+                    "question": "Fouling organisms are found on:",
+                    "options": [
+                        "Deserts",
+                        "Submerged surfaces",
+                        "Mountains",
+                        "Air"
+                    ],
+                    "answer": "Submerged surfaces"
+                },
+                {
+                    "question": "Snake venom is an example of:",
+                    "options": [
+                        "Photosynthesis",
+                        "Poisonous substance",
+                        "Fertilizer",
+                        "Antibiotic"
+                    ],
+                    "answer": "Poisonous substance"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Housefly is a vector for:",
+                    "options": [
+                        "Malaria only",
+                        "Cholera and typhoid",
+                        "Tuberculosis",
+                        "Diabetes"
+                    ],
+                    "answer": "Cholera and typhoid"
+                },
+                {
+                    "question": "Barnacles are examples of:",
+                    "options": [
+                        "Pests",
+                        "Fouling organisms",
+                        "Vectors",
+                        "Plants"
+                    ],
+                    "answer": "Fouling organisms"
+                },
+                {
+                    "question": "Integrated Pest Management (IPM) aims to:",
+                    "options": [
+                        "Increase pesticide use",
+                        "Minimize pest damage sustainably",
+                        "Eliminate all insects",
+                        "Increase pollution"
+                    ],
+                    "answer": "Minimize pest damage sustainably"
+                },
+                {
+                    "question": "Rodents are harmful because they:",
+                    "options": [
+                        "Pollinate crops",
+                        "Destroy stored grains",
+                        "Fix nitrogen",
+                        "Produce oxygen"
+                    ],
+                    "answer": "Destroy stored grains"
+                },
+                {
+                    "question": "Plasmodium is transmitted by:",
+                    "options": [
+                        "Housefly",
+                        "Anopheles mosquito",
+                        "Cockroach",
+                        "Flea"
+                    ],
+                    "answer": "Anopheles mosquito"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. Vectors transmit pathogens\n2. Fouling organisms increase ship efficiency\n3. Pests damage crops",
+                    "options": [
+                        "1 and 3 only",
+                        "2 and 3 only",
+                        "1 and 2 only",
+                        "All"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                        "Mosquito – plague",
+                        "Flea – malaria",
+                        "Mosquito – malaria",
+                        "Tick – photosynthesis"
+                    ],
+                    "answer": "Mosquito – malaria"
+                },
+                {
+                    "question": "Fouling organisms mainly cause:",
+                    "options": [
+                        "Increase in speed of ships",
+                        "Reduced efficiency of marine structures",
+                        "Soil fertility",
+                        "Air purification"
+                    ],
+                    "answer": "Reduced efficiency of marine structures"
+                },
+                {
+                    "question": "Poisonous organisms harm by:",
+                    "options": [
+                        "Producing oxygen",
+                        "Releasing toxins",
+                        "Photosynthesis",
+                        "Fixing nitrogen"
+                    ],
+                    "answer": "Releasing toxins"
+                },
+                {
+                    "question": "Aphids are considered pests because they:",
+                    "options": [
+                        "Fix nitrogen",
+                        "Suck plant sap",
+                        "Pollinate flowers",
+                        "Decompose matter"
+                    ],
+                    "answer": "Suck plant sap"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Biology: Harmful Animals (Vectors, Poisonous Organisms, Fouling Organisms & Pests)",
+        "notes": [
+            {
+                "heading": "Introduction to Harmful Animals",
+                "points": [
+                    "Harmful animals are organisms that negatively affect human health, agriculture, or economy",
+                    "They may spread diseases, damage crops, or contaminate environments",
+                    "They include disease-causing organisms, vectors, pests, poisonous and fouling organisms",
+                    "Understanding them is important for public health and agriculture management",
+                    "Control measures are essential for disease prevention and economic protection"
+                ]
+            },
+            {
+                "heading": "Disease-Causing Organisms (Pathogens)",
+                "points": [
+                    "Pathogens are organisms that cause diseases in humans, animals, and plants",
+                    "They include bacteria, viruses, fungi, protozoa, and worms",
+                    "Spread through air, water, food, and vectors",
+                    "Examples: Plasmodium (malaria), Vibrio cholerae (cholera)",
+                    "Control through hygiene, vaccination, and sanitation"
+                ]
+            },
+            {
+                "heading": "Vectors – Overview",
+                "points": [
+                    "Vectors are organisms that transmit disease-causing pathogens",
+                    "They do not necessarily cause disease themselves",
+                    "Common vectors include mosquitoes, flies, ticks, and fleas",
+                    "They spread diseases between humans, animals, or plants",
+                    "Vector control is key in disease prevention"
+                ]
+            },
+            {
+                "heading": "Examples of Disease Vectors",
+                "points": [
+                    "Mosquito – malaria, dengue, chikungunya",
+                    "Housefly – typhoid, cholera",
+                    "Tick – Lyme disease",
+                    "Flea – plague",
+                    "Sandfly – kala-azar"
+                ]
+            },
+            {
+                "heading": "Poisonous Organisms",
+                "points": [
+                    "Poisonous organisms produce toxins harmful to humans or animals",
+                    "Toxins can be injected or ingested",
+                    "Examples include snakes, jellyfish, and scorpions",
+                    "Venom is injected through bites or stings",
+                    "Poisonous plants and fungi also exist"
+                ]
+            },
+            {
+                "heading": "Examples of Poisonous Animals",
+                "points": [
+                    "Snake – neurotoxic or hemotoxic venom",
+                    "Jellyfish – stinging cells (cnidocytes)",
+                    "Scorpion – painful venomous sting",
+                    "Pufferfish – contains tetrodotoxin",
+                    "Spiders – some species are highly venomous"
+                ]
+            },
+            {
+                "heading": "Fouling Organisms",
+                "points": [
+                    "Fouling organisms grow on submerged surfaces",
+                    "They attach to ships, pipelines, and underwater structures",
+                    "Examples include barnacles, algae, and mussels",
+                    "Cause corrosion and reduce efficiency of machines",
+                    "Marine fouling increases fuel consumption in ships"
+                ]
+            },
+            {
+                "heading": "Impact of Fouling Organisms",
+                "points": [
+                    "Increase drag on ships, reducing speed",
+                    "Damage underwater structures",
+                    "Increase maintenance costs",
+                    "Block pipelines and water systems",
+                    "Affect marine industry efficiency"
+                ]
+            },
+            {
+                "heading": "Pests – Overview",
+                "points": [
+                    "Pests are organisms that damage crops, livestock, or stored food",
+                    "Includes insects, rodents, weeds, and fungi",
+                    "Major threat to agriculture and food security",
+                    "Controlled using pesticides and biological methods",
+                    "Integrated Pest Management (IPM) is widely used"
+                ]
+            },
+            {
+                "heading": "Examples of Pests",
+                "points": [
+                    "Locusts – destroy large areas of crops",
+                    "Termites – damage wooden structures and crops",
+                    "Rodents – eat stored grains",
+                    "Aphids – suck plant sap",
+                    "Weeds – compete with crops for nutrients"
+                ]
+            },
+            {
+                "heading": "Control Measures",
+                "points": [
+                    "Chemical control using pesticides and insecticides",
+                    "Biological control using natural predators",
+                    "Mechanical control like traps and barriers",
+                    "Environmental management and sanitation",
+                    "Integrated Pest Management (IPM) approach"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Vectors are organisms that:",
+                    "options": [
+                        "Cause diseases directly",
+                        "Transmit disease-causing pathogens",
+                        "Produce oxygen",
+                        "Fix nitrogen"
+                    ],
+                    "answer": "Transmit disease-causing pathogens"
+                },
+                {
+                    "question": "Malaria is transmitted by:",
+                    "options": [
+                        "Housefly",
+                        "Mosquito",
+                        "Tick",
+                        "Flea"
+                    ],
+                    "answer": "Mosquito"
+                },
+                {
+                    "question": "Pests mainly damage:",
+                    "options": [
+                        "Air quality",
+                        "Crops and stored food",
+                        "Rocks",
+                        "Weather systems"
+                    ],
+                    "answer": "Crops and stored food"
+                },
+                {
+                    "question": "Fouling organisms are found on:",
+                    "options": [
+                        "Deserts",
+                        "Submerged surfaces",
+                        "Mountains",
+                        "Air"
+                    ],
+                    "answer": "Submerged surfaces"
+                },
+                {
+                    "question": "Snake venom is an example of:",
+                    "options": [
+                        "Photosynthesis",
+                        "Poisonous substance",
+                        "Fertilizer",
+                        "Antibiotic"
+                    ],
+                    "answer": "Poisonous substance"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Housefly is a vector for:",
+                    "options": [
+                        "Malaria only",
+                        "Cholera and typhoid",
+                        "Tuberculosis",
+                        "Diabetes"
+                    ],
+                    "answer": "Cholera and typhoid"
+                },
+                {
+                    "question": "Barnacles are examples of:",
+                    "options": [
+                        "Pests",
+                        "Fouling organisms",
+                        "Vectors",
+                        "Plants"
+                    ],
+                    "answer": "Fouling organisms"
+                },
+                {
+                    "question": "Integrated Pest Management (IPM) aims to:",
+                    "options": [
+                        "Increase pesticide use",
+                        "Minimize pest damage sustainably",
+                        "Eliminate all insects",
+                        "Increase pollution"
+                    ],
+                    "answer": "Minimize pest damage sustainably"
+                },
+                {
+                    "question": "Rodents are harmful because they:",
+                    "options": [
+                        "Pollinate crops",
+                        "Destroy stored grains",
+                        "Fix nitrogen",
+                        "Produce oxygen"
+                    ],
+                    "answer": "Destroy stored grains"
+                },
+                {
+                    "question": "Plasmodium is transmitted by:",
+                    "options": [
+                        "Housefly",
+                        "Anopheles mosquito",
+                        "Cockroach",
+                        "Flea"
+                    ],
+                    "answer": "Anopheles mosquito"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. Vectors transmit pathogens\n2. Fouling organisms increase ship efficiency\n3. Pests damage crops",
+                    "options": [
+                        "1 and 3 only",
+                        "2 and 3 only",
+                        "1 and 2 only",
+                        "All"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                        "Mosquito – plague",
+                        "Flea – malaria",
+                        "Mosquito – malaria",
+                        "Tick – photosynthesis"
+                    ],
+                    "answer": "Mosquito – malaria"
+                },
+                {
+                    "question": "Fouling organisms mainly cause:",
+                    "options": [
+                        "Increase in speed of ships",
+                        "Reduced efficiency of marine structures",
+                        "Soil fertility",
+                        "Air purification"
+                    ],
+                    "answer": "Reduced efficiency of marine structures"
+                },
+                {
+                    "question": "Poisonous organisms harm by:",
+                    "options": [
+                        "Producing oxygen",
+                        "Releasing toxins",
+                        "Photosynthesis",
+                        "Fixing nitrogen"
+                    ],
+                    "answer": "Releasing toxins"
+                },
+                {
+                    "question": "Aphids are considered pests because they:",
+                    "options": [
+                        "Fix nitrogen",
+                        "Suck plant sap",
+                        "Pollinate flowers",
+                        "Decompose matter"
+                    ],
+                    "answer": "Suck plant sap"
+                }
+            ]
+        }
+    }
+]

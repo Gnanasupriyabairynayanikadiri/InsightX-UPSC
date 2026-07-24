@@ -1,0 +1,515 @@
+[
+    {
+        "name": "Landforms and their Evolution (Causes, Geomorphic Processes & Agents)",
+        "notes": [
+            {
+                "heading": "Landforms – Overview",
+                "points": [
+                    "Natural features of Earth’s surface",
+                    "Examples: mountains, plateaus, plains, valleys",
+                    "Continuously changing over time",
+                    "Shaped by internal and external forces",
+                    "Dynamic in nature"
+                ]
+            },
+            {
+                "heading": "Evolution of Landforms",
+                "points": [
+                    "Landforms develop through long geological processes",
+                    "Formed by interaction of endogenic and exogenic forces",
+                    "Subject to continuous modification",
+                    "Balance between uplift and erosion",
+                    "Cycle of erosion concept"
+                ]
+            },
+            {
+                "heading": "Causes of Landform Development",
+                "points": [
+                    "Internal forces (tectonic activity)",
+                    "External forces (weathering, erosion)",
+                    "Climate conditions",
+                    "Rock structure and composition",
+                    "Time (very important factor)"
+                ]
+            },
+            {
+                "heading": "Geomorphic Processes – Overview",
+                "points": [
+                    "Physical and chemical processes shaping landforms",
+                    "Include weathering, erosion, transportation, deposition",
+                    "Operate continuously on Earth’s surface",
+                    "Responsible for landscape evolution"
+                ]
+            },
+            {
+                "heading": "Types of Geomorphic Processes",
+                "points": [
+                    "Endogenic processes (internal)",
+                    "Exogenic processes (external)",
+                    "Gradational processes (degradation & aggradation)",
+                    "Mass wasting processes",
+                    "Work together to shape landforms"
+                ]
+            },
+            {
+                "heading": "Endogenic Processes",
+                "points": [
+                    "Originate inside Earth",
+                    "Include tectonic movements, volcanism, earthquakes",
+                    "Create relief (uplift, folding, faulting)",
+                    "Constructive in nature",
+                    "Examples: mountain formation"
+                ]
+            },
+            {
+                "heading": "Exogenic Processes",
+                "points": [
+                    "Operate on Earth’s surface",
+                    "Driven by solar energy and gravity",
+                    "Include weathering, erosion, deposition",
+                    "Destructive or leveling in nature",
+                    "Shape existing landforms"
+                ]
+            },
+            {
+                "heading": "Geomorphic Agents",
+                "points": [
+                    "Natural agents that carry out geomorphic processes",
+                    "Include running water, wind, glaciers, waves",
+                    "Each agent forms specific landformsDirectly responsible for erosion & deposition"
+                ]
+            },
+            {
+                "heading": "Major Geomorphic Agents",
+                "points": [
+                    "Running water – rivers (most dominant)",
+                    "Wind – deserts",
+                    "Glaciers – cold regions",
+                    "Waves – coastal areas",
+                    "Groundwater – karst topography"
+                ]
+            },
+            {
+                "heading": "Significance of Geomorphic Processes",
+                "points": [
+                    "Explain formation of landscapes",
+                    "Help understand natural hazards",
+                    "Important for environmental studies",
+                    "Used in planning and development",
+                    "Core concept in geography"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Landforms are:",
+                    "options": [
+                        "Artificial features",
+                        "Natural features",
+                        "Machines",
+                        "Buildings"
+                    ],
+                    "answer": "Natural features"
+                },
+                {
+                    "question": "Geomorphic processes include:",
+                    "options": [
+                        "Cooking",
+                        "Erosion",
+                        "Trading",
+                        "Writing"
+                    ],
+                    "answer": "Erosion"
+                },
+                {
+                    "question": "Endogenic processes are:",
+                    "options": [
+                        "External",
+                        "Internal",
+                        "Surface only",
+                        "Ocean only"
+                    ],
+                    "answer": "Internal"
+                },
+                {
+                    "question": "Exogenic processes are:",
+                    "options": [
+                        "Internal",
+                        "External",
+                        "Core-based",
+                        "Mantle-based"
+                    ],
+                    "answer": "External"
+                },
+                {
+                    "question": "Rivers act as:",
+                    "options": [
+                        "Forces",
+                        "Agents",
+                        "Mountains",
+                        "Plains"
+                    ],
+                    "answer": "Agents"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Mountains are formed by:",
+                    "options": [
+                        "Exogenic forces",
+                        "Endogenic forces",
+                        "Wind",
+                        "Rain"
+                    ],
+                    "answer": "Endogenic forces"
+                },
+                {
+                    "question": "Erosion is:",
+                    "options": [
+                        "Building",
+                        "Wearing away",
+                        "Cooling",
+                        "Heating"
+                    ],
+                    "answer": "Wearing away"
+                },
+                {
+                    "question": "Wind is active in:",
+                    "options": [
+                        "Forests",
+                        "Deserts",
+                        "Oceans",
+                        "Mountains"
+                    ],
+                    "answer": "Deserts"
+                },
+                {
+                    "question": "Glaciers act in:",
+                    "options": [
+                        "Hot regions",
+                        "Cold regions",
+                        "Deserts",
+                        "Oceans"
+                    ],
+                    "answer": "Cold regions"
+                },
+                {
+                    "question": "Groundwater forms:",
+                    "options": [
+                        "Mountains",
+                        "Karst landforms",
+                        "Deserts",
+                        "Rivers"
+                    ],
+                    "answer": "Karst landforms"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Endogenic creates relief\n2. Exogenic levels surface\n3. Agents include wind and water",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "All"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                        "Wind – Desert landforms",
+                        "River – Glacial landforms",
+                        "Glacier – Desert",
+                        "Waves – Mountains"
+                    ],
+                    "answer": "Wind – Desert landforms"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Landforms are static",
+                        "Only internal forces act",
+                        "Processes are continuous",
+                        "No change occurs"
+                    ],
+                    "answer": "Processes are continuous"
+                },
+                {
+                    "question": "Cycle of erosion explains:",
+                    "options": [
+                        "Weather",
+                        "Landform evolution",
+                        "Rainfall",
+                        "Wind"
+                    ],
+                    "answer": "Landform evolution"
+                },
+                {
+                    "question": "Most dominant geomorphic agent:",
+                    "options": [
+                        "Wind",
+                        "River",
+                        "Ice",
+                        "Sun"
+                    ],
+                    "answer": "River"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Geomorphic Agents (Erosional & Depositional Processes)",
+        "notes": [
+            {
+                "heading": "Geomorphic Agents – Overview",
+                "points": [
+                    "Natural forces that shape Earth's surface",
+                    "Include rivers, wind, glaciers, waves, groundwater",
+                    "Operate through erosion, transportation, deposition",
+                    "Responsible for landscape evolution",
+                    "Core concept in geomorphology"
+                ]
+            },
+            {
+                "heading": "Types of Actions by Geomorphic Agents",
+                "points": [
+                    "Erosional (Destructional)",
+                    "Depositional (Constructional)",
+                    "Both processes occur simultaneously",
+                    "Balance determines landform development",
+                    "Highly important UPSC concept"
+                ]
+            },
+            {
+                "heading": "Erosional (Destructional) Processes",
+                "points": [
+                    "Wearing away of Earth’s surface",
+                    "Removal of rocks and soil",
+                    "Occurs due to mechanical and chemical action",
+                    "Dominant in upper course of rivers",
+                    "Leads to formation of valleys, gorges"
+                ]
+            },
+            {
+                "heading": "Types of Erosion",
+                "points": [
+                    "Abrasion – scraping of surface",
+                    "Attrition – particles collide and break",
+                    "Hydraulic action – force of water",
+                    "Solution – chemical dissolution",
+                    "Important for conceptual clarity"
+                ]
+            },
+            {
+                "heading": "Landforms by Erosion",
+                "points": [
+                    "River – V-shaped valleys, waterfalls",
+                    "Wind – deflation hollows, yardangs",
+                    "Glacier – U-shaped valleys, cirques",
+                    "Waves – sea cliffs, caves",
+                    "Agent-specific landforms"
+                ]
+            },
+            {
+                "heading": "Depositional (Constructional) Processes",
+                "points": [
+                    "Laying down of sediments",
+                    "Occurs when transporting capacity decreases",
+                    "Builds new landforms",
+                    "Dominant in lower course of rivers",
+                    "Creates plains and deltas"
+                ]
+            },
+            {
+                "heading": "Types of Deposition",
+                "points": [
+                    "Occurs due to loss of energy",
+                    "Sediments settle down",
+                    "Depends on size and weight of particles",
+                    "Fine particles travel longer distances",
+                    "Important for landform formation"
+                ]
+            },
+            {
+                "heading": "Landforms by Deposition",
+                "points": [
+                    "River – floodplains, deltas",
+                    "Wind – sand dunes, loess",
+                    "Glacier – moraines",
+                    "Waves – beaches, spits",
+                    "Constructional features"
+                ]
+            },
+            {
+                "heading": "Balance Between Erosion & Deposition",
+                "points": [
+                    "Both processes occur together",
+                    "Erosion dominates in high-energy areas",
+                    "Deposition dominates in low-energy areas",
+                    "Controls landscape evolution",
+                    "Important for exam analysis"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Geomorphic agents include:",
+                    "options": [
+                        "Machines",
+                        "Rivers",
+                        "Buildings",
+                        "Cars"
+                    ],
+                    "answer": "Rivers"
+                },
+                {
+                    "question": "Erosion means:",
+                    "options": [
+                        "Building",
+                        "Wearing away",
+                        "Cooling",
+                        "Heating"
+                    ],
+                    "answer": "Wearing away"
+                },
+                {
+                    "question": "Deposition means:",
+                    "options": [
+                        "Removal",
+                        "Laying down",
+                        "Breaking",
+                        "Heating"
+                    ],
+                    "answer": "Laying down"
+                },
+                {
+                    "question": "River forms delta by:",
+                    "options": [
+                        "Erosion",
+                        "Deposition",
+                        "Weathering",
+                        "Heating"
+                    ],
+                    "answer": "Deposition"
+                },
+                {
+                    "question": "Wind forms dunes by:",
+                    "options": [
+                        "Erosion",
+                        "Deposition",
+                        "Cooling",
+                        "Heating"
+                    ],
+                    "answer": "Deposition"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Abrasion is:",
+                    "options": [
+                        "Chemical process",
+                        "Scraping action",
+                        "Heating",
+                        "Cooling"
+                    ],
+                    "answer": "Scraping action"
+                },
+                {
+                    "question": "Attrition involves:",
+                    "options": [
+                        "Dissolving",
+                        "Breaking by collision",
+                        "Heating",
+                        "Cooling"
+                    ],
+                    "answer": "Breaking by collision"
+                },
+                {
+                    "question": "Upper course of river shows:",
+                    "options": [
+                        "Deposition",
+                        "Erosion",
+                        "No activity",
+                        "Cooling"
+                    ],
+                    "answer": "Erosion"
+                },
+                {
+                    "question": "Lower course shows:",
+                    "options": [
+                        "Erosion",
+                        "Deposition",
+                        "Heating",
+                        "Cooling"
+                    ],
+                    "answer": "Deposition"
+                },
+                {
+                    "question": "Glacial deposition forms:",
+                    "options": [
+                        "Valleys",
+                        "Moraines",
+                        "Cliffs",
+                        "Caves"
+                    ],
+                    "answer": "Moraines"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Erosion removes material\n2. Deposition builds landforms\n3. Both processes occur together",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "All"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                        "River – Delta",
+                        "Wind – Moraines",
+                        "Glacier – Dunes",
+                        "Wave – Valley"
+                    ],
+                    "answer": "River – Delta"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Erosion builds land",
+                        "Deposition removes land",
+                        "Agents perform both",
+                        "No change occurs"
+                    ],
+                    "answer": "Agents perform both"
+                },
+                {
+                    "question": "Hydraulic action is:",
+                    "options": [
+                        "Wind force",
+                        "Water force",
+                        "Ice force",
+                        "Heat force"
+                    ],
+                    "answer": "Water force"
+                },
+                {
+                    "question": "Main factor for deposition:",
+                    "options": [
+                        "Increase in energy",
+                        "Decrease in energy",
+                        "Heating",
+                        "Cooling"
+                    ],
+                    "answer": "Decrease in energy"
+                }
+            ]
+        }
+    }
+]

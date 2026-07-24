@@ -1,0 +1,1232 @@
+TOPICS = [
+    {
+        "name": "Ancient History – Mauryan Empire: Sources, Inscriptions, Arthashastra & Political History",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Mauryan Empire (c. 322–185 BCE) was the first large centralized empire in India",
+                    "Founded by Chandragupta Maurya with guidance of Chanakya (Kautilya)",
+                    "Strong administrative system and extensive territorial control",
+                    "Well-documented through inscriptions, archaeological sites, and literary texts"
+                ]
+            },
+            {
+                "heading": "Sources of Mauryan History – Overview",
+                "points": [
+                    "Inscriptions (Ashokan edicts are the most important)",
+                    "Archaeological sites (Pataliputra, Taxila, Sarnath, etc.)",
+                    "Foreign accounts (Megasthenes’ Indica)",
+                    "Indian literary sources (Arthashastra, Buddhist and Jain texts)",
+                    "Numismatic and material evidence"
+                ]
+            },
+            {
+                "heading": "Inscriptions – Ashokan Edicts",
+                "points": [
+                    "Most important source for Mauryan history",
+                    "Written in Prakrit using Brahmi and Kharosthi scripts",
+                    "Major Rock Edicts and Pillar Edicts",
+                    "Spread across Indian subcontinent",
+                    "Reflect Ashoka’s Dhamma policy and administration"
+                ]
+            },
+            {
+                "heading": "Types of Ashokan Inscriptions",
+                "points": [
+                    "Major Rock Edicts – policy and moral instructions",
+                    "Minor Rock Edicts – personal and religious details",
+                    "Pillar Edicts – administrative and ethical guidelines",
+                    "Bilingual inscriptions in northwest regions",
+                    "Help understand geography of Mauryan Empire"
+                ]
+            },
+            {
+                "heading": "Archaeological Sites",
+                "points": [
+                    "Pataliputra – capital city with wooden fortifications",
+                    "Taxila – administrative and trade centre",
+                    "Sarnath – Ashokan pillar with lion capital",
+                    "Kalinga – site of war and transformation of Ashoka",
+                    "Barabar caves – early rock-cut architecture"
+                ]
+            },
+            {
+                "heading": "Foreign Accounts",
+                "points": [
+                    "Megasthenes – Greek ambassador to Chandragupta Maurya",
+                    "Wrote Indica describing Mauryan society and administration",
+                    "Mentioned seven-fold division of society (interpreted differently)",
+                    "Described capital Pataliputra and its administration",
+                    "Provides external perspective on Mauryan India"
+                ]
+            },
+            {
+                "heading": "Literary Sources – Arthashastra",
+                "points": [
+                    "Written by Chanakya (Kautilya/Vishnugupta)",
+                    "Treatise on statecraft, economy, and military strategy",
+                    "Emphasizes centralized administration",
+                    "Discusses espionage, taxation, and governance",
+                    "Reflects ideals of realpolitik (pragmatic politics)"
+                ]
+            },
+            {
+                "heading": "Key Features of Arthashastra",
+                "points": [
+                    "Mandala theory of foreign policy",
+                    "Seven pillars of state (Saptanga theory)",
+                    "Strong emphasis on king’s power",
+                    "Detailed economic regulations",
+                    "Importance of law and order"
+                ]
+            },
+            {
+                "heading": "Other Literary Sources",
+                "points": [
+                    "Buddhist texts – Dipavamsa, Mahavamsa",
+                    "Jain texts – Parishishtaparvan",
+                    "Puranas – genealogical records",
+                    "Provide supplementary historical information",
+                    "Help reconstruct Mauryan chronology"
+                ]
+            },
+            {
+                "heading": "Mauryan Rulers – Overview",
+                "points": [
+                    "Chandragupta Maurya – founder",
+                    "Bindusara – expansion and consolidation",
+                    "Ashoka – greatest ruler, promoter of Dhamma",
+                    "Later rulers – decline phase",
+                    "Empire weakened after Ashoka’s death"
+                ]
+            },
+            {
+                "heading": "Chandragupta Maurya (322–297 BCE)",
+                "points": [
+                    "Founded Mauryan Empire by defeating Nandas",
+                    "Assisted by Chanakya (Arthashastra author)",
+                    "Defeated Seleucus Nicator in northwest India",
+                    "Established strong centralized administration",
+                    "Later became Jain monk and renounced throne"
+                ]
+            },
+            {
+                "heading": "Bindusara (297–273 BCE)",
+                "points": [
+                    "Son of Chandragupta Maurya",
+                    "Expanded empire to Deccan region",
+                    "Known as 'Amitraghata' (slayer of enemies)",
+                    "Maintained administrative stability",
+                    "Little detailed historical information available"
+                ]
+            },
+            {
+                "heading": "Ashoka (273–232 BCE)",
+                "points": [
+                    "Greatest Mauryan ruler",
+                    "Fought Kalinga War leading to transformation",
+                    "Adopted Dhamma policy (moral governance)",
+                    "Spread Buddhism across Asia",
+                    "Issued inscriptions across empire"
+                ]
+            },
+            {
+                "heading": "Kalinga War",
+                "points": [
+                    "Fought around 261 BCE",
+                    "Resulted in massive destruction and loss of life",
+                    "Turning point in Ashoka’s life",
+                    "Led to adoption of non-violence policy",
+                    "Promoted welfare-oriented governance"
+                ]
+            },
+            {
+                "heading": "Ashoka’s Dhamma",
+                "points": [
+                    "Ethical and moral code of conduct",
+                    "Emphasized non-violence and tolerance",
+                    "Respect for all religions",
+                    "Welfare of subjects",
+                    "Promoted social harmony"
+                ]
+            },
+            {
+                "heading": "Decline of Mauryan Empire",
+                "points": [
+                    "Weak successors after Ashoka",
+                    "Over-centralized administration became unsustainable",
+                    "Provincial revolts and fragmentation",
+                    "Rise of regional kingdoms",
+                    "Assassination of last Mauryan ruler Brihadratha"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Founder of Mauryan Empire was:",
+                    "options": [
+                    "Ashoka",
+                    "Chandragupta Maurya",
+                    "Bindusara",
+                    "Chanakya"
+                    ],
+                    "answer": "Chandragupta Maurya"
+                },
+                {
+                    "question": "Arthashastra is associated with:",
+                    "options": [
+                    "Ashoka",
+                    "Chanakya",
+                    "Megasthenes",
+                    "Kalidasa"
+                    ],
+                    "answer": "Chanakya"
+                },
+                {
+                    "question": "Ashokan inscriptions were written in:",
+                    "options": [
+                    "Sanskrit only",
+                    "Prakrit",
+                    "Tamil",
+                    "Persian"
+                    ],
+                    "answer": "Prakrit"
+                },
+                {
+                    "question": "Capital of Mauryan Empire was:",
+                    "options": [
+                    "Ujjain",
+                    "Pataliputra",
+                    "Taxila",
+                    "Mathura"
+                    ],
+                    "answer": "Pataliputra"
+                },
+                {
+                    "question": "Kalinga War was fought by:",
+                    "options": [
+                    "Chandragupta Maurya",
+                    "Bindusara",
+                    "Ashoka",
+                    "Bimbisara"
+                    ],
+                    "answer": "Ashoka"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Megasthenes wrote:",
+                    "options": [
+                    "Arthashastra",
+                    "Indica",
+                    "Rajatarangini",
+                    "Mudrarakshasa"
+                    ],
+                    "answer": "Indica"
+                },
+                {
+                    "question": "Ashoka’s policy of governance is known as:",
+                    "options": [
+                    "Rajadharma",
+                    "Dhamma",
+                    "Satrapy",
+                    "Yajna"
+                    ],
+                    "answer": "Dhamma"
+                },
+                {
+                    "question": "Barabar caves are associated with:",
+                    "options": [
+                    "Guptas",
+                    "Mauryas",
+                    "Mughals",
+                    "Harappans"
+                    ],
+                    "answer": "Mauryas"
+                },
+                {
+                    "question": "Bindusara was known as:",
+                    "options": [
+                    "Devanampriya",
+                    "Amitraghata",
+                    "Chakravartin",
+                    "Mahapadma"
+                    ],
+                    "answer": "Amitraghata"
+                },
+                {
+                    "question": "Arthashastra mainly deals with:",
+                    "options": [
+                    "Religion",
+                    "Statecraft and governance",
+                    "Poetry",
+                    "Medicine"
+                    ],
+                    "answer": "Statecraft and governance"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Ashokan inscriptions are written in Brahmi script\n2. Chandragupta Maurya defeated Seleucus Nicator\n3. Arthashastra was written by Megasthenes",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "A major impact of Kalinga War was:",
+                    "options": [
+                    "Expansion of trade",
+                    "Ashoka’s conversion to Dhamma policy",
+                    "Fall of Mauryan Empire",
+                    "Rise of Gupta Empire"
+                    ],
+                    "answer": "Ashoka’s conversion to Dhamma policy"
+                },
+                {
+                    "question": "Arthashastra emphasizes:",
+                    "options": [
+                    "Religious rituals",
+                    "Realpolitik and administration",
+                    "Poetry and literature",
+                    "Temple architecture"
+                    ],
+                    "answer": "Realpolitik and administration"
+                },
+                {
+                    "question": "Decline of Mauryan Empire was mainly due to:",
+                    "options": [
+                    "Strong successors",
+                    "Over-centralization and weak rulers",
+                    "Foreign invasion only",
+                    "Industrial decline"
+                    ],
+                    "answer": "Over-centralization and weak rulers"
+                },
+                {
+                    "question": "Correct statement about Ashoka is:",
+                    "options": [
+                    "He promoted Vedic sacrifices",
+                    "He propagated Dhamma and non-violence",
+                    "He abolished all administration",
+                    "He ignored welfare policies"
+                    ],
+                    "answer": "He propagated Dhamma and non-violence"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Ancient History – Megasthenes, Ashoka, Successors, Inscriptions & Ashokan Reign",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Mauryan Empire under Ashoka is best documented ancient Indian period",
+                    "Megasthenes provides important foreign account of Mauryan India",
+                    "Ashoka’s inscriptions are the most reliable source of his reign",
+                    "His successors marked the gradual decline of Mauryan power"
+                ]
+            },
+            {
+                "heading": "Megasthenes – Overview",
+                "points": [
+                    "Greek ambassador of Seleucus Nicator to Chandragupta Maurya",
+                    "Visited Mauryan court at Pataliputra",
+                    "Author of Indica (lost but quoted by later writers)",
+                    "Gave foreign account of Indian society and administration",
+                    "Important source for Mauryan history"
+                ]
+            },
+            {
+                "heading": "Megasthenes – Key Observations",
+                "points": [
+                    "Described Pataliputra as a large and well-fortified city",
+                    "Mentioned seven-fold division of society (interpretation debated)",
+                    "Noted absence of slavery in Indian society (possibly misunderstood)",
+                    "Admired administrative efficiency of Mauryas",
+                    "Highlighted economic prosperity and agriculture"
+                ]
+            },
+            {
+                "heading": "Limitations of Megasthenes’ Account",
+                "points": [
+                    "Some exaggerations and misunderstandings",
+                    "Lack of understanding of Indian social structures",
+                    "Lost original text; known through quotations",
+                    "Greek interpretation of Indian systems",
+                    "Still valuable as external perspective"
+                ]
+            },
+            {
+                "heading": "Ashoka – Introduction",
+                "points": [
+                    "Third ruler of Mauryan dynasty (273–232 BCE)",
+                    "Son of Bindusara",
+                    "Initially expansionist, later turned to Dhamma",
+                    "Fought Kalinga War leading to moral transformation",
+                    "Greatest Mauryan ruler"
+                ]
+            },
+            {
+                "heading": "Ashoka and His Successors",
+                "points": [
+                    "Ashoka’s reign marked peak of Mauryan Empire",
+                    "After his death, weak successors ruled",
+                    "Empire gradually fragmented into regional powers",
+                    "Last Mauryan ruler was Brihadratha",
+                    "Assassinated by Pushyamitra Shunga"
+                ]
+            },
+            {
+                "heading": "Important Successors of Ashoka",
+                "points": [
+                    "Dasharatha – grandson of Ashoka",
+                    "Samprati – known for promoting Jainism",
+                    "Later rulers had weak control over provinces",
+                    "Decline of centralized authority",
+                    "Rise of independent regional kingdoms"
+                ]
+            },
+            {
+                "heading": "Ashoka’s Inscriptions – Overview",
+                "points": [
+                    "Most important source for Ashoka’s reign",
+                    "Written in Prakrit using Brahmi and Kharosthi scripts",
+                    "Found across Indian subcontinent and Afghanistan",
+                    "Include Major Rock Edicts, Minor Rock Edicts, Pillar Edicts",
+                    "Reflect moral and administrative policies"
+                ]
+            },
+            {
+                "heading": "Major Rock Edicts",
+                "points": [
+                    "Contain Ashoka’s Dhamma policy",
+                    "Promote non-violence and ethical conduct",
+                    "Emphasize welfare of subjects",
+                    "Encourage respect for all religions",
+                    "Located across empire boundaries"
+                ]
+            },
+            {
+                "heading": "Pillar Edicts",
+                "points": [
+                    "Highly polished sandstone pillars",
+                    "Inscribed with moral instructions",
+                    "Famous example: Sarnath Lion Capital (national emblem)",
+                    "Emphasize governance and justice",
+                    "Show administrative control of Ashoka"
+                ]
+            },
+            {
+                "heading": "Minor Rock Edicts",
+                "points": [
+                    "Earliest inscriptions of Ashoka",
+                    "Contain personal and religious information",
+                    "Mention his conversion to Buddhism",
+                    "Address officials and common people",
+                    "Less formal but historically important"
+                ]
+            },
+            {
+                "heading": "Ashokan Sites",
+                "points": [
+                    "Sarnath – famous pillar and lion capital",
+                    "Kalinga – site of transformative war",
+                    "Lumbini – birthplace of Buddha (inscribed by Ashoka)",
+                    "Bodh Gaya – site of enlightenment",
+                    "Barabar caves – earliest rock-cut caves"
+                ]
+            },
+            {
+                "heading": "Ashokan Reign – Administration",
+                "points": [
+                    "Highly centralized bureaucratic system",
+                    "Empire divided into provinces governed by officials",
+                    "Strong surveillance system",
+                    "Dhamma Mahamatras appointed for moral governance",
+                    "Efficient communication through inscriptions"
+                ]
+            },
+            {
+                "heading": "Ashoka’s Dhamma Policy",
+                "points": [
+                    "Non-violence and compassion towards all beings",
+                    "Religious tolerance",
+                    "Welfare of people (roads, wells, hospitals)",
+                    "Respect for parents and elders",
+                    "Promotion of ethical living"
+                ]
+            },
+            {
+                "heading": "Importance of Ashokan Reign",
+                "points": [
+                    "First ruler to communicate directly with subjects via inscriptions",
+                    "Promoted moral governance over conquest",
+                    "Spread Buddhism across Asia",
+                    "Strong administrative structure",
+                    "Model of welfare state in ancient India"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Megasthenes was the ambassador of:",
+                    "options": [
+                    "Ashoka",
+                    "Seleucus Nicator",
+                    "Alexander",
+                    "Darius"
+                    ],
+                    "answer": "Seleucus Nicator"
+                },
+                {
+                    "question": "Author of Indica was:",
+                    "options": [
+                    "Chanakya",
+                    "Megasthenes",
+                    "Ashoka",
+                    "Kalidasa"
+                    ],
+                    "answer": "Megasthenes"
+                },
+                {
+                    "question": "Ashoka belonged to which dynasty?",
+                    "options": [
+                    "Gupta",
+                    "Maurya",
+                    "Nanda",
+                    "Shunga"
+                    ],
+                    "answer": "Maurya"
+                },
+                {
+                    "question": "Ashokan inscriptions are written in:",
+                    "options": [
+                    "Sanskrit",
+                    "Prakrit",
+                    "Tamil",
+                    "Greek"
+                    ],
+                    "answer": "Prakrit"
+                },
+                {
+                    "question": "Sarnath Lion Capital is associated with:",
+                    "options": [
+                    "Chandragupta Maurya",
+                    "Ashoka",
+                    "Harsha",
+                    "Kanishka"
+                    ],
+                    "answer": "Ashoka"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Megasthenes’ account is important because it:",
+                    "options": [
+                    "Describes Gupta Empire",
+                    "Provides foreign view of Mauryas",
+                    "Explains Mughal rule",
+                    "Focuses on Harappan culture"
+                    ],
+                    "answer": "Provides foreign view of Mauryas"
+                },
+                {
+                    "question": "Ashoka’s Dhamma mainly promotes:",
+                    "options": [
+                    "War and conquest",
+                    "Ethical and moral living",
+                    "Trade monopoly",
+                    "Caste hierarchy"
+                    ],
+                    "answer": "Ethical and moral living"
+                },
+                {
+                    "question": "Ashokan inscriptions are mainly found in:",
+                    "options": [
+                    "Only South India",
+                    "Across Indian subcontinent",
+                    "Only Punjab",
+                    "Only Kashmir"
+                    ],
+                    "answer": "Across Indian subcontinent"
+                },
+                {
+                    "question": "Last Mauryan ruler was:",
+                    "options": [
+                    "Ashoka",
+                    "Bindusara",
+                    "Brihadratha",
+                    "Chandragupta"
+                    ],
+                    "answer": "Brihadratha"
+                },
+                {
+                    "question": "Dhamma Mahamatras were responsible for:",
+                    "options": [
+                    "Tax collection",
+                    "Moral governance",
+                    "Military training",
+                    "Trade regulation"
+                    ],
+                    "answer": "Moral governance"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Megasthenes visited Chandragupta Maurya’s court\n2. Ashokan inscriptions are only in Sanskrit\n3. Kalinga War changed Ashoka’s outlook",
+                    "options": [
+                    "1 and 3 only",
+                    "2 and 3 only",
+                    "1 and 2 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "A major limitation of Megasthenes’ account is:",
+                    "options": [
+                    "It is fully accurate",
+                    "Misinterpretation of Indian society",
+                    "Written in Indian language",
+                    "Modern analysis"
+                    ],
+                    "answer": "Misinterpretation of Indian society"
+                },
+                {
+                    "question": "Ashokan Pillar Edicts are significant because they:",
+                    "options": [
+                    "Record trade data only",
+                    "Reflect governance and ethics",
+                    "Describe wars only",
+                    "Focus on mythology"
+                    ],
+                    "answer": "Reflect governance and ethics"
+                },
+                {
+                    "question": "Ashoka’s transformation after Kalinga War led to:",
+                    "options": [
+                    "More wars",
+                    "Adoption of Dhamma policy",
+                    "End of empire",
+                    "Foreign invasion"
+                    ],
+                    "answer": "Adoption of Dhamma policy"
+                },
+                {
+                    "question": "Correct statement about Ashoka is:",
+                    "options": [
+                    "He promoted violent expansion",
+                    "He used inscriptions for communication",
+                    "He ignored administration",
+                    "He ruled only South India"
+                    ],
+                    "answer": "He used inscriptions for communication"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Ancient History – Ashoka: Buddhism, Dhamma Policy, Mauryan Administration & Foreign Relations",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Ashoka (273–232 BCE) was the most significant Mauryan ruler",
+                    "His reign marked a shift from conquest to moral governance",
+                    "Buddhism gained imperial support and global spread under him",
+                    "Mauryan administration became highly centralized and efficient",
+                    "Foreign relations expanded through peaceful and diplomatic channels"
+                ]
+            },
+            {
+                "heading": "Ashoka and Buddhism",
+                "points": [
+                    "Ashoka adopted Buddhism after the Kalinga War",
+                    "He became a lay follower (Upasaka) of Buddhism",
+                    "Did not impose Buddhism as state religion",
+                    "Promoted Buddhist ethics and moral values",
+                    "Supported Sangha and sent missionaries abroad"
+                ]
+            },
+            {
+                "heading": "Role in Spread of Buddhism",
+                "points": [
+                    "Sent missionaries to Sri Lanka, Central Asia, West Asia",
+                    "Son Mahinda and daughter Sanghamitta spread Buddhism to Sri Lanka",
+                    "Built stupas and monasteries",
+                    "Patronized Buddhist councils indirectly",
+                    "Helped transform Buddhism into a world religion"
+                ]
+            },
+            {
+                "heading": "Ashoka’s Dhamma Policy – Overview",
+                "points": [
+                    "Not a religion but a moral code of conduct",
+                    "Based on ethical and social responsibilities",
+                    "Aimed at harmony in a diverse empire",
+                    "Promoted non-violence and tolerance",
+                    "Recorded in Ashokan inscriptions"
+                ]
+            },
+            {
+                "heading": "Principles of Dhamma",
+                "points": [
+                    "Ahimsa (non-violence towards all beings)",
+                    "Respect for elders, parents, and teachers",
+                    "Religious tolerance among all sects",
+                    "Truthfulness and moral conduct",
+                    "Welfare of people and animals"
+                ]
+            },
+            {
+                "heading": "Objectives of Dhamma",
+                "points": [
+                    "Social harmony in a diverse empire",
+                    "Reduction of violence and crime",
+                    "Strengthening moral values in society",
+                    "Administrative efficiency through ethics",
+                    "Unification of empire through shared values"
+                ]
+            },
+            {
+                "heading": "Dhamma Mahamatras",
+                "points": [
+                    "Special officers appointed by Ashoka",
+                    "Responsible for spreading Dhamma",
+                    "Looked after welfare of people and prisoners",
+                    "Ensured religious tolerance",
+                    "Reported directly to emperor"
+                ]
+            },
+            {
+                "heading": "Mauryan Administration – Overview",
+                "points": [
+                    "Highly centralized bureaucratic system",
+                    "King was supreme authority",
+                    "Empire divided into provinces",
+                    "Efficient taxation and revenue system",
+                    "Strong army and espionage network"
+                ]
+            },
+            {
+                "heading": "Central Administration",
+                "points": [
+                    "King had absolute authority",
+                    "Assisted by council of ministers (Mantriparishad)",
+                    "Chanakya’s Arthashastra influenced governance",
+                    "Well-organized departments for different functions",
+                    "Strict law and order system"
+                ]
+            },
+            {
+                "heading": "Provincial Administration",
+                "points": [
+                    "Empire divided into provinces",
+                    "Governed by royal princes or governors",
+                    "Provinces further divided into districts",
+                    "Local administration retained some autonomy",
+                    "Efficient revenue collection system"
+                ]
+            },
+            {
+                "heading": "Military Administration",
+                "points": [
+                    "Large standing army (infantry, cavalry, elephants, chariots)",
+                    "Six boards or departments for military management",
+                    "Strong fortification system",
+                    "Use of spies for intelligence",
+                    "Well-organized command structure"
+                ]
+            },
+            {
+                "heading": "Revenue Administration",
+                "points": [
+                    "Land tax was main source of revenue",
+                    "State controlled mines, forests, and trade",
+                    "Officials collected taxes systematically",
+                    "Economy regulated by state",
+                    "Agricultural surplus supported empire"
+                ]
+            },
+            {
+                "heading": "Foreign Relations – Overview",
+                "points": [
+                    "Mauryan Empire maintained diplomatic relations with Hellenistic kingdoms",
+                    "Ashoka preferred peaceful diplomacy over warfare",
+                    "Relations with Seleucid Empire, Egypt, and Sri Lanka",
+                    "Exchange of envoys and ideas",
+                    "Expansion of Buddhism abroad"
+                ]
+            },
+            {
+                "heading": "Relations with Hellenistic World",
+                "points": [
+                    "Contacts with Seleucus Nicator’s successors",
+                    "Exchange of ambassadors (e.g., Megasthenes earlier)",
+                    "Trade relations with West Asia and Greece",
+                    "Cultural exchange between India and Mediterranean world",
+                    "Diplomatic peace rather than conflict"
+                ]
+            },
+            {
+                "heading": "Relations with Sri Lanka",
+                "points": [
+                    "Strong Buddhist connection established",
+                    "Mission led by Mahinda and Sanghamitta",
+                    "Sri Lankan king Devanampiya Tissa adopted Buddhism",
+                    "Stupa construction and monastic establishment",
+                    "Long-lasting cultural and religious ties"
+                ]
+            },
+            {
+                "heading": "Significance of Ashoka’s Policies",
+                "points": [
+                    "First attempt at welfare state governance in India",
+                    "Integration of ethics into administration",
+                    "Spread of Indian culture abroad",
+                    "Strengthened internal unity of diverse empire",
+                    "Model of non-violent leadership in ancient history"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Ashoka adopted Buddhism after:",
+                    "options": [
+                    "Battle of Hydaspes",
+                    "Kalinga War",
+                    "Battle of Plassey",
+                    "Indus invasion"
+                    ],
+                    "answer": "Kalinga War"
+                },
+                {
+                    "question": "Ashoka’s moral code is called:",
+                    "options": [
+                    "Dharma",
+                    "Dhamma",
+                    "Satrapy",
+                    "Yajna"
+                    ],
+                    "answer": "Dhamma"
+                },
+                {
+                    "question": "Dhamma Mahamatras were responsible for:",
+                    "options": [
+                    "Tax collection",
+                    "Spread of moral values",
+                    "Military training",
+                    "Trade regulation"
+                    ],
+                    "answer": "Spread of moral values"
+                },
+                {
+                    "question": "Ashoka sent missionaries to:",
+                    "options": [
+                    "Only India",
+                    "Sri Lanka and abroad",
+                    "Only China",
+                    "Only Greece"
+                    ],
+                    "answer": "Sri Lanka and abroad"
+                },
+                {
+                    "question": "Mauryan capital was:",
+                    "options": [
+                    "Ujjain",
+                    "Pataliputra",
+                    "Taxila",
+                    "Mathura"
+                    ],
+                    "answer": "Pataliputra"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Ashoka’s Dhamma emphasized:",
+                    "options": [
+                    "War and expansion",
+                    "Non-violence and tolerance",
+                    "Tax exemption",
+                    "Caste hierarchy"
+                    ],
+                    "answer": "Non-violence and tolerance"
+                },
+                {
+                    "question": "Mauryan administration was:",
+                    "options": [
+                    "Decentralized",
+                    "Highly centralized",
+                    "Tribal",
+                    "Feudal"
+                    ],
+                    "answer": "Highly centralized"
+                },
+                {
+                    "question": "Mahinda is associated with:",
+                    "options": [
+                    "Buddhism spread to Sri Lanka",
+                    "Mauryan army",
+                    "Arthashastra",
+                    "Gupta empire"
+                    ],
+                    "answer": "Buddhism spread to Sri Lanka"
+                },
+                {
+                    "question": "Arthashastra influenced:",
+                    "options": [
+                    "Religious rituals",
+                    "Mauryan administration",
+                    "Temple architecture",
+                    "Art forms only"
+                    ],
+                    "answer": "Mauryan administration"
+                },
+                {
+                    "question": "Ashoka’s foreign policy was mainly:",
+                    "options": [
+                    "Expansionist",
+                    "Diplomatic and peaceful",
+                    "Isolationist",
+                    "Colonial"
+                    ],
+                    "answer": "Diplomatic and peaceful"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Ashoka promoted Dhamma based on non-violence\n2. He declared Buddhism as state religion\n3. He appointed Dhamma Mahamatras",
+                    "options": [
+                    "1 and 3 only",
+                    "2 and 3 only",
+                    "1 and 2 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "A key feature of Mauryan administration was:",
+                    "options": [
+                    "Weak central authority",
+                    "Strong centralized bureaucracy",
+                    "No taxation system",
+                    "Tribal governance"
+                    ],
+                    "answer": "Strong centralized bureaucracy"
+                },
+                {
+                    "question": "Ashoka’s foreign relations were characterized by:",
+                    "options": [
+                    "Constant warfare",
+                    "Diplomatic exchange and missions",
+                    "Isolation",
+                    "Colonial expansion"
+                    ],
+                    "answer": "Diplomatic exchange and missions"
+                },
+                {
+                    "question": "Dhamma policy was primarily aimed at:",
+                    "options": [
+                    "Religious conversion",
+                    "Social harmony and ethical governance",
+                    "Military expansion",
+                    "Economic exploitation"
+                    ],
+                    "answer": "Social harmony and ethical governance"
+                },
+                {
+                    "question": "Correct statement about Ashoka is:",
+                    "options": [
+                    "He ignored administration",
+                    "He integrated ethics with governance",
+                    "He ruled only South India",
+                    "He abolished bureaucracy"
+                    ],
+                    "answer": "He integrated ethics with governance"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Ancient History – Decline of the Mauryan Empire",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "The Mauryan Empire declined after the death of Ashoka (232 BCE)",
+                    "The empire weakened due to internal and external factors",
+                    "Centralized administration became difficult to sustain",
+                    "Regional powers gradually emerged",
+                    "End of Mauryan rule marked by assassination of last ruler"
+                ]
+            },
+            {
+                "heading": "Post-Ashokan Period",
+                "points": [
+                    "Successors of Ashoka were weak and ineffective",
+                    "Lack of strong central leadership",
+                    "Empire began to fragment into provinces",
+                    "Provincial governors became more powerful",
+                    "Administrative control weakened over distant regions"
+                ]
+            },
+            {
+                "heading": "Weak Successors",
+                "points": [
+                    "Later Mauryan rulers lacked political and military ability",
+                    "Brihadratha was the last Mauryan emperor",
+                    "Court politics became unstable",
+                    "Dependence on ministers and generals increased",
+                    "No major expansion or reforms after Ashoka"
+                ]
+            },
+            {
+                "heading": "Over-Centralization Problem",
+                "points": [
+                    "Mauryan administration was highly centralized",
+                    "Heavy dependence on strong ruler (Ashoka’s model)",
+                    "After Ashoka, system became unsustainable",
+                    "Local governors gained autonomy",
+                    "Administrative breakdown in distant provinces"
+                ]
+            },
+            {
+                "heading": "Economic Factors",
+                "points": [
+                    "Heavy taxation burden on population",
+                    "Large standing army increased expenditure",
+                    "Decline in state revenue efficiency",
+                    "Disruption in trade routes in some regions",
+                    "Economic strain on imperial administration"
+                ]
+            },
+            {
+                "heading": "Military Factors",
+                "points": [
+                    "Large army became difficult to maintain",
+                    "Decline in discipline and efficiency",
+                    "Provincial revolts weakened control",
+                    "Generals gained political power",
+                    "Security of empire reduced"
+                ]
+            },
+            {
+                "heading": "Administrative Weakness",
+                "points": [
+                    "Corruption in bureaucracy increased",
+                    "Lack of strong surveillance after Ashoka",
+                    "Dhamma policy reduced focus on military expansion",
+                    "Over-reliance on officials and governors",
+                    "Breakdown of central control mechanisms"
+                ]
+            },
+            {
+                "heading": "Rise of Regional Powers",
+                "points": [
+                    "Provincial rulers asserted independence",
+                    "North-West regions became unstable",
+                    "Deccan and South India remained outside control",
+                    "Local dynasties gained strength",
+                    "Political fragmentation of empire"
+                ]
+            },
+            {
+                "heading": "External Factors",
+                "points": [
+                    "Greek (Indo-Greek) invasions in North-West India",
+                    "Border regions became vulnerable",
+                    "Loss of control over frontier areas",
+                    "Pressure from foreign powers increased",
+                    "Trade disruptions in some regions"
+                ]
+            },
+            {
+                "heading": "Final End of Mauryan Empire",
+                "points": [
+                    "Last Mauryan ruler: Brihadratha",
+                    "Assassinated by his commander Pushyamitra Shunga",
+                    "This marked end of Mauryan dynasty (c. 185 BCE)",
+                    "Beginning of Shunga dynasty",
+                    "Transition to post-Mauryan regional kingdoms"
+                ]
+            },
+            {
+                "heading": "Significance of Decline",
+                "points": [
+                    "End of first pan-Indian empire",
+                    "Rise of regional kingdoms",
+                    "Shift in political structure of India",
+                    "Decline of centralized imperial model",
+                    "Foundation for later dynasties like Shungas and Satavahanas"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "The last Mauryan ruler was:",
+                    "options": [
+                    "Ashoka",
+                    "Bindusara",
+                    "Brihadratha",
+                    "Chandragupta Maurya"
+                    ],
+                    "answer": "Brihadratha"
+                },
+                {
+                    "question": "Mauryan Empire ended with rise of:",
+                    "options": [
+                    "Guptas",
+                    "Shungas",
+                    "Kushanas",
+                    "Mughals"
+                    ],
+                    "answer": "Shungas"
+                },
+                {
+                    "question": "Founder of Shunga dynasty was:",
+                    "options": [
+                    "Ashoka",
+                    "Pushyamitra Shunga",
+                    "Kanishka",
+                    "Harsha"
+                    ],
+                    "answer": "Pushyamitra Shunga"
+                },
+                {
+                    "question": "Mauryan decline began after:",
+                    "options": [
+                    "Battle of Hydaspes",
+                    "Death of Ashoka",
+                    "Kalinga War",
+                    "Arrival of Greeks"
+                    ],
+                    "answer": "Death of Ashoka"
+                },
+                {
+                    "question": "Mauryan administration was mainly:",
+                    "options": [
+                    "Feudal",
+                    "Centralized",
+                    "Tribal",
+                    "Colonial"
+                    ],
+                    "answer": "Centralized"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "One major cause of Mauryan decline was:",
+                    "options": [
+                    "Strong successors",
+                    "Over-centralization",
+                    "Industrial growth",
+                    "Religious unity"
+                    ],
+                    "answer": "Over-centralization"
+                },
+                {
+                    "question": "Which region became vulnerable after Mauryan decline?",
+                    "options": [
+                    "South India",
+                    "North-West India",
+                    "Central India",
+                    "Eastern Ghats"
+                    ],
+                    "answer": "North-West India"
+                },
+                {
+                    "question": "Mauryan economy declined due to:",
+                    "options": [
+                    "No agriculture",
+                    "Heavy taxation and weak revenue system",
+                    "No trade",
+                    "Foreign rule"
+                    ],
+                    "answer": "Heavy taxation and weak revenue system"
+                },
+                {
+                    "question": "Pushyamitra Shunga was a:",
+                    "options": [
+                    "King of Maurya dynasty",
+                    "Commander-in-chief",
+                    "Buddhist monk",
+                    "Foreign ruler"
+                    ],
+                    "answer": "Commander-in-chief"
+                },
+                {
+                    "question": "After Mauryas, India entered:",
+                    "options": [
+                    "Stone Age",
+                    "Post-Mauryan regional phase",
+                    "Modern era",
+                    "Harappan phase"
+                    ],
+                    "answer": "Post-Mauryan regional phase"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Mauryan decline was due to weak successors\n2. Over-centralization contributed to instability\n3. Mauryan Empire survived till Gupta period",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "A key political impact of Mauryan decline was:",
+                    "options": [
+                    "Formation of Gupta Empire immediately",
+                    "Rise of regional kingdoms",
+                    "End of all trade",
+                    "Foreign colonization"
+                    ],
+                    "answer": "Rise of regional kingdoms"
+                },
+                {
+                    "question": "Mauryan military weakness after Ashoka was due to:",
+                    "options": [
+                    "No army",
+                    "Large but poorly managed army",
+                    "Foreign control",
+                    "Naval warfare dominance"
+                    ],
+                    "answer": "Large but poorly managed army"
+                },
+                {
+                    "question": "Final end of Mauryan Empire occurred through:",
+                    "options": [
+                    "Foreign invasion",
+                    "Assassination of Brihadratha",
+                    "Natural disaster",
+                    "Trade collapse"
+                    ],
+                    "answer": "Assassination of Brihadratha"
+                },
+                {
+                    "question": "Correct statement about Mauryan decline is:",
+                    "options": [
+                    "It strengthened empire",
+                    "It led to political fragmentation",
+                    "It increased centralization",
+                    "It ended agriculture"
+                    ],
+                    "answer": "It led to political fragmentation"
+                }
+            ]
+        }
+    }
+]

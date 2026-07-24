@@ -1,0 +1,1018 @@
+[
+    {
+        "name": "Effect of Human Activities on Environment: Modern Agriculture & Housing",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Human activities are the major drivers of environmental change and degradation",
+                    "Modern agriculture and housing development significantly impact ecosystems",
+                    "These activities affect soil, water, air, biodiversity, and climate",
+                    "Sustainable practices are needed to balance development and environment"
+                ]
+            },
+            {
+                "heading": "Effect of Human Activities on Environment – Introduction",
+                "points": [
+                    "Human activities modify natural ecosystems for economic and social needs",
+                    "Rapid industrialization and urbanization increase environmental stress",
+                    "Main impacts include pollution, deforestation, and biodiversity loss",
+                    "Unsustainable resource use leads to ecological imbalance",
+                    "Environmental degradation affects human health and livelihoods"
+                ]
+            },
+            {
+                "heading": "Major Human Activities Affecting Environment",
+                "points": [
+                    "Agriculture and land-use change",
+                    "Urbanization and housing development",
+                    "Industrialization",
+                    "Transportation expansion",
+                    "Mining and resource extraction"
+                ]
+            },
+            {
+                "heading": "Effect of Modern Agriculture on Environment – Overview",
+                "points": [
+                    "Modern agriculture uses high-yield seeds, fertilizers, pesticides, and irrigation",
+                    "It increases food production but also causes environmental degradation",
+                    "Intensive farming leads to resource depletion",
+                    "Monoculture reduces biodiversity",
+                    "Agriculture is a major contributor to greenhouse gas emissions"
+                ]
+            },
+            {
+                "heading": "Positive Effects of Modern Agriculture",
+                "points": [
+                    "Increased food production and food security",
+                    "Improved crop yields through HYV seeds",
+                    "Better pest control and disease management",
+                    "Efficient irrigation techniques like drip irrigation",
+                    "Support for rural livelihoods"
+                ]
+            },
+            {
+                "heading": "Negative Effects of Modern Agriculture",
+                "points": [
+                    "Soil degradation due to excessive chemical fertilizers",
+                    "Water pollution from pesticides and fertilizers (eutrophication)",
+                    "Groundwater depletion due to irrigation",
+                    "Loss of biodiversity due to monoculture",
+                    "Greenhouse gas emissions (methane from rice fields, nitrous oxide from fertilizers)"
+                ]
+            },
+            {
+                "heading": "Impact on Soil and Land",
+                "points": [
+                    "Soil erosion due to over-cultivation",
+                    "Loss of soil fertility from chemical use",
+                    "Salinization and alkalization in irrigated areas",
+                    "Desertification in dry regions",
+                    "Compaction of soil reducing productivity"
+                ]
+            },
+            {
+                "heading": "Impact on Water Resources",
+                "points": [
+                    "Over-extraction of groundwater",
+                    "Contamination of rivers and lakes by agrochemicals",
+                    "Eutrophication due to nutrient runoff",
+                    "Reduced water quality for human use",
+                    "Stress on freshwater ecosystems"
+                ]
+            },
+            {
+                "heading": "Impact on Biodiversity",
+                "points": [
+                    "Loss of natural habitats due to farmland expansion",
+                    "Reduction in crop genetic diversity",
+                    "Decline of pollinators like bees",
+                    "Disruption of food chains",
+                    "Spread of invasive species through agriculture"
+                ]
+            },
+            {
+                "heading": "Sustainable Agricultural Practices",
+                "points": [
+                    "Organic farming",
+                    "Crop rotation and mixed cropping",
+                    "Integrated pest management (IPM)",
+                    "Drip and sprinkler irrigation",
+                    "Agroforestry systems"
+                ]
+            },
+            {
+                "heading": "Effect of Housing on Environment – Overview",
+                "points": [
+                    "Housing development includes construction of residential and urban infrastructure",
+                    "Rapid urbanization increases demand for land, water, and energy",
+                    "Construction activities significantly alter natural landscapes",
+                    "Urban housing contributes to pollution and resource consumption",
+                    "Impacts are both local and global in nature"
+                ]
+            },
+            {
+                "heading": "Positive Effects of Housing Development",
+                "points": [
+                    "Improved living standards",
+                    "Better sanitation and infrastructure",
+                    "Economic growth and employment",
+                    "Urban planning and development",
+                    "Access to services like water, electricity, and transport"
+                ]
+            },
+            {
+                "heading": "Negative Effects of Housing on Environment",
+                "points": [
+                    "Deforestation for urban expansion",
+                    "Loss of agricultural land",
+                    "Increased air and noise pollution",
+                    "High energy consumption in buildings",
+                    "Generation of construction waste"
+                ]
+            },
+            {
+                "heading": "Impact on Air and Water",
+                "points": [
+                    "Dust and emissions from construction activities",
+                    "Vehicular pollution in urban areas",
+                    "Sewage discharge into water bodies",
+                    "Reduced groundwater recharge due to concrete surfaces",
+                    "Urban heat island effect"
+                ]
+            },
+            {
+                "heading": "Impact on Biodiversity",
+                "points": [
+                    "Habitat fragmentation due to urban sprawl",
+                    "Displacement of wildlife species",
+                    "Loss of green spaces and wetlands",
+                    "Decline in urban biodiversity",
+                    "Disturbance to migratory routes"
+                ]
+            },
+            {
+                "heading": "Sustainable Housing Practices",
+                "points": [
+                    "Green buildings and eco-friendly architecture",
+                    "Rainwater harvesting systems",
+                    "Use of renewable energy (solar panels)",
+                    "Efficient waste management systems",
+                    "Urban green spaces and vertical gardens"
+                ]
+            },
+            {
+                "heading": "Comparative Impact: Agriculture vs Housing",
+                "points": [
+                    "Agriculture mainly impacts soil, water, and biodiversity",
+                    "Housing mainly impacts air quality, land use, and urban ecosystems",
+                    "Both contribute to greenhouse gas emissions",
+                    "Both lead to habitat loss and ecological imbalance",
+                    "Sustainable practices can reduce impacts in both sectors"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Modern agriculture mainly affects which resource?",
+                    "options": [
+                        "Minerals",
+                        "Soil and water",
+                        "Space",
+                        "Wind"
+                    ],
+                    "answer": "Soil and water"
+                },
+                {
+                    "question": "Monoculture farming leads to:",
+                    "options": [
+                        "Increase in biodiversity",
+                        "Loss of biodiversity",
+                        "No impact",
+                        "Water purification"
+                    ],
+                    "answer": "Loss of biodiversity"
+                },
+                {
+                    "question": "Housing development mainly causes:",
+                    "options": [
+                        "Afforestation",
+                        "Deforestation",
+                        "Ocean formation",
+                        "Glacier growth"
+                    ],
+                    "answer": "Deforestation"
+                },
+                {
+                    "question": "Greenhouse gas from rice fields is mainly:",
+                    "options": [
+                        "Carbon dioxide",
+                        "Methane",
+                        "Oxygen",
+                        "Nitrogen"
+                    ],
+                    "answer": "Methane"
+                },
+                {
+                    "question": "Urban heat island effect is caused by:",
+                    "options": [
+                        "Forests",
+                        "Concrete structures",
+                        "Rivers",
+                        "Grasslands"
+                    ],
+                    "answer": "Concrete structures"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Eutrophication is caused by:",
+                    "options": [
+                        "Air pollution",
+                        "Excess nutrients in water",
+                        "Noise pollution",
+                        "Soil erosion"
+                    ],
+                    "answer": "Excess nutrients in water"
+                },
+                {
+                    "question": "Drip irrigation helps in:",
+                    "options": [
+                        "Increasing water wastage",
+                        "Water conservation",
+                        "Air pollution",
+                        "Deforestation"
+                    ],
+                    "answer": "Water conservation"
+                },
+                {
+                    "question": "Construction activities mainly generate:",
+                    "options": [
+                        "Plastic only",
+                        "Dust and waste",
+                        "Oxygen",
+                        "Rainfall"
+                    ],
+                    "answer": "Dust and waste"
+                },
+                {
+                    "question": "Groundwater depletion is mainly due to:",
+                    "options": [
+                        "Excess irrigation",
+                        "Rainfall increase",
+                        "Forest growth",
+                        "Wind action"
+                    ],
+                    "answer": "Excess irrigation"
+                },
+                {
+                    "question": "Integrated pest management reduces:",
+                    "options": [
+                        "Crop production",
+                        "Chemical pesticide use",
+                        "Water availability",
+                        "Soil fertility"
+                    ],
+                    "answer": "Chemical pesticide use"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Modern agriculture can cause eutrophication\n2. Housing development increases urban heat island effect\n3. Organic farming increases chemical pollution",
+                    "options": [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Monoculture farming leads to:",
+                    "options": [
+                        "Higher biodiversity",
+                        "Reduced genetic diversity",
+                        "Soil enrichment only",
+                        "Flood prevention"
+                    ],
+                    "answer": "Reduced genetic diversity"
+                },
+                {
+                    "question": "Green buildings help in:",
+                    "options": [
+                        "Increasing pollution",
+                        "Energy efficiency",
+                        "Deforestation",
+                        "Soil erosion"
+                    ],
+                    "answer": "Energy efficiency"
+                },
+                {
+                    "question": "Urbanization affects biodiversity by:",
+                    "options": [
+                        "Increasing habitats",
+                        "Fragmenting habitats",
+                        "No impact",
+                        "Improving forests"
+                    ],
+                    "answer": "Fragmenting habitats"
+                },
+                {
+                    "question": "Sustainable agriculture includes:",
+                    "options": [
+                        "Excess fertilizer use",
+                        "Crop rotation",
+                        "Monoculture only",
+                        "Deforestation"
+                    ],
+                    "answer": "Crop rotation"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Effect of Power Generation & River Valley (Water Resource) Projects on Environment",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Power generation and large water resource projects are essential for development but have significant environmental impacts",
+                    "Thermal, hydro, nuclear, and renewable energy sources affect air, water, land, and biodiversity differently",
+                    "River valley projects include dams, reservoirs, irrigation, and multipurpose projects",
+                    "These projects alter natural river ecosystems and local climate conditions"
+                ]
+            },
+            {
+                "heading": "Effect of Power Generation on Environment – Introduction",
+                "points": [
+                    "Electricity generation is a major driver of industrial and economic development",
+                    "Different energy sources have different environmental footprints",
+                    "Main types: Thermal, Hydro, Nuclear, and Renewable energy",
+                    "Impacts include pollution, habitat loss, and climate change",
+                    "Balance between energy demand and environmental protection is critical"
+                ]
+            },
+            {
+                "heading": "Effect of Thermal Power Plants",
+                "points": [
+                    "Burning of coal releases carbon dioxide (CO₂), sulfur dioxide (SO₂), and nitrogen oxides (NOx)",
+                    "Major contributor to global warming and air pollution",
+                    "Fly ash disposal causes soil and water contamination",
+                    "Thermal pollution affects nearby water bodies",
+                    "Mining for coal leads to deforestation and land degradation"
+                ]
+            },
+            {
+                "heading": "Effect of Hydroelectric Power Projects",
+                "points": [
+                    "Construction of dams leads to submergence of forests and villages",
+                    "Disrupts river flow and aquatic ecosystems",
+                    "Affects fish migration and biodiversity",
+                    "May cause displacement of local communities",
+                    "Reservoirs can lead to methane emissions from decomposing organic matter"
+                ]
+            },
+            {
+                "heading": "Effect of Nuclear Power Plants",
+                "points": [
+                    "Low greenhouse gas emissions during operation",
+                    "Risk of radioactive waste contamination",
+                    "Accident hazards can cause severe long-term damage",
+                    "High water requirement for cooling systems",
+                    "Thermal pollution in surrounding water bodies"
+                ]
+            },
+            {
+                "heading": "Effect of Renewable Energy Sources",
+                "points": [
+                    "Solar energy – land use and manufacturing waste issues",
+                    "Wind energy – bird and bat mortality concerns",
+                    "Biomass energy – air pollution if not managed properly",
+                    "Generally low environmental impact compared to fossil fuels",
+                    "Still requires careful site selection and planning"
+                ]
+            },
+            {
+                "heading": "Common Environmental Impacts of Power Generation",
+                "points": [
+                    "Air pollution and greenhouse gas emissions",
+                    "Water pollution and thermal pollution",
+                    "Land degradation due to mining and infrastructure",
+                    "Loss of biodiversity and habitat fragmentation",
+                    "Contribution to climate change"
+                ]
+            },
+            {
+                "heading": "Effect of River Valley Projects – Introduction",
+                "points": [
+                    "River valley projects include dams, barrages, canals, and multipurpose water systems",
+                    "Used for irrigation, hydroelectricity, flood control, and drinking water supply",
+                    "Major examples include Bhakra Nangal, Hirakud, and Sardar Sarovar projects",
+                    "They significantly modify natural river systems",
+                    "Have both developmental benefits and environmental costs"
+                ]
+            },
+            {
+                "heading": "Positive Effects of River Valley Projects",
+                "points": [
+                    "Irrigation support for agriculture",
+                    "Hydroelectric power generation",
+                    "Flood control and drought mitigation",
+                    "Improved drinking water supply",
+                    "Boost to industrial and economic development"
+                ]
+            },
+            {
+                "heading": "Negative Environmental Effects of River Valley Projects",
+                "points": [
+                    "Submergence of forests and fertile land",
+                    "Loss of biodiversity and wildlife habitats",
+                    "Disruption of river ecology and sediment flow",
+                    "Blocking of fish migration routes",
+                    "Changes in downstream water availability"
+                ]
+            },
+            {
+                "heading": "Social Impacts of River Valley Projects",
+                "points": [
+                    "Displacement of local and tribal communities",
+                    "Loss of livelihoods (fishing, agriculture)",
+                    "Cultural and heritage loss due to submergence",
+                    "Rehabilitation and resettlement challenges",
+                    "Conflicts over water sharing"
+                ]
+            },
+            {
+                "heading": "Environmental Issues Related to Dams",
+                "points": [
+                    "Reservoir-induced seismicity in some regions",
+                    "Waterlogging and soil salinization in command areas",
+                    "Increased evaporation losses from large reservoirs",
+                    "Siltation reduces dam efficiency over time",
+                    "Alteration of microclimate in surrounding areas"
+                ]
+            },
+            {
+                "heading": "Case Studies in India",
+                "points": [
+                    "Sardar Sarovar Project – Narmada River basin development",
+                    "Tehri Dam – seismic and displacement concerns",
+                    "Hirakud Dam – flood control and irrigation benefits",
+                    "Bhakra Nangal Dam – major multipurpose project",
+                    "Polavaram Project – interstate water and displacement issues"
+                ]
+            },
+            {
+                "heading": "Environmental Safeguards for Power and River Projects",
+                "points": [
+                    "Environmental Impact Assessment (EIA)",
+                    "Compensatory afforestation for forest loss",
+                    "Fish ladders and wildlife corridors",
+                    "Sustainable dam design and river flow management",
+                    "Public consultation and rehabilitation policies"
+                ]
+            },
+            {
+                "heading": "Sustainable Alternatives and Solutions",
+                "points": [
+                    "Promotion of renewable energy (solar, wind)",
+                    "Run-of-the-river hydroelectric projects",
+                    "Small-scale decentralized power systems",
+                    "Efficient water management practices",
+                    "Integrated river basin management"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Main greenhouse gas emitted by coal-based power plants is:",
+                    "options": [
+                        "Oxygen",
+                        "Carbon dioxide",
+                        "Nitrogen",
+                        "Helium"
+                    ],
+                    "answer": "Carbon dioxide"
+                },
+                {
+                    "question": "Hydroelectric projects mainly affect:",
+                    "options": [
+                        "Soil only",
+                        "River ecosystems",
+                        "Atmosphere only",
+                        "Magnetic field"
+                    ],
+                    "answer": "River ecosystems"
+                },
+                {
+                    "question": "Tehri Dam is located on which river?",
+                    "options": [
+                        "Ganga",
+                        "Yamuna",
+                        "Bhagirathi",
+                        "Godavari"
+                    ],
+                    "answer": "Bhagirathi"
+                },
+                {
+                    "question": "Fly ash is associated with:",
+                    "options": [
+                        "Hydropower",
+                        "Thermal power plants",
+                        "Wind energy",
+                        "Solar energy"
+                    ],
+                    "answer": "Thermal power plants"
+                },
+                {
+                    "question": "Run-of-the-river projects are mainly used to reduce:",
+                    "options": [
+                        "Electricity generation",
+                        "Environmental impact of dams",
+                        "Rainfall",
+                        "Soil fertility"
+                    ],
+                    "answer": "Environmental impact of dams"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "One major impact of dams is:",
+                    "options": [
+                        "Increase in biodiversity",
+                        "Disruption of fish migration",
+                        "Increase in rainfall",
+                        "Reduction in water use"
+                    ],
+                    "answer": "Disruption of fish migration"
+                },
+                {
+                    "question": "Reservoir-induced seismicity is related to:",
+                    "options": [
+                        "Solar plants",
+                        "Large dams",
+                        "Wind farms",
+                        "Coal mines only"
+                    ],
+                    "answer": "Large dams"
+                },
+                {
+                    "question": "Thermal pollution affects:",
+                    "options": [
+                        "Air only",
+                        "Water bodies",
+                        "Soil only",
+                        "Forest only"
+                    ],
+                    "answer": "Water bodies"
+                },
+                {
+                    "question": "Hydroelectric projects can cause:",
+                    "options": [
+                        "Deforestation",
+                        "Afforestation only",
+                        "Increase in fish population",
+                        "No environmental change"
+                    ],
+                    "answer": "Deforestation"
+                },
+                {
+                    "question": "EIA stands for:",
+                    "options": [
+                        "Environmental Impact Assessment",
+                        "Energy Impact Analysis",
+                        "Ecological Industrial Area",
+                        "Environmental Improvement Act"
+                    ],
+                    "answer": "Environmental Impact Assessment"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Thermal power plants contribute to air pollution\n2. Hydroelectric dams can displace people\n3. Renewable energy has zero environmental impact",
+                    "options": [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "River valley projects affect ecology by:",
+                    "options": [
+                        "Increasing river flow naturally",
+                        "Altering natural sediment flow",
+                        "Eliminating rainfall",
+                        "Increasing biodiversity everywhere"
+                    ],
+                    "answer": "Altering natural sediment flow"
+                },
+                {
+                    "question": "Siltation in dams leads to:",
+                    "options": [
+                        "Increased capacity",
+                        "Reduced efficiency",
+                        "More rainfall",
+                        "Better navigation"
+                    ],
+                    "answer": "Reduced efficiency"
+                },
+                {
+                    "question": "Wind energy impacts include:",
+                    "options": [
+                        "Bird mortality",
+                        "Soil erosion only",
+                        "River pollution",
+                        "Deforestation only"
+                    ],
+                    "answer": "Bird mortality"
+                },
+                {
+                    "question": "Sustainable solution for hydropower is:",
+                    "options": [
+                        "Large dams only",
+                        "Run-of-the-river projects",
+                        "Coal expansion",
+                        "Mining increase"
+                    ],
+                    "answer": "Run-of-the-river projects"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Effect of Mining, Transportation & Tourism on Environment",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Mining, transportation, and tourism are key economic activities with significant environmental impacts",
+                    "These activities contribute to land degradation, pollution, and biodiversity loss",
+                    "They also support economic growth and employment",
+                    "Sustainable management is essential to reduce environmental damage"
+                ]
+            },
+            {
+                "heading": "Effect of Mining on Environment – Introduction",
+                "points": [
+                    "Mining involves extraction of minerals and fossil fuels from the Earth",
+                    "It includes surface mining and underground mining",
+                    "Provides raw materials for industries and energy production",
+                    "However, it causes severe environmental degradation",
+                    "Impacts are both local and long-term"
+                ]
+            },
+            {
+                "heading": "Positive Effects of Mining",
+                "points": [
+                    "Economic growth and industrial development",
+                    "Employment generation",
+                    "Infrastructure development in remote areas",
+                    "Revenue for government through royalties",
+                    "Supply of essential raw materials"
+                ]
+            },
+            {
+                "heading": "Negative Effects of Mining on Environment",
+                "points": [
+                    "Deforestation and habitat destruction",
+                    "Soil erosion and land degradation",
+                    "Air pollution due to dust and emissions",
+                    "Water pollution from mining waste and acid mine drainage",
+                    "Loss of biodiversity"
+                ]
+            },
+            {
+                "heading": "Impact on Land and Soil",
+                "points": [
+                    "Removal of topsoil reduces fertility",
+                    "Creation of wastelands and mine dumps",
+                    "Land subsidence in underground mining areas",
+                    "Desertification in mined regions",
+                    "Permanent alteration of landscape"
+                ]
+            },
+            {
+                "heading": "Impact on Water Resources",
+                "points": [
+                    "Contamination of groundwater with heavy metals",
+                    "Acid mine drainage affecting rivers and lakes",
+                    "Depletion of water table",
+                    "Sedimentation of water bodies",
+                    "Water scarcity in mining regions"
+                ]
+            },
+            {
+                "heading": "Impact on Air and Climate",
+                "points": [
+                    "Release of particulate matter (dust pollution)",
+                    "Emission of greenhouse gases from mining machinery",
+                    "Methane release in coal mining",
+                    "Local temperature changes due to land disturbance",
+                    "Contribution to climate change"
+                ]
+            },
+            {
+                "heading": "Sustainable Mining Practices",
+                "points": [
+                    "Land reclamation and afforestation of mined areas",
+                    "Use of cleaner mining technologies",
+                    "Waste recycling and management",
+                    "Environmental Impact Assessment (EIA)",
+                    "Strict regulatory enforcement"
+                ]
+            },
+            {
+                "heading": "Effect of Transportation Activities on Environment – Introduction",
+                "points": [
+                    "Transportation includes road, rail, air, and water transport",
+                    "It is essential for trade, mobility, and economic development",
+                    "Rapid growth in transport increases environmental pressure",
+                    "Major source of air and noise pollution",
+                    "Significant contributor to fossil fuel consumption"
+                ]
+            },
+            {
+                "heading": "Positive Effects of Transportation",
+                "points": [
+                    "Facilitates economic development and trade",
+                    "Improves connectivity and accessibility",
+                    "Supports tourism and employment",
+                    "Enables movement of goods and services",
+                    "Promotes regional development"
+                ]
+            },
+            {
+                "heading": "Negative Effects of Transportation",
+                "points": [
+                    "Air pollution from vehicle emissions",
+                    "Greenhouse gas emissions contributing to global warming",
+                    "Noise pollution in urban areas",
+                    "Land use change for roads and infrastructure",
+                    "Accidents and ecological disturbances"
+                ]
+            },
+            {
+                "heading": "Impact of Road Transport",
+                "points": [
+                    "Major source of CO₂ emissions",
+                    "Fragmentation of habitats due to highways",
+                    "Increase in roadkill of wildlife",
+                    "Urban congestion and pollution",
+                    "High fossil fuel consumption"
+                ]
+            },
+            {
+                "heading": "Impact of Rail Transport",
+                "points": [
+                    "Lower emissions compared to road transport",
+                    "Noise pollution in residential areas",
+                    "Land acquisition affects ecosystems",
+                    "Wildlife collisions in forest areas",
+                    "Energy-efficient transport mode"
+                ]
+            },
+            {
+                "heading": "Impact of Air Transport",
+                "points": [
+                    "High carbon emissions per passenger",
+                    "Noise pollution near airports",
+                    "Contribution to ozone layer depletion (indirect)",
+                    "High fuel consumption",
+                    "Land use for airports"
+                ]
+            },
+            {
+                "heading": "Sustainable Transport Solutions",
+                "points": [
+                    "Promotion of electric vehicles (EVs)",
+                    "Use of public transport systems",
+                    "Non-motorized transport (cycling, walking)",
+                    "Improved fuel efficiency standards",
+                    "Development of metro and rail networks"
+                ]
+            },
+            {
+                "heading": "Effect of Tourism on Environment – Introduction",
+                "points": [
+                    "Tourism involves travel for leisure, business, or cultural purposes",
+                    "It supports economic growth and employment",
+                    "But it also places pressure on natural and cultural resources",
+                    "Eco-tourism aims to minimize environmental damage",
+                    "Tourism can be both beneficial and harmful to environment"
+                ]
+            },
+            {
+                "heading": "Positive Effects of Tourism",
+                "points": [
+                    "Economic development and foreign exchange earnings",
+                    "Employment generation in local communities",
+                    "Promotion of cultural heritage",
+                    "Conservation funding through tourism revenue",
+                    "Development of infrastructure"
+                ]
+            },
+            {
+                "heading": "Negative Effects of Tourism on Environment",
+                "points": [
+                    "Overcrowding and habitat disturbance",
+                    "Pollution from waste generation",
+                    "Deforestation for tourism infrastructure",
+                    "Water and energy overuse",
+                    "Damage to fragile ecosystems like coral reefs"
+                ]
+            },
+            {
+                "heading": "Impact on Ecosystems",
+                "points": [
+                    "Disturbance to wildlife behavior",
+                    "Coral reef damage due to boating and diving",
+                    "Littering in natural parks",
+                    "Noise pollution affecting animals",
+                    "Introduction of invasive species"
+                ]
+            },
+            {
+                "heading": "Sustainable Tourism Practices",
+                "points": [
+                    "Eco-tourism and responsible travel",
+                    "Waste management in tourist areas",
+                    "Limiting visitor numbers in sensitive areas",
+                    "Use of renewable energy in resorts",
+                    "Community-based tourism initiatives"
+                ]
+            },
+            {
+                "heading": "Integrated Environmental Impacts",
+                "points": [
+                    "Mining, transport, and tourism all contribute to resource depletion",
+                    "All three increase carbon emissions and pollution",
+                    "They lead to habitat loss and biodiversity decline",
+                    "Sustainable development is key to balance growth and environment",
+                    "Policy interventions required for mitigation"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Main environmental impact of mining is:",
+                    "options": [
+                        "Increase in rainfall",
+                        "Land degradation",
+                        "Ozone formation",
+                        "Forest growth"
+                    ],
+                    "answer": "Land degradation"
+                },
+                {
+                    "question": "Acid mine drainage affects:",
+                    "options": [
+                        "Air only",
+                        "Water bodies",
+                        "Soil fertility only",
+                        "Sunlight"
+                    ],
+                    "answer": "Water bodies"
+                },
+                {
+                    "question": "Major source of air pollution in cities is:",
+                    "options": [
+                        "Forests",
+                        "Transportation",
+                        "Rivers",
+                        "Mountains"
+                    ],
+                    "answer": "Transportation"
+                },
+                {
+                    "question": "Eco-tourism focuses on:",
+                    "options": [
+                        "Mass tourism",
+                        "Sustainable tourism",
+                        "Industrial tourism",
+                        "Mining tourism"
+                    ],
+                    "answer": "Sustainable tourism"
+                },
+                {
+                    "question": "Road transport mainly contributes to:",
+                    "options": [
+                        "Oxygen production",
+                        "Carbon emissions",
+                        "Water purification",
+                        "Soil formation"
+                    ],
+                    "answer": "Carbon emissions"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Mining leads to:",
+                    "options": [
+                        "Afforestation",
+                        "Deforestation",
+                        "Rainfall increase",
+                        "Glacier growth"
+                    ],
+                    "answer": "Deforestation"
+                },
+                {
+                    "question": "Noise pollution is mainly caused by:",
+                    "options": [
+                        "Tourism only",
+                        "Transport activities",
+                        "Forests",
+                        "Agriculture"
+                    ],
+                    "answer": "Transport activities"
+                },
+                {
+                    "question": "Wildlife habitat fragmentation is mainly caused by:",
+                    "options": [
+                        "Road construction",
+                        "Rainfall",
+                        "Soil formation",
+                        "Clouds"
+                    ],
+                    "answer": "Road construction"
+                },
+                {
+                    "question": "Sustainable mining includes:",
+                    "options": [
+                        "Deforestation",
+                        "Land reclamation",
+                        "Water pollution",
+                        "Open dumping"
+                    ],
+                    "answer": "Land reclamation"
+                },
+                {
+                    "question": "Air transport has:",
+                    "options": [
+                        "Lowest emissions",
+                        "High carbon emissions",
+                        "No pollution",
+                        "Only water pollution"
+                    ],
+                    "answer": "High carbon emissions"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Mining causes soil degradation\n2. Transport is a major source of greenhouse gases\n3. Tourism has no environmental impact",
+                    "options": [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Acid mine drainage is caused by:",
+                    "options": [
+                        "Coal mining waste reacting with water",
+                        "Solar energy",
+                        "Wind movement",
+                        "Rainfall only"
+                    ],
+                    "answer": "Coal mining waste reacting with water"
+                },
+                {
+                    "question": "Eco-tourism helps in:",
+                    "options": [
+                        "Biodiversity destruction",
+                        "Conservation and awareness",
+                        "Mining expansion",
+                        "Urban pollution"
+                    ],
+                    "answer": "Conservation and awareness"
+                },
+                {
+                    "question": "Electric vehicles help reduce:",
+                    "options": [
+                        "Water pollution",
+                        "Air pollution",
+                        "Soil erosion",
+                        "Deforestation only"
+                    ],
+                    "answer": "Air pollution"
+                },
+                {
+                    "question": "Habitat fragmentation is mainly due to:",
+                    "options": [
+                        "Road networks",
+                        "Rainfall",
+                        "Wind energy",
+                        "Forests"
+                    ],
+                    "answer": "Road networks"
+                }
+            ]
+        }
+    }
+]

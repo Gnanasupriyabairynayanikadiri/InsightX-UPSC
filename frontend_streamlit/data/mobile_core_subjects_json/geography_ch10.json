@@ -1,0 +1,488 @@
+[
+    {
+        "name": " Distribution of Continents & Oceans (Theories & Continental Drift Theory)",
+        "notes": [
+            {
+                "heading": "Distribution of Continents & Oceans – Overview",
+                "points": [
+                    "Continents and oceans are unevenly distributed",
+                    "Continents occupy about 29% and oceans about 71% of Earth’s surface",
+                    "Distribution has changed over geological time",
+                    "Explained by various geological theories",
+                    "Important for understanding plate tectonics"
+                ]
+            },
+            {
+                "heading": "Major Theories",
+                "points": [
+                    "Continental Drift Theory",
+                    "Sea-floor Spreading Theory",
+                    "Plate Tectonic Theory",
+                    "Each explains movement of continents",
+                    "Progressive development of ideas"
+                ]
+            },
+            {
+                "heading": "Continental Drift Theory – Overview",
+                "points": [
+                    "Proposed by Alfred Wegener (1912)",
+                    "States that continents were once united",
+                    "Later drifted apart over time",
+                    "Initial supercontinent called Pangaea",
+                    "Very important theory 🔥"
+                ]
+            },
+            {
+                "heading": "Pangaea and Panthalassa",
+                "points": [
+                    "Pangaea – supercontinent",
+                    "Panthalassa – surrounding ocean",
+                    "Later split into Laurasia (north) and Gondwanaland (south)",
+                    "Further fragmentation formed present continents",
+                    "Important for mapping questions"
+                ]
+            },
+            {
+                "heading": "Evidence of Continental Drift",
+                "points": [
+                    "Jigsaw fit of continents (South America–Africa)",
+                    "Fossil similarity across continents",
+                    "Rock formations continuity",
+                    "Paleoclimatic evidence (glaciation)",
+                    "Strong conceptual area 🔥"
+                ]
+            },
+            {
+                "heading": "Forces Behind Drift (Wegener’s View)",
+                "points": [
+                    "Pole-fleeing force",
+                    "Tidal forces due to moon and sun",
+                    "Considered weak and insufficient",
+                    "Main criticism of theory",
+                    "Important for analytical questions"
+                ]
+            },
+            {
+                "heading": "Criticism of Continental Drift Theory",
+                "points": [
+                    "No proper mechanism for movement",
+                    "Forces suggested were inadequate",
+                    "Could not explain ocean floor features",
+                    "Rejected initially by scientists",
+                    "Later modified by plate tectonics"
+                ]
+            },
+            {
+                "heading": "Significance of the Theory",
+                "points": [
+                    "First major idea explaining continental movement",
+                    "Laid foundation for plate tectonics",
+                    "Explained similarities across continents",
+                    "Important milestone in geology",
+                    "Still relevant conceptually"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Continental Drift Theory was proposed by:",
+                    "options": [
+                        "Newton",
+                        "Wegener",
+                        "Einstein",
+                        "Darwin"
+                    ],
+                    "answer": "Wegener"
+                },
+                {
+                    "question": "Supercontinent was called:",
+                    "options": [
+                        "Asia",
+                        "Pangaea",
+                        "Africa",
+                        "Europe"
+                    ],
+                    "answer": "Pangaea"
+                },
+                {
+                    "question": "Panthalassa was:",
+                    "options": [
+                        "Continent",
+                        "Ocean",
+                        "Mountain",
+                        "River"
+                    ],
+                    "answer": "Ocean"
+                },
+                {
+                    "question": "Continents drifted due to:",
+                    "options": [
+                        "Wind",
+                        "Forces inside Earth",
+                        "Rain",
+                        "Sunlight"
+                    ],
+                    "answer": "Forces inside Earth"
+                },
+                {
+                    "question": "Continents occupy about:",
+                    "options": [
+                        "10%",
+                        "29%",
+                        "50%",
+                        "70%"
+                    ],
+                    "answer": "29%"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Laurasia was:",
+                    "options": [
+                        "Southern landmass",
+                        "Northern landmass",
+                        "Ocean",
+                        "Mountain"
+                    ],
+                    "answer": "Northern landmass"
+                },
+                {
+                    "question": "Gondwanaland was:",
+                    "options": [
+                        "Northern landmass",
+                        "Southern landmass",
+                        "Ocean",
+                        "River"
+                    ],
+                    "answer": "Southern landmass"
+                },
+                {
+                    "question": "Jigsaw fit refers to:",
+                    "options": [
+                        "Climate",
+                        "Shape of continents",
+                        "Rocks",
+                        "Ocean depth"
+                    ],
+                    "answer": "Shape of continents"
+                },
+                {
+                    "question": "Main criticism of Wegener:",
+                    "options": [
+                        "No evidence",
+                        "No mechanism",
+                        "No theory",
+                        "No continents"
+                    ],
+                    "answer": "No mechanism"
+                },
+                {
+                    "question": "Fossil evidence shows:",
+                    "options": [
+                        "Different continents",
+                        "Same organisms",
+                        "No life",
+                        "Only plants"
+                    ],
+                    "answer": "Same organisms"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Pangaea was a supercontinent\n2. Gondwanaland was northern\n3. Fossils support drift theory",
+                    "options": [
+                        "1 and 3",
+                        "2 and 3",
+                        "1 and 2",
+                        "All"
+                    ],
+                    "answer": "1 and 3"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                        "Panthalassa – Ocean",
+                        "Laurasia – South",
+                        "Gondwanaland – North",
+                        "Wegener – Plate tectonics"
+                    ],
+                    "answer": "Panthalassa – Ocean"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Wegener explained forces clearly",
+                        "Continental drift is fully accepted initially",
+                        "Theory lacked mechanism",
+                        "No evidence supported it"
+                    ],
+                    "answer": "Theory lacked mechanism"
+                },
+                {
+                    "question": "Main evidence for drift:",
+                    "options": [
+                        "Wind",
+                        "Fossils and fit",
+                        "Rain",
+                        "Sunlight"
+                    ],
+                    "answer": "Fossils and fit"
+                },
+                {
+                    "question": "Modern theory that explains drift:",
+                    "options": [
+                        "Gravity theory",
+                        "Plate tectonics",
+                        "Rain theory",
+                        "Wind theory"
+                    ],
+                    "answer": "Plate tectonics"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Alfred Wegener, Pangaea, Panthalassa, Laurasia & Gondwanaland",
+        "notes": [
+            {
+                "heading": "Alfred Wegener – Overview",
+                "points": [
+                    "German meteorologist and geophysicist",
+                    "Proposed Continental Drift Theory in 1912",
+                    "Suggested continents were once joined together",
+                    "Idea was revolutionary but initially rejected",
+                    "Foundation for modern plate tectonics 🔥"
+                ]
+            },
+            {
+                "heading": "Concept of Pangaea",
+                "points": [
+                    "Supercontinent that existed about 300 million years ago",
+                    "All present continents were joined together",
+                    "Name means 'all Earth'",
+                    "Later broke into smaller landmasses",
+                    "Central concept in continental drift"
+                ]
+            },
+            {
+                "heading": "Panthalassa",
+                "points": [
+                    "Single vast ocean surrounding Pangaea",
+                    "Covered most of Earth's surface",
+                    "Name means 'all ocean'",
+                    "Later divided into present oceans",
+                    "Important for understanding ocean evolution"
+                ]
+            },
+            {
+                "heading": "Breakup of Pangaea",
+                "points": [
+                    "Pangaea split into two major landmasses",
+                    "Northern part – Laurasia",
+                    "Southern part – Gondwanaland",
+                    "Separated by Tethys Sea",
+                    "Further fragmentation formed present continents"
+                ]
+            },
+            {
+                "heading": "Laurasia",
+                "points": [
+                    "Northern supercontinent",
+                    "Included North America, Europe, Asia",
+                    "Formed after breakup of Pangaea",
+                    "Eventually separated into present northern continents",
+                    "Important for mapping questions"
+                ]
+            },
+            {
+                "heading": "Gondwanaland",
+                "points": [
+                    "Southern supercontinent",
+                    "Included South America, Africa, India, Australia, Antarctica",
+                    "India was part of Gondwanaland",
+                    "Later drifted northward",
+                    "Important for Indian geology 🔥"
+                ]
+            },
+            {
+                "heading": "Tethys Sea",
+                "points": [
+                    "Ocean between Laurasia and Gondwanaland",
+                    "Later closed due to plate movements",
+                    "Formation of Himalayas linked to this",
+                    "Important geological feature",
+                    "Frequently asked in UPSC"
+                ]
+            },
+            {
+                "heading": "Significance of Wegener’s Ideas",
+                "points": [
+                    "Explained distribution of continents",
+                    "Supported by fossil and rock evidence",
+                    "Led to development of plate tectonic theory",
+                    "Helped understand mountain formation",
+                    "Key concept in physical geography"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Wegener was:",
+                    "options": [
+                        "Physicist",
+                        "Meteorologist",
+                        "Chemist",
+                        "Biologist"
+                    ],
+                    "answer": "Meteorologist"
+                },
+                {
+                    "question": "Pangaea means:",
+                    "options": [
+                        "All ocean",
+                        "All Earth",
+                        "Big mountain",
+                        "Large river"
+                    ],
+                    "answer": "All Earth"
+                },
+                {
+                    "question": "Panthalassa means:",
+                    "options": [
+                        "All land",
+                        "All ocean",
+                        "Mountain",
+                        "River"
+                    ],
+                    "answer": "All ocean"
+                },
+                {
+                    "question": "Laurasia is:",
+                    "options": [
+                        "Southern landmass",
+                        "Northern landmass",
+                        "Ocean",
+                        "River"
+                    ],
+                    "answer": "Northern landmass"
+                },
+                {
+                    "question": "Gondwanaland is:",
+                    "options": [
+                        "Northern landmass",
+                        "Southern landmass",
+                        "Ocean",
+                        "Mountain"
+                    ],
+                    "answer": "Southern landmass"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "India was part of:",
+                    "options": [
+                        "Laurasia",
+                        "Gondwanaland",
+                        "Panthalassa",
+                        "Tethys"
+                    ],
+                    "answer": "Gondwanaland"
+                },
+                {
+                    "question": "Tethys Sea separated:",
+                    "options": [
+                        "Asia and Europe",
+                        "Laurasia and Gondwanaland",
+                        "Africa and India",
+                        "America and Europe"
+                    ],
+                    "answer": "Laurasia and Gondwanaland"
+                },
+                {
+                    "question": "Pangaea existed around:",
+                    "options": [
+                        "100 million years ago",
+                        "300 million years ago",
+                        "1 billion years ago",
+                        "10 million years ago"
+                    ],
+                    "answer": "300 million years ago"
+                },
+                {
+                    "question": "Panthalassa later became:",
+                    "options": [
+                        "Mountains",
+                        "Oceans",
+                        "Deserts",
+                        "Forests"
+                    ],
+                    "answer": "Oceans"
+                },
+                {
+                    "question": "Himalayas formed due to:",
+                    "options": [
+                        "Wind",
+                        "Collision of plates",
+                        "Rain",
+                        "Ice"
+                    ],
+                    "answer": "Collision of plates"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Pangaea was surrounded by Panthalassa\n2. Gondwanaland included India\n3. Laurasia was southern landmass",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                        "Panthalassa – Ocean",
+                        "Laurasia – South",
+                        "Gondwanaland – North",
+                        "Pangaea – Ocean"
+                    ],
+                    "answer": "Panthalassa – Ocean"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "India was part of Laurasia",
+                        "Tethys Sea disappeared",
+                        "Pangaea still exists",
+                        "Panthalassa is land"
+                    ],
+                    "answer": "Tethys Sea disappeared"
+                },
+                {
+                    "question": "Wegener’s theory led to:",
+                    "options": [
+                        "Weather study",
+                        "Plate tectonics",
+                        "Ocean currents",
+                        "Rainfall"
+                    ],
+                    "answer": "Plate tectonics"
+                },
+                {
+                    "question": "Gondwanaland included:",
+                    "options": [
+                        "Europe",
+                        "North America",
+                        "India",
+                        "Greenland"
+                    ],
+                    "answer": "India"
+                }
+            ]
+        }
+    }
+]

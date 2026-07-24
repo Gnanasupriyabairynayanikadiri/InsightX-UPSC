@@ -1,0 +1,630 @@
+TOPICS = [
+    {
+        "name": "Agricultural Revolutions in India – Green, White (Operation Flood) & Yellow Revolution",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Agricultural revolutions refer to major transformations in specific sectors of Indian agriculture",
+                    "They aim to increase productivity, self-sufficiency, and rural development",
+                    "Key revolutions include Green Revolution (food grains), White Revolution (milk), and Yellow Revolution (oilseeds)",
+                    "These revolutions played a crucial role in India’s food security and economic growth"
+                ]
+            },
+            {
+                "heading": "Green Revolution – Overview",
+                "points": [
+                    "Introduced in the mid-1960s in India",
+                    "Associated with Dr. M.S. Swaminathan and Norman Borlaug",
+                    "Focused on high-yielding variety (HYV) seeds, fertilizers, irrigation, and mechanization",
+                    "Main crops: Wheat and Rice",
+                    "Started first in states like Punjab, Haryana, and Western Uttar Pradesh"
+                ]
+            },
+            {
+                "heading": "Objectives of Green Revolution",
+                "points": [
+                    "Increase food grain production",
+                    "Achieve self-sufficiency in food",
+                    "Reduce dependence on imports and food aid",
+                    "Improve agricultural productivity",
+                    "Strengthen rural economy"
+                ]
+            },
+            {
+                "heading": "Impact of Green Revolution",
+                "points": [
+                    "Significant increase in wheat and rice production",
+                    "India became self-sufficient in food grains",
+                    "Increased farmer incomes in selected regions",
+                    "Regional disparities in agricultural development",
+                    "Environmental issues like soil degradation and groundwater depletion",
+                    "Overemphasis on rice-wheat monoculture"
+                ]
+            },
+            {
+                "heading": "Limitations of Green Revolution",
+                "points": [
+                    "Uneven regional spread (benefited few states)",
+                    "Neglect of coarse cereals and pulses",
+                    "High input costs (fertilizers, irrigation)",
+                    "Environmental degradation",
+                    "Increased income inequality among farmers"
+                ]
+            },
+            {
+                "heading": "White Revolution – Overview (Operation Flood)",
+                "points": [
+                    "Launched in 1970 under leadership of Dr. Verghese Kurien",
+                    "Implemented by National Dairy Development Board (NDDB)",
+                    "Known as Operation Flood",
+                    "Made India the largest milk producer in the world",
+                    "Based on Anand Pattern cooperative model"
+                ]
+            },
+            {
+                "heading": "Objectives of White Revolution",
+                "points": [
+                    "Increase milk production in India",
+                    "Eliminate milk shortages and imports",
+                    "Provide fair prices to dairy farmers",
+                    "Develop rural dairy cooperatives",
+                    "Improve nutrition and rural income"
+                ]
+            },
+            {
+                "heading": "Key Features of Operation Flood",
+                "points": [
+                    "Creation of dairy cooperatives",
+                    "Milk procurement from rural farmers",
+                    "Processing and distribution networks",
+                    "Urban milk supply through organized channels",
+                    "Technology transfer and veterinary support"
+                ]
+            },
+            {
+                "heading": "Impact of White Revolution",
+                "points": [
+                    "India became world leader in milk production",
+                    "Improved rural incomes, especially for small farmers and women",
+                    "Strong cooperative movement (Amul model)",
+                    "Improved nutrition and food security",
+                    "Reduced dependence on milk imports"
+                ]
+            },
+            {
+                "heading": "Yellow Revolution – Overview",
+                "points": [
+                    "Launched in 1986–87 period in India",
+                    "Focuses on increasing oilseeds production",
+                    "Associated with Technology Mission on Oilseeds (TMO)",
+                    "Main crops: Mustard, groundnut, sunflower, soybean",
+                    "Aimed at reducing edible oil imports"
+                ]
+            },
+            {
+                "heading": "Objectives of Yellow Revolution",
+                "points": [
+                    "Achieve self-sufficiency in edible oil production",
+                    "Reduce dependence on imports",
+                    "Increase oilseed productivity",
+                    "Improve farmer income in oilseed cultivation",
+                    "Promote research and development in oilseed crops"
+                ]
+            },
+            {
+                "heading": "Impact of Yellow Revolution",
+                "points": [
+                    "Increase in oilseed production in India",
+                    "Reduction in import dependency (initial phase)",
+                    "Improved farmer awareness of oilseed crops",
+                    "Regional diversification of crops",
+                    "Still partial dependence on edible oil imports persists"
+                ]
+            },
+            {
+                "heading": "Comparison of Revolutions",
+                "points": [
+                    "Green Revolution: Focus on food grains (wheat, rice)",
+                    "White Revolution: Focus on milk and dairy production",
+                    "Yellow Revolution: Focus on edible oilseeds",
+                    "All aim at self-sufficiency and rural development",
+                    "Each revolution targets a specific agricultural sector"
+                ]
+            },
+            {
+                "heading": "Limitations of Agricultural Revolutions",
+                "points": [
+                    "Unequal regional development",
+                    "Environmental concerns (soil, water stress)",
+                    "Over-reliance on certain crops",
+                    "Neglect of pulses and millets (in Green Revolution)",
+                    "Need for diversification and sustainability"
+                ]
+            },
+            {
+                "heading": "Way Forward",
+                "points": [
+                    "Promote sustainable agriculture practices",
+                    "Encourage crop diversification (millets, pulses)",
+                    "Strengthen agri-processing and value addition",
+                    "Improve irrigation efficiency",
+                    "Support climate-resilient agriculture",
+                    "Enhance cooperative and FPO models"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Green Revolution in India is mainly associated with:",
+                    "options": [
+                    "Milk production",
+                    "Food grains",
+                    "Oilseeds",
+                    "Fisheries"
+                    ],
+                    "answer": "Food grains"
+                },
+                {
+                    "question": "White Revolution is related to:",
+                    "options": [
+                    "Rice production",
+                    "Milk production",
+                    "Oil production",
+                    "Sugar production"
+                    ],
+                    "answer": "Milk production"
+                },
+                {
+                    "question": "Operation Flood is associated with:",
+                    "options": [
+                    "Green Revolution",
+                    "White Revolution",
+                    "Yellow Revolution",
+                    "Blue Revolution"
+                    ],
+                    "answer": "White Revolution"
+                },
+                {
+                    "question": "Yellow Revolution focuses on:",
+                    "options": [
+                    "Milk",
+                    "Oilseeds",
+                    "Wheat",
+                    "Fish"
+                    ],
+                    "answer": "Oilseeds"
+                },
+                {
+                    "question": "Green Revolution first started in:",
+                    "options": [
+                    "Kerala",
+                    "Punjab",
+                    "Bihar",
+                    "Odisha"
+                    ],
+                    "answer": "Punjab"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Father of White Revolution in India:",
+                    "options": [
+                    "M.S. Swaminathan",
+                    "Verghese Kurien",
+                    "Norman Borlaug",
+                    "C. Subramaniam"
+                    ],
+                    "answer": "Verghese Kurien"
+                },
+                {
+                    "question": "Green Revolution mainly benefited:",
+                    "options": [
+                    "Eastern India",
+                    "Punjab and Haryana",
+                    "North East India",
+                    "Coastal regions"
+                    ],
+                    "answer": "Punjab and Haryana"
+                },
+                {
+                    "question": "Yellow Revolution aimed at:",
+                    "options": [
+                    "Sugar production",
+                    "Edible oil production",
+                    "Milk production",
+                    "Tea production"
+                    ],
+                    "answer": "Edible oil production"
+                },
+                {
+                    "question": "Operation Flood was implemented by:",
+                    "options": [
+                    "RBI",
+                    "NDDB",
+                    "SEBI",
+                    "FCI"
+                    ],
+                    "answer": "NDDB"
+                },
+                {
+                    "question": "Main crop focus of Green Revolution:",
+                    "options": [
+                    "Pulses",
+                    "Wheat and rice",
+                    "Millets",
+                    "Oilseeds"
+                    ],
+                    "answer": "Wheat and rice"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Green Revolution increased food grain production\n2. White Revolution is linked to Operation Flood\n3. Yellow Revolution focuses on milk production",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Main limitation of Green Revolution:",
+                    "options": [
+                    "Increase in pulses production",
+                    "Regional imbalance",
+                    "No irrigation use",
+                    "No fertilizers used"
+                    ],
+                    "answer": "Regional imbalance"
+                },
+                {
+                    "question": "Operation Flood aimed at:",
+                    "options": [
+                    "Importing milk",
+                    "Self-sufficiency in milk",
+                    "Reducing dairy farming",
+                    "Export ban"
+                    ],
+                    "answer": "Self-sufficiency in milk"
+                },
+                {
+                    "question": "Yellow Revolution is associated with:",
+                    "options": [
+                    "Rice production",
+                    "Oilseed production",
+                    "Milk production",
+                    "Fish production"
+                    ],
+                    "answer": "Oilseed production"
+                },
+                {
+                    "question": "Best outcome of White Revolution:",
+                    "options": [
+                    "Milk import increase",
+                    "India became largest milk producer",
+                    "Milk shortage increased",
+                    "No rural impact"
+                    ],
+                    "answer": "India became largest milk producer"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Blue Revolution & Golden Fiber Revolution (Jute)",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Agricultural revolutions in India represent sector-specific development strategies to boost productivity",
+                    "Blue Revolution focuses on fisheries and aquaculture development",
+                    "Golden Fiber Revolution refers to jute production and development",
+                    "Both contribute to rural employment, exports, and inclusive growth"
+                ]
+            },
+            {
+                "heading": "Blue Revolution – Meaning",
+                "points": [
+                    "Blue Revolution refers to rapid increase in fish production through modern aquaculture and fisheries development",
+                    "It includes inland fisheries, marine fisheries, and aquaculture farming",
+                    "Started gaining momentum in India during 7th Five Year Plan and later strengthened through targeted schemes"
+                ]
+            },
+            {
+                "heading": "Objectives of Blue Revolution",
+                "points": [
+                    "Increase fish production and productivity",
+                    "Enhance income of fishermen and coastal communities",
+                    "Promote aquaculture and inland fisheries",
+                    "Ensure nutritional security (protein-rich food)",
+                    "Boost export earnings from seafood",
+                    "Develop sustainable fishing practices"
+                ]
+            },
+            {
+                "heading": "Components of Blue Revolution",
+                "points": [
+                    "Inland fisheries (rivers, lakes, ponds)",
+                    "Marine fisheries (coastal and deep-sea fishing)",
+                    "Aquaculture and fish farming",
+                    "Cold chain and processing infrastructure",
+                    "Fish seed production and hatcheries",
+                    "Marketing and export infrastructure"
+                ]
+            },
+            {
+                "heading": "Schemes Related to Blue Revolution",
+                "points": [
+                    "Blue Revolution Scheme (Integrated Development and Management of Fisheries)",
+                    "Pradhan Mantri Matsya Sampada Yojana (PMMSY)",
+                    "Fisheries and Aquaculture Infrastructure Development Fund (FIDF)",
+                    "Kisan Credit Card extension to fisheries sector"
+                ]
+            },
+            {
+                "heading": "Impact of Blue Revolution",
+                "points": [
+                    "Significant increase in fish production in India",
+                    "India became one of the top fish producing countries globally",
+                    "Improved livelihood of coastal and inland fishermen",
+                    "Growth of seafood exports",
+                    "Enhanced nutritional security"
+                ]
+            },
+            {
+                "heading": "Challenges in Blue Revolution",
+                "points": [
+                    "Overfishing and marine resource depletion",
+                    "Pollution of water bodies",
+                    "Lack of modern infrastructure in fisheries",
+                    "Climate change impact on marine ecosystem",
+                    "Low value addition and processing capacity",
+                    "Regional imbalance in fisheries development"
+                ]
+            },
+            {
+                "heading": "Golden Fiber Revolution – Meaning",
+                "points": [
+                    "Golden Fiber Revolution refers to the development of jute production and industry in India",
+                    "Jute is called ‘golden fiber’ due to its golden color and high economic value",
+                    "India is one of the largest producers of jute in the world",
+                    "Mainly grown in eastern states like West Bengal, Assam, and Bihar"
+                ]
+            },
+            {
+                "heading": "Objectives of Golden Fiber Revolution",
+                "points": [
+                    "Increase jute production and productivity",
+                    "Promote jute-based industries and exports",
+                    "Provide employment in rural areas",
+                    "Reduce dependence on synthetic fibers",
+                    "Promote eco-friendly and biodegradable products",
+                    "Support farmers growing jute"
+                ]
+            },
+            {
+                "heading": "Uses of Jute",
+                "points": [
+                    "Gunny bags and packaging material",
+                    "Textiles and carpets",
+                    "Ropes and twines",
+                    "Eco-friendly shopping bags",
+                    "Geotextiles for soil conservation",
+                    "Industrial and decorative uses"
+                ]
+            },
+            {
+                "heading": "Schemes Supporting Jute Sector",
+                "points": [
+                    "Jute Packaging Materials Act (JPMA)",
+                    "Jute Development Fund",
+                    "Minimum Support Price (MSP) for jute",
+                    "Technology Mission on Jute",
+                    "Promotion of jute diversification products"
+                ]
+            },
+            {
+                "heading": "Impact of Golden Fiber Revolution",
+                "points": [
+                    "Employment generation in eastern India",
+                    "Growth of jute-based industries",
+                    "Support to farmers in jute-growing regions",
+                    "Environmental benefits due to biodegradable nature",
+                    "Export earnings from jute products"
+                ]
+            },
+            {
+                "heading": "Challenges in Jute Sector",
+                "points": [
+                    "Competition from synthetic fibers (plastic-based products)",
+                    "Price fluctuations affecting farmers",
+                    "Limited modernization in jute mills",
+                    "Regional concentration of production",
+                    "Declining demand in some traditional uses"
+                ]
+            },
+            {
+                "heading": "Comparison of Blue and Golden Fiber Revolutions",
+                "points": [
+                    "Blue Revolution: Focus on fisheries and aquatic resources",
+                    "Golden Fiber Revolution: Focus on jute and textile fiber",
+                    "Both aim at rural employment and income generation",
+                    "Both support export growth and industrial development",
+                    "Both face environmental and modernization challenges"
+                ]
+            },
+            {
+                "heading": "Way Forward",
+                "points": [
+                    "Promote sustainable aquaculture in fisheries sector",
+                    "Strengthen cold chain and processing infrastructure",
+                    "Encourage eco-friendly jute products over plastic alternatives",
+                    "Invest in technology and research for both sectors",
+                    "Improve market access for fishermen and jute farmers",
+                    "Enhance value addition and export competitiveness"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Blue Revolution is related to:",
+                    "options": [
+                    "Milk production",
+                    "Fisheries",
+                    "Oilseeds",
+                    "Jute production"
+                    ],
+                    "answer": "Fisheries"
+                },
+                {
+                    "question": "Golden Fiber Revolution refers to:",
+                    "options": [
+                    "Cotton",
+                    "Jute",
+                    "Silk",
+                    "Wool"
+                    ],
+                    "answer": "Jute"
+                },
+                {
+                    "question": "Jute is mainly grown in:",
+                    "options": [
+                    "Rajasthan",
+                    "West Bengal",
+                    "Punjab",
+                    "Gujarat"
+                    ],
+                    "answer": "West Bengal"
+                },
+                {
+                    "question": "Blue Revolution aims to increase:",
+                    "options": [
+                    "Milk production",
+                    "Fish production",
+                    "Rice production",
+                    "Sugar production"
+                    ],
+                    "answer": "Fish production"
+                },
+                {
+                    "question": "Jute is also called:",
+                    "options": [
+                    "White fiber",
+                    "Golden fiber",
+                    "Green fiber",
+                    "Black fiber"
+                    ],
+                    "answer": "Golden fiber"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Blue Revolution mainly promotes:",
+                    "options": [
+                    "Agriculture only",
+                    "Aquaculture and fisheries",
+                    "Mining",
+                    "Banking"
+                    ],
+                    "answer": "Aquaculture and fisheries"
+                },
+                {
+                    "question": "One benefit of jute:",
+                    "options": [
+                    "Non-biodegradable",
+                    "Eco-friendly",
+                    "Highly polluting",
+                    "Synthetic fiber"
+                    ],
+                    "answer": "Eco-friendly"
+                },
+                {
+                    "question": "PMMSY is related to:",
+                    "options": [
+                    "Milk sector",
+                    "Fisheries",
+                    "Jute industry",
+                    "Banking"
+                    ],
+                    "answer": "Fisheries"
+                },
+                {
+                    "question": "Main issue in fisheries sector:",
+                    "options": [
+                    "Overfishing",
+                    "Overproduction of wheat",
+                    "Low irrigation",
+                    "Tax shortage"
+                    ],
+                    "answer": "Overfishing"
+                },
+                {
+                    "question": "Jute industry mainly faces competition from:",
+                    "options": [
+                    "Steel",
+                    "Plastic",
+                    "Coal",
+                    "Oil"
+                    ],
+                    "answer": "Plastic"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Blue Revolution is related to fisheries\n2. Golden Fiber Revolution is related to jute\n3. Both are unrelated to agriculture",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Main objective of Blue Revolution:",
+                    "options": [
+                    "Reduce milk production",
+                    "Increase fish production",
+                    "Reduce exports",
+                    "Increase imports"
+                    ],
+                    "answer": "Increase fish production"
+                },
+                {
+                    "question": "Jute is important because it is:",
+                    "options": [
+                    "Synthetic",
+                    "Biodegradable",
+                    "Non-renewable",
+                    "Polluting"
+                    ],
+                    "answer": "Biodegradable"
+                },
+                {
+                    "question": "Key challenge in Blue Revolution:",
+                    "options": [
+                    "Fish surplus",
+                    "Overfishing and ecosystem stress",
+                    "No demand",
+                    "No production"
+                    ],
+                    "answer": "Overfishing and ecosystem stress"
+                },
+                {
+                    "question": "Best reform direction:",
+                    "options": [
+                    "Increase plastic use",
+                    "Promote sustainable fisheries and jute diversification",
+                    "Stop aquaculture",
+                    "Ban jute production"
+                    ],
+                    "answer": "Promote sustainable fisheries and jute diversification"
+                }
+            ]
+        }
+    }
+]

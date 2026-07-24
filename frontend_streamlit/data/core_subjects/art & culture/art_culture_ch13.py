@@ -1,0 +1,567 @@
+TOPICS = [
+    {
+        "name": "Indian Art & Culture – UNESCO’s List of Intangible Cultural Heritage",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Intangible Cultural Heritage (ICH) refers to living traditions and expressions inherited from ancestors",
+                    "Includes oral traditions, performing arts, rituals, festivals, and traditional knowledge",
+                    "UNESCO established the list under the 2003 Convention for Safeguarding Intangible Cultural Heritage",
+                    "India is rich in intangible heritage due to its cultural diversity",
+                    "It helps preserve traditions that are not physical monuments"
+                ]
+            },
+            {
+                "heading": "Meaning of Intangible Cultural Heritage",
+                "points": [
+                    "Non-physical cultural elements passed from generation to generation",
+                    "Includes music, dance, theatre, festivals, crafts, and oral traditions",
+                    "Strong community participation is essential",
+                    "It evolves with time but retains cultural identity",
+                    "Focus is on living heritage rather than historical objects"
+                ]
+            },
+            {
+                "heading": "Key Domains of Intangible Heritage",
+                "points": [
+                    "Oral traditions and expressions (stories, epics)",
+                    "Performing arts (music, dance, theatre)",
+                    "Social practices, rituals, and festivals",
+                    "Knowledge concerning nature and universe",
+                    "Traditional craftsmanship"
+                ]
+            },
+            {
+                "heading": "UNESCO Recognition of Indian Intangible Heritage",
+                "points": [
+                    "India has multiple elements inscribed on UNESCO Representative List",
+                    "Recognition helps global awareness and protection",
+                    "Promotes cultural tourism and sustainability",
+                    "Encourages preservation of traditional knowledge systems",
+                    "Supports intergenerational transmission"
+                ]
+            },
+            {
+                "heading": "Important Indian Elements in UNESCO ICH List",
+                "points": [
+                    "Kutiyattam – Sanskrit theatre from Kerala",
+                    "Ramlila – Traditional performance of Ramayana",
+                    "Ramman – Religious festival in Uttarakhand",
+                    "Chhau dance – Odisha, Jharkhand, West Bengal",
+                    "Kalbelia folk songs and dances – Rajasthan",
+                    "Buddhist chanting of Ladakh",
+                    "Yoga – ancient Indian practice of physical and spiritual discipline",
+                    "Kumbh Mela – Largest religious gathering in the world"
+                ]
+            },
+            {
+                "heading": "Kutiyattam (Kerala)",
+                "points": [
+                    "Oldest surviving Sanskrit theatre tradition",
+                    "Performed in temple theatres",
+                    "Highly stylized acting and gestures",
+                    "UNESCO inscription in 2001",
+                    "Represents classical theatrical tradition of India"
+                ]
+            },
+            {
+                "heading": "Ramlila",
+                "points": [
+                    "Theatrical reenactment of Ramayana",
+                    "Performed during Dussehra festival",
+                    "Combines music, dance, and drama",
+                    "Community participation is high",
+                    "Recognized by UNESCO in 2008"
+                ]
+            },
+            {
+                "heading": "Chhau Dance",
+                "points": [
+                    "Martial folk dance with masks",
+                    "Performed in Odisha, Jharkhand, West Bengal",
+                    "Themes based on epics and mythology",
+                    "Combines martial arts and storytelling",
+                    "Inscribed by UNESCO in 2010"
+                ]
+            },
+            {
+                "heading": "Kalbelia Folk Songs and Dance",
+                "points": [
+                    "Performed by Kalbelia community of Rajasthan",
+                    "Inspired by snake charmers tradition",
+                    "Includes graceful movements and music",
+                    "UNESCO recognition in 2010",
+                    "Represents nomadic cultural heritage"
+                ]
+            },
+            {
+                "heading": "Buddhist Chanting of Ladakh",
+                "points": [
+                    "Sacred oral tradition of Buddhist monks",
+                    "Involves recitation of sacred texts",
+                    "Passed orally across generations",
+                    "Maintains spiritual and religious continuity",
+                    "Inscribed by UNESCO in 2012"
+                ]
+            },
+            {
+                "heading": "Yoga",
+                "points": [
+                    "Ancient Indian practice of physical, mental, and spiritual discipline",
+                    "Originates from Vedic traditions",
+                    "Promotes harmony between body and mind",
+                    "Global recognition as Indian cultural heritage",
+                    "Inscribed by UNESCO in 2016"
+                ]
+            },
+            {
+                "heading": "Kumbh Mela",
+                "points": [
+                    "Largest peaceful religious gathering in the world",
+                    "Held every 12 years at four sacred river sites",
+                    "Millions of pilgrims participate",
+                    "Symbol of spiritual unity and faith",
+                    "Inscribed by UNESCO in 2017"
+                ]
+            },
+            {
+                "heading": "Importance of Intangible Heritage",
+                "points": [
+                    "Preserves cultural diversity and identity",
+                    "Strengthens community participation",
+                    "Promotes cultural tourism",
+                    "Encourages transmission of traditional knowledge",
+                    "Builds global cultural understanding"
+                ]
+            },
+            {
+                "heading": "Challenges",
+                "points": [
+                    "Loss of traditional knowledge due to modernization",
+                    "Decline in participation of younger generation",
+                    "Commercialization of cultural practices",
+                    "Lack of documentation in some traditions",
+                    "Urbanization affecting rural cultural practices"
+                ]
+            },
+            {
+                "heading": "UPSC Importance",
+                "points": [
+                    "Kutiyattam – oldest Sanskrit theatre tradition",
+                    "Ramlila – Ramayana performance tradition",
+                    "Chhau – martial folk dance",
+                    "Kalbelia – Rajasthan folk dance",
+                    "Yoga and Kumbh Mela frequently asked",
+                    "UNESCO intangible list often appears in matching questions"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "UNESCO Intangible Cultural Heritage list includes:",
+                    "options": [
+                    "Living traditions and practices",
+                    "Only monuments",
+                    "Only paintings",
+                    "Only books"
+                    ],
+                    "answer": "Living traditions and practices"
+                },
+                {
+                    "question": "Yoga was inscribed by UNESCO in:",
+                    "options": ["2010", "2016", "2018", "2008"],
+                    "answer": "2016"
+                },
+                {
+                    "question": "Ramlila is associated with:",
+                    "options": ["Ramayana performance", "Mahabharata only", "Buddhist texts", "Sufi poetry"],
+                    "answer": "Ramayana performance"
+                },
+                {
+                    "question": "Chhau dance is performed in:",
+                    "options": ["Odisha, Jharkhand, West Bengal", "Kerala only", "Punjab only", "Assam only"],
+                    "answer": "Odisha, Jharkhand, West Bengal"
+                },
+                {
+                    "question": "Kumbh Mela is known for:",
+                    "options": [
+                    "Largest religious gathering",
+                    "Classical music festival",
+                    "Dance competition",
+                    "Trade fair only"
+                    ],
+                    "answer": "Largest religious gathering"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Kalbelia dance belongs to:",
+                    "options": ["Rajasthan", "Gujarat", "Punjab", "Kerala"],
+                    "answer": "Rajasthan"
+                },
+                {
+                    "question": "Kutiyattam is a form of:",
+                    "options": [
+                    "Sanskrit theatre",
+                    "Folk dance",
+                    "Modern drama",
+                    "Street theatre"
+                    ],
+                    "answer": "Sanskrit theatre"
+                },
+                {
+                    "question": "Buddhist chanting tradition is associated with:",
+                    "options": ["Ladakh", "Goa", "Bihar", "Tamil Nadu"],
+                    "answer": "Ladakh"
+                },
+                {
+                    "question": "UNESCO Intangible Heritage focuses on:",
+                    "options": [
+                    "Living cultural traditions",
+                    "Stone monuments",
+                    "Historical weapons",
+                    "Ancient coins"
+                    ],
+                    "answer": "Living cultural traditions"
+                },
+                {
+                    "question": "Chhau dance combines:",
+                    "options": [
+                    "Martial arts and storytelling",
+                    "Painting and sculpture",
+                    "Music and architecture",
+                    "Trade and commerce"
+                    ],
+                    "answer": "Martial arts and storytelling"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Yoga is recognized by UNESCO\n2. Kumbh Mela is intangible heritage\n3. Taj Mahal is intangible heritage",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Kalbelia – Rajasthan",
+                    "Chhau – Kerala",
+                    "Ramlila – Tamil Nadu",
+                    "Kutiyattam – Punjab"
+                    ],
+                    "answer": "Kalbelia – Rajasthan"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                    "Intangible heritage includes living traditions",
+                    "It only includes buildings",
+                    "It is not recognized by UNESCO",
+                    "It is limited to India only"
+                    ],
+                    "answer": "Intangible heritage includes living traditions"
+                },
+                {
+                    "question": "Kumbh Mela is held every:",
+                    "options": ["6 years", "12 years", "5 years", "10 years"],
+                    "answer": "12 years"
+                },
+                {
+                    "question": "Chhau dance is characterized by:",
+                    "options": [
+                    "Use of masks and martial elements",
+                    "Silent performance",
+                    "Only vocal music",
+                    "No storytelling"
+                    ],
+                    "answer": "Use of masks and martial elements"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Indian Art & Culture – UNESCO Representative List of the Intangible Cultural Heritage of Humanity",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "UNESCO Representative List of the Intangible Cultural Heritage of Humanity highlights living cultural traditions",
+                    "It aims to showcase and protect cultural practices across the world",
+                    "India has several elements inscribed on this list",
+                    "These include performing arts, rituals, festivals, and traditional knowledge",
+                    "Focus is on visibility, safeguarding, and transmission of heritage"
+                ]
+            },
+            {
+                "heading": "What is the Representative List?",
+                "points": [
+                    "A UNESCO list created under the 2003 Convention",
+                    "Represents cultural practices that communities recognize as part of their heritage",
+                    "Encourages awareness and appreciation of cultural diversity",
+                    "Not limited to monuments or physical heritage",
+                    "Emphasizes living traditions and community participation"
+                ]
+            },
+            {
+                "heading": "Objectives of the List",
+                "points": [
+                    "Safeguard intangible cultural heritage globally",
+                    "Ensure transmission to future generations",
+                    "Promote respect for cultural diversity",
+                    "Encourage international cooperation",
+                    "Increase visibility of lesser-known traditions"
+                ]
+            },
+            {
+                "heading": "Indian Elements in UNESCO Representative List",
+                "points": [
+                    "Kutiyattam – Sanskrit theatre of Kerala",
+                    "Ramlila – traditional performance of Ramayana",
+                    "Chhau dance – martial folk dance (Odisha, Jharkhand, West Bengal)",
+                    "Kalbelia folk songs and dances – Rajasthan",
+                    "Buddhist chanting of Ladakh",
+                    "Yoga – ancient Indian physical and spiritual practice",
+                    "Kumbh Mela – largest religious gathering in the world",
+                    "Durga Puja in Kolkata – recent inscription (2021)"
+                ]
+            },
+            {
+                "heading": "Kutiyattam (Kerala)",
+                "points": [
+                    "Oldest surviving Sanskrit theatre tradition",
+                    "Performed in temple theatres (Koothambalams)",
+                    "Highly stylized acting and expressions",
+                    "Combines classical Sanskrit texts with regional performance",
+                    "Recognized by UNESCO in 2001"
+                ]
+            },
+            {
+                "heading": "Ramlila",
+                "points": [
+                    "Theatrical enactment of the Ramayana",
+                    "Performed during Dussehra festival",
+                    "Community-based participation",
+                    "Uses music, dialogue, and dance",
+                    "Recognized by UNESCO in 2008"
+                ]
+            },
+            {
+                "heading": "Chhau Dance",
+                "points": [
+                    "Folk martial dance with mask usage",
+                    "Performed in Odisha, Jharkhand, and West Bengal",
+                    "Themes from epics like Ramayana and Mahabharata",
+                    "Combines martial movements and storytelling",
+                    "Inscribed by UNESCO in 2010"
+                ]
+            },
+            {
+                "heading": "Kalbelia Folk Songs and Dance",
+                "points": [
+                    "Performed by Kalbelia community of Rajasthan",
+                    "Inspired by snake charmers’ tradition",
+                    "Graceful and rhythmic dance movements",
+                    "Accompanied by traditional music instruments",
+                    "UNESCO recognition in 2010"
+                ]
+            },
+            {
+                "heading": "Buddhist Chanting of Ladakh",
+                "points": [
+                    "Sacred oral tradition of Buddhist monks",
+                    "Includes recitation of sacred texts and mantras",
+                    "Passed orally through generations",
+                    "Maintains spiritual and religious continuity",
+                    "Inscribed in 2012"
+                ]
+            },
+            {
+                "heading": "Yoga",
+                "points": [
+                    "Ancient Indian practice combining physical, mental, and spiritual discipline",
+                    "Originates from Vedic traditions",
+                    "Promotes harmony between body and mind",
+                    "Globally practiced system of well-being",
+                    "Inscribed by UNESCO in 2016"
+                ]
+            },
+            {
+                "heading": "Kumbh Mela",
+                "points": [
+                    "Largest peaceful religious gathering in the world",
+                    "Held every 12 years at four sacred river locations",
+                    "Millions of pilgrims participate",
+                    "Symbol of faith, unity, and spirituality",
+                    "Inscribed by UNESCO in 2017"
+                ]
+            },
+            {
+                "heading": "Durga Puja (Kolkata)",
+                "points": [
+                    "Major Hindu festival celebrating Goddess Durga",
+                    "Involves artistic pandals and community celebrations",
+                    "Blends religion, art, and social participation",
+                    "Recognized by UNESCO in 2021",
+                    "Represents cultural creativity of Bengal"
+                ]
+            },
+            {
+                "heading": "Importance of the List",
+                "points": [
+                    "Preserves living cultural traditions",
+                    "Strengthens community identity",
+                    "Promotes cultural tourism",
+                    "Encourages intergenerational transmission",
+                    "Raises global awareness of cultural diversity"
+                ]
+            },
+            {
+                "heading": "Challenges",
+                "points": [
+                    "Commercialization of traditions",
+                    "Decline in traditional practitioners",
+                    "Urbanization affecting rural practices",
+                    "Loss of oral transmission systems",
+                    "Need for active community participation"
+                ]
+            },
+            {
+                "heading": "UPSC Importance",
+                "points": [
+                    "Kutiyattam – oldest Sanskrit theatre tradition",
+                    "Ramlila – Ramayana performance tradition",
+                    "Chhau – martial folk dance",
+                    "Kalbelia – Rajasthan folk culture",
+                    "Yoga and Kumbh Mela – frequently asked",
+                    "Durga Puja – recent important addition (2021)",
+                    "Often asked in match-the-following and current affairs"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "UNESCO Representative List is related to:",
+                    "options": [
+                    "Living cultural traditions",
+                    "Only monuments",
+                    "Only paintings",
+                    "Only literature"
+                    ],
+                    "answer": "Living cultural traditions"
+                },
+                {
+                    "question": "Yoga was inscribed in UNESCO list in:",
+                    "options": ["2010", "2016", "2018", "2021"],
+                    "answer": "2016"
+                },
+                {
+                    "question": "Ramlila represents:",
+                    "options": ["Ramayana performance", "Mahabharata only", "Buddhist stories", "Sufi traditions"],
+                    "answer": "Ramayana performance"
+                },
+                {
+                    "question": "Chhau dance is performed in:",
+                    "options": ["Odisha, Jharkhand, West Bengal", "Kerala only", "Punjab only", "Assam only"],
+                    "answer": "Odisha, Jharkhand, West Bengal"
+                },
+                {
+                    "question": "Kumbh Mela is known for:",
+                    "options": [
+                    "Largest religious gathering",
+                    "Dance festival",
+                    "Trade fair only",
+                    "Music competition"
+                    ],
+                    "answer": "Largest religious gathering"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Kalbelia dance belongs to:",
+                    "options": ["Rajasthan", "Gujarat", "Punjab", "Kerala"],
+                    "answer": "Rajasthan"
+                },
+                {
+                    "question": "Kutiyattam is a form of:",
+                    "options": [
+                    "Sanskrit theatre",
+                    "Folk dance",
+                    "Modern drama",
+                    "Street theatre"
+                    ],
+                    "answer": "Sanskrit theatre"
+                },
+                {
+                    "question": "Buddhist chanting tradition is associated with:",
+                    "options": ["Ladakh", "Goa", "Bihar", "Tamil Nadu"],
+                    "answer": "Ladakh"
+                },
+                {
+                    "question": "Durga Puja was inscribed in UNESCO list in:",
+                    "options": ["2016", "2018", "2021", "2010"],
+                    "answer": "2021"
+                },
+                {
+                    "question": "Chhau dance combines:",
+                    "options": [
+                    "Martial arts and storytelling",
+                    "Painting and sculpture",
+                    "Music and architecture",
+                    "Trade and commerce"
+                    ],
+                    "answer": "Martial arts and storytelling"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Yoga is in UNESCO Representative List\n2. Kumbh Mela is intangible heritage\n3. Taj Mahal is intangible heritage",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Kalbelia – Rajasthan",
+                    "Chhau – Kerala",
+                    "Ramlila – Tamil Nadu",
+                    "Kutiyattam – Punjab"
+                    ],
+                    "answer": "Kalbelia – Rajasthan"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                    "Representative List includes living traditions",
+                    "It includes only historical buildings",
+                    "It is only for India",
+                    "It has no global importance"
+                    ],
+                    "answer": "Representative List includes living traditions"
+                },
+                {
+                    "question": "Durga Puja is associated with:",
+                    "options": [
+                    "Kolkata cultural festival",
+                    "Kerala temple rituals only",
+                    "Punjab harvest festival",
+                    "Rajasthan desert festival"
+                    ],
+                    "answer": "Kolkata cultural festival"
+                },
+                {
+                    "question": "Chhau dance is characterized by:",
+                    "options": [
+                    "Use of masks and martial elements",
+                    "Silent sculpture performance",
+                    "Only vocal chanting",
+                    "No storytelling"
+                    ],
+                    "answer": "Use of masks and martial elements"
+                }
+            ]
+        }
+    }
+]

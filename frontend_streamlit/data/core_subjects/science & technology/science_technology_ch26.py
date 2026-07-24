@@ -1,0 +1,1322 @@
+TOPICS = [
+    {
+        "name": "Defence Technology – Missile Systems and Classification",
+        "notes": [
+            {
+                "heading": "Introduction",
+                "points": [
+                    "Missiles are self-propelled weapons systems designed to deliver payloads to a target with high precision",
+                    "They are a core part of modern defense systems and strategic deterrence",
+                    "India has developed a strong indigenous missile program under DRDO",
+                    "Missiles are classified based on type, launch platform, range, and propulsion system"
+                ]
+            },
+            {
+                "heading": "What is a Missile?",
+                "points": [
+                    "A missile is a guided weapon system that can be launched from land, air, sea, or submarine platforms",
+                    "It is capable of carrying conventional or nuclear warheads",
+                    "Guidance systems ensure accuracy and target tracking",
+                    "Can be used for offensive and defensive operations",
+                    "Developed for strategic deterrence and battlefield advantage"
+                ]
+            },
+            {
+                "heading": "Classification of Missiles – On the Basis of Type",
+                "points": [
+                    "Surface-to-Surface Missiles (SSM) – launched from land to land targets",
+                    "Surface-to-Air Missiles (SAM) – launched from ground to destroy aerial targets",
+                    "Air-to-Air Missiles (AAM) – launched from aircraft to target aircraft",
+                    "Air-to-Surface Missiles (ASM) – launched from aircraft to ground targets",
+                    "Submarine-Launched Missiles (SLBM) – launched from submarines"
+                ]
+            },
+            {
+                "heading": "Examples of Missile Types",
+                "points": [
+                    "Prithvi – Surface-to-Surface missile",
+                    "Akash – Surface-to-Air missile",
+                    "Astra – Air-to-Air missile",
+                    "BrahMos – Surface and Air-launched cruise missile",
+                    "K-15 Sagarika – Submarine-launched ballistic missile"
+                ]
+            },
+            {
+                "heading": "Classification – On the Basis of Launch Vehicle",
+                "points": [
+                    "Land-based missiles – launched from fixed or mobile ground platforms",
+                    "Air-launched missiles – carried and launched from aircraft",
+                    "Sea-launched missiles – launched from ships or submarines",
+                    "Mobile launchers – truck-mounted or rail-based systems",
+                    "Fixed silos – underground or hardened launch structures"
+                ]
+            },
+            {
+                "heading": "Importance of Launch Platforms",
+                "points": [
+                    "Provides operational flexibility",
+                    "Enhances survivability of missile systems",
+                    "Supports rapid deployment during conflict",
+                    "Improves second-strike capability",
+                    "Key for strategic deterrence"
+                ]
+            },
+            {
+                "heading": "Classification – On the Basis of Range",
+                "points": [
+                    "Short Range Ballistic Missiles (SRBM) – up to 1,000 km",
+                    "Medium Range Ballistic Missiles (MRBM) – 1,000–3,000 km",
+                    "Intermediate Range Ballistic Missiles (IRBM) – 3,000–5,500 km",
+                    "Intercontinental Ballistic Missiles (ICBM) – above 5,500 km",
+                    "Range determines strategic capability"
+                ]
+            },
+            {
+                "heading": "Examples Based on Range",
+                "points": [
+                    "Prithvi – Short-range missile",
+                    "Agni-I – Short to medium range",
+                    "Agni-II – Medium range",
+                    "Agni-III/IV – Intermediate range",
+                    "Agni-V – Intercontinental range missile"
+                ]
+            },
+            {
+                "heading": "Classification – On the Basis of Propulsion System",
+                "points": [
+                    "Solid-fuel missiles – use solid propellant for thrust",
+                    "Liquid-fuel missiles – use liquid propellant systems",
+                    "Hybrid propulsion – combination of solid and liquid systems",
+                    "Air-breathing propulsion – uses atmospheric oxygen (scramjet technology)",
+                    "Nuclear propulsion (theoretical/advanced research stage)"
+                ]
+            },
+            {
+                "heading": "Solid Propulsion Systems",
+                "points": [
+                    "Simpler and more reliable",
+                    "Ready-to-launch capability",
+                    "Long storage life",
+                    "Used in tactical and ballistic missiles",
+                    "Example: Agni series uses solid fuel"
+                ]
+            },
+            {
+                "heading": "Liquid Propulsion Systems",
+                "points": [
+                    "Higher efficiency and controllability",
+                    "Complex storage and handling requirements",
+                    "Can be throttled or stopped mid-flight",
+                    "Used in early space launch vehicles",
+                    "Example: PSLV and GSLV stages"
+                ]
+            },
+            {
+                "heading": "Air-breathing Propulsion",
+                "points": [
+                    "Uses oxygen from atmosphere instead of carrying oxidizer",
+                    "Reduces weight of missile/launch system",
+                    "Operates efficiently at hypersonic speeds",
+                    "Used in scramjet-based systems",
+                    "Example: ISRO’s Scramjet Technology Demonstrator"
+                ]
+            },
+            {
+                "heading": "Importance of Missile Systems",
+                "points": [
+                    "Ensures national security and deterrence",
+                    "Provides strategic and tactical advantage",
+                    "Supports precision strike capability",
+                    "Enhances defense preparedness",
+                    "Important for nuclear deterrence strategy"
+                ]
+            },
+            {
+                "heading": "India’s Missile Development Program",
+                "points": [
+                    "Developed under DRDO (Defence Research and Development Organisation)",
+                    "Integrated Guided Missile Development Programme (IGMDP)",
+                    "Includes missiles like Agni, Prithvi, Akash, Trishul, Nag",
+                    "BrahMos developed in collaboration with Russia",
+                    "Focus on self-reliance (Atmanirbhar Bharat in defense)"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "A missile is:",
+                    "options": [
+                    "Non-guided bomb",
+                    "Guided weapon system",
+                    "Satellite",
+                    "Aircraft engine"
+                    ],
+                    "answer": "Guided weapon system"
+                },
+                {
+                    "question": "Akash missile is:",
+                    "options": [
+                    "Air-to-Air",
+                    "Surface-to-Air",
+                    "Surface-to-Surface",
+                    "Sea-to-Sea"
+                    ],
+                    "answer": "Surface-to-Air"
+                },
+                {
+                    "question": "Agni series belongs to:",
+                    "options": [
+                    "Cruise missiles",
+                    "Ballistic missiles",
+                    "Air defense systems",
+                    "Torpedoes"
+                    ],
+                    "answer": "Ballistic missiles"
+                },
+                {
+                    "question": "SLBM stands for:",
+                    "options": [
+                    "Surface Launched Ballistic Missile",
+                    "Submarine Launched Ballistic Missile",
+                    "Short Long Ballistic Missile",
+                    "Strategic Launch Bomb Missile"
+                    ],
+                    "answer": "Submarine Launched Ballistic Missile"
+                },
+                {
+                    "question": "Scramjet technology is related to:",
+                    "options": [
+                    "Solar energy",
+                    "Air-breathing propulsion",
+                    "Nuclear fusion",
+                    "Radar systems"
+                    ],
+                    "answer": "Air-breathing propulsion"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "ICBM range is:",
+                    "options": [
+                    "Below 1000 km",
+                    "1000–3000 km",
+                    "3000–5500 km",
+                    "Above 5500 km"
+                    ],
+                    "answer": "Above 5500 km"
+                },
+                {
+                    "question": "Prithvi missile is:",
+                    "options": [
+                    "Air-to-Air",
+                    "Surface-to-Surface",
+                    "Submarine-based",
+                    "Cruise missile only"
+                    ],
+                    "answer": "Surface-to-Surface"
+                },
+                {
+                    "question": "Solid fuel missiles are preferred because:",
+                    "options": [
+                    "They are complex",
+                    "They are ready-to-launch",
+                    "They cannot be stored",
+                    "They are slow"
+                    ],
+                    "answer": "They are ready-to-launch"
+                },
+                {
+                    "question": "BrahMos is a:",
+                    "options": [
+                    "Ballistic missile",
+                    "Cruise missile",
+                    "Anti-satellite system",
+                    "Space rocket"
+                    ],
+                    "answer": "Cruise missile"
+                },
+                {
+                    "question": "DRDO stands for:",
+                    "options": [
+                    "Defence Research and Development Organisation",
+                    "Defense Rocket Development Office",
+                    "Data Research Development Organisation",
+                    "Defence Regional Defence Office"
+                    ],
+                    "answer": "Defence Research and Development Organisation"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. Agni-V is an intercontinental missile\n2. Air-breathing propulsion uses atmospheric oxygen\n3. Liquid fuel missiles are simpler than solid fuel missiles",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "All"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                    "Akash – Surface-to-Air missile",
+                    "Agni – Cruise missile",
+                    "Prithvi – Air-to-Air missile",
+                    "BrahMos – Training aircraft"
+                    ],
+                    "answer": "Akash – Surface-to-Air missile"
+                },
+                {
+                    "question": "Main advantage of SLBM is:",
+                    "options": [
+                    "Easy detection",
+                    "Second-strike capability",
+                    "Low speed",
+                    "No range"
+                    ],
+                    "answer": "Second-strike capability"
+                },
+                {
+                    "question": "Ballistic missiles follow:",
+                    "options": [
+                    "Straight path",
+                    "Parabolic trajectory",
+                    "Circular orbit",
+                    "Random path"
+                    ],
+                    "answer": "Parabolic trajectory"
+                },
+                {
+                    "question": "Air-breathing propulsion reduces:",
+                    "options": [
+                    "Payload capacity",
+                    "Need for oxidizer",
+                    "Speed of missile",
+                    "Range completely"
+                    ],
+                    "answer": "Need for oxidizer"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Defence Technology – India’s Missile System (Agni, Prithvi, Trishul, Nag, Dhanush)",
+        "notes": [
+            {
+                "heading": "Introduction",
+                "points": [
+                    "India has developed a strong indigenous missile capability under DRDO",
+                    "Missile development is part of Integrated Guided Missile Development Programme (IGMDP)",
+                    "Missiles are crucial for strategic deterrence, battlefield superiority, and national security",
+                    "Indian missile systems cover ballistic, cruise, anti-tank, and naval launch categories",
+                    "Important for UPSC GS Paper 3 (Defence Technology)"
+                ]
+            },
+            {
+                "heading": "Agni Missile Series – Overview",
+                "points": [
+                    "Agni series is India’s long-range ballistic missile system",
+                    "Developed by DRDO under IGMDP",
+                    "Designed for strategic nuclear deterrence",
+                    "Solid-fuel based, road/rail mobile launch capable",
+                    "Includes multiple variants (Agni-I to Agni-V and beyond)"
+                ]
+            },
+            {
+                "heading": "Agni Missile Variants",
+                "points": [
+                    "Agni-I – Short-range (around 700–1200 km)",
+                    "Agni-II – Medium-range (around 2000 km)",
+                    "Agni-III – Intermediate-range (around 3000–3500 km)",
+                    "Agni-IV – Advanced intermediate range with improved accuracy",
+                    "Agni-V – Intercontinental ballistic missile (5000+ km range)"
+                ]
+            },
+            {
+                "heading": "Significance of Agni Series",
+                "points": [
+                    "Provides strategic nuclear deterrence",
+                    "Ensures second-strike capability",
+                    "Enhances India’s global defense reach",
+                    "Mobile launch systems improve survivability",
+                    "Strengthens India’s position as a nuclear power"
+                ]
+            },
+            {
+                "heading": "Prithvi Missile – Overview",
+                "points": [
+                    "Prithvi is India’s short-range ballistic missile system",
+                    "Developed under IGMDP by DRDO",
+                    "Uses both liquid and solid fuel variants",
+                    "Can be launched from land and sea platforms",
+                    "First indigenous ballistic missile developed by India"
+                ]
+            },
+            {
+                "heading": "Prithvi Variants",
+                "points": [
+                    "Prithvi-I – Army version (short range, ~150 km)",
+                    "Prithvi-II – Air Force version (~250–350 km)",
+                    "Prithvi-III – Naval version (extended range)",
+                    "Can carry conventional and nuclear warheads",
+                    "High accuracy short-range strike system"
+                ]
+            },
+            {
+                "heading": "Significance of Prithvi",
+                "points": [
+                    "First indigenous ballistic missile of India",
+                    "Provides tactical battlefield capability",
+                    "Supports both conventional and nuclear roles",
+                    "Enhances quick strike capability",
+                    "Strengthens India’s short-range defense systems"
+                ]
+            },
+            {
+                "heading": "Trishul Missile – Overview",
+                "points": [
+                    "Trishul is a short-range surface-to-air missile (SAM)",
+                    "Developed under IGMDP by DRDO",
+                    "Designed for quick reaction air defense",
+                    "Guided by radar-based control systems",
+                    "Intended to intercept low-flying targets"
+                ]
+            },
+            {
+                "heading": "Features of Trishul",
+                "points": [
+                    "Short-range air defense missile",
+                    "Sea-skimming capability for naval use",
+                    "Radar-guided interception system",
+                    "Rapid response against aerial threats",
+                    "Project later discontinued due to technological challenges"
+                ]
+            },
+            {
+                "heading": "Significance of Trishul",
+                "points": [
+                    "Early attempt at indigenous air defense system",
+                    "Provided technological learning for future systems",
+                    "Helped in development of advanced SAM systems like Akash",
+                    "Strengthened DRDO’s missile R&D capability",
+                    "Important milestone in India’s defense evolution"
+                ]
+            },
+            {
+                "heading": "Nag Missile – Overview",
+                "points": [
+                    "Nag is an anti-tank guided missile (ATGM)",
+                    "Developed by DRDO under IGMDP",
+                    "Designed to destroy armored vehicles and tanks",
+                    "Uses fire-and-forget technology",
+                    "Can be launched from land and helicopter platforms"
+                ]
+            },
+            {
+                "heading": "Features of Nag Missile",
+                "points": [
+                    "Infrared imaging seeker for target locking",
+                    "Fire-and-forget capability",
+                    "High precision anti-armor system",
+                    "All-weather operational capability",
+                    "Can penetrate modern tank armor"
+                ]
+            },
+            {
+                "heading": "Significance of Nag",
+                "points": [
+                    "Enhances battlefield anti-tank capability",
+                    "Indigenous solution for armored warfare",
+                    "Reduces dependence on foreign ATGMs",
+                    "Improves infantry and air support operations",
+                    "Strengthens tactical defense systems"
+                ]
+            },
+            {
+                "heading": "Dhanush Missile – Overview",
+                "points": [
+                    "Dhanush is a naval version of Prithvi missile",
+                    "Developed for launch from Indian Navy ships",
+                    "Surface-to-surface ballistic missile system",
+                    "Can carry nuclear and conventional warheads",
+                    "Designed for maritime strike capability"
+                ]
+            },
+            {
+                "heading": "Features of Dhanush",
+                "points": [
+                    "Ship-launched ballistic missile",
+                    "Derived from Prithvi missile system",
+                    "Short-range strike capability (~350 km)",
+                    "Stabilized launch platform for sea conditions",
+                    "Provides mobility and flexibility in naval warfare"
+                ]
+            },
+            {
+                "heading": "Significance of Dhanush",
+                "points": [
+                    "Enhances India’s maritime strike capability",
+                    "Strengthens naval deterrence",
+                    "Supports second-strike nuclear capability from sea",
+                    "Improves flexibility of missile deployment",
+                    "Important for coastal defense strategy"
+                ]
+            },
+            {
+                "heading": "India’s Missile System – Overall Importance",
+                "points": [
+                    "Ensures strategic deterrence against adversaries",
+                    "Provides multi-layered defense capability",
+                    "Supports nuclear triad (land, air, sea-based systems)",
+                    "Enhances indigenous defense production",
+                    "Critical for national security and foreign policy leverage"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Agni missiles are primarily:",
+                    "options": [
+                    "Surface-to-Air missiles",
+                    "Ballistic missiles",
+                    "Cruise missiles",
+                    "Anti-tank missiles"
+                    ],
+                    "answer": "Ballistic missiles"
+                },
+                {
+                    "question": "Prithvi missile is classified as:",
+                    "options": [
+                    "Short-range ballistic missile",
+                    "Air-to-Air missile",
+                    "Cruise missile",
+                    "Submarine missile only"
+                    ],
+                    "answer": "Short-range ballistic missile"
+                },
+                {
+                    "question": "Nag missile is used against:",
+                    "options": [
+                    "Aircraft",
+                    "Tanks and armored vehicles",
+                    "Satellites",
+                    "Ships only"
+                    ],
+                    "answer": "Tanks and armored vehicles"
+                },
+                {
+                    "question": "Dhanush missile is a:",
+                    "options": [
+                    "Air-launched missile",
+                    "Ship-launched missile",
+                    "Submarine missile",
+                    "Space rocket"
+                    ],
+                    "answer": "Ship-launched missile"
+                },
+                {
+                    "question": "Trishul missile was designed as:",
+                    "options": [
+                    "Anti-tank missile",
+                    "Surface-to-Air missile",
+                    "Ballistic missile",
+                    "Cruise missile"
+                    ],
+                    "answer": "Surface-to-Air missile"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Agni-V is classified as:",
+                    "options": [
+                    "Short-range missile",
+                    "Medium-range missile",
+                    "Intercontinental ballistic missile",
+                    "Anti-air missile"
+                    ],
+                    "answer": "Intercontinental ballistic missile"
+                },
+                {
+                    "question": "Prithvi uses mainly:",
+                    "options": [
+                    "Nuclear propulsion",
+                    "Liquid and solid fuel",
+                    "Solar energy",
+                    "Laser propulsion"
+                    ],
+                    "answer": "Liquid and solid fuel"
+                },
+                {
+                    "question": "Nag missile uses:",
+                    "options": [
+                    "Radar guidance",
+                    "Infrared imaging seeker",
+                    "Manual control",
+                    "Satellite control only"
+                    ],
+                    "answer": "Infrared imaging seeker"
+                },
+                {
+                    "question": "Dhanush missile is based on:",
+                    "options": [
+                    "Agni series",
+                    "Prithvi series",
+                    "Akash system",
+                    "Nag system"
+                    ],
+                    "answer": "Prithvi series"
+                },
+                {
+                    "question": "IGMDP stands for:",
+                    "options": [
+                    "Integrated Guided Missile Development Programme",
+                    "Indian Global Missile Defence Programme",
+                    "International Guided Missile Development Plan",
+                    "Integrated Ground Missile Deployment Program"
+                    ],
+                    "answer": "Integrated Guided Missile Development Programme"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. Agni series provides strategic deterrence\n2. Nag is an anti-tank missile\n3. Trishul is currently an active missile system",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "All"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                    "Agni – Ballistic missile",
+                    "Nag – Surface-to-Air missile",
+                    "Trishul – Anti-ship missile",
+                    "Dhanush – Air-to-Air missile"
+                    ],
+                    "answer": "Agni – Ballistic missile"
+                },
+                {
+                    "question": "Main advantage of Dhanush missile is:",
+                    "options": [
+                    "Air superiority",
+                    "Maritime strike capability",
+                    "Space exploration",
+                    "Weather prediction"
+                    ],
+                    "answer": "Maritime strike capability"
+                },
+                {
+                    "question": "Ballistic missiles follow:",
+                    "options": [
+                    "Straight line path",
+                    "Parabolic trajectory",
+                    "Random motion",
+                    "Circular orbit"
+                    ],
+                    "answer": "Parabolic trajectory"
+                },
+                {
+                    "question": "India’s missile program aims to achieve:",
+                    "options": [
+                    "Dependence on imports",
+                    "Strategic deterrence and self-reliance",
+                    "Only civilian use",
+                    "Space tourism"
+                    ],
+                    "answer": "Strategic deterrence and self-reliance"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Defence Technology – Astra, Prahaar, BrahMos, Indian Submarines & Naval Ships, Light Combat Aircraft",
+        "notes": [
+            {
+                "heading": "Introduction",
+                "points": [
+                    "India’s defence capability has significantly strengthened through indigenous missile systems, naval platforms, and fighter aircraft development",
+                    "DRDO, HAL, and Indian Navy play key roles in these advancements",
+                    "Systems like Astra, Prahaar, and BrahMos enhance India’s strategic and tactical capabilities",
+                    "Naval submarines and ships support maritime security and deterrence",
+                    "Light Combat Aircraft improves air superiority and self-reliance in defense manufacturing"
+                ]
+            },
+            {
+                "heading": "Astra Missile – Overview",
+                "points": [
+                    "Astra is India’s Beyond Visual Range (BVR) air-to-air missile",
+                    "Developed by DRDO for the Indian Air Force",
+                    "Designed to engage aerial targets beyond visual range",
+                    "Can be launched from fighter aircraft like Su-30 MKI",
+                    "Represents India’s advancement in air combat technology"
+                ]
+            },
+            {
+                "heading": "Features of Astra Missile",
+                "points": [
+                    "Beyond Visual Range capability (100+ km range)",
+                    "Active radar homing guidance system",
+                    "High maneuverability to hit fast-moving targets",
+                    "All-weather operational capability",
+                    "Fire-and-forget missile system"
+                ]
+            },
+            {
+                "heading": "Significance of Astra",
+                "points": [
+                    "Enhances air superiority of Indian Air Force",
+                    "Reduces dependence on imported air-to-air missiles",
+                    "Improves long-range combat capability",
+                    "Strengthens indigenous defense technology",
+                    "Important for modern aerial warfare"
+                ]
+            },
+            {
+                "heading": "Prahaar Missile – Overview",
+                "points": [
+                    "Prahaar is a short-range tactical surface-to-surface missile",
+                    "Developed by DRDO",
+                    "Designed for battlefield-level precision strikes",
+                    "Mobile launcher-based system for quick deployment",
+                    "Fills gap between artillery rockets and long-range missiles"
+                ]
+            },
+            {
+                "heading": "Features of Prahaar",
+                "points": [
+                    "Range of around 150 km",
+                    "High accuracy and quick response capability",
+                    "Solid-fuel based system",
+                    "Can carry conventional warheads",
+                    "Designed for tactical battlefield use"
+                ]
+            },
+            {
+                "heading": "Significance of Prahaar",
+                "points": [
+                    "Provides rapid battlefield strike capability",
+                    "Enhances tactical flexibility of armed forces",
+                    "Bridges gap between artillery and ballistic missiles",
+                    "Supports precision warfare strategy",
+                    "Strengthens short-range deterrence"
+                ]
+            },
+            {
+                "heading": "BrahMos Missile System – Overview",
+                "points": [
+                    "BrahMos is a supersonic cruise missile developed jointly by India and Russia",
+                    "Name derived from Brahmaputra (India) and Moskva (Russia) rivers",
+                    "One of the fastest cruise missiles in the world",
+                    "Can be launched from land, sea, air, and submarine platforms",
+                    "Designed for precision strike capability"
+                ]
+            },
+            {
+                "heading": "Features of BrahMos",
+                "points": [
+                    "Speed of Mach 2.8–3 (supersonic)",
+                    "Range extended up to 450+ km in newer versions",
+                    "Sea-skimming capability to avoid radar detection",
+                    "High accuracy with pinpoint strike capability",
+                    "Multi-platform launch system"
+                ]
+            },
+            {
+                "heading": "Significance of BrahMos",
+                "points": [
+                    "Strengthens India’s conventional strike capability",
+                    "Acts as strong deterrence against adversaries",
+                    "Enhances naval, air, and land attack options",
+                    "Successful India-Russia defense collaboration",
+                    "One of the most advanced cruise missiles globally"
+                ]
+            },
+            {
+                "heading": "Indian Submarines – Overview",
+                "points": [
+                    "Submarines are underwater naval vessels used for stealth operations",
+                    "India operates diesel-electric and nuclear-powered submarines",
+                    "Key role in maritime security and nuclear deterrence",
+                    "Part of India’s nuclear triad capability",
+                    "Operated by Indian Navy"
+                ]
+            },
+            {
+                "heading": "Types of Indian Submarines",
+                "points": [
+                    "Conventional diesel-electric submarines (Scorpene class, Kilo class)",
+                    "Nuclear-powered ballistic missile submarines (Arihant class)",
+                    "Attack submarines for tactical operations",
+                    "Ballistic missile submarines for strategic deterrence",
+                    "Indigenous submarine programs under Project 75 and 75I"
+                ]
+            },
+            {
+                "heading": "Significance of Submarines",
+                "points": [
+                    "Provide stealth and surprise attack capability",
+                    "Strengthen second-strike nuclear capability",
+                    "Enhance maritime security in Indian Ocean Region",
+                    "Deter enemy naval forces",
+                    "Important for blue-water navy ambitions"
+                ]
+            },
+            {
+                "heading": "Indian Naval Ships – Overview",
+                "points": [
+                    "Naval ships form the surface fleet of Indian Navy",
+                    "Include aircraft carriers, destroyers, frigates, and corvettes",
+                    "Used for defense, power projection, and maritime security",
+                    "India operates both indigenous and imported ships",
+                    "Key focus on self-reliant shipbuilding under ‘Make in India’"
+                ]
+            },
+            {
+                "heading": "Types of Naval Ships",
+                "points": [
+                    "Aircraft carriers – INS Vikramaditya, INS Vikrant",
+                    "Destroyers – guided missile destroyers for high-intensity combat",
+                    "Frigates – multi-role warships for escort and defense",
+                    "Corvettes – small, fast attack ships",
+                    "Amphibious ships – support landing operations"
+                ]
+            },
+            {
+                "heading": "Significance of Naval Ships",
+                "points": [
+                    "Ensure maritime security of India’s coastline",
+                    "Support humanitarian and disaster relief operations",
+                    "Project power in Indian Ocean Region",
+                    "Enhance trade route security",
+                    "Strengthen blue-water navy capability"
+                ]
+            },
+            {
+                "heading": "Light Combat Aircraft (LCA) – Tejas",
+                "points": [
+                    "Tejas is India’s indigenous Light Combat Aircraft",
+                    "Developed by HAL and Aeronautical Development Agency (ADA)",
+                    "Designed for air superiority and ground attack roles",
+                    "Part of India’s self-reliance in fighter aircraft production",
+                    "Inducted into Indian Air Force"
+                ]
+            },
+            {
+                "heading": "Features of Tejas",
+                "points": [
+                    "Single-engine, lightweight multirole fighter aircraft",
+                    "Fly-by-wire flight control system",
+                    "Supersonic capability",
+                    "Advanced avionics and radar systems",
+                    "Can carry air-to-air and air-to-ground weapons"
+                ]
+            },
+            {
+                "heading": "Significance of LCA Tejas",
+                "points": [
+                    "Reduces dependence on foreign fighter aircraft",
+                    "Boosts indigenous defense manufacturing",
+                    "Enhances air combat capability",
+                    "Supports modernization of Indian Air Force",
+                    "Important step in Atmanirbhar Bharat in defense"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Astra missile is a:",
+                    "options": [
+                    "Surface-to-Surface missile",
+                    "Air-to-Air missile",
+                    "Anti-tank missile",
+                    "Submarine missile"
+                    ],
+                    "answer": "Air-to-Air missile"
+                },
+                {
+                    "question": "Prahaar is a:",
+                    "options": [
+                    "Long-range missile",
+                    "Tactical short-range missile",
+                    "Anti-air missile",
+                    "Space rocket"
+                    ],
+                    "answer": "Tactical short-range missile"
+                },
+                {
+                    "question": "BrahMos is a:",
+                    "options": [
+                    "Ballistic missile",
+                    "Cruise missile",
+                    "Anti-tank missile",
+                    "Air defense system"
+                    ],
+                    "answer": "Cruise missile"
+                },
+                {
+                    "question": "Arihant class belongs to:",
+                    "options": [
+                    "Aircraft carriers",
+                    "Submarines",
+                    "Destroyers",
+                    "Frigates"
+                    ],
+                    "answer": "Submarines"
+                },
+                {
+                    "question": "LCA Tejas is developed by:",
+                    "options": [
+                    "ISRO",
+                    "HAL and ADA",
+                    "DRDO only",
+                    "BHEL"
+                    ],
+                    "answer": "HAL and ADA"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Astra missile is mainly used by:",
+                    "options": [
+                    "Army tanks",
+                    "Indian Air Force",
+                    "Navy submarines",
+                    "Coast Guard only"
+                    ],
+                    "answer": "Indian Air Force"
+                },
+                {
+                    "question": "BrahMos missile is a collaboration between:",
+                    "options": [
+                    "India and USA",
+                    "India and Russia",
+                    "India and France",
+                    "India and Israel"
+                    ],
+                    "answer": "India and Russia"
+                },
+                {
+                    "question": "Prahaar missile range is approximately:",
+                    "options": [
+                    "50 km",
+                    "150 km",
+                    "500 km",
+                    "1000 km"
+                    ],
+                    "answer": "150 km"
+                },
+                {
+                    "question": "Tejas aircraft is classified as:",
+                    "options": [
+                    "Heavy bomber",
+                    "Light combat aircraft",
+                    "Transport aircraft",
+                    "Helicopter"
+                    ],
+                    "answer": "Light combat aircraft"
+                },
+                {
+                    "question": "Indian submarines contribute to:",
+                    "options": [
+                    "Agriculture",
+                    "Nuclear deterrence",
+                    "Weather control",
+                    "Space research"
+                    ],
+                    "answer": "Nuclear deterrence"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. BrahMos is supersonic cruise missile\n2. Astra is air-to-air missile\n3. Prahaar is long-range missile",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "All"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                    "Astra – Air-to-Air missile",
+                    "BrahMos – Ballistic missile",
+                    "Prahaar – Air defense system",
+                    "Tejas – Submarine"
+                    ],
+                    "answer": "Astra – Air-to-Air missile"
+                },
+                {
+                    "question": "Main advantage of submarines is:",
+                    "options": [
+                    "High visibility",
+                    "Stealth capability",
+                    "Low speed",
+                    "Air defense only"
+                    ],
+                    "answer": "Stealth capability"
+                },
+                {
+                    "question": "Tejas aircraft helps India in:",
+                    "options": [
+                    "Space exploration",
+                    "Air superiority and self-reliance",
+                    "Naval operations only",
+                    "Weather forecasting"
+                    ],
+                    "answer": "Air superiority and self-reliance"
+                },
+                {
+                    "question": "BrahMos is important because it provides:",
+                    "options": [
+                    "Supersonic precision strike capability",
+                    "Only defensive capability",
+                    "No range advantage",
+                    "Low speed system"
+                    ],
+                    "answer": "Supersonic precision strike capability"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Defence Technology – UAVs, Stealth Technology, Chemical & Biological Weapons",
+        "notes": [
+            {
+                "heading": "Introduction",
+                "points": [
+                    "Modern warfare is increasingly driven by advanced technologies such as unmanned systems, stealth capabilities, and weapons of mass destruction",
+                    "Unmanned Aerial Vehicles (UAVs) enhance surveillance and strike capability without risking human pilots",
+                    "Stealth technology reduces detectability of military platforms",
+                    "Chemical and biological weapons fall under Weapons of Mass Destruction (WMDs) and are globally banned under international conventions",
+                ]
+            },
+            {
+                "heading": "Unmanned Aerial Vehicle (UAV) – Overview",
+                "points": [
+                    "UAVs are aircraft systems that operate without a human pilot onboard",
+                    "Also called drones",
+                    "Controlled remotely or through autonomous systems",
+                    "Used for surveillance, reconnaissance, combat, and delivery operations",
+                    "Widely used in military, civil, and commercial sectors"
+                ]
+            },
+            {
+                "heading": "Types of UAVs",
+                "points": [
+                    "Reconnaissance UAVs – used for intelligence gathering",
+                    "Combat UAVs (UCAVs) – armed drones for strike missions",
+                    "Target drones – used for training and testing",
+                    "Cargo UAVs – used for logistics and supply delivery",
+                    "Loitering munitions – drones that can hover and strike targets"
+                ]
+            },
+            {
+                "heading": "Features of UAVs",
+                "points": [
+                    "Remote or autonomous control",
+                    "High endurance and long flight duration",
+                    "Equipped with cameras, sensors, and weapons",
+                    "Low risk to human life",
+                    "Cost-effective compared to manned aircraft"
+                ]
+            },
+            {
+                "heading": "Applications of UAVs",
+                "points": [
+                    "Military surveillance and reconnaissance",
+                    "Border security and monitoring",
+                    "Counter-terrorism operations",
+                    "Disaster management and rescue operations",
+                    "Agriculture, mapping, and infrastructure monitoring"
+                ]
+            },
+            {
+                "heading": "India’s UAV Capability",
+                "points": [
+                    "Developed by DRDO and private sector companies",
+                    "Examples include Rustom series and TAPAS-BH UAV",
+                    "Imported UAVs like Heron and Searcher from Israel",
+                    "Increasing use of armed drones in modern warfare",
+                    "Focus on indigenous drone development under Make in India"
+                ]
+            },
+            {
+                "heading": "Stealth Technology – Overview",
+                "points": [
+                    "Stealth technology is used to make military platforms less detectable by radar, infrared, sonar, or visual detection",
+                    "Used in aircraft, ships, missiles, and UAVs",
+                    "Reduces radar cross-section (RCS)",
+                    "Enhances survivability in hostile environments",
+                    "Key component of modern defense systems"
+                ]
+            },
+            {
+                "heading": "Principles of Stealth Technology",
+                "points": [
+                    "Shaping design to deflect radar waves",
+                    "Use of radar-absorbent materials (RAM)",
+                    "Heat signature reduction techniques",
+                    "Minimizing sound and visual detection",
+                    "Electronic countermeasure systems"
+                ]
+            },
+            {
+                "heading": "Applications of Stealth Technology",
+                "points": [
+                    "Stealth fighter aircraft (e.g., F-35, Su-57)",
+                    "Stealth drones and UCAVs",
+                    "Stealth submarines and naval vessels",
+                    "Cruise missiles with low detectability",
+                    "Strategic defense systems"
+                ]
+            },
+            {
+                "heading": "Importance of Stealth Technology",
+                "points": [
+                    "Enhances surprise attack capability",
+                    "Reduces chances of detection by enemy radar",
+                    "Improves mission success rate",
+                    "Provides tactical and strategic advantage",
+                    "Important for modern aerial warfare dominance"
+                ]
+            },
+            {
+                "heading": "Chemical Weapons – Overview",
+                "points": [
+                    "Chemical weapons use toxic chemical substances to harm or kill humans, animals, or plants",
+                    "They are considered Weapons of Mass Destruction (WMDs)",
+                    "Cause poisoning, burns, or long-term health damage",
+                    "Prohibited under Chemical Weapons Convention (CWC)",
+                    "Monitored by Organisation for the Prohibition of Chemical Weapons (OPCW)"
+                ]
+            },
+            {
+                "heading": "Types of Chemical Agents",
+                "points": [
+                    "Nerve agents (e.g., Sarin, VX)",
+                    "Blister agents (e.g., mustard gas)",
+                    "Choking agents (e.g., chlorine gas)",
+                    "Blood agents (e.g., hydrogen cyanide)",
+                    "Incendiary agents"
+                ]
+            },
+            {
+                "heading": "Impact of Chemical Weapons",
+                "points": [
+                    "Severe human casualties and suffering",
+                    "Long-term environmental damage",
+                    "Psychological impact on populations",
+                    "Violation of international humanitarian law",
+                    "Difficulty in containment after release"
+                ]
+            },
+            {
+                "heading": "Biological Weapons – Overview",
+                "points": [
+                    "Biological weapons use microorganisms or toxins to cause disease and death",
+                    "Includes bacteria, viruses, fungi, or biological toxins",
+                    "Also classified as Weapons of Mass Destruction",
+                    "Prohibited under Biological Weapons Convention (BWC)",
+                    "Highly dangerous due to potential for epidemics"
+                ]
+            },
+            {
+                "heading": "Types of Biological Agents",
+                "points": [
+                    "Bacterial agents (e.g., anthrax)",
+                    "Viral agents (e.g., smallpox)",
+                    "Rickettsial agents",
+                    "Toxins (e.g., botulinum toxin)",
+                    "Genetically modified pathogens"
+                ]
+            },
+            {
+                "heading": "Impact of Biological Weapons",
+                "points": [
+                    "Rapid spread of infectious diseases",
+                    "High mortality and morbidity rates",
+                    "Potential for pandemics",
+                    "Difficult detection and control",
+                    "Long-term public health emergencies"
+                ]
+            },
+            {
+                "heading": "International Conventions",
+                "points": [
+                    "Chemical Weapons Convention (CWC) – bans chemical weapons",
+                    "Biological Weapons Convention (BWC) – bans biological weapons",
+                    "Organisation for the Prohibition of Chemical Weapons (OPCW) monitors compliance",
+                    "United Nations supports disarmament efforts",
+                    "India is a signatory to both conventions"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "UAV stands for:",
+                    "options": [
+                    "Universal Air Vehicle",
+                    "Unmanned Aerial Vehicle",
+                    "United Aviation Vehicle",
+                    "Underwater Aerial Vehicle"
+                    ],
+                    "answer": "Unmanned Aerial Vehicle"
+                },
+                {
+                    "question": "Stealth technology is used to:",
+                    "options": [
+                    "Increase radar visibility",
+                    "Reduce detectability",
+                    "Increase speed only",
+                    "Improve fuel consumption only"
+                    ],
+                    "answer": "Reduce detectability"
+                },
+                {
+                    "question": "Chemical weapons are banned under:",
+                    "options": [
+                    "NPT",
+                    "CWC",
+                    "UNOOSA",
+                    "NASA treaty"
+                    ],
+                    "answer": "CWC"
+                },
+                {
+                    "question": "Biological weapons use:",
+                    "options": [
+                    "Explosives",
+                    "Microorganisms",
+                    "Radar waves",
+                    "Nuclear fuel"
+                    ],
+                    "answer": "Microorganisms"
+                },
+                {
+                    "question": "UCAV stands for:",
+                    "options": [
+                    "Underwater Combat Aerial Vehicle",
+                    "Unmanned Combat Aerial Vehicle",
+                    "Universal Control Air Vehicle",
+                    "United Combat Air Vessel"
+                    ],
+                    "answer": "Unmanned Combat Aerial Vehicle"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Stealth technology mainly reduces:",
+                    "options": [
+                    "Gravity",
+                    "Radar cross-section",
+                    "Fuel consumption",
+                    "Altitude"
+                    ],
+                    "answer": "Radar cross-section"
+                },
+                {
+                    "question": "Organisation for Chemical Weapons control is:",
+                    "options": [
+                    "WHO",
+                    "OPCW",
+                    "UNESCO",
+                    "WTO"
+                    ],
+                    "answer": "OPCW"
+                },
+                {
+                    "question": "Example of biological agent is:",
+                    "options": [
+                    "Sarin",
+                    "Anthrax",
+                    "Mustard gas",
+                    "Chlorine"
+                    ],
+                    "answer": "Anthrax"
+                },
+                {
+                    "question": "Drones are mainly used for:",
+                    "options": [
+                    "Cooking",
+                    "Surveillance",
+                    "Mining only",
+                    "Printing"
+                    ],
+                    "answer": "Surveillance"
+                },
+                {
+                    "question": "Stealth aircraft are designed to:",
+                    "options": [
+                    "Be highly visible",
+                    "Avoid detection",
+                    "Fly underwater",
+                    "Increase noise"
+                    ],
+                    "answer": "Avoid detection"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. UAVs can be used for surveillance\n2. Biological weapons are allowed in warfare\n3. Stealth technology reduces radar detection",
+                    "options": [
+                    "1 and 3 only",
+                    "2 and 3 only",
+                    "1 and 2 only",
+                    "All"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                    "CWC – Chemical weapons ban",
+                    "BWC – Nuclear weapons ban",
+                    "OPCW – Space agency",
+                    "UAV – Manned aircraft"
+                    ],
+                    "answer": "CWC – Chemical weapons ban"
+                },
+                {
+                    "question": "Main risk of biological weapons is:",
+                    "options": [
+                    "Slow impact",
+                    "Rapid disease spread",
+                    "No effect on humans",
+                    "Only environmental benefit"
+                    ],
+                    "answer": "Rapid disease spread"
+                },
+                {
+                    "question": "Stealth technology is used in:",
+                    "options": [
+                    "Aircraft and submarines",
+                    "Only satellites",
+                    "Only ships",
+                    "Only missiles are excluded"
+                    ],
+                    "answer": "Aircraft and submarines"
+                },
+                {
+                    "question": "UAVs provide advantage of:",
+                    "options": [
+                    "Higher pilot risk",
+                    "No surveillance ability",
+                    "Reduced human risk in missions",
+                    "No control system"
+                    ],
+                    "answer": "Reduced human risk in missions"
+                }
+            ]
+        }
+    }
+]

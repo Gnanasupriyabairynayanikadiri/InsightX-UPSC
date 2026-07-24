@@ -1,0 +1,2426 @@
+[
+    {
+        "name": "Subordinate Courts",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Subordinate Courts are the lowest level of judiciary in India below the High Court",
+                    "They handle civil and criminal cases at district and lower levels",
+                    "Organized under the control of High Courts (Article 235)",
+                    "Form the backbone of the Indian judicial system"
+                ]
+            },
+            {
+                "heading": "Constitutional Provision",
+                "points": [
+                    "Articles 233 to 237 deal with Subordinate Courts",
+                    "Article 233: Appointment of District Judges",
+                    "Article 234: Recruitment of judicial officers",
+                    "Article 235: Control of High Court over subordinate judiciary",
+                    "Article 236: Interpretation of expressions (District Judge, etc.)"
+                ]
+            },
+            {
+                "heading": "Structure of Subordinate Courts",
+                "points": [
+                    "District Court (highest in district judiciary)",
+                    "Civil Courts",
+                    "Criminal Courts",
+                    "Munsif Courts / Magistrate Courts",
+                    "Special Courts (family, labour, etc.)"
+                ]
+            },
+            {
+                "heading": "District Court",
+                "points": [
+                    "Highest judicial authority at district level",
+                    "Deals with civil and criminal cases",
+                    "Presided over by District Judge",
+                    "Acts as appellate court for lower courts in district"
+                ]
+            },
+            {
+                "heading": "Civil Courts",
+                "points": [
+                    "Deal with disputes related to property, contracts, etc.",
+                    "Hierarchy includes Junior Civil Judge and Senior Civil Judge",
+                    "Handle non-criminal disputes",
+                    "Follow Civil Procedure Code"
+                ]
+            },
+            {
+                "heading": "Criminal Courts",
+                "points": [
+                    "Deal with offences and punishments",
+                    "Include Judicial Magistrates and Sessions Courts",
+                    "Follow Criminal Procedure Code",
+                    "Sessions Court handles serious criminal cases"
+                ]
+            },
+            {
+                "heading": "Appointment of District Judges",
+                "points": [
+                    "Made by Governor of the State",
+                    "In consultation with High Court",
+                    "Eligibility: Advocate or judicial officer with experience",
+                    "Ensures experienced leadership at district level"
+                ]
+            },
+            {
+                "heading": "Appointment of Other Judicial Officers",
+                "points": [
+                    "Conducted by State Public Service Commission",
+                    "Through competitive examination",
+                    "Includes civil judge and magistrate posts",
+                    "Ensures merit-based recruitment"
+                ]
+            },
+            {
+                "heading": "Control of High Court",
+                "points": [
+                    "High Court controls posting, promotion, and transfer of judicial officers",
+                    "Ensures judicial independence and discipline",
+                    "Administrative supervision under Article 235",
+                    "Protects subordinate judiciary from executive interference"
+                ]
+            },
+            {
+                "heading": "Functions of Subordinate Courts",
+                "points": [
+                    "Dispense justice at grassroots level",
+                    "Handle civil and criminal cases",
+                    "Reduce burden on High Court",
+                    "Ensure access to justice for common people"
+                ]
+            },
+            {
+                "heading": "Importance of Subordinate Courts",
+                "points": [
+                    "First point of contact for justice",
+                    "Handles majority of cases in India",
+                    "Ensures decentralization of judiciary",
+                    "Strengthens rule of law"
+                ]
+            },
+            {
+                "heading": "Challenges of Subordinate Judiciary",
+                "points": [
+                    "Huge case backlog",
+                    "Shortage of judges",
+                    "Infrastructure limitations",
+                    "Delays in justice delivery"
+                ]
+            },
+            {
+                "heading": "Judicial Independence at Lower Level",
+                "points": [
+                    "Protected by High Court supervision",
+                    "Security of tenure for judges",
+                    "Separation from executive control",
+                    "Ensures fair trial system"
+                ]
+            },
+            {
+                "heading": "Conclusion (UPSC Perspective)",
+                "points": [
+                    "Subordinate courts are backbone of Indian judiciary",
+                    "They ensure justice at grassroots level",
+                    "High Court supervision ensures independence",
+                    "Critical for efficient judicial system"
+                ]
+            },
+            {
+                "heading": "Important Constitutional Articles",
+                "points": [
+                    "Article 233: Appointment of District Judges",
+                    "Article 234: Recruitment of judicial officers",
+                    "Article 235: Control of High Court",
+                    "Article 236: Definitions",
+                    "Article 237: Application of provisions"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Subordinate courts handle majority of cases",
+                    "High Court controls lower judiciary",
+                    "District Judge is highest in district judiciary",
+                    "Recruitment done by State PSC",
+                    "Article 235 is key provision"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Highest court at district level is:",
+                    "options": [
+                        "Civil Court",
+                        "District Court",
+                        "High Court",
+                        "Supreme Court"
+                    ],
+                    "answer": "District Court"
+                },
+                {
+                    "question": "Article related to control over subordinate courts is:",
+                    "options": [
+                        "233",
+                        "234",
+                        "235",
+                        "236"
+                    ],
+                    "answer": "235"
+                },
+                {
+                    "question": "District Judges are appointed by:",
+                    "options": [
+                        "President",
+                        "Governor",
+                        "High Court",
+                        "Prime Minister"
+                    ],
+                    "answer": "Governor"
+                },
+                {
+                    "question": "Subordinate courts deal with:",
+                    "options": [
+                        "Only constitutional cases",
+                        "Civil and criminal cases",
+                        "Only election cases",
+                        "Only tax cases"
+                    ],
+                    "answer": "Civil and criminal cases"
+                },
+                {
+                    "question": "Recruitment of judicial officers is done by:",
+                    "options": [
+                        "UPSC",
+                        "State PSC",
+                        "Parliament",
+                        "Governor"
+                    ],
+                    "answer": "State PSC"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Article 235 deals with:",
+                    "options": [
+                        "High Court establishment",
+                        "Control over subordinate judiciary",
+                        "Fundamental Rights",
+                        "Election process"
+                    ],
+                    "answer": "Control over subordinate judiciary"
+                },
+                {
+                    "question": "Sessions Court handles:",
+                    "options": [
+                        "Civil disputes",
+                        "Serious criminal cases",
+                        "Election disputes",
+                        "Tax matters"
+                    ],
+                    "answer": "Serious criminal cases"
+                },
+                {
+                    "question": "Subordinate courts are controlled by:",
+                    "options": [
+                        "Governor",
+                        "High Court",
+                        "Supreme Court",
+                        "Parliament"
+                    ],
+                    "answer": "High Court"
+                },
+                {
+                    "question": "Main purpose of subordinate courts is:",
+                    "options": [
+                        "Judicial independence",
+                        "Grassroot justice delivery",
+                        "Military control",
+                        "Tax collection"
+                    ],
+                    "answer": "Grassroot justice delivery"
+                },
+                {
+                    "question": "District Judge is:",
+                    "options": [
+                        "Lowest judge",
+                        "Highest in district judiciary",
+                        "High Court judge",
+                        "Supreme Court judge"
+                    ],
+                    "answer": "Highest in district judiciary"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Subordinate courts are under High Court control\n2. District Judge is highest in district judiciary\n3. Judges are appointed by Parliament",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Subordinate courts are independent of High Court",
+                        "High Court controls subordinate judiciary",
+                        "Supreme Court appoints district judges",
+                        "Governor controls judiciary directly"
+                    ],
+                    "answer": "High Court controls subordinate judiciary"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Article 235 exists",
+                        "District Judge is highest at district level",
+                        "Judges appointed by Parliament",
+                        "PSC recruits judicial officers"
+                    ],
+                    "answer": "Judges appointed by Parliament"
+                },
+                {
+                    "question": "Main function of subordinate courts is:",
+                    "options": [
+                        "Constitutional amendment",
+                        "Justice delivery at local level",
+                        "Foreign policy",
+                        "Budget preparation"
+                    ],
+                    "answer": "Justice delivery at local level"
+                },
+                {
+                    "question": "Final nature of subordinate courts is:",
+                    "options": [
+                        "Administrative body",
+                        "Grassroots judiciary system",
+                        "Executive body",
+                        "Legislative body"
+                    ],
+                    "answer": "Grassroots judiciary system"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Constitutional Provisions related to Subordinate Courts",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Subordinate courts are governed by specific provisions in the Indian Constitution",
+                    "They form the lowest tier of the judiciary below High Courts",
+                    "Articles 233 to 237 deal with their organisation, appointment, and control",
+                    "Ensure uniformity and independence of the lower judiciary across states"
+                ]
+            },
+            {
+                "heading": "Relevant Constitutional Articles",
+                "points": [
+                    "Article 233: Appointment of District Judges",
+                    "Article 234: Recruitment of persons other than District Judges",
+                    "Article 235: Control over subordinate courts",
+                    "Article 236: Interpretation of terms like District Judge",
+                    "Article 237: Application of provisions to magistrates in certain cases"
+                ]
+            },
+            {
+                "heading": "Article 233 – Appointment of District Judges",
+                "points": [
+                    "District Judges are appointed by the Governor of the State",
+                    "Appointment is made in consultation with the High Court",
+                    "Includes promotion from judicial service or direct recruitment",
+                    "Ensures experienced judiciary at district level"
+                ]
+            },
+            {
+                "heading": "Article 234 – Recruitment of Other Judicial Officers",
+                "points": [
+                    "Governor appoints judicial officers other than District Judges",
+                    "Done in consultation with High Court and State Public Service Commission",
+                    "Includes Civil Judges and Magistrates",
+                    "Ensures merit-based recruitment through competitive exams"
+                ]
+            },
+            {
+                "heading": "Article 235 – Control over Subordinate Judiciary",
+                "points": [
+                    "High Court has complete control over subordinate courts",
+                    "Includes posting, promotion, and disciplinary control",
+                    "Ensures independence from executive interference",
+                    "One of the most important provisions for judicial independence"
+                ]
+            },
+            {
+                "heading": "Article 236 – Interpretation",
+                "points": [
+                    "Defines terms like District Judge",
+                    "Includes additional judges, assistant judges, and other judicial officers",
+                    "Provides clarity in judicial hierarchy",
+                    "Ensures uniform understanding across states"
+                ]
+            },
+            {
+                "heading": "Article 237 – Application to Magistrates",
+                "points": [
+                    "Allows Governor to apply provisions to magistrates",
+                    "Ensures integration of magistracy with judicial system",
+                    "Strengthens uniform judicial administration",
+                    "Bridges executive-judicial transition in some cases"
+                ]
+            },
+            {
+                "heading": "Key Features of Constitutional Provisions",
+                "points": [
+                    "Ensure independence of subordinate judiciary",
+                    "Maintain High Court supervision",
+                    "Provide structured recruitment system",
+                    "Ensure uniform judicial framework across states"
+                ]
+            },
+            {
+                "heading": "Importance of These Provisions",
+                "points": [
+                    "Protects judiciary from executive interference",
+                    "Ensures fair and transparent recruitment",
+                    "Strengthens judicial hierarchy",
+                    "Improves efficiency of justice delivery system"
+                ]
+            },
+            {
+                "heading": "Challenges in Implementation",
+                "points": [
+                    "Delay in recruitment of judicial officers",
+                    "Large number of vacancies in lower judiciary",
+                    "Case backlog at district level",
+                    "Administrative delays in promotions and postings"
+                ]
+            },
+            {
+                "heading": "Conclusion (UPSC Perspective)",
+                "points": [
+                    "Articles 233–237 form the backbone of subordinate judiciary",
+                    "High Court control ensures judicial independence",
+                    "Governor plays limited but important role in appointments",
+                    "Essential for maintaining rule of law at grassroots level"
+                ]
+            },
+            {
+                "heading": "Important Constitutional Articles",
+                "points": [
+                    "Article 233: Appointment of District Judges",
+                    "Article 234: Recruitment of judicial officers",
+                    "Article 235: Control over subordinate courts",
+                    "Article 236: Definitions of judicial terms",
+                    "Article 237: Application of provisions"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Article 235 is most important (High Court control)",
+                    "Governor appoints District Judges in consultation with High Court",
+                    "State PSC involved in recruitment of lower judiciary",
+                    "Subordinate judiciary is backbone of justice system",
+                    "Ensures separation of judiciary from executive"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Article related to control over subordinate courts is:",
+                    "options": [
+                        "233",
+                        "234",
+                        "235",
+                        "236"
+                    ],
+                    "answer": "235"
+                },
+                {
+                    "question": "District Judges are appointed by:",
+                    "options": [
+                        "President",
+                        "Governor",
+                        "Chief Justice of India",
+                        "Prime Minister"
+                    ],
+                    "answer": "Governor"
+                },
+                {
+                    "question": "Recruitment of judicial officers is done by:",
+                    "options": [
+                        "UPSC",
+                        "State PSC",
+                        "Parliament",
+                        "High Court only"
+                    ],
+                    "answer": "State PSC"
+                },
+                {
+                    "question": "Article defining judicial terms is:",
+                    "options": [
+                        "235",
+                        "236",
+                        "237",
+                        "233"
+                    ],
+                    "answer": "236"
+                },
+                {
+                    "question": "Subordinate courts are controlled by:",
+                    "options": [
+                        "Governor",
+                        "High Court",
+                        "Supreme Court",
+                        "Parliament"
+                    ],
+                    "answer": "High Court"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Article 233 deals with:",
+                    "options": [
+                        "Appointment of District Judges",
+                        "Fundamental Rights",
+                        "Election process",
+                        "Budget system"
+                    ],
+                    "answer": "Appointment of District Judges"
+                },
+                {
+                    "question": "Article 237 relates to:",
+                    "options": [
+                        "High Court establishment",
+                        "Application of provisions to magistrates",
+                        "Writ jurisdiction",
+                        "Taxation system"
+                    ],
+                    "answer": "Application of provisions to magistrates"
+                },
+                {
+                    "question": "High Court control ensures:",
+                    "options": [
+                        "Executive dominance",
+                        "Judicial independence",
+                        "Political control",
+                        "Military control"
+                    ],
+                    "answer": "Judicial independence"
+                },
+                {
+                    "question": "District Judges may be appointed through:",
+                    "options": [
+                        "Direct election",
+                        "Promotion and direct recruitment",
+                        "Parliament selection",
+                        "Governor alone"
+                    ],
+                    "answer": "Promotion and direct recruitment"
+                },
+                {
+                    "question": "Main purpose of Articles 233–237 is:",
+                    "options": [
+                        "Military control",
+                        "Judicial structure and independence",
+                        "Tax collection",
+                        "Election management"
+                    ],
+                    "answer": "Judicial structure and independence"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Article 235 gives control to High Court\n2. Article 234 involves State PSC\n3. Article 233 allows Governor appointment of District Judges",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "All"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Subordinate judiciary is controlled by Parliament",
+                        "High Court controls subordinate judiciary",
+                        "Governor controls all judges",
+                        "President directly controls lower courts"
+                    ],
+                    "answer": "High Court controls subordinate judiciary"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Article 236 defines judicial terms",
+                        "Article 235 gives High Court control",
+                        "Judges are elected by people",
+                        "Article 233 deals with District Judges"
+                    ],
+                    "answer": "Judges are elected by people"
+                },
+                {
+                    "question": "Main constitutional objective of these provisions is:",
+                    "options": [
+                        "Executive dominance",
+                        "Judicial independence and structure",
+                        "Military control",
+                        "Political election system"
+                    ],
+                    "answer": "Judicial independence and structure"
+                },
+                {
+                    "question": "Final nature of subordinate judiciary provisions is:",
+                    "options": [
+                        "Administrative rules",
+                        "Constitutional framework for justice",
+                        "Political guidelines",
+                        "Economic policy"
+                    ],
+                    "answer": "Constitutional framework for justice"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Structure and Jurisdiction of Subordinate Courts",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Subordinate courts form the lowest tier of the Indian judiciary below High Courts",
+                    "They deal with civil and criminal cases at district and lower levels",
+                    "Their structure and jurisdiction vary slightly across states",
+                    "They function under the control of High Courts (Article 235)"
+                ]
+            },
+            {
+                "heading": "Structure of Subordinate Judiciary",
+                "points": [
+                    "District Courts at the top of district judiciary",
+                    "Civil Courts for civil disputes",
+                    "Criminal Courts for criminal cases",
+                    "Magistrate Courts for minor offences",
+                    "Special Courts for specific matters like family, labour, etc."
+                ]
+            },
+            {
+                "heading": "District Court",
+                "points": [
+                    "Highest court at district level",
+                    "Presided over by District Judge",
+                    "Hears civil and criminal cases",
+                    "Acts as appellate court for subordinate courts",
+                    "Controls lower courts in the district"
+                ]
+            },
+            {
+                "heading": "Civil Courts",
+                "points": [
+                    "Handle civil disputes like property, contracts, and family matters",
+                    "Hierarchy includes Junior Civil Judge and Senior Civil Judge",
+                    "Follow Civil Procedure Code (CPC)",
+                    "No criminal jurisdiction"
+                ]
+            },
+            {
+                "heading": "Criminal Courts",
+                "points": [
+                    "Deal with criminal offences and punishments",
+                    "Include Judicial Magistrates and Sessions Courts",
+                    "Follow Criminal Procedure Code (CrPC)",
+                    "Sessions Court handles serious offences like murder and rape"
+                ]
+            },
+            {
+                "heading": "Magistrate Courts",
+                "points": [
+                    "Deal with minor criminal offences",
+                    "Judicial Magistrates try cases with limited punishment",
+                    "Executive Magistrates handle administrative duties (in some cases)",
+                    "Serve as first level of criminal justice system"
+                ]
+            },
+            {
+                "heading": "Special Courts",
+                "points": [
+                    "Created for specific types of cases",
+                    "Examples include Family Courts, Labour Courts, Anti-Corruption Courts",
+                    "Help in speedy disposal of cases",
+                    "Reduce burden on regular courts"
+                ]
+            },
+            {
+                "heading": "Original Jurisdiction",
+                "points": [
+                    "Subordinate courts are first courts to hear most cases",
+                    "Handle both civil and criminal cases at first instance",
+                    "Majority of disputes begin here",
+                    "Fact-finding and evidence collection happens at this level"
+                ]
+            },
+            {
+                "heading": "Appellate Jurisdiction",
+                "points": [
+                    "District Courts hear appeals from lower courts within district",
+                    "Review decisions of Civil and Magistrate Courts",
+                    "Ensure correction of legal errors",
+                    "Further appeals go to High Court"
+                ]
+            },
+            {
+                "heading": "Criminal Jurisdiction",
+                "points": [
+                    "Magistrates handle minor offences",
+                    "Sessions Courts handle serious offences",
+                    "Punishment depends on severity of crime",
+                    "Follow CrPC for trial procedure"
+                ]
+            },
+            {
+                "heading": "Civil Jurisdiction",
+                "points": [
+                    "Deals with disputes between individuals or organizations",
+                    "Includes property, contract, and family disputes",
+                    "Governed by Civil Procedure Code",
+                    "Relief includes compensation or injunction"
+                ]
+            },
+            {
+                "heading": "Territorial Jurisdiction",
+                "points": [
+                    "Each court has authority within a specific geographical area",
+                    "Usually district or sub-district level",
+                    "Ensures proper distribution of cases",
+                    "Prevents jurisdictional conflicts"
+                ]
+            },
+            {
+                "heading": "Importance of Structure and Jurisdiction",
+                "points": [
+                    "Ensures organized justice delivery system",
+                    "Reduces burden on High Courts and Supreme Court",
+                    "Provides access to justice at local level",
+                    "Ensures specialization in civil and criminal matters"
+                ]
+            },
+            {
+                "heading": "Challenges",
+                "points": [
+                    "Huge backlog of cases",
+                    "Shortage of judges and staff",
+                    "Delays in case disposal",
+                    "Infrastructure limitations in rural areas"
+                ]
+            },
+            {
+                "heading": "Conclusion (UPSC Perspective)",
+                "points": [
+                    "Structure and jurisdiction of subordinate courts form backbone of judiciary",
+                    "They ensure justice at grassroots level",
+                    "District Courts play key appellate role",
+                    "Efficient functioning is essential for judicial reforms"
+                ]
+            },
+            {
+                "heading": "Important Constitutional Articles",
+                "points": [
+                    "Article 233: Appointment of District Judges",
+                    "Article 234: Recruitment of judicial officers",
+                    "Article 235: Control over subordinate courts",
+                    "Article 236: Definitions",
+                    "Article 237: Application of provisions"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "District Court is highest at district level",
+                    "Civil and criminal courts form main structure",
+                    "Subordinate courts handle majority of cases",
+                    "High Court supervises them under Article 235",
+                    "Jurisdiction is territorial and subject-wise"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Highest court at district level is:",
+                    "options": [
+                        "Civil Court",
+                        "District Court",
+                        "High Court",
+                        "Supreme Court"
+                    ],
+                    "answer": "District Court"
+                },
+                {
+                    "question": "Civil courts deal with:",
+                    "options": [
+                        "Criminal offences",
+                        "Civil disputes",
+                        "Election cases",
+                        "Military cases"
+                    ],
+                    "answer": "Civil disputes"
+                },
+                {
+                    "question": "Criminal cases are handled under:",
+                    "options": [
+                        "CPC",
+                        "CrPC",
+                        "IPC only",
+                        "Evidence Act only"
+                    ],
+                    "answer": "CrPC"
+                },
+                {
+                    "question": "Subordinate courts are controlled by:",
+                    "options": [
+                        "Governor",
+                        "High Court",
+                        "Supreme Court",
+                        "Parliament"
+                    ],
+                    "answer": "High Court"
+                },
+                {
+                    "question": "Magistrate courts deal with:",
+                    "options": [
+                        "High-level constitutional cases",
+                        "Minor criminal cases",
+                        "Tax cases",
+                        "Election disputes"
+                    ],
+                    "answer": "Minor criminal cases"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Original jurisdiction means:",
+                    "options": [
+                        "Hearing appeals only",
+                        "First instance hearing of cases",
+                        "Judicial review",
+                        "Legislative control"
+                    ],
+                    "answer": "First instance hearing of cases"
+                },
+                {
+                    "question": "Sessions Court handles:",
+                    "options": [
+                        "Minor offences",
+                        "Serious criminal offences",
+                        "Civil disputes only",
+                        "Constitutional cases"
+                    ],
+                    "answer": "Serious criminal offences"
+                },
+                {
+                    "question": "Special courts are created for:",
+                    "options": [
+                        "Delay justice",
+                        "Specific types of cases",
+                        "Political control",
+                        "Military trials only"
+                    ],
+                    "answer": "Specific types of cases"
+                },
+                {
+                    "question": "Territorial jurisdiction refers to:",
+                    "options": [
+                        "Type of crime",
+                        "Geographical area of authority",
+                        "Financial limit",
+                        "Appeal process"
+                    ],
+                    "answer": "Geographical area of authority"
+                },
+                {
+                    "question": "District Court acts as:",
+                    "options": [
+                        "Legislature",
+                        "Appellate court",
+                        "Executive body",
+                        "Election commission"
+                    ],
+                    "answer": "Appellate court"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. District Court is highest in district judiciary\n2. Civil courts handle criminal cases\n3. High Court supervises subordinate courts",
+                    "options": [
+                        "1 and 3",
+                        "2 and 3",
+                        "1 and 2",
+                        "All"
+                    ],
+                    "answer": "1 and 3"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Subordinate courts handle only constitutional cases",
+                        "Subordinate courts handle civil and criminal cases",
+                        "Supreme Court handles all trials",
+                        "Governor controls courts"
+                    ],
+                    "answer": "Subordinate courts handle civil and criminal cases"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Civil courts handle property disputes",
+                        "Criminal courts follow CrPC",
+                        "District Court is lowest court",
+                        "Magistrates handle minor offences"
+                    ],
+                    "answer": "District Court is lowest court"
+                },
+                {
+                    "question": "Main purpose of subordinate courts is:",
+                    "options": [
+                        "Judicial independence at top level",
+                        "Grassroots justice delivery",
+                        "Tax collection",
+                        "Military control"
+                    ],
+                    "answer": "Grassroots justice delivery"
+                },
+                {
+                    "question": "Final nature of subordinate courts system is:",
+                    "options": [
+                        "Executive machinery",
+                        "Structured judicial hierarchy",
+                        "Legislative system",
+                        "Political system"
+                    ],
+                    "answer": "Structured judicial hierarchy"
+                }
+            ]
+        }
+    },
+    {
+        "name": "National Legal Services Authority (NALSA)",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "NALSA stands for National Legal Services Authority",
+                    "It is an apex body to provide free legal services to weaker sections of society",
+                    "Established under the Legal Services Authorities Act, 1987",
+                    "It ensures that justice is not denied due to economic or other disabilities"
+                ]
+            },
+            {
+                "heading": "Constitutional Basis",
+                "points": [
+                    "Derived from Article 39A of the Directive Principles of State Policy",
+                    "Article 39A ensures equal justice and free legal aid",
+                    "NALSA gives practical implementation to this constitutional goal",
+                    "Strengthens access to justice for all citizens"
+                ]
+            },
+            {
+                "heading": "Establishment of NALSA",
+                "points": [
+                    "Formed under the Legal Services Authorities Act, 1987",
+                    "Comes into effect from 1995",
+                    "Headed by the Chief Justice of India as Patron-in-Chief",
+                    "Operates under Ministry of Law and Justice"
+                ]
+            },
+            {
+                "heading": "Composition of NALSA",
+                "points": [
+                    "Chief Justice of India – Patron-in-Chief",
+                    "Senior Supreme Court Judge – Executive Chairman",
+                    "Other members appointed as per rules",
+                    "Assisted by Member Secretary and administrative staff"
+                ]
+            },
+            {
+                "heading": "Objectives of NALSA",
+                "points": [
+                    "Provide free legal aid to eligible persons",
+                    "Organize Lok Adalats for speedy justice",
+                    "Promote legal awareness among citizens",
+                    "Ensure justice for weaker and marginalized sections"
+                ]
+            },
+            {
+                "heading": "Who is Eligible for Free Legal Aid",
+                "points": [
+                    "Members of Scheduled Castes and Scheduled Tribes",
+                    "Women and children",
+                    "Industrial workers",
+                    "Victims of trafficking or disaster",
+                    "Persons with annual income below prescribed limit"
+                ]
+            },
+            {
+                "heading": "Functions of NALSA",
+                "points": [
+                    "Provides legal aid and advice",
+                    "Conducts Lok Adalats for settlement of disputes",
+                    "Spreads legal literacy and awareness",
+                    "Monitors and evaluates legal aid programs"
+                ]
+            },
+            {
+                "heading": "Lok Adalat System",
+                "points": [
+                    "Alternative dispute resolution mechanism",
+                    "Helps in quick and amicable settlement of disputes",
+                    "Decisions are binding like civil court decrees",
+                    "Reduces burden on regular courts"
+                ]
+            },
+            {
+                "heading": "Structure of Legal Services Authorities",
+                "points": [
+                    "NALSA at national level",
+                    "State Legal Services Authority (SLSA) at state level",
+                    "District Legal Services Authority (DLSA) at district level",
+                    "Taluk Legal Services Committees at local level"
+                ]
+            },
+            {
+                "heading": "Importance of NALSA",
+                "points": [
+                    "Ensures access to justice for poor and marginalized",
+                    "Promotes equality before law",
+                    "Reduces judicial backlog through Lok Adalats",
+                    "Strengthens constitutional vision of justice"
+                ]
+            },
+            {
+                "heading": "Challenges",
+                "points": [
+                    "Lack of awareness among people",
+                    "Insufficient infrastructure in rural areas",
+                    "Limited reach of legal aid services",
+                    "Delays in implementation of schemes"
+                ]
+            },
+            {
+                "heading": "Recent Developments",
+                "points": [
+                    "Use of technology for e-Lok Adalats",
+                    "Legal aid clinics in rural and tribal areas",
+                    "Awareness campaigns for legal literacy",
+                    "Focus on speedy dispute resolution"
+                ]
+            },
+            {
+                "heading": "Conclusion (UPSC Perspective)",
+                "points": [
+                    "NALSA plays a key role in ensuring access to justice",
+                    "It bridges gap between law and marginalized sections",
+                    "Strengthens Article 39A of the Constitution",
+                    "Important institution for legal empowerment in India"
+                ]
+            },
+            {
+                "heading": "Important Constitutional Articles",
+                "points": [
+                    "Article 39A: Equal justice and free legal aid",
+                    "Article 14: Equality before law",
+                    "Article 21: Right to life and personal liberty",
+                    "Legal Services Authorities Act, 1987 (statutory basis)"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "NALSA is apex legal aid body in India",
+                    "Chief Justice of India is Patron-in-Chief",
+                    "Promotes Article 39A objective",
+                    "Organizes Lok Adalats for speedy justice",
+                    "Works through national, state, and district levels"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "NALSA stands for:",
+                    "options": [
+                        "National Legal Service Authority",
+                        "National Legal Services Authority",
+                        "National Law Society Authority",
+                        "National Litigation Support Agency"
+                    ],
+                    "answer": "National Legal Services Authority"
+                },
+                {
+                    "question": "NALSA is based on which Article?",
+                    "options": [
+                        "14",
+                        "21",
+                        "32",
+                        "39A"
+                    ],
+                    "answer": "39A"
+                },
+                {
+                    "question": "Head of NALSA is:",
+                    "options": [
+                        "Prime Minister",
+                        "Chief Justice of India",
+                        "President",
+                        "Attorney General"
+                    ],
+                    "answer": "Chief Justice of India"
+                },
+                {
+                    "question": "NALSA was established under:",
+                    "options": [
+                        "Constitution directly",
+                        "Legal Services Authorities Act, 1987",
+                        "CrPC",
+                        "CPC"
+                    ],
+                    "answer": "Legal Services Authorities Act, 1987"
+                },
+                {
+                    "question": "NALSA provides:",
+                    "options": [
+                        "Tax services",
+                        "Free legal aid",
+                        "Military services",
+                        "Election management"
+                    ],
+                    "answer": "Free legal aid"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Lok Adalat is used for:",
+                    "options": [
+                        "Military disputes",
+                        "Speedy dispute settlement",
+                        "Tax collection",
+                        "Police investigation"
+                    ],
+                    "answer": "Speedy dispute settlement"
+                },
+                {
+                    "question": "Article 39A deals with:",
+                    "options": [
+                        "Right to property",
+                        "Free legal aid",
+                        "Freedom of speech",
+                        "Election process"
+                    ],
+                    "answer": "Free legal aid"
+                },
+                {
+                    "question": "NALSA operates under:",
+                    "options": [
+                        "Ministry of Home Affairs",
+                        "Ministry of Law and Justice",
+                        "Supreme Court only",
+                        "Election Commission"
+                    ],
+                    "answer": "Ministry of Law and Justice"
+                },
+                {
+                    "question": "Legal aid is provided to:",
+                    "options": [
+                        "Only rich people",
+                        "Weaker sections of society",
+                        "Judges only",
+                        "Government officers only"
+                    ],
+                    "answer": "Weaker sections of society"
+                },
+                {
+                    "question": "Lok Adalat decisions are:",
+                    "options": [
+                        "Advisory only",
+                        "Binding like court decree",
+                        "Not valid",
+                        "Optional"
+                    ],
+                    "answer": "Binding like court decree"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. NALSA is based on Article 39A\n2. Chief Justice of India heads NALSA\n3. It deals only with criminal cases",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "NALSA is a constitutional body",
+                        "NALSA is a statutory body",
+                        "NALSA is executive body",
+                        "NALSA is legislative body"
+                    ],
+                    "answer": "NALSA is a statutory body"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "NALSA provides legal aid",
+                        "NALSA organizes Lok Adalats",
+                        "NALSA controls Parliament",
+                        "NALSA promotes legal awareness"
+                    ],
+                    "answer": "NALSA controls Parliament"
+                },
+                {
+                    "question": "Main objective of NALSA is:",
+                    "options": [
+                        "Tax collection",
+                        "Access to justice",
+                        "Election control",
+                        "Military governance"
+                    ],
+                    "answer": "Access to justice"
+                },
+                {
+                    "question": "Final nature of NALSA is:",
+                    "options": [
+                        "Judicial reform body",
+                        "Law enforcement agency",
+                        "Political body",
+                        "Military institution"
+                    ],
+                    "answer": "Judicial reform body"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Lok Adalats",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Lok Adalat means 'People’s Court'",
+                    "It is an Alternative Dispute Resolution (ADR) mechanism in India",
+                    "It provides speedy, informal, and cost-effective justice",
+                    "Established under the Legal Services Authorities Act, 1987"
+                ]
+            },
+            {
+                "heading": "Constitutional Basis",
+                "points": [
+                    "Based on Article 39A of the Directive Principles of State Policy",
+                    "Ensures equal justice and free legal aid",
+                    "Promotes access to justice for weaker sections",
+                    "Strengthens constitutional goal of social justice"
+                ]
+            },
+            {
+                "heading": "Legal Framework",
+                "points": [
+                    "Legal Services Authorities Act, 1987 governs Lok Adalats",
+                    "Sections 19 to 22 deal with Lok Adalats",
+                    "Decisions are deemed to be civil court decrees",
+                    "No appeal lies against Lok Adalat award"
+                ]
+            },
+            {
+                "heading": "Types of Lok Adalats",
+                "points": [
+                    "Permanent Lok Adalat (PLA)",
+                    "National Lok Adalat",
+                    "State Lok Adalat",
+                    "District Lok Adalat",
+                    "Mobile Lok Adalat"
+                ]
+            },
+            {
+                "heading": "Permanent Lok Adalat (PLA)",
+                "points": [
+                    "Deals with public utility services like transport, postal, electricity",
+                    "Has both conciliatory and adjudicatory powers",
+                    "Can decide disputes if settlement fails (in certain cases)",
+                    "Continuous and permanent in nature"
+                ]
+            },
+            {
+                "heading": "National Lok Adalat",
+                "points": [
+                    "Held across India on a single day",
+                    "Organized by NALSA",
+                    "Focuses on large-scale settlement of cases",
+                    "Reduces pendency in courts"
+                ]
+            },
+            {
+                "heading": "Cases Taken in Lok Adalat",
+                "points": [
+                    "Civil disputes (property, family, etc.)",
+                    "Compoundable criminal cases",
+                    "Motor accident claims",
+                    "Bank recovery cases",
+                    "Utility bill disputes"
+                ]
+            },
+            {
+                "heading": "Cases NOT Taken",
+                "points": [
+                    "Non-compoundable criminal offences",
+                    "Serious criminal cases like murder or rape",
+                    "Cases requiring detailed evidence and trial",
+                    "Matters involving public interest litigation (PIL)"
+                ]
+            },
+            {
+                "heading": "Features of Lok Adalat",
+                "points": [
+                    "No court fee required",
+                    "Simple and informal procedure",
+                    "Mutual consent of parties is essential",
+                    "Fast disposal of cases",
+                    "Binding decisions"
+                ]
+            },
+            {
+                "heading": "Powers of Lok Adalat",
+                "points": [
+                    "Has powers of a civil court in settlement matters",
+                    "Can summon and enforce attendance of witnesses",
+                    "Can record evidence for settlement purposes",
+                    "Award is final and binding"
+                ]
+            },
+            {
+                "heading": "Advantages of Lok Adalat",
+                "points": [
+                    "Speedy justice delivery",
+                    "Reduces burden on courts",
+                    "Cost-effective for litigants",
+                    "Promotes compromise and harmony",
+                    "Improves access to justice"
+                ]
+            },
+            {
+                "heading": "Limitations",
+                "points": [
+                    "Depends on mutual consent of parties",
+                    "Not suitable for complex legal disputes",
+                    "Lack of awareness among people",
+                    "Limited enforcement in some cases"
+                ]
+            },
+            {
+                "heading": "Importance in Indian Judiciary",
+                "points": [
+                    "Reduces pendency of cases",
+                    "Promotes alternative dispute resolution",
+                    "Strengthens justice delivery system",
+                    "Ensures constitutional goal of equal justice"
+                ]
+            },
+            {
+                "heading": "Conclusion (UPSC Perspective)",
+                "points": [
+                    "Lok Adalats are vital for speedy and affordable justice",
+                    "They reduce burden on traditional courts",
+                    "They promote harmony through settlement",
+                    "Key instrument of legal empowerment in India"
+                ]
+            },
+            {
+                "heading": "Important Constitutional Articles",
+                "points": [
+                    "Article 39A: Equal justice and free legal aid",
+                    "Article 14: Equality before law",
+                    "Article 21: Right to life and liberty"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Lok Adalat = ADR mechanism",
+                    "Based on Legal Services Authorities Act, 1987",
+                    "NALSA organizes National Lok Adalat",
+                    "Award is final and binding like civil court decree",
+                    "No appeal against Lok Adalat decision"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Lok Adalat is also called:",
+                    "options": [
+                        "Supreme Court",
+                        "People’s Court",
+                        "Revenue Court",
+                        "Military Court"
+                    ],
+                    "answer": "People’s Court"
+                },
+                {
+                    "question": "Lok Adalat is based on which Article?",
+                    "options": [
+                        "14",
+                        "21",
+                        "32",
+                        "39A"
+                    ],
+                    "answer": "39A"
+                },
+                {
+                    "question": "Lok Adalat was established under:",
+                    "options": [
+                        "CrPC",
+                        "Legal Services Authorities Act, 1987",
+                        "CPC",
+                        "IPC"
+                    ],
+                    "answer": "Legal Services Authorities Act, 1987"
+                },
+                {
+                    "question": "Lok Adalat decisions are:",
+                    "options": [
+                        "Advisory",
+                        "Binding like civil court decree",
+                        "Optional",
+                        "Appealable"
+                    ],
+                    "answer": "Binding like civil court decree"
+                },
+                {
+                    "question": "Head of NALSA is:",
+                    "options": [
+                        "Prime Minister",
+                        "Chief Justice of India",
+                        "President",
+                        "Attorney General"
+                    ],
+                    "answer": "Chief Justice of India"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Lok Adalat is an example of:",
+                    "options": [
+                        "Judicial review",
+                        "Alternative Dispute Resolution",
+                        "Executive action",
+                        "Legislative process"
+                    ],
+                    "answer": "Alternative Dispute Resolution"
+                },
+                {
+                    "question": "Cases in Lok Adalat are decided on:",
+                    "options": [
+                        "Strict law",
+                        "Mutual compromise",
+                        "Military rules",
+                        "Political decision"
+                    ],
+                    "answer": "Mutual compromise"
+                },
+                {
+                    "question": "Which cases are NOT handled by Lok Adalat?",
+                    "options": [
+                        "Motor accident claims",
+                        "Compoundable cases",
+                        "Murder cases",
+                        "Bank disputes"
+                    ],
+                    "answer": "Murder cases"
+                },
+                {
+                    "question": "National Lok Adalat is organized by:",
+                    "options": [
+                        "Supreme Court",
+                        "NALSA",
+                        "Parliament",
+                        "High Court only"
+                    ],
+                    "answer": "NALSA"
+                },
+                {
+                    "question": "Lok Adalat helps in:",
+                    "options": [
+                        "Increasing litigation",
+                        "Reducing court burden",
+                        "Tax collection",
+                        "Election management"
+                    ],
+                    "answer": "Reducing court burden"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Lok Adalat decisions are binding\n2. No appeal lies against Lok Adalat award\n3. It handles only criminal cases",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Lok Adalat is a constitutional body",
+                        "Lok Adalat is statutory ADR mechanism",
+                        "Lok Adalat is executive body",
+                        "Lok Adalat is legislative body"
+                    ],
+                    "answer": "Lok Adalat is statutory ADR mechanism"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Lok Adalat promotes settlement",
+                        "Lok Adalat requires mutual consent",
+                        "Lok Adalat handles murder cases",
+                        "Lok Adalat reduces backlog"
+                    ],
+                    "answer": "Lok Adalat handles murder cases"
+                },
+                {
+                    "question": "Main objective of Lok Adalat is:",
+                    "options": [
+                        "Delay justice",
+                        "Speedy dispute resolution",
+                        "Tax collection",
+                        "Political control"
+                    ],
+                    "answer": "Speedy dispute resolution"
+                },
+                {
+                    "question": "Final nature of Lok Adalat system is:",
+                    "options": [
+                        "Judicial alternative mechanism",
+                        "Executive system",
+                        "Legislative system",
+                        "Military system"
+                    ],
+                    "answer": "Judicial alternative mechanism"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Permanent Lok Adalats (PLA)",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Permanent Lok Adalats (PLA) are a special form of Lok Adalats",
+                    "They are established for continuous resolution of disputes related to public utility services",
+                    "Introduced under the Legal Services Authorities Act, 1987 (Amendment 2002)",
+                    "They combine conciliation and adjudication functions"
+                ]
+            },
+            {
+                "heading": "Constitutional Basis",
+                "points": [
+                    "Derived from Article 39A of the Constitution",
+                    "Ensures equal justice and free legal aid",
+                    "Promotes access to justice in essential services",
+                    "Strengthens Alternative Dispute Resolution (ADR) system"
+                ]
+            },
+            {
+                "heading": "Legal Framework",
+                "points": [
+                    "Established under Section 22B to 22E of Legal Services Authorities Act, 1987",
+                    "Amendment in 2002 introduced Permanent Lok Adalats",
+                    "Have statutory backing (not constitutional body)",
+                    "Operate under supervision of NALSA"
+                ]
+            },
+            {
+                "heading": "Nature of Permanent Lok Adalats",
+                "points": [
+                    "Permanent in nature (unlike one-time Lok Adalats)",
+                    "Located at district or regional level",
+                    "Deals only with pre-litigation disputes",
+                    "Focus on public utility services"
+                ]
+            },
+            {
+                "heading": "Public Utility Services Covered",
+                "points": [
+                    "Transport services (road, air, rail)",
+                    "Postal and telegraph services",
+                    "Electricity and water supply",
+                    "Insurance services",
+                    "Sanitation and public health services"
+                ]
+            },
+            {
+                "heading": "Composition of PLA",
+                "points": [
+                    "Chairman: District Judge or retired High Court Judge",
+                    "Two other members with experience in public utility services",
+                    "Members appointed by Legal Services Authority",
+                    "Ensure legal and technical expertise"
+                ]
+            },
+            {
+                "heading": "Jurisdiction",
+                "points": [
+                    "Handles disputes related to public utility services",
+                    "Only pre-litigation disputes are accepted",
+                    "Value of dispute should be within prescribed limit (₹1 crore as per rules, subject to change)",
+                    "Cannot handle criminal cases"
+                ]
+            },
+            {
+                "heading": "Functions of PLA",
+                "points": [
+                    "Attempts settlement through conciliation",
+                    "Hears disputes if settlement fails (in specific cases)",
+                    "Ensures speedy dispute resolution",
+                    "Reduces burden on regular courts"
+                ]
+            },
+            {
+                "heading": "Powers of Permanent Lok Adalat",
+                "points": [
+                    "Has civil court powers during proceedings",
+                    "Can summon witnesses and documents",
+                    "Can pass binding awards if settlement fails (except in purely non-compoundable matters)",
+                    "Its decision is final and enforceable"
+                ]
+            },
+            {
+                "heading": "Key Feature: Hybrid Nature",
+                "points": [
+                    "First attempts conciliation between parties",
+                    "If conciliation fails, it can adjudicate (decide the case)",
+                    "Unlike regular Lok Adalats, it has decision-making power",
+                    "Unique blend of mediation and adjudication"
+                ]
+            },
+            {
+                "heading": "Advantages of PLA",
+                "points": [
+                    "Quick disposal of disputes",
+                    "Reduces burden on courts",
+                    "Cost-effective for citizens",
+                    "Ensures continuous dispute resolution mechanism",
+                    "Improves efficiency in public utility sectors"
+                ]
+            },
+            {
+                "heading": "Limitations",
+                "points": [
+                    "Limited to public utility services only",
+                    "Cannot handle serious criminal matters",
+                    "Limited awareness among citizens",
+                    "Dependence on cooperation of parties"
+                ]
+            },
+            {
+                "heading": "Importance in Indian Judiciary",
+                "points": [
+                    "Strengthens Alternative Dispute Resolution system",
+                    "Reduces litigation burden on regular courts",
+                    "Ensures uninterrupted access to essential services",
+                    "Promotes social justice under Article 39A"
+                ]
+            },
+            {
+                "heading": "Conclusion (UPSC Perspective)",
+                "points": [
+                    "Permanent Lok Adalats are crucial for efficient justice delivery",
+                    "They provide specialized dispute resolution for public utility services",
+                    "They combine conciliation and adjudication effectively",
+                    "Important tool for reducing pendency and ensuring access to justice"
+                ]
+            },
+            {
+                "heading": "Important Constitutional Articles",
+                "points": [
+                    "Article 39A: Equal justice and free legal aid",
+                    "Article 14: Equality before law",
+                    "Article 21: Right to life and personal liberty"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "PLA is statutory body under Legal Services Authorities Act, 1987",
+                    "Deals only with public utility services",
+                    "Has both conciliatory and adjudicatory powers",
+                    "Decisions are final and binding",
+                    "Helps reduce burden on judiciary"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Permanent Lok Adalat is established under:",
+                    "options": [
+                        "Constitution of India",
+                        "Legal Services Authorities Act, 1987",
+                        "CrPC",
+                        "CPC"
+                    ],
+                    "answer": "Legal Services Authorities Act, 1987"
+                },
+                {
+                    "question": "PLA mainly deals with:",
+                    "options": [
+                        "Criminal cases",
+                        "Public utility services",
+                        "Election disputes",
+                        "Tax cases"
+                    ],
+                    "answer": "Public utility services"
+                },
+                {
+                    "question": "PLA is based on Article:",
+                    "options": [
+                        "14",
+                        "21",
+                        "32",
+                        "39A"
+                    ],
+                    "answer": "39A"
+                },
+                {
+                    "question": "PLA is:",
+                    "options": [
+                        "Temporary body",
+                        "Permanent body",
+                        "Ad hoc committee",
+                        "Executive body"
+                    ],
+                    "answer": "Permanent body"
+                },
+                {
+                    "question": "PLA decisions are:",
+                    "options": [
+                        "Advisory only",
+                        "Binding and enforceable",
+                        "Non-binding",
+                        "Optional"
+                    ],
+                    "answer": "Binding and enforceable"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "PLA deals with disputes before:",
+                    "options": [
+                        "Post-litigation stage",
+                        "Pre-litigation stage",
+                        "Appeal stage",
+                        "Execution stage only"
+                    ],
+                    "answer": "Pre-litigation stage"
+                },
+                {
+                    "question": "PLA has:",
+                    "options": [
+                        "Only conciliatory powers",
+                        "Only adjudicatory powers",
+                        "Both conciliatory and adjudicatory powers",
+                        "No judicial powers"
+                    ],
+                    "answer": "Both conciliatory and adjudicatory powers"
+                },
+                {
+                    "question": "Which of the following is NOT covered by PLA?",
+                    "options": [
+                        "Electricity disputes",
+                        "Transport disputes",
+                        "Murder cases",
+                        "Insurance disputes"
+                    ],
+                    "answer": "Murder cases"
+                },
+                {
+                    "question": "Chairman of PLA is usually:",
+                    "options": [
+                        "District Judge",
+                        "Prime Minister",
+                        "Governor",
+                        "Police Officer"
+                    ],
+                    "answer": "District Judge"
+                },
+                {
+                    "question": "PLA helps in:",
+                    "options": [
+                        "Increasing litigation",
+                        "Reducing court burden",
+                        "Tax collection",
+                        "Military governance"
+                    ],
+                    "answer": "Reducing court burden"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. PLA handles public utility disputes\n2. It has adjudicatory powers\n3. It handles criminal cases",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "PLA is constitutional body",
+                        "PLA is statutory ADR mechanism",
+                        "PLA is executive body",
+                        "PLA is legislative body"
+                    ],
+                    "answer": "PLA is statutory ADR mechanism"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "PLA is permanent in nature",
+                        "PLA handles electricity disputes",
+                        "PLA handles murder cases",
+                        "PLA reduces litigation"
+                    ],
+                    "answer": "PLA handles murder cases"
+                },
+                {
+                    "question": "Main objective of PLA is:",
+                    "options": [
+                        "Delay justice",
+                        "Speedy resolution of utility disputes",
+                        "Tax collection",
+                        "Election supervision"
+                    ],
+                    "answer": "Speedy resolution of utility disputes"
+                },
+                {
+                    "question": "Final nature of PLA is:",
+                    "options": [
+                        "Judicial ADR institution",
+                        "Executive authority",
+                        "Political body",
+                        "Military institution"
+                    ],
+                    "answer": "Judicial ADR institution"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Family Courts",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Family Courts are special courts established to deal with family and matrimonial disputes",
+                    "They aim to provide speedy and amicable settlement of family-related issues",
+                    "Established under the Family Courts Act, 1984",
+                    "Focus on reconciliation rather than adversarial litigation"
+                ]
+            },
+            {
+                "heading": "Objective of Family Courts",
+                "points": [
+                    "To promote reconciliation and settlement of family disputes",
+                    "To reduce burden on regular civil courts",
+                    "To provide speedy justice in family matters",
+                    "To ensure privacy and sensitivity in handling disputes"
+                ]
+            },
+            {
+                "heading": "Legal Basis",
+                "points": [
+                    "Established under the Family Courts Act, 1984",
+                    "Implemented by State Governments in consultation with High Courts",
+                    "Governed by procedural flexibility (not strictly CPC/CrPC)",
+                    "Aim is informal and conciliatory justice system"
+                ]
+            },
+            {
+                "heading": "Nature of Family Courts",
+                "points": [
+                    "Specialized civil courts",
+                    "Focused on social justice rather than strict legal procedure",
+                    "Encourage mediation and settlement",
+                    "Less formal than regular courts"
+                ]
+            },
+            {
+                "heading": "Jurisdiction of Family Courts",
+                "points": [
+                    "Marriage and divorce disputes",
+                    "Maintenance and alimony cases",
+                    "Child custody and guardianship",
+                    "Property disputes between spouses",
+                    "Adoption and legitimacy issues"
+                ]
+            },
+            {
+                "heading": "Establishment of Family Courts",
+                "points": [
+                    "Established by State Governments",
+                    "Consultation with High Court is mandatory",
+                    "Usually set up in cities with high population",
+                    "One or more Family Courts in a district or area"
+                ]
+            },
+            {
+                "heading": "Composition of Family Courts",
+                "points": [
+                    "Presided over by a Judge appointed by the State Government",
+                    "Preferably a person with experience in law and social work",
+                    "Assisted by counsellors and mediators",
+                    "Focus on reconciliation experts"
+                ]
+            },
+            {
+                "heading": "Procedure in Family Courts",
+                "points": [
+                    "Informal and flexible procedure",
+                    "No strict application of Civil Procedure Code",
+                    "Emphasis on conciliation and settlement",
+                    "In-camera proceedings to ensure privacy"
+                ]
+            },
+            {
+                "heading": "Role of Counsellors",
+                "points": [
+                    "Assist in mediation between parties",
+                    "Help in settlement of disputes",
+                    "Provide psychological and social support",
+                    "Encourage reconciliation of families"
+                ]
+            },
+            {
+                "heading": "Advantages of Family Courts",
+                "points": [
+                    "Speedy resolution of disputes",
+                    "Less formal and less expensive",
+                    "Focus on reconciliation rather than punishment",
+                    "Protects privacy of parties",
+                    "Reduces burden on regular courts"
+                ]
+            },
+            {
+                "heading": "Limitations",
+                "points": [
+                    "Limited number of courts in rural areas",
+                    "Delays due to backlog in some regions",
+                    "Dependence on willingness of parties to settle",
+                    "Lack of awareness among people"
+                ]
+            },
+            {
+                "heading": "Importance in Indian Judiciary",
+                "points": [
+                    "Promotes social harmony in family disputes",
+                    "Ensures sensitive handling of personal matters",
+                    "Reduces litigation burden on civil courts",
+                    "Strengthens alternative dispute resolution system"
+                ]
+            },
+            {
+                "heading": "Conclusion (UPSC Perspective)",
+                "points": [
+                    "Family Courts play a crucial role in resolving personal disputes",
+                    "They emphasize reconciliation over litigation",
+                    "They ensure faster and sensitive justice delivery",
+                    "Important part of India's judicial reform system"
+                ]
+            },
+            {
+                "heading": "Important Constitutional Links",
+                "points": [
+                    "Article 39A: Equal justice and free legal aid",
+                    "Article 14: Equality before law",
+                    "Article 21: Right to life and dignity"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Established under Family Courts Act, 1984",
+                    "Focus on reconciliation and mediation",
+                    "Deals with matrimonial and family disputes",
+                    "Less formal procedure than civil courts",
+                    "State Government establishes with High Court consultation"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Family Courts were established under:",
+                    "options": [
+                        "CrPC",
+                        "Family Courts Act, 1984",
+                        "CPC",
+                        "IPC"
+                    ],
+                    "answer": "Family Courts Act, 1984"
+                },
+                {
+                    "question": "Main purpose of Family Courts is:",
+                    "options": [
+                        "Tax collection",
+                        "Settlement of family disputes",
+                        "Criminal trials",
+                        "Election disputes"
+                    ],
+                    "answer": "Settlement of family disputes"
+                },
+                {
+                    "question": "Family Courts focus on:",
+                    "options": [
+                        "Punishment",
+                        "Reconciliation",
+                        "Tax recovery",
+                        "Military control"
+                    ],
+                    "answer": "Reconciliation"
+                },
+                {
+                    "question": "Family Courts are established by:",
+                    "options": [
+                        "Parliament",
+                        "State Government",
+                        "President",
+                        "Supreme Court"
+                    ],
+                    "answer": "State Government"
+                },
+                {
+                    "question": "Family Courts handle:",
+                    "options": [
+                        "Murder cases",
+                        "Divorce and custody cases",
+                        "Tax disputes",
+                        "Election disputes"
+                    ],
+                    "answer": "Divorce and custody cases"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Family Courts follow:",
+                    "options": [
+                        "Strict CPC procedure",
+                        "Informal procedure",
+                        "Criminal procedure only",
+                        "Military law"
+                    ],
+                    "answer": "Informal procedure"
+                },
+                {
+                    "question": "Proceedings in Family Courts are:",
+                    "options": [
+                        "Public always",
+                        "In-camera (private)",
+                        "Military-based",
+                        "Open for Parliament"
+                    ],
+                    "answer": "In-camera (private)"
+                },
+                {
+                    "question": "Family Courts aim to reduce burden on:",
+                    "options": [
+                        "Police",
+                        "Civil courts",
+                        "Parliament",
+                        "Army"
+                    ],
+                    "answer": "Civil courts"
+                },
+                {
+                    "question": "Counsellors in Family Courts help in:",
+                    "options": [
+                        "Tax collection",
+                        "Mediation and settlement",
+                        "Military training",
+                        "Election process"
+                    ],
+                    "answer": "Mediation and settlement"
+                },
+                {
+                    "question": "Family Courts are mainly:",
+                    "options": [
+                        "Criminal courts",
+                        "Special civil courts",
+                        "Military courts",
+                        "Constitutional courts"
+                    ],
+                    "answer": "Special civil courts"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Family Courts are established under 1984 Act\n2. They follow strict criminal procedure\n3. They focus on reconciliation",
+                    "options": [
+                        "1 and 3",
+                        "2 and 3",
+                        "1 and 2",
+                        "All"
+                    ],
+                    "answer": "1 and 3"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Family Courts are constitutional bodies",
+                        "Family Courts are statutory special courts",
+                        "Family Courts are executive bodies",
+                        "Family Courts are legislative bodies"
+                    ],
+                    "answer": "Family Courts are statutory special courts"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Family Courts handle divorce cases",
+                        "Family Courts ensure privacy",
+                        "Family Courts handle murder cases",
+                        "Family Courts use mediation"
+                    ],
+                    "answer": "Family Courts handle murder cases"
+                },
+                {
+                    "question": "Main objective of Family Courts is:",
+                    "options": [
+                        "Speedy criminal punishment",
+                        "Social and family dispute resolution",
+                        "Tax recovery",
+                        "Election management"
+                    ],
+                    "answer": "Social and family dispute resolution"
+                },
+                {
+                    "question": "Final nature of Family Courts is:",
+                    "options": [
+                        "Social justice mechanism",
+                        "Military institution",
+                        "Political authority",
+                        "Tax authority"
+                    ],
+                    "answer": "Social justice mechanism"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Gram Nyayalayas (Village Courts)",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Gram Nyayalayas are rural courts established to provide justice at the village level",
+                    "They aim to ensure speedy, inexpensive, and accessible justice in rural areas",
+                    "Established under the Gram Nyayalayas Act, 2008",
+                    "They are part of India’s effort to decentralize the justice system"
+                ]
+            },
+            {
+                "heading": "Objective of Gram Nyayalayas",
+                "points": [
+                    "To provide justice at the doorstep of rural population",
+                    "To reduce burden on district and subordinate courts",
+                    "To ensure quick disposal of minor civil and criminal cases",
+                    "To promote access to justice in remote areas"
+                ]
+            },
+            {
+                "heading": "Legal Basis",
+                "points": [
+                    "Established under the Gram Nyayalayas Act, 2008",
+                    "Enacted to implement Article 39A of the Constitution",
+                    "Supported by Directive Principles of State Policy",
+                    "Implemented by State Governments in consultation with High Courts"
+                ]
+            },
+            {
+                "heading": "Jurisdiction of Gram Nyayalayas",
+                "points": [
+                    "Both civil and criminal jurisdiction at village level",
+                    "Handles petty offences and minor disputes",
+                    "Civil disputes like property, wages, and contracts",
+                    "Criminal cases like theft, assault, and minor offences"
+                ]
+            },
+            {
+                "heading": "Structure and Location",
+                "points": [
+                    "Presided over by a Gram Nyayadhikari (Judicial Officer)",
+                    "Established at intermediate Panchayat level or group of villages",
+                    "Mobile courts concept in some areas",
+                    "Focus on accessibility for rural population"
+                ]
+            },
+            {
+                "heading": "Procedure in Gram Nyayalayas",
+                "points": [
+                    "Simple and informal procedure",
+                    "No strict adherence to CPC or CrPC",
+                    "Encourages conciliation and settlement",
+                    "Conducted in local language for better understanding"
+                ]
+            },
+            {
+                "heading": "Nature of Justice",
+                "points": [
+                    "Summary trials for quick disposal",
+                    "Focus on reconciliation and fairness",
+                    "Less legal formalities compared to regular courts",
+                    "Emphasis on substantive justice over technicalities"
+                ]
+            },
+            {
+                "heading": "Powers of Gram Nyayalayas",
+                "points": [
+                    "Can try both civil and criminal cases",
+                    "Can impose fines and pass judgments",
+                    "Have powers similar to Judicial Magistrate First Class",
+                    "Can conduct mobile court sittings"
+                ]
+            },
+            {
+                "heading": "Advantages of Gram Nyayalayas",
+                "points": [
+                    "Brings justice closer to rural people",
+                    "Reduces cost and travel burden",
+                    "Ensures speedy disposal of cases",
+                    "Promotes legal awareness in villages",
+                    "Reduces burden on higher courts"
+                ]
+            },
+            {
+                "heading": "Limitations",
+                "points": [
+                    "Poor implementation in many states",
+                    "Lack of infrastructure and resources",
+                    "Shortage of trained judicial officers",
+                    "Low awareness among rural population"
+                ]
+            },
+            {
+                "heading": "Importance in Indian Judiciary",
+                "points": [
+                    "Strengthens rural justice delivery system",
+                    "Promotes decentralization of judiciary",
+                    "Enhances access to justice for marginalized sections",
+                    "Supports constitutional goal of equal justice"
+                ]
+            },
+            {
+                "heading": "Conclusion (UPSC Perspective)",
+                "points": [
+                    "Gram Nyayalayas are vital for rural justice delivery",
+                    "They ensure speedy and affordable justice at grassroots level",
+                    "They reduce burden on higher courts",
+                    "Key reform in Indian judicial system for inclusivity"
+                ]
+            },
+            {
+                "heading": "Important Constitutional Links",
+                "points": [
+                    "Article 39A: Equal justice and free legal aid",
+                    "Article 14: Equality before law",
+                    "Article 21: Right to life and dignity"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Established under Gram Nyayalayas Act, 2008",
+                    "Deals with rural civil and criminal cases",
+                    "Focus on speedy and inexpensive justice",
+                    "Presided by Gram Nyayadhikari",
+                    "Implemented by State Governments"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Gram Nyayalayas were established under:",
+                    "options": [
+                        "CrPC",
+                        "Gram Nyayalayas Act, 2008",
+                        "CPC",
+                        "IPC"
+                    ],
+                    "answer": "Gram Nyayalayas Act, 2008"
+                },
+                {
+                    "question": "Main purpose of Gram Nyayalayas is:",
+                    "options": [
+                        "Tax collection",
+                        "Rural justice delivery",
+                        "Military trials",
+                        "Election disputes"
+                    ],
+                    "answer": "Rural justice delivery"
+                },
+                {
+                    "question": "Gram Nyayalayas operate at:",
+                    "options": [
+                        "Supreme Court level",
+                        "Village level",
+                        "State capital level",
+                        "International level"
+                    ],
+                    "answer": "Village level"
+                },
+                {
+                    "question": "Gram Nyayadhikari is:",
+                    "options": [
+                        "Police officer",
+                        "Judicial officer",
+                        "Army officer",
+                        "Collector"
+                    ],
+                    "answer": "Judicial officer"
+                },
+                {
+                    "question": "Gram Nyayalayas are based on Article:",
+                    "options": [
+                        "14",
+                        "21",
+                        "32",
+                        "39A"
+                    ],
+                    "answer": "39A"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Gram Nyayalayas deal with:",
+                    "options": [
+                        "Only criminal cases",
+                        "Both civil and criminal cases",
+                        "Only constitutional cases",
+                        "Only tax matters"
+                    ],
+                    "answer": "Both civil and criminal cases"
+                },
+                {
+                    "question": "Procedure in Gram Nyayalayas is:",
+                    "options": [
+                        "Very complex",
+                        "Simple and informal",
+                        "Military-based",
+                        "Strict CPC only"
+                    ],
+                    "answer": "Simple and informal"
+                },
+                {
+                    "question": "Gram Nyayalayas aim to reduce burden on:",
+                    "options": [
+                        "Police stations",
+                        "Higher courts",
+                        "Parliament",
+                        "Army"
+                    ],
+                    "answer": "Higher courts"
+                },
+                {
+                    "question": "Which language is preferred in Gram Nyayalayas?",
+                    "options": [
+                        "Only English",
+                        "Local language",
+                        "Latin",
+                        "French"
+                    ],
+                    "answer": "Local language"
+                },
+                {
+                    "question": "Gram Nyayalayas focus on:",
+                    "options": [
+                        "Speedy justice",
+                        "Delayed justice",
+                        "Tax collection",
+                        "Military control"
+                    ],
+                    "answer": "Speedy justice"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Gram Nyayalayas deal with rural disputes\n2. They follow strict CPC procedure\n3. They promote access to justice",
+                    "options": [
+                        "1 and 3",
+                        "2 and 3",
+                        "1 and 2",
+                        "All"
+                    ],
+                    "answer": "1 and 3"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Gram Nyayalayas are constitutional bodies",
+                        "Gram Nyayalayas are statutory courts",
+                        "Gram Nyayalayas are executive bodies",
+                        "Gram Nyayalayas are political bodies"
+                    ],
+                    "answer": "Gram Nyayalayas are statutory courts"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Gram Nyayalayas handle minor disputes",
+                        "Gram Nyayalayas operate in villages",
+                        "Gram Nyayalayas handle murder trials",
+                        "Gram Nyayalayas use simple procedure"
+                    ],
+                    "answer": "Gram Nyayalayas handle murder trials"
+                },
+                {
+                    "question": "Main objective of Gram Nyayalayas is:",
+                    "options": [
+                        "Delay justice",
+                        "Decentralized rural justice",
+                        "Tax enforcement",
+                        "Election monitoring"
+                    ],
+                    "answer": "Decentralized rural justice"
+                },
+                {
+                    "question": "Final nature of Gram Nyayalayas is:",
+                    "options": [
+                        "Grassroots judicial institution",
+                        "Military body",
+                        "Executive authority",
+                        "Legislative body"
+                    ],
+                    "answer": "Grassroots judicial institution"
+                }
+            ]
+        }
+    }
+]

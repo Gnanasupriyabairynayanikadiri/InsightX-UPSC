@@ -1,0 +1,902 @@
+TOPICS = [
+    {
+        "name": "Medieval India – Climax & Crisis of Mughal Empire: Marathas & Deccan, Rise of Marathas & Early Career of Shivaji",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Late Mughal period witnessed structural crisis in empire due to Deccan overextension",
+                    "Rise of Marathas under Shivaji marked beginning of strong regional resistance",
+                    "Deccan became the main theater of Mughal–regional conflict",
+                    "Shift from consolidation to crisis phase of Mughal Empire",
+                    "Emergence of new political formations challenging Mughal authority"
+                ]
+            },
+            {
+                "heading": "Deccan and Mughal Crisis – Background",
+                "points": [
+                    "Deccan Sultanates (Bijapur, Golconda, Ahmadnagar) were semi-independent powers",
+                    "Mughal expansion into Deccan began under Akbar and intensified under Shah Jahan",
+                    "Constant warfare strained Mughal finances and military resources",
+                    "Geography and distance made administration difficult",
+                    "Local resistance movements gained strength over time"
+                ]
+            },
+            {
+                "heading": "Causes of Crisis in Mughal Deccan Policy",
+                "points": [
+                    "Overextension of empire beyond administrative capacity",
+                    "Continuous warfare with Deccan Sultanates",
+                    "Growing military expenditure",
+                    "Jagir crisis due to limited revenue resources",
+                    "Rise of regional powers like Marathas"
+                ]
+            },
+            {
+                "heading": "Rise of Marathas – Overview",
+                "points": [
+                    "Marathas emerged as a strong regional force in western Deccan",
+                    "Rooted in Bhakti movement and local warrior traditions",
+                    "Developed under leadership of Shivaji",
+                    "Utilized guerrilla warfare tactics in hilly terrain",
+                    "Challenged both Bijapur Sultanate and Mughal Empire"
+                ]
+            },
+            {
+                "heading": "Geographical Advantage of Marathas",
+                "points": [
+                    "Western Ghats provided natural defense",
+                    "Hilly terrain favored guerrilla warfare",
+                    "Forts played key strategic role",
+                    "Difficult terrain limited Mughal cavalry effectiveness",
+                    "Enabled quick mobility and surprise attacks"
+                ]
+            },
+            {
+                "heading": "Early Life of Shivaji",
+                "points": [
+                    "Born in 1630 at Shivneri Fort",
+                    "Son of Shahaji Bhonsle, a Maratha noble in Bijapur service",
+                    "Raised by mother Jijabai who influenced his political vision",
+                    "Influenced by saints like Ramdas",
+                    "Early exposure to military and administrative affairs"
+                ]
+            },
+            {
+                "heading": "Early Career of Shivaji",
+                "points": [
+                    "Captured Torna Fort at young age",
+                    "Gradually took control of several forts in western Maharashtra",
+                    "Built independent power base against Bijapur Sultanate",
+                    "Established control over Pune region",
+                    "Laid foundation of Maratha state"
+                ]
+            },
+            {
+                "heading": "Conflict with Bijapur Sultanate",
+                "points": [
+                    "Bijapur Sultanate attempted to suppress Shivaji",
+                    "Sent generals like Afzal Khan against him later",
+                    "Shivaji used diplomacy and guerrilla tactics",
+                    "Expanded territory during weakening of Bijapur",
+                    "Gradual decline of Sultanate control in region"
+                ]
+            },
+            {
+                "heading": "Military Strategy of Shivaji",
+                "points": [
+                    "Use of guerrilla warfare (hit and run tactics)",
+                    "Strong emphasis on forts and hill forts",
+                    "Fast cavalry movements",
+                    "Avoidance of open battlefield against larger armies",
+                    "Efficient intelligence network"
+                ]
+            },
+            {
+                "heading": "Administrative Foundations by Shivaji",
+                "points": [
+                    "Centralized administration under monarch",
+                    "Revenue system based on assessment of land productivity",
+                    "Promotion of Marathi and local administration",
+                    "Strong military organization",
+                    "Reduced dependency on Mughal or Sultanate systems"
+                ]
+            },
+            {
+                "heading": "Importance of Early Maratha Rise",
+                "points": [
+                    "Marked beginning of regional resistance to Mughal Empire",
+                    "Created strong political identity in Deccan",
+                    "Weakened Bijapur and Golconda Sultanates",
+                    "Set foundation for later Maratha Empire expansion",
+                    "Introduced new warfare style in Indian politics"
+                ]
+            },
+            {
+                "heading": "Mughal Response (Contextual Background)",
+                "points": [
+                    "Initial underestimation of Maratha power",
+                    "Focus remained on Deccan Sultanates",
+                    "Later direct conflict during Aurangzeb’s reign",
+                    "Difficulty in controlling guerrilla warfare",
+                    "Long-term drain on Mughal resources"
+                ]
+            },
+            {
+                "heading": "Historical Significance",
+                "points": [
+                    "Rise of Marathas marked shift from imperial to regional power balance",
+                    "Shivaji emerged as symbol of resistance and state-building",
+                    "Mughal Deccan policy became major cause of imperial decline",
+                    "Introduction of new decentralized political structures",
+                    "Foundation of Maratha Empire as major power in India"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Shivaji was born in:",
+                    "options": [
+                    "1526",
+                    "1630",
+                    "1556",
+                    "1707"
+                    ],
+                    "answer": "1630"
+                },
+                {
+                    "question": "Shivaji’s father was:",
+                    "options": [
+                    "Akbar",
+                    "Shahaji Bhonsle",
+                    "Bairam Khan",
+                    "Rana Sanga"
+                    ],
+                    "answer": "Shahaji Bhonsle"
+                },
+                {
+                    "question": "Maratha territory was mainly in:",
+                    "options": [
+                    "Punjab",
+                    "Western Deccan",
+                    "Bengal",
+                    "Gujarat coast only"
+                    ],
+                    "answer": "Western Deccan"
+                },
+                {
+                    "question": "Shivaji’s warfare strategy is known as:",
+                    "options": [
+                    "Naval warfare",
+                    "Guerrilla warfare",
+                    "Tribal warfare",
+                    "Diplomatic warfare"
+                    ],
+                    "answer": "Guerrilla warfare"
+                },
+                {
+                    "question": "Early opponent of Shivaji was:",
+                    "options": [
+                    "Bijapur Sultanate",
+                    "British Empire",
+                    "Gupta Empire",
+                    "Mauryan Empire"
+                    ],
+                    "answer": "Bijapur Sultanate"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Main geographical advantage of Marathas was:",
+                    "options": [
+                    "Desert region",
+                    "Hilly terrain of Western Ghats",
+                    "River plains",
+                    "Coastal islands only"
+                    ],
+                    "answer": "Hilly terrain of Western Ghats"
+                },
+                {
+                    "question": "Shivaji captured his first major fort:",
+                    "options": [
+                    "Red Fort",
+                    "Torna Fort",
+                    "Agra Fort",
+                    "Golconda Fort"
+                    ],
+                    "answer": "Torna Fort"
+                },
+                {
+                    "question": "Maratha rise initially weakened:",
+                    "options": [
+                    "Mughal Empire directly",
+                    "Deccan Sultanates",
+                    "British Empire",
+                    "Portuguese"
+                    ],
+                    "answer": "Deccan Sultanates"
+                },
+                {
+                    "question": "Shivaji’s administration was mainly:",
+                    "options": [
+                    "Feudal decentralized",
+                    "Centralized monarchy",
+                    "Colonial system",
+                    "Republic system"
+                    ],
+                    "answer": "Centralized monarchy"
+                },
+                {
+                    "question": "Main strength of Maratha military was:",
+                    "options": [
+                    "Elephants",
+                    "Guerrilla tactics and mobility",
+                    "Naval supremacy only",
+                    "Foreign mercenaries"
+                    ],
+                    "answer": "Guerrilla tactics and mobility"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Shivaji used guerrilla warfare strategy\n2. Maratha rise weakened Deccan Sultanates\n3. Marathas initially had strong naval dominance",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Mughal crisis in Deccan was mainly due to:",
+                    "options": [
+                    "Overexpansion and continuous warfare",
+                    "Sea trade decline",
+                    "Religious reforms",
+                    "European invasion"
+                    ],
+                    "answer": "Overexpansion and continuous warfare"
+                },
+                {
+                    "question": "Shivaji’s early career focused on:",
+                    "options": [
+                    "European trade control",
+                    "Fort-based territorial expansion",
+                    "Northern India conquest",
+                    "Religious propagation"
+                    ],
+                    "answer": "Fort-based territorial expansion"
+                },
+                {
+                    "question": "Western Ghats helped Marathas by:",
+                    "options": [
+                    "Increasing agriculture only",
+                    "Providing natural defense for guerrilla warfare",
+                    "Developing trade ports only",
+                    "Reducing military mobility"
+                    ],
+                    "answer": "Providing natural defense for guerrilla warfare"
+                },
+                {
+                    "question": "Rise of Marathas is significant because it:",
+                    "options": [
+                    "Strengthened Mughal unity",
+                    "Marked shift towards regional power politics",
+                    "Ended all wars in India",
+                    "Created colonial rule"
+                    ],
+                    "answer": "Marked shift towards regional power politics"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Medieval India – Treaty of Purandar, Shivaji’s Agra Visit & Aurangzeb’s Deccan Policy (1658–1687)",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Period marks intense Mughal–Maratha conflict and expansion of Aurangzeb’s Deccan policy",
+                    "Treaty of Purandar (1665) was a temporary settlement between Shivaji and Mughals",
+                    "Shivaji’s Agra visit was a turning point in Mughal–Maratha relations",
+                    "Aurangzeb’s long Deccan campaigns (1658–1687) drained Mughal resources",
+                    "Deccan became central to Mughal imperial crisis"
+                ]
+            },
+            {
+                "heading": "Background: Mughal–Maratha Conflict",
+                "points": [
+                    "Maratha power under Shivaji expanded rapidly in western Deccan",
+                    "Mughal governors in Deccan struggled to control Maratha raids",
+                    "Aurangzeb aimed to subdue Marathas as part of imperial consolidation",
+                    "Strategic importance of Deccan increased after Shah Jahan’s reign",
+                    "Conflict became prolonged and resource-intensive"
+                ]
+            },
+            {
+                "heading": "Treaty of Purandar (1665)",
+                "points": [
+                    "Signed between Shivaji and Mughal general Jai Singh I",
+                    "Shivaji was forced to surrender several forts to Mughals",
+                    "He retained limited territories under Mughal suzerainty",
+                    "Agreement included Shivaji’s service under Mughal Empire",
+                    "Temporary peace between Mughals and Marathas"
+                ]
+            },
+            {
+                "heading": "Significance of Treaty of Purandar",
+                "points": [
+                    "Marked temporary setback for Maratha expansion",
+                    "Showed Mughal military pressure in Deccan",
+                    "Created conditions for Shivaji’s diplomatic engagement with Mughals",
+                    "Did not permanently end Maratha resistance",
+                    "Laid foundation for Shivaji’s later resurgence"
+                ]
+            },
+            {
+                "heading": "Shivaji’s Agra Visit (1666)",
+                "points": [
+                    "Shivaji was invited to Aurangzeb’s court in Agra",
+                    "Expected to be honored but was treated disrespectfully",
+                    "Shivaji was placed under house arrest",
+                    "He escaped dramatically from Agra disguised as a religious pilgrim",
+                    "This event greatly increased his prestige among Marathas"
+                ]
+            },
+            {
+                "heading": "Significance of Agra Visit",
+                "points": [
+                    "Became turning point in Mughal–Maratha relations",
+                    "Strengthened Shivaji’s image as a nationalist leader",
+                    "Led to renewed Maratha military expansion",
+                    "Exposed limitations of Mughal diplomacy",
+                    "Increased hostility between Mughals and Marathas"
+                ]
+            },
+            {
+                "heading": "Aurangzeb and the Deccani States (1658–1687)",
+                "points": [
+                    "Aurangzeb focused heavily on Deccan policy during his reign",
+                    "Targeted Bijapur, Golconda, and Maratha forces",
+                    "Aimed to bring entire Deccan under Mughal control",
+                    "Long wars led to exhaustion of imperial resources",
+                    "Deccan became center of Mughal military operations"
+                ]
+            },
+            {
+                "heading": "Aurangzeb’s Deccan Strategy",
+                "points": [
+                    "Systematic annexation of Deccan Sultanates",
+                    "Use of prolonged military sieges and campaigns",
+                    "Appointment of strong governors in Deccan",
+                    "Attempt to isolate Marathas from regional allies",
+                    "Direct imperial supervision of Deccan affairs"
+                ]
+            },
+            {
+                "heading": "Conquest of Bijapur and Golconda",
+                "points": [
+                    "Bijapur was annexed in 1686 after long siege",
+                    "Golconda was conquered in 1687",
+                    "End of Deccan Sultanates as independent powers",
+                    "Expansion of Mughal territorial control in south",
+                    "However, Maratha resistance continued"
+                ]
+            },
+            {
+                "heading": "Conflict with Marathas under Aurangzeb",
+                "points": [
+                    "Marathas continued guerrilla warfare against Mughals",
+                    "Sambhaji (Shivaji’s son) led resistance after Shivaji’s death",
+                    "Mughal forces struggled against mobility of Marathas",
+                    "Continuous warfare led to administrative strain",
+                    "No decisive Mughal victory over Marathas"
+                ]
+            },
+            {
+                "heading": "Problems in Deccan Policy",
+                "points": [
+                    "Overextension of Mughal army in southern India",
+                    "High military expenditure and revenue strain",
+                    "Difficult terrain for conventional warfare",
+                    "Continuous Maratha raids and resistance",
+                    "Weak communication and control over distant provinces"
+                ]
+            },
+            {
+                "heading": "Impact of Deccan Campaigns",
+                "points": [
+                    "Severe financial burden on Mughal Empire",
+                    "Neglect of northern provinces",
+                    "Rise of regional powers like Marathas",
+                    "Weakening of central authority",
+                    "Long-term contribution to Mughal decline"
+                ]
+            },
+            {
+                "heading": "Historical Significance",
+                "points": [
+                    "Treaty of Purandar and Agra visit shaped Mughal–Maratha relations",
+                    "Aurangzeb’s Deccan policy marked peak of territorial expansion but also beginning of decline",
+                    "Maratha resistance emerged stronger after setbacks",
+                    "Deccan wars became central cause of Mughal exhaustion",
+                    "Shift from consolidation to overextension in Mughal history"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Treaty of Purandar was signed in:",
+                    "options": [
+                    "1556",
+                    "1665",
+                    "1707",
+                    "1605"
+                    ],
+                    "answer": "1665"
+                },
+                {
+                    "question": "Shivaji’s Agra visit was during the reign of:",
+                    "options": [
+                    "Akbar",
+                    "Jahangir",
+                    "Aurangzeb",
+                    "Shah Jahan"
+                    ],
+                    "answer": "Aurangzeb"
+                },
+                {
+                    "question": "Bijapur and Golconda were located in:",
+                    "options": [
+                    "Punjab",
+                    "Deccan",
+                    "Bengal",
+                    "Gujarat"
+                    ],
+                    "answer": "Deccan"
+                },
+                {
+                    "question": "Shivaji escaped from Agra in disguise as a:",
+                    "options": [
+                    "Soldier",
+                    "Religious pilgrim",
+                    "Merchant",
+                    "Farmer"
+                    ],
+                    "answer": "Religious pilgrim"
+                },
+                {
+                    "question": "Aurangzeb’s Deccan policy lasted mainly during:",
+                    "options": [
+                    "1556–1605",
+                    "1658–1687",
+                    "1707–1750",
+                    "1526–1556"
+                    ],
+                    "answer": "1658–1687"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Treaty of Purandar involved Shivaji surrendering:",
+                    "options": [
+                    "Entire empire",
+                    "Several forts to Mughals",
+                    "Sea ports only",
+                    "Religious authority"
+                    ],
+                    "answer": "Several forts to Mughals"
+                },
+                {
+                    "question": "Shivaji’s Agra visit resulted in:",
+                    "options": [
+                    "Permanent alliance",
+                    "House arrest and escape",
+                    "Defeat in war",
+                    "Conversion to Mughal service"
+                    ],
+                    "answer": "House arrest and escape"
+                },
+                {
+                    "question": "Aurangzeb’s main objective in Deccan was:",
+                    "options": [
+                    "European trade control",
+                    "Full territorial annexation",
+                    "Religious conversion",
+                    "Naval expansion"
+                    ],
+                    "answer": "Full territorial annexation"
+                },
+                {
+                    "question": "Maratha warfare strategy against Mughals was mainly:",
+                    "options": [
+                    "Naval warfare",
+                    "Guerrilla warfare",
+                    "Air warfare",
+                    "Tribal migration"
+                    ],
+                    "answer": "Guerrilla warfare"
+                },
+                {
+                    "question": "Main impact of Deccan wars was:",
+                    "options": [
+                    "Strengthening Mughal treasury",
+                    "Financial strain on empire",
+                    "End of wars in India",
+                    "European colonization"
+                    ],
+                    "answer": "Financial strain on empire"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Treaty of Purandar was a permanent peace treaty\n2. Shivaji escaped from Agra after house arrest\n3. Aurangzeb’s Deccan policy contributed to Mughal decline",
+                    "options": [
+                    "2 and 3 only",
+                    "1 and 2 only",
+                    "1 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "2 and 3 only"
+                },
+                {
+                    "question": "Aurangzeb’s Deccan campaigns were difficult mainly due to:",
+                    "options": [
+                    "Strong naval power",
+                    "Geography and guerrilla warfare",
+                    "European interference",
+                    "Religious unity"
+                    ],
+                    "answer": "Geography and guerrilla warfare"
+                },
+                {
+                    "question": "Significance of Agra visit lies in:",
+                    "options": [
+                    "Maratha defeat",
+                    "Increase in Shivaji’s prestige",
+                    "End of Mughal rule",
+                    "British intervention"
+                    ],
+                    "answer": "Increase in Shivaji’s prestige"
+                },
+                {
+                    "question": "Bijapur and Golconda were annexed in:",
+                    "options": [
+                    "1605",
+                    "1686–1687",
+                    "1556–1560",
+                    "1707"
+                    ],
+                    "answer": "1686–1687"
+                },
+                {
+                    "question": "Mughal Deccan policy under Aurangzeb is best described as:",
+                    "options": [
+                    "Limited engagement",
+                    "Overextension and exhaustion",
+                    "Naval expansion",
+                    "Peaceful administration"
+                    ],
+                    "answer": "Overextension and exhaustion"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Medieval India – Marathas & Deccan (1687–1707), Assessment of Aurangzeb & Jagirdari Crisis",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Period (1687–1707) represents the peak of Mughal–Maratha conflict in the Deccan",
+                    "Aurangzeb’s long Deccan campaign led to overextension of Mughal Empire",
+                    "Marathas transformed into a resilient political-military power after Shivaji’s death",
+                    "Jagirdari crisis intensified due to shortage of revenue assignments",
+                    "This phase marks the beginning of visible Mughal imperial decline"
+                ]
+            },
+            {
+                "heading": "Marathas and the Deccan (1687–1707) – Background",
+                "points": [
+                    "After annexation of Bijapur (1686) and Golconda (1687), Aurangzeb focused on Marathas",
+                    "Marathas under Sambhaji and later Rajaram continued resistance",
+                    "Deccan became the main battlefield of Mughal Empire",
+                    "Mughal army remained engaged in prolonged guerrilla warfare",
+                    "No decisive victory achieved by Mughals despite resources deployed"
+                ]
+            },
+            {
+                "heading": "Maratha Resistance under Sambhaji",
+                "points": [
+                    "Sambhaji (Shivaji’s son) continued Maratha struggle after Shivaji’s death",
+                    "Adopted aggressive resistance against Mughal forces",
+                    "Captured and executed by Mughals in 1689",
+                    "His death did not end Maratha resistance",
+                    "Inspired continued guerrilla warfare"
+                ]
+            },
+            {
+                "heading": "Maratha Recovery under Rajaram",
+                "points": [
+                    "Rajaram shifted Maratha capital to Jinji (Tamil region)",
+                    "Continued resistance against Mughal forces",
+                    "Strengthened decentralized Maratha military structure",
+                    "Encouraged guerrilla warfare tactics",
+                    "Maintained Maratha political continuity"
+                ]
+            },
+            {
+                "heading": "Mughal Military Strategy in Deccan",
+                "points": [
+                    "Continuous siege warfare against forts",
+                    "Large-scale deployment of imperial army in Deccan",
+                    "Attempts to block Maratha mobility",
+                    "Construction of fortifications and garrisons",
+                    "Heavy reliance on provincial governors"
+                ]
+            },
+            {
+                "heading": "Limitations of Mughal Strategy",
+                "points": [
+                    "Guerrilla warfare of Marathas difficult to counter",
+                    "Difficult terrain of Western Ghats and Deccan plateau",
+                    "Extended supply lines weakened Mughal army",
+                    "High military expenditure drained treasury",
+                    "Lack of permanent territorial control"
+                ]
+            },
+            {
+                "heading": "Impact of Continuous Deccan Wars",
+                "points": [
+                    "Severe strain on Mughal financial system",
+                    "Neglect of northern provinces and administration",
+                    "Weakening of central authority",
+                    "Rise of autonomous regional powers",
+                    "Acceleration of imperial decline"
+                ]
+            },
+            {
+                "heading": "Jagirdari Crisis – Overview",
+                "points": [
+                    "Refers to imbalance between available jagirs and number of mansabdars",
+                    "Mughal officials paid through assignment of land revenue (jagirs)",
+                    "Increasing number of nobles created shortage of jagirs",
+                    "Led to administrative and financial instability",
+                    "Became serious during Aurangzeb’s reign"
+                ]
+            },
+            {
+                "heading": "Causes of Jagirdari Crisis",
+                "points": [
+                    "Expansion of nobility and mansabdari ranks",
+                    "Limited agricultural surplus and revenue resources",
+                    "Continuous wars in Deccan increasing military costs",
+                    "Frequent transfer of jagirs reducing stability",
+                    "Over-centralization of revenue system"
+                ]
+            },
+            {
+                "heading": "Consequences of Jagirdari Crisis",
+                "points": [
+                    "Reduced efficiency of mansabdari system",
+                    "Delays in salary payments to nobles",
+                    "Increased corruption and exploitation of peasants",
+                    "Growing discontent among nobility",
+                    "Weakening of administrative structure"
+                ]
+            },
+            {
+                "heading": "Assessment of Aurangzeb",
+                "points": [
+                    "Longest reigning Mughal emperor (1658–1707)",
+                    "Expanded Mughal Empire to its maximum territorial extent",
+                    "Captured Deccan Sultanates but failed to subdue Marathas",
+                    "Strict and orthodox religious policies in later years",
+                    "Military success overshadowed by administrative overextension"
+                ]
+            },
+            {
+                "heading": "Achievements of Aurangzeb",
+                "points": [
+                    "Annexation of Bijapur and Golconda",
+                    "Expansion of Mughal territorial control in South India",
+                    "Strong military leadership in early reign",
+                    "Maintenance of centralized administration",
+                    "Temporary suppression of several regional powers"
+                ]
+            },
+            {
+                "heading": "Failures of Aurangzeb",
+                "points": [
+                    "Inability to defeat Marathas decisively",
+                    "Overextension of empire into Deccan",
+                    "Financial strain due to prolonged wars",
+                    "Rise of regional resistance movements",
+                    "Weakening of Mughal central authority"
+                ]
+            },
+            {
+                "heading": "Link between Deccan Wars and Mughal Decline",
+                "points": [
+                    "Deccan campaigns drained imperial resources",
+                    "Military overstretch weakened governance in North India",
+                    "Jagirdari crisis intensified administrative instability",
+                    "Marathas emerged as dominant regional power",
+                    "Set stage for fragmentation after Aurangzeb’s death"
+                ]
+            },
+            {
+                "heading": "Historical Significance",
+                "points": [
+                    "Marks transition from Mughal peak to decline phase",
+                    "Marathas emerge as major political force in India",
+                    "Deccan becomes center of imperial exhaustion",
+                    "Structural weaknesses of Mughal administration exposed",
+                    "End of effective centralized Mughal control after 1707"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Bijapur and Golconda were annexed by Aurangzeb in:",
+                    "options": [
+                    "1605–1627",
+                    "1686–1687",
+                    "1556–1600",
+                    "1707–1720"
+                    ],
+                    "answer": "1686–1687"
+                },
+                {
+                    "question": "Sambhaji was the son of:",
+                    "options": [
+                    "Akbar",
+                    "Shivaji",
+                    "Aurangzeb",
+                    "Shah Jahan"
+                    ],
+                    "answer": "Shivaji"
+                },
+                {
+                    "question": "Maratha capital shifted to Jinji under:",
+                    "options": [
+                    "Shivaji",
+                    "Rajaram",
+                    "Shah Jahan",
+                    "Bahadur Shah"
+                    ],
+                    "answer": "Rajaram"
+                },
+                {
+                    "question": "Jagirdari system was mainly related to:",
+                    "options": [
+                    "Religious grants",
+                    "Revenue assignments to mansabdars",
+                    "Trade control",
+                    "Naval administration"
+                    ],
+                    "answer": "Revenue assignments to mansabdars"
+                },
+                {
+                    "question": "Aurangzeb’s reign ended in:",
+                    "options": [
+                    "1605",
+                    "1707",
+                    "1757",
+                    "1628"
+                    ],
+                    "answer": "1707"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Main feature of Maratha warfare was:",
+                    "options": [
+                    "Naval battles only",
+                    "Guerrilla warfare",
+                    "Elephant warfare",
+                    "European artillery only",
+                    "Air warfare"
+                    ],
+                    "answer": "Guerrilla warfare"
+                },
+                {
+                    "question": "Jagirdari crisis occurred mainly due to:",
+                    "options": [
+                    "Excess jagirs",
+                    "Shortage of jagirs compared to mansabdars",
+                    "Foreign invasion",
+                    "Religious conflict"
+                    ],
+                    "answer": "Shortage of jagirs compared to mansabdars"
+                },
+                {
+                    "question": "Main impact of Deccan wars was:",
+                    "options": [
+                    "Strengthening treasury",
+                    "Financial and administrative strain",
+                    "End of empire",
+                    "Industrial growth"
+                    ],
+                    "answer": "Financial and administrative strain"
+                },
+                {
+                    "question": "Sambhaji was executed in:",
+                    "options": [
+                    "1689",
+                    "1707",
+                    "1665",
+                    "1627"
+                    ],
+                    "answer": "1689"
+                },
+                {
+                    "question": "Aurangzeb’s Deccan policy led to:",
+                    "options": [
+                    "Mughal expansion without issues",
+                    "Overextension of empire",
+                    "European colonization",
+                    "Peaceful unification"
+                    ],
+                    "answer": "Overextension of empire"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Jagirdari crisis refers to imbalance between jagirs and mansabdars\n2. Marathas were completely defeated by Aurangzeb\n3. Deccan wars contributed to Mughal decline",
+                    "options": [
+                    "1 and 3 only",
+                    "2 and 3 only",
+                    "1 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "Main reason for Mughal failure in Deccan was:",
+                    "options": [
+                    "Naval weakness",
+                    "Guerrilla warfare and overextension",
+                    "Foreign invasion",
+                    "Religious unity"
+                    ],
+                    "answer": "Guerrilla warfare and overextension"
+                },
+                {
+                    "question": "Rajaram’s contribution was:",
+                    "options": [
+                    "End of Maratha resistance",
+                    "Continuation of resistance from Jinji",
+                    "Alliance with Europeans",
+                    "Conversion to Mughal service"
+                    ],
+                    "answer": "Continuation of resistance from Jinji"
+                },
+                {
+                    "question": "Jagirdari crisis resulted in:",
+                    "options": [
+                    "Administrative efficiency",
+                    "Corruption and noble discontent",
+                    "End of agriculture",
+                    "Trade monopoly"
+                    ],
+                    "answer": "Corruption and noble discontent"
+                },
+                {
+                    "question": "Aurangzeb’s reign is best described as:",
+                    "options": [
+                    "Peak expansion with beginning of decline",
+                    "Colonial rule",
+                    "Republic formation",
+                    "Foreign occupation"
+                    ],
+                    "answer": "Peak expansion with beginning of decline"
+                }
+            ]
+        }
+    }
+]

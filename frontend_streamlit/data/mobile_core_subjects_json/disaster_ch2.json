@@ -1,0 +1,489 @@
+[
+    {
+        "name": "Background & NDMA Act 2005",
+        "notes": [
+            {
+                "heading": "Background of Disaster Management in India",
+                "points": [
+                    "India is highly vulnerable to multiple types of disasters due to its geographical location and climatic conditions",
+                    "About 60% of land is prone to earthquakes, and large areas face floods, cyclones, droughts, and landslides",
+                    "Earlier disaster response in India was reactive rather than proactive",
+                    "Relief work was mainly handled by revenue departments and ad-hoc committees",
+                    "Major disasters like the 1999 Odisha cyclone and 2001 Gujarat earthquake highlighted the need for a structured system",
+                    "Shift from relief-centric approach to risk reduction and preparedness approach"
+                ]
+            },
+            {
+                "heading": "Evolution of Disaster Management System in India",
+                "points": [
+                    "Earlier framework focused only on post-disaster relief",
+                    "Tenth Five Year Plan introduced structured disaster management planning",
+                    "2001 Gujarat earthquake acted as a turning point",
+                    "High-level committee recommended a national disaster management framework",
+                    "Creation of dedicated institutions like NDMA and SDMAs"
+                ]
+            },
+            {
+                "heading": "National Disaster Management Act, 2005 – Overview",
+                "points": [
+                    "Enacted to provide legal and institutional framework for disaster management in India",
+                    "Came into force in December 2005",
+                    "Established a systematic and proactive disaster management structure",
+                    "Focus shifted from relief to preparedness, mitigation, and capacity building",
+                    "Provides multi-level governance structure from national to district level"
+                ]
+            },
+            {
+                "heading": "Key Institutional Structure under NDMA Act 2005",
+                "points": [
+                    "National Disaster Management Authority (NDMA) – apex body headed by Prime Minister",
+                    "State Disaster Management Authority (SDMA) – headed by Chief Minister",
+                    "District Disaster Management Authority (DDMA) – headed by District Collector",
+                    "National Executive Committee (NEC) – assists NDMA in implementation",
+                    "National Disaster Response Force (NDRF) – specialized response force"
+                ]
+            },
+            {
+                "heading": "Functions of NDMA",
+                "points": [
+                    "Laying down policies and guidelines for disaster management",
+                    "Approving national disaster management plans",
+                    "Coordinating enforcement of policies",
+                    "Recommending funds for mitigation and preparedness",
+                    "Promoting training, research, and awareness programs"
+                ]
+            },
+            {
+                "heading": "State and District Level Functions",
+                "points": [
+                    "SDMAs prepare state disaster management plans",
+                    "DDMAs implement disaster plans at district level",
+                    "Local authorities are responsible for community-level preparedness",
+                    "Coordination between central and state agencies is essential",
+                    "Focus on decentralised disaster management"
+                ]
+            },
+            {
+                "heading": "National Disaster Response Force (NDRF)",
+                "points": [
+                    "Specialized force created under NDMA Act 2005",
+                    "Trained for search, rescue, and relief operations",
+                    "Works under Ministry of Home Affairs",
+                    "Deployed during major disasters like floods, earthquakes, cyclones",
+                    "Acts as first responder during emergencies"
+                ]
+            },
+            {
+                "heading": "Key Features of NDMA Act 2005",
+                "points": [
+                    "Legal framework for disaster management in India",
+                    "Multi-tier institutional structure",
+                    "Shift from relief-based to holistic disaster management",
+                    "Emphasis on mitigation and preparedness",
+                    "Integration of disaster management into development planning"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Disaster Management Act was enacted in:",
+                    "options": [
+                        "2001",
+                        "2005",
+                        "2010",
+                        "1999"
+                    ],
+                    "answer": "2005"
+                },
+                {
+                    "question": "NDMA is headed by:",
+                    "options": [
+                        "President",
+                        "Prime Minister",
+                        "Home Minister",
+                        "Governor"
+                    ],
+                    "answer": "Prime Minister"
+                },
+                {
+                    "question": "NDRF stands for:",
+                    "options": [
+                        "National Disaster Relief Force",
+                        "National Disaster Response Force",
+                        "National Development Response Force",
+                        "Natural Disaster Recovery Force"
+                    ],
+                    "answer": "National Disaster Response Force"
+                },
+                {
+                    "question": "District Disaster Management Authority is headed by:",
+                    "options": [
+                        "Chief Minister",
+                        "District Collector",
+                        "Prime Minister",
+                        "SP of Police"
+                    ],
+                    "answer": "District Collector"
+                },
+                {
+                    "question": "Earlier disaster management in India was mainly:",
+                    "options": [
+                        "Preventive",
+                        "Proactive",
+                        "Relief-centric",
+                        "Technology-based"
+                    ],
+                    "answer": "Relief-centric"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "NDMA Act 2005 focuses on:",
+                    "options": [
+                        "Only relief operations",
+                        "Risk reduction and preparedness",
+                        "Only industrial safety",
+                        "Only agriculture protection"
+                    ],
+                    "answer": "Risk reduction and preparedness"
+                },
+                {
+                    "question": "SDMA is headed by:",
+                    "options": [
+                        "Governor",
+                        "Chief Minister",
+                        "District Collector",
+                        "Prime Minister"
+                    ],
+                    "answer": "Chief Minister"
+                },
+                {
+                    "question": "NDRF works under:",
+                    "options": [
+                        "Ministry of Defence",
+                        "Ministry of Home Affairs",
+                        "NDMA directly",
+                        "State Government"
+                    ],
+                    "answer": "Ministry of Home Affairs"
+                },
+                {
+                    "question": "Which disaster highlighted need for NDMA Act?",
+                    "options": [
+                        "Bhopal gas tragedy",
+                        "2001 Gujarat earthquake",
+                        "Kargil war",
+                        "2019 cyclone"
+                    ],
+                    "answer": "2001 Gujarat earthquake"
+                },
+                {
+                    "question": "DDMA stands for:",
+                    "options": [
+                        "District Development Management Authority",
+                        "District Disaster Management Authority",
+                        "Direct Disaster Monitoring Agency",
+                        "District Development Ministry Authority"
+                    ],
+                    "answer": "District Disaster Management Authority"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. NDMA is headed by Prime Minister\n2. NDRF is under Ministry of Home Affairs\n3. Disaster management in India is only state subject",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                        "NDMA – Policy making body",
+                        "NDRF – Planning body",
+                        "SDMA – National authority",
+                        "DDMA – International body"
+                    ],
+                    "answer": "NDMA – Policy making body"
+                },
+                {
+                    "question": "Disaster Management Act 2005 shifted focus to:",
+                    "options": [
+                        "Only relief distribution",
+                        "Military control",
+                        "Risk reduction and preparedness",
+                        "Industrial regulation only"
+                    ],
+                    "answer": "Risk reduction and preparedness"
+                },
+                {
+                    "question": "Which is NOT a feature of NDMA Act?",
+                    "options": [
+                        "Multi-tier structure",
+                        "Focus on mitigation",
+                        "Only post-disaster relief",
+                        "Legal framework for disaster management"
+                    ],
+                    "answer": "Only post-disaster relief"
+                },
+                {
+                    "question": "Main role of NDRF is:",
+                    "options": [
+                        "Policy formulation",
+                        "Search and rescue operations",
+                        "Tax collection",
+                        "Infrastructure planning"
+                    ],
+                    "answer": "Search and rescue operations"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Policy, Plan & Cycle",
+        "notes": [
+            {
+                "heading": "National Policy on Disaster Management (NPDM), 2009",
+                "points": [
+                    "Formulated to create a holistic framework for disaster management in India",
+                    "Shifted focus from reactive relief to proactive risk reduction",
+                    "Emphasizes prevention, mitigation, preparedness, and response",
+                    "Aims to build a safer and disaster-resilient India",
+                    "Promotes community participation and capacity building"
+                ]
+            },
+            {
+                "heading": "Key Features of NPDM 2009",
+                "points": [
+                    "Integration of disaster management with development planning",
+                    "Emphasis on hazard risk assessment and vulnerability reduction",
+                    "Strengthening institutional mechanisms like NDMA, SDMA, DDMA",
+                    "Focus on early warning systems and forecasting",
+                    "Encourages public-private partnership and community involvement"
+                ]
+            },
+            {
+                "heading": "Objectives of NPDM 2009",
+                "points": [
+                    "Minimize loss of lives and property",
+                    "Promote culture of prevention and preparedness",
+                    "Build institutional and community resilience",
+                    "Ensure efficient response mechanisms",
+                    "Strengthen disaster risk reduction at all levels"
+                ]
+            },
+            {
+                "heading": "National Disaster Management Plan (NDMP), 2016",
+                "points": [
+                    "First national plan aligned with Sendai Framework for Disaster Risk Reduction",
+                    "Prepared by National Disaster Management Authority (NDMA)",
+                    "Provides detailed operational guidelines for disaster management",
+                    "Focus on risk reduction and resilience building",
+                    "Covers all types of disasters in a comprehensive manner"
+                ]
+            },
+            {
+                "heading": "Key Features of NDMP 2016",
+                "points": [
+                    "Multi-hazard approach covering natural and man-made disasters",
+                    "Four stages: prevention, mitigation, response, and recovery",
+                    "Clear roles and responsibilities for all stakeholders",
+                    "Emphasis on technology and data-driven disaster management",
+                    "Integration with national development planning"
+                ]
+            },
+            {
+                "heading": "Salient Components of NDMP 2016",
+                "points": [
+                    "Hazard risk assessment and vulnerability mapping",
+                    "Preparedness and capacity building",
+                    "Early warning systems and communication",
+                    "Response and relief coordination",
+                    "Rehabilitation and reconstruction strategies"
+                ]
+            },
+            {
+                "heading": "Disaster Management Cycle in India",
+                "points": [
+                    "A continuous process to manage disasters systematically",
+                    "Focus on reducing risk and improving resilience",
+                    "Involves pre-disaster, during disaster, and post-disaster phases",
+                    "Implemented through NDMA, SDMA, and DDMA",
+                    "Aligned with national policies and plans like NPDM and NDMP"
+                ]
+            },
+            {
+                "heading": "Phases of Disaster Management Cycle in India",
+                "points": [
+                    "Pre-disaster phase – mitigation, prevention, preparedness",
+                    "During disaster phase – response, rescue, and relief operations",
+                    "Post-disaster phase – rehabilitation and reconstruction",
+                    "Recovery phase – restoring normal life and infrastructure",
+                    "Learning and feedback for future risk reduction"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "National Policy on Disaster Management was launched in:",
+                    "options": [
+                        "2005",
+                        "2009",
+                        "2016",
+                        "2010"
+                    ],
+                    "answer": "2009"
+                },
+                {
+                    "question": "NDMP 2016 is aligned with:",
+                    "options": [
+                        "Kyoto Protocol",
+                        "Sendai Framework",
+                        "Paris Agreement",
+                        "Rio Declaration"
+                    ],
+                    "answer": "Sendai Framework"
+                },
+                {
+                    "question": "Main focus of NPDM 2009 is:",
+                    "options": [
+                        "Relief distribution",
+                        "Risk reduction",
+                        "Military response",
+                        "Urban planning only"
+                    ],
+                    "answer": "Risk reduction"
+                },
+                {
+                    "question": "NDMP stands for:",
+                    "options": [
+                        "National Disaster Management Policy",
+                        "National Disaster Management Plan",
+                        "National Development Management Plan",
+                        "Natural Disaster Monitoring Plan"
+                    ],
+                    "answer": "National Disaster Management Plan"
+                },
+                {
+                    "question": "Disaster management cycle includes:",
+                    "options": [
+                        "Only response",
+                        "Only recovery",
+                        "Pre, during, and post disaster phases",
+                        "Only mitigation"
+                    ],
+                    "answer": "Pre, during, and post disaster phases"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "NPDM 2009 emphasizes:",
+                    "options": [
+                        "Only post-disaster relief",
+                        "Community participation",
+                        "Only industrial safety",
+                        "No planning"
+                    ],
+                    "answer": "Community participation"
+                },
+                {
+                    "question": "NDMP 2016 covers:",
+                    "options": [
+                        "Only floods",
+                        "Only earthquakes",
+                        "All types of disasters",
+                        "Only industrial accidents"
+                    ],
+                    "answer": "All types of disasters"
+                },
+                {
+                    "question": "Pre-disaster phase includes:",
+                    "options": [
+                        "Reconstruction",
+                        "Mitigation and preparedness",
+                        "Relief distribution",
+                        "Damage assessment"
+                    ],
+                    "answer": "Mitigation and preparedness"
+                },
+                {
+                    "question": "Which institution prepared NDMP 2016?",
+                    "options": [
+                        "NITI Aayog",
+                        "NDMA",
+                        "Ministry of Finance",
+                        "Supreme Court"
+                    ],
+                    "answer": "NDMA"
+                },
+                {
+                    "question": "Recovery phase includes:",
+                    "options": [
+                        "Search and rescue",
+                        "Evacuation",
+                        "Rehabilitation",
+                        "Early warning"
+                    ],
+                    "answer": "Rehabilitation"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. NPDM 2009 focuses on risk reduction\n2. NDMP 2016 is aligned with Sendai Framework\n3. Disaster management cycle is a one-time process",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                        "NPDM 2009 – Policy framework",
+                        "NDMP 2016 – Law",
+                        "NDMA – Judicial body",
+                        "DDMA – International agency"
+                    ],
+                    "answer": "NPDM 2009 – Policy framework"
+                },
+                {
+                    "question": "NDMP 2016 focuses on:",
+                    "options": [
+                        "Relief only",
+                        "Multi-hazard risk reduction",
+                        "Military operations",
+                        "Taxation policy"
+                    ],
+                    "answer": "Multi-hazard risk reduction"
+                },
+                {
+                    "question": "Which is NOT part of disaster management cycle?",
+                    "options": [
+                        "Preparedness",
+                        "Mitigation",
+                        "Speculation",
+                        "Recovery"
+                    ],
+                    "answer": "Speculation"
+                },
+                {
+                    "question": "Post-disaster phase includes:",
+                    "options": [
+                        "Early warning",
+                        "Mitigation",
+                        "Reconstruction",
+                        "Risk mapping"
+                    ],
+                    "answer": "Reconstruction"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,657 @@
+TOPICS = [
+    {
+        "name": "Water Resource Degradation, Hydrological Cycle & Groundwater Depletion",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Water is a critical natural resource essential for life, agriculture, industry, and ecosystems",
+                    "Water resource degradation refers to decline in quantity and quality of water resources",
+                    "Hydrological cycle explains continuous movement of water on, above, and below Earth’s surface",
+                    "Groundwater depletion is a major environmental concern in India and globally"
+                ]
+            },
+            {
+                "heading": "Water Resource Degradation – Meaning",
+                "points": [
+                    "It refers to deterioration in the quality and availability of water resources",
+                    "Caused by human activities and natural processes",
+                    "Affects surface water (rivers, lakes) and groundwater systems",
+                    "Leads to water scarcity and ecosystem imbalance",
+                    "Directly impacts agriculture, health, and biodiversity"
+                ]
+            },
+            {
+                "heading": "Major Causes of Water Resource Degradation",
+                "points": [
+                    "Industrial discharge of pollutants into water bodies",
+                    "Untreated sewage and domestic waste",
+                    "Excessive use of fertilizers and pesticides in agriculture",
+                    "Over-extraction of groundwater",
+                    "Deforestation and urbanization reducing infiltration"
+                ]
+            },
+            {
+                "heading": "Effects of Water Resource Degradation",
+                "points": [
+                    "Decline in drinking water quality",
+                    "Spread of water-borne diseases",
+                    "Loss of aquatic biodiversity",
+                    "Reduced agricultural productivity",
+                    "Increased water scarcity and conflicts"
+                ]
+            },
+            {
+                "heading": "Hydrological Cycle (Water Cycle) – Meaning",
+                "points": [
+                    "The hydrological cycle is the continuous movement of water on, above, and below the Earth's surface",
+                    "Driven by solar energy and gravity",
+                    "Connects oceans, atmosphere, land, and biosphere",
+                    "Ensures natural redistribution of water resources",
+                    "Essential for maintaining ecological balance"
+                ]
+            },
+            {
+                "heading": "Stages of Hydrological Cycle",
+                "points": [
+                    "Evaporation – water changes from liquid to vapor",
+                    "Transpiration – release of water vapor from plants",
+                    "Condensation – formation of clouds",
+                    "Precipitation – rainfall, snow, hail",
+                    "Runoff and infiltration – movement into rivers and groundwater"
+                ]
+            },
+            {
+                "heading": "Importance of Hydrological Cycle",
+                "points": [
+                    "Maintains freshwater availability on Earth",
+                    "Supports agriculture and food production",
+                    "Regulates climate and weather patterns",
+                    "Recharges groundwater systems",
+                    "Sustains ecosystems and biodiversity"
+                ]
+            },
+            {
+                "heading": "Human Impact on Hydrological Cycle",
+                "points": [
+                    "Deforestation reduces evapotranspiration",
+                    "Urbanization increases surface runoff",
+                    "Climate change alters rainfall patterns",
+                    "Pollution contaminates water bodies",
+                    "Overuse of groundwater disrupts natural balance"
+                ]
+            },
+            {
+                "heading": "Availability of Water Resources – Overview",
+                "points": [
+                    "Earth is mostly covered by water but only a small fraction is freshwater",
+                    "Most freshwater is stored in glaciers and groundwater",
+                    "Surface water includes rivers, lakes, and reservoirs",
+                    "Unequal spatial and temporal distribution of water",
+                    "India faces both water scarcity and water stress regions"
+                ]
+            },
+            {
+                "heading": "Groundwater – Meaning",
+                "points": [
+                    "Groundwater is water stored beneath the Earth's surface in aquifers",
+                    "It is a major source of drinking and irrigation water",
+                    "Recharged through rainfall and infiltration",
+                    "Acts as a buffer during droughts",
+                    "More reliable than surface water in many regions"
+                ]
+            },
+            {
+                "heading": "Groundwater Depletion – Meaning",
+                "points": [
+                    "Groundwater depletion refers to excessive withdrawal of groundwater beyond recharge levels",
+                    "Leads to declining water tables",
+                    "Common in agricultural and urban regions",
+                    "Caused by unsustainable water use practices",
+                    "A serious environmental and economic issue"
+                ]
+            },
+            {
+                "heading": "Causes of Groundwater Depletion",
+                "points": [
+                    "Excessive irrigation using tube wells",
+                    "Rapid urbanization and population growth",
+                    "Industries extracting large volumes of water",
+                    "Low rainfall and drought conditions",
+                    "Poor water management practices"
+                ]
+            },
+            {
+                "heading": "Effects of Groundwater Depletion",
+                "points": [
+                    "Lowering of water table",
+                    "Drying of wells and springs",
+                    "Increased pumping costs",
+                    "Land subsidence in extreme cases",
+                    "Saltwater intrusion in coastal areas"
+                ]
+            },
+            {
+                "heading": "Groundwater Depletion in India",
+                "points": [
+                    "Punjab, Haryana, Rajasthan, and parts of Tamil Nadu are highly stressed",
+                    "Overuse for irrigation of water-intensive crops like paddy and sugarcane",
+                    "Uneven rainfall distribution increases dependency on groundwater",
+                    "Urban centers face acute groundwater stress",
+                    "Central Ground Water Board (CGWB) monitors groundwater levels"
+                ]
+            },
+            {
+                "heading": "Solutions to Water Resource Degradation",
+                "points": [
+                    "Wastewater treatment and recycling",
+                    "Rainwater harvesting systems",
+                    "Efficient irrigation techniques (drip and sprinkler)",
+                    "Afforestation to improve infiltration",
+                    "Strict regulation of industrial discharge"
+                ]
+            },
+            {
+                "heading": "Sustainable Groundwater Management",
+                "points": [
+                    "Artificial recharge of aquifers",
+                    "Crop diversification to reduce water demand",
+                    "Regulation of borewell drilling",
+                    "Community-based water management",
+                    "Use of water-efficient technologies"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Hydrological cycle is driven mainly by:",
+                    "options": [
+                    "Wind energy",
+                    "Solar energy",
+                    "Geothermal energy",
+                    "Tidal energy"
+                    ],
+                    "answer": "Solar energy"
+                },
+                {
+                    "question": "Main source of groundwater recharge is:",
+                    "options": [
+                    "Evaporation",
+                    "Rainfall infiltration",
+                    "Ocean currents",
+                    "Snow melting only"
+                    ],
+                    "answer": "Rainfall infiltration"
+                },
+                {
+                    "question": "Groundwater is stored in:",
+                    "options": [
+                    "Rocks and aquifers",
+                    "Atmosphere",
+                    "Forests",
+                    "Mountains only"
+                    ],
+                    "answer": "Rocks and aquifers"
+                },
+                {
+                    "question": "Water cycle includes:",
+                    "options": [
+                    "Only evaporation",
+                    "Evaporation and precipitation",
+                    "Only condensation",
+                    "Only runoff"
+                    ],
+                    "answer": "Evaporation and precipitation"
+                },
+                {
+                    "question": "Main cause of groundwater depletion is:",
+                    "options": [
+                    "Rainfall increase",
+                    "Over-extraction",
+                    "Ocean evaporation",
+                    "Cloud formation"
+                    ],
+                    "answer": "Over-extraction"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Transpiration is related to:",
+                    "options": [
+                    "Animals",
+                    "Plants",
+                    "Rocks",
+                    "Soil only"
+                    ],
+                    "answer": "Plants"
+                },
+                {
+                    "question": "Saltwater intrusion occurs in:",
+                    "options": [
+                    "Mountain areas",
+                    "Coastal aquifers",
+                    "Forests",
+                    "Deserts only"
+                    ],
+                    "answer": "Coastal aquifers"
+                },
+                {
+                    "question": "Water resource degradation leads to:",
+                    "options": [
+                    "Improved water quality",
+                    "Water scarcity",
+                    "Increased rainfall",
+                    "Soil formation"
+                    ],
+                    "answer": "Water scarcity"
+                },
+                {
+                    "question": "Aquifers are:",
+                    "options": [
+                    "Air pockets",
+                    "Water-bearing rock layers",
+                    "Forest areas",
+                    "Cloud systems"
+                    ],
+                    "answer": "Water-bearing rock layers"
+                },
+                {
+                    "question": "Rainwater harvesting helps in:",
+                    "options": [
+                    "Groundwater recharge",
+                    "Air pollution",
+                    "Deforestation",
+                    "Mining"
+                    ],
+                    "answer": "Groundwater recharge"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Hydrological cycle includes evaporation and precipitation\n2. Groundwater depletion increases water security\n3. Urbanization increases surface runoff",
+                    "options": [
+                    "1 and 3 only",
+                    "2 and 3 only",
+                    "1 and 2 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "Groundwater depletion leads to:",
+                    "options": [
+                    "Higher water table",
+                    "Land subsidence",
+                    "Increased rainfall",
+                    "Forest growth"
+                    ],
+                    "answer": "Land subsidence"
+                },
+                {
+                    "question": "Infiltration refers to:",
+                    "options": [
+                    "Water flowing on surface",
+                    "Water entering soil",
+                    "Cloud formation",
+                    "Ocean movement"
+                    ],
+                    "answer": "Water entering soil"
+                },
+                {
+                    "question": "CGWB is related to:",
+                    "options": [
+                    "Groundwater monitoring",
+                    "Air pollution",
+                    "Space research",
+                    "Forest management"
+                    ],
+                    "answer": "Groundwater monitoring"
+                },
+                {
+                    "question": "Water scarcity is mainly caused by:",
+                    "options": [
+                    "Excess rainfall",
+                    "Uneven distribution and overuse",
+                    "Cloud formation",
+                    "Ocean tides"
+                    ],
+                    "answer": "Uneven distribution and overuse"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Water-borne & Water-induced Diseases, Fluoride & Arsenic Problem in Drinking Water",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Water quality directly affects human health and ecosystem well-being",
+                    "Contaminated drinking water leads to water-borne and water-induced diseases",
+                    "Fluoride and arsenic contamination are major groundwater quality issues in India",
+                    "These problems are both natural and anthropogenic in origin"
+                ]
+            },
+            {
+                "heading": "Water-borne Diseases – Meaning",
+                "points": [
+                    "Diseases caused by consumption of contaminated water containing pathogens",
+                    "Spread through bacteria, viruses, and parasites in water",
+                    "Common in areas with poor sanitation and unsafe drinking water",
+                    "Major public health concern in developing countries",
+                    "Preventable through clean water and hygiene"
+                ]
+            },
+            {
+                "heading": "Major Water-borne Diseases",
+                "points": [
+                    "Cholera – caused by Vibrio cholerae bacteria",
+                    "Typhoid – caused by Salmonella typhi",
+                    "Dysentery – bacterial or amoebic infection",
+                    "Hepatitis A and E – viral infections affecting liver",
+                    "Diarrhea – caused by multiple pathogens"
+                ]
+            },
+            {
+                "heading": "Causes of Water-borne Diseases",
+                "points": [
+                    "Contaminated drinking water supply",
+                    "Improper sewage disposal",
+                    "Open defecation and poor sanitation",
+                    "Flooding and mixing of sewage with drinking water",
+                    "Lack of water treatment facilities"
+                ]
+            },
+            {
+                "heading": "Prevention of Water-borne Diseases",
+                "points": [
+                    "Safe drinking water supply (treated and filtered)",
+                    "Improved sanitation and hygiene practices",
+                    "Proper sewage treatment systems",
+                    "Awareness campaigns on hygiene",
+                    "Vaccination for specific diseases like typhoid"
+                ]
+            },
+            {
+                "heading": "Water-induced Diseases – Meaning",
+                "points": [
+                    "Diseases caused due to chemical contamination of water",
+                    "Not caused by pathogens but by toxic substances",
+                    "Long-term exposure leads to chronic health issues",
+                    "Common contaminants include fluoride, arsenic, nitrates, and heavy metals",
+                    "Often linked to groundwater pollution"
+                ]
+            },
+            {
+                "heading": "Fluoride Problem in Drinking Water – Introduction",
+                "points": [
+                    "Fluoride is a naturally occurring element found in groundwater",
+                    "Small amounts are beneficial for teeth and bones",
+                    "Excess fluoride causes fluorosis",
+                    "Problem is widespread in arid and semi-arid regions of India",
+                    "Groundwater is the main source of fluoride contamination"
+                ]
+            },
+            {
+                "heading": "Causes of Fluoride Contamination",
+                "points": [
+                    "Geological sources (fluoride-rich rocks)",
+                    "Excessive groundwater extraction",
+                    "Low rainfall and high evaporation",
+                    "Industrial discharge in some regions",
+                    "Use of deep borewells"
+                ]
+            },
+            {
+                "heading": "Effects of Excess Fluoride",
+                "points": [
+                    "Dental fluorosis – discoloration and damage of teeth",
+                    "Skeletal fluorosis – bone and joint deformities",
+                    "Muscle weakness and pain",
+                    "Neurological disorders in severe cases",
+                    "Reduced quality of life"
+                ]
+            },
+            {
+                "heading": "Fluoride Affected Areas in India",
+                "points": [
+                    "Rajasthan – highly affected state",
+                    "Andhra Pradesh and Telangana",
+                    "Gujarat and parts of Madhya Pradesh",
+                    "Karnataka and Tamil Nadu regions",
+                    "Fluoride belt spreads across semi-arid zones"
+                ]
+            },
+            {
+                "heading": "Solutions to Fluoride Problem",
+                "points": [
+                    "Defluoridation techniques (Nalgonda technique)",
+                    "Rainwater harvesting to dilute groundwater",
+                    "Use of alternative water sources",
+                    "Public awareness and health monitoring",
+                    "Fluoride-safe drinking water supply schemes"
+                ]
+            },
+            {
+                "heading": "Arsenic Problem in Drinking Water – Introduction",
+                "points": [
+                    "Arsenic is a toxic element found in groundwater",
+                    "Occurs naturally in geological formations",
+                    "Also linked to industrial and mining activities",
+                    "Highly dangerous even in small concentrations",
+                    "Major public health issue in India and Bangladesh"
+                ]
+            },
+            {
+                "heading": "Causes of Arsenic Contamination",
+                "points": [
+                    "Natural geological leaching from arsenic-rich sediments",
+                    "Over-extraction of groundwater",
+                    "Reduction conditions in aquifers releasing arsenic",
+                    "Industrial pollution in some areas",
+                    "Floodplain river sediments (Ganga-Brahmaputra basin)"
+                ]
+            },
+            {
+                "heading": "Effects of Arsenic Exposure",
+                "points": [
+                    "Skin lesions and pigmentation changes",
+                    "Cancer (skin, lung, bladder)",
+                    "Cardiovascular diseases",
+                    "Neurological disorders",
+                    "Weakening of immune system",
+                    "Long-term chronic poisoning (arsenicosis)"
+                ]
+            },
+            {
+                "heading": "Arsenic Affected Areas in India",
+                "points": [
+                    "West Bengal – most affected state",
+                    "Assam and northeastern states",
+                    "Parts of Bihar and Uttar Pradesh",
+                    "Ganga-Brahmaputra river basin region",
+                    "Areas with young alluvial sediments"
+                ]
+            },
+            {
+                "heading": "Solutions to Arsenic Problem",
+                "points": [
+                    "Installation of arsenic removal filters",
+                    "Use of safe deep aquifers",
+                    "Surface water supply systems",
+                    "Rainwater harvesting",
+                    "Regular water quality monitoring"
+                ]
+            },
+            {
+                "heading": "Comparison: Fluoride vs Arsenic Problem",
+                "points": [
+                    "Fluoride mainly causes skeletal and dental issues",
+                    "Arsenic causes cancer and severe chronic diseases",
+                    "Fluoride is more common in arid regions",
+                    "Arsenic is common in alluvial river basins",
+                    "Both are groundwater contamination problems"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Cholera is caused by:",
+                    "options": [
+                    "Virus",
+                    "Bacteria",
+                    "Fungus",
+                    "Protozoa only"
+                    ],
+                    "answer": "Bacteria"
+                },
+                {
+                    "question": "Fluoride in excess causes:",
+                    "options": [
+                    "Malaria",
+                    "Fluorosis",
+                    "Cancer",
+                    "Diabetes"
+                    ],
+                    "answer": "Fluorosis"
+                },
+                {
+                    "question": "Arsenic contamination is most common in:",
+                    "options": [
+                    "Desert regions",
+                    "River floodplains",
+                    "Mountains only",
+                    "Forests"
+                    ],
+                    "answer": "River floodplains"
+                },
+                {
+                    "question": "Typhoid is mainly a:",
+                    "options": [
+                    "Water-borne disease",
+                    "Air-borne disease",
+                    "Genetic disease",
+                    "Soil disease"
+                    ],
+                    "answer": "Water-borne disease"
+                },
+                {
+                    "question": "Dental fluorosis affects:",
+                    "options": [
+                    "Skin",
+                    "Teeth",
+                    "Heart",
+                    "Lungs"
+                    ],
+                    "answer": "Teeth"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Arsenicosis is related to:",
+                    "options": [
+                    "Fluoride poisoning",
+                    "Arsenic poisoning",
+                    "Lead poisoning",
+                    "Carbon monoxide poisoning"
+                    ],
+                    "answer": "Arsenic poisoning"
+                },
+                {
+                    "question": "Nalgonda technique is used for:",
+                    "options": [
+                    "Arsenic removal",
+                    "Fluoride removal",
+                    "Salt removal",
+                    "Oil removal"
+                    ],
+                    "answer": "Fluoride removal"
+                },
+                {
+                    "question": "Hepatitis A spreads through:",
+                    "options": [
+                    "Air",
+                    "Contaminated water",
+                    "Soil",
+                    "Insects only"
+                    ],
+                    "answer": "Contaminated water"
+                },
+                {
+                    "question": "Most fluoride affected state in India is:",
+                    "options": [
+                    "Kerala",
+                    "Rajasthan",
+                    "Punjab",
+                    "Sikkim"
+                    ],
+                    "answer": "Rajasthan"
+                },
+                {
+                    "question": "Arsenic is mainly found in:",
+                    "options": [
+                    "Ocean water",
+                    "Groundwater",
+                    "Air",
+                    "Rain clouds"
+                    ],
+                    "answer": "Groundwater"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Fluoride causes skeletal fluorosis\n2. Arsenic contamination is common in Ganga-Brahmaputra basin\n3. Cholera is a viral disease",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Arsenic contamination is mainly due to:",
+                    "options": [
+                    "Air pollution",
+                    "Geological sources and groundwater conditions",
+                    "Forest fires",
+                    "Wind erosion"
+                    ],
+                    "answer": "Geological sources and groundwater conditions"
+                },
+                {
+                    "question": "Fluoride in small amounts is:",
+                    "options": [
+                    "Highly toxic",
+                    "Beneficial for teeth",
+                    "Carcinogenic",
+                    "Radioactive"
+                    ],
+                    "answer": "Beneficial for teeth"
+                },
+                {
+                    "question": "Water-borne diseases are mainly prevented by:",
+                    "options": [
+                    "Air filters",
+                    "Clean drinking water and sanitation",
+                    "Soil treatment",
+                    "Noise control"
+                    ],
+                    "answer": "Clean drinking water and sanitation"
+                },
+                {
+                    "question": "Arsenic exposure mainly causes:",
+                    "options": [
+                    "Fluorosis",
+                    "Cancer and skin lesions",
+                    "Blindness only",
+                    "Bone fractures only"
+                    ],
+                    "answer": "Cancer and skin lesions"
+                }
+            ]
+        }
+    }
+]

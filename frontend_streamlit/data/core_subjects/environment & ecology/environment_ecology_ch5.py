@@ -1,0 +1,1494 @@
+TOPICS = [
+    {
+        "name": "Aquatic Life Zones: Oceans, Rivers, Lakes & Wetlands",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Aquatic ecosystems are water-based ecosystems covering most of Earth's surface",
+                    "They are broadly classified into freshwater and marine ecosystems",
+                    "Include oceans, rivers, lakes, ponds, and wetlands",
+                    "They regulate climate, support biodiversity, and maintain hydrological balance"
+                ]
+            },
+            {
+                "heading": "Aquatic Ecosystems – Meaning",
+                "points": [
+                    "Aquatic ecosystems are communities of organisms interacting in water environments",
+                    "They include both biotic (plants, animals, microbes) and abiotic (water, nutrients) components",
+                    "Can be freshwater, marine, or brackish ecosystems",
+                    "Support high biodiversity and food chains",
+                    "Cover about 70% of Earth's surface"
+                ]
+            },
+            {
+                "heading": "Types of Aquatic Ecosystems",
+                "points": [
+                    "Freshwater ecosystems – rivers, lakes, ponds, wetlands",
+                    "Marine ecosystems – oceans, seas, coral reefs",
+                    "Brackish ecosystems – estuaries and mangroves",
+                    "Lentic systems – still water bodies like lakes and ponds",
+                    "Lotic systems – flowing water bodies like rivers and streams"
+                ]
+            },
+            {
+                "heading": "Rivers – Basic Features",
+                "points": [
+                    "Rivers are flowing freshwater ecosystems (lotic systems)",
+                    "Originate from glaciers, springs, or rainfall",
+                    "Flow from higher to lower elevation",
+                    "Support diverse aquatic and terrestrial life",
+                    "Example: Ganga, Brahmaputra, Amazon"
+                ]
+            },
+            {
+                "heading": "Lakes – Basic Features",
+                "points": [
+                    "Lakes are large inland standing water bodies (lentic systems)",
+                    "Can be freshwater or saline",
+                    "Formed by tectonic, glacial, or volcanic activity",
+                    "Support aquatic plants, fish, and birds",
+                    "Example: Dal Lake, Wular Lake, Lake Baikal"
+                ]
+            },
+            {
+                "heading": "Wetlands – Meaning",
+                "points": [
+                    "Wetlands are areas where water covers soil permanently or seasonally",
+                    "Include marshes, swamps, and bogs",
+                    "Act as transition zones between land and water",
+                    "Highly productive ecosystems",
+                    "Important for flood control and biodiversity"
+                ]
+            },
+            {
+                "heading": "Importance of Wetlands",
+                "points": [
+                    "Act as natural water filters",
+                    "Support rich biodiversity including migratory birds",
+                    "Help in flood control and groundwater recharge",
+                    "Store carbon and reduce climate change impact",
+                    "Example: Sundarbans, Chilika Lake"
+                ]
+            },
+            {
+                "heading": "Ocean – Basic Facts",
+                "points": [
+                    "Oceans cover about 71% of Earth's surface",
+                    "Contain 97% of Earth's water",
+                    "Divided into Pacific, Atlantic, Indian, Southern, and Arctic Oceans",
+                    "Major regulator of global climate and weather",
+                    "Home to diverse marine ecosystems"
+                ]
+            },
+            {
+                "heading": "Ocean Zones",
+                "points": [
+                    "Intertidal zone – area between high and low tide",
+                    "Neritic zone – shallow coastal waters rich in nutrients",
+                    "Oceanic zone – open deep ocean waters",
+                    "Benthic zone – ocean floor region",
+                    "Pelagic zone – open water column"
+                ]
+            },
+            {
+                "heading": "Marine Life Adaptations",
+                "points": [
+                    "Bioluminescence in deep-sea organisms",
+                    "Salt tolerance mechanisms in marine plants and animals",
+                    "Streamlined body shapes for swimming",
+                    "Pressure adaptation in deep sea species",
+                    "Coral reefs support high biodiversity"
+                ]
+            },
+            {
+                "heading": "Importance of Oceans",
+                "points": [
+                    "Regulate global climate and temperature",
+                    "Act as major carbon sinks",
+                    "Support global food supply through fisheries",
+                    "Provide oxygen through phytoplankton",
+                    "Enable global trade and transportation"
+                ]
+            },
+            {
+                "heading": "Ecological Importance of Oceans",
+                "points": [
+                    "Maintain carbon and oxygen cycles",
+                    "Support marine biodiversity",
+                    "Regulate weather patterns like monsoons",
+                    "Absorb excess heat from atmosphere",
+                    "Protect coastal ecosystems"
+                ]
+            },
+            {
+                "heading": "Human Impact on Aquatic Ecosystems",
+                "points": [
+                    "Pollution from plastics and chemicals",
+                    "Overfishing leading to biodiversity loss",
+                    "Climate change causing ocean warming",
+                    "Destruction of wetlands and mangroves",
+                    "Eutrophication in lakes and rivers"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Aquatic ecosystems cover about:",
+                    "options": [
+                    "30% of Earth",
+                    "50% of Earth",
+                    "70% of Earth",
+                    "90% of Earth"
+                    ],
+                    "answer": "70% of Earth"
+                },
+                {
+                    "question": "Rivers are examples of:",
+                    "options": [
+                    "Lentic systems",
+                    "Lotic systems",
+                    "Marine systems",
+                    "Desert systems"
+                    ],
+                    "answer": "Lotic systems"
+                },
+                {
+                    "question": "Oceans contain about how much of Earth's water?",
+                    "options": [
+                    "50%",
+                    "70%",
+                    "97%",
+                    "30%"
+                    ],
+                    "answer": "97%"
+                },
+                {
+                    "question": "Wetlands are important for:",
+                    "options": [
+                    "Deforestation",
+                    "Flood control",
+                    "Soil erosion increase",
+                    "Desert formation"
+                    ],
+                    "answer": "Flood control"
+                },
+                {
+                    "question": "Lake is an example of:",
+                    "options": [
+                    "Flowing water system",
+                    "Standing water system",
+                    "Desert ecosystem",
+                    "Mountain ecosystem"
+                    ],
+                    "answer": "Standing water system"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which ocean is the largest?",
+                    "options": [
+                    "Atlantic Ocean",
+                    "Indian Ocean",
+                    "Pacific Ocean",
+                    "Arctic Ocean"
+                    ],
+                    "answer": "Pacific Ocean"
+                },
+                {
+                    "question": "Estuaries are:",
+                    "options": [
+                    "Freshwater ecosystems",
+                    "Marine ecosystems",
+                    "Brackish water ecosystems",
+                    "Desert ecosystems"
+                    ],
+                    "answer": "Brackish water ecosystems"
+                },
+                {
+                    "question": "Wetlands help in:",
+                    "options": [
+                    "Increasing pollution",
+                    "Carbon storage",
+                    "Deforestation",
+                    "Earthquakes"
+                    ],
+                    "answer": "Carbon storage"
+                },
+                {
+                    "question": "Ocean benthic zone refers to:",
+                    "options": [
+                    "Surface water",
+                    "Ocean floor",
+                    "Atmosphere above ocean",
+                    "River mouth"
+                    ],
+                    "answer": "Ocean floor"
+                },
+                {
+                    "question": "Phytoplankton in oceans are important because they:",
+                    "options": [
+                    "Produce oxygen",
+                    "Consume oxygen only",
+                    "Destroy marine life",
+                    "Increase salinity"
+                    ],
+                    "answer": "Produce oxygen"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Oceans regulate global climate\n2. Wetlands are low biodiversity areas\n3. Rivers are lotic systems",
+                    "options": [
+                    "1 and 3 only",
+                    "2 and 3 only",
+                    "1 and 2 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "Marine ecosystems are important because they:",
+                    "options": [
+                    "Increase desertification",
+                    "Support global food chains",
+                    "Stop oxygen production",
+                    "Reduce rainfall completely"
+                    ],
+                    "answer": "Support global food chains"
+                },
+                {
+                    "question": "Wetlands are called ecological filters because they:",
+                    "options": [
+                    "Increase pollution",
+                    "Remove pollutants naturally",
+                    "Destroy biodiversity",
+                    "Dry up water bodies"
+                    ],
+                    "answer": "Remove pollutants naturally"
+                },
+                {
+                    "question": "Ocean zones differ based on:",
+                    "options": [
+                    "Soil type",
+                    "Light and depth",
+                    "Rainfall",
+                    "Wind speed only"
+                    ],
+                    "answer": "Light and depth"
+                },
+                {
+                    "question": "Human impact on aquatic ecosystems includes:",
+                    "options": [
+                    "Improved biodiversity only",
+                    "Overfishing and pollution",
+                    "No change",
+                    "Increased oxygen production only"
+                    ],
+                    "answer": "Overfishing and pollution"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Ocean Zones, Marine Life, Coral Reefs (India), Coral Conservation & Mangroves",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Oceans are vertically and horizontally divided into ecological zones based on light, depth, and distance from shore",
+                    "Marine ecosystems support high biodiversity including plankton, fish, mammals, and coral systems",
+                    "Coral reefs and mangroves are among the most productive coastal ecosystems",
+                    "They provide coastal protection, fisheries, and climate regulation services"
+                ]
+            },
+            {
+                "heading": "Zones of the Ocean – Meaning",
+                "points": [
+                    "Ocean zones are classified based on depth, light penetration, and distance from coast",
+                    "Each zone has distinct physical and biological conditions",
+                    "Marine life distribution varies with depth and sunlight availability",
+                    "Zones influence productivity and biodiversity",
+                    "Key basis for understanding marine ecology"
+                ]
+            },
+            {
+                "heading": "Horizontal Ocean Zones",
+                "points": [
+                    "Intertidal zone – area between high and low tide, highly dynamic",
+                    "Neritic zone – shallow coastal waters over continental shelf, highly productive",
+                    "Oceanic zone – open sea beyond continental shelf, low nutrient concentration",
+                    "Coastal zones support maximum biodiversity",
+                    "Open ocean supports migratory and deep-water species"
+                ]
+            },
+            {
+                "heading": "Vertical Ocean Zones",
+                "points": [
+                    "Epipelagic zone (0–200 m) – sunlight zone, photosynthesis occurs",
+                    "Mesopelagic zone (200–1000 m) – twilight zone, limited light",
+                    "Bathypelagic zone (1000–4000 m) – dark, high pressure",
+                    "Abyssal zone (4000–6000 m) – near freezing, no light",
+                    "Hadal zone (>6000 m) – deep ocean trenches"
+                ]
+            },
+            {
+                "heading": "Marine Life – Meaning",
+                "points": [
+                    "Marine life includes all organisms living in oceans and seas",
+                    "Ranges from microscopic plankton to large whales",
+                    "Forms complex food webs and ecosystems",
+                    "Highly dependent on temperature, salinity, and nutrients",
+                    "Coral reefs and coastal zones are biodiversity hotspots"
+                ]
+            },
+            {
+                "heading": "Types of Marine Organisms",
+                "points": [
+                    "Plankton – drifting organisms (phytoplankton and zooplankton)",
+                    "Nekton – actively swimming organisms (fish, whales)",
+                    "Benthos – organisms living on ocean floor",
+                    "Marine mammals – dolphins, seals, whales",
+                    "Reef organisms – corals, algae, reef fish"
+                ]
+            },
+            {
+                "heading": "Coral Reefs – Meaning",
+                "points": [
+                    "Coral reefs are underwater ecosystems formed by calcium carbonate structures",
+                    "Built by coral polyps in warm, shallow, clear waters",
+                    "Require symbiotic algae (zooxanthellae) for energy",
+                    "Known as 'rainforests of the sea' due to high biodiversity",
+                    "Very sensitive to temperature and pollution changes"
+                ]
+            },
+            {
+                "heading": "Types of Coral Reefs",
+                "points": [
+                    "Fringing reefs – directly attached to coastline",
+                    "Barrier reefs – separated from coast by lagoon",
+                    "Atolls – ring-shaped reefs surrounding lagoons",
+                    "Patch reefs – small isolated reef patches",
+                    "Each type differs in structure and formation process"
+                ]
+            },
+            {
+                "heading": "Conditions for Coral Growth",
+                "points": [
+                    "Warm water (20°C–30°C)",
+                    "Shallow depth (less than 50 meters)",
+                    "Clear, low-sediment water",
+                    "High salinity and oxygen availability",
+                    "Stable temperature conditions"
+                ]
+            },
+            {
+                "heading": "Coral Reefs in India",
+                "points": [
+                    "Andaman and Nicobar Islands – largest coral reef system in India",
+                    "Lakshadweep Islands – atoll-based coral reefs",
+                    "Gulf of Kutch (Gujarat) – northernmost coral reefs in India",
+                    "Gulf of Mannar (Tamil Nadu) – rich marine biodiversity region",
+                    "India has both fringing and atoll reef systems"
+                ]
+            },
+            {
+                "heading": "Threats to Coral Reefs",
+                "points": [
+                    "Coral bleaching due to rising sea temperatures",
+                    "Ocean acidification due to CO₂ absorption",
+                    "Pollution from plastics and chemicals",
+                    "Overfishing and destructive fishing practices",
+                    "Coastal development and tourism pressure"
+                ]
+            },
+            {
+                "heading": "Conserving Coral Reefs",
+                "points": [
+                    "Marine Protected Areas (MPAs) establishment",
+                    "Regulation of fishing and tourism activities",
+                    "Reduction of greenhouse gas emissions",
+                    "Coral restoration and reef transplantation projects",
+                    "Monitoring and early warning systems for bleaching"
+                ]
+            },
+            {
+                "heading": "Mangroves – Meaning",
+                "points": [
+                    "Mangroves are salt-tolerant coastal vegetation found in intertidal zones",
+                    "Grow in tropical and subtropical regions",
+                    "Act as a transition between land and sea ecosystems",
+                    "Have specialized roots (pneumatophores) for breathing",
+                    "Highly productive and ecologically important ecosystems"
+                ]
+            },
+            {
+                "heading": "Importance of Mangroves",
+                "points": [
+                    "Protect coastlines from erosion and storm surges",
+                    "Act as carbon sinks (blue carbon ecosystems)",
+                    "Provide nursery grounds for fish and crustaceans",
+                    "Support biodiversity including birds and reptiles",
+                    "Help in tsunami and cyclone protection"
+                ]
+            },
+            {
+                "heading": "Mangroves in India",
+                "points": [
+                    "Sundarbans (West Bengal) – largest mangrove forest in the world",
+                    "Andaman and Nicobar Islands – rich mangrove diversity",
+                    "Mahanadi delta (Odisha)",
+                    "Godavari and Krishna deltas (Andhra Pradesh)",
+                    "Gujarat coastal regions also support mangroves"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Coral reefs are mainly found in:",
+                    "options": [
+                    "Cold deep oceans",
+                    "Warm shallow waters",
+                    "Rivers",
+                    "Lakes"
+                    ],
+                    "answer": "Warm shallow waters"
+                },
+                {
+                    "question": "Mangroves are found in:",
+                    "options": [
+                    "Deserts",
+                    "Coastal intertidal zones",
+                    "Mountains",
+                    "Grasslands"
+                    ],
+                    "answer": "Coastal intertidal zones"
+                },
+                {
+                    "question": "Largest coral reef system in India is in:",
+                    "options": [
+                    "Gulf of Kutch",
+                    "Andaman and Nicobar Islands",
+                    "Ganga delta",
+                    "Thar Desert"
+                    ],
+                    "answer": "Andaman and Nicobar Islands"
+                },
+                {
+                    "question": "Mangroves are also called:",
+                    "options": [
+                    "Mountain forests",
+                    "Tropical rainforests",
+                    "Blue carbon ecosystems",
+                    "Desert forests"
+                    ],
+                    "answer": "Blue carbon ecosystems"
+                },
+                {
+                    "question": "Coral reefs are built by:",
+                    "options": [
+                    "Fish",
+                    "Coral polyps",
+                    "Seaweed only",
+                    "Plankton only"
+                    ],
+                    "answer": "Coral polyps"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Atoll reefs are:",
+                    "options": [
+                    "Attached to coast",
+                    "Ring-shaped reefs",
+                    "River reefs",
+                    "Mountain reefs"
+                    ],
+                    "answer": "Ring-shaped reefs"
+                },
+                {
+                    "question": "Sundarbans is located in:",
+                    "options": [
+                    "Kerala",
+                    "West Bengal",
+                    "Gujarat",
+                    "Tamil Nadu"
+                    ],
+                    "answer": "West Bengal"
+                },
+                {
+                    "question": "Coral bleaching is caused by:",
+                    "options": [
+                    "Low salinity",
+                    "High temperature stress",
+                    "Excess rainfall",
+                    "Soil erosion"
+                    ],
+                    "answer": "High temperature stress"
+                },
+                {
+                    "question": "Epipelagic zone receives:",
+                    "options": [
+                    "No light",
+                    "Maximum sunlight",
+                    "Only moonlight",
+                    "No oxygen"
+                    ],
+                    "answer": "Maximum sunlight"
+                },
+                {
+                    "question": "Mangroves help in:",
+                    "options": [
+                    "Soil erosion increase",
+                    "Coastal protection",
+                    "Desert formation",
+                    "Earthquake generation"
+                    ],
+                    "answer": "Coastal protection"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Coral reefs require warm shallow waters\n2. Mangroves are salt-tolerant plants\n3. Coral reefs are found in cold deep waters",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Ocean neritic zones are highly productive because:",
+                    "options": [
+                    "Low sunlight",
+                    "High nutrient availability",
+                    "No organisms",
+                    "High pressure only"
+                    ],
+                    "answer": "High nutrient availability"
+                },
+                {
+                    "question": "Mangroves are important for climate change because they:",
+                    "options": [
+                    "Increase CO₂ emissions",
+                    "Store carbon efficiently",
+                    "Destroy oxygen",
+                    "Cause desertification"
+                    ],
+                    "answer": "Store carbon efficiently"
+                },
+                {
+                    "question": "Coral reefs are sensitive to:",
+                    "options": [
+                    "Temperature changes",
+                    "Soil fertility",
+                    "Wind speed only",
+                    "Earth rotation"
+                    ],
+                    "answer": "Temperature changes"
+                },
+                {
+                    "question": "Marine biodiversity is highest in:",
+                    "options": [
+                    "Abyssal zone",
+                    "Neritic zone",
+                    "Hadal zone",
+                    "Polar deep sea"
+                    ],
+                    "answer": "Neritic zone"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Mangroves in India, Freshwater Resources, Lakes & National Lake Conservation Plan",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Mangroves, freshwater systems, and lakes are critical components of India's aquatic ecosystems",
+                    "They support biodiversity, water security, agriculture, and climate regulation",
+                    "Wetland and lake conservation is a key environmental governance priority",
+                    "India has diverse freshwater resources but uneven distribution"
+                ]
+            },
+            {
+                "heading": "Mangroves in India – Meaning",
+                "points": [
+                    "Mangroves are salt-tolerant coastal forests found in intertidal zones",
+                    "They act as a transition between land and marine ecosystems",
+                    "They are highly productive ecosystems with unique adaptations like pneumatophores",
+                    "India has some of the largest mangrove ecosystems in the world",
+                    "They play a key role in coastal protection and biodiversity conservation"
+                ]
+            },
+            {
+                "heading": "Major Mangrove Regions in India",
+                "points": [
+                    "Sundarbans (West Bengal) – largest mangrove forest in the world and UNESCO site",
+                    "Bhitarkanika (Odisha) – rich biodiversity and crocodile habitat",
+                    "Godavari–Krishna delta (Andhra Pradesh)",
+                    "Mahanadi delta (Odisha)",
+                    "Andaman & Nicobar Islands – dense tropical mangrove forests",
+                    "Gulf of Kutch (Gujarat) – northernmost mangroves in India"
+                ]
+            },
+            {
+                "heading": "Importance of Mangroves",
+                "points": [
+                    "Protect coastal areas from cyclones, tsunamis, and erosion",
+                    "Act as carbon sinks (blue carbon ecosystems)",
+                    "Serve as breeding and nursery grounds for fish and crustaceans",
+                    "Support rich biodiversity including birds, reptiles, and mammals",
+                    "Improve livelihood of coastal communities through fisheries"
+                ]
+            },
+            {
+                "heading": "Threats to Mangroves",
+                "points": [
+                    "Coastal urbanization and industrial development",
+                    "Aquaculture expansion (shrimp farming)",
+                    "Pollution from industries and plastics",
+                    "Deforestation and land reclamation",
+                    "Climate change and sea level rise"
+                ]
+            },
+            {
+                "heading": "Freshwater in India – Overview",
+                "points": [
+                    "Freshwater includes rivers, lakes, ponds, and groundwater",
+                    "India has about 4% of global freshwater resources but 18% of population",
+                    "Uneven spatial and temporal distribution of water",
+                    "Major river systems: Ganga, Brahmaputra, Godavari, Krishna, Cauvery",
+                    "Groundwater is a major source of drinking and irrigation water"
+                ]
+            },
+            {
+                "heading": "Sources of Freshwater",
+                "points": [
+                    "Surface water – rivers, lakes, reservoirs",
+                    "Groundwater – aquifers and wells",
+                    "Glaciers – Himalayan snow and ice melt",
+                    "Rainwater – primary source of replenishment",
+                    "Artificial reservoirs and dams"
+                ]
+            },
+            {
+                "heading": "Importance of Freshwater in India",
+                "points": [
+                    "Essential for drinking and domestic use",
+                    "Supports agriculture and irrigation",
+                    "Used in industries and energy production",
+                    "Maintains ecological balance of wetlands and rivers",
+                    "Supports biodiversity and aquatic ecosystems"
+                ]
+            },
+            {
+                "heading": "Importance of Lakes",
+                "points": [
+                    "Lakes act as natural water storage systems",
+                    "Help in groundwater recharge",
+                    "Support fisheries and livelihoods",
+                    "Moderate local climate conditions",
+                    "Serve as habitats for birds and aquatic species"
+                ]
+            },
+            {
+                "heading": "Types of Lakes in India",
+                "points": [
+                    "Freshwater lakes – Dal Lake, Wular Lake",
+                    "Saline lakes – Sambhar Lake (Rajasthan)",
+                    "Tectonic lakes – formed due to earth movement",
+                    "Glacial lakes – found in Himalayan region",
+                    "Artificial lakes – created by dams and reservoirs"
+                ]
+            },
+            {
+                "heading": "Major Lakes in India",
+                "points": [
+                    "Wular Lake (Jammu & Kashmir) – largest freshwater lake in India",
+                    "Chilika Lake (Odisha) – largest coastal lagoon",
+                    "Dal Lake (Jammu & Kashmir) – famous tourist lake",
+                    "Sambhar Lake (Rajasthan) – largest inland salt lake",
+                    "Loktak Lake (Manipur) – known for floating phumdis"
+                ]
+            },
+            {
+                "heading": "Threats to Lakes",
+                "points": [
+                    "Urban encroachment and land reclamation",
+                    "Industrial and domestic pollution",
+                    "Eutrophication due to nutrient overload",
+                    "Siltation and reduced water depth",
+                    "Climate change and reduced rainfall"
+                ]
+            },
+            {
+                "heading": "National Lake Conservation Plan (NLCP)",
+                "points": [
+                    "Launched by Government of India to restore polluted and degraded lakes",
+                    "Later merged with National Plan for Conservation of Aquatic Ecosystems (NPCA)",
+                    "Focus on pollution abatement and ecosystem restoration",
+                    "Includes both urban and rural lakes",
+                    "Implemented by Ministry of Environment, Forest and Climate Change"
+                ]
+            },
+            {
+                "heading": "Objectives of NLCP",
+                "points": [
+                    "Prevention of pollution in lakes",
+                    "Restoration of water quality and ecology",
+                    "Biodiversity conservation in lake ecosystems",
+                    "Control of encroachment and siltation",
+                    "Sustainable management of lake resources"
+                ]
+            },
+            {
+                "heading": "Measures under NLCP",
+                "points": [
+                    "Sewage treatment and diversion",
+                    "Desilting and de-weeding of lakes",
+                    "Catchment area treatment",
+                    "Public awareness and community participation",
+                    "Monitoring and ecological restoration"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Largest mangrove forest in India is:",
+                    "options": [
+                    "Sundarbans",
+                    "Bhitarkanika",
+                    "Mahanadi delta",
+                    "Gulf of Kutch"
+                    ],
+                    "answer": "Sundarbans"
+                },
+                {
+                    "question": "India has approximately what percentage of global freshwater?",
+                    "options": [
+                    "10%",
+                    "18%",
+                    "25%",
+                    "4%"
+                    ],
+                    "answer": "4%"
+                },
+                {
+                    "question": "Largest freshwater lake in India is:",
+                    "options": [
+                    "Dal Lake",
+                    "Wular Lake",
+                    "Chilika Lake",
+                    "Sambhar Lake"
+                    ],
+                    "answer": "Wular Lake"
+                },
+                {
+                    "question": "Sambhar Lake is a:",
+                    "options": [
+                    "Freshwater lake",
+                    "Saltwater lake",
+                    "River system",
+                    "Glacier lake"
+                    ],
+                    "answer": "Saltwater lake"
+                },
+                {
+                    "question": "Mangroves mainly grow in:",
+                    "options": [
+                    "Deserts",
+                    "Intertidal coastal zones",
+                    "Mountain tops",
+                    "Rivers only"
+                    ],
+                    "answer": "Intertidal coastal zones"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Chilika Lake is located in:",
+                    "options": [
+                    "Kerala",
+                    "Odisha",
+                    "Tamil Nadu",
+                    "Gujarat"
+                    ],
+                    "answer": "Odisha"
+                },
+                {
+                    "question": "Loktak Lake is famous for:",
+                    "options": [
+                    "Coral reefs",
+                    "Floating islands (phumdis)",
+                    "Salt production",
+                    "Glaciers"
+                    ],
+                    "answer": "Floating islands (phumdis)"
+                },
+                {
+                    "question": "NLCP is now merged into:",
+                    "options": [
+                    "National River Conservation Plan",
+                    "NPCA",
+                    "Ganga Action Plan",
+                    "Blue Revolution"
+                    ],
+                    "answer": "NPCA"
+                },
+                {
+                    "question": "Eutrophication in lakes is caused by:",
+                    "options": [
+                    "Oxygen increase",
+                    "Nutrient pollution",
+                    "Low rainfall",
+                    "Deforestation only"
+                    ],
+                    "answer": "Nutrient pollution"
+                },
+                {
+                    "question": "Mangroves help in:",
+                    "options": [
+                    "Desert formation",
+                    "Coastal protection",
+                    "Earthquakes",
+                    "Air pollution increase"
+                    ],
+                    "answer": "Coastal protection"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. India has 18% of world population but only 4% freshwater\n2. Mangroves are important carbon sinks\n3. Lakes do not support biodiversity",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Freshwater is important because it:",
+                    "options": [
+                    "Supports agriculture and drinking water",
+                    "Increases salinity",
+                    "Reduces biodiversity",
+                    "Causes desertification"
+                    ],
+                    "answer": "Supports agriculture and drinking water"
+                },
+                {
+                    "question": "Lake eutrophication leads to:",
+                    "options": [
+                    "Increased oxygen",
+                    "Algal blooms and oxygen depletion",
+                    "Clear water",
+                    "Increased fish diversity only"
+                    ],
+                    "answer": "Algal blooms and oxygen depletion"
+                },
+                {
+                    "question": "Mangroves are known as blue carbon ecosystems because they:",
+                    "options": [
+                    "Produce oxygen only",
+                    "Store large amounts of carbon",
+                    "Create deserts",
+                    "Increase salinity"
+                    ],
+                    "answer": "Store large amounts of carbon"
+                },
+                {
+                    "question": "NLCP focuses on:",
+                    "options": [
+                    "Industrial expansion",
+                    "Lake conservation and restoration",
+                    "Deforestation",
+                    "Urbanization only"
+                    ],
+                    "answer": "Lake conservation and restoration"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Wetlands, Importance, Ramsar Convention & Ramsar Sites",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Wetlands are among the most productive ecosystems on Earth",
+                    "They act as a transition zone between land and water",
+                    "Wetlands support high biodiversity and provide essential ecosystem services",
+                    "Ramsar Convention is an international treaty for wetland conservation",
+                    "Ramsar Sites are wetlands of international importance"
+                ]
+            },
+            {
+                "heading": "Wetlands – Meaning",
+                "points": [
+                    "Wetlands are areas where water covers the soil either permanently or seasonally",
+                    "Includes marshes, swamps, bogs, and lagoons",
+                    "Can be freshwater, brackish, or saline ecosystems",
+                    "Act as natural filters for water purification",
+                    "Serve as buffers between terrestrial and aquatic ecosystems"
+                ]
+            },
+            {
+                "heading": "Types of Wetlands",
+                "points": [
+                    "Inland wetlands – rivers, lakes, floodplains, marshes",
+                    "Coastal wetlands – mangroves, estuaries, lagoons",
+                    "Human-made wetlands – reservoirs, rice fields, ponds",
+                    "Freshwater wetlands – low salinity ecosystems",
+                    "Saltwater wetlands – influenced by seawater"
+                ]
+            },
+            {
+                "heading": "Importance of Wetlands",
+                "points": [
+                    "Support rich biodiversity including fish, birds, and amphibians",
+                    "Act as natural flood control systems by absorbing excess water",
+                    "Recharge groundwater and maintain hydrological balance",
+                    "Filter pollutants and improve water quality",
+                    "Store carbon and help mitigate climate change"
+                ]
+            },
+            {
+                "heading": "Ecological Functions of Wetlands",
+                "points": [
+                    "Water purification through sediment and nutrient trapping",
+                    "Habitat provision for migratory birds and aquatic species",
+                    "Coastal protection against storms and erosion",
+                    "Carbon sequestration in wetland vegetation and soils",
+                    "Support food chains and fisheries productivity"
+                ]
+            },
+            {
+                "heading": "Threats to Wetlands",
+                "points": [
+                    "Urban expansion and land encroachment",
+                    "Pollution from sewage and industrial waste",
+                    "Agricultural runoff leading to eutrophication",
+                    "Climate change and rising temperatures",
+                    "Overexploitation of wetland resources"
+                ]
+            },
+            {
+                "heading": "Ramsar Convention – Meaning",
+                "points": [
+                    "An international treaty for conservation and sustainable use of wetlands",
+                    "Signed in 1971 in Ramsar, Iran",
+                    "Entered into force in 1975",
+                    "Focuses on wetlands of international importance",
+                    "India became a party to the convention in 1982"
+                ]
+            },
+            {
+                "heading": "Objectives of Ramsar Convention",
+                "points": [
+                    "Conservation of wetlands and their resources",
+                    "Wise use of wetlands through sustainable practices",
+                    "Designation of Ramsar Sites",
+                    "International cooperation for wetland conservation",
+                    "Public awareness and capacity building"
+                ]
+            },
+            {
+                "heading": "Ramsar Sites – Meaning",
+                "points": [
+                    "Wetlands designated under Ramsar Convention as internationally important",
+                    "Recognized for ecological, botanical, zoological, and hydrological importance",
+                    "Countries commit to their conservation and wise use",
+                    "Include lakes, rivers, mangroves, and marshes",
+                    "India has one of the largest number of Ramsar Sites in Asia"
+                ]
+            },
+            {
+                "heading": "Criteria for Ramsar Site Designation",
+                "points": [
+                    "Supports vulnerable, endangered, or critically endangered species",
+                    "Supports significant biodiversity",
+                    "Supports waterbirds in large numbers",
+                    "Important for fish spawning or migration",
+                    "Representative or unique wetland type"
+                ]
+            },
+            {
+                "heading": "Major Ramsar Sites in India",
+                "points": [
+                    "Chilika Lake (Odisha) – largest coastal lagoon in India",
+                    "Keoladeo National Park (Rajasthan) – bird sanctuary",
+                    "Sundarbans (West Bengal) – largest mangrove ecosystem",
+                    "Wular Lake (Jammu & Kashmir) – largest freshwater lake in India",
+                    "Loktak Lake (Manipur) – floating phumdis ecosystem"
+                ]
+            },
+            {
+                "heading": "Recent Trend in India",
+                "points": [
+                    "India has significantly increased its Ramsar Sites in recent years",
+                    "Focus on wetland conservation under National Wetland Conservation Programme",
+                    "Integration with climate change adaptation strategies",
+                    "Community participation in wetland protection",
+                    "Promotion of eco-tourism in wetland areas"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Wetlands are areas where:",
+                    "options": [
+                    "Only sand is found",
+                    "Water covers soil permanently or seasonally",
+                    "Only rocks are present",
+                    "No vegetation exists"
+                    ],
+                    "answer": "Water covers soil permanently or seasonally"
+                },
+                {
+                    "question": "Ramsar Convention was signed in:",
+                    "options": [
+                    "1950",
+                    "1971",
+                    "1982",
+                    "1990"
+                    ],
+                    "answer": "1971"
+                },
+                {
+                    "question": "Ramsar Sites are:",
+                    "options": [
+                    "Industrial zones",
+                    "Wetlands of international importance",
+                    "Deserts",
+                    "Mountains"
+                    ],
+                    "answer": "Wetlands of international importance"
+                },
+                {
+                    "question": "Chilika Lake is located in:",
+                    "options": [
+                    "Kerala",
+                    "Odisha",
+                    "Gujarat",
+                    "Tamil Nadu"
+                    ],
+                    "answer": "Odisha"
+                },
+                {
+                    "question": "Wetlands help in:",
+                    "options": [
+                    "Increasing pollution",
+                    "Flood control",
+                    "Deforestation",
+                    "Earthquakes"
+                    ],
+                    "answer": "Flood control"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Keoladeo National Park is famous for:",
+                    "options": [
+                    "Coral reefs",
+                    "Bird diversity",
+                    "Deserts",
+                    "Mountains"
+                    ],
+                    "answer": "Bird diversity"
+                },
+                {
+                    "question": "Sundarbans is a:",
+                    "options": [
+                    "Desert",
+                    "Mangrove wetland",
+                    "Mountain forest",
+                    "Grassland"
+                    ],
+                    "answer": "Mangrove wetland"
+                },
+                {
+                    "question": "Wetlands act as:",
+                    "options": [
+                    "Carbon sources only",
+                    "Natural water filters",
+                    "Desert creators",
+                    "Earthquake zones"
+                    ],
+                    "answer": "Natural water filters"
+                },
+                {
+                    "question": "India became party to Ramsar Convention in:",
+                    "options": [
+                    "1971",
+                    "1982",
+                    "1991",
+                    "2000"
+                    ],
+                    "answer": "1982"
+                },
+                {
+                    "question": "Wetlands are important for:",
+                    "options": [
+                    "Biodiversity conservation",
+                    "Soil erosion increase",
+                    "Air pollution increase",
+                    "Deforestation"
+                    ],
+                    "answer": "Biodiversity conservation"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Wetlands support high biodiversity\n2. Ramsar Sites are globally important wetlands\n3. Wetlands have no role in climate regulation",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Ramsar Convention focuses on:",
+                    "options": [
+                    "Deforestation control",
+                    "Wetland conservation",
+                    "Desert expansion",
+                    "Industrial growth"
+                    ],
+                    "answer": "Wetland conservation"
+                },
+                {
+                    "question": "Wetlands are important carbon sinks because:",
+                    "options": [
+                    "They release CO₂ rapidly",
+                    "They store carbon in biomass and soil",
+                    "They increase methane emissions only",
+                    "They destroy vegetation"
+                    ],
+                    "answer": "They store carbon in biomass and soil"
+                },
+                {
+                    "question": "Ramsar Sites are selected based on:",
+                    "options": [
+                    "Population density",
+                    "Ecological importance",
+                    "Urbanization level",
+                    "Industrial growth"
+                    ],
+                    "answer": "Ecological importance"
+                },
+                {
+                    "question": "Wetland conservation helps in:",
+                    "options": [
+                    "Climate change mitigation",
+                    "Desert formation",
+                    "Pollution increase",
+                    "Deforestation"
+                    ],
+                    "answer": "Climate change mitigation"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Montreux Record, Wetlands Distribution in India & Wetland Conservation",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Wetlands are critical ecosystems for biodiversity, water regulation, and climate balance",
+                    "Montreux Record is a mechanism under the Ramsar Convention for threatened wetlands",
+                    "India has a wide distribution of wetlands across climatic and geographical zones",
+                    "Wetland conservation is essential for ecological security and sustainable development"
+                ]
+            },
+            {
+                "heading": "Montreux Record – Meaning",
+                "points": [
+                    "Montreux Record is a register of Ramsar sites under threat",
+                    "It lists wetlands where ecological character has changed or is likely to change",
+                    "Established under Ramsar Convention in 1990",
+                    "Helps prioritize urgent conservation measures",
+                    "Sites can be removed after successful restoration"
+                ]
+            },
+            {
+                "heading": "Objectives of Montreux Record",
+                "points": [
+                    "Identify wetlands under serious ecological threat",
+                    "Encourage restoration and conservation actions",
+                    "Provide international support and monitoring",
+                    "Improve management of degraded wetlands",
+                    "Promote awareness and policy intervention"
+                ]
+            },
+            {
+                "heading": "Montreux Record – Indian Context",
+                "points": [
+                    "India has previously had wetlands listed under Montreux Record",
+                    "Keoladeo National Park (Rajasthan) was removed after restoration",
+                    "Loktak Lake (Manipur) has been under conservation concern",
+                    "Chilika Lake (Odisha) was removed after ecological recovery",
+                    "Shows India’s success in wetland restoration efforts"
+                ]
+            },
+            {
+                "heading": "Extent of Wetlands in India – Overview",
+                "points": [
+                    "India has extensive wetland ecosystems across all climatic zones",
+                    "Wetlands include lakes, rivers, mangroves, coral reefs, and marshes",
+                    "Cover both inland and coastal regions",
+                    "India has over 75 Ramsar Sites (as of recent updates)",
+                    "Wetlands are unevenly distributed across states"
+                ]
+            },
+            {
+                "heading": "Major Wetland Regions in India",
+                "points": [
+                    "Himalayan region – glacial lakes and high-altitude wetlands",
+                    "Indo-Gangetic plains – rivers, floodplains, oxbow lakes",
+                    "Western India – salt marshes and desert wetlands (Sambhar Lake)",
+                    "Eastern coastal region – mangroves and deltas (Sundarbans, Mahanadi)",
+                    "Southern India – lagoons and backwaters (Kerala, Tamil Nadu)"
+                ]
+            },
+            {
+                "heading": "Important Wetlands in India",
+                "points": [
+                    "Sundarbans (West Bengal) – largest mangrove wetland",
+                    "Chilika Lake (Odisha) – largest coastal lagoon",
+                    "Wular Lake (Jammu & Kashmir) – largest freshwater lake",
+                    "Loktak Lake (Manipur) – floating phumdi ecosystem",
+                    "Vembanad Lake (Kerala) – longest lake in India"
+                ]
+            },
+            {
+                "heading": "Distribution Characteristics",
+                "points": [
+                    "Coastal states have higher wetland density",
+                    "River basins support floodplain wetlands",
+                    "Arid regions have saltwater wetlands",
+                    "Himalayas have glacial and high-altitude wetlands",
+                    "Wetland distribution is closely linked to rainfall patterns"
+                ]
+            },
+            {
+                "heading": "Importance of Wetlands in India",
+                "points": [
+                    "Support biodiversity including migratory birds",
+                    "Act as natural flood buffers",
+                    "Recharge groundwater aquifers",
+                    "Support fisheries and rural livelihoods",
+                    "Help in climate change mitigation through carbon storage"
+                ]
+            },
+            {
+                "heading": "Conserving Wetlands in India – Need",
+                "points": [
+                    "Rapid urbanization is leading to wetland loss",
+                    "Pollution from industries and sewage is degrading wetlands",
+                    "Encroachment reduces wetland area",
+                    "Climate change affects hydrological cycles",
+                    "Loss of wetlands threatens biodiversity and water security"
+                ]
+            },
+            {
+                "heading": "Conservation Measures in India",
+                "points": [
+                    "Wetlands (Conservation and Management) Rules, 2017",
+                    "Ramsar Convention commitments",
+                    "National Plan for Conservation of Aquatic Ecosystems (NPCA)",
+                    "Wetland inventories and mapping using satellite data",
+                    "Community-based conservation programs"
+                ]
+            },
+            {
+                "heading": "Government Initiatives",
+                "points": [
+                    "Amrit Dharohar initiative for wetland conservation",
+                    "Wetland Authority at state and national level",
+                    "Promotion of eco-tourism in wetlands",
+                    "Restoration of degraded wetlands",
+                    "Public awareness campaigns"
+                ]
+            },
+            {
+                "heading": "Challenges in Wetland Conservation",
+                "points": [
+                    "Lack of awareness among local communities",
+                    "Weak enforcement of environmental laws",
+                    "Data gaps in wetland mapping",
+                    "Competing land use pressures",
+                    "Climate variability and water stress"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Montreux Record is related to:",
+                    "options": [
+                    "Air pollution control",
+                    "Threatened wetlands",
+                    "Forest conservation",
+                    "River linking"
+                    ],
+                    "answer": "Threatened wetlands"
+                },
+                {
+                    "question": "Montreux Record is part of:",
+                    "options": [
+                    "UNFCCC",
+                    "Ramsar Convention",
+                    "CBD only",
+                    "WTO"
+                    ],
+                    "answer": "Ramsar Convention"
+                },
+                {
+                    "question": "Wetlands in India are mainly found in:",
+                    "options": [
+                    "Only deserts",
+                    "All climatic regions",
+                    "Only mountains",
+                    "Only plains"
+                    ],
+                    "answer": "All climatic regions"
+                },
+                {
+                    "question": "Chilika Lake is located in:",
+                    "options": [
+                    "Kerala",
+                    "Odisha",
+                    "Gujarat",
+                    "Assam"
+                    ],
+                    "answer": "Odisha"
+                },
+                {
+                    "question": "Sundarbans is a:",
+                    "options": [
+                    "Desert ecosystem",
+                    "Mangrove wetland",
+                    "Mountain lake",
+                    "Grassland"
+                    ],
+                    "answer": "Mangrove wetland"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Keoladeo National Park is known for:",
+                    "options": [
+                    "Tigers",
+                    "Migratory birds",
+                    "Coral reefs",
+                    "Deserts"
+                    ],
+                    "answer": "Migratory birds"
+                },
+                {
+                    "question": "Wetlands help in:",
+                    "options": [
+                    "Flood control",
+                    "Earthquakes",
+                    "Deforestation",
+                    "Air pollution increase"
+                    ],
+                    "answer": "Flood control"
+                },
+                {
+                    "question": "NPCA stands for:",
+                    "options": [
+                    "National Program for Coastal Areas",
+                    "National Plan for Conservation of Aquatic Ecosystems",
+                    "National Policy on Climate Action",
+                    "National Program for Coral Areas"
+                    ],
+                    "answer": "National Plan for Conservation of Aquatic Ecosystems"
+                },
+                {
+                    "question": "Wetlands are important for:",
+                    "options": [
+                    "Biodiversity conservation",
+                    "Desert expansion",
+                    "Industrial waste increase",
+                    "Soil erosion increase"
+                    ],
+                    "answer": "Biodiversity conservation"
+                },
+                {
+                    "question": "Loktak Lake is located in:",
+                    "options": [
+                    "Manipur",
+                    "Kerala",
+                    "Rajasthan",
+                    "Bihar"
+                    ],
+                    "answer": "Manipur"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Montreux Record lists threatened wetlands\n2. Chilika Lake was removed from Montreux Record after restoration\n3. Wetlands do not support biodiversity",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Wetland conservation is important because it:",
+                    "options": [
+                    "Increases desertification",
+                    "Supports water security and biodiversity",
+                    "Reduces rainfall",
+                    "Increases pollution"
+                    ],
+                    "answer": "Supports water security and biodiversity"
+                },
+                {
+                    "question": "Coastal wetlands include:",
+                    "options": [
+                    "Mangroves and estuaries",
+                    "Glaciers only",
+                    "Deserts only",
+                    "Mountains only"
+                    ],
+                    "answer": "Mangroves and estuaries"
+                },
+                {
+                    "question": "Wetland loss in India is mainly due to:",
+                    "options": [
+                    "Urbanization and pollution",
+                    "Forest expansion",
+                    "Increased rainfall",
+                    "Ice formation"
+                    ],
+                    "answer": "Urbanization and pollution"
+                },
+                {
+                    "question": "Wetlands contribute to climate mitigation by:",
+                    "options": [
+                    "Releasing methane only",
+                    "Carbon storage in biomass and soil",
+                    "Increasing temperature",
+                    "Reducing oxygen levels"
+                    ],
+                    "answer": "Carbon storage in biomass and soil"
+                }
+            ]
+        }
+    }
+]

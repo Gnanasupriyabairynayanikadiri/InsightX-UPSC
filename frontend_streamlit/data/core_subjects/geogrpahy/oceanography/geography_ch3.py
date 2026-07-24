@@ -1,0 +1,1064 @@
+TOPICS = [
+    {
+        "name": "Temperature of Ocean Water",
+        "notes": [
+            {
+                "heading": "Ocean Temperature – Overview",
+                "points": [
+                    "Ocean water temperature varies in space and depth",
+                    "Controlled by solar radiation, latitude, currents, and depth",
+                    "Important for climate regulation and marine life",
+                    "Heat stored in oceans influences global weather systems"
+                ]
+            },
+            {
+                "heading": "Factors Affecting Ocean Temperature",
+                "points": [
+                    "Latitude (most important factor)",
+                    "Solar radiation intensity",
+                    "Ocean currents (warm & cold currents)",
+                    "Prevailing winds",
+                    "Depth of water",
+                    "Seasonal variation"
+                ]
+            },
+            {
+                "heading": "Vertical Distribution of Temperature",
+                "points": [
+                    "Temperature decreases with depth",
+                    "Surface layer is warm due to direct sunlight",
+                    "Deep ocean is cold and stable",
+                    "Thermocline is the transition zone",
+                    "Very important concept in oceanography"
+                ]
+            },
+            {
+                "heading": "Layers of Vertical Temperature Structure",
+                "points": [
+                    "Surface layer (Mixed layer): warm, well-mixed by winds",
+                    "Thermocline: rapid temperature decline zone",
+                    "Deep zone: cold, stable temperature (~0–4°C)",
+                    "Thermocline varies with latitude and season",
+                    "Strongest in tropics, weak in polar regions"
+                ]
+            },
+            {
+                "heading": "Significance of Vertical Temperature",
+                "points": [
+                    "Controls marine biodiversity distribution",
+                    "Affects ocean circulation",
+                    "Influences fishing zones",
+                    "Affects nutrient mixing",
+                    "Important for climate regulation"
+                ]
+            },
+            {
+                "heading": "Spatial Distribution of Ocean Temperature",
+                "points": [
+                    "Temperature varies horizontally across oceans",
+                    "Highest near equator, lowest near poles",
+                    "Warm currents increase temperature of adjacent coasts",
+                    "Cold currents decrease coastal temperatures",
+                    "Strong latitudinal control"
+                ]
+            },
+            {
+                "heading": "Latitude-wise Temperature Pattern",
+                "points": [
+                    "Equatorial regions: highest temperature",
+                    "Tropics: moderately high temperature",
+                    "Temperate zones: moderate variation",
+                    "Polar regions: very low temperature",
+                    "Temperature decreases from equator to poles"
+                ]
+            },
+            {
+                "heading": "Influence of Ocean Currents",
+                "points": [
+                    "Warm currents raise temperature of nearby coasts",
+                    "Cold currents lower temperature of coastal regions",
+                    "Example: Gulf Stream warms Europe",
+                    "Peru Current cools western South America",
+                    "Important climate regulator"
+                ]
+            },
+            {
+                "heading": "Seasonal Variation in Ocean Temperature",
+                "points": [
+                    "Oceans warm slowly and cool slowly",
+                    "Less variation than land",
+                    "Maximum temperature in late summer",
+                    "Minimum in late winter",
+                    "More stable in deep ocean"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Ocean temperature is highest at:",
+                    "options": [
+                    "Poles",
+                    "Equator",
+                    "Deep ocean",
+                    "Mid-ocean ridges"
+                    ],
+                    "answer": "Equator"
+                },
+                {
+                    "question": "Temperature decreases with:",
+                    "options": [
+                    "Depth",
+                    "Wind speed",
+                    "Salinity",
+                    "Latitude increase only"
+                    ],
+                    "answer": "Depth"
+                },
+                {
+                    "question": "Thermocline is:",
+                    "options": [
+                    "Surface layer",
+                    "Zone of rapid temperature change",
+                    "Ocean trench",
+                    "Coral reef"
+                    ],
+                    "answer": "Zone of rapid temperature change"
+                },
+                {
+                    "question": "Deep ocean temperature is usually:",
+                    "options": [
+                    "20°C",
+                    "10°C",
+                    "0–4°C",
+                    "30°C"
+                    ],
+                    "answer": "0–4°C"
+                },
+                {
+                    "question": "Warm currents:",
+                    "options": [
+                    "Decrease coastal temperature",
+                    "Increase coastal temperature",
+                    "Have no effect",
+                    "Freeze oceans"
+                    ],
+                    "answer": "Increase coastal temperature"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Surface ocean layer is also called:",
+                    "options": [
+                    "Thermocline",
+                    "Mixed layer",
+                    "Abyssal zone",
+                    "Trench zone"
+                    ],
+                    "answer": "Mixed layer"
+                },
+                {
+                    "question": "Thermocline is strongest in:",
+                    "options": [
+                    "Polar regions",
+                    "Tropical regions",
+                    "Deep trenches",
+                    "Continental shelves"
+                    ],
+                    "answer": "Tropical regions"
+                },
+                {
+                    "question": "Ocean temperature is controlled mainly by:",
+                    "options": [
+                    "Rainfall",
+                    "Latitude",
+                    "Earthquakes",
+                    "Volcanoes"
+                    ],
+                    "answer": "Latitude"
+                },
+                {
+                    "question": "Cold currents:",
+                    "options": [
+                    "Increase temperature",
+                    "Decrease temperature",
+                    "Do not affect climate",
+                    "Cause rainfall only"
+                    ],
+                    "answer": "Decrease temperature"
+                },
+                {
+                    "question": "Deep ocean waters are:",
+                    "options": [
+                    "Warm and unstable",
+                    "Cold and stable",
+                    "Hot and variable",
+                    "Frozen"
+                    ],
+                    "answer": "Cold and stable"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Temperature decreases with depth\n2. Thermocline is absent in polar regions\n3. Warm currents increase coastal temperature",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "All"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Thermocline – rapid temperature change zone",
+                    "Abyssal plain – warm surface zone",
+                    "Shelf – deep ocean zone",
+                    "Trench – warm water zone"
+                    ],
+                    "answer": "Thermocline – rapid temperature change zone"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                    "Ocean temperature is uniform everywhere",
+                    "Latitude controls spatial distribution of temperature",
+                    "Deep ocean is warm",
+                    "Currents have no effect on temperature"
+                    ],
+                    "answer": "Latitude controls spatial distribution of temperature"
+                },
+                {
+                    "question": "Thermocline is weak in:",
+                    "options": [
+                    "Tropics",
+                    "Temperate regions",
+                    "Polar regions",
+                    "Equator only"
+                    ],
+                    "answer": "Polar regions"
+                },
+                {
+                    "question": "Oceans influence climate mainly by:",
+                    "options": [
+                    "Storing and redistributing heat",
+                    "Producing earthquakes",
+                    "Forming mountains",
+                    "Creating deserts"
+                    ],
+                    "answer": "Storing and redistributing heat"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Factors Affecting Temperature Distribution",
+        "notes": [
+            {
+                "heading": "Temperature Distribution – Overview",
+                "points": [
+                    "Ocean temperature is not uniform across the globe",
+                    "It varies horizontally (spatial) and vertically (depth-wise)",
+                    "Controlled by multiple natural factors",
+                    "These factors regulate climate and marine systems"
+                ]
+            },
+            {
+                "heading": "1. Latitude – Most Important Factor",
+                "points": [
+                    "Controls angle of solar radiation",
+                    "Temperature decreases from Equator to Poles",
+                    "Equator receives vertical sun rays → high temperature",
+                    "Poles receive slanting rays → low temperature",
+                    "Creates global temperature gradient"
+                ]
+            },
+            {
+                "heading": "Significance of Latitude",
+                "points": [
+                    "Determines surface ocean heating",
+                    "Influences evaporation rates",
+                    "Controls marine biodiversity zones",
+                    "Strongest factor in spatial distribution",
+                    "Forms basis of climate zones"
+                ]
+            },
+            {
+                "heading": "2. Unequal Distribution of Land and Water",
+                "points": [
+                    "Land heats and cools faster than water",
+                    "Northern Hemisphere has more land → higher variation",
+                    "Southern Hemisphere dominated by oceans → stable temperatures",
+                    "Coastal areas have moderate temperatures",
+                    "Interior continents show extremes"
+                ]
+            },
+            {
+                "heading": "Effects of Land-Water Distribution",
+                "points": [
+                    "Creates regional temperature differences",
+                    "Ocean moderates climate of coastal regions",
+                    "Landmasses increase temperature variability",
+                    "Affects monsoon systems",
+                    "Important for climate regulation"
+                ]
+            },
+            {
+                "heading": "3. Prevailing Winds",
+                "points": [
+                    "Winds transfer heat between ocean and atmosphere",
+                    "Onshore winds moderate coastal temperatures",
+                    "Offshore winds reduce ocean surface temperature influence",
+                    "Strong winds enhance evaporation and cooling",
+                    "Important in seasonal temperature changes"
+                ]
+            },
+            {
+                "heading": "Wind Impact on Ocean Temperature",
+                "points": [
+                    "Trade winds influence equatorial ocean temperatures",
+                    "Westerlies affect temperate ocean zones",
+                    "Monsoon winds affect Indian Ocean temperature patterns",
+                    "Wind-driven mixing distributes heat vertically",
+                    "Enhances ocean-atmosphere interaction"
+                ]
+            },
+            {
+                "heading": "4. Ocean Currents",
+                "points": [
+                    "Major factor controlling horizontal temperature distribution",
+                    "Warm currents increase temperature of adjacent coasts",
+                    "Cold currents reduce coastal temperatures",
+                    "Transfer heat from equator to poles",
+                    "Act as global heat conveyor belt"
+                ]
+            },
+            {
+                "heading": "Examples of Ocean Currents",
+                "points": [
+                    "Gulf Stream → warms Western Europe",
+                    "Kuroshio Current → warms Japan",
+                    "Peru Current → cools South America west coast",
+                    "California Current → cools North America west coast",
+                    "Brazil Current → warms eastern South America"
+                ]
+            },
+            {
+                "heading": "Combined Effect of All Factors",
+                "points": [
+                    "Latitude sets global baseline temperature",
+                    "Land-water distribution modifies regional variation",
+                    "Winds redistribute surface heat",
+                    "Ocean currents transport heat globally",
+                    "Together regulate Earth’s climate system"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "The most important factor controlling ocean temperature is:",
+                    "options": [
+                    "Wind",
+                    "Latitude",
+                    "Salinity",
+                    "Depth"
+                    ],
+                    "answer": "Latitude"
+                },
+                {
+                    "question": "Ocean currents mainly:",
+                    "options": [
+                    "Increase earthquakes",
+                    "Redistribute heat",
+                    "Form mountains",
+                    "Stop evaporation"
+                    ],
+                    "answer": "Redistribute heat"
+                },
+                {
+                    "question": "Land heats and cools:",
+                    "options": [
+                    "Slower than water",
+                    "Faster than water",
+                    "Same as water",
+                    "Not at all"
+                    ],
+                    "answer": "Faster than water"
+                },
+                {
+                    "question": "Warm currents:",
+                    "options": [
+                    "Reduce temperature",
+                    "Increase temperature",
+                    "Freeze oceans",
+                    "Have no effect"
+                    ],
+                    "answer": "Increase temperature"
+                },
+                {
+                    "question": "Peru Current is:",
+                    "options": [
+                    "Warm current",
+                    "Cold current",
+                    "Neutral current",
+                    "Tidal current"
+                    ],
+                    "answer": "Cold current"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Northern Hemisphere shows higher temperature variation due to:",
+                    "options": [
+                    "More water area",
+                    "More land area",
+                    "More glaciers",
+                    "More rainfall"
+                    ],
+                    "answer": "More land area"
+                },
+                {
+                    "question": "Prevailing winds affect ocean temperature by:",
+                    "options": [
+                    "Changing tides",
+                    "Heat exchange and mixing",
+                    "Creating earthquakes",
+                    "Forming islands"
+                    ],
+                    "answer": "Heat exchange and mixing"
+                },
+                {
+                    "question": "Coastal areas have:",
+                    "options": [
+                    "Extreme temperatures",
+                    "Moderate temperatures",
+                    "No temperature",
+                    "Frozen climate always"
+                    ],
+                    "answer": "Moderate temperatures"
+                },
+                {
+                    "question": "Gulf Stream affects:",
+                    "options": [
+                    "Africa",
+                    "Europe",
+                    "Australia",
+                    "India"
+                    ],
+                    "answer": "Europe"
+                },
+                {
+                    "question": "Ocean currents move heat from:",
+                    "options": [
+                    "Poles to Equator",
+                    "Equator to Poles",
+                    "Land to rivers",
+                    "Rivers to lakes"
+                    ],
+                    "answer": "Equator to Poles"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Latitude controls solar radiation angle\n2. Ocean currents redistribute heat\n3. Winds have no effect on ocean temperature",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Gulf Stream – warm current",
+                    "Peru Current – warm current",
+                    "Kuroshio – cold current",
+                    "California Current – warm current"
+                    ],
+                    "answer": "Gulf Stream – warm current"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                    "Ocean temperature is uniform everywhere",
+                    "Land heats slower than water",
+                    "Latitude is a key control of temperature",
+                    "Currents do not affect climate"
+                    ],
+                    "answer": "Latitude is a key control of temperature"
+                },
+                {
+                    "question": "Unequal land-water distribution affects:",
+                    "options": [
+                    "Only salinity",
+                    "Temperature variation",
+                    "Only tides",
+                    "Only rainfall"
+                    ],
+                    "answer": "Temperature variation"
+                },
+                {
+                    "question": "Ocean currents are important because they:",
+                    "options": [
+                    "Create earthquakes",
+                    "Regulate global climate",
+                    "Form continents",
+                    "Stop winds"
+                    ],
+                    "answer": "Regulate global climate"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Salinity of Ocean Water",
+        "notes": [
+            {
+                "heading": "Salinity – Overview",
+                "points": [
+                    "Salinity is the amount of dissolved salts in seawater",
+                    "Expressed in parts per thousand (ppt or ‰)",
+                    "Average ocean salinity ≈ 35‰",
+                    "Main salt is sodium chloride (NaCl)",
+                    "Important control of ocean density and circulation"
+                ]
+            },
+            {
+                "heading": "Horizontal Distribution of Salinity",
+                "points": [
+                    "Salinity varies across latitudes and ocean basins",
+                    "Highest in subtropical regions (20°–30° latitudes)",
+                    "Lowest near equator and polar regions",
+                    "Marginal seas show high variation",
+                    "Depends on evaporation–precipitation balance"
+                ]
+            },
+            {
+                "heading": "Latitudinal Pattern of Salinity",
+                "points": [
+                    "Equator → low salinity (heavy rainfall)",
+                    "Subtropics → high salinity (high evaporation)",
+                    "Temperate zones → moderate salinity",
+                    "Polar regions → low salinity (ice melting)",
+                    "Strong climatic control"
+                ]
+            },
+            {
+                "heading": "Vertical Distribution of Salinity",
+                "points": [
+                    "Salinity changes with depth",
+                    "Surface layer shows highest variation",
+                    "Halocline = zone of rapid salinity change",
+                    "Deep ocean has uniform salinity",
+                    "Depends on water mixing and density"
+                ]
+            },
+            {
+                "heading": "Layers of Vertical Salinity",
+                "points": [
+                    "Surface layer: variable salinity due to evaporation and rainfall",
+                    "Halocline: sharp change in salinity",
+                    "Deep layer: stable and uniform salinity",
+                    "Mixing reduces variation in deeper zones",
+                    "Important for ocean circulation"
+                ]
+            },
+            {
+                "heading": "Factors Affecting Salinity – Overview",
+                "points": [
+                    "Evaporation",
+                    "Precipitation",
+                    "River discharge",
+                    "Ocean currents",
+                    "Wind and temperature",
+                    "Ice formation and melting"
+                ]
+            },
+            {
+                "heading": "1. Evaporation",
+                "points": [
+                    "Removes water and increases salinity",
+                    "Higher in hot, dry regions (subtropics)",
+                    "Strong in enclosed seas like Red Sea",
+                    "Increases surface salinity",
+                    "Directly linked to temperature"
+                ]
+            },
+            {
+                "heading": "2. Precipitation",
+                "points": [
+                    "Adds freshwater to oceans",
+                    "Reduces salinity",
+                    "Highest near equator due to rainfall",
+                    "Dilutes surface ocean water",
+                    "Opposes evaporation effect"
+                ]
+            },
+            {
+                "heading": "3. River Discharge",
+                "points": [
+                    "Rivers bring freshwater into oceans",
+                    "Reduces coastal salinity",
+                    "Example: Amazon River reduces Atlantic salinity locally",
+                    "Important near continental margins",
+                    "Seasonal variation effect"
+                ]
+            },
+            {
+                "heading": "4. Ocean Currents",
+                "points": [
+                    "Redistribute saline and fresh waters",
+                    "Warm currents may increase evaporation → higher salinity",
+                    "Cold currents reduce evaporation → lower salinity",
+                    "Mix water between regions",
+                    "Regulate global salinity balance"
+                ]
+            },
+            {
+                "heading": "5. Ice Formation and Melting",
+                "points": [
+                    "Freezing increases salinity of surrounding water",
+                    "Melting reduces salinity",
+                    "Common in polar regions",
+                    "Important in thermohaline circulation",
+                    "Affects ocean density structure"
+                ]
+            },
+            {
+                "heading": "Evaporation vs Precipitation Balance",
+                "points": [
+                    "Evaporation > Precipitation → High salinity (subtropics)",
+                    "Precipitation > Evaporation → Low salinity (equator)",
+                    "Balanced zones → moderate salinity (temperate)",
+                    "Key driver of horizontal distribution",
+                    "Climatic control mechanism"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Average salinity of ocean water is:",
+                    "options": [
+                    "3.5‰",
+                    "35‰",
+                    "350‰",
+                    "0‰"
+                    ],
+                    "answer": "35‰"
+                },
+                {
+                    "question": "Halocline refers to:",
+                    "options": [
+                    "Temperature change zone",
+                    "Salinity change zone",
+                    "Pressure zone",
+                    "Wind zone"
+                    ],
+                    "answer": "Salinity change zone"
+                },
+                {
+                    "question": "Highest ocean salinity is found in:",
+                    "options": [
+                    "Equator",
+                    "Subtropics",
+                    "Poles",
+                    "River mouths"
+                    ],
+                    "answer": "Subtropics"
+                },
+                {
+                    "question": "Evaporation causes salinity to:",
+                    "options": [
+                    "Decrease",
+                    "Increase",
+                    "Remain same",
+                    "Become zero"
+                    ],
+                    "answer": "Increase"
+                },
+                {
+                    "question": "Precipitation causes salinity to:",
+                    "options": [
+                    "Increase",
+                    "Decrease",
+                    "No effect",
+                    "Freeze oceans"
+                    ],
+                    "answer": "Decrease"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Low salinity is found near equator due to:",
+                    "options": [
+                    "High evaporation",
+                    "Heavy rainfall",
+                    "Cold currents",
+                    "Ice formation"
+                    ],
+                    "answer": "Heavy rainfall"
+                },
+                {
+                    "question": "Vertical salinity variation is highest in:",
+                    "options": [
+                    "Deep ocean",
+                    "Surface layer",
+                    "Trenches",
+                    "Ridges"
+                    ],
+                    "answer": "Surface layer"
+                },
+                {
+                    "question": "River discharge affects salinity by:",
+                    "options": [
+                    "Increasing it",
+                    "Decreasing it",
+                    "No effect",
+                    "Freezing water"
+                    ],
+                    "answer": "Decreasing it"
+                },
+                {
+                    "question": "Subtropical salinity is high because of:",
+                    "options": [
+                    "Low evaporation",
+                    "High evaporation",
+                    "High rainfall",
+                    "River input"
+                    ],
+                    "answer": "High evaporation"
+                },
+                {
+                    "question": "Deep ocean salinity is:",
+                    "options": [
+                    "Highly variable",
+                    "Stable and uniform",
+                    "Zero",
+                    "Extremely high"
+                    ],
+                    "answer": "Stable and uniform"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Evaporation increases salinity\n2. Precipitation decreases salinity\n3. Subtropics have highest salinity",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "All"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Halocline – salinity change zone",
+                    "Thermocline – salinity zone",
+                    "Abyssal plain – warm zone",
+                    "Trench – shallow zone"
+                    ],
+                    "answer": "Halocline – salinity change zone"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                    "Salinity is uniform across oceans",
+                    "Equator has highest salinity",
+                    "Subtropics have high salinity due to evaporation",
+                    "Rivers increase ocean salinity"
+                    ],
+                    "answer": "Subtropics have high salinity due to evaporation"
+                },
+                {
+                    "question": "Ice formation affects salinity by:",
+                    "options": [
+                    "Decreasing surrounding salinity",
+                    "Increasing surrounding salinity",
+                    "No effect",
+                    "Stopping ocean currents"
+                    ],
+                    "answer": "Increasing surrounding salinity"
+                },
+                {
+                    "question": "Ocean salinity is controlled mainly by:",
+                    "options": [
+                    "Earthquakes",
+                    "Evaporation–precipitation balance",
+                    "Volcanic eruptions",
+                    "Wind direction only"
+                    ],
+                    "answer": "Evaporation–precipitation balance"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Freshwater Flow, Salinity Distribution & Ocean Density",
+        "notes": [
+            {
+                "heading": "Freshwater Flow from Rivers – Overview",
+                "points": [
+                    "Rivers continuously discharge freshwater into oceans",
+                    "Major source of freshwater input to marine systems",
+                    "Reduces salinity in coastal and estuarine regions",
+                    "Creates salinity gradients near river mouths",
+                    "Important for ocean mixing and circulation"
+                ]
+            },
+            {
+                "heading": "Effects of River Freshwater Input",
+                "points": [
+                    "Dilutes ocean salinity near coasts",
+                    "Forms low-salinity surface layers",
+                    "Affects marine ecosystems and biodiversity",
+                    "Influences coastal currents",
+                    "Creates estuarine circulation patterns"
+                ]
+            },
+            {
+                "heading": "Horizontal Distribution of Salinity – Overview",
+                "points": [
+                    "Salinity varies across latitudes and ocean basins",
+                    "Controlled mainly by evaporation and precipitation",
+                    "Highest in subtropical regions (20°–30°)",
+                    "Lowest near equator and polar regions",
+                    "Strong climatic control"
+                ]
+            },
+            {
+                "heading": "Latitudinal Pattern of Salinity",
+                "points": [
+                    "Equator → low salinity (heavy rainfall)",
+                    "Subtropics → high salinity (high evaporation)",
+                    "Temperate zones → moderate salinity",
+                    "Poles → low salinity (ice melt + low evaporation)",
+                    "Forms global salinity belts"
+                ]
+            },
+            {
+                "heading": "Factors Controlling Horizontal Salinity",
+                "points": [
+                    "Evaporation increases salinity",
+                    "Precipitation decreases salinity",
+                    "River inflow reduces coastal salinity",
+                    "Ocean currents redistribute salinity",
+                    "Wind affects evaporation rates"
+                ]
+            },
+            {
+                "heading": "Vertical Distribution of Salinity – Overview",
+                "points": [
+                    "Salinity changes with depth in oceans",
+                    "Surface layer shows highest variation",
+                    "Halocline = zone of rapid salinity change",
+                    "Deep ocean has uniform salinity",
+                    "Mixing decreases variation with depth"
+                ]
+            },
+            {
+                "heading": "Vertical Salinity Structure",
+                "points": [
+                    "Surface layer: highly variable salinity",
+                    "Halocline: sharp salinity gradient zone",
+                    "Deep layer: stable and uniform salinity",
+                    "Affected by temperature and density differences",
+                    "Important for ocean circulation"
+                ]
+            },
+            {
+                "heading": "Factors Affecting Vertical Salinity",
+                "points": [
+                    "Freshwater input at surface",
+                    "Evaporation increases surface salinity",
+                    "Wind-driven mixing",
+                    "Temperature-induced density changes",
+                    "Deep ocean stability"
+                ]
+            },
+            {
+                "heading": "Density of Ocean Water – Overview",
+                "points": [
+                    "Density = mass per unit volume of seawater",
+                    "Controlled mainly by temperature and salinity",
+                    "Cold and salty water is denser",
+                    "Warm and fresh water is less dense",
+                    "Key factor in ocean circulation"
+                ]
+            },
+            {
+                "heading": "Factors Affecting Ocean Water Density",
+                "points": [
+                    "Temperature (inverse relationship)",
+                    "Salinity (direct relationship)",
+                    "Pressure (increases with depth)",
+                    "Freshwater inflow reduces density",
+                    "Ice formation increases surrounding density"
+                ]
+            },
+            {
+                "heading": "Relationship Between Density, Temperature & Salinity",
+                "points": [
+                    "High temperature → low density",
+                    "High salinity → high density",
+                    "Cold + salty water sinks",
+                    "Warm + fresh water rises",
+                    "Drives thermohaline circulation"
+                ]
+            },
+            {
+                "heading": "Importance of Ocean Density",
+                "points": [
+                    "Controls vertical movement of water masses",
+                    "Drives deep ocean circulation",
+                    "Influences climate system",
+                    "Affects oxygen and nutrient distribution",
+                    "Important for marine life distribution"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Freshwater flow into oceans mainly comes from:",
+                    "options": [
+                    "Volcanoes",
+                    "Rivers",
+                    "Winds",
+                    "Tides"
+                    ],
+                    "answer": "Rivers"
+                },
+                {
+                    "question": "Salinity is highest in:",
+                    "options": [
+                    "Equator",
+                    "Subtropics",
+                    "Poles",
+                    "River mouths"
+                    ],
+                    "answer": "Subtropics"
+                },
+                {
+                    "question": "Halocline refers to:",
+                    "options": [
+                    "Temperature change zone",
+                    "Salinity change zone",
+                    "Pressure zone",
+                    "Wind zone"
+                    ],
+                    "answer": "Salinity change zone"
+                },
+                {
+                    "question": "Dense ocean water is:",
+                    "options": [
+                    "Warm and fresh",
+                    "Cold and salty",
+                    "Hot and fresh",
+                    "Warm and salty"
+                    ],
+                    "answer": "Cold and salty"
+                },
+                {
+                    "question": "River discharge causes salinity to:",
+                    "options": [
+                    "Increase",
+                    "Decrease",
+                    "Remain same",
+                    "Freeze oceans"
+                    ],
+                    "answer": "Decrease"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Horizontal salinity is mainly controlled by:",
+                    "options": [
+                    "Earthquakes",
+                    "Evaporation and precipitation",
+                    "Volcanoes",
+                    "Icebergs only"
+                    ],
+                    "answer": "Evaporation and precipitation"
+                },
+                {
+                    "question": "Vertical salinity variation is highest in:",
+                    "options": [
+                    "Deep ocean",
+                    "Surface layer",
+                    "Ocean trenches",
+                    "Ridges"
+                    ],
+                    "answer": "Surface layer"
+                },
+                {
+                    "question": "Ocean density increases with:",
+                    "options": [
+                    "Higher temperature",
+                    "Lower salinity",
+                    "Higher salinity",
+                    "Freshwater input"
+                    ],
+                    "answer": "Higher salinity"
+                },
+                {
+                    "question": "Cold water is:",
+                    "options": [
+                    "Less dense",
+                    "More dense",
+                    "Neutral",
+                    "Evaporated"
+                    ],
+                    "answer": "More dense"
+                },
+                {
+                    "question": "Ocean currents are influenced by:",
+                    "options": [
+                    "Density differences",
+                    "Earthquakes",
+                    "Wind only",
+                    "Gravity only"
+                    ],
+                    "answer": "Density differences"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Rivers reduce coastal salinity\n2. Density increases with salinity\n3. Warm water is denser than cold water",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Halocline – salinity change zone",
+                    "Thermocline – salinity zone",
+                    "Abyssal plain – warm water",
+                    "Trench – shallow water"
+                    ],
+                    "answer": "Halocline – salinity change zone"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                    "Salinity is uniform in oceans",
+                    "Density depends only on wind",
+                    "Cold salty water sinks",
+                    "Rivers increase salinity"
+                    ],
+                    "answer": "Cold salty water sinks"
+                },
+                {
+                    "question": "Thermohaline circulation is driven by:",
+                    "options": [
+                    "Wind only",
+                    "Density differences",
+                    "Earthquakes",
+                    "Volcanoes"
+                    ],
+                    "answer": "Density differences"
+                },
+                {
+                    "question": "Freshwater inflow affects oceans by:",
+                    "options": [
+                    "Increasing density",
+                    "Reducing salinity",
+                    "Increasing salinity",
+                    "Stopping currents"
+                    ],
+                    "answer": "Reducing salinity"
+                }
+            ]
+        }
+    }
+]

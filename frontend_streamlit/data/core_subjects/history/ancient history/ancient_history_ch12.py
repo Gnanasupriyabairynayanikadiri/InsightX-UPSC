@@ -1,0 +1,999 @@
+TOPICS = [
+    {
+        "name": "Ancient History – Sangam Period: Sangam Literature, South Indian Dynasties & Cholas",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Sangam period refers to early historical South India (c. 300 BCE–300 CE)",
+                    "Flourishing of Tamil literature and culture under Sangam assemblies",
+                    "Three major Tamil dynasties: Cholas, Cheras, and Pandyas",
+                    "Society was advanced in trade, literature, and urbanization"
+                ]
+            },
+            {
+                "heading": "Sangam Literature – Overview",
+                "points": [
+                    "Earliest corpus of Tamil literature",
+                    "Composed in three Sangam assemblies (legendary literary councils)",
+                    "Mainly written in Old Tamil language",
+                    "Reflects social, political, and economic life of ancient South India",
+                    "Includes poetry, grammar, and ethical literature"
+                ]
+            },
+            {
+                "heading": "Three Sangams (Legendary)",
+                "points": [
+                    "First Sangam – held at Madurai (mythical, no surviving works)",
+                    "Second Sangam – also at Madurai (some traditions suggest existence)",
+                    "Third Sangam – at Madurai, most historical works belong here",
+                    "Supported by Pandya kings",
+                    "Literary activity flourished during this phase"
+                ]
+            },
+            {
+                "heading": "Important Sangam Works",
+                "points": [
+                    "Ettuthokai (Eight Anthologies)",
+                    "Pattupattu (Ten Idylls)",
+                    "Tolkappiyam – earliest Tamil grammar text",
+                    "Silappathikaram – epic by Ilango Adigal",
+                    "Manimekalai – Buddhist epic"
+                ]
+            },
+            {
+                "heading": "Themes of Sangam Literature",
+                "points": [
+                    "Aham (interior) – love and emotions",
+                    "Puram (exterior) – war, politics, and public life",
+                    "Valor and heroism of kings and warriors",
+                    "Social life and trade activities",
+                    "Religious beliefs and rituals"
+                ]
+            },
+            {
+                "heading": "Society in Sangam Age",
+                "points": [
+                    "Highly stratified but flexible social structure",
+                    "Importance of warriors and chieftains",
+                    "Women enjoyed relatively higher status",
+                    "Maritime trade was significant",
+                    "Agriculture and pastoralism coexisted"
+                ]
+            },
+            {
+                "heading": "Economy in Sangam Period",
+                "points": [
+                    "Agriculture was the main occupation",
+                    "Active maritime trade with Rome and Southeast Asia",
+                    "Ports like Muziris and Kaveripattinam were important",
+                    "Use of coins in trade",
+                    "Guilds and merchant groups existed"
+                ]
+            },
+            {
+                "heading": "Religious Life in Sangam Period",
+                "points": [
+                    "Worship of nature gods and local deities",
+                    "Murugan was a prominent deity",
+                    "Early forms of Shaivism and Vaishnavism",
+                    "Buddhism and Jainism also present",
+                    "Ancestor worship was common"
+                ]
+            },
+            {
+                "heading": "South Indian Dynasties – Overview",
+                "points": [
+                    "Major dynasties: Cholas, Cheras, and Pandyas",
+                    "Known as Tamilakam political structure",
+                    "Strong maritime and inland trade networks",
+                    "Cultural and literary flourishing",
+                    "Frequent inter-dynastic wars"
+                ]
+            },
+            {
+                "heading": "Cheras",
+                "points": [
+                    "Ruled parts of modern Kerala and Tamil Nadu",
+                    "Capital: Vanji (Karur)",
+                    "Important port: Muziris",
+                    "Known for spice trade with Rome",
+                    "Important rulers like Senguttuvan Chera"
+                ]
+            },
+            {
+                "heading": "Pandyas",
+                "points": [
+                    "Ruled southern Tamil Nadu with capital at Madurai",
+                    "Patrons of Sangam literature",
+                    "Strong maritime trade connections",
+                    "Known for pearl fisheries",
+                    "Engaged in wars with Cholas and Cheras"
+                ]
+            },
+            {
+                "heading": "Early Cholas",
+                "points": [
+                    "Ruled Kaveri delta region",
+                    "Capital: Uraiyur and later Puhar (Kaveripattinam)",
+                    "Famous rulers include Karikala Chola",
+                    "Developed irrigation and agriculture",
+                    "Strong naval and trade activities"
+                ]
+            },
+            {
+                "heading": "Cholas – Overview",
+                "points": [
+                    "Early Cholas are different from later medieval Cholas",
+                    "Sangam Cholas were regional powers in Tamil Nadu",
+                    "Known for administrative and irrigation works",
+                    "Controlled fertile Kaveri delta",
+                    "Important contributors to Tamil culture"
+                ]
+            },
+            {
+                "heading": "Karikala Chola",
+                "points": [
+                    "Most famous early Chola ruler",
+                    "Built Kallanai (Grand Anicut) on Kaveri river",
+                    "Promoted irrigation and agriculture",
+                    "Strengthened Chola naval power",
+                    "Expanded Chola territory"
+                ]
+            },
+            {
+                "heading": "Economy of South Indian Dynasties",
+                "points": [
+                    "Agriculture based on river valleys",
+                    "Spice trade with Roman Empire",
+                    "Maritime trade via Indian Ocean routes",
+                    "Use of barter and coin systems",
+                    "Urban trade centres flourished"
+                ]
+            },
+            {
+                "heading": "Significance of Sangam Age",
+                "points": [
+                    "Rich source of early Tamil history",
+                    "Evidence of advanced urban and trade systems",
+                    "Development of Tamil language and literature",
+                    "Strong maritime trade connections",
+                    "Foundation of South Indian cultural identity"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Sangam literature is written mainly in:",
+                    "options": [
+                    "Sanskrit",
+                    "Tamil",
+                    "Prakrit",
+                    "Pali"
+                    ],
+                    "answer": "Tamil"
+                },
+                {
+                    "question": "Capital of Cheras was:",
+                    "options": [
+                    "Madurai",
+                    "Vanji",
+                    "Kanchi",
+                    "Ujjain"
+                    ],
+                    "answer": "Vanji"
+                },
+                {
+                    "question": "Famous Chola ruler of Sangam age was:",
+                    "options": [
+                    "Ashoka",
+                    "Karikala Chola",
+                    "Kanishka",
+                    "Harsha"
+                    ],
+                    "answer": "Karikala Chola"
+                },
+                {
+                    "question": "Sangam period is mainly associated with:",
+                    "options": [
+                    "North India",
+                    "South India",
+                    "Central Asia",
+                    "Western India"
+                    ],
+                    "answer": "South India"
+                },
+                {
+                    "question": "Important port of Cheras was:",
+                    "options": [
+                    "Tamralipti",
+                    "Muziris",
+                    "Broach",
+                    "Taxila"
+                    ],
+                    "answer": "Muziris"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Kallanai (Grand Anicut) was built by:",
+                    "options": [
+                    "Pandya ruler",
+                    "Karikala Chola",
+                    "Chera ruler",
+                    "Maurya ruler"
+                    ],
+                    "answer": "Karikala Chola"
+                },
+                {
+                    "question": "Sangam literature deals with:",
+                    "options": [
+                    "Only religion",
+                    "Aham and Puram themes",
+                    "Only politics",
+                    "Only science"
+                    ],
+                    "answer": "Aham and Puram themes"
+                },
+                {
+                    "question": "Madurai was capital of:",
+                    "options": [
+                    "Cholas",
+                    "Pandyas",
+                    "Cheras",
+                    "Guptas"
+                    ],
+                    "answer": "Pandyas"
+                },
+                {
+                    "question": "Sangam age trade was mainly with:",
+                    "options": [
+                    "China only",
+                    "Roman Empire",
+                    "Africa only",
+                    "Japan"
+                    ],
+                    "answer": "Roman Empire"
+                },
+                {
+                    "question": "Tolkappiyam is related to:",
+                    "options": [
+                    "Medicine",
+                    "Grammar",
+                    "Astronomy",
+                    "Politics"
+                    ],
+                    "answer": "Grammar"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Sangam literature reflects both love and war themes\n2. Cheras controlled the Kaveri delta\n3. Karikala Chola built irrigation structures",
+                    "options": [
+                    "1 and 3 only",
+                    "2 and 3 only",
+                    "1 and 2 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "A major feature of Sangam economy was:",
+                    "options": [
+                    "Industrial economy",
+                    "Maritime trade",
+                    "Nomadic economy",
+                    "Closed economy"
+                    ],
+                    "answer": "Maritime trade"
+                },
+                {
+                    "question": "Correct statement about Sangam society is:",
+                    "options": [
+                    "Women had very low status",
+                    "Warrior culture was important",
+                    "No trade existed",
+                    "No literature existed"
+                    ],
+                    "answer": "Warrior culture was important"
+                },
+                {
+                    "question": "Muziris was important for:",
+                    "options": [
+                    "Agriculture",
+                    "Spice trade",
+                    "Mining",
+                    "Temple building"
+                    ],
+                    "answer": "Spice trade"
+                },
+                {
+                    "question": "Sangam age is significant because:",
+                    "options": [
+                    "It marks decline of culture",
+                    "It provides earliest Tamil historical evidence",
+                    "It ended trade",
+                    "It introduced foreign rule"
+                    ],
+                    "answer": "It provides earliest Tamil historical evidence"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Ancient History – Sangam Age: Cheras, Pandyas, Polity, Society, Culture & Economy",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Sangam Age (c. 300 BCE–300 CE) represents early historical South India (Tamilakam)",
+                    "Three major Tamil kingdoms: Cheras, Pandyas, and Cholas",
+                    "Strong maritime trade, agrarian base, and cultural flourishing",
+                    "Sangam literature provides key insights into society and polity",
+                    "Society was warrior-oriented with advanced trade networks"
+                ]
+            },
+            {
+                "heading": "Cheras – Overview",
+                "points": [
+                    "Ruled western Tamil region (modern Kerala and parts of Tamil Nadu)",
+                    "Capital was Vanji (Karur in Tamil Nadu tradition)",
+                    "Controlled trade routes to Arabian Sea",
+                    "Known for spice trade with Roman Empire",
+                    "Prominent rulers include Senguttuvan Chera"
+                ]
+            },
+            {
+                "heading": "Cheras – Economy and Trade",
+                "points": [
+                    "Major exporter of spices (pepper, cardamom)",
+                    "Maritime trade through Muziris port",
+                    "Trade with Romans, Arabs, and Southeast Asia",
+                    "Agriculture supported by monsoon rainfall",
+                    "Wealth derived from overseas commerce"
+                ]
+            },
+            {
+                "heading": "Pandyas – Overview",
+                "points": [
+                    "Ruled southern Tamil Nadu with capital at Madurai",
+                    "One of the oldest Tamil dynasties",
+                    "Patrons of Sangam literature",
+                    "Controlled pearl fisheries in Gulf of Mannar",
+                    "Frequent conflicts with Cholas and Cheras"
+                ]
+            },
+            {
+                "heading": "Pandyas – Economy and Trade",
+                "points": [
+                    "Pearl diving and fisheries were major income sources",
+                    "Active participation in maritime trade",
+                    "Agriculture based on river valleys",
+                    "Trade with Roman Empire and West Asia",
+                    "Madurai was a major cultural and trade hub"
+                ]
+            },
+            {
+                "heading": "Sangam Polity – Overview",
+                "points": [
+                    "Monarchical system with hereditary kingship",
+                    "King was central authority but advised by assemblies",
+                    "Chieftains (Velirs) held regional power",
+                    "Warrior class played important role in politics",
+                    "Frequent inter-kingdom warfare"
+                ]
+            },
+            {
+                "heading": "Political Structure",
+                "points": [
+                    "King (Vendan) was supreme ruler",
+                    "Council of ministers assisted administration",
+                    "Local chieftains had semi-independent authority",
+                    "Army included infantry, cavalry, and elephants",
+                    "Tribute system existed in subordinate regions"
+                ]
+            },
+            {
+                "heading": "Administration in Sangam Age",
+                "points": [
+                    "Simple administrative structure compared to North India",
+                    "King directly involved in governance",
+                    "Revenue collected mainly in kind",
+                    "Village-level administration existed",
+                    "Justice was based on king’s judgment and customs"
+                ]
+            },
+            {
+                "heading": "Sangam Society – Overview",
+                "points": [
+                    "Society divided into various occupational groups",
+                    "Warriors (Maravar) held high status",
+                    "Agriculturists and traders were important classes",
+                    "Women enjoyed relatively higher status than later periods",
+                    "Social mobility existed to some extent"
+                ]
+            },
+            {
+                "heading": "Social Features",
+                "points": [
+                    "Hero worship (Nadukal tradition) was common",
+                    "Importance of honor and valor in society",
+                    "Marriage customs were well defined",
+                    "Presence of Brahmins in religious roles",
+                    "Urban and rural social life coexisted"
+                ]
+            },
+            {
+                "heading": "Status of Women",
+                "points": [
+                    "Women participated in social and literary life",
+                    "Poetesses existed in Sangam literature",
+                    "Relatively better status compared to later periods",
+                    "Marriage and love themes prominent in literature",
+                    "Some women held influence in royal courts"
+                ]
+            },
+            {
+                "heading": "Religion in Sangam Society",
+                "points": [
+                    "Worship of nature gods and Murugan (Tamil deity)",
+                    "Early Shaiva and Vaishnava traditions",
+                    "Buddhism and Jainism also present",
+                    "Ancestor worship was important",
+                    "Religious tolerance existed"
+                ]
+            },
+            {
+                "heading": "Sangam Culture",
+                "points": [
+                    "Rich Tamil literary tradition",
+                    "Development of classical Tamil language",
+                    "Heroic and romantic poetry themes",
+                    "Music and dance were part of cultural life",
+                    "Strong oral and written traditions"
+                ]
+            },
+            {
+                "heading": "Economy of Sangam Period – Overview",
+                "points": [
+                    "Agriculture was the primary economic activity",
+                    "Maritime trade played a major role",
+                    "Urban centers developed around ports",
+                    "Craft production and guilds existed",
+                    "Monetary and barter systems coexisted"
+                ]
+            },
+            {
+                "heading": "Agriculture",
+                "points": [
+                    "Rice was the main crop in fertile river valleys",
+                    "Irrigation systems supported farming",
+                    "Cattle rearing was important",
+                    "Land controlled by kings and local chieftains",
+                    "Agricultural surplus supported trade"
+                ]
+            },
+            {
+                "heading": "Trade and Commerce",
+                "points": [
+                    "Extensive trade with Roman Empire",
+                    "Major exports: spices, pearls, textiles",
+                    "Imports included gold, wine, and luxury goods",
+                    "Important ports: Muziris, Kaveripattinam",
+                    "Merchant guilds regulated trade activities"
+                ]
+            },
+            {
+                "heading": "Urban Economy",
+                "points": [
+                    "Cities developed around trade centers",
+                    "Kaveripattinam was a major port city",
+                    "Craft specialization in textiles, metalwork, and pottery",
+                    "Urban markets supported local and foreign trade",
+                    "Decline in some urban centers toward late Sangam phase"
+                ]
+            },
+            {
+                "heading": "Significance of Sangam Age",
+                "points": [
+                    "Earliest historical evidence of Tamil society",
+                    "Strong maritime trade connections",
+                    "Development of classical Tamil literature",
+                    "Balanced agrarian and commercial economy",
+                    "Foundation of South Indian cultural identity"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Capital of Pandyas during Sangam period was:",
+                    "options": [
+                    "Vanji",
+                    "Madurai",
+                    "Kanchi",
+                    "Ujjain"
+                    ],
+                    "answer": "Madurai"
+                },
+                {
+                    "question": "Cheras controlled which major trade route?",
+                    "options": [
+                    "Silk Route",
+                    "Arabian Sea route",
+                    "Ganga valley route",
+                    "Deccan plateau route"
+                    ],
+                    "answer": "Arabian Sea route"
+                },
+                {
+                    "question": "Major export of Sangam economy was:",
+                    "options": [
+                    "Iron",
+                    "Spices and pearls",
+                    "Coal",
+                    "Wheat"
+                    ],
+                    "answer": "Spices and pearls"
+                },
+                {
+                    "question": "Muziris was a famous:",
+                    "options": [
+                    "Temple city",
+                    "Port city",
+                    "Capital city",
+                    "Military base"
+                    ],
+                    "answer": "Port city"
+                },
+                {
+                    "question": "Sangam society was mainly:",
+                    "options": [
+                    "Industrial",
+                    "Warrior and agrarian",
+                    "Nomadic",
+                    "Feudal only"
+                    ],
+                    "answer": "Warrior and agrarian"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Nadukal tradition refers to:",
+                    "options": [
+                    "Trade system",
+                    "Hero stone worship",
+                    "Tax system",
+                    "Marriage system"
+                    ],
+                    "answer": "Hero stone worship"
+                },
+                {
+                    "question": "Sangam economy was supported mainly by:",
+                    "options": [
+                    "Mining",
+                    "Agriculture and trade",
+                    "Industry",
+                    "Fishing only"
+                    ],
+                    "answer": "Agriculture and trade"
+                },
+                {
+                    "question": "Sangam literature mainly deals with:",
+                    "options": [
+                    "Science and technology",
+                    "Aham and Puram themes",
+                    "Only religion",
+                    "Only administration"
+                    ],
+                    "answer": "Aham and Puram themes"
+                },
+                {
+                    "question": "Pearl fisheries were associated with:",
+                    "options": [
+                    "Cholas",
+                    "Pandyas",
+                    "Cheras",
+                    "Guptas"
+                    ],
+                    "answer": "Pandyas"
+                },
+                {
+                    "question": "Guilds in Sangam economy were called:",
+                    "options": [
+                    "Shrenis",
+                    "Sabhas",
+                    "Samitis",
+                    "Janapadas"
+                    ],
+                    "answer": "Shrenis"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Sangam society gave importance to warrior class\n2. Cheras were known for spice trade\n3. Pandyas controlled pearl fisheries",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1, 2 and 3"
+                },
+                {
+                    "question": "A key feature of Sangam economy was:",
+                    "options": [
+                    "Industrial dominance",
+                    "Maritime trade with Rome",
+                    "No trade system",
+                    "Closed economy"
+                    ],
+                    "answer": "Maritime trade with Rome"
+                },
+                {
+                    "question": "Sangam polity was characterized by:",
+                    "options": [
+                    "Republican system",
+                    "Monarchical system with chieftains",
+                    "Military dictatorship",
+                    "Theocracy only"
+                    ],
+                    "answer": "Monarchical system with chieftains"
+                },
+                {
+                    "question": "Correct statement about Sangam age is:",
+                    "options": [
+                    "Women had no social role",
+                    "It shows early urbanization and trade",
+                    "No literature existed",
+                    "It was entirely tribal"
+                    ],
+                    "answer": "It shows early urbanization and trade"
+                },
+                {
+                    "question": "Sangam age is important because:",
+                    "options": [
+                    "It represents decline of culture",
+                    "It provides earliest Tamil historical record",
+                    "It ended trade",
+                    "It introduced foreign rule"
+                    ],
+                    "answer": "It provides earliest Tamil historical record"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Ancient History – Foreign Dynasties, Commercial Contacts & Schools of Art",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Ancient India witnessed significant interaction with foreign dynasties and cultures",
+                    "Trade and commerce connected India with Central Asia, West Asia, and the Roman world",
+                    "Foreign rule introduced new artistic and cultural influences",
+                    "Artistic schools developed under royal patronage and religious movements"
+                ]
+            },
+            {
+                "heading": "Foreign Dynasties in Ancient India",
+                "points": [
+                    "Indo-Greeks (Bactrian Greeks) ruled north-west India after Alexander’s successors",
+                    "Shakas (Scythians) entered through Central Asia and established rule in western India",
+                    "Parthians (Pahlavas) controlled parts of north-west India",
+                    "Kushanas created a large empire linking Central Asia and India",
+                    "These dynasties contributed to cultural and economic exchange"
+                ]
+            },
+            {
+                "heading": "Indo-Greeks",
+                "points": [
+                    "Ruled north-west India after decline of Mauryan influence",
+                    "Introduced Hellenistic cultural elements",
+                    "Coinage system with bilingual inscriptions",
+                    "Promoted Gandhara art style",
+                    "Famous ruler: Menander (Milinda)"
+                ]
+            },
+            {
+                "heading": "Shakas (Scythians)",
+                "points": [
+                    "Nomadic tribe from Central Asia",
+                    "Established power in western and north-western India",
+                    "Integrated with Indian culture over time",
+                    "Contributed to coinage and administration",
+                    "Later merged into Indian society"
+                ]
+            },
+            {
+                "heading": "Kushanas",
+                "points": [
+                    "Founded by Kujula Kadphises and expanded by Kanishka",
+                    "Controlled trade routes including Silk Route",
+                    "Promoted Buddhism, especially Mahayana sect",
+                    "Capital at Peshawar (Purushapura)",
+                    "Played key role in cultural synthesis between India, China, and Rome"
+                ]
+            },
+            {
+                "heading": "Kanishka",
+                "points": [
+                    "Most famous Kushana ruler",
+                    "Patron of Buddhism and Fourth Buddhist Council",
+                    "Promoted Gandhara and Mathura art",
+                    "Expanded empire across Central and North India",
+                    "Encouraged Silk Route trade"
+                ]
+            },
+            {
+                "heading": "Commercial Contacts with Outside World – Overview",
+                "points": [
+                    "India had active trade links with Roman Empire, Central Asia, and Southeast Asia",
+                    "Maritime and overland Silk Route trade networks were active",
+                    "Indian spices, textiles, and gems were highly valued abroad",
+                    "Foreign gold and silver flowed into India",
+                    "Trade led to cultural exchange and urban growth"
+                ]
+            },
+            {
+                "heading": "Trade with Roman Empire",
+                "points": [
+                    "Major exports: spices, cotton textiles, pearls, ivory",
+                    "Imports: gold, wine, glassware",
+                    "Ports like Muziris, Arikamedu, and Broach were important",
+                    "Roman coins found in South India",
+                    "Strong maritime trade during early centuries CE"
+                ]
+            },
+            {
+                "heading": "Silk Route Trade",
+                "points": [
+                    "Connected India with China and Central Asia",
+                    "Kushanas played key role in controlling routes",
+                    "Exchange of goods, ideas, and religions",
+                    "Spread of Buddhism to Central and East Asia",
+                    "Facilitated cultural diffusion"
+                ]
+            },
+            {
+                "heading": "Maritime Trade",
+                "points": [
+                    "Indian Ocean trade linked India with Southeast Asia and Africa",
+                    "Monsoon winds helped navigation",
+                    "Ports like Tamralipti and Kaveripattinam were active",
+                    "Trade in spices, textiles, and precious stones",
+                    "Led to Indian cultural influence in Southeast Asia"
+                ]
+            },
+            {
+                "heading": "Impact of Foreign Trade",
+                "points": [
+                    "Economic prosperity and urbanization",
+                    "Growth of merchant guilds",
+                    "Circulation of foreign coins in India",
+                    "Cultural exchange and religious spread",
+                    "Development of cosmopolitan society"
+                ]
+            },
+            {
+                "heading": "Schools of Art – Overview",
+                "points": [
+                    "Ancient Indian art developed under religious and royal patronage",
+                    "Three major schools: Gandhara, Mathura, and Amaravati",
+                    "Each school had distinct artistic style and regional influence",
+                    "Buddhism played major role in art development",
+                    "Synthesis of indigenous and foreign elements"
+                ]
+            },
+            {
+                "heading": "Gandhara School of Art",
+                "points": [
+                    "Developed in north-west India (modern Pakistan and Afghanistan)",
+                    "Strong Greek (Hellenistic) influence",
+                    "Mainly Buddhist themes",
+                    "Realistic human figures with draped clothing",
+                    "Used stone and stucco materials"
+                ]
+            },
+            {
+                "heading": "Mathura School of Art",
+                "points": [
+                    "Developed in Mathura region of India",
+                    "Indigenous Indian style with Buddhist, Jain, and Hindu themes",
+                    "Use of red sandstone",
+                    "More symbolic and less realistic than Gandhara",
+                    "Focus on spiritual expression"
+                ]
+            },
+            {
+                "heading": "Amaravati School of Art",
+                "points": [
+                    "Developed in Andhra region under Satavahanas",
+                    "Highly detailed narrative sculptures",
+                    "Primarily Buddhist themes",
+                    "Use of white marble and limestone",
+                    "Emphasis on movement and storytelling"
+                ]
+            },
+            {
+                "heading": "Comparison of Art Schools",
+                "points": [
+                    "Gandhara – Greek influence, realistic style",
+                    "Mathura – indigenous, spiritual focus",
+                    "Amaravati – narrative and decorative style",
+                    "All contributed to Buddhist art development",
+                    "Represent cultural synthesis in ancient India"
+                ]
+            },
+            {
+                "heading": "Significance of Foreign Contacts and Art",
+                "points": [
+                    "Strengthened India’s global trade networks",
+                    "Promoted cultural exchange and syncretism",
+                    "Spread of Buddhism across Asia",
+                    "Development of classical Indian art traditions",
+                    "Economic and cultural prosperity in ancient India"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Kanishka was a ruler of:",
+                    "options": [
+                    "Mauryas",
+                    "Kushanas",
+                    "Guptas",
+                    "Satavahanas"
+                    ],
+                    "answer": "Kushanas"
+                },
+                {
+                    "question": "Gandhara art was influenced by:",
+                    "options": [
+                    "Chinese style",
+                    "Greek style",
+                    "Egyptian style",
+                    "Persian style"
+                    ],
+                    "answer": "Greek style"
+                },
+                {
+                    "question": "Mathura art mainly used:",
+                    "options": [
+                    "Granite",
+                    "Red sandstone",
+                    "Wood",
+                    "Gold"
+                    ],
+                    "answer": "Red sandstone"
+                },
+                {
+                    "question": "Major export to Roman Empire was:",
+                    "options": [
+                    "Coal",
+                    "Spices and textiles",
+                    "Iron ore",
+                    "Wheat"
+                    ],
+                    "answer": "Spices and textiles"
+                },
+                {
+                    "question": "Silk Route was mainly used for:",
+                    "options": [
+                    "War",
+                    "Trade and cultural exchange",
+                    "Hunting",
+                    "Migration only"
+                    ],
+                    "answer": "Trade and cultural exchange"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Amaravati school of art is associated with:",
+                    "options": [
+                    "North India",
+                    "Deccan region",
+                    "Central Asia",
+                    "Western India"
+                    ],
+                    "answer": "Deccan region"
+                },
+                {
+                    "question": "Menander was associated with:",
+                    "options": [
+                    "Mauryas",
+                    "Indo-Greeks",
+                    "Kushanas",
+                    "Guptas"
+                    ],
+                    "answer": "Indo-Greeks"
+                },
+                {
+                    "question": "Main religion promoted by Kushanas was:",
+                    "options": [
+                    "Hinduism",
+                    "Buddhism",
+                    "Jainism",
+                    "Zoroastrianism"
+                    ],
+                    "answer": "Buddhism"
+                },
+                {
+                    "question": "Roman coins in India show evidence of:",
+                    "options": [
+                    "War",
+                    "Trade relations",
+                    "Migration only",
+                    "Religious conversion"
+                    ],
+                    "answer": "Trade relations"
+                },
+                {
+                    "question": "Arikamedu was a:",
+                    "options": [
+                    "Temple site",
+                    "Port city",
+                    "Capital city",
+                    "Military fort"
+                    ],
+                    "answer": "Port city"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Kushanas controlled Silk Route trade\n2. Gandhara art shows Greek influence\n3. Amaravati art is associated with Deccan region",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1, 2 and 3"
+                },
+                {
+                    "question": "A major impact of foreign trade was:",
+                    "options": [
+                    "Economic isolation",
+                    "Cultural exchange and prosperity",
+                    "Decline of cities",
+                    "End of coinage"
+                    ],
+                    "answer": "Cultural exchange and prosperity"
+                },
+                {
+                    "question": "Correct statement about Indo-Greeks is:",
+                    "options": [
+                    "They ruled entire India",
+                    "They issued bilingual coins",
+                    "They ended trade",
+                    "They were native Indians"
+                    ],
+                    "answer": "They issued bilingual coins"
+                },
+                {
+                    "question": "Mathura school is important because:",
+                    "options": [
+                    "It is completely foreign",
+                    "It represents indigenous Indian art style",
+                    "It is only Greek influenced",
+                    "It had no religious themes"
+                    ],
+                    "answer": "It represents indigenous Indian art style"
+                },
+                {
+                    "question": "Ancient Indian trade was mainly facilitated by:",
+                    "options": [
+                    "Deserts",
+                    "River and sea routes",
+                    "Mountains only",
+                    "Forests only"
+                    ],
+                    "answer": "River and sea routes"
+                }
+            ]
+        }
+    }
+]

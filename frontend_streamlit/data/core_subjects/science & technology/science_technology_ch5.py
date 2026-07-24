@@ -1,0 +1,851 @@
+TOPICS = [
+    {
+        "name": "Biology: Classification of Living Things (Domains of Life & Viruses)",
+        "notes": [
+            {
+                "heading": "Introduction to Classification",
+                "points": [
+                    "Classification is the scientific grouping of organisms based on similarities and differences",
+                    "It helps in understanding diversity of life in an organized manner",
+                    "Basis includes morphology, genetics, and evolutionary relationships",
+                    "Modern classification is based on phylogeny (evolutionary history)",
+                    "Taxonomy is the science of naming and classifying organisms"
+                ]
+            },
+            {
+                "heading": "Hierarchy of Biological Classification",
+                "points": [
+                    "Kingdom → Phylum → Class → Order → Family → Genus → Species",
+                    "Species is the basic unit of classification",
+                    "Organisms in same species can interbreed and produce fertile offspring",
+                    "Genus includes closely related species",
+                    "Higher levels indicate broader similarities"
+                ]
+            },
+            {
+                "heading": "Domains of Life – Overview",
+                "points": [
+                    "Modern classification divides life into three domains",
+                    "Based on genetic and molecular differences (especially rRNA)",
+                    "Three domains are: Bacteria, Archaea, and Eukarya",
+                    "This system is more advanced than the traditional five-kingdom system",
+                    "Proposed by Carl Woese"
+                ]
+            },
+            {
+                "heading": "Domain Bacteria",
+                "points": [
+                    "Includes prokaryotic, unicellular organisms",
+                    "Cell wall contains peptidoglycan",
+                    "Found in diverse environments including soil, water, and extreme habitats",
+                    "Can be beneficial (nitrogen fixation) or harmful (diseases)",
+                    "Examples: E. coli, Lactobacillus"
+                ]
+            },
+            {
+                "heading": "Domain Archaea",
+                "points": [
+                    "Prokaryotic organisms but genetically different from bacteria",
+                    "Live in extreme environments (extremophiles)",
+                    "Cell wall lacks peptidoglycan",
+                    "Found in hot springs, salt lakes, and deep-sea vents",
+                    "More closely related to eukaryotes than bacteria"
+                ]
+            },
+            {
+                "heading": "Domain Eukarya",
+                "points": [
+                    "Includes all organisms with true nucleus",
+                    "Organisms can be unicellular or multicellular",
+                    "Includes kingdoms: Protista, Fungi, Plantae, Animalia",
+                    "Cells have membrane-bound organelles",
+                    "Most complex form of life"
+                ]
+            },
+            {
+                "heading": "Five Kingdom Classification",
+                "points": [
+                    "Proposed by R.H. Whittaker",
+                    "Five kingdoms: Monera, Protista, Fungi, Plantae, Animalia",
+                    "Based on cell structure, nutrition, and organization",
+                    "Monera includes prokaryotes",
+                    "Eukaryotes are divided into remaining four kingdoms"
+                ]
+            },
+            {
+                "heading": "Viruses – Introduction",
+                "points": [
+                    "Viruses are acellular infectious agents",
+                    "They are on the border between living and non-living",
+                    "Can only reproduce inside a host cell",
+                    "Made of nucleic acid (DNA or RNA) and protein coat (capsid)",
+                    "Examples: HIV, influenza virus, coronavirus"
+                ]
+            },
+            {
+                "heading": "Characteristics of Viruses",
+                "points": [
+                    "Lack cellular structure",
+                    "No metabolism outside host cell",
+                    "Obligate intracellular parasites",
+                    "Highly host-specific",
+                    "Can mutate rapidly"
+                ]
+            },
+            {
+                "heading": "Structure of Viruses",
+                "points": [
+                    "Genetic material is either DNA or RNA (never both)",
+                    "Surrounded by protein coat called capsid",
+                    "Some viruses have an outer lipid envelope",
+                    "Shape varies: helical, spherical, complex",
+                    "Simple structure but highly effective in infection"
+                ]
+            },
+            {
+                "heading": "Viral Replication",
+                "points": [
+                    "Attachment to host cell",
+                    "Entry of viral genetic material",
+                    "Replication using host machinery",
+                    "Assembly of new viral particles",
+                    "Release by lysis or budding"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Basic unit of classification is:",
+                    "options": [
+                    "Genus",
+                    "Species",
+                    "Family",
+                    "Order"
+                    ],
+                    "answer": "Species"
+                },
+                {
+                    "question": "Three domains of life were proposed by:",
+                    "options": [
+                    "Darwin",
+                    "Carl Woese",
+                    "Mendel",
+                    "Lamarck"
+                    ],
+                    "answer": "Carl Woese"
+                },
+                {
+                    "question": "Viruses can reproduce:",
+                    "options": [
+                    "Independently",
+                    "Only inside host cells",
+                    "In water only",
+                    "In soil only"
+                    ],
+                    "answer": "Only inside host cells"
+                },
+                {
+                    "question": "Cell wall of bacteria contains:",
+                    "options": [
+                    "Cellulose",
+                    "Peptidoglycan",
+                    "Chitin",
+                    "Lignin"
+                    ],
+                    "answer": "Peptidoglycan"
+                },
+                {
+                    "question": "Viruses are made up of:",
+                    "options": [
+                    "Cells",
+                    "DNA/RNA and protein coat",
+                    "Only proteins",
+                    "Only lipids"
+                    ],
+                    "answer": "DNA/RNA and protein coat"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Archaea are mainly found in:",
+                    "options": [
+                    "Normal environments only",
+                    "Extreme environments",
+                    "Plants only",
+                    "Animals only"
+                    ],
+                    "answer": "Extreme environments"
+                },
+                {
+                    "question": "Eukarya includes:",
+                    "options": [
+                    "Only bacteria",
+                    "Only viruses",
+                    "Plants, animals, fungi",
+                    "Only archaea"
+                    ],
+                    "answer": "Plants, animals, fungi"
+                },
+                {
+                    "question": "Viruses outside host cell are:",
+                    "options": [
+                    "Active",
+                    "Non-living",
+                    "Photosynthetic",
+                    "Motile"
+                    ],
+                    "answer": "Non-living"
+                },
+                {
+                    "question": "Five kingdom classification was proposed by:",
+                    "options": [
+                    "Whittaker",
+                    "Darwin",
+                    "Mendel",
+                    "Hooke"
+                    ],
+                    "answer": "Whittaker"
+                },
+                {
+                    "question": "Capsid in virus is made of:",
+                    "options": [
+                    "DNA",
+                    "Protein",
+                    "Carbohydrates",
+                    "Lipids only"
+                    ],
+                    "answer": "Protein"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. Viruses contain either DNA or RNA\n2. Archaea are closer to eukaryotes than bacteria\n3. Species is the highest taxonomic rank",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "All"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                    "Bacteria – eukaryotic cells",
+                    "Archaea – extremophiles",
+                    "Virus – cellular organism",
+                    "Fungi – photosynthetic"
+                    ],
+                    "answer": "Archaea – extremophiles"
+                },
+                {
+                    "question": "Viruses are considered borderline forms because:",
+                    "options": [
+                    "They are multicellular",
+                    "They show characteristics of both living and non-living",
+                    "They can photosynthesize",
+                    "They have nucleus"
+                    ],
+                    "answer": "They show characteristics of both living and non-living"
+                },
+                {
+                    "question": "Replication of viruses occurs by:",
+                    "options": [
+                    "Self-division",
+                    "Host cell machinery",
+                    "Mitosis",
+                    "Meiosis"
+                    ],
+                    "answer": "Host cell machinery"
+                },
+                {
+                    "question": "Carl Woese is known for:",
+                    "options": [
+                    "Cell theory",
+                    "Three domain system",
+                    "DNA discovery",
+                    "Evolution theory"
+                    ],
+                    "answer": "Three domain system"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Biology: Prokaryotes, Eukaryotes & Protists",
+        "notes": [
+            {
+                "heading": "Introduction to Cell Types",
+                "points": [
+                    "All living organisms are made up of cells",
+                    "Cells are broadly classified into prokaryotic and eukaryotic types",
+                    "This classification is based on nucleus and organelle complexity",
+                    "Prokaryotes are simpler and ancient forms of life",
+                    "Eukaryotes are more complex and evolved organisms"
+                ]
+            },
+            {
+                "heading": "Prokaryotes – Overview",
+                "points": [
+                    "Prokaryotes are unicellular organisms without a true nucleus",
+                    "Genetic material is present in a nucleoid region",
+                    "Lack membrane-bound organelles like mitochondria and Golgi body",
+                    "They are the oldest known life forms on Earth",
+                    "Examples include bacteria and archaea"
+                ]
+            },
+            {
+                "heading": "Structure of Prokaryotic Cells",
+                "points": [
+                    "Cell wall present in most bacteria (peptidoglycan)",
+                    "Plasma membrane controls transport of substances",
+                    "Cytoplasm contains ribosomes for protein synthesis",
+                    "Circular DNA is present in nucleoid region",
+                    "Some have flagella for movement"
+                ]
+            },
+            {
+                "heading": "Characteristics of Prokaryotes",
+                "points": [
+                    "Very small in size (1–10 micrometers)",
+                    "Reproduce mainly through binary fission",
+                    "Rapid growth and adaptation",
+                    "Can survive in extreme environments",
+                    "Metabolically diverse (aerobic or anaerobic)"
+                ]
+            },
+            {
+                "heading": "Importance of Prokaryotes",
+                "points": [
+                    "Play role in nitrogen fixation (e.g., Rhizobium)",
+                    "Used in fermentation and biotechnology",
+                    "Help in decomposition and nutrient cycling",
+                    "Some cause diseases (e.g., tuberculosis bacteria)",
+                    "Important in ecological balance"
+                ]
+            },
+            {
+                "heading": "Eukaryotes – Overview",
+                "points": [
+                    "Eukaryotes are organisms with a well-defined nucleus",
+                    "Contain membrane-bound organelles",
+                    "Can be unicellular or multicellular",
+                    "More complex than prokaryotes",
+                    "Include plants, animals, fungi, and protists"
+                ]
+            },
+            {
+                "heading": "Structure of Eukaryotic Cells",
+                "points": [
+                    "True nucleus surrounded by nuclear membrane",
+                    "Organelles like mitochondria, ER, Golgi apparatus present",
+                    "Linear chromosomes inside nucleus",
+                    "Cytoskeleton provides structural support",
+                    "Cell division occurs through mitosis and meiosis"
+                ]
+            },
+            {
+                "heading": "Characteristics of Eukaryotes",
+                "points": [
+                    "Larger cell size (10–100 micrometers)",
+                    "Complex internal organization",
+                    "Slower reproduction compared to prokaryotes",
+                    "Can be unicellular (protists) or multicellular",
+                    "Highly specialized cellular functions"
+                ]
+            },
+            {
+                "heading": "Protists – Introduction",
+                "points": [
+                    "Protists are simple eukaryotic organisms",
+                    "Mostly unicellular but some are colonial",
+                    "Found mainly in aquatic or moist environments",
+                    "Act as a link between prokaryotes and complex eukaryotes",
+                    "Belong to Kingdom Protista"
+                ]
+            },
+            {
+                "heading": "Types of Protists",
+                "points": [
+                    "Plant-like protists (algae) – photosynthetic",
+                    "Animal-like protists (protozoa) – heterotrophic",
+                    "Fungus-like protists – decomposers",
+                    "Examples: Amoeba, Paramecium, Euglena",
+                    "Show diverse modes of nutrition"
+                ]
+            },
+            {
+                "heading": "Characteristics of Protists",
+                "points": [
+                    "Eukaryotic cell structure",
+                    "Mostly unicellular organisms",
+                    "Reproduce both sexually and asexually",
+                    "Move using cilia, flagella, or pseudopodia",
+                    "Live in water or moist habitats"
+                ]
+            },
+            {
+                "heading": "Importance of Protists",
+                "points": [
+                    "Form base of aquatic food chains (phytoplankton)",
+                    "Produce oxygen through photosynthesis",
+                    "Some cause diseases (e.g., malaria by Plasmodium)",
+                    "Important in ecological nutrient cycling",
+                    "Used in research and biotechnology"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Prokaryotes lack:",
+                    "options": [
+                    "Cell wall",
+                    "True nucleus",
+                    "Cytoplasm",
+                    "Cell membrane"
+                    ],
+                    "answer": "True nucleus"
+                },
+                {
+                    "question": "Eukaryotic cells have:",
+                    "options": [
+                    "No organelles",
+                    "Membrane-bound organelles",
+                    "Only DNA",
+                    "No cytoplasm"
+                    ],
+                    "answer": "Membrane-bound organelles"
+                },
+                {
+                    "question": "Protists are mostly found in:",
+                    "options": [
+                    "Deserts",
+                    "Aquatic environments",
+                    "Mountains",
+                    "Air only"
+                    ],
+                    "answer": "Aquatic environments"
+                },
+                {
+                    "question": "Binary fission is common in:",
+                    "options": [
+                    "Eukaryotes",
+                    "Prokaryotes",
+                    "Plants",
+                    "Animals"
+                    ],
+                    "answer": "Prokaryotes"
+                },
+                {
+                    "question": "Amoeba is classified as:",
+                    "options": [
+                    "Plant",
+                    "Animal-like protist",
+                    "Bacteria",
+                    "Virus"
+                    ],
+                    "answer": "Animal-like protist"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Genetic material in prokaryotes is located in:",
+                    "options": [
+                    "Nucleus",
+                    "Nucleoid",
+                    "Mitochondria",
+                    "Golgi body"
+                    ],
+                    "answer": "Nucleoid"
+                },
+                {
+                    "question": "Euglena shows characteristics of:",
+                    "options": [
+                    "Plants only",
+                    "Animals only",
+                    "Both plants and animals",
+                    "Fungi only"
+                    ],
+                    "answer": "Both plants and animals"
+                },
+                {
+                    "question": "Phytoplankton belong to:",
+                    "options": [
+                    "Bacteria",
+                    "Protists",
+                    "Viruses",
+                    "Fungi"
+                    ],
+                    "answer": "Protists"
+                },
+                {
+                    "question": "Prokaryotic ribosomes are:",
+                    "options": [
+                    "80S",
+                    "70S",
+                    "60S",
+                    "90S"
+                    ],
+                    "answer": "70S"
+                },
+                {
+                    "question": "Paramecium moves using:",
+                    "options": [
+                    "Flagella",
+                    "Cilia",
+                    "Pseudopodia",
+                    "Wings"
+                    ],
+                    "answer": "Cilia"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. Prokaryotes lack membrane-bound organelles\n2. Protists are eukaryotic organisms\n3. All eukaryotes are multicellular",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "All"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                    "Prokaryote – true nucleus",
+                    "Eukaryote – no nucleus",
+                    "Protist – simple eukaryote",
+                    "Virus – cellular organism"
+                    ],
+                    "answer": "Protist – simple eukaryote"
+                },
+                {
+                    "question": "Plasmodium is:",
+                    "options": [
+                    "Bacteria",
+                    "Virus",
+                    "Protozoan parasite",
+                    "Algae"
+                    ],
+                    "answer": "Protozoan parasite"
+                },
+                {
+                    "question": "Main difference between prokaryotes and eukaryotes is:",
+                    "options": [
+                    "Size only",
+                    "Presence of true nucleus",
+                    "Color of cell",
+                    "Shape of organism"
+                    ],
+                    "answer": "Presence of true nucleus"
+                },
+                {
+                    "question": "Protists are important because they:",
+                    "options": [
+                    "Do not exist in nature",
+                    "Form base of aquatic food chains",
+                    "Only cause diseases",
+                    "Do not perform photosynthesis"
+                    ],
+                    "answer": "Form base of aquatic food chains"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Biology: Plants, Fungi & Animals",
+        "notes": [
+            {
+                "heading": "Introduction to Kingdom Classification",
+                "points": [
+                    "Living organisms are broadly classified into kingdoms based on characteristics",
+                    "Plants, fungi, and animals are three major eukaryotic kingdoms",
+                    "They differ in nutrition, structure, and reproduction",
+                    "All three play essential roles in ecosystems",
+                    "Classification helps in understanding biodiversity and evolution"
+                ]
+            },
+            {
+                "heading": "Plants – Overview",
+                "points": [
+                    "Plants belong to Kingdom Plantae",
+                    "They are multicellular, eukaryotic, and mostly autotrophic",
+                    "They prepare their own food through photosynthesis",
+                    "Contain chlorophyll in chloroplasts",
+                    "Have cell walls made of cellulose"
+                ]
+            },
+            {
+                "heading": "Types of Plants",
+                "points": [
+                    "Thallophyta (algae) – simple body structure",
+                    "Bryophyta – amphibians of plant kingdom (mosses)",
+                    "Pteridophyta – vascular plants without seeds (ferns)",
+                    "Gymnosperms – naked seed-producing plants (pine)",
+                    "Angiosperms – flowering plants with covered seeds"
+                ]
+            },
+            {
+                "heading": "Characteristics of Plants",
+                "points": [
+                    "Autotrophic nutrition (photosynthesis)",
+                    "Fixed in one place (non-motile)",
+                    "Cell wall made of cellulose",
+                    "Store food mainly as starch",
+                    "Reproduce sexually and asexually"
+                ]
+            },
+            {
+                "heading": "Importance of Plants",
+                "points": [
+                    "Produce oxygen through photosynthesis",
+                    "Form base of food chains",
+                    "Provide food, medicine, and raw materials",
+                    "Help in climate regulation",
+                    "Prevent soil erosion and maintain ecological balance"
+                ]
+            },
+            {
+                "heading": "Fungi – Overview",
+                "points": [
+                    "Fungi belong to Kingdom Fungi",
+                    "They are eukaryotic, mostly multicellular organisms",
+                    "Heterotrophic in nature (cannot perform photosynthesis)",
+                    "Cell wall made of chitin",
+                    "Reproduce through spores"
+                ]
+            },
+            {
+                "heading": "Types of Fungi",
+                "points": [
+                    "Yeast – unicellular fungi used in fermentation",
+                    "Moulds – grow on food and organic matter",
+                    "Mushrooms – edible fungi",
+                    "Parasitic fungi – cause diseases in plants and animals",
+                    "Saprophytic fungi – decompose dead matter"
+                ]
+            },
+            {
+                "heading": "Characteristics of Fungi",
+                "points": [
+                    "Do not contain chlorophyll",
+                    "Absorb nutrients from organic matter",
+                    "Reproduce by spores",
+                    "Live in moist and decaying environments",
+                    "Form symbiotic relationships like lichens (with algae)"
+                ]
+            },
+            {
+                "heading": "Importance of Fungi",
+                "points": [
+                    "Decomposers in ecosystem (nutrient recycling)",
+                    "Used in food production (bread, alcohol)",
+                    "Source of antibiotics (e.g., Penicillium)",
+                    "Some fungi cause diseases",
+                    "Important in biotechnology"
+                ]
+            },
+            {
+                "heading": "Animals – Overview",
+                "points": [
+                    "Animals belong to Kingdom Animalia",
+                    "They are multicellular, eukaryotic, and heterotrophic",
+                    "Lack cell wall",
+                    "Show movement and response to stimuli",
+                    "Most reproduce sexually"
+                ]
+            },
+            {
+                "heading": "Classification of Animals",
+                "points": [
+                    "Invertebrates – without backbone (insects, worms)",
+                    "Vertebrates – with backbone (fish, birds, mammals)",
+                    "Vertebrates include Pisces, Amphibia, Reptilia, Aves, Mammalia",
+                    "Invertebrates form the majority of animal species",
+                    "Classification based on body structure and habitat"
+                ]
+            },
+            {
+                "heading": "Characteristics of Animals",
+                "points": [
+                    "Heterotrophic nutrition (depend on other organisms)",
+                    "Capable of movement",
+                    "No cell wall",
+                    "Complex organ systems",
+                    "Highly responsive to environment"
+                ]
+            },
+            {
+                "heading": "Importance of Animals",
+                "points": [
+                    "Maintain food chain and ecological balance",
+                    "Provide food (meat, milk, eggs)",
+                    "Used in research and medicine",
+                    "Help in pollination and seed dispersal",
+                    "Domesticated for agriculture and transport"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Plants belong to which kingdom?",
+                    "options": [
+                    "Animalia",
+                    "Plantae",
+                    "Fungi",
+                    "Protista"
+                    ],
+                    "answer": "Plantae"
+                },
+                {
+                    "question": "Fungi are:",
+                    "options": [
+                    "Autotrophic",
+                    "Heterotrophic",
+                    "Photosynthetic animals",
+                    "Prokaryotic"
+                    ],
+                    "answer": "Heterotrophic"
+                },
+                {
+                    "question": "Animals are:",
+                    "options": [
+                    "Autotrophic",
+                    "Heterotrophic",
+                    "Photosynthetic",
+                    "Both autotrophic and heterotrophic"
+                    ],
+                    "answer": "Heterotrophic"
+                },
+                {
+                    "question": "Cell wall of fungi is made of:",
+                    "options": [
+                    "Cellulose",
+                    "Chitin",
+                    "Peptidoglycan",
+                    "Starch"
+                    ],
+                    "answer": "Chitin"
+                },
+                {
+                    "question": "Plants prepare food by:",
+                    "options": [
+                    "Respiration",
+                    "Photosynthesis",
+                    "Digestion",
+                    "Fermentation"
+                    ],
+                    "answer": "Photosynthesis"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which is a saprophytic organism?",
+                    "options": [
+                    "Human",
+                    "Mushroom",
+                    "Dog",
+                    "Fish"
+                    ],
+                    "answer": "Mushroom"
+                },
+                {
+                    "question": "Bryophytes are known as:",
+                    "options": [
+                    "Seed plants",
+                    "Amphibians of plant kingdom",
+                    "Flowering plants",
+                    "Algae"
+                    ],
+                    "answer": "Amphibians of plant kingdom"
+                },
+                {
+                    "question": "Yeast is used in:",
+                    "options": [
+                    "Photosynthesis",
+                    "Fermentation",
+                    "Respiration only",
+                    "Digestion"
+                    ],
+                    "answer": "Fermentation"
+                },
+                {
+                    "question": "Vertebrates have:",
+                    "options": [
+                    "No skeleton",
+                    "Backbone",
+                    "Cell wall",
+                    "Chlorophyll"
+                    ],
+                    "answer": "Backbone"
+                },
+                {
+                    "question": "Lichens are association between:",
+                    "options": [
+                    "Bacteria and fungi",
+                    "Algae and fungi",
+                    "Plants and animals",
+                    "Virus and bacteria"
+                    ],
+                    "answer": "Algae and fungi"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. Plants are autotrophic\n2. Fungi have chitin cell wall\n3. Animals have cell wall",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "All"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                    "Plants – heterotrophic",
+                    "Fungi – decomposers",
+                    "Animals – photosynthetic",
+                    "Fungi – autotrophic"
+                    ],
+                    "answer": "Fungi – decomposers"
+                },
+                {
+                    "question": "Gymnosperms are:",
+                    "options": [
+                    "Flowering plants",
+                    "Naked seed plants",
+                    "Seedless plants",
+                    "Fungi"
+                    ],
+                    "answer": "Naked seed plants"
+                },
+                {
+                    "question": "Invertebrates are:",
+                    "options": [
+                    "Animals with backbone",
+                    "Animals without backbone",
+                    "Plants without seeds",
+                    "Fungi with spores"
+                    ],
+                    "answer": "Animals without backbone"
+                },
+                {
+                    "question": "Fungi play an important ecological role as:",
+                    "options": [
+                    "Producers",
+                    "Decomposers",
+                    "Consumers only",
+                    "Parasites only"
+                    ],
+                    "answer": "Decomposers"
+                }
+            ]
+        }
+    }
+]

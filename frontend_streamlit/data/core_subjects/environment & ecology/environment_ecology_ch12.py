@@ -1,0 +1,1048 @@
+TOPICS = [
+    {
+        "name": "Waste Management: Solid Waste, Hazardous Waste & E-Waste",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Waste management is a critical component of environmental protection and public health",
+                    "Rapid urbanization and industrialization in India have increased waste generation",
+                    "Improper waste disposal leads to air, water, and soil pollution",
+                    "India follows a regulatory framework under various Waste Management Rules"
+                ]
+            },
+            {
+                "heading": "Waste Management – Meaning",
+                "points": [
+                    "Waste management refers to collection, transportation, processing, recycling, and disposal of waste",
+                    "Aim is to reduce environmental impact and recover usable resources",
+                    "Includes municipal, industrial, biomedical, hazardous, and electronic waste",
+                    "Focus on 3Rs: Reduce, Reuse, Recycle",
+                    "Integrated Waste Management is the modern approach"
+                ]
+            },
+            {
+                "heading": "Types of Waste – Overview",
+                "points": [
+                    "Solid Waste: Household and municipal waste",
+                    "Hazardous Waste: Toxic and chemically harmful waste",
+                    "E-Waste: Electronic and electrical waste",
+                    "Biomedical Waste: Generated from healthcare activities",
+                    "Industrial Waste: Produced from manufacturing processes"
+                ]
+            },
+            {
+                "heading": "Solid Waste – Definition",
+                "points": [
+                    "Solid waste includes discarded solid materials from households, industries, and commercial establishments",
+                    "Commonly known as municipal solid waste (MSW) in urban areas",
+                    "Includes biodegradable and non-biodegradable waste",
+                    "Major source of urban pollution if not managed properly",
+                    "Increasing rapidly due to population growth and consumption patterns"
+                ]
+            },
+            {
+                "heading": "Sources of Solid Waste",
+                "points": [
+                    "Households (food waste, plastics, paper)",
+                    "Commercial areas (shops, markets, offices)",
+                    "Construction and demolition activities",
+                    "Street sweepings",
+                    "Industrial non-hazardous waste"
+                ]
+            },
+            {
+                "heading": "Problems of Solid Waste",
+                "points": [
+                    "Open dumping leads to land pollution",
+                    "Emission of methane from landfills",
+                    "Clogging of drainage systems causing floods",
+                    "Spread of diseases and pests",
+                    "Visual and environmental degradation"
+                ]
+            },
+            {
+                "heading": "Solid Waste Management Methods",
+                "points": [
+                    "Segregation at source (wet and dry waste)",
+                    "Recycling of paper, plastic, glass, and metals",
+                    "Composting of biodegradable waste",
+                    "Waste-to-energy plants",
+                    "Scientific landfilling"
+                ]
+            },
+            {
+                "heading": "Solid Waste Management Rules, 2016",
+                "points": [
+                    "Replaced earlier 2000 rules",
+                    "Mandatory segregation of waste at source",
+                    "Extended responsibility to bulk waste generators",
+                    "Promotes composting and recycling",
+                    "Focus on scientific disposal of waste"
+                ]
+            },
+            {
+                "heading": "Hazardous Waste – Definition",
+                "points": [
+                    "Waste that is dangerous or potentially harmful to human health or environment",
+                    "Includes toxic, reactive, corrosive, and flammable substances",
+                    "Generated mainly from industries and chemical processes",
+                    "Requires special handling and disposal methods",
+                    "Even small quantities can cause severe damage"
+                ]
+            },
+            {
+                "heading": "Sources of Hazardous Waste",
+                "points": [
+                    "Chemical industries",
+                    "Oil refineries",
+                    "Pharmaceutical industries",
+                    "Pesticide manufacturing units",
+                    "Metal processing industries"
+                ]
+            },
+            {
+                "heading": "Types of Hazardous Waste",
+                "points": [
+                    "Toxic waste (poisonous chemicals)",
+                    "Corrosive waste (acids and alkalis)",
+                    "Flammable waste (solvents, oils)",
+                    "Reactive waste (explosive substances)",
+                    "Radioactive waste (nuclear materials)"
+                ]
+            },
+            {
+                "heading": "Hazardous Waste Management Rules, 2016",
+                "points": [
+                    "Regulates generation, storage, transport, and disposal",
+                    "Requires authorization from pollution control boards",
+                    "Encourages recycling and recovery of materials",
+                    "Mandates safe disposal in secured landfills or incinerators",
+                    "Promotes import/export control of hazardous waste"
+                ]
+            },
+            {
+                "heading": "Problems of Hazardous Waste",
+                "points": [
+                    "Soil and groundwater contamination",
+                    "Air pollution from toxic emissions",
+                    "Severe health impacts like cancer and respiratory diseases",
+                    "Long-term ecological damage",
+                    "Accidents during transportation and storage"
+                ]
+            },
+            {
+                "heading": "E-Waste – Definition",
+                "points": [
+                    "E-waste refers to discarded electrical and electronic equipment",
+                    "Includes computers, phones, TVs, refrigerators, and batteries",
+                    "Fastest growing waste stream globally",
+                    "Contains both valuable metals and toxic substances",
+                    "Needs specialized recycling and disposal methods"
+                ]
+            },
+            {
+                "heading": "Sources of E-Waste",
+                "points": [
+                    "Household electronic appliances",
+                    "IT and communication devices",
+                    "Industrial electronic equipment",
+                    "Obsolete electrical gadgets",
+                    "Consumer electronics industry"
+                ]
+            },
+            {
+                "heading": "Hazards of E-Waste",
+                "points": [
+                    "Contains toxic metals like lead, mercury, and cadmium",
+                    "Air pollution from burning of cables and plastics",
+                    "Soil and water contamination",
+                    "Health risks to informal workers",
+                    "Release of greenhouse gases"
+                ]
+            },
+            {
+                "heading": "E-Waste Management Rules, 2016 (India)",
+                "points": [
+                    "Introduced Extended Producer Responsibility (EPR)",
+                    "Manufacturers responsible for collection and recycling",
+                    "Encourages formal recycling sector",
+                    "Restrictions on hazardous substances in electronics",
+                    "Targets proper channelization of e-waste"
+                ]
+            },
+            {
+                "heading": "Recycling and Recovery of E-Waste",
+                "points": [
+                    "Extraction of valuable metals like gold, silver, copper",
+                    "Safe dismantling of electronic components",
+                    "Reduction of landfill pressure",
+                    "Promotion of circular economy",
+                    "Formal recycling infrastructure development"
+                ]
+            },
+            {
+                "heading": "Integrated Waste Management Approach",
+                "points": [
+                    "Combines reduction, reuse, recycling, and recovery",
+                    "Focus on source segregation",
+                    "Encourages waste minimization",
+                    "Promotes circular economy model",
+                    "Involves government, private sector, and citizens"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Solid waste mainly comes from:",
+                    "options": [
+                    "Oceans",
+                    "Households and cities",
+                    "Volcanoes",
+                    "Forests only"
+                    ],
+                    "answer": "Households and cities"
+                },
+                {
+                    "question": "Hazardous waste is:",
+                    "options": [
+                    "Harmless waste",
+                    "Toxic and dangerous waste",
+                    "Only biodegradable waste",
+                    "Rainwater"
+                    ],
+                    "answer": "Toxic and dangerous waste"
+                },
+                {
+                    "question": "E-waste refers to:",
+                    "options": [
+                    "Food waste",
+                    "Electronic waste",
+                    "Industrial gases",
+                    "Water waste"
+                    ],
+                    "answer": "Electronic waste"
+                },
+                {
+                    "question": "3Rs in waste management stand for:",
+                    "options": [
+                    "Reduce, Reuse, Recycle",
+                    "Remove, Replace, Repair",
+                    "Reuse, Rebuild, Reduce",
+                    "Recycle, Refill, Restore"
+                    ],
+                    "answer": "Reduce, Reuse, Recycle"
+                },
+                {
+                    "question": "E-waste contains:",
+                    "options": [
+                    "Only water",
+                    "Only plastics",
+                    "Toxic metals like lead and mercury",
+                    "Only air"
+                    ],
+                    "answer": "Toxic metals like lead and mercury"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Extended Producer Responsibility means:",
+                    "options": [
+                    "Government responsibility only",
+                    "Producer responsibility for waste management",
+                    "Consumer responsibility only",
+                    "No responsibility"
+                    ],
+                    "answer": "Producer responsibility for waste management"
+                },
+                {
+                    "question": "Solid waste management includes:",
+                    "options": [
+                    "Only dumping",
+                    "Segregation and recycling",
+                    "Only burning",
+                    "Only burial"
+                    ],
+                    "answer": "Segregation and recycling"
+                },
+                {
+                    "question": "Hazardous waste can cause:",
+                    "options": [
+                    "Improved soil fertility",
+                    "Water and soil pollution",
+                    "Increased rainfall",
+                    "Forest growth"
+                    ],
+                    "answer": "Water and soil pollution"
+                },
+                {
+                    "question": "Waste-to-energy plants help in:",
+                    "options": [
+                    "Increasing waste",
+                    "Generating electricity from waste",
+                    "Creating more pollution",
+                    "Stopping recycling"
+                    ],
+                    "answer": "Generating electricity from waste"
+                },
+                {
+                    "question": "E-waste rules in India were revised in:",
+                    "options": [
+                    "2000",
+                    "2016",
+                    "1990",
+                    "2022 only"
+                    ],
+                    "answer": "2016"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. E-waste contains valuable metals\n2. Hazardous waste is always biodegradable\n3. Solid waste management includes recycling",
+                    "options": [
+                    "1 and 3 only",
+                    "2 and 3 only",
+                    "1 and 2 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "Integrated waste management focuses on:",
+                    "options": [
+                    "Landfilling only",
+                    "3Rs approach",
+                    "Burning waste only",
+                    "Ocean dumping"
+                    ],
+                    "answer": "3Rs approach"
+                },
+                {
+                    "question": "Hazardous waste is regulated mainly because it:",
+                    "options": [
+                    "Improves agriculture",
+                    "Harms environment and health",
+                    "Increases biodiversity",
+                    "Reduces pollution"
+                    ],
+                    "answer": "Harms environment and health"
+                },
+                {
+                    "question": "EPR in waste management means:",
+                    "options": [
+                    "Extended Pollution Removal",
+                    "Extended Producer Responsibility",
+                    "Environmental Protection Rule",
+                    "Energy Production Rule"
+                    ],
+                    "answer": "Extended Producer Responsibility"
+                },
+                {
+                    "question": "Solid waste causes flooding mainly by:",
+                    "options": [
+                    "Increasing rainfall",
+                    "Blocking drainage systems",
+                    "Reducing rivers",
+                    "Increasing evaporation"
+                    ],
+                    "answer": "Blocking drainage systems"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Biomedical Waste, Plastic Waste & Methods of Waste Management",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Waste management is essential for protecting human health and environment",
+                    "Biomedical and plastic waste are two major environmental challenges in India",
+                    "Improper disposal leads to pollution, disease spread, and ecosystem damage",
+                    "Scientific treatment and segregation are key solutions"
+                ]
+            },
+            {
+                "heading": "Biomedical Waste – Definition",
+                "points": [
+                    "Biomedical waste is any waste generated during diagnosis, treatment, or immunization of humans or animals",
+                    "Includes waste from hospitals, clinics, laboratories, and veterinary institutions",
+                    "Can be infectious, toxic, or radioactive in nature",
+                    "Requires special handling and disposal methods",
+                    "Regulated strictly due to public health risks"
+                ]
+            },
+            {
+                "heading": "Sources of Biomedical Waste",
+                "points": [
+                    "Hospitals and nursing homes",
+                    "Pathological laboratories",
+                    "Blood banks",
+                    "Veterinary hospitals",
+                    "Research institutions"
+                ]
+            },
+            {
+                "heading": "Types of Biomedical Waste",
+                "points": [
+                    "Infectious waste (blood, tissues, body fluids)",
+                    "Sharps (needles, scalpels, blades)",
+                    "Pathological waste (human organs, tissues)",
+                    "Pharmaceutical waste (expired medicines)",
+                    "Chemical and radioactive waste"
+                ]
+            },
+            {
+                "heading": "Biomedical Waste Management Rules, 2016 (India)",
+                "points": [
+                    "Replaced earlier 1998 rules for stricter regulation",
+                    "Segregation of waste at source is mandatory",
+                    "Color-coded bins for different waste types",
+                    "Authorization required for healthcare facilities",
+                    "Focus on scientific treatment and disposal"
+                ]
+            },
+            {
+                "heading": "Color Coding System in Biomedical Waste",
+                "points": [
+                    "Yellow: Infectious and pathological waste",
+                    "Red: Contaminated recyclable waste",
+                    "White: Sharps waste (puncture-proof containers)",
+                    "Blue: Glassware and metallic implants",
+                    "Ensures safe segregation and treatment"
+                ]
+            },
+            {
+                "heading": "Treatment of Biomedical Waste",
+                "points": [
+                    "Incineration for infectious waste",
+                    "Autoclaving for sterilization",
+                    "Microwaving for disinfection",
+                    "Chemical treatment for liquid waste",
+                    "Secure landfilling for residual waste"
+                ]
+            },
+            {
+                "heading": "Problems of Biomedical Waste",
+                "points": [
+                    "Spread of infectious diseases",
+                    "Risk to healthcare workers and sanitation staff",
+                    "Groundwater and soil contamination",
+                    "Air pollution from improper incineration",
+                    "Mixing with municipal waste increases hazards"
+                ]
+            },
+            {
+                "heading": "Plastic Waste – Definition",
+                "points": [
+                    "Plastic waste includes discarded plastic materials from domestic, industrial, and commercial sources",
+                    "Non-biodegradable in nature",
+                    "Accumulates in environment for hundreds of years",
+                    "Major contributor to land and marine pollution",
+                    "Rapidly increasing due to consumer lifestyle"
+                ]
+            },
+            {
+                "heading": "Sources of Plastic Waste",
+                "points": [
+                    "Single-use plastics (bags, bottles, straws)",
+                    "Packaging materials",
+                    "Industrial plastic products",
+                    "Household waste",
+                    "Agricultural plastic films"
+                ]
+            },
+            {
+                "heading": "Problems of Plastic Waste",
+                "points": [
+                    "Non-biodegradable nature leads to long-term pollution",
+                    "Marine pollution and harm to aquatic life",
+                    "Microplastics enter food chain",
+                    "Soil degradation and reduced fertility",
+                    "Clogging of drainage systems causing urban flooding"
+                ]
+            },
+            {
+                "heading": "Plastic Waste Management Rules, 2016 (India)",
+                "points": [
+                    "Ban on certain single-use plastics (progressively implemented)",
+                    "Extended Producer Responsibility (EPR)",
+                    "Minimum thickness standards for plastic bags",
+                    "Segregation of plastic waste at source",
+                    "Promotion of recycling and reuse"
+                ]
+            },
+            {
+                "heading": "Microplastics – Emerging Concern",
+                "points": [
+                    "Tiny plastic particles less than 5mm in size",
+                    "Formed from breakdown of larger plastics",
+                    "Found in water, soil, and air",
+                    "Enter food chain through marine organisms",
+                    "Potential health risks to humans"
+                ]
+            },
+            {
+                "heading": "Methods for Waste Management – Overview",
+                "points": [
+                    "Waste management involves collection, treatment, recycling, and disposal",
+                    "Focus on minimizing environmental impact",
+                    "Integration of scientific, technological, and policy measures",
+                    "Key principle is sustainable development",
+                    "Emphasis on 3Rs: Reduce, Reuse, Recycle"
+                ]
+            },
+            {
+                "heading": "Waste Segregation",
+                "points": [
+                    "Separation of waste at source into biodegradable and non-biodegradable",
+                    "Reduces burden on treatment systems",
+                    "Improves recycling efficiency",
+                    "Mandatory in urban waste management rules",
+                    "First step in effective waste management"
+                ]
+            },
+            {
+                "heading": "Recycling and Reuse",
+                "points": [
+                    "Reprocessing waste materials into new products",
+                    "Reduces demand for raw materials",
+                    "Energy and resource conservation",
+                    "Common for paper, glass, metals, and plastics",
+                    "Supports circular economy model"
+                ]
+            },
+            {
+                "heading": "Composting",
+                "points": [
+                    "Biological decomposition of organic waste",
+                    "Produces nutrient-rich manure",
+                    "Used for agricultural purposes",
+                    "Reduces landfill burden",
+                    "Environment-friendly method"
+                ]
+            },
+            {
+                "heading": "Incineration",
+                "points": [
+                    "Burning waste at high temperatures",
+                    "Reduces waste volume significantly",
+                    "Used for biomedical and hazardous waste",
+                    "Can generate energy (waste-to-energy plants)",
+                    "May produce air pollution if not controlled"
+                ]
+            },
+            {
+                "heading": "Landfilling",
+                "points": [
+                    "Disposal of waste in designated landfill sites",
+                    "Used for non-recyclable waste",
+                    "Modern landfills are engineered and lined",
+                    "Produces methane gas during decomposition",
+                    "Requires monitoring to prevent pollution"
+                ]
+            },
+            {
+                "heading": "Waste-to-Energy (WTE)",
+                "points": [
+                    "Conversion of waste into electricity or heat",
+                    "Reduces landfill dependency",
+                    "Common in urban solid waste management",
+                    "Requires advanced technology",
+                    "Supports renewable energy goals"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Biomedical waste is generated mainly from:",
+                    "options": [
+                    "Industries",
+                    "Hospitals and clinics",
+                    "Agriculture",
+                    "Forests"
+                    ],
+                    "answer": "Hospitals and clinics"
+                },
+                {
+                    "question": "Plastic waste is mainly:",
+                    "options": [
+                    "Biodegradable",
+                    "Non-biodegradable",
+                    "Radioactive",
+                    "Organic only"
+                    ],
+                    "answer": "Non-biodegradable"
+                },
+                {
+                    "question": "Biomedical waste management rules were updated in:",
+                    "options": [
+                    "1998",
+                    "2016",
+                    "2000",
+                    "2020"
+                    ],
+                    "answer": "2016"
+                },
+                {
+                    "question": "3Rs in waste management mean:",
+                    "options": [
+                    "Reduce, Reuse, Recycle",
+                    "Remove, Replace, Restore",
+                    "Recycle, Rebuild, Repair",
+                    "Reduce, Refill, Remove"
+                    ],
+                    "answer": "Reduce, Reuse, Recycle"
+                },
+                {
+                    "question": "Microplastics are:",
+                    "options": [
+                    "Large plastic pieces",
+                    "Tiny plastic particles",
+                    "Organic waste",
+                    "Metal waste"
+                    ],
+                    "answer": "Tiny plastic particles"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Incineration is mainly used for:",
+                    "options": [
+                    "Organic waste only",
+                    "Biomedical waste",
+                    "Water treatment",
+                    "Air purification"
+                    ],
+                    "answer": "Biomedical waste"
+                },
+                {
+                    "question": "EPR stands for:",
+                    "options": [
+                    "Environmental Protection Rule",
+                    "Extended Producer Responsibility",
+                    "Energy Production Regulation",
+                    "Ecological Policy Reform"
+                    ],
+                    "answer": "Extended Producer Responsibility"
+                },
+                {
+                    "question": "Plastic waste causes:",
+                    "options": [
+                    "Soil fertility increase",
+                    "Marine pollution",
+                    "Rainfall increase",
+                    "Forest growth"
+                    ],
+                    "answer": "Marine pollution"
+                },
+                {
+                    "question": "Composting is used for:",
+                    "options": [
+                    "Plastic waste",
+                    "Organic waste",
+                    "Hazardous chemicals",
+                    "Metal waste"
+                    ],
+                    "answer": "Organic waste"
+                },
+                {
+                    "question": "Landfilling produces mainly:",
+                    "options": [
+                    "Oxygen",
+                    "Methane",
+                    "Nitrogen",
+                    "Hydrogen"
+                    ],
+                    "answer": "Methane"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Biomedical waste can spread infections\n2. Plastic waste is fully biodegradable\n3. Segregation improves waste management efficiency",
+                    "options": [
+                    "1 and 3 only",
+                    "2 and 3 only",
+                    "1 and 2 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "Waste-to-energy plants help in:",
+                    "options": [
+                    "Increasing landfill waste",
+                    "Generating electricity from waste",
+                    "Increasing pollution",
+                    "Stopping recycling"
+                    ],
+                    "answer": "Generating electricity from waste"
+                },
+                {
+                    "question": "Plastic waste rules in India focus on:",
+                    "options": [
+                    "Encouraging single-use plastics",
+                    "Reducing plastic usage",
+                    "Increasing dumping",
+                    "Stopping recycling"
+                    ],
+                    "answer": "Reducing plastic usage"
+                },
+                {
+                    "question": "Biomedical waste is hazardous because it:",
+                    "options": [
+                    "Is always recyclable",
+                    "Contains infectious materials",
+                    "Is always non-toxic",
+                    "Improves soil quality"
+                    ],
+                    "answer": "Contains infectious materials"
+                },
+                {
+                    "question": "Integrated waste management focuses on:",
+                    "options": [
+                    "Only dumping waste",
+                    "Sustainable handling of all waste types",
+                    "Burning all waste",
+                    "Ocean disposal"
+                    ],
+                    "answer": "Sustainable handling of all waste types"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Effects of Poor Waste Disposal & Landfills",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Poor waste disposal is a major environmental and public health issue in India and globally",
+                    "Unscientific dumping leads to pollution of air, water, and soil",
+                    "Landfills are the most common but often problematic method of waste disposal",
+                    "Modern waste management emphasizes scientific landfill design and waste reduction"
+                ]
+            },
+            {
+                "heading": "Poor Waste Disposal – Meaning",
+                "points": [
+                    "Improper handling, collection, and dumping of solid and liquid waste",
+                    "Includes open dumping, burning, and mixing of hazardous waste with municipal waste",
+                    "Often results from lack of infrastructure and awareness",
+                    "Common in urban slums and rural fringe areas",
+                    "Leads to long-term environmental degradation"
+                ]
+            },
+            {
+                "heading": "Effects of Poor Waste Disposal – Overview",
+                "points": [
+                    "Impacts environment, human health, and economy",
+                    "Leads to pollution of air, water, and soil",
+                    "Increases spread of diseases",
+                    "Degrades urban aesthetics and livability",
+                    "Affects biodiversity and ecosystems"
+                ]
+            },
+            {
+                "heading": "Effects on Soil",
+                "points": [
+                    "Toxic chemicals seep into soil from waste dumps",
+                    "Reduces soil fertility and agricultural productivity",
+                    "Accumulation of non-biodegradable plastics",
+                    "Disturbs soil microorganisms",
+                    "Long-term land degradation"
+                ]
+            },
+            {
+                "heading": "Effects on Water",
+                "points": [
+                    "Leachate from waste contaminates groundwater",
+                    "Pollution of rivers and lakes from dumping",
+                    "Eutrophication due to nutrient overload",
+                    "Spread of waterborne diseases",
+                    "Loss of potable water sources"
+                ]
+            },
+            {
+                "heading": "Effects on Air",
+                "points": [
+                    "Emission of methane and other greenhouse gases",
+                    "Toxic fumes from open burning of waste",
+                    "Release of dioxins and furans from plastics",
+                    "Bad odour affecting nearby populations",
+                    "Contribution to climate change"
+                ]
+            },
+            {
+                "heading": "Effects on Human Health",
+                "points": [
+                    "Spread of diseases like cholera, dengue, and malaria",
+                    "Respiratory problems due to toxic air emissions",
+                    "Skin infections and allergies",
+                    "Exposure to hazardous chemicals and heavy metals",
+                    "Health risks to waste pickers and sanitation workers"
+                ]
+            },
+            {
+                "heading": "Effects on Biodiversity",
+                "points": [
+                    "Harm to terrestrial and aquatic organisms",
+                    "Ingestion of plastics by animals",
+                    "Habitat destruction due to dumping sites",
+                    "Bioaccumulation of toxic substances in food chain",
+                    "Disturbance of ecological balance"
+                ]
+            },
+            {
+                "heading": "Economic Impacts of Poor Waste Disposal",
+                "points": [
+                    "Increased healthcare costs due to disease burden",
+                    "Loss of productive land",
+                    "Reduced tourism potential",
+                    "High cost of environmental restoration",
+                    "Damage to fisheries and agriculture"
+                ]
+            },
+            {
+                "heading": "Landfills – Definition",
+                "points": [
+                    "Landfills are engineered sites for controlled disposal of solid waste",
+                    "Waste is buried and compacted in layers",
+                    "Designed to minimize environmental impact",
+                    "Most widely used waste disposal method globally",
+                    "Modern landfills include liners and leachate collection systems"
+                ]
+            },
+            {
+                "heading": "Types of Landfills",
+                "points": [
+                    "Sanitary landfills (scientifically designed)",
+                    "Open dumps (unregulated and hazardous)",
+                    "Secure landfills (for hazardous waste)",
+                    "Bioreactor landfills (enhanced decomposition)",
+                    "Municipal solid waste landfills"
+                ]
+            },
+            {
+                "heading": "Structure of a Sanitary Landfill",
+                "points": [
+                    "Bottom liner (clay or plastic to prevent leakage)",
+                    "Leachate collection system",
+                    "Waste compaction layers",
+                    "Gas collection system for methane",
+                    "Final cover to prevent exposure"
+                ]
+            },
+            {
+                "heading": "Problems of Landfills",
+                "points": [
+                    "Production of methane leading to greenhouse effect",
+                    "Leachate contamination of groundwater",
+                    "Land scarcity in urban areas",
+                    "Odour and pest problems",
+                    "Risk of landfill fires and explosions"
+                ]
+            },
+            {
+                "heading": "Advantages of Scientific Landfills",
+                "points": [
+                    "Controlled waste disposal",
+                    "Reduced environmental pollution",
+                    "Methane capture for energy generation",
+                    "Better hygiene and sanitation",
+                    "Long-term waste containment"
+                ]
+            },
+            {
+                "heading": "Landfill Gas and Its Use",
+                "points": [
+                    "Mainly consists of methane and carbon dioxide",
+                    "Can be captured and used for energy production",
+                    "Reduces greenhouse gas emissions",
+                    "Used in waste-to-energy projects",
+                    "Improves sustainability of landfill systems"
+                ]
+            },
+            {
+                "heading": "Waste Management Hierarchy",
+                "points": [
+                    "Prevention of waste generation (most preferred)",
+                    "Reduction and reuse",
+                    "Recycling and recovery",
+                    "Energy recovery",
+                    "Disposal in landfills (least preferred)"
+                ]
+            },
+            {
+                "heading": "Measures to Reduce Effects of Poor Waste Disposal",
+                "points": [
+                    "Strict implementation of waste management rules",
+                    "Segregation of waste at source",
+                    "Public awareness campaigns",
+                    "Expansion of recycling infrastructure",
+                    "Adoption of circular economy model"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Poor waste disposal mainly leads to:",
+                    "options": [
+                    "Clean environment",
+                    "Pollution and disease spread",
+                    "Increased rainfall",
+                    "Soil fertility improvement"
+                    ],
+                    "answer": "Pollution and disease spread"
+                },
+                {
+                    "question": "Landfills are used for:",
+                    "options": [
+                    "Water purification",
+                    "Waste disposal",
+                    "Air purification",
+                    "Electricity generation only"
+                    ],
+                    "answer": "Waste disposal"
+                },
+                {
+                    "question": "Methane in landfills contributes to:",
+                    "options": [
+                    "Ozone recovery",
+                    "Greenhouse effect",
+                    "Soil fertility",
+                    "Rain formation only"
+                    ],
+                    "answer": "Greenhouse effect"
+                },
+                {
+                    "question": "Open dumping is:",
+                    "options": [
+                    "Scientific method",
+                    "Unregulated waste disposal",
+                    "Water treatment",
+                    "Recycling method"
+                    ],
+                    "answer": "Unregulated waste disposal"
+                },
+                {
+                    "question": "Leachate is:",
+                    "options": [
+                    "Clean water",
+                    "Toxic liquid from waste",
+                    "Fresh air",
+                    "Soil nutrient"
+                    ],
+                    "answer": "Toxic liquid from waste"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Sanitary landfills have:",
+                    "options": [
+                    "No lining system",
+                    "Engineering design to control pollution",
+                    "No waste treatment",
+                    "Only burning process"
+                    ],
+                    "answer": "Engineering design to control pollution"
+                },
+                {
+                    "question": "Landfill gas mainly contains:",
+                    "options": [
+                    "Oxygen",
+                    "Methane",
+                    "Hydrogen only",
+                    "Helium"
+                    ],
+                    "answer": "Methane"
+                },
+                {
+                    "question": "Waste hierarchy places highest priority on:",
+                    "options": [
+                    "Landfilling",
+                    "Waste prevention",
+                    "Incineration",
+                    "Burning"
+                    ],
+                    "answer": "Waste prevention"
+                },
+                {
+                    "question": "Poor waste disposal affects:",
+                    "options": [
+                    "Only air",
+                    "Air, water, and soil",
+                    "Only water",
+                    "Only soil"
+                    ],
+                    "answer": "Air, water, and soil"
+                },
+                {
+                    "question": "Bioreactor landfills are designed for:",
+                    "options": [
+                    "Faster decomposition of waste",
+                    "No decomposition",
+                    "Only burning waste",
+                    "Water purification"
+                    ],
+                    "answer": "Faster decomposition of waste"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Poor waste disposal can contaminate groundwater\n2. Sanitary landfills are unregulated\n3. Methane from landfills can be used for energy",
+                    "options": [
+                    "1 and 3 only",
+                    "2 and 3 only",
+                    "1 and 2 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "Leachate primarily affects:",
+                    "options": [
+                    "Air quality",
+                    "Groundwater quality",
+                    "Sunlight",
+                    "Wind patterns"
+                    ],
+                    "answer": "Groundwater quality"
+                },
+                {
+                    "question": "Waste hierarchy prioritizes:",
+                    "options": [
+                    "Disposal first",
+                    "Prevention first",
+                    "Burning first",
+                    "Landfill first"
+                    ],
+                    "answer": "Prevention first"
+                },
+                {
+                    "question": "Landfills contribute to climate change due to:",
+                    "options": [
+                    "Oxygen release",
+                    "Methane emissions",
+                    "Rain formation",
+                    "Soil cooling"
+                    ],
+                    "answer": "Methane emissions"
+                },
+                {
+                    "question": "Scientific waste management reduces:",
+                    "options": [
+                    "Pollution",
+                    "Waste generation only",
+                    "Population",
+                    "Rainfall"
+                    ],
+                    "answer": "Pollution"
+                }
+            ]
+        }
+    }
+]

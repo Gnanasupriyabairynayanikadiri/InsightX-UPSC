@@ -1,0 +1,1031 @@
+[
+    {
+        "name": "Amendment of the Constitution",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Constitutional amendment refers to the process of making changes in the Constitution",
+                    "Provided under Article 368 in Part XX of the Constitution",
+                    "Ensures the Constitution remains dynamic and adaptable",
+                    "Balances rigidity and flexibility of the Constitution"
+                ]
+            },
+            {
+                "heading": "Need for Amendment",
+                "points": [
+                    "To adapt to changing social, economic, and political conditions",
+                    "To correct difficulties found in the working of the Constitution",
+                    "To incorporate new policies and reforms",
+                    "To ensure stability and continuity of governance"
+                ]
+            },
+            {
+                "heading": "Types of Amendment Procedures",
+                "points": [
+                    "Simple Majority: Changes made by ordinary majority of Parliament (not under Article 368)",
+                    "Special Majority: Requires majority of total membership + two-thirds of members present and voting",
+                    "Special Majority + State Ratification: Requires approval of at least half of the State Legislatures",
+                    "Different provisions require different procedures"
+                ]
+            },
+            {
+                "heading": "Simple Majority Amendments",
+                "points": [
+                    "Not considered constitutional amendment under Article 368",
+                    "Examples: Admission or formation of new states, alteration of state boundaries",
+                    "Used for administrative changes",
+                    "Easier to pass compared to other methods"
+                ]
+            },
+            {
+                "heading": "Special Majority Amendments",
+                "points": [
+                    "Requires majority of total membership of each House",
+                    "Also requires two-thirds of members present and voting",
+                    "Most constitutional amendments fall under this category",
+                    "Example: Fundamental Rights, DPSP, Fundamental Duties"
+                ]
+            },
+            {
+                "heading": "Special Majority + State Ratification",
+                "points": [
+                    "Requires approval of Parliament + at least half of State Legislatures",
+                    "Used for federal structure-related provisions",
+                    "Example: Election of President, distribution of powers, Supreme Court jurisdiction",
+                    "Ensures cooperative federalism"
+                ]
+            },
+            {
+                "heading": "Important Features of Amendment Process",
+                "points": [
+                    "Parliament has the power to amend the Constitution",
+                    "State participation required in federal matters",
+                    "Judicial review applies to amendments",
+                    "Basic structure of Constitution cannot be amended"
+                ]
+            },
+            {
+                "heading": "Basic Structure Doctrine",
+                "points": [
+                    "Introduced in Kesavananda Bharati Case (1973)",
+                    "Parliament cannot alter basic structure of Constitution",
+                    "Includes supremacy of Constitution, rule of law, judicial review, etc.",
+                    "Acts as limitation on amendment power"
+                ]
+            },
+            {
+                "heading": "Judicial Control over Amendments",
+                "points": [
+                    "Supreme Court can review constitutional amendments",
+                    "Ensures no violation of basic structure",
+                    "Prevents misuse of amending power",
+                    "Strengthens constitutional supremacy"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Article 368 deals with constitutional amendments",
+                    "Three types of amendment procedures exist",
+                    "Basic structure doctrine limits Parliament’s power",
+                    "Constitution is neither too rigid nor too flexible"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Constitutional amendment is dealt with in:",
+                    "options": [
+                        "Article 356",
+                        "Article 360",
+                        "Article 368",
+                        "Article 370"
+                    ],
+                    "answer": "Article 368"
+                },
+                {
+                    "question": "Amendment of Constitution is in:",
+                    "options": [
+                        "Part XIX",
+                        "Part XX",
+                        "Part XXI",
+                        "Part XVIII"
+                    ],
+                    "answer": "Part XX"
+                },
+                {
+                    "question": "Which case introduced Basic Structure Doctrine?",
+                    "options": [
+                        "Golaknath Case",
+                        "Kesavananda Bharati Case",
+                        "Minerva Mills Case",
+                        "Shah Bano Case"
+                    ],
+                    "answer": "Kesavananda Bharati Case"
+                },
+                {
+                    "question": "Constitutional amendments are passed by:",
+                    "options": [
+                        "President only",
+                        "Parliament",
+                        "Supreme Court",
+                        "Election Commission"
+                    ],
+                    "answer": "Parliament"
+                },
+                {
+                    "question": "Basic Structure Doctrine limits:",
+                    "options": [
+                        "Judiciary",
+                        "Parliament",
+                        "Executive",
+                        "President"
+                    ],
+                    "answer": "Parliament"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which type of amendment requires state ratification?",
+                    "options": [
+                        "Simple majority",
+                        "Special majority only",
+                        "Special majority + State ratification",
+                        "Presidential approval only"
+                    ],
+                    "answer": "Special majority + State ratification"
+                },
+                {
+                    "question": "Which is NOT part of Basic Structure?",
+                    "options": [
+                        "Supremacy of Constitution",
+                        "Judicial review",
+                        "Parliamentary sovereignty",
+                        "Rule of law"
+                    ],
+                    "answer": "Parliamentary sovereignty"
+                },
+                {
+                    "question": "Simple majority amendments are used for:",
+                    "options": [
+                        "Fundamental Rights",
+                        "State boundary changes",
+                        "Judiciary structure",
+                        "Basic structure changes"
+                    ],
+                    "answer": "State boundary changes"
+                },
+                {
+                    "question": "Article 368 belongs to:",
+                    "options": [
+                        "Executive power",
+                        "Legislative procedure",
+                        "Judicial review",
+                        "Emergency provisions"
+                    ],
+                    "answer": "Legislative procedure"
+                },
+                {
+                    "question": "Constitutional amendment ensures:",
+                    "options": [
+                        "Rigidity only",
+                        "Flexibility only",
+                        "Both rigidity and flexibility",
+                        "No change possible"
+                    ],
+                    "answer": "Both rigidity and flexibility"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Article 368 deals with amendment of Constitution\n2. Parliament can amend basic structure\n3. Judiciary can review amendments",
+                    "options": [
+                        "1 and 3",
+                        "2 and 3",
+                        "1 and 2",
+                        "All"
+                    ],
+                    "answer": "1 and 3"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Constitution cannot be amended",
+                        "Constitution is rigid and flexible both",
+                        "Parliament is unlimited in amending power",
+                        "Judiciary cannot review amendments"
+                    ],
+                    "answer": "Constitution is rigid and flexible both"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Basic structure limits Parliament",
+                        "Article 368 governs amendments",
+                        "All amendments need state approval",
+                        "Judiciary can review amendments"
+                    ],
+                    "answer": "All amendments need state approval"
+                },
+                {
+                    "question": "Main feature of amendment process is:",
+                    "options": [
+                        "Complete rigidity",
+                        "Absolute flexibility",
+                        "Balanced flexibility and rigidity",
+                        "No amendment possible"
+                    ],
+                    "answer": "Balanced flexibility and rigidity"
+                },
+                {
+                    "question": "Final authority on Constitution interpretation is:",
+                    "options": [
+                        "Parliament",
+                        "President",
+                        "Supreme Court",
+                        "Prime Minister"
+                    ],
+                    "answer": "Supreme Court"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Procedure for Amendment of the Constitution",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Procedure for amendment is provided under Article 368 of the Constitution",
+                    "It lays down how Parliament can amend the Constitution",
+                    "Ensures a balance between rigidity and flexibility",
+                    "Different procedures are followed depending on the nature of amendment"
+                ]
+            },
+            {
+                "heading": "Initiation of Amendment",
+                "points": [
+                    "A constitutional amendment can be introduced only in Parliament",
+                    "Can be introduced in either Lok Sabha or Rajya Sabha",
+                    "No prior permission of President is required",
+                    "Only a Minister or a private member can introduce a Bill"
+                ]
+            },
+            {
+                "heading": "Passing in Parliament",
+                "points": [
+                    "Bill must be passed in each House separately",
+                    "Requires special majority in both Lok Sabha and Rajya Sabha",
+                    "Special Majority = Majority of total membership + 2/3rd of members present and voting",
+                    "No joint sitting is allowed in case of disagreement"
+                ]
+            },
+            {
+                "heading": "Types of Amendment Procedures",
+                "points": [
+                    "Simple Majority (outside Article 368)",
+                    "Special Majority under Article 368",
+                    "Special Majority + State Ratification"
+                ]
+            },
+            {
+                "heading": "Simple Majority Procedure",
+                "points": [
+                    "Passed by simple majority of members present and voting",
+                    "Not considered a constitutional amendment under Article 368",
+                    "Used for administrative changes",
+                    "Example: Formation of new states, boundary changes"
+                ]
+            },
+            {
+                "heading": "Special Majority Procedure",
+                "points": [
+                    "Requires majority of total membership of House",
+                    "Also requires two-thirds of members present and voting",
+                    "Applicable to most constitutional amendments",
+                    "Example: Fundamental Rights, DPSP, Fundamental Duties"
+                ]
+            },
+            {
+                "heading": "Special Majority + State Ratification",
+                "points": [
+                    "Requires approval by Parliament + at least half of State Legislatures",
+                    "Used for federal structure provisions",
+                    "Example: Election of President, distribution of powers between Centre and States",
+                    "Ensures federal balance"
+                ]
+            },
+            {
+                "heading": "Presidential Assent",
+                "points": [
+                    "After Parliament passes the Bill, it is sent to the President",
+                    "President must give assent (no veto power)",
+                    "Once assented, the Bill becomes a Constitutional Amendment Act",
+                    "President cannot return or withhold the Bill"
+                ]
+            },
+            {
+                "heading": "Judicial Review",
+                "points": [
+                    "Supreme Court can review constitutional amendments",
+                    "Can strike down amendments violating Basic Structure",
+                    "Ensures supremacy of Constitution",
+                    "Acts as a check on Parliament’s power"
+                ]
+            },
+            {
+                "heading": "Important Features of Procedure",
+                "points": [
+                    "No joint sitting of Parliament is allowed",
+                    "State involvement required only in federal matters",
+                    "President’s assent is mandatory",
+                    "Judicial review is applicable"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Article 368 lays down amendment procedure",
+                    "Three types of amendment procedures exist",
+                    "No presidential veto in constitutional amendment",
+                    "Basic structure doctrine limits amendment power"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Constitutional amendment procedure is given in:",
+                    "options": [
+                        "Article 356",
+                        "Article 360",
+                        "Article 368",
+                        "Article 370"
+                    ],
+                    "answer": "Article 368"
+                },
+                {
+                    "question": "Constitutional amendment can be introduced in:",
+                    "options": [
+                        "Lok Sabha only",
+                        "Rajya Sabha only",
+                        "Either House of Parliament",
+                        "State Assembly"
+                    ],
+                    "answer": "Either House of Parliament"
+                },
+                {
+                    "question": "Joint sitting is allowed in constitutional amendment?",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "Only sometimes",
+                        "President decides"
+                    ],
+                    "answer": "No"
+                },
+                {
+                    "question": "President’s role in amendment is:",
+                    "options": [
+                        "Can reject",
+                        "Can return",
+                        "Must give assent",
+                        "Can amend Bill"
+                    ],
+                    "answer": "Must give assent"
+                },
+                {
+                    "question": "Constitutional amendments require:",
+                    "options": [
+                        "Simple majority",
+                        "Special majority",
+                        "Unanimous vote",
+                        "Presidential veto"
+                    ],
+                    "answer": "Special majority"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which type of amendment requires state ratification?",
+                    "options": [
+                        "Simple majority",
+                        "Special majority only",
+                        "Special majority + state ratification",
+                        "President alone"
+                    ],
+                    "answer": "Special majority + state ratification"
+                },
+                {
+                    "question": "Which is NOT required for amendment?",
+                    "options": [
+                        "Special majority",
+                        "President’s assent",
+                        "Joint sitting",
+                        "State approval (in some cases)"
+                    ],
+                    "answer": "Joint sitting"
+                },
+                {
+                    "question": "Which of the following is correct?",
+                    "options": [
+                        "President can veto amendment",
+                        "President must assent",
+                        "Supreme Court initiates amendment",
+                        "State Governors amend Constitution"
+                    ],
+                    "answer": "President must assent"
+                },
+                {
+                    "question": "Simple majority amendment is used for:",
+                    "options": [
+                        "Fundamental Rights",
+                        "State reorganisation",
+                        "Judicial review",
+                        "Basic structure changes"
+                    ],
+                    "answer": "State reorganisation"
+                },
+                {
+                    "question": "Article 368 belongs to:",
+                    "options": [
+                        "Executive power",
+                        "Legislative procedure",
+                        "Judicial power",
+                        "Emergency provisions"
+                    ],
+                    "answer": "Legislative procedure"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. President can reject constitutional amendment bill\n2. No joint sitting is allowed in amendment process\n3. Supreme Court can review amendments",
+                    "options": [
+                        "2 and 3",
+                        "1 and 2",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "2 and 3"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Amendment requires President’s discretion",
+                        "Amendment requires special majority",
+                        "Amendment can be passed by simple majority always",
+                        "Supreme Court cannot review amendments"
+                    ],
+                    "answer": "Amendment requires special majority"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Article 368 governs amendments",
+                        "Joint sitting is not allowed",
+                        "President can veto amendment",
+                        "Some amendments need state ratification"
+                    ],
+                    "answer": "President can veto amendment"
+                },
+                {
+                    "question": "Main feature of amendment procedure is:",
+                    "options": [
+                        "Extreme rigidity",
+                        "Complete flexibility",
+                        "Balanced rigidity and flexibility",
+                        "No procedure exists"
+                    ],
+                    "answer": "Balanced rigidity and flexibility"
+                },
+                {
+                    "question": "Final safeguard against misuse of amendment power is:",
+                    "options": [
+                        "President",
+                        "Parliament",
+                        "Supreme Court",
+                        "Election Commission"
+                    ],
+                    "answer": "Supreme Court"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Types of Constitutional Amendments",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "The Indian Constitution provides different methods for amendment",
+                    "These are based on the nature of provisions being changed",
+                    "Three main types of amendment procedures are followed",
+                    "This ensures balance between flexibility and rigidity of the Constitution"
+                ]
+            },
+            {
+                "heading": "Types of Amendments",
+                "points": [
+                    "Amendment by Simple Majority (outside Article 368)",
+                    "Amendment by Special Majority under Article 368",
+                    "Amendment by Special Majority + State Ratification"
+                ]
+            },
+            {
+                "heading": "1. Amendment by Simple Majority",
+                "points": [
+                    "Passed by simple majority of members present and voting",
+                    "Not considered a constitutional amendment under Article 368",
+                    "Used for ordinary legislative changes",
+                    "Easier to pass compared to other types"
+                ]
+            },
+            {
+                "heading": "Examples of Simple Majority Amendments",
+                "points": [
+                    "Admission or formation of new states",
+                    "Alteration of state boundaries",
+                    "Creation or abolition of legislative councils",
+                    "Delimitation of constituencies"
+                ]
+            },
+            {
+                "heading": "2. Amendment by Special Majority",
+                "points": [
+                    "Requires majority of total membership of each House",
+                    "Also requires two-thirds of members present and voting",
+                    "Most constitutional amendments fall under this category",
+                    "Provides stronger safeguard than simple majority"
+                ]
+            },
+            {
+                "heading": "Examples of Special Majority Amendments",
+                "points": [
+                    "Fundamental Rights",
+                    "Directive Principles of State Policy",
+                    "Fundamental Duties",
+                    "Judicial provisions",
+                    "Election-related provisions (in many cases)"
+                ]
+            },
+            {
+                "heading": "3. Amendment by Special Majority + State Ratification",
+                "points": [
+                    "Requires approval by Parliament + at least half of State Legislatures",
+                    "Used for federal structure-related provisions",
+                    "Ensures Centre-State balance",
+                    "Strengthens cooperative federalism"
+                ]
+            },
+            {
+                "heading": "Examples of Special Majority + State Ratification",
+                "points": [
+                    "Election of President",
+                    "Distribution of legislative powers between Centre and States",
+                    "Supreme Court and High Court jurisdiction",
+                    "Representation of States in Parliament"
+                ]
+            },
+            {
+                "heading": "Importance of Classification",
+                "points": [
+                    "Ensures flexibility in governance",
+                    "Protects federal structure of Constitution",
+                    "Prevents arbitrary changes",
+                    "Maintains constitutional stability"
+                ]
+            },
+            {
+                "heading": "Judicial Safeguard",
+                "points": [
+                    "All amendments are subject to judicial review",
+                    "Supreme Court can strike down unconstitutional amendments",
+                    "Basic Structure Doctrine acts as limitation",
+                    "Prevents misuse of amendment power"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Three types of constitutional amendments exist in India",
+                    "Article 368 deals with Special Majority amendments",
+                    "Simple majority amendments are outside Article 368",
+                    "State ratification is required in federal matters"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "How many types of constitutional amendments are there in India?",
+                    "options": [
+                        "Two",
+                        "Three",
+                        "Four",
+                        "Five"
+                    ],
+                    "answer": "Three"
+                },
+                {
+                    "question": "Constitutional amendment is mainly dealt with under:",
+                    "options": [
+                        "Article 14",
+                        "Article 19",
+                        "Article 21",
+                        "Article 368"
+                    ],
+                    "answer": "Article 368"
+                },
+                {
+                    "question": "Simple majority amendment is used for:",
+                    "options": [
+                        "Fundamental Rights",
+                        "State boundary changes",
+                        "Judicial review",
+                        "Basic structure"
+                    ],
+                    "answer": "State boundary changes"
+                },
+                {
+                    "question": "Special majority amendment requires:",
+                    "options": [
+                        "Only simple majority",
+                        "Majority of total + 2/3rd present and voting",
+                        "Unanimous vote",
+                        "President approval only"
+                    ],
+                    "answer": "Majority of total + 2/3rd present and voting"
+                },
+                {
+                    "question": "State ratification is required in:",
+                    "options": [
+                        "Simple majority amendments",
+                        "Special majority only",
+                        "Special majority + State approval",
+                        "No amendments"
+                    ],
+                    "answer": "Special majority + State approval"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which of the following requires State ratification?",
+                    "options": [
+                        "Alteration of state boundaries",
+                        "Election of President",
+                        "Creation of states",
+                        "Delimitation of constituencies"
+                    ],
+                    "answer": "Election of President"
+                },
+                {
+                    "question": "Which is NOT a type of constitutional amendment?",
+                    "options": [
+                        "Simple majority",
+                        "Special majority",
+                        "Judicial amendment",
+                        "State ratification"
+                    ],
+                    "answer": "Judicial amendment"
+                },
+                {
+                    "question": "Which amendment type is outside Article 368?",
+                    "options": [
+                        "Simple majority",
+                        "Special majority",
+                        "State ratification",
+                        "Basic structure amendment"
+                    ],
+                    "answer": "Simple majority"
+                },
+                {
+                    "question": "Which body finally approves constitutional amendment?",
+                    "options": [
+                        "Supreme Court",
+                        "President of India",
+                        "Election Commission",
+                        "Prime Minister"
+                    ],
+                    "answer": "President of India"
+                },
+                {
+                    "question": "Which of the following is correct?",
+                    "options": [
+                        "All amendments need state approval",
+                        "Some amendments need special majority",
+                        "President can reject amendment",
+                        "Supreme Court drafts amendments"
+                    ],
+                    "answer": "Some amendments need special majority"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Simple majority amendments are under Article 368\n2. State ratification is required for federal provisions\n3. All amendments require Supreme Court approval",
+                    "options": [
+                        "2 only",
+                        "1 and 2",
+                        "2 and 3",
+                        "All"
+                    ],
+                    "answer": "2 only"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "India has only one type of amendment",
+                        "India has three types of amendments",
+                        "All amendments are judicially made",
+                        "Parliament cannot amend Constitution"
+                    ],
+                    "answer": "India has three types of amendments"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Simple majority is outside Article 368",
+                        "Special majority is most common",
+                        "State ratification is always required",
+                        "Basic structure limits amendments"
+                    ],
+                    "answer": "State ratification is always required"
+                },
+                {
+                    "question": "Main purpose of classification of amendments is:",
+                    "options": [
+                        "To simplify judiciary",
+                        "To balance rigidity and flexibility",
+                        "To reduce Parliament power",
+                        "To empower President"
+                    ],
+                    "answer": "To balance rigidity and flexibility"
+                },
+                {
+                    "question": "Final safeguard against misuse of amendment power is:",
+                    "options": [
+                        "President",
+                        "Parliament",
+                        "Supreme Court",
+                        "Election Commission"
+                    ],
+                    "answer": "Supreme Court"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Criticism of the Constitutional Amendment Procedure",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "The amendment procedure under Article 368 has been widely debated",
+                    "It is designed to balance rigidity and flexibility of the Constitution",
+                    "However, scholars and experts have pointed out several limitations",
+                    "Criticism mainly focuses on Parliament’s dominance and judicial involvement"
+                ]
+            },
+            {
+                "heading": "Too Flexible in Practice",
+                "points": [
+                    "Critics argue that the Constitution is relatively easy to amend",
+                    "More than 100 amendments have been made since 1950",
+                    "Frequent amendments may reduce constitutional stability",
+                    "Risk of political misuse by ruling parties"
+                ]
+            },
+            {
+                "heading": "Too Rigid in Certain Cases",
+                "points": [
+                    "Some provisions require complex procedures (e.g., state ratification)",
+                    "This makes important reforms difficult",
+                    "Delays in federal restructuring and institutional changes",
+                    "Creates imbalance between rigidity and flexibility"
+                ]
+            },
+            {
+                "heading": "Dominance of Parliament",
+                "points": [
+                    "Amendment power is largely in the hands of Parliament",
+                    "States have limited role except in federal matters",
+                    "Concerns about centralization of power",
+                    "May weaken federal character in some cases"
+                ]
+            },
+            {
+                "heading": "Judicial Intervention Issues",
+                "points": [
+                    "Basic Structure Doctrine limits Parliament’s power",
+                    "Critics say it gives excessive power to judiciary",
+                    "No clear definition of 'basic structure'",
+                    "Creates uncertainty in constitutional amendments"
+                ]
+            },
+            {
+                "heading": "Lack of Clear Guidelines",
+                "points": [
+                    "Constitution does not clearly define limits of amendment power",
+                    "Ambiguity leads to judicial interpretation",
+                    "Different interpretations in different cases",
+                    "May lead to constitutional uncertainty"
+                ]
+            },
+            {
+                "heading": "Political Misuse",
+                "points": [
+                    "Ruling parties may use amendment power for political gain",
+                    "Constitutional changes sometimes influenced by political agenda",
+                    "Concerns about weakening democratic principles",
+                    "Opposition participation is limited in practice"
+                ]
+            },
+            {
+                "heading": "Frequent Amendments",
+                "points": [
+                    "India has one of the highest numbers of constitutional amendments",
+                    "May indicate lack of constitutional foresight",
+                    "Frequent changes can reduce constitutional sanctity",
+                    "Creates perception of instability"
+                ]
+            },
+            {
+                "heading": "Weak Role of States",
+                "points": [
+                    "States participate only in limited types of amendments",
+                    "Centre dominates most amendment procedures",
+                    "Federal balance sometimes affected",
+                    "Calls for greater state involvement in constitutional changes"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Article 368 governs amendment procedure",
+                    "Main criticism: Parliament dominance and frequent amendments",
+                    "Basic Structure Doctrine limits amendment power",
+                    "Balance between rigidity and flexibility is debated issue"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Constitutional amendment procedure is given in:",
+                    "options": [
+                        "Article 356",
+                        "Article 360",
+                        "Article 368",
+                        "Article 370"
+                    ],
+                    "answer": "Article 368"
+                },
+                {
+                    "question": "Main criticism of amendment procedure is:",
+                    "options": [
+                        "Too strict always",
+                        "Parliament dominance and frequent amendments",
+                        "No amendments allowed",
+                        "Only judiciary controls it"
+                    ],
+                    "answer": "Parliament dominance and frequent amendments"
+                },
+                {
+                    "question": "Basic Structure Doctrine was introduced in:",
+                    "options": [
+                        "Golaknath Case",
+                        "Kesavananda Bharati Case",
+                        "Maneka Gandhi Case",
+                        "Minerva Mills Case"
+                    ],
+                    "answer": "Kesavananda Bharati Case"
+                },
+                {
+                    "question": "Who can amend the Constitution?",
+                    "options": [
+                        "Supreme Court",
+                        "Parliament",
+                        "President",
+                        "Election Commission"
+                    ],
+                    "answer": "Parliament"
+                },
+                {
+                    "question": "State participation is required in:",
+                    "options": [
+                        "All amendments",
+                        "Federal provisions",
+                        "No amendments",
+                        "Only financial laws"
+                    ],
+                    "answer": "Federal provisions"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which is NOT a criticism of amendment procedure?",
+                    "options": [
+                        "Too many amendments",
+                        "Parliament dominance",
+                        "Excessive rigidity in all cases",
+                        "Judicial intervention"
+                    ],
+                    "answer": "Excessive rigidity in all cases"
+                },
+                {
+                    "question": "Basic Structure Doctrine is criticized because:",
+                    "options": [
+                        "It strengthens Parliament",
+                        "It is undefined and gives judiciary power",
+                        "It removes Constitution",
+                        "It increases rigidity"
+                    ],
+                    "answer": "It is undefined and gives judiciary power"
+                },
+                {
+                    "question": "Which of the following is correct?",
+                    "options": [
+                        "All amendments need state approval",
+                        "Parliament dominates amendment process",
+                        "Judiciary drafts amendments",
+                        "President can reject amendments"
+                    ],
+                    "answer": "Parliament dominates amendment process"
+                },
+                {
+                    "question": "Frequent amendments indicate:",
+                    "options": [
+                        "Strong stability",
+                        "Weak constitutional foresight",
+                        "No Constitution",
+                        "Judicial control"
+                    ],
+                    "answer": "Weak constitutional foresight"
+                },
+                {
+                    "question": "Which body limits amendment power?",
+                    "options": [
+                        "Parliament",
+                        "President",
+                        "Supreme Court",
+                        "Election Commission"
+                    ],
+                    "answer": "Supreme Court"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Parliament has absolute power to amend Constitution\n2. Basic Structure Doctrine limits amendments\n3. States participate in all amendments",
+                    "options": [
+                        "2 only",
+                        "1 and 2",
+                        "2 and 3",
+                        "All"
+                    ],
+                    "answer": "2 only"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Amendment process is completely rigid",
+                        "Amendment process is balanced but criticized",
+                        "Judiciary has no role in amendments",
+                        "States control amendment process"
+                    ],
+                    "answer": "Amendment process is balanced but criticized"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Article 368 governs amendments",
+                        "Parliament plays key role",
+                        "Judiciary has no role",
+                        "Some amendments need state ratification"
+                    ],
+                    "answer": "Judiciary has no role"
+                },
+                {
+                    "question": "Main issue with amendment procedure is:",
+                    "options": [
+                        "Over-rigidity only",
+                        "Balance between rigidity and flexibility",
+                        "No amendment power exists",
+                        "Excessive judicial drafting"
+                    ],
+                    "answer": "Balance between rigidity and flexibility"
+                },
+                {
+                    "question": "Final safeguard against misuse of amendment power is:",
+                    "options": [
+                        "President",
+                        "Parliament",
+                        "Supreme Court",
+                        "Prime Minister"
+                    ],
+                    "answer": "Supreme Court"
+                }
+            ]
+        }
+    }
+]

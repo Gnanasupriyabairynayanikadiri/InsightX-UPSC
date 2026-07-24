@@ -1,0 +1,8739 @@
+TOPICS = [
+    {
+        "name": "Agriculture: Basic Terminologies, Farming Types & Cropping Systems",
+        "notes": [
+            {
+                "heading": "Introduction to Agriculture",
+                "points": [
+                    "Agriculture is the primary economic activity involving cultivation of crops and livestock rearing",
+                    "It is the backbone of Indian economy, supporting a large population",
+                    "Depends on physical factors like soil, climate, rainfall, and irrigation",
+                    "Also influenced by technological, economic, and institutional factors",
+                    "India has diverse agricultural systems due to varied geography"
+                ]
+            },
+            {
+                "heading": "Performance of Agriculture Sector in India",
+                "points": [
+                    "Contributes significantly to GDP and employment",
+                    "Employs a large share of rural population",
+                    "Has shown improvement due to Green Revolution and technology",
+                    "Still dependent on monsoon rainfall in many regions",
+                    "Regional disparities exist in productivity and development"
+                ]
+            },
+            {
+                "heading": "Basic Agricultural Terminologies",
+                "points": [
+                    "Cropping pattern – proportion of area under different crops at a given time",
+                    "Cropping system – sequence and combination of crops grown",
+                    "Intensive farming – high input, high output farming",
+                    "Extensive farming – low input, large area farming",
+                    "Subsistence farming – production mainly for self-consumption",
+                    "Commercial farming – production for market sale"
+                ]
+            },
+            {
+                "heading": "Types of Farming in India",
+                "points": [
+                    "Primitive subsistence farming",
+                    "Intensive subsistence farming",
+                    "Commercial farming",
+                    "Plantation farming",
+                    "Mixed farming",
+                    "Organic farming"
+                ]
+            },
+            {
+                "heading": "Dry Zone Farming (Dryland Agriculture)",
+                "points": [
+                    "Practiced in areas with low and uncertain rainfall",
+                    "Depends on moisture conservation techniques",
+                    "Crops grown: millets, pulses, oilseeds",
+                    "Uses drought-resistant crop varieties",
+                    "Important in states like Rajasthan, Maharashtra, Karnataka, Telangana"
+                ]
+            },
+            {
+                "heading": "Characteristics of Dry Zone Farming",
+                "points": [
+                    "Rainfall usually less than 75 cm",
+                    "Risk of crop failure due to drought",
+                    "Use of contour ploughing and mulching",
+                    "Low use of irrigation facilities",
+                    "Focus on soil moisture conservation"
+                ]
+            },
+            {
+                "heading": "Organic Farming",
+                "points": [
+                    "Farming without chemical fertilizers and pesticides",
+                    "Uses natural compost, manure, and biological pest control",
+                    "Environment-friendly and sustainable method",
+                    "Improves soil health and biodiversity",
+                    "Produces chemical-free food products"
+                ]
+            },
+            {
+                "heading": "Advantages of Organic Farming",
+                "points": [
+                    "Improves soil fertility naturally",
+                    "Reduces environmental pollution",
+                    "Healthier food production",
+                    "Sustainable long-term farming system",
+                    "Low input cost over time"
+                ]
+            },
+            {
+                "heading": "Limitations of Organic Farming",
+                "points": [
+                    "Lower initial yield compared to chemical farming",
+                    "Requires more labor",
+                    "Slow production cycle",
+                    "Limited awareness and adoption",
+                    "Certification challenges for export"
+                ]
+            },
+            {
+                "heading": "Cropping Seasons in India",
+                "points": [
+                    "India has three major cropping seasons based on monsoon cycle"
+                ]
+            },
+            {
+                "heading": "Kharif Season",
+                "points": [
+                    "Sown: June–July (onset of monsoon)",
+                    "Harvested: September–October",
+                    "Crops: rice, maize, cotton, jute, sugarcane",
+                    "Depends heavily on rainfall",
+                    "Main monsoon season crops"
+                ]
+            },
+            {
+                "heading": "Rabi Season",
+                "points": [
+                    "Sown: October–November",
+                    "Harvested: March–April",
+                    "Crops: wheat, barley, mustard, peas",
+                    "Depends on winter rainfall and irrigation",
+                    "Requires cool climate"
+                ]
+            },
+            {
+                "heading": "Zaid Season",
+                "points": [
+                    "Grown between Rabi and Kharif (March–June)",
+                    "Crops: watermelon, cucumber, vegetables",
+                    "Requires irrigation facilities",
+                    "Short duration crops",
+                    "Important for summer vegetables and fruits"
+                ]
+            },
+            {
+                "heading": "Cropping Pattern in India",
+                "points": [
+                    "Refers to arrangement and proportion of crops grown in a region",
+                    "Varies based on climate, soil, and irrigation",
+                    "Includes multiple cropping systems",
+                    "Influenced by market demand and technology",
+                    "Changes with agricultural development"
+                ]
+            },
+            {
+                "heading": "Types of Cropping Patterns",
+                "points": [
+                    "Monocropping – single crop grown repeatedly",
+                    "Mixed cropping – growing two or more crops together",
+                    "Intercropping – growing crops in alternate rows",
+                    "Crop rotation – growing different crops in sequence",
+                    "Multiple cropping – more than one crop in a year"
+                ]
+            },
+            {
+                "heading": "Importance of Cropping Pattern",
+                "points": [
+                    "Improves soil fertility",
+                    "Reduces pest and disease risk",
+                    "Ensures better income for farmers",
+                    "Efficient use of land and water resources",
+                    "Increases agricultural productivity"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Kharif crops are grown in:",
+                    "options": [
+                    "Winter season",
+                    "Monsoon season",
+                    "Summer season",
+                    "Spring season"
+                    ],
+                    "answer": "Monsoon season"
+                },
+                {
+                    "question": "Wheat is a:",
+                    "options": [
+                    "Kharif crop",
+                    "Rabi crop",
+                    "Zaid crop",
+                    "Cash crop only"
+                    ],
+                    "answer": "Rabi crop"
+                },
+                {
+                    "question": "Organic farming avoids:",
+                    "options": [
+                    "Water",
+                    "Chemical fertilizers",
+                    "Seeds",
+                    "Land"
+                    ],
+                    "answer": "Chemical fertilizers"
+                },
+                {
+                    "question": "Dry farming is mainly practiced in:",
+                    "options": [
+                    "High rainfall areas",
+                    "Low rainfall areas",
+                    "Coastal areas",
+                    "River basins only"
+                    ],
+                    "answer": "Low rainfall areas"
+                },
+                {
+                    "question": "Zaid crops are grown in:",
+                    "options": [
+                    "Winter",
+                    "Summer",
+                    "Monsoon only",
+                    "Autumn"
+                    ],
+                    "answer": "Summer"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Mixed cropping means:",
+                    "options": [
+                    "Single crop cultivation",
+                    "Two or more crops grown together",
+                    "Only cash crops",
+                    "Only food crops"
+                    ],
+                    "answer": "Two or more crops grown together"
+                },
+                {
+                    "question": "Crop rotation helps in:",
+                    "options": [
+                    "Soil degradation",
+                    "Soil fertility improvement",
+                    "Deforestation",
+                    "Water loss"
+                    ],
+                    "answer": "Soil fertility improvement"
+                },
+                {
+                    "question": "Dry zone farming is important in:",
+                    "options": [
+                    "Punjab",
+                    "Rajasthan",
+                    "Kerala",
+                    "Assam"
+                    ],
+                    "answer": "Rajasthan"
+                },
+                {
+                    "question": "Cropping pattern depends on:",
+                    "options": [
+                    "Climate and soil",
+                    "Only rainfall",
+                    "Only population",
+                    "Only government policy"
+                    ],
+                    "answer": "Climate and soil"
+                },
+                {
+                    "question": "Rice is mainly a:",
+                    "options": [
+                    "Rabi crop",
+                    "Kharif crop",
+                    "Zaid crop",
+                    "Winter crop only"
+                    ],
+                    "answer": "Kharif crop"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Organic farming uses chemical fertilizers\n2. Dry farming depends on moisture conservation\n3. Crop rotation improves soil fertility",
+                    "options": ["2 and 3", "1 and 2", "1 and 3", "All"],
+                    "answer": "2 and 3"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Wheat – Rabi crop",
+                    "Rice – Rabi crop",
+                    "Mustard – Kharif crop",
+                    "Maize – Zaid only"
+                    ],
+                    "answer": "Wheat – Rabi crop"
+                },
+                {
+                    "question": "Intercropping means:",
+                    "options": [
+                    "Same crop repeated",
+                    "Different crops in alternate rows",
+                    "No crop rotation",
+                    "Single crop farming"
+                    ],
+                    "answer": "Different crops in alternate rows"
+                },
+                {
+                    "question": "Main feature of dry farming is:",
+                    "options": [
+                    "High irrigation use",
+                    "Rainfall dependence",
+                    "Snow irrigation",
+                    "River flooding"
+                    ],
+                    "answer": "Rainfall dependence"
+                },
+                {
+                    "question": "Zaid crops require:",
+                    "options": [
+                    "No irrigation",
+                    "Irrigation support",
+                    "Snowfall",
+                    "Only rainwater",
+                    "Dry climate only"
+                    ],
+                    "answer": "Irrigation support"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Agricultural Regionalization, Infrastructure & Policy",
+        "notes": [
+            {
+                "heading": "Introduction to Agricultural Regionalization",
+                "points": [
+                    "Agricultural regionalization refers to dividing a country into regions based on dominant agricultural practices",
+                    "It is based on climate, soil, irrigation, cropping pattern, and productivity",
+                    "Helps in better planning and development of agriculture",
+                    "India has highly diverse agricultural regions due to physical and socio-economic variations",
+                    "Supports efficient resource allocation and crop specialization"
+                ]
+            },
+            {
+                "heading": "Basis of Agricultural Regionalization",
+                "points": [
+                    "Climate (rainfall, temperature)",
+                    "Soil type and fertility",
+                    "Availability of irrigation",
+                    "Cropping pattern and dominant crops",
+                    "Technology and infrastructure availability"
+                ]
+            },
+            {
+                "heading": "Major Agricultural Regions of India",
+                "points": [
+                    "Rice-dominated region – Eastern and coastal India (West Bengal, Odisha, Andhra Pradesh)",
+                    "Wheat region – Punjab, Haryana, Uttar Pradesh",
+                    "Millet region – Rajasthan, Karnataka, parts of Maharashtra",
+                    "Plantation region – Kerala, Assam (tea, rubber, coffee)",
+                    "Commercial crop region – Gujarat, Maharashtra (cotton, sugarcane)"
+                ]
+            },
+            {
+                "heading": "Agricultural Infrastructure Factors",
+                "points": [
+                    "Seeds, fertilizers, and irrigation are key inputs",
+                    "Mechanization and technology support productivity",
+                    "Storage and transport facilities reduce losses",
+                    "Credit and banking support farmers",
+                    "Market access ensures fair prices"
+                ]
+            },
+            {
+                "heading": "Seeds – Role in Agriculture",
+                "points": [
+                    "High Yielding Variety (HYV) seeds increase productivity",
+                    "Hybrid seeds improve resistance to pests and diseases",
+                    "Seed quality affects crop output directly",
+                    "Green Revolution was based on improved seed technology",
+                    "Government provides certified seeds through agencies"
+                ]
+            },
+            {
+                "heading": "Fertilizers – Role in Agriculture",
+                "points": [
+                    "Provide essential nutrients like nitrogen, phosphorus, potassium",
+                    "Increase soil fertility and crop yield",
+                    "Types: chemical fertilizers and organic fertilizers",
+                    "Excess use can damage soil health",
+                    "India is one of the largest consumers of fertilizers"
+                ]
+            },
+            {
+                "heading": "Irrigation – Importance",
+                "points": [
+                    "Ensures water supply in dry regions",
+                    "Reduces dependence on monsoon",
+                    "Supports multiple cropping",
+                    "Improves agricultural productivity",
+                    "Important for dry zone farming"
+                ]
+            },
+            {
+                "heading": "Types of Irrigation in India",
+                "points": [
+                    "Canal irrigation – northern plains",
+                    "Well and tube well irrigation – Uttar Pradesh, Punjab",
+                    "Tank irrigation – South India",
+                    "Drip irrigation – water-saving method",
+                    "Sprinkler irrigation – arid and semi-arid regions"
+                ]
+            },
+            {
+                "heading": "Land Use Pattern in India",
+                "points": [
+                    "Land is divided into agricultural, forest, pasture, and non-agricultural uses",
+                    "Agricultural land is the most important component",
+                    "Net sown area varies across states",
+                    "Land degradation is a major issue",
+                    "Urbanization is reducing agricultural land"
+                ]
+            },
+            {
+                "heading": "Agricultural Revolutions in India",
+                "points": [
+                    "Green Revolution – food grains (wheat, rice)",
+                    "White Revolution – milk production",
+                    "Blue Revolution – fisheries",
+                    "Yellow Revolution – oilseeds",
+                    "Golden Revolution – horticulture and fruits",
+                    "Pink Revolution – meat and poultry"
+                ]
+            },
+            {
+                "heading": "Green Revolution (Key Features)",
+                "points": [
+                    "Introduced HYV seeds, fertilizers, irrigation",
+                    "Increased wheat and rice production",
+                    "Started in 1960s in Punjab, Haryana, Western UP",
+                    "Led to food self-sufficiency in India",
+                    "Caused regional imbalance in agriculture"
+                ]
+            },
+            {
+                "heading": "Agricultural Labourers",
+                "points": [
+                    "Landless workers engaged in farming activities",
+                    "Depend on wages for livelihood",
+                    "Seasonal employment is common",
+                    "Vulnerable to poverty and unemployment",
+                    "Major social group in rural India"
+                ]
+            },
+            {
+                "heading": "Issues Faced by Agricultural Labourers",
+                "points": [
+                    "Low wages and job insecurity",
+                    "Seasonal unemployment",
+                    "Lack of social security",
+                    "Migration to urban areas",
+                    "Dependence on landlords and farmers"
+                ]
+            },
+            {
+                "heading": "Price Policy for Agriculture",
+                "points": [
+                    "Government policy to ensure fair prices for farmers",
+                    "Minimum Support Price (MSP) is a key tool",
+                    "Food Corporation of India (FCI) procures grains",
+                    "Aims to protect farmers from price fluctuations",
+                    "Ensures food security for the country"
+                ]
+            },
+            {
+                "heading": "Objectives of Agricultural Price Policy",
+                "points": [
+                    "Ensure remunerative prices to farmers",
+                    "Stabilize market prices",
+                    "Encourage production of essential crops",
+                    "Maintain buffer stock of food grains",
+                    "Control inflation in food prices"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Agricultural regionalization is based on:",
+                    "options": [
+                    "Only population",
+                    "Climate and soil",
+                    "Only industry",
+                    "Only transport"
+                    ],
+                    "answer": "Climate and soil"
+                },
+                {
+                    "question": "Green Revolution mainly increased production of:",
+                    "options": [
+                    "Tea and coffee",
+                    "Wheat and rice",
+                    "Cotton and jute",
+                    "Sugarcane only"
+                    ],
+                    "answer": "Wheat and rice"
+                },
+                {
+                    "question": "Minimum Support Price is used to:",
+                    "options": [
+                    "Reduce production",
+                    "Support farmers’ income",
+                    "Increase imports",
+                    "Stop farming"
+                    ],
+                    "answer": "Support farmers’ income"
+                },
+                {
+                    "question": "White Revolution is related to:",
+                    "options": [
+                    "Milk production",
+                    "Coal production",
+                    "Steel production",
+                    "Oil production"
+                    ],
+                    "answer": "Milk production"
+                },
+                {
+                    "question": "Agricultural labourers are mostly:",
+                    "options": [
+                    "Landowners",
+                    "Landless workers",
+                    "Industrial workers",
+                    "Government employees"
+                    ],
+                    "answer": "Landless workers"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Drip irrigation is best suited for:",
+                    "options": [
+                    "Water-scarce areas",
+                    "Flood regions",
+                    "Snow areas",
+                    "Urban cities only"
+                    ],
+                    "answer": "Water-scarce areas"
+                },
+                {
+                    "question": "Canal irrigation is common in:",
+                    "options": [
+                    "Northern plains",
+                    "Deserts only",
+                    "Himalayas only",
+                    "Coastal deserts"
+                    ],
+                    "answer": "Northern plains"
+                },
+                {
+                    "question": "Blue Revolution is related to:",
+                    "options": [
+                    "Oilseeds",
+                    "Fisheries",
+                    "Milk",
+                    "Wheat"
+                    ],
+                    "answer": "Fisheries"
+                },
+                {
+                    "question": "Land use pattern includes:",
+                    "options": [
+                    "Only agriculture",
+                    "Forest and agriculture",
+                    "Only industry",
+                    "Only urban areas"
+                    ],
+                    "answer": "Forest and agriculture"
+                },
+                {
+                    "question": "HYV seeds were introduced during:",
+                    "options": [
+                    "Industrial Revolution",
+                    "Green Revolution",
+                    "White Revolution",
+                    "Blue Revolution"
+                    ],
+                    "answer": "Green Revolution"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. MSP is part of agricultural price policy\n2. Green Revolution increased food grain production\n3. Agricultural labourers are mostly landowners",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "White Revolution – milk",
+                    "Blue Revolution – coal",
+                    "Green Revolution – fisheries",
+                    "Yellow Revolution – steel"
+                    ],
+                    "answer": "White Revolution – milk"
+                },
+                {
+                    "question": "Agricultural regionalization helps in:",
+                    "options": [
+                    "Reducing crop production",
+                    "Better planning of agriculture",
+                    "Stopping farming",
+                    "Increasing imports"
+                    ],
+                    "answer": "Better planning of agriculture"
+                },
+                {
+                    "question": "Agricultural labourers are vulnerable because:",
+                    "options": [
+                    "They own large land",
+                    "They lack job security",
+                    "They are industrialists",
+                    "They are exporters"
+                    ],
+                    "answer": "They lack job security"
+                },
+                {
+                    "question": "Land use pattern is changing due to:",
+                    "options": [
+                    "Urbanization",
+                    "No rainfall",
+                    "Ocean currents",
+                    "Volcanoes"
+                    ],
+                    "answer": "Urbanization"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Agricultural Marketing, Insurance, Census & Policies",
+        "notes": [
+            {
+                "heading": "Introduction",
+                "points": [
+                    "Agriculture in India is not only about production but also about marketing and risk management",
+                    "Efficient marketing ensures fair price to farmers",
+                    "Insurance protects farmers from crop failure risks",
+                    "Census and schemes help in planning agricultural development",
+                    "Government policies aim to improve farmer income and productivity"
+                ]
+            },
+            {
+                "heading": "Agricultural Marketing – Meaning",
+                "points": [
+                    "Agricultural marketing refers to all activities involved in moving agricultural produce from farm to consumer",
+                    "Includes storage, transportation, grading, processing, and selling",
+                    "Aims to ensure fair price to farmers and availability to consumers",
+                    "It is a link between production and consumption",
+                    "Important for reducing post-harvest losses"
+                ]
+            },
+            {
+                "heading": "Features of Agricultural Marketing in India",
+                "points": [
+                    "Fragmented markets with many intermediaries",
+                    "Lack of proper storage facilities",
+                    "Price fluctuations due to seasonal supply",
+                    "Dependence on local mandis (markets)",
+                    "Improving with digital platforms like e-NAM"
+                ]
+            },
+            {
+                "heading": "Problems in Agricultural Marketing",
+                "points": [
+                    "Middlemen exploitation",
+                    "Lack of grading and standardization",
+                    "Poor transportation facilities",
+                    "Inadequate storage and cold chains",
+                    "Price instability and distress sales"
+                ]
+            },
+            {
+                "heading": "Agricultural Insurance – Introduction",
+                "points": [
+                    "Agricultural insurance protects farmers from crop losses due to natural disasters",
+                    "Covers risks like drought, flood, pest attacks, and storms",
+                    "Government plays a major role in providing insurance schemes",
+                    "Reduces financial risk for farmers",
+                    "Encourages investment in agriculture"
+                ]
+            },
+            {
+                "heading": "Types of Agricultural Insurance",
+                "points": [
+                    "Crop insurance – covers crop failure",
+                    "Weather-based insurance – based on rainfall, temperature",
+                    "Livestock insurance – protects animals",
+                    "Income insurance – compensates loss of farm income",
+                    "Input insurance – covers cost of inputs like seeds and fertilizers"
+                ]
+            },
+            {
+                "heading": "Important Agricultural Insurance Scheme",
+                "points": [
+                    "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+                    "Weather Based Crop Insurance Scheme (WBCIS)",
+                    "Coconut Palm Insurance Scheme",
+                    "Livestock Insurance Scheme",
+                    "Restructured Weather Based Insurance Scheme"
+                ]
+            },
+            {
+                "heading": "Agricultural Census – Meaning",
+                "points": [
+                    "Agricultural census is a systematic collection of data about farms and farmers",
+                    "Conducted every 5 years in India",
+                    "Provides information on land holdings, cropping patterns, and resources",
+                    "Helps in policy formulation and planning",
+                    "Conducted by Ministry of Agriculture"
+                ]
+            },
+            {
+                "heading": "Importance of Agricultural Census",
+                "points": [
+                    "Helps in understanding landholding patterns",
+                    "Supports rural development planning",
+                    "Assists in designing subsidy schemes",
+                    "Tracks changes in agriculture over time",
+                    "Improves policy targeting for farmers"
+                ]
+            },
+            {
+                "heading": "Major Schemes in Agricultural Sector",
+                "points": [
+                    "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+                    "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+                    "Soil Health Card Scheme",
+                    "Paramparagat Krishi Vikas Yojana (Organic farming promotion)",
+                    "e-NAM (National Agriculture Market)",
+                    "Rashtriya Krishi Vikas Yojana (RKVY)"
+                ]
+            },
+            {
+                "heading": "Objectives of Agricultural Schemes",
+                "points": [
+                    "Increase farmer income",
+                    "Improve productivity and sustainability",
+                    "Promote modern farming techniques",
+                    "Provide financial security",
+                    "Encourage diversification of crops"
+                ]
+            },
+            {
+                "heading": "National Policy for Farmers",
+                "points": [
+                    "Introduced to improve the socio-economic status of farmers",
+                    "Aims at sustainable agriculture development",
+                    "Focus on income security and risk reduction",
+                    "Promotes diversification and modernization",
+                    "Ensures access to credit, insurance, and markets"
+                ]
+            },
+            {
+                "heading": "Objectives of National Policy for Farmers",
+                "points": [
+                    "Enhance farm income and livelihood security",
+                    "Ensure availability of inputs like seeds and fertilizers",
+                    "Improve irrigation and infrastructure",
+                    "Promote sustainable agricultural practices",
+                    "Encourage research and innovation in agriculture"
+                ]
+            },
+            {
+                "heading": "Role of e-NAM in Agricultural Marketing",
+                "points": [
+                    "e-NAM is an online trading platform for agricultural produce",
+                    "Connects farmers with buyers across India",
+                    "Reduces role of middlemen",
+                    "Ensures transparent price discovery",
+                    "Promotes digital agriculture marketing"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Agricultural marketing refers to:",
+                    "options": [
+                    "Only production of crops",
+                    "Movement of farm produce to consumers",
+                    "Only irrigation",
+                    "Only storage of grains"
+                    ],
+                    "answer": "Movement of farm produce to consumers"
+                },
+                {
+                    "question": "PMFBY is related to:",
+                    "options": [
+                    "Banking",
+                    "Crop insurance",
+                    "Education",
+                    "Transport"
+                    ],
+                    "answer": "Crop insurance"
+                },
+                {
+                    "question": "Agricultural census is conducted every:",
+                    "options": [
+                    "2 years",
+                    "5 years",
+                    "10 years",
+                    "1 year"
+                    ],
+                    "answer": "5 years"
+                },
+                {
+                    "question": "e-NAM is a:",
+                    "options": [
+                    "Physical market",
+                    "Online agriculture trading platform",
+                    "Insurance scheme",
+                    "Fertilizer program"
+                    ],
+                    "answer": "Online agriculture trading platform"
+                },
+                {
+                    "question": "Agricultural insurance protects farmers against:",
+                    "options": [
+                    "Bank loans",
+                    "Crop losses",
+                    "Transport costs",
+                    "Land taxes"
+                    ],
+                    "answer": "Crop losses"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "One major problem in agricultural marketing is:",
+                    "options": [
+                    "Overproduction",
+                    "Middlemen exploitation",
+                    "No irrigation",
+                    "No seeds"
+                    ],
+                    "answer": "Middlemen exploitation"
+                },
+                {
+                    "question": "Soil Health Card scheme is related to:",
+                    "options": [
+                    "Health of farmers",
+                    "Soil fertility",
+                    "Insurance",
+                    "Transport"
+                    ],
+                    "answer": "Soil fertility"
+                },
+                {
+                    "question": "Agricultural census provides data on:",
+                    "options": [
+                    "Only crops",
+                    "Land holdings",
+                    "Only weather",
+                    "Only exports"
+                    ],
+                    "answer": "Land holdings"
+                },
+                {
+                    "question": "PM-KISAN scheme provides:",
+                    "options": [
+                    "Free seeds",
+                    "Income support to farmers",
+                    "Free irrigation",
+                    "Insurance only"
+                    ],
+                    "answer": "Income support to farmers"
+                },
+                {
+                    "question": "Agricultural marketing aims to ensure:",
+                    "options": [
+                    "Low prices for farmers",
+                    "Fair price for farmers",
+                    "No trade",
+                    "Import increase"
+                    ],
+                    "answer": "Fair price for farmers"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. PMFBY is a crop insurance scheme\n2. Agricultural census is conducted annually\n3. e-NAM promotes digital marketing",
+                    "options": ["1 and 3", "2 and 3", "1 and 2", "All"],
+                    "answer": "1 and 3"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "PMFBY – crop insurance",
+                    "e-NAM – irrigation",
+                    "Soil Health Card – transport",
+                    "RKVY – banking"
+                    ],
+                    "answer": "PMFBY – crop insurance"
+                },
+                {
+                    "question": "Agricultural marketing improves by:",
+                    "options": [
+                    "Increasing middlemen",
+                    "Better infrastructure",
+                    "Reducing storage",
+                    "Stopping trade"
+                    ],
+                    "answer": "Better infrastructure"
+                },
+                {
+                    "question": "National Policy for Farmers aims to:",
+                    "options": [
+                    "Reduce farm income",
+                    "Increase farmer welfare",
+                    "Stop agriculture",
+                    "Increase imports"
+                    ],
+                    "answer": "Increase farmer welfare"
+                },
+                {
+                    "question": "Agricultural insurance is important because:",
+                    "options": [
+                    "It increases risk",
+                    "It reduces financial loss",
+                    "It stops farming",
+                    "It reduces production"
+                    ],
+                    "answer": "It reduces financial loss"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Climate Change, Sustainable Agriculture, IT in Agriculture & Challenges",
+        "notes": [
+            {
+                "heading": "Introduction",
+                "points": [
+                    "Agriculture is highly sensitive to climate, technology, and socio-economic factors",
+                    "Climate change is one of the biggest threats to agricultural productivity",
+                    "Sustainable agriculture ensures long-term productivity without harming resources",
+                    "Information Technology (IT) is transforming modern agriculture",
+                    "India faces multiple structural and environmental challenges in agriculture"
+                ]
+            },
+            {
+                "heading": "Impact of Climate Change on Agriculture",
+                "points": [
+                    "Changes in temperature and rainfall patterns affect crop yields",
+                    "Increased frequency of droughts and floods damages crops",
+                    "Shift in cropping seasons and crop suitability zones",
+                    "Rise in pest and disease attacks due to warmer climate",
+                    "Reduction in soil fertility due to extreme weather conditions"
+                ]
+            },
+            {
+                "heading": "Positive Impacts (Limited)",
+                "points": [
+                    "Longer growing seasons in some cooler regions",
+                    "Possibility of new crop varieties in certain areas",
+                    "Increased CO₂ may enhance photosynthesis in some crops",
+                    "Shift of agriculture to higher altitudes in hill regions",
+                    "But overall impacts are largely negative"
+                ]
+            },
+            {
+                "heading": "Climate Change Adaptation in Agriculture",
+                "points": [
+                    "Use of drought-resistant crop varieties",
+                    "Improved irrigation techniques like drip and sprinkler systems",
+                    "Crop diversification to reduce risk",
+                    "Early warning systems for extreme weather",
+                    "Climate-resilient farming practices"
+                ]
+            },
+            {
+                "heading": "What is Sustainable Agriculture?",
+                "points": [
+                    "Sustainable agriculture is farming that meets present food needs without harming future generations’ ability to produce food",
+                    "Focuses on environmental protection, economic viability, and social equity",
+                    "Minimizes use of chemical inputs",
+                    "Maintains soil fertility and biodiversity",
+                    "Ensures long-term agricultural productivity"
+                ]
+            },
+            {
+                "heading": "Principles of Sustainable Agriculture",
+                "points": [
+                    "Efficient use of natural resources",
+                    "Soil conservation and fertility management",
+                    "Water conservation and efficient irrigation",
+                    "Integrated pest management",
+                    "Use of renewable resources and organic inputs"
+                ]
+            },
+            {
+                "heading": "Methods of Sustainable Agriculture",
+                "points": [
+                    "Organic farming",
+                    "Agroforestry",
+                    "Crop rotation and mixed cropping",
+                    "Conservation tillage",
+                    "Rainwater harvesting and micro-irrigation"
+                ]
+            },
+            {
+                "heading": "Importance of Sustainable Agriculture",
+                "points": [
+                    "Ensures long-term food security",
+                    "Reduces environmental degradation",
+                    "Improves soil health",
+                    "Reduces dependence on chemical fertilizers",
+                    "Supports biodiversity conservation"
+                ]
+            },
+            {
+                "heading": "Use of IT in Agriculture – Introduction",
+                "points": [
+                    "Information Technology (IT) helps improve efficiency and productivity in agriculture",
+                    "Provides timely information to farmers",
+                    "Supports decision-making in farming activities",
+                    "Connects farmers with markets and institutions",
+                    "Promotes precision farming"
+                ]
+            },
+            {
+                "heading": "Applications of IT in Agriculture",
+                "points": [
+                    "Weather forecasting and climate advisory systems",
+                    "Mobile apps for market prices and crop information",
+                    "e-NAM digital marketing platform",
+                    "Remote sensing and GIS for land and crop monitoring",
+                    "Drones for crop surveillance and pesticide spraying"
+                ]
+            },
+            {
+                "heading": "Digital Agriculture Tools in India",
+                "points": [
+                    "Kisan Call Centres for farmer support",
+                    "Agri apps for crop advisory",
+                    "Soil Health Card digital database",
+                    "Digital marketplaces for farm produce",
+                    "AI-based crop prediction systems"
+                ]
+            },
+            {
+                "heading": "Benefits of IT in Agriculture",
+                "points": [
+                    "Improves productivity and efficiency",
+                    "Reduces information gap for farmers",
+                    "Better price realization through market access",
+                    "Efficient resource management",
+                    "Supports climate-smart agriculture"
+                ]
+            },
+            {
+                "heading": "Agriculture Issues and Challenges in India",
+                "points": [
+                    "Dependence on monsoon rainfall",
+                    "Small and fragmented landholdings",
+                    "Low productivity compared to global standards",
+                    "Poor irrigation and infrastructure",
+                    "Debt and financial distress among farmers"
+                ]
+            },
+            {
+                "heading": "Environmental Challenges",
+                "points": [
+                    "Soil degradation and erosion",
+                    "Groundwater depletion",
+                    "Climate change impacts",
+                    "Deforestation for agriculture expansion",
+                    "Loss of biodiversity"
+                ]
+            },
+            {
+                "heading": "Economic Challenges",
+                "points": [
+                    "Low income levels of farmers",
+                    "Price fluctuations in agricultural markets",
+                    "High input costs (seeds, fertilizers, fuel)",
+                    "Lack of access to credit",
+                    "Inefficient supply chain and marketing system"
+                ]
+            },
+            {
+                "heading": "Social Challenges",
+                "points": [
+                    "Rural poverty and unemployment",
+                    "Migration from rural to urban areas",
+                    "Inequality in land distribution",
+                    "Lack of education and awareness",
+                    "Farmer suicides in some regions"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Climate change mainly affects agriculture by:",
+                    "options": [
+                    "Increasing soil fertility always",
+                    "Changing rainfall patterns",
+                    "Stopping farming completely",
+                    "Increasing exports only"
+                    ],
+                    "answer": "Changing rainfall patterns"
+                },
+                {
+                    "question": "Sustainable agriculture aims to:",
+                    "options": [
+                    "Maximize short-term profit only",
+                    "Protect future productivity",
+                    "Stop farming",
+                    "Increase chemical use"
+                    ],
+                    "answer": "Protect future productivity"
+                },
+                {
+                    "question": "IT in agriculture helps in:",
+                    "options": [
+                    "Reducing productivity",
+                    "Providing information to farmers",
+                    "Stopping irrigation",
+                    "Increasing rainfall"
+                    ],
+                    "answer": "Providing information to farmers"
+                },
+                {
+                    "question": "e-NAM is related to:",
+                    "options": [
+                    "Insurance",
+                    "Digital agricultural marketing",
+                    "Irrigation",
+                    "Seed production"
+                    ],
+                    "answer": "Digital agricultural marketing"
+                },
+                {
+                    "question": "One major agriculture issue in India is:",
+                    "options": [
+                    "Excess land availability",
+                    "Small landholdings",
+                    "Too much irrigation",
+                    "No crops grown"
+                    ],
+                    "answer": "Small landholdings"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Drip irrigation is useful for:",
+                    "options": [
+                    "Water conservation",
+                    "Deforestation",
+                    "Mining",
+                    "Urban transport"
+                    ],
+                    "answer": "Water conservation"
+                },
+                {
+                    "question": "Remote sensing in agriculture is used for:",
+                    "options": [
+                    "Crop monitoring",
+                    "Banking",
+                    "Education",
+                    "Fishing only"
+                    ],
+                    "answer": "Crop monitoring"
+                },
+                {
+                    "question": "Groundwater depletion is caused by:",
+                    "options": [
+                    "Excess irrigation",
+                    "No rainfall",
+                    "Wind energy",
+                    "Forest growth"
+                    ],
+                    "answer": "Excess irrigation"
+                },
+                {
+                    "question": "Organic farming is part of:",
+                    "options": [
+                    "Industrial agriculture",
+                    "Sustainable agriculture",
+                    "Mining system",
+                    "Urban planning"
+                    ],
+                    "answer": "Sustainable agriculture"
+                },
+                {
+                    "question": "Kisan Call Centres provide:",
+                    "options": [
+                    "Market loans",
+                    "Agricultural advice",
+                    "Transport services",
+                    "Insurance only"
+                    ],
+                    "answer": "Agricultural advice"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Climate change affects crop yield\n2. Sustainable agriculture uses chemical fertilizers excessively\n3. IT improves farm decision-making",
+                    "options": ["1 and 3", "2 and 3", "1 and 2", "All"],
+                    "answer": "1 and 3"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "e-NAM – digital marketing",
+                    "Drip irrigation – coal mining",
+                    "GIS – fertilizer production",
+                    "Drones – seed storage"
+                    ],
+                    "answer": "e-NAM – digital marketing"
+                },
+                {
+                    "question": "Sustainable agriculture focuses on:",
+                    "options": [
+                    "Short-term gains only",
+                    "Long-term resource conservation",
+                    "Industrial expansion only",
+                    "Mining activities"
+                    ],
+                    "answer": "Long-term resource conservation"
+                },
+                {
+                    "question": "Climate change increases:",
+                    "options": [
+                    "Crop stability",
+                    "Pest attacks",
+                    "Soil fertility always",
+                    "Rainfall uniformity"
+                    ],
+                    "answer": "Pest attacks"
+                },
+                {
+                    "question": "One major agricultural challenge in India is:",
+                    "options": [
+                    "Excess food storage",
+                    "Low productivity",
+                    "No farmers",
+                    "No rainfall anywhere"
+                    ],
+                    "answer": "Low productivity"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Wheat: Productivity, Growth Conditions, Varieties & Trade",
+        "notes": [
+            {
+                "heading": "Introduction to Wheat",
+                "points": [
+                    "Wheat is one of the most important staple food crops in the world",
+                    "It is a Rabi crop grown mainly in winter season in India",
+                    "It requires cool growing season and warm ripening season",
+                    "India is one of the largest producers of wheat globally",
+                    "It is a key food security crop for India"
+                ]
+            },
+            {
+                "heading": "Conditions of Growth for Wheat",
+                "points": [
+                    "Temperature: 10°C–15°C during sowing and 20°C–25°C during ripening",
+                    "Rainfall: 50–75 cm, moderate rainfall is ideal",
+                    "Soil: Fertile, well-drained alluvial soil or loamy soil",
+                    "Climate: Cool and dry climate is best",
+                    "Topography: Flat plains suitable for mechanized farming"
+                ]
+            },
+            {
+                "heading": "Geographical Requirements of Wheat",
+                "points": [
+                    "Requires frost-free growing period",
+                    "Bright sunshine during ripening stage",
+                    "Irrigation support in low rainfall areas",
+                    "Good soil fertility and nutrient availability",
+                    "Moderate humidity is favorable"
+                ]
+            },
+            {
+                "heading": "Varieties of Wheat",
+                "points": [
+                    "Common wheat (Triticum aestivum) – most widely grown",
+                    "Durum wheat (Triticum durum) – used for pasta and semolina",
+                    "Emmer wheat (Triticum dicoccum) – traditional variety in India",
+                    "High Yielding Varieties (HYV) introduced during Green Revolution",
+                    "Improved hybrid varieties for disease resistance and productivity"
+                ]
+            },
+            {
+                "heading": "Types of Wheat Cultivation in India",
+                "points": [
+                    "Irrigated wheat cultivation – Punjab, Haryana, Western Uttar Pradesh",
+                    "Rainfed wheat cultivation – Madhya Pradesh, Rajasthan",
+                    "Mechanized large-scale farming in northern plains",
+                    "Traditional small-scale farming in eastern regions",
+                    "Use of HYV seeds and fertilizers in intensive farming areas"
+                ]
+            },
+            {
+                "heading": "Production Pattern of Wheat in India",
+                "points": [
+                    "Wheat is mainly a Rabi crop",
+                    "Northern plains are the major production region",
+                    "Green Revolution significantly boosted wheat production",
+                    "Punjab, Haryana, and Uttar Pradesh are top producers",
+                    "Madhya Pradesh is also a major wheat-producing state"
+                ]
+            },
+            {
+                "heading": "Major Wheat Producing States",
+                "points": [
+                    "Uttar Pradesh – highest producer",
+                    "Punjab – high productivity due to irrigation",
+                    "Haryana – mechanized agriculture",
+                    "Madhya Pradesh – largest area under wheat",
+                    "Rajasthan and Bihar – significant contributors"
+                ]
+            },
+            {
+                "heading": "Factors Affecting Wheat Production",
+                "points": [
+                    "Availability of irrigation",
+                    "Use of HYV seeds and fertilizers",
+                    "Mechanization of farming",
+                    "Soil fertility and climate conditions",
+                    "Government support and MSP policy"
+                ]
+            },
+            {
+                "heading": "Wheat Productivity in India",
+                "points": [
+                    "Productivity increased significantly after Green Revolution",
+                    "Punjab and Haryana have highest yield per hectare",
+                    "Eastern states have lower productivity due to less irrigation",
+                    "Technology and irrigation are key productivity factors",
+                    "Climate change may affect future productivity"
+                ]
+            },
+            {
+                "heading": "International Trade of Wheat",
+                "points": [
+                    "India exports wheat in surplus production years",
+                    "Major importers include neighboring and Asian countries",
+                    "Export depends on domestic production and government policy",
+                    "Global wheat trade dominated by countries like USA, Russia, Canada",
+                    "India’s export fluctuates based on domestic demand"
+                ]
+            },
+            {
+                "heading": "Major Wheat Export and Import Regions (Global)",
+                "points": [
+                    "Exporters: USA, Russia, Canada, Australia",
+                    "Importers: Egypt, Indonesia, Bangladesh, Middle East countries",
+                    "India participates selectively in wheat export markets",
+                    "Trade affected by climate and global demand",
+                    "Wheat is a politically sensitive food commodity"
+                ]
+            },
+            {
+                "heading": "Importance of Wheat for India",
+                "points": [
+                    "Second most important food grain after rice",
+                    "Staple food in northern and northwestern India",
+                    "Ensures national food security",
+                    "Important for Public Distribution System (PDS)",
+                    "Supports rural economy and agriculture sector"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Wheat is mainly a:",
+                    "options": [
+                    "Kharif crop",
+                    "Rabi crop",
+                    "Zaid crop",
+                    "Perennial crop"
+                    ],
+                    "answer": "Rabi crop"
+                },
+                {
+                    "question": "Ideal temperature for wheat growth is:",
+                    "options": [
+                    "0–5°C",
+                    "10–15°C",
+                    "30–35°C",
+                    "40–45°C"
+                    ],
+                    "answer": "10–15°C"
+                },
+                {
+                    "question": "Largest wheat producing state in India is:",
+                    "options": [
+                    "Punjab",
+                    "Uttar Pradesh",
+                    "Kerala",
+                    "Assam"
+                    ],
+                    "answer": "Uttar Pradesh"
+                },
+                {
+                    "question": "Wheat requires rainfall of about:",
+                    "options": [
+                    "10–20 cm",
+                    "50–75 cm",
+                    "150–200 cm",
+                    "250–300 cm"
+                    ],
+                    "answer": "50–75 cm"
+                },
+                {
+                    "question": "Wheat was boosted in India by:",
+                    "options": [
+                    "Blue Revolution",
+                    "Green Revolution",
+                    "White Revolution",
+                    "Yellow Revolution"
+                    ],
+                    "answer": "Green Revolution"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Durum wheat is mainly used for:",
+                    "options": [
+                    "Rice products",
+                    "Pasta and semolina",
+                    "Oil extraction",
+                    "Cotton production"
+                    ],
+                    "answer": "Pasta and semolina"
+                },
+                {
+                    "question": "Madhya Pradesh is known for:",
+                    "options": [
+                    "Highest yield",
+                    "Largest area under wheat",
+                    "No wheat production",
+                    "Only rice cultivation"
+                    ],
+                    "answer": "Largest area under wheat"
+                },
+                {
+                    "question": "Wheat grows best in:",
+                    "options": [
+                    "Hot and wet climate",
+                    "Cool and dry climate",
+                    "Cold and wet climate",
+                    "Desert climate"
+                    ],
+                    "answer": "Cool and dry climate"
+                },
+                {
+                    "question": "HYV seeds were introduced during:",
+                    "options": [
+                    "Industrial Revolution",
+                    "Green Revolution",
+                    "White Revolution",
+                    "IT Revolution"
+                    ],
+                    "answer": "Green Revolution"
+                },
+                {
+                    "question": "Wheat is mostly grown in:",
+                    "options": [
+                    "Coastal India",
+                    "Northern plains",
+                    "Himalayan glaciers",
+                    "Deserts only"
+                    ],
+                    "answer": "Northern plains"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Wheat is a Rabi crop\n2. It requires high rainfall\n3. Punjab has high wheat productivity",
+                    "options": ["1 and 3", "2 and 3", "1 and 2", "All"],
+                    "answer": "1 and 3"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Wheat – Rabi crop",
+                    "Wheat – Kharif crop",
+                    "Wheat – Zaid crop",
+                    "Wheat – Perennial crop"
+                    ],
+                    "answer": "Wheat – Rabi crop"
+                },
+                {
+                    "question": "Main factor for high wheat productivity in Punjab is:",
+                    "options": [
+                    "Desert soil",
+                    "Irrigation facilities",
+                    "No rainfall",
+                    "Cold waves only"
+                    ],
+                    "answer": "Irrigation facilities"
+                },
+                {
+                    "question": "Durum wheat is used for:",
+                    "options": [
+                    "Bread only",
+                    "Pasta production",
+                    "Tea production",
+                    "Oil production"
+                    ],
+                    "answer": "Pasta production"
+                },
+                {
+                    "question": "India’s wheat export depends on:",
+                    "options": [
+                    "Domestic surplus production",
+                    "Only imports",
+                    "No production",
+                    "Only rainfall"
+                    ],
+                    "answer": "Domestic surplus production"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Rice: Conditions, Varieties, Cultivation, Production & Trade",
+        "notes": [
+            {
+                "heading": "Introduction to Rice",
+                "points": [
+                    "Rice is the most important food crop in India and a staple for a large population",
+                    "It is a Kharif crop grown mainly during the monsoon season",
+                    "Requires high temperature, high humidity, and abundant rainfall",
+                    "India is one of the largest producers and consumers of rice in the world",
+                    "It is mainly cultivated in regions with heavy rainfall or assured irrigation"
+                ]
+            },
+            {
+                "heading": "Conditions of Growth for Rice",
+                "points": [
+                    "Temperature: 20°C to 30°C is ideal",
+                    "Rainfall: 100–200 cm or more is required",
+                    "Soil: Clayey or alluvial soil with good water retention",
+                    "Climate: Hot and humid climate is most suitable",
+                    "Water: Requires standing water during initial growth stages"
+                ]
+            },
+            {
+                "heading": "Geographical Requirements of Rice",
+                "points": [
+                    "High humidity during growing season",
+                    "Flat plains or delta regions for water retention",
+                    "Abundant irrigation or monsoon rainfall",
+                    "Long growing season (3–6 months depending on variety)",
+                    "Warm temperatures throughout growth cycle"
+                ]
+            },
+            {
+                "heading": "Varieties of Rice",
+                "points": [
+                    "Short duration varieties – suitable for areas with limited water",
+                    "Medium duration varieties – most commonly cultivated",
+                    "Long duration varieties – high yield but require more water",
+                    "HYV (High Yielding Varieties) introduced during Green Revolution",
+                    "Aromatic rice varieties like Basmati rice"
+                ]
+            },
+            {
+                "heading": "Important Rice Varieties in India",
+                "points": [
+                    "Basmati rice – Punjab, Haryana, Western UP",
+                    "Sona Masuri – Andhra Pradesh and Telangana",
+                    "IR-8 (Miracle Rice) – HYV variety",
+                    "Japonica rice – cooler regions",
+                    "Indica rice – widely grown in tropical India"
+                ]
+            },
+            {
+                "heading": "Methods of Rice Cultivation",
+                "points": [
+                    "Transplantation method – most common in India",
+                    "Broadcasting method – seeds scattered directly in field",
+                    "Drilling method – seeds sown in rows",
+                    "System of Rice Intensification (SRI) – modern water-saving method",
+                    "Terrace cultivation – used in hilly regions"
+                ]
+            },
+            {
+                "heading": "Transplantation Method (Most Important)",
+                "points": [
+                    "Seedlings are first grown in nurseries",
+                    "Then transplanted into flooded fields",
+                    "Requires labor-intensive work",
+                    "Ensures better yield and plant spacing",
+                    "Common in fertile river plains"
+                ]
+            },
+            {
+                "heading": "Production Pattern of Rice in India",
+                "points": [
+                    "Rice is mainly a Kharif crop but also grown in Rabi season in some states",
+                    "Eastern and southern India dominate rice production",
+                    "West Bengal is the largest producer",
+                    "High rainfall and delta regions are major cultivation areas",
+                    "Green Revolution improved rice production in northern India"
+                ]
+            },
+            {
+                "heading": "Major Rice Producing States",
+                "points": [
+                    "West Bengal – highest producer",
+                    "Uttar Pradesh – second major producer",
+                    "Punjab – high productivity due to irrigation",
+                    "Andhra Pradesh and Telangana – major rice belts",
+                    "Tamil Nadu, Odisha, Bihar, Chhattisgarh also important"
+                ]
+            },
+            {
+                "heading": "Factors Affecting Rice Production",
+                "points": [
+                    "Monsoon rainfall distribution",
+                    "Availability of irrigation facilities",
+                    "Soil fertility and type",
+                    "Use of HYV seeds and fertilizers",
+                    "Government support and MSP procurement"
+                ]
+            },
+            {
+                "heading": "Rice Productivity in India",
+                "points": [
+                    "High productivity in Punjab, Haryana, and Tamil Nadu",
+                    "Eastern states have lower productivity due to traditional methods",
+                    "Irrigation and HYV seeds increase yield",
+                    "Mechanization improves efficiency",
+                    "Climate variability affects output"
+                ]
+            },
+            {
+                "heading": "International Trade of Rice",
+                "points": [
+                    "India is one of the largest exporters of rice globally",
+                    "Major export varieties include Basmati and non-Basmati rice",
+                    "Major importers: Middle East, Africa, and Southeast Asia",
+                    "Export depends on domestic production and government policy",
+                    "India competes with Thailand, Vietnam, and Pakistan in global market"
+                ]
+            },
+            {
+                "heading": "Major Export Varieties",
+                "points": [
+                    "Basmati rice – premium export variety",
+                    "Non-Basmati rice – bulk export category",
+                    "Parboiled rice – processed export type",
+                    "Organic rice – growing export segment",
+                    "Aromatic specialty rice varieties"
+                ]
+            },
+            {
+                "heading": "Importance of Rice in India",
+                "points": [
+                    "Staple food for more than half of India’s population",
+                    "Major contributor to food security",
+                    "Supports rural livelihoods",
+                    "Important crop in eastern and southern India",
+                    "Key crop in Public Distribution System (PDS)"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Rice is mainly a:",
+                    "options": [
+                    "Rabi crop",
+                    "Kharif crop",
+                    "Zaid crop",
+                    "Perennial crop"
+                    ],
+                    "answer": "Kharif crop"
+                },
+                {
+                    "question": "Ideal temperature for rice cultivation is:",
+                    "options": [
+                    "5–10°C",
+                    "20–30°C",
+                    "35–40°C",
+                    "0–5°C"
+                    ],
+                    "answer": "20–30°C"
+                },
+                {
+                    "question": "Largest rice producing state in India is:",
+                    "options": [
+                    "Punjab",
+                    "West Bengal",
+                    "Rajasthan",
+                    "Gujarat"
+                    ],
+                    "answer": "West Bengal"
+                },
+                {
+                    "question": "Rice requires rainfall of about:",
+                    "options": [
+                    "10–20 cm",
+                    "50–75 cm",
+                    "100–200 cm",
+                    "250–300 cm"
+                    ],
+                    "answer": "100–200 cm"
+                },
+                {
+                    "question": "Basmati rice is mainly grown in:",
+                    "options": [
+                    "Kerala",
+                    "Punjab and Haryana",
+                    "Assam",
+                    "Bihar"
+                    ],
+                    "answer": "Punjab and Haryana"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Transplantation method is used for:",
+                    "options": [
+                    "Wheat",
+                    "Rice",
+                    "Cotton",
+                    "Sugarcane"
+                    ],
+                    "answer": "Rice"
+                },
+                {
+                    "question": "Rice grows best in:",
+                    "options": [
+                    "Dry climate",
+                    "Hot and humid climate",
+                    "Cold desert",
+                    "Polar region"
+                    ],
+                    "answer": "Hot and humid climate"
+                },
+                {
+                    "question": "SRI method is related to:",
+                    "options": [
+                    "Sugarcane farming",
+                    "Rice cultivation",
+                    "Wheat farming",
+                    "Tea plantation"
+                    ],
+                    "answer": "Rice cultivation"
+                },
+                {
+                    "question": "India exports mainly:",
+                    "options": [
+                    "Only wheat",
+                    "Basmati and non-Basmati rice",
+                    "Only pulses",
+                    "Only sugar"
+                    ],
+                    "answer": "Basmati and non-Basmati rice"
+                },
+                {
+                    "question": "Rice is mainly grown in:",
+                    "options": [
+                    "Desert regions",
+                    "Eastern and southern India",
+                    "Himalayan glaciers",
+                    "Cold regions only"
+                    ],
+                    "answer": "Eastern and southern India"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Rice is a Kharif crop\n2. It requires low rainfall\n3. West Bengal is the largest producer",
+                    "options": ["1 and 3", "2 and 3", "1 and 2", "All"],
+                    "answer": "1 and 3"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Rice – Kharif crop",
+                    "Rice – Rabi crop",
+                    "Rice – Zaid crop",
+                    "Rice – Winter crop only"
+                    ],
+                    "answer": "Rice – Kharif crop"
+                },
+                {
+                    "question": "Transplantation method is important because:",
+                    "options": [
+                    "It reduces yield",
+                    "It increases productivity",
+                    "It needs no water",
+                    "It stops growth"
+                    ],
+                    "answer": "It increases productivity"
+                },
+                {
+                    "question": "Basmati rice is known for:",
+                    "options": [
+                    "Low quality",
+                    "Aromatic fragrance",
+                    "No export value",
+                    "High rainfall need only"
+                    ],
+                    "answer": "Aromatic fragrance"
+                },
+                {
+                    "question": "India’s rice export depends on:",
+                    "options": [
+                    "Only imports",
+                    "Surplus production",
+                    "No production",
+                    "Only subsidies"
+                    ],
+                    "answer": "Surplus production"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Maize (Corn): Conditions, Production & Trade",
+        "notes": [
+            {
+                "heading": "Introduction to Maize (Corn)",
+                "points": [
+                    "Maize (Zea mays) is one of the most important cereal crops in the world",
+                    "It is used as food, fodder, and industrial raw material",
+                    "In India, it is grown as both Kharif and Rabi crop in some regions",
+                    "It is a versatile crop used in food processing, starch, and biofuel industries",
+                    "Maize is known as the ‘queen of cereals’ due to high productivity"
+                ]
+            },
+            {
+                "heading": "Conditions of Growth for Maize",
+                "points": [
+                    "Temperature: 21°C to 27°C is ideal",
+                    "Rainfall: 50–100 cm is sufficient",
+                    "Soil: Well-drained fertile alluvial or loamy soil",
+                    "Climate: Warm and moderately humid climate",
+                    "Sunlight: Requires good sunshine throughout growth period"
+                ]
+            },
+            {
+                "heading": "Geographical Requirements of Maize",
+                "points": [
+                    "Requires moderate rainfall and warm temperature",
+                    "Cannot tolerate frost or waterlogging",
+                    "Grows well in plains and plateau regions",
+                    "Requires well-aerated soil",
+                    "Short duration crop (90–120 days)"
+                ]
+            },
+            {
+                "heading": "Production Pattern of Maize in India",
+                "points": [
+                    "Maize is grown in both Kharif and Rabi seasons",
+                    "Kharif maize is more common in India",
+                    "Major production states are Karnataka, Madhya Pradesh, Bihar, and Andhra Pradesh",
+                    "Used for food, poultry feed, and industrial purposes",
+                    "Productivity is increasing due to hybrid varieties"
+                ]
+            },
+            {
+                "heading": "Major Maize Producing States",
+                "points": [
+                    "Karnataka – highest producer in India",
+                    "Madhya Pradesh – large cultivated area",
+                    "Bihar – major contributor in eastern India",
+                    "Andhra Pradesh and Telangana – important producers",
+                    "Rajasthan, Maharashtra, and Uttar Pradesh also contribute"
+                ]
+            },
+            {
+                "heading": "Factors Affecting Maize Production",
+                "points": [
+                    "Use of hybrid and high-yielding varieties",
+                    "Irrigation availability",
+                    "Soil fertility and drainage",
+                    "Use of fertilizers and pesticides",
+                    "Climatic conditions and rainfall distribution"
+                ]
+            },
+            {
+                "heading": "Uses of Maize",
+                "points": [
+                    "Human consumption (food products like corn flour)",
+                    "Animal feed (poultry and livestock)",
+                    "Industrial use (starch, ethanol, oil)",
+                    "Biofuel production",
+                    "Used in processed food industry"
+                ]
+            },
+            {
+                "heading": "International Trade of Maize",
+                "points": [
+                    "Maize is one of the most traded cereals globally",
+                    "Major exporters: USA, Brazil, Argentina, Ukraine",
+                    "Major importers: China, Japan, Mexico, European countries",
+                    "India exports limited quantity of maize depending on surplus",
+                    "Trade is influenced by global demand for feed and biofuel"
+                ]
+            },
+            {
+                "heading": "India’s Position in Maize Trade",
+                "points": [
+                    "India is a moderate producer of maize globally",
+                    "Export varies depending on domestic demand",
+                    "India exports maize mainly to Southeast Asia and neighboring countries",
+                    "Domestic demand from poultry and starch industry is high",
+                    "Government regulates exports during shortage periods"
+                ]
+            },
+            {
+                "heading": "Importance of Maize in India",
+                "points": [
+                    "Third most important cereal crop after rice and wheat",
+                    "Supports poultry and livestock industry",
+                    "Important industrial raw material",
+                    "Helps in food security diversification",
+                    "High yield potential crop in India"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Maize is also known as:",
+                    "options": [
+                    "Queen of cereals",
+                    "King of pulses",
+                    "Golden fiber",
+                    "White grain"
+                    ],
+                    "answer": "Queen of cereals"
+                },
+                {
+                    "question": "Ideal temperature for maize growth is:",
+                    "options": [
+                    "5–10°C",
+                    "21–27°C",
+                    "30–40°C",
+                    "0–5°C"
+                    ],
+                    "answer": "21–27°C"
+                },
+                {
+                    "question": "Largest maize producing state in India is:",
+                    "options": [
+                    "Karnataka",
+                    "Punjab",
+                    "Kerala",
+                    "Assam"
+                    ],
+                    "answer": "Karnataka"
+                },
+                {
+                    "question": "Maize requires rainfall of about:",
+                    "options": [
+                    "10–20 cm",
+                    "50–100 cm",
+                    "150–200 cm",
+                    "250–300 cm"
+                    ],
+                    "answer": "50–100 cm"
+                },
+                {
+                    "question": "Maize is mainly used for:",
+                    "options": [
+                    "Only food",
+                    "Food, feed, and industry",
+                    "Only textiles",
+                    "Only oil production"
+                    ],
+                    "answer": "Food, feed, and industry"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Maize is mostly a:",
+                    "options": [
+                    "Kharif crop",
+                    "Rabi crop",
+                    "Zaid crop",
+                    "Winter crop only"
+                    ],
+                    "answer": "Kharif crop"
+                },
+                {
+                    "question": "Maize cannot tolerate:",
+                    "options": [
+                    "Sunlight",
+                    "Frost and waterlogging",
+                    "Rainfall",
+                    "Fertile soil"
+                    ],
+                    "answer": "Frost and waterlogging"
+                },
+                {
+                    "question": "Maize is used in:",
+                    "options": [
+                    "Only clothing",
+                    "Starch and ethanol production",
+                    "Only irrigation",
+                    "Only forestry"
+                    ],
+                    "answer": "Starch and ethanol production"
+                },
+                {
+                    "question": "Maize has a growth duration of about:",
+                    "options": [
+                    "30–40 days",
+                    "90–120 days",
+                    "200–300 days",
+                    "1 year"
+                    ],
+                    "answer": "90–120 days"
+                },
+                {
+                    "question": "Maize production is highest in:",
+                    "options": [
+                    "Coastal regions only",
+                    "Peninsular and plateau regions",
+                    "Himalayan glaciers",
+                    "Deserts only"
+                    ],
+                    "answer": "Peninsular and plateau regions"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Maize is a Kharif crop\n2. It requires waterlogging conditions\n3. Karnataka is a major producer",
+                    "options": ["1 and 3", "2 and 3", "1 and 2", "All"],
+                    "answer": "1 and 3"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Maize – Queen of cereals",
+                    "Maize – Golden fiber",
+                    "Maize – Cash crop only",
+                    "Maize – Plantation crop"
+                    ],
+                    "answer": "Maize – Queen of cereals"
+                },
+                {
+                    "question": "Maize is important because:",
+                    "options": [
+                    "It has low yield",
+                    "It supports feed and industry",
+                    "It is not used in food",
+                    "It grows only in deserts"
+                    ],
+                    "answer": "It supports feed and industry"
+                },
+                {
+                    "question": "India’s maize export depends on:",
+                    "options": [
+                    "Surplus production",
+                    "No production",
+                    "Only imports",
+                    "No demand"
+                    ],
+                    "answer": "Surplus production"
+                },
+                {
+                    "question": "Maize is suitable for:",
+                    "options": [
+                    "Waterlogged soil",
+                    "Well-drained soil",
+                    "Frozen soil",
+                    "Saline water only"
+                    ],
+                    "answer": "Well-drained soil"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Barley: Conditions, Production & International Trade",
+        "notes": [
+            {
+                "heading": "Introduction to Barley",
+                "points": [
+                    "Barley is one of the oldest cultivated cereal crops in the world",
+                    "It is a Rabi crop grown mainly in winter season",
+                    "Used for food, fodder, brewing (beer), and industrial purposes",
+                    "It is more hardy than wheat and can grow in poorer soils",
+                    "In India, barley cultivation is relatively limited but important in dry regions"
+                ]
+            },
+            {
+                "heading": "Conditions of Growth for Barley",
+                "points": [
+                    "Temperature: 12°C to 25°C is ideal",
+                    "Rainfall: 30–75 cm, can tolerate low rainfall conditions",
+                    "Soil: Light loamy, sandy, or saline soils",
+                    "Climate: Cool and dry climate is most suitable",
+                    "Tolerance: Can grow in marginal and less fertile soils"
+                ]
+            },
+            {
+                "heading": "Geographical Requirements of Barley",
+                "points": [
+                    "Requires low to moderate rainfall",
+                    "Can survive in drought-prone regions",
+                    "Grows in semi-arid and arid areas",
+                    "Short growing season crop",
+                    "Less demanding in terms of irrigation compared to wheat"
+                ]
+            },
+            {
+                "heading": "Production Pattern of Barley in India",
+                "points": [
+                    "Barley is mainly grown as a Rabi crop",
+                    "Area under cultivation is decreasing due to preference for wheat",
+                    "Grown in northern and northwestern India",
+                    "Used for food grains, cattle feed, and brewing industry",
+                    "Productivity is moderate and regionally concentrated"
+                ]
+            },
+            {
+                "heading": "Major Barley Producing States",
+                "points": [
+                    "Rajasthan – largest producer",
+                    "Uttar Pradesh – significant cultivation",
+                    "Madhya Pradesh – important contributor",
+                    "Haryana and Punjab – limited cultivation",
+                    "Bihar and Himachal Pradesh – small-scale production"
+                ]
+            },
+            {
+                "heading": "Factors Affecting Barley Production",
+                "points": [
+                    "Shift towards wheat cultivation reduces barley area",
+                    "Low irrigation requirement supports dryland farming",
+                    "Poor market demand compared to wheat and rice",
+                    "Use in brewing industry provides limited demand",
+                    "Climatic suitability in arid regions"
+                ]
+            },
+            {
+                "heading": "Uses of Barley",
+                "points": [
+                    "Human consumption (porridge, flour, bread)",
+                    "Animal feed (fodder and cattle feed)",
+                    "Brewing industry (beer and alcohol production)",
+                    "Industrial use in malt production",
+                    "Health food due to high fiber content"
+                ]
+            },
+            {
+                "heading": "International Trade of Barley",
+                "points": [
+                    "Barley is an important global cereal crop",
+                    "Major exporters: Russia, France, Australia, Germany",
+                    "Major importers: China, Saudi Arabia, Japan, Middle East countries",
+                    "Used mainly for animal feed and brewing industry in global trade",
+                    "India plays a minor role in global barley trade"
+                ]
+            },
+            {
+                "heading": "India’s Position in Barley Trade",
+                "points": [
+                    "India has limited export of barley",
+                    "Most production is consumed domestically",
+                    "Occasional exports to neighboring countries",
+                    "Demand is mainly from brewing and feed industries",
+                    "Import is negligible"
+                ]
+            },
+            {
+                "heading": "Importance of Barley",
+                "points": [
+                    "Important drought-resistant crop",
+                    "Useful in dryland agriculture systems",
+                    "Supports livestock and brewing industries",
+                    "Nutritious cereal with high fiber content",
+                    "Suitable for marginal farmers in arid regions"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Barley is mainly a:",
+                    "options": [
+                    "Kharif crop",
+                    "Rabi crop",
+                    "Zaid crop",
+                    "Perennial crop"
+                    ],
+                    "answer": "Rabi crop"
+                },
+                {
+                    "question": "Ideal temperature for barley is:",
+                    "options": [
+                    "0–5°C",
+                    "12–25°C",
+                    "30–40°C",
+                    "40–50°C"
+                    ],
+                    "answer": "12–25°C"
+                },
+                {
+                    "question": "Largest barley producing state in India is:",
+                    "options": [
+                    "Rajasthan",
+                    "Kerala",
+                    "Assam",
+                    "Goa"
+                    ],
+                    "answer": "Rajasthan"
+                },
+                {
+                    "question": "Barley is suitable for:",
+                    "options": [
+                    "High rainfall areas",
+                    "Dry and semi-arid regions",
+                    "Coastal wetlands",
+                    "Flood plains only"
+                    ],
+                    "answer": "Dry and semi-arid regions"
+                },
+                {
+                    "question": "Barley is mainly used in:",
+                    "options": [
+                    "Only textiles",
+                    "Food, feed, and brewing",
+                    "Only oil production",
+                    "Only construction"
+                    ],
+                    "answer": "Food, feed, and brewing"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Barley can grow in:",
+                    "options": [
+                    "Fertile only soils",
+                    "Marginal soils",
+                    "Waterlogged soils",
+                    "Frozen soils only"
+                    ],
+                    "answer": "Marginal soils"
+                },
+                {
+                    "question": "Barley is important in brewing industry because it is used for:",
+                    "options": [
+                    "Sugar production",
+                    "Malt production",
+                    "Oil extraction",
+                    "Fiber production"
+                    ],
+                    "answer": "Malt production"
+                },
+                {
+                    "question": "Barley cultivation in India is:",
+                    "options": [
+                    "Increasing rapidly",
+                    "Declining due to wheat preference",
+                    "Not practiced",
+                    "Only coastal"
+                    ],
+                    "answer": "Declining due to wheat preference"
+                },
+                {
+                    "question": "Barley requires rainfall of:",
+                    "options": [
+                    "30–75 cm",
+                    "100–150 cm",
+                    "200–300 cm",
+                    "Above 300 cm"
+                    ],
+                    "answer": "30–75 cm"
+                },
+                {
+                    "question": "Barley is more hardy than:",
+                    "options": [
+                    "Rice",
+                    "Wheat",
+                    "Sugarcane",
+                    "Tea"
+                    ],
+                    "answer": "Wheat"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Barley is a Rabi crop\n2. It requires high rainfall\n3. It is used in brewing industry",
+                    "options": ["1 and 3", "2 and 3", "1 and 2", "All"],
+                    "answer": "1 and 3"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Barley – drought resistant crop",
+                    "Barley – water intensive crop",
+                    "Barley – Kharif crop",
+                    "Barley – plantation crop"
+                    ],
+                    "answer": "Barley – drought resistant crop"
+                },
+                {
+                    "question": "Main reason for decline in barley cultivation in India is:",
+                    "options": [
+                    "Flooding",
+                    "Shift to wheat cultivation",
+                    "No demand",
+                    "Forest expansion"
+                    ],
+                    "answer": "Shift to wheat cultivation"
+                },
+                {
+                    "question": "Barley is important in dryland farming because:",
+                    "options": [
+                    "It needs heavy irrigation",
+                    "It grows in low rainfall areas",
+                    "It grows only in wetlands",
+                    "It is not a crop"
+                    ],
+                    "answer": "It grows in low rainfall areas"
+                },
+                {
+                    "question": "India’s role in barley trade is:",
+                    "options": [
+                    "Major exporter",
+                    "Major importer",
+                    "Minor participant",
+                    "No involvement"
+                    ],
+                    "answer": "Minor participant"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Beverages: Tea (Conditions, Production & Trade)",
+        "notes": [
+            {
+                "heading": "Introduction to Tea",
+                "points": [
+                    "Tea is one of the most important beverage crops in the world",
+                    "It is a plantation crop introduced in India during British rule",
+                    "India is among the largest producers and consumers of tea globally",
+                    "Tea cultivation is highly labour-intensive and export-oriented",
+                    "It is mainly grown in humid tropical and subtropical regions"
+                ]
+            },
+            {
+                "heading": "Conditions of Growth for Tea",
+                "points": [
+                    "Temperature: 20°C to 30°C is ideal",
+                    "Rainfall: 150–300 cm annually with well-distributed rainfall",
+                    "Soil: Deep, well-drained, acidic soil (rich in humus)",
+                    "Climate: Warm, humid climate with frequent mist",
+                    "Topography: Grown on hill slopes for proper drainage"
+                ]
+            },
+            {
+                "heading": "Geographical Requirements of Tea",
+                "points": [
+                    "Requires high humidity and heavy rainfall",
+                    "Frost-free environment is essential",
+                    "Altitude between 600–2000 meters is ideal for quality tea",
+                    "Well-distributed rainfall throughout the year",
+                    "Sloping land helps prevent water stagnation"
+                ]
+            },
+            {
+                "heading": "Production Pattern of Tea in India",
+                "points": [
+                    "Tea is mainly grown in plantations",
+                    "Assam and West Bengal dominate production",
+                    "Southern states like Tamil Nadu and Kerala also contribute",
+                    "India produces both CTC (Crush, Tear, Curl) and Orthodox tea",
+                    "Production is both for domestic consumption and export"
+                ]
+            },
+            {
+                "heading": "Major Tea Producing Regions in India",
+                "points": [
+                    "Assam – largest producer in India",
+                    "West Bengal – Darjeeling tea (high-quality aromatic tea)",
+                    "Tamil Nadu – Nilgiri tea plantations",
+                    "Kerala – smaller but significant production",
+                    "Karnataka – emerging tea-growing region"
+                ]
+            },
+            {
+                "heading": "Types of Tea Produced in India",
+                "points": [
+                    "Black tea – most widely produced",
+                    "Green tea – health-focused production",
+                    "Orthodox tea – high quality export variety",
+                    "CTC tea – widely used for domestic consumption",
+                    "Specialty teas like Darjeeling tea (GI-tagged)"
+                ]
+            },
+            {
+                "heading": "Factors Affecting Tea Production",
+                "points": [
+                    "Climate and rainfall conditions",
+                    "Soil fertility and acidity levels",
+                    "Availability of skilled labour",
+                    "Plantation management practices",
+                    "Global demand and export prices"
+                ]
+            },
+            {
+                "heading": "International Trade of Tea",
+                "points": [
+                    "Tea is a major global commodity crop",
+                    "Major exporters: India, China, Sri Lanka, Kenya",
+                    "Major importers: UK, Russia, USA, Pakistan, Middle East countries",
+                    "India exports both bulk and premium tea varieties",
+                    "Global trade is influenced by quality, branding, and demand"
+                ]
+            },
+            {
+                "heading": "India’s Position in Tea Trade",
+                "points": [
+                    "India is one of the largest tea producers in the world",
+                    "Significant exporter of CTC and Orthodox tea",
+                    "Darjeeling tea has high international demand",
+                    "Domestic consumption is very high, reducing export surplus",
+                    "Exports mainly go to Russia, Iran, UAE, and Europe"
+                ]
+            },
+            {
+                "heading": "Importance of Tea in India",
+                "points": [
+                    "Major plantation crop providing employment",
+                    "Important export commodity",
+                    "Supports rural economy in northeastern states",
+                    "High domestic consumption culture",
+                    "Important for agro-based industries"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Tea is mainly a:",
+                    "options": [
+                    "Rabi crop",
+                    "Plantation crop",
+                    "Kharif crop",
+                    "Pulse crop"
+                    ],
+                    "answer": "Plantation crop"
+                },
+                {
+                    "question": "Ideal temperature for tea cultivation is:",
+                    "options": [
+                    "0–10°C",
+                    "20–30°C",
+                    "35–45°C",
+                    "Below 0°C"
+                    ],
+                    "answer": "20–30°C"
+                },
+                {
+                    "question": "Largest tea producing state in India is:",
+                    "options": [
+                    "Kerala",
+                    "Assam",
+                    "Punjab",
+                    "Rajasthan"
+                    ],
+                    "answer": "Assam"
+                },
+                {
+                    "question": "Darjeeling tea is famous for:",
+                    "options": [
+                    "Low quality",
+                    "Aroma and flavor",
+                    "No export value",
+                    "Oil production"
+                    ],
+                    "answer": "Aroma and flavor"
+                },
+                {
+                    "question": "Tea requires rainfall of about:",
+                    "options": [
+                    "20–50 cm",
+                    "150–300 cm",
+                    "300–400 cm",
+                    "Below 10 cm"
+                    ],
+                    "answer": "150–300 cm"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Tea grows best on:",
+                    "options": [
+                    "Flat desert land",
+                    "Sloping hill regions",
+                    "Waterlogged plains",
+                    "Frozen tundra"
+                    ],
+                    "answer": "Sloping hill regions"
+                },
+                {
+                    "question": "Tea requires soil that is:",
+                    "options": [
+                    "Alkaline",
+                    "Acidic and well-drained",
+                    "Saline",
+                    "Rocky only"
+                    ],
+                    "answer": "Acidic and well-drained"
+                },
+                {
+                    "question": "CTC tea is mainly used for:",
+                    "options": [
+                    "Export only",
+                    "Domestic consumption",
+                    "Medicine only",
+                    "Industrial oil"
+                    ],
+                    "answer": "Domestic consumption"
+                },
+                {
+                    "question": "Tea plantation is highly:",
+                    "options": [
+                    "Capital intensive only",
+                    "Labour intensive",
+                    "Automated only",
+                    "Mining based"
+                    ],
+                    "answer": "Labour intensive"
+                },
+                {
+                    "question": "Nilgiri tea is grown in:",
+                    "options": [
+                    "Tamil Nadu",
+                    "Punjab",
+                    "Bihar",
+                    "Odisha"
+                    ],
+                    "answer": "Tamil Nadu"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Tea is a plantation crop\n2. It requires low rainfall\n3. Assam is a major producer",
+                    "options": ["1 and 3", "2 and 3", "1 and 2", "All"],
+                    "answer": "1 and 3"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Tea – Plantation crop",
+                    "Tea – Rabi crop",
+                    "Tea – Dryland crop",
+                    "Tea – Oilseed crop"
+                    ],
+                    "answer": "Tea – Plantation crop"
+                },
+                {
+                    "question": "Darjeeling tea is famous due to:",
+                    "options": [
+                    "High production volume",
+                    "Unique aroma and GI tag",
+                    "Low quality",
+                    "No demand"
+                    ],
+                    "answer": "Unique aroma and GI tag"
+                },
+                {
+                    "question": "India’s tea export is limited because:",
+                    "options": [
+                    "No production",
+                    "High domestic consumption",
+                    "No demand abroad",
+                    "No plantations"
+                    ],
+                    "answer": "High domestic consumption"
+                },
+                {
+                    "question": "Tea plantations are mainly located in:",
+                    "options": [
+                    "Himalayan slopes and Northeast India",
+                    "Desert regions",
+                    "Arctic regions",
+                    "Urban areas only"
+                    ],
+                    "answer": "Himalayan slopes and Northeast India"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Coffee: Types, Conditions, Production & Trade",
+        "notes": [
+            {
+                "heading": "Introduction to Coffee",
+                "points": [
+                    "Coffee is an important beverage and plantation crop",
+                    "It was introduced in India during the 17th century",
+                    "India is a notable producer of high-quality coffee varieties",
+                    "Coffee cultivation is mainly confined to hilly regions of South India",
+                    "It is both a domestic consumption and export-oriented crop"
+                ]
+            },
+            {
+                "heading": "Types of Coffee",
+                "points": [
+                    "Arabica – mild flavour, high quality, grown in higher altitudes",
+                    "Robusta – stronger taste, higher caffeine, more disease resistant",
+                    "Liberica – rare variety, limited cultivation",
+                    "Arabica is preferred for export due to superior quality",
+                    "Robusta dominates Indian production due to higher yield"
+                ]
+            },
+            {
+                "heading": "Conditions of Growth for Coffee",
+                "points": [
+                    "Temperature: 15°C to 28°C is ideal",
+                    "Rainfall: 150–250 cm with well-distributed rainfall",
+                    "Soil: Well-drained volcanic or loamy soil rich in humus",
+                    "Climate: Warm, humid, and shaded environment",
+                    "Shade: Requires shade from taller trees for healthy growth"
+                ]
+            },
+            {
+                "heading": "Geographical Requirements of Coffee",
+                "points": [
+                    "Grown in tropical highland regions",
+                    "Altitude: 600–1800 meters above sea level",
+                    "Requires moderate temperature without frost",
+                    "Well-drained slopes prevent water stagnation",
+                    "Intercropping with shade trees is common"
+                ]
+            },
+            {
+                "heading": "Production Pattern of Coffee in India",
+                "points": [
+                    "Coffee is mainly grown in Southern India",
+                    "Karnataka is the largest producer",
+                    "Kerala and Tamil Nadu are also important producers",
+                    "Robusta coffee dominates Indian production",
+                    "Arabica is grown in higher altitude regions"
+                ]
+            },
+            {
+                "heading": "Major Coffee Producing States",
+                "points": [
+                    "Karnataka – highest producer (around 70% of production)",
+                    "Kerala – second largest producer",
+                    "Tamil Nadu – significant production in Nilgiri hills",
+                    "Andhra Pradesh and Odisha – small-scale cultivation",
+                    "North-Eastern states – emerging coffee regions"
+                ]
+            },
+            {
+                "heading": "Coffee Growing Regions",
+                "points": [
+                    "Baba Budan Hills (Karnataka) – historic origin of coffee in India",
+                    "Coorg (Kodagu) – major coffee belt",
+                    "Chikmagalur – important Arabica coffee region",
+                    "Nilgiri Hills – Tamil Nadu coffee cultivation",
+                    "Wayanad – Kerala coffee growing area"
+                ]
+            },
+            {
+                "heading": "Factors Affecting Coffee Production",
+                "points": [
+                    "Climate conditions and rainfall distribution",
+                    "Availability of shade trees",
+                    "Soil fertility and drainage",
+                    "Labour availability for plantation work",
+                    "Global demand and price fluctuations"
+                ]
+            },
+            {
+                "heading": "International Trade of Coffee",
+                "points": [
+                    "Coffee is one of the most traded commodities globally",
+                    "Major exporters: Brazil, Vietnam, Colombia, Indonesia",
+                    "Major importers: USA, European countries, Japan",
+                    "India exports both Arabica and Robusta coffee",
+                    "International trade depends on quality grading and demand"
+                ]
+            },
+            {
+                "heading": "India’s Position in Coffee Trade",
+                "points": [
+                    "India is a significant exporter of coffee",
+                    "Robusta coffee dominates exports",
+                    "Arabica coffee is exported for premium markets",
+                    "Major export destinations: Europe, Russia, Middle East",
+                    "Coffee Board of India regulates production and export"
+                ]
+            },
+            {
+                "heading": "Importance of Coffee in India",
+                "points": [
+                    "Important plantation crop of South India",
+                    "Provides employment in hill regions",
+                    "Major export commodity earning foreign exchange",
+                    "Supports agro-based industries",
+                    "High-value cash crop for farmers"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Coffee is mainly a:",
+                    "options": [
+                    "Food grain crop",
+                    "Plantation crop",
+                    "Pulses crop",
+                    "Oilseed crop"
+                    ],
+                    "answer": "Plantation crop"
+                },
+                {
+                    "question": "Largest coffee producing state in India is:",
+                    "options": [
+                    "Kerala",
+                    "Karnataka",
+                    "Punjab",
+                    "Assam"
+                    ],
+                    "answer": "Karnataka"
+                },
+                {
+                    "question": "Arabica coffee is known for:",
+                    "options": [
+                    "Low quality",
+                    "Mild flavour and high quality",
+                    "No export value",
+                    "High salt content"
+                    ],
+                    "answer": "Mild flavour and high quality"
+                },
+                {
+                    "question": "Ideal temperature for coffee is:",
+                    "options": [
+                    "0–10°C",
+                    "15–28°C",
+                    "30–40°C",
+                    "Above 45°C"
+                    ],
+                    "answer": "15–28°C"
+                },
+                {
+                    "question": "Coffee is mainly grown in:",
+                    "options": [
+                    "Northern plains",
+                    "South Indian hills",
+                    "Deserts",
+                    "Coastal marshes"
+                    ],
+                    "answer": "South Indian hills"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Robusta coffee is known for:",
+                    "options": [
+                    "Low yield and weak plants",
+                    "High yield and disease resistance",
+                    "No caffeine",
+                    "Only export use"
+                    ],
+                    "answer": "High yield and disease resistance"
+                },
+                {
+                    "question": "Baba Budan Hills are located in:",
+                    "options": [
+                    "Kerala",
+                    "Karnataka",
+                    "Tamil Nadu",
+                    "Assam"
+                    ],
+                    "answer": "Karnataka"
+                },
+                {
+                    "question": "Coffee requires:",
+                    "options": [
+                    "Waterlogged soil",
+                    "Well-drained soil",
+                    "Frozen soil",
+                    "Saline soil only"
+                    ],
+                    "answer": "Well-drained soil"
+                },
+                {
+                    "question": "Coffee plantations require:",
+                    "options": [
+                    "No shade",
+                    "Shade trees",
+                    "Only artificial light",
+                    "Snow cover"
+                    ],
+                    "answer": "Shade trees"
+                },
+                {
+                    "question": "Coffee Board of India is responsible for:",
+                    "options": [
+                    "Mining regulation",
+                    "Coffee production and export regulation",
+                    "Oil production",
+                    "Fishing industry"
+                    ],
+                    "answer": "Coffee production and export regulation"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Coffee is a plantation crop\n2. Karnataka is the largest producer\n3. It requires arid climate",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Arabica – high quality coffee",
+                    "Robusta – low yield coffee",
+                    "Coffee – Kharif crop",
+                    "Coffee – cereal crop"
+                    ],
+                    "answer": "Arabica – high quality coffee"
+                },
+                {
+                    "question": "Coffee grows best in:",
+                    "options": [
+                    "Himalayan deserts",
+                    "Tropical highlands",
+                    "Arctic regions",
+                    "Flood plains only"
+                    ],
+                    "answer": "Tropical highlands"
+                },
+                {
+                    "question": "India exports coffee mainly to:",
+                    "options": [
+                    "Europe and Middle East",
+                    "Africa only",
+                    "South America only",
+                    "Australia only"
+                    ],
+                    "answer": "Europe and Middle East"
+                },
+                {
+                    "question": "Coffee cultivation is important because:",
+                    "options": [
+                    "It is a low-value crop",
+                    "It supports export earnings",
+                    "It is not consumed",
+                    "It grows in deserts"
+                    ],
+                    "answer": "It supports export earnings"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Cocoa: Conditions, Production Pattern & International Trade",
+        "notes": [
+            {
+                "heading": "Introduction to Cocoa",
+                "points": [
+                    "Cocoa is a tropical plantation crop mainly used for chocolate production",
+                    "It is derived from the seeds of the cacao tree (Theobroma cacao)",
+                    "It is a high-value commercial crop with growing global demand",
+                    "India has limited but growing cocoa production",
+                    "It is mainly grown as an intercrop in plantation regions"
+                ]
+            },
+            {
+                "heading": "Conditions of Growth for Cocoa",
+                "points": [
+                    "Temperature: 20°C to 32°C is ideal",
+                    "Rainfall: 150–250 cm with high humidity",
+                    "Soil: Deep, fertile, well-drained loamy soil rich in organic matter",
+                    "Climate: Hot, humid, and tropical climate",
+                    "Shade: Requires shade trees for protection from direct sunlight"
+                ]
+            },
+            {
+                "heading": "Geographical Requirements of Cocoa",
+                "points": [
+                    "Grows in lowland tropical regions",
+                    "Cannot tolerate frost or drought conditions",
+                    "Requires evenly distributed rainfall throughout the year",
+                    "Prefers forested or plantation environments",
+                    "Often grown as an intercrop with coconut and arecanut"
+                ]
+            },
+            {
+                "heading": "Production Pattern of Cocoa in India",
+                "points": [
+                    "Cocoa cultivation in India is still limited but expanding",
+                    "Mostly grown as an intercrop in coconut and arecanut plantations",
+                    "Southern India dominates production",
+                    "Kerala, Karnataka, Tamil Nadu, and Andhra Pradesh are key states",
+                    "India is not a major global producer but domestic demand is rising"
+                ]
+            },
+            {
+                "heading": "Major Cocoa Producing States in India",
+                "points": [
+                    "Kerala – largest producer",
+                    "Karnataka – significant cultivation in plantation regions",
+                    "Tamil Nadu – emerging cocoa cultivation",
+                    "Andhra Pradesh – expanding production",
+                    "Small-scale cultivation in other tropical states"
+                ]
+            },
+            {
+                "heading": "Uses of Cocoa",
+                "points": [
+                    "Chocolate and confectionery production",
+                    "Cocoa butter used in cosmetics and pharmaceuticals",
+                    "Cocoa powder used in beverages and food products",
+                    "Industrial applications in food processing",
+                    "High-value export commodity"
+                ]
+            },
+            {
+                "heading": "Factors Affecting Cocoa Production",
+                "points": [
+                    "Climate suitability (temperature and humidity)",
+                    "Availability of shade trees in plantations",
+                    "Pest and disease management",
+                    "Market demand from chocolate industry",
+                    "Intercropping practices in plantations"
+                ]
+            },
+            {
+                "heading": "International Trade of Cocoa",
+                "points": [
+                    "Cocoa is a highly traded global commodity",
+                    "Major producers: Ivory Coast, Ghana, Indonesia, Ecuador",
+                    "Major consumers: USA, European Union, Japan",
+                    "Africa dominates global cocoa production",
+                    "Trade is driven by chocolate and confectionery industries"
+                ]
+            },
+            {
+                "heading": "India’s Position in Cocoa Trade",
+                "points": [
+                    "India is a minor producer in global cocoa market",
+                    "Most production is consumed domestically",
+                    "Exports are limited but increasing gradually",
+                    "India imports cocoa derivatives for processing industries",
+                    "Domestic demand is driven by chocolate manufacturing companies"
+                ]
+            },
+            {
+                "heading": "Importance of Cocoa in India",
+                "points": [
+                    "High-value cash crop for plantation farmers",
+                    "Supports food processing and chocolate industry",
+                    "Provides additional income through intercropping",
+                    "Growing demand due to urban consumption patterns",
+                    "Potential export crop in future"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Cocoa is mainly used for:",
+                    "options": [
+                    "Textile production",
+                    "Chocolate production",
+                    "Oil extraction",
+                    "Paper making"
+                    ],
+                    "answer": "Chocolate production"
+                },
+                {
+                    "question": "Ideal temperature for cocoa is:",
+                    "options": [
+                    "0–10°C",
+                    "20–32°C",
+                    "35–45°C",
+                    "Below 0°C"
+                    ],
+                    "answer": "20–32°C"
+                },
+                {
+                    "question": "Largest cocoa producing state in India is:",
+                    "options": [
+                    "Kerala",
+                    "Punjab",
+                    "Bihar",
+                    "Rajasthan"
+                    ],
+                    "answer": "Kerala"
+                },
+                {
+                    "question": "Cocoa is mainly grown as:",
+                    "options": [
+                    "Monocrop only",
+                    "Intercrop in plantations",
+                    "Dryland crop",
+                    "Desert crop"
+                    ],
+                    "answer": "Intercrop in plantations"
+                },
+                {
+                    "question": "Cocoa requires rainfall of about:",
+                    "options": [
+                    "20–50 cm",
+                    "150–250 cm",
+                    "300–400 cm",
+                    "Below 10 cm"
+                    ],
+                    "answer": "150–250 cm"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Cocoa grows best in:",
+                    "options": [
+                    "Cold deserts",
+                    "Tropical humid regions",
+                    "Polar regions",
+                    "Dry grasslands"
+                    ],
+                    "answer": "Tropical humid regions"
+                },
+                {
+                    "question": "Cocoa requires:",
+                    "options": [
+                    "No shade",
+                    "Shade trees",
+                    "Ice cover",
+                    "Saline water"
+                    ],
+                    "answer": "Shade trees"
+                },
+                {
+                    "question": "Cocoa butter is used in:",
+                    "options": [
+                    "Construction",
+                    "Cosmetics and pharmaceuticals",
+                    "Mining",
+                    "Fuel production only"
+                    ],
+                    "answer": "Cosmetics and pharmaceuticals"
+                },
+                {
+                    "question": "Cocoa cultivation in India is mainly:",
+                    "options": [
+                    "Large-scale plantation",
+                    "Intercropping system",
+                    "Desert farming",
+                    "Hydroponic only"
+                    ],
+                    "answer": "Intercropping system"
+                },
+                {
+                    "question": "Major cocoa producing countries globally include:",
+                    "options": [
+                    "India and China",
+                    "Ivory Coast and Ghana",
+                    "USA and Canada",
+                    "Russia and UK"
+                    ],
+                    "answer": "Ivory Coast and Ghana"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Cocoa is a plantation crop\n2. India is a major global producer\n3. It is used in chocolate industry",
+                    "options": ["1 and 3", "2 and 3", "1 and 2", "All"],
+                    "answer": "1 and 3"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Cocoa – Chocolate production",
+                    "Cocoa – Textile production",
+                    "Cocoa – Oilseed crop",
+                    "Cocoa – Cereal crop"
+                    ],
+                    "answer": "Cocoa – Chocolate production"
+                },
+                {
+                    "question": "Cocoa is usually grown with:",
+                    "options": [
+                    "Rice fields",
+                    "Coconut plantations",
+                    "Wheat fields",
+                    "Desert crops"
+                    ],
+                    "answer": "Coconut plantations"
+                },
+                {
+                    "question": "India’s role in cocoa trade is:",
+                    "options": [
+                    "Major exporter",
+                    "Minor producer and consumer",
+                    "No production",
+                    "Only importer"
+                    ],
+                    "answer": "Minor producer and consumer"
+                },
+                {
+                    "question": "Cocoa is sensitive to:",
+                    "options": [
+                    "High humidity only",
+                    "Frost and drought",
+                    "Sunlight only",
+                    "Soil fertility only"
+                    ],
+                    "answer": "Frost and drought"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Tobacco: Conditions, Production Pattern & International Trade",
+        "notes": [
+            {
+                "heading": "Introduction to Tobacco",
+                "points": [
+                    "Tobacco is an important commercial and cash crop",
+                    "It is grown for its leaves, which are used in cigarettes, cigars, beedis, and chewing tobacco",
+                    "It is a labor-intensive crop requiring careful processing and curing",
+                    "India is one of the major producers and exporters of tobacco in the world",
+                    "It is a controversial crop due to health concerns but economically significant"
+                ]
+            },
+            {
+                "heading": "Conditions of Growth for Tobacco",
+                "points": [
+                    "Temperature: 20°C to 30°C is ideal",
+                    "Rainfall: 50–100 cm, moderate and well-distributed rainfall",
+                    "Soil: Well-drained sandy loam or black soil rich in potassium",
+                    "Climate: Warm and relatively dry climate during ripening",
+                    "Sunlight: Requires bright sunshine for proper leaf development"
+                ]
+            },
+            {
+                "heading": "Geographical Requirements of Tobacco",
+                "points": [
+                    "Cannot tolerate waterlogging or excessive moisture",
+                    "Requires dry weather during harvesting and curing",
+                    "Grows well in irrigated and semi-arid regions",
+                    "Sensitive to frost and heavy rainfall",
+                    "Requires careful post-harvest processing (curing and drying)"
+                ]
+            },
+            {
+                "heading": "Production Pattern of Tobacco in India",
+                "points": [
+                    "Tobacco is grown as both irrigated and rainfed crop",
+                    "India is among top tobacco-producing countries globally",
+                    "Production is concentrated in southern and western India",
+                    "Andhra Pradesh is the leading producer",
+                    "Other important states include Gujarat, Karnataka, Telangana, and Uttar Pradesh"
+                ]
+            },
+            {
+                "heading": "Major Tobacco Producing States",
+                "points": [
+                    "Andhra Pradesh – largest producer (especially Virginia tobacco)",
+                    "Gujarat – important producer of bidi tobacco",
+                    "Karnataka – significant cultivation",
+                    "Telangana – major contributor",
+                    "Uttar Pradesh and Bihar – small-scale production"
+                ]
+            },
+            {
+                "heading": "Types of Tobacco in India",
+                "points": [
+                    "Virginia tobacco – used for cigarettes and export",
+                    "Bidi tobacco – used in traditional Indian beedis",
+                    "Burley tobacco – mild flavor variety",
+                    "Hookah tobacco – used in traditional smoking",
+                    "Chewing tobacco – widely consumed in India"
+                ]
+            },
+            {
+                "heading": "Factors Affecting Tobacco Production",
+                "points": [
+                    "Climate suitability and rainfall distribution",
+                    "Soil fertility and drainage conditions",
+                    "Labor-intensive cultivation and curing process",
+                    "Government regulations due to health concerns",
+                    "Demand from domestic and international markets"
+                ]
+            },
+            {
+                "heading": "International Trade of Tobacco",
+                "points": [
+                    "Tobacco is a globally traded cash crop",
+                    "Major exporters: Brazil, India, USA, Zimbabwe, China",
+                    "Major importers: European countries, USA, Japan, Russia",
+                    "India exports mainly Virginia tobacco",
+                    "Trade is influenced by health regulations and taxes"
+                ]
+            },
+            {
+                "heading": "India’s Position in Tobacco Trade",
+                "points": [
+                    "India is a significant exporter of tobacco",
+                    "Virginia tobacco dominates export earnings",
+                    "Andhra Pradesh contributes most to exports",
+                    "Export destinations include Europe, Middle East, and Southeast Asia",
+                    "Domestic consumption is also very high"
+                ]
+            },
+            {
+                "heading": "Uses of Tobacco",
+                "points": [
+                    "Cigarettes, cigars, and beedis",
+                    "Chewing tobacco products",
+                    "Hookah and traditional smoking products",
+                    "Industrial nicotine extraction",
+                    "Limited medicinal research applications"
+                ]
+            },
+            {
+                "heading": "Importance of Tobacco in India",
+                "points": [
+                    "Important cash crop for farmers in dry regions",
+                    "Major source of export revenue",
+                    "Supports rural employment in cultivation and processing",
+                    "High-value crop despite health concerns",
+                    "Contributes to central and state tax revenue"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Tobacco is mainly a:",
+                    "options": [
+                    "Food crop",
+                    "Cash crop",
+                    "Fiber crop",
+                    "Oilseed crop"
+                    ],
+                    "answer": "Cash crop"
+                },
+                {
+                    "question": "Largest tobacco producing state in India is:",
+                    "options": [
+                    "Kerala",
+                    "Andhra Pradesh",
+                    "Punjab",
+                    "Assam"
+                    ],
+                    "answer": "Andhra Pradesh"
+                },
+                {
+                    "question": "Ideal temperature for tobacco is:",
+                    "options": [
+                    "5–10°C",
+                    "20–30°C",
+                    "35–45°C",
+                    "Below 0°C"
+                    ],
+                    "answer": "20–30°C"
+                },
+                {
+                    "question": "Virginia tobacco is mainly used for:",
+                    "options": [
+                    "Cigarettes and export",
+                    "Oil extraction",
+                    "Food production",
+                    "Textiles"
+                    ],
+                    "answer": "Cigarettes and export"
+                },
+                {
+                    "question": "Tobacco requires rainfall of about:",
+                    "options": [
+                    "10–20 cm",
+                    "50–100 cm",
+                    "150–250 cm",
+                    "300–400 cm"
+                    ],
+                    "answer": "50–100 cm"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Tobacco cannot tolerate:",
+                    "options": [
+                    "Bright sunlight",
+                    "Waterlogging",
+                    "Dry climate",
+                    "Sandy soil"
+                    ],
+                    "answer": "Waterlogging"
+                },
+                {
+                    "question": "Bidi tobacco is mainly used in:",
+                    "options": [
+                    "Industrial fuel",
+                    "Traditional Indian beedis",
+                    "Cosmetics",
+                    "Food industry"
+                    ],
+                    "answer": "Traditional Indian beedis"
+                },
+                {
+                    "question": "Tobacco requires:",
+                    "options": [
+                    "Heavy rainfall throughout year",
+                    "Dry weather during curing",
+                    "Snowfall",
+                    "Flooded fields"
+                    ],
+                    "answer": "Dry weather during curing"
+                },
+                {
+                    "question": "Major tobacco export from India is:",
+                    "options": [
+                    "Bidi tobacco",
+                    "Virginia tobacco",
+                    "Hookah tobacco only",
+                    "Chewing tobacco only"
+                    ],
+                    "answer": "Virginia tobacco"
+                },
+                {
+                    "question": "Tobacco cultivation is:",
+                    "options": [
+                    "Highly mechanized",
+                    "Labor intensive",
+                    "Completely automated",
+                    "Non-commercial"
+                    ],
+                    "answer": "Labor intensive"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Tobacco is a cash crop\n2. Andhra Pradesh is a major producer\n3. It requires waterlogged conditions",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Virginia tobacco – export quality",
+                    "Bidi tobacco – cigarette industry",
+                    "Tobacco – food grain crop",
+                    "Tobacco – fiber crop"
+                    ],
+                    "answer": "Virginia tobacco – export quality"
+                },
+                {
+                    "question": "Main reason tobacco is grown in dry regions is:",
+                    "options": [
+                    "Needs heavy rainfall",
+                    "Tolerates dry climate",
+                    "Requires snow",
+                    "Needs flooded fields"
+                    ],
+                    "answer": "Tolerates dry climate"
+                },
+                {
+                    "question": "India’s tobacco export depends mainly on:",
+                    "options": [
+                    "Virginia tobacco production",
+                    "Rice production",
+                    "Wheat production",
+                    "Sugarcane production"
+                    ],
+                    "answer": "Virginia tobacco production"
+                },
+                {
+                    "question": "Tobacco is economically important because:",
+                    "options": [
+                    "It is a staple food",
+                    "It generates export revenue",
+                    "It reduces employment",
+                    "It is non-commercial"
+                    ],
+                    "answer": "It generates export revenue"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Cotton: Varieties, Conditions, Production & International Trade",
+        "notes": [
+            {
+                "heading": "Introduction to Cotton",
+                "points": [
+                    "Cotton is one of the most important fibre and cash crops in the world",
+                    "It is known as the 'white gold' due to its economic value",
+                    "It is the backbone of the textile industry",
+                    "India is one of the largest producers and consumers of cotton",
+                    "It is a Kharif crop in India but also grown as a Rabi crop in some regions"
+                ]
+            },
+            {
+                "heading": "Varieties of Cotton",
+                "points": [
+                    "Short staple cotton – lower quality, used for coarse cloth",
+                    "Medium staple cotton – widely grown in India",
+                    "Long staple cotton – high quality, used for fine textiles",
+                    "Extra-long staple cotton – premium quality used in export textiles",
+                    "Bt cotton – genetically modified variety resistant to pests (bollworm)"
+                ]
+            },
+            {
+                "heading": "Major Cotton Types in India",
+                "points": [
+                    "American Upland cotton – widely cultivated",
+                    "Egyptian cotton – long staple, premium quality",
+                    "Desi cotton – traditional Indian varieties",
+                    "Hybrid cotton – high yield varieties",
+                    "Bt cotton dominates modern production in India"
+                ]
+            },
+            {
+                "heading": "Conditions of Growth for Cotton",
+                "points": [
+                    "Temperature: 21°C to 30°C is ideal",
+                    "Rainfall: 50–100 cm, moderate rainfall required",
+                    "Soil: Black cotton soil (regur soil) is most suitable",
+                    "Climate: Warm and sunny climate during growth and harvest",
+                    "Frost-free period is essential"
+                ]
+            },
+            {
+                "heading": "Geographical Requirements of Cotton",
+                "points": [
+                    "Requires long frost-free growing season (200+ days)",
+                    "Moderate rainfall with dry harvesting season",
+                    "Deep black soil rich in lime and potash",
+                    "Good drainage to avoid waterlogging",
+                    "High temperature during ripening stage"
+                ]
+            },
+            {
+                "heading": "Production Pattern of Cotton in India",
+                "points": [
+                    "Cotton is mainly grown in Deccan plateau region",
+                    "Maharashtra is the largest producer",
+                    "Gujarat is the leading cotton-producing state in terms of output",
+                    "Andhra Pradesh, Telangana, Karnataka, and Madhya Pradesh are important producers",
+                    "Punjab and Haryana produce high-quality long staple cotton"
+                ]
+            },
+            {
+                "heading": "Cotton Growing Regions in India",
+                "points": [
+                    "Black soil region of Deccan Plateau",
+                    "Maharashtra – Vidarbha region",
+                    "Gujarat – Saurashtra and Kutch regions",
+                    "Telangana and Andhra Pradesh – irrigated cotton areas",
+                    "Northern plains – Punjab and Haryana for long staple cotton"
+                ]
+            },
+            {
+                "heading": "Factors Affecting Cotton Production",
+                "points": [
+                    "Soil type (black soil is most favorable)",
+                    "Pest attacks (especially bollworm, controlled by Bt cotton)",
+                    "Irrigation availability",
+                    "Monsoon rainfall variability",
+                    "Market demand and textile industry growth"
+                ]
+            },
+            {
+                "heading": "International Trade of Cotton",
+                "points": [
+                    "Cotton is a major globally traded fibre crop",
+                    "Major exporters: USA, India, China, Brazil, Pakistan",
+                    "Major importers: Bangladesh, Vietnam, China, European countries",
+                    "Trade is linked with textile industry demand",
+                    "Prices fluctuate based on global demand and production"
+                ]
+            },
+            {
+                "heading": "India’s Position in Cotton Trade",
+                "points": [
+                    "India is one of the largest cotton producers globally",
+                    "Significant exporter of raw cotton and yarn",
+                    "Major export destinations: China, Bangladesh, Vietnam",
+                    "India also imports cotton during domestic shortage",
+                    "Cotton exports depend on MSP and government policies"
+                ]
+            },
+            {
+                "heading": "Importance of Cotton in India",
+                "points": [
+                    "Major cash crop supporting textile industry",
+                    "Provides employment in agriculture and industry",
+                    "Supports export earnings through textiles",
+                    "Important crop for Deccan plateau farmers",
+                    "Backbone of India’s textile sector"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Cotton is mainly a:",
+                    "options": [
+                    "Food crop",
+                    "Fibre crop",
+                    "Pulses crop",
+                    "Oilseed crop"
+                    ],
+                    "answer": "Fibre crop"
+                },
+                {
+                    "question": "Largest cotton producing state in India is:",
+                    "options": [
+                    "Maharashtra",
+                    "Kerala",
+                    "Bihar",
+                    "Assam"
+                    ],
+                    "answer": "Maharashtra"
+                },
+                {
+                    "question": "Ideal soil for cotton is:",
+                    "options": [
+                    "Sandy soil",
+                    "Black soil",
+                    "Laterite soil",
+                    "Saline soil"
+                    ],
+                    "answer": "Black soil"
+                },
+                {
+                    "question": "Cotton is also known as:",
+                    "options": [
+                    "Green gold",
+                    "White gold",
+                    "Black gold",
+                    "Red gold"
+                    ],
+                    "answer": "White gold"
+                },
+                {
+                    "question": "Cotton is mainly a:",
+                    "options": [
+                    "Kharif crop",
+                    "Rabi crop",
+                    "Zaid crop",
+                    "Perennial crop"
+                    ],
+                    "answer": "Kharif crop"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Bt cotton is used for:",
+                    "options": [
+                    "Pest resistance",
+                    "Water resistance",
+                    "Cold resistance",
+                    "Oil production"
+                    ],
+                    "answer": "Pest resistance"
+                },
+                {
+                    "question": "Cotton requires rainfall of about:",
+                    "options": [
+                    "10–20 cm",
+                    "50–100 cm",
+                    "150–200 cm",
+                    "250–300 cm"
+                    ],
+                    "answer": "50–100 cm"
+                },
+                {
+                    "question": "Cotton grows best in:",
+                    "options": [
+                    "Cold desert",
+                    "Warm and sunny climate",
+                    "Polar regions",
+                    "Waterlogged areas"
+                    ],
+                    "answer": "Warm and sunny climate"
+                },
+                {
+                    "question": "Punjab and Haryana are known for:",
+                    "options": [
+                    "Short staple cotton",
+                    "Long staple cotton",
+                    "No cotton production",
+                    "Wild cotton only"
+                    ],
+                    "answer": "Long staple cotton"
+                },
+                {
+                    "question": "Cotton cultivation is concentrated in:",
+                    "options": [
+                    "Himalayan region",
+                    "Deccan plateau",
+                    "Coastal marshes",
+                    "Arctic region"
+                    ],
+                    "answer": "Deccan plateau"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Cotton is a fibre crop\n2. Black soil is suitable for cotton\n3. Maharashtra is the largest producer",
+                    "options": ["1, 2 and 3", "1 and 3", "2 and 3", "Only 2"],
+                    "answer": "1, 2 and 3"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Cotton – White gold",
+                    "Cotton – Food grain",
+                    "Cotton – Oilseed",
+                    "Cotton – Beverage crop"
+                    ],
+                    "answer": "Cotton – White gold"
+                },
+                {
+                    "question": "Bt cotton is important because:",
+                    "options": [
+                    "It reduces pest attacks",
+                    "It increases water need",
+                    "It is non-GM crop",
+                    "It reduces yield"
+                    ],
+                    "answer": "It reduces pest attacks"
+                },
+                {
+                    "question": "India exports cotton mainly to:",
+                    "options": [
+                    "China and Bangladesh",
+                    "USA only",
+                    "Africa only",
+                    "Australia only"
+                    ],
+                    "answer": "China and Bangladesh"
+                },
+                {
+                    "question": "Cotton requires:",
+                    "options": [
+                    "Short frost-free period",
+                    "Long frost-free period",
+                    "Snow cover",
+                    "Waterlogging"
+                    ],
+                    "answer": "Long frost-free period"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Jute: Conditions, Production, Trade & Substitutes",
+        "notes": [
+            {
+                "heading": "Introduction to Jute",
+                "points": [
+                    "Jute is a natural fibre crop known as the 'golden fibre'",
+                    "It is mainly used for making sacks, ropes, carpets, and packaging materials",
+                    "It is an eco-friendly biodegradable fibre crop",
+                    "India and Bangladesh are the leading producers of jute in the world",
+                    "It is an important cash crop for eastern India"
+                ]
+            },
+            {
+                "heading": "Conditions of Growth for Jute",
+                "points": [
+                    "Temperature: 24°C to 35°C is ideal",
+                    "Rainfall: 150–250 cm with high humidity",
+                    "Soil: Well-drained fertile alluvial soil (new alluvium is best)",
+                    "Climate: Hot and humid tropical climate",
+                    "Water: Requires standing water during early growth stages"
+                ]
+            },
+            {
+                "heading": "Geographical Requirements of Jute",
+                "points": [
+                    "Grows best in river delta regions",
+                    "Requires fertile alluvial soil rich in nutrients",
+                    "High rainfall and humid conditions are essential",
+                    "Needs floodplain areas with good drainage",
+                    "Harvested before monsoon flood peak"
+                ]
+            },
+            {
+                "heading": "Production Pattern of Jute in India",
+                "points": [
+                    "Jute is mainly grown in eastern India",
+                    "West Bengal is the largest producer",
+                    "Other producers include Bihar, Assam, Odisha, and Meghalaya",
+                    "India is the second-largest producer after Bangladesh",
+                    "Cultivation is concentrated in Ganga-Brahmaputra delta region"
+                ]
+            },
+            {
+                "heading": "Major Jute Producing States",
+                "points": [
+                    "West Bengal – dominant producer (over 70%)",
+                    "Bihar – significant cultivation in river plains",
+                    "Assam – important jute-growing region",
+                    "Odisha – moderate production",
+                    "Meghalaya – small-scale cultivation"
+                ]
+            },
+            {
+                "heading": "Uses of Jute",
+                "points": [
+                    "Gunny bags and sacks for packaging grains",
+                    "Ropes and twines",
+                    "Carpets, mats, and handicrafts",
+                    "Paper and textile industries",
+                    "Eco-friendly packaging materials"
+                ]
+            },
+            {
+                "heading": "Factors Affecting Jute Production",
+                "points": [
+                    "Dependence on monsoon rainfall",
+                    "Flooding in delta regions",
+                    "Competition from synthetic fibres",
+                    "Labour-intensive cultivation and processing",
+                    "Government support and MSP policies"
+                ]
+            },
+            {
+                "heading": "International Trade of Jute",
+                "points": [
+                    "Jute is an important globally traded fibre crop",
+                    "Major producers: India and Bangladesh",
+                    "Major importers: USA, Europe, Middle East countries",
+                    "Demand is declining due to synthetic alternatives",
+                    "Trade is mainly for packaging and industrial use"
+                ]
+            },
+            {
+                "heading": "India’s Position in Jute Trade",
+                "points": [
+                    "India is a leading producer and consumer of jute",
+                    "Exports include raw jute and jute products",
+                    "West Bengal dominates production and export",
+                    "Jute industry is concentrated around Kolkata region",
+                    "Domestic demand is strong for packaging industries"
+                ]
+            },
+            {
+                "heading": "Substitutes of Jute",
+                "points": [
+                    "Flax – used for linen production, fine quality fibre",
+                    "Hemp – strong fibre used for ropes and industrial products",
+                    "Synthetic fibres – polyester and polypropylene bags",
+                    "These substitutes have reduced demand for jute",
+                    "Synthetic packaging is cheaper but less eco-friendly"
+                ]
+            },
+            {
+                "heading": "Flax as a Substitute",
+                "points": [
+                    "Flax is a fibre crop used to produce linen",
+                    "Grown in temperate regions",
+                    "Produces fine quality textile fibre",
+                    "Used in clothing and fine fabrics",
+                    "Less bulky than jute but higher value"
+                ]
+            },
+            {
+                "heading": "Hemp as a Substitute",
+                "points": [
+                    "Hemp is a strong fibre crop",
+                    "Used for ropes, sacks, and industrial products",
+                    "Requires moderate climate and less water",
+                    "Highly durable fibre compared to jute",
+                    "Used in eco-friendly industrial applications"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Jute is also known as:",
+                    "options": [
+                    "Black gold",
+                    "Golden fibre",
+                    "White fibre",
+                    "Green fibre"
+                    ],
+                    "answer": "Golden fibre"
+                },
+                {
+                    "question": "Largest jute producing state in India is:",
+                    "options": [
+                    "Bihar",
+                    "West Bengal",
+                    "Assam",
+                    "Odisha"
+                    ],
+                    "answer": "West Bengal"
+                },
+                {
+                    "question": "Ideal temperature for jute is:",
+                    "options": [
+                    "10–15°C",
+                    "24–35°C",
+                    "35–45°C",
+                    "Below 10°C"
+                    ],
+                    "answer": "24–35°C"
+                },
+                {
+                    "question": "Jute is mainly grown in:",
+                    "options": [
+                    "Deserts",
+                    "River delta regions",
+                    "Mountain tops",
+                    "Arctic regions"
+                    ],
+                    "answer": "River delta regions"
+                },
+                {
+                    "question": "Jute requires rainfall of about:",
+                    "options": [
+                    "20–50 cm",
+                    "150–250 cm",
+                    "300–400 cm",
+                    "Below 10 cm"
+                    ],
+                    "answer": "150–250 cm"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Jute grows best in:",
+                    "options": [
+                    "Sandy desert soil",
+                    "Fertile alluvial soil",
+                    "Rocky soil",
+                    "Saline soil"
+                    ],
+                    "answer": "Fertile alluvial soil"
+                },
+                {
+                    "question": "Main use of jute is:",
+                    "options": [
+                    "Medicine",
+                    "Packaging materials",
+                    "Fuel production",
+                    "Electricity generation"
+                    ],
+                    "answer": "Packaging materials"
+                },
+                {
+                    "question": "Hemp is used for:",
+                    "options": [
+                    "Soft clothing only",
+                    "Ropes and industrial products",
+                    "Food grains",
+                    "Oil extraction only"
+                    ],
+                    "answer": "Ropes and industrial products"
+                },
+                {
+                    "question": "Flax is mainly used for:",
+                    "options": [
+                    "Linen production",
+                    "Fuel production",
+                    "Cement making",
+                    "Paper only"
+                    ],
+                    "answer": "Linen production"
+                },
+                {
+                    "question": "Jute cultivation is concentrated in:",
+                    "options": [
+                    "Thar desert",
+                    "Ganga-Brahmaputra delta",
+                    "Himalayas",
+                    "Deccan plateau only"
+                    ],
+                    "answer": "Ganga-Brahmaputra delta"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Jute is a fibre crop\n2. West Bengal is the largest producer\n3. It requires arid climate",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Jute – Golden fibre",
+                    "Jute – Food grain",
+                    "Jute – Oilseed crop",
+                    "Jute – Beverage crop"
+                    ],
+                    "answer": "Jute – Golden fibre"
+                },
+                {
+                    "question": "Main reason for jute decline is:",
+                    "options": [
+                    "Floods only",
+                    "Synthetic fibre competition",
+                    "No rainfall",
+                    "No soil"
+                    ],
+                    "answer": "Synthetic fibre competition"
+                },
+                {
+                    "question": "Flax is mainly used for:",
+                    "options": [
+                    "Linen textile production",
+                    "Fuel production",
+                    "Plastic making",
+                    "Steel production"
+                    ],
+                    "answer": "Linen textile production"
+                },
+                {
+                    "question": "Jute industry is mainly located in:",
+                    "options": [
+                    "Mumbai region",
+                    "Kolkata region",
+                    "Delhi region",
+                    "Chennai region"
+                    ],
+                    "answer": "Kolkata region"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Raw Silk: Production Pattern & States",
+        "notes": [
+            {
+                "heading": "Introduction to Raw Silk",
+                "points": [
+                    "Raw silk is a natural fibre obtained from silkworm cocoons",
+                    "It is a high-value luxury textile fibre",
+                    "Sericulture is the rearing of silkworms for silk production",
+                    "India is one of the major producers of silk in the world",
+                    "Raw silk is used in garments, textiles, and traditional fabrics"
+                ]
+            },
+            {
+                "heading": "Types of Silk Produced in India",
+                "points": [
+                    "Mulberry silk – most important and widely produced variety",
+                    "Tasar (Tussar) silk – produced in forest regions",
+                    "Eri silk – mainly in Assam and northeastern India",
+                    "Muga silk – unique golden silk from Assam",
+                    "Mulberry silk dominates commercial production"
+                ]
+            },
+            {
+                "heading": "Production Pattern of Raw Silk in India",
+                "points": [
+                    "Sericulture is highly labour-intensive and rural-based",
+                    "Mulberry silk is produced under irrigated conditions",
+                    "Non-mulberry silk is produced in forest and tribal areas",
+                    "India produces all four major types of silk",
+                    "Silk production is concentrated in southern and northeastern states"
+                ]
+            },
+            {
+                "heading": "Sericulture Process",
+                "points": [
+                    "Rearing of silkworms on mulberry leaves (main feed)",
+                    "Harvesting of cocoons after silkworm maturation",
+                    "Extraction of silk thread from cocoons (reeling process)",
+                    "Spinning and weaving into silk fabric",
+                    "Highly skilled rural household-based activity"
+                ]
+            },
+            {
+                "heading": "Major Raw Silk Producing States",
+                "points": [
+                    "Karnataka – largest producer of mulberry silk",
+                    "Andhra Pradesh – significant silk production",
+                    "Tamil Nadu – important sericulture state",
+                    "West Bengal – major producer of mulberry and tasar silk",
+                    "Assam – famous for muga and eri silk",
+                    "Jammu & Kashmir – known for high-quality silk"
+                ]
+            },
+            {
+                "heading": "Regional Distribution of Silk Types",
+                "points": [
+                    "Mulberry silk – Karnataka, Andhra Pradesh, Tamil Nadu",
+                    "Tasar silk – Jharkhand, Chhattisgarh, Odisha, West Bengal",
+                    "Eri silk – Assam and northeastern states",
+                    "Muga silk – exclusive to Assam",
+                    "Each type is linked to specific agro-climatic conditions"
+                ]
+            },
+            {
+                "heading": "Factors Affecting Silk Production",
+                "points": [
+                    "Climate suitability for mulberry cultivation",
+                    "Availability of skilled labour in rural areas",
+                    "Disease management in silkworms",
+                    "Quality of mulberry leaves",
+                    "Government support through sericulture schemes"
+                ]
+            },
+            {
+                "heading": "Importance of Silk Industry in India",
+                "points": [
+                    "Provides employment in rural and tribal areas",
+                    "High-value export commodity",
+                    "Supports handloom and textile industries",
+                    "Cultural importance in traditional Indian clothing",
+                    "Important for women employment in rural regions"
+                ]
+            },
+            {
+                "heading": "International Position of India in Silk Production",
+                "points": [
+                    "India is the second-largest producer of silk after China",
+                    "China dominates global silk production",
+                    "India is unique for producing all four types of silk",
+                    "Exports mainly include raw silk and silk garments",
+                    "Demand is high in global luxury textile markets"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Raw silk is obtained from:",
+                    "options": [
+                    "Cotton plant",
+                    "Silkworm cocoons",
+                    "Jute plant",
+                    "Wool sheep"
+                    ],
+                    "answer": "Silkworm cocoons"
+                },
+                {
+                    "question": "Largest silk producing state in India is:",
+                    "options": [
+                    "Karnataka",
+                    "Punjab",
+                    "Bihar",
+                    "Goa"
+                    ],
+                    "answer": "Karnataka"
+                },
+                {
+                    "question": "Mulberry silk is mainly produced in:",
+                    "options": [
+                    "Arid regions",
+                    "Southern India",
+                    "Deserts",
+                    "Polar regions"
+                    ],
+                    "answer": "Southern India"
+                },
+                {
+                    "question": "India is the ____ largest producer of silk in the world:",
+                    "options": [
+                    "First",
+                    "Second",
+                    "Third",
+                    "Fifth"
+                    ],
+                    "answer": "Second"
+                },
+                {
+                    "question": "Muga silk is mainly found in:",
+                    "options": [
+                    "Assam",
+                    "Rajasthan",
+                    "Punjab",
+                    "Kerala"
+                    ],
+                    "answer": "Assam"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Sericulture refers to:",
+                    "options": [
+                    "Fish farming",
+                    "Silkworm rearing",
+                    "Wheat cultivation",
+                    "Mining activity"
+                    ],
+                    "answer": "Silkworm rearing"
+                },
+                {
+                    "question": "Tasar silk is mainly produced in:",
+                    "options": [
+                    "Desert regions",
+                    "Forest and tribal regions",
+                    "Urban areas",
+                    "Coastal wetlands"
+                    ],
+                    "answer": "Forest and tribal regions"
+                },
+                {
+                    "question": "Silk production is:",
+                    "options": [
+                    "Highly mechanized",
+                    "Labour intensive",
+                    "Completely automated",
+                    "Mining based"
+                    ],
+                    "answer": "Labour intensive"
+                },
+                {
+                    "question": "Main feed for silkworms is:",
+                    "options": [
+                    "Rice leaves",
+                    "Mulberry leaves",
+                    "Tea leaves",
+                    "Grass"
+                    ],
+                    "answer": "Mulberry leaves"
+                },
+                {
+                    "question": "Eri silk is mainly produced in:",
+                    "options": [
+                    "Assam",
+                    "Punjab",
+                    "Gujarat",
+                    "Haryana"
+                    ],
+                    "answer": "Assam"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Silk is a natural fibre\n2. Karnataka is a major producer\n3. India produces only mulberry silk",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Muga silk – Assam",
+                    "Tasar silk – Punjab",
+                    "Mulberry silk – desert regions",
+                    "Eri silk – Himalayas only"
+                    ],
+                    "answer": "Muga silk – Assam"
+                },
+                {
+                    "question": "India’s uniqueness in silk production is:",
+                    "options": [
+                    "Only mulberry silk production",
+                    "All four types of silk production",
+                    "No silk production",
+                    "Only imports silk"
+                    ],
+                    "answer": "All four types of silk production"
+                },
+                {
+                    "question": "Silk industry is important because:",
+                    "options": [
+                    "It is capital intensive",
+                    "It supports rural employment",
+                    "It has no export value",
+                    "It is mining-based"
+                    ],
+                    "answer": "It supports rural employment"
+                },
+                {
+                    "question": "China and India comparison in silk:",
+                    "options": [
+                    "India is largest producer",
+                    "China is largest producer",
+                    "Both are equal",
+                    "Neither produces silk"
+                    ],
+                    "answer": "China is largest producer"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Natural Rubber: Sources, Plantations & Production Pattern",
+        "notes": [
+            {
+                "heading": "Introduction to Natural Rubber",
+                "points": [
+                    "Natural rubber is a flexible elastic material obtained from latex of rubber trees",
+                    "The scientific name of rubber tree is Hevea brasiliensis",
+                    "It is an important industrial raw material used in tyres, tubes, footwear, and machinery",
+                    "India is one of the major producers and consumers of natural rubber",
+                    "Rubber cultivation is mainly a plantation-based commercial activity"
+                ]
+            },
+            {
+                "heading": "Conditions of Growth for Rubber",
+                "points": [
+                    "Temperature: 25°C to 35°C is ideal",
+                    "Rainfall: 200–300 cm with high humidity",
+                    "Soil: Well-drained laterite or alluvial soil rich in organic matter",
+                    "Climate: Hot, humid tropical climate",
+                    "Altitude: Grows best below 300–500 meters above sea level"
+                ]
+            },
+            {
+                "heading": "Other Sources of Rubber",
+                "points": [
+                    "Guayule plant – used as alternative rubber source in dry regions",
+                    "Russian dandelion (Taraxacum kok-saghyz) – experimental rubber source",
+                    "Synthetic rubber – produced from petrochemicals (styrene-butadiene rubber)",
+                    "Chrysothamnus and other desert shrubs (limited use)",
+                    "Synthetic rubber dominates global industrial use today"
+                ]
+            },
+            {
+                "heading": "Plantations in South-East Asia",
+                "points": [
+                    "South-East Asia is the world’s largest rubber-producing region",
+                    "Thailand is the largest producer of natural rubber",
+                    "Indonesia is a major global supplier",
+                    "Malaysia was historically the leader but has declined slightly",
+                    "Vietnam is an emerging major producer",
+                    "Region dominates due to ideal tropical climate conditions"
+                ]
+            },
+            {
+                "heading": "Reasons for Rubber Concentration in South-East Asia",
+                "points": [
+                    "Hot and humid equatorial climate",
+                    "High rainfall throughout the year",
+                    "Availability of large plantation land",
+                    "Cheap and abundant labour force",
+                    "Strong export-oriented plantation economy"
+                ]
+            },
+            {
+                "heading": "Production Pattern of Rubber in India",
+                "points": [
+                    "Rubber is mainly grown in Kerala and Tamil Nadu",
+                    "Kerala is the largest producer in India",
+                    "Karnataka and northeastern states also contribute",
+                    "Rubber plantations are concentrated in Western Ghats region",
+                    "India is both a producer and large consumer of rubber"
+                ]
+            },
+            {
+                "heading": "Major Rubber Producing States in India",
+                "points": [
+                    "Kerala – dominant producer (over 70% of production)",
+                    "Tamil Nadu – second important producer",
+                    "Karnataka – moderate production",
+                    "Tripura – emerging producer in Northeast",
+                    "Assam and Meghalaya – small-scale plantations"
+                ]
+            },
+            {
+                "heading": "Uses of Natural Rubber",
+                "points": [
+                    "Tyres and tubes for automobiles",
+                    "Footwear and industrial products",
+                    "Medical equipment like gloves and syringes",
+                    "Adhesives and waterproof materials",
+                    "Vibration and shock absorbers in machinery"
+                ]
+            },
+            {
+                "heading": "Factors Affecting Rubber Production",
+                "points": [
+                    "Climate variability and rainfall patterns",
+                    "Disease attacks on rubber trees",
+                    "Age of plantations (productive life cycle ~30 years)",
+                    "Global price fluctuations",
+                    "Competition from synthetic rubber"
+                ]
+            },
+            {
+                "heading": "International Trade of Rubber",
+                "points": [
+                    "Rubber is a major globally traded plantation crop",
+                    "Major producers: Thailand, Indonesia, Malaysia, India, Vietnam",
+                    "Major consumers: China, USA, Japan, European countries",
+                    "Trade is driven by automobile and tyre industry demand",
+                    "Prices depend on global industrial demand and oil prices (for synthetic rubber)"
+                ]
+            },
+            {
+                "heading": "India’s Position in Rubber Trade",
+                "points": [
+                    "India is a significant producer but also a major importer",
+                    "Domestic demand exceeds domestic production",
+                    "Imports mainly from Thailand and Indonesia",
+                    "Exports are limited but include some processed rubber products",
+                    "Rubber Board of India regulates production and trade"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Natural rubber is obtained from:",
+                    "options": [
+                    "Cotton plant",
+                    "Hevea brasiliensis",
+                    "Tea plant",
+                    "Jute plant"
+                    ],
+                    "answer": "Hevea brasiliensis"
+                },
+                {
+                    "question": "Largest rubber producing state in India is:",
+                    "options": [
+                    "Kerala",
+                    "Punjab",
+                    "Bihar",
+                    "Odisha"
+                    ],
+                    "answer": "Kerala"
+                },
+                {
+                    "question": "Ideal climate for rubber is:",
+                    "options": [
+                    "Cold and dry",
+                    "Hot and humid",
+                    "Arid and cold",
+                    "Snowy climate"
+                    ],
+                    "answer": "Hot and humid"
+                },
+                {
+                    "question": "Rubber is mainly used in:",
+                    "options": [
+                    "Food production",
+                    "Tyres and tubes",
+                    "Electricity generation",
+                    "Paper industry"
+                    ],
+                    "answer": "Tyres and tubes"
+                },
+                {
+                    "question": "India mainly imports rubber from:",
+                    "options": [
+                    "USA",
+                    "Thailand and Indonesia",
+                    "Russia",
+                    "UK"
+                    ],
+                    "answer": "Thailand and Indonesia"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Synthetic rubber is produced from:",
+                    "options": [
+                    "Petrochemicals",
+                    "Plants only",
+                    "Coal only",
+                    "Water only"
+                    ],
+                    "answer": "Petrochemicals"
+                },
+                {
+                    "question": "Rubber grows best in:",
+                    "options": [
+                    "Deserts",
+                    "Tropical humid regions",
+                    "Polar regions",
+                    "High mountains only"
+                    ],
+                    "answer": "Tropical humid regions"
+                },
+                {
+                    "question": "Rubber Board of India is responsible for:",
+                    "options": [
+                    "Mining regulation",
+                    "Rubber production and trade",
+                    "Fishing industry",
+                    "Textile production"
+                    ],
+                    "answer": "Rubber production and trade"
+                },
+                {
+                    "question": "Thailand is famous for:",
+                    "options": [
+                    "Rice only",
+                    "Natural rubber production",
+                    "Coal mining",
+                    "Oil production"
+                    ],
+                    "answer": "Natural rubber production"
+                },
+                {
+                    "question": "Rubber trees have productive life of about:",
+                    "options": [
+                    "5 years",
+                    "10 years",
+                    "30 years",
+                    "100 years"
+                    ],
+                    "answer": "30 years"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Rubber is a plantation crop\n2. Kerala is the largest producer in India\n3. It grows best in dry climate",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Natural rubber – Hevea brasiliensis",
+                    "Rubber – Desert crop",
+                    "Rubber – Food crop",
+                    "Rubber – Cereal crop"
+                    ],
+                    "answer": "Natural rubber – Hevea brasiliensis"
+                },
+                {
+                    "question": "South-East Asia dominates rubber production because:",
+                    "options": [
+                    "Cold climate",
+                    "Ideal tropical climate",
+                    "No rainfall",
+                    "Snow cover"
+                    ],
+                    "answer": "Ideal tropical climate"
+                },
+                {
+                    "question": "India’s rubber situation is:",
+                    "options": [
+                    "Self-sufficient exporter",
+                    "Import dependent",
+                    "No production",
+                    "Only exporter"
+                    ],
+                    "answer": "Import dependent"
+                },
+                {
+                    "question": "Main competition to natural rubber is:",
+                    "options": [
+                    "Coal",
+                    "Synthetic rubber",
+                    "Gold",
+                    "Iron"
+                    ],
+                    "answer": "Synthetic rubber"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Sugarcane, Sugar Beet & Sugar Industry",
+        "notes": [
+            {
+                "heading": "Introduction to Sugarcane",
+                "points": [
+                    "Sugarcane is a major cash crop and the main source of sugar production in India",
+                    "It is a tropical and subtropical crop",
+                    "India is one of the largest producers and consumers of sugar in the world",
+                    "It also provides raw materials for jaggery, ethanol, and molasses",
+                    "It plays a key role in agro-based industries"
+                ]
+            },
+            {
+                "heading": "Conditions of Growth for Sugarcane",
+                "points": [
+                    "Temperature: 21°C to 27°C is ideal",
+                    "Rainfall: 75–150 cm, with irrigation support in dry areas",
+                    "Soil: Deep fertile alluvial and black soil",
+                    "Climate: Hot and humid climate with long growing season",
+                    "Water: Requires high water supply throughout growth period"
+                ]
+            },
+            {
+                "heading": "Geographical Requirements of Sugarcane",
+                "points": [
+                    "Long frost-free period (10–12 months)",
+                    "High temperature during growing stage and cool dry weather during ripening",
+                    "Well-drained fertile soil rich in nutrients",
+                    "Availability of irrigation in low rainfall regions",
+                    "Requires intensive farming practices"
+                ]
+            },
+            {
+                "heading": "Production Pattern of Sugarcane in India",
+                "points": [
+                    "Sugarcane is grown in both tropical and subtropical regions",
+                    "Uttar Pradesh is the largest producer",
+                    "Maharashtra is the leading producer in terms of sugar recovery",
+                    "Karnataka, Tamil Nadu, Andhra Pradesh, and Gujarat are important producers",
+                    "India is second largest producer of sugarcane in the world"
+                ]
+            },
+            {
+                "heading": "Major Sugarcane Producing Regions",
+                "points": [
+                    "Uttar Pradesh – Indo-Gangetic plains",
+                    "Maharashtra – irrigated regions",
+                    "Karnataka – southern plateau",
+                    "Tamil Nadu – coastal irrigated belts",
+                    "Gujarat and Andhra Pradesh – significant production"
+                ]
+            },
+            {
+                "heading": "Uses of Sugarcane",
+                "points": [
+                    "Production of sugar",
+                    "Jaggery (gur) and khandsari",
+                    "Ethanol and biofuel production",
+                    "Molasses for alcohol industry",
+                    "Bagasse used for paper and electricity generation"
+                ]
+            },
+            {
+                "heading": "International Trade of Sugarcane",
+                "points": [
+                    "Sugarcane itself is not widely traded; sugar is the main traded product",
+                    "Major sugarcane producers: Brazil, India, China, Thailand",
+                    "Global sugar trade dominated by Brazil and Thailand",
+                    "India exports sugar occasionally depending on surplus production",
+                    "Trade is highly regulated due to price and food security concerns"
+                ]
+            },
+            {
+                "heading": "Introduction to Sugar Beet",
+                "points": [
+                    "Sugar beet is a temperate root crop used for sugar production",
+                    "It is an alternative source of sugar apart from sugarcane",
+                    "Mainly grown in Europe and North America",
+                    "It contains high sucrose content in its root",
+                    "Used in regions where sugarcane cannot grow"
+                ]
+            },
+            {
+                "heading": "Conditions of Growth for Sugar Beet",
+                "points": [
+                    "Temperature: 10°C to 25°C (cool temperate climate)",
+                    "Rainfall: 50–100 cm, moderate rainfall",
+                    "Soil: Deep fertile loamy soil",
+                    "Climate: Cool temperate regions",
+                    "Requires well-drained soil conditions"
+                ]
+            },
+            {
+                "heading": "Production Pattern of Sugar Beet",
+                "points": [
+                    "Major producers: Russia, France, Germany, USA, Turkey",
+                    "Sugar beet is not widely cultivated in India",
+                    "Used mainly in temperate and cold regions",
+                    "Contributes significantly to global sugar production",
+                    "Supports sugar industry in non-tropical countries"
+                ]
+            },
+            {
+                "heading": "Sugar Industry in India",
+                "points": [
+                    "Second largest agro-based industry in India after textiles",
+                    "Highly decentralized and seasonal industry",
+                    "Located near sugarcane producing regions due to perishability",
+                    "Maharashtra leads in sugar recovery and sugar mills",
+                    "Uttar Pradesh has highest number of sugar mills"
+                ]
+            },
+            {
+                "heading": "Sugar Consumption Pattern",
+                "points": [
+                    "India is one of the largest consumers of sugar globally",
+                    "High domestic demand due to population size",
+                    "Used in households, confectionery, and beverages",
+                    "Rising demand from food processing industry",
+                    "Per capita consumption is increasing with urbanization"
+                ]
+            },
+            {
+                "heading": "International Trade of Sugar",
+                "points": [
+                    "Sugar is a globally traded commodity",
+                    "Major exporters: Brazil, Thailand, India (occasionally), Australia",
+                    "Major importers: Indonesia, China, USA, Middle East countries",
+                    "Trade depends on production surplus and government policies",
+                    "Prices are influenced by global supply-demand and ethanol demand"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Sugarcane is mainly a:",
+                    "options": [
+                    "Food grain crop",
+                    "Cash crop",
+                    "Fibre crop",
+                    "Oilseed crop"
+                    ],
+                    "answer": "Cash crop"
+                },
+                {
+                    "question": "Largest sugarcane producing state in India is:",
+                    "options": [
+                    "Uttar Pradesh",
+                    "Kerala",
+                    "Punjab",
+                    "Assam"
+                    ],
+                    "answer": "Uttar Pradesh"
+                },
+                {
+                    "question": "Ideal temperature for sugarcane is:",
+                    "options": [
+                    "5–10°C",
+                    "21–27°C",
+                    "35–40°C",
+                    "Below 0°C"
+                    ],
+                    "answer": "21–27°C"
+                },
+                {
+                    "question": "Sugar beet is mainly grown in:",
+                    "options": [
+                    "Tropical regions",
+                    "Temperate regions",
+                    "Deserts",
+                    "Rainforests only"
+                    ],
+                    "answer": "Temperate regions"
+                },
+                {
+                    "question": "Main product of sugarcane is:",
+                    "options": [
+                    "Oil",
+                    "Sugar",
+                    "Coal",
+                    "Rubber"
+                    ],
+                    "answer": "Sugar"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Sugarcane requires:",
+                    "options": [
+                    "Short growing period",
+                    "Long frost-free period",
+                    "Snow cover",
+                    "Dry desert climate"
+                    ],
+                    "answer": "Long frost-free period"
+                },
+                {
+                    "question": "Sugar beet is mainly used for:",
+                    "options": [
+                    "Fibre production",
+                    "Sugar production",
+                    "Oil extraction",
+                    "Fuel only"
+                    ],
+                    "answer": "Sugar production"
+                },
+                {
+                    "question": "Sugar industry is located near:",
+                    "options": [
+                    "Ports",
+                    "Sugarcane producing areas",
+                    "Deserts",
+                    "Mountain peaks"
+                    ],
+                    "answer": "Sugarcane producing areas"
+                },
+                {
+                    "question": "Bagasse from sugarcane is used for:",
+                    "options": [
+                    "Electricity and paper production",
+                    "Gold extraction",
+                    "Plastic making",
+                    "Oil refining"
+                    ],
+                    "answer": "Electricity and paper production"
+                },
+                {
+                    "question": "Brazil is a major producer of:",
+                    "options": [
+                    "Sugarcane",
+                    "Tea",
+                    "Coffee",
+                    "Rubber"
+                    ],
+                    "answer": "Sugarcane"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Sugarcane is a cash crop\n2. Uttar Pradesh is the largest producer\n3. Sugar beet grows in tropical regions",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Sugar beet – Temperate crop",
+                    "Sugarcane – Cold desert crop",
+                    "Sugarcane – Oilseed crop",
+                    "Sugar beet – Tropical crop"
+                    ],
+                    "answer": "Sugar beet – Temperate crop"
+                },
+                {
+                    "question": "Sugar industry is seasonal because:",
+                    "options": [
+                    "Sugarcane is perennial crop availability varies",
+                    "It depends on rainfall only",
+                    "It is mining-based",
+                    "It is marine-based"
+                    ],
+                    "answer": "Sugarcane is perennial crop availability varies"
+                },
+                {
+                    "question": "India exports sugar mainly when:",
+                    "options": [
+                    "There is surplus production",
+                    "There is shortage",
+                    "There is no production",
+                    "Prices are fixed globally"
+                    ],
+                    "answer": "There is surplus production"
+                },
+                {
+                    "question": "Sugarcane industry is important because:",
+                    "options": [
+                    "It is non-commercial",
+                    "It supports agro-industries",
+                    "It is mining based",
+                    "It is import dependent only"
+                    ],
+                    "answer": "It supports agro-industries"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Industry: Industrial Development",
+        "notes": [
+            {
+                "heading": "Introduction to Industry",
+                "points": [
+                    "Industry refers to economic activities involved in the production of goods, services, and value addition of raw materials",
+                    "It forms the secondary sector of the economy",
+                    "Industrial development is a key driver of economic growth and employment",
+                    "India has a diversified industrial structure ranging from small-scale to large-scale industries",
+                    "Industries are classified based on size, ownership, raw materials, and output"
+                ]
+            },
+            {
+                "heading": "Meaning of Industrial Development",
+                "points": [
+                    "Industrial development refers to the growth, expansion, and modernization of industries",
+                    "It includes establishment of new industries and upgrading existing ones",
+                    "It improves productivity, employment, and export capacity",
+                    "It leads to urbanization and infrastructure development",
+                    "It is essential for economic diversification"
+                ]
+            },
+            {
+                "heading": "Phases of Industrial Development in India",
+                "points": [
+                    "Pre-Independence phase – limited industrial growth under colonial rule",
+                    "Post-Independence phase – focus on public sector and import substitution",
+                    "Liberalization phase (post-1991) – privatization and globalization",
+                    "Current phase – technology-driven and export-oriented industries",
+                    "Shift towards service and high-tech industries in recent decades"
+                ]
+            },
+            {
+                "heading": "Factors Affecting Industrial Development",
+                "points": [
+                    "Availability of raw materials",
+                    "Availability of labor (skilled and unskilled)",
+                    "Capital investment and financial institutions",
+                    "Power and energy supply",
+                    "Transport and communication infrastructure",
+                    "Government policies and incentives",
+                    "Market demand (domestic and international)"
+                ]
+            },
+            {
+                "heading": "Classification of Industries",
+                "points": [
+                    "Agro-based industries (e.g., textiles, sugar)",
+                    "Mineral-based industries (e.g., iron and steel)",
+                    "Forest-based industries (e.g., paper, furniture)",
+                    "Marine-based industries (e.g., fish processing)",
+                    "Chemical-based industries (e.g., fertilizers, petrochemicals)"
+                ]
+            },
+            {
+                "heading": "Types of Industries by Scale",
+                "points": [
+                    "Cottage and small-scale industries",
+                    "Medium-scale industries",
+                    "Large-scale industries",
+                    "Heavy industries (capital-intensive)",
+                    "Light industries (consumer goods oriented)"
+                ]
+            },
+            {
+                "heading": "Industrial Development in India",
+                "points": [
+                    "India has a mixed industrial economy with public and private sectors",
+                    "Major industrial regions include Mumbai-Pune, Gujarat, Chota Nagpur, and Bengaluru-Chennai",
+                    "Industrial growth is uneven across regions",
+                    "Western and southern India are more industrialized than eastern India",
+                    "Government policies like Make in India promote industrial expansion"
+                ]
+            },
+            {
+                "heading": "Industrial Regions of India",
+                "points": [
+                    "Mumbai-Pune industrial belt – textiles, engineering, chemicals",
+                    "Gujarat industrial region – petrochemicals, textiles, ports",
+                    "Chota Nagpur plateau – iron and steel industries",
+                    "Bengaluru-Chennai region – IT and electronics industries",
+                    "Delhi-Merrut region – diversified industries"
+                ]
+            },
+            {
+                "heading": "Importance of Industrial Development",
+                "points": [
+                    "Creates large-scale employment opportunities",
+                    "Promotes economic growth and GDP contribution",
+                    "Encourages urbanization and infrastructure development",
+                    "Reduces dependence on agriculture",
+                    "Boosts exports and foreign exchange earnings"
+                ]
+            },
+            {
+                "heading": "Problems of Industrial Development in India",
+                "points": [
+                    "Uneven regional development",
+                    "Infrastructure bottlenecks",
+                    "Energy shortages in some regions",
+                    "Environmental pollution",
+                    "High dependence on imports for technology",
+                    "Labor issues and skill gaps"
+                ]
+            },
+            {
+                "heading": "Government Initiatives",
+                "points": [
+                    "Make in India initiative",
+                    "Industrial corridors (Delhi-Mumbai, Chennai-Bengaluru)",
+                    "Special Economic Zones (SEZs)",
+                    "Production Linked Incentive (PLI) schemes",
+                    "Startup India and Skill India programs"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Industry belongs to which sector of economy?",
+                    "options": [
+                    "Primary sector",
+                    "Secondary sector",
+                    "Tertiary sector",
+                    "Quaternary sector"
+                    ],
+                    "answer": "Secondary sector"
+                },
+                {
+                    "question": "Industrial development refers to:",
+                    "options": [
+                    "Decline of agriculture",
+                    "Growth and expansion of industries",
+                    "Only mining activities",
+                    "Only services sector"
+                    ],
+                    "answer": "Growth and expansion of industries"
+                },
+                {
+                    "question": "Mumbai-Pune region is famous for:",
+                    "options": [
+                    "Textile and engineering industries",
+                    "Fishing only",
+                    "Agriculture only",
+                    "Mining only"
+                    ],
+                    "answer": "Textile and engineering industries"
+                },
+                {
+                    "question": "Chota Nagpur region is famous for:",
+                    "options": [
+                    "IT industries",
+                    "Iron and steel industries",
+                    "Tea plantations",
+                    "Fishing"
+                    ],
+                    "answer": "Iron and steel industries"
+                },
+                {
+                    "question": "Make in India aims at:",
+                    "options": [
+                    "Reducing agriculture",
+                    "Promoting industrial growth",
+                    "Stopping exports",
+                    "Reducing population"
+                    ],
+                    "answer": "Promoting industrial growth"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Industrial location depends on:",
+                    "options": [
+                    "Climate only",
+                    "Raw materials and transport",
+                    "Only population",
+                    "Only rainfall"
+                    ],
+                    "answer": "Raw materials and transport"
+                },
+                {
+                    "question": "SEZ stands for:",
+                    "options": [
+                    "Special Economic Zone",
+                    "State Export Zone",
+                    "Small Export Zone",
+                    "Standard Economic Zone"
+                    ],
+                    "answer": "Special Economic Zone"
+                },
+                {
+                    "question": "Gujarat industrial region is famous for:",
+                    "options": [
+                    "Petrochemicals and textiles",
+                    "Fishing only",
+                    "Tea cultivation",
+                    "Mining only"
+                    ],
+                    "answer": "Petrochemicals and textiles"
+                },
+                {
+                    "question": "Industrial development leads to:",
+                    "options": [
+                    "Ruralization",
+                    "Urbanization",
+                    "No change",
+                    "Desertification only"
+                    ],
+                    "answer": "Urbanization"
+                },
+                {
+                    "question": "Largest contributor to industrial growth is:",
+                    "options": [
+                    "Agriculture",
+                    "Manufacturing sector",
+                    "Mining only",
+                    "Forests"
+                    ],
+                    "answer": "Manufacturing sector"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Industry is part of secondary sector\n2. Industrial development promotes urbanization\n3. It depends only on agriculture",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Chota Nagpur – Iron and steel",
+                    "Mumbai – Tea plantations",
+                    "Delhi – Fishing industry",
+                    "Assam – Petrochemicals only"
+                    ],
+                    "answer": "Chota Nagpur – Iron and steel"
+                },
+                {
+                    "question": "Industrial imbalance in India means:",
+                    "options": [
+                    "Equal development everywhere",
+                    "Uneven regional growth",
+                    "No industries",
+                    "Only agriculture growth"
+                    ],
+                    "answer": "Uneven regional growth"
+                },
+                {
+                    "question": "Make in India focuses on:",
+                    "options": [
+                    "Import substitution and exports",
+                    "Only agriculture",
+                    "Only mining",
+                    "Only services"
+                    ],
+                    "answer": "Import substitution and exports"
+                },
+                {
+                    "question": "Industrial corridors are developed for:",
+                    "options": [
+                    "Agriculture growth",
+                    "Industrial expansion",
+                    "Forest conservation",
+                    "Fishing development"
+                    ],
+                    "answer": "Industrial expansion"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Iron and Steel Industry",
+        "notes": [
+            {
+                "heading": "Introduction to Iron and Steel Industry",
+                "points": [
+                    "Iron and steel industry is the backbone of modern industrial development",
+                    "It is a basic heavy industry that provides raw material for many other industries",
+                    "It is essential for infrastructure, construction, transport, and machinery",
+                    "India is one of the leading producers of steel in the world",
+                    "It is a mineral-based industry dependent on iron ore, coal, and limestone"
+                ]
+            },
+            {
+                "heading": "Development of Iron Manufacture",
+                "points": [
+                    "Traditional iron making in India existed since ancient times (Wootz steel)",
+                    "Modern iron and steel industry began during British rule",
+                    "First modern steel plant was set up at Kulti (West Bengal) in 1874",
+                    "Tata Iron and Steel Company (TISCO) established in 1907 at Jamshedpur",
+                    "Post-independence period saw rapid expansion under public sector units like SAIL"
+                ]
+            },
+            {
+                "heading": "Phases of Development",
+                "points": [
+                    "Pre-independence: Limited private sector development",
+                    "Post-independence: Public sector-led growth (Five Year Plans)",
+                    "Liberalization phase (post-1991): Entry of private and foreign companies",
+                    "Modern phase: Technological upgrades and global integration",
+                    "Shift towards energy-efficient and eco-friendly steel production"
+                ]
+            },
+            {
+                "heading": "Location Factors of Iron and Steel Industry",
+                "points": [
+                    "Availability of raw materials (iron ore, coal, limestone)",
+                    "Proximity to coalfields for energy supply",
+                    "Water supply for cooling and processing",
+                    "Transport facilities (railways, ports)",
+                    "Market demand for steel products",
+                    "Availability of skilled labour and capital"
+                ]
+            },
+            {
+                "heading": "Raw Material Requirements",
+                "points": [
+                    "Iron ore – main raw material",
+                    "Coking coal – for fuel and smelting",
+                    "Limestone – flux material",
+                    "Manganese – used for steel quality improvement",
+                    "Water and electricity – essential for production processes"
+                ]
+            },
+            {
+                "heading": "Distribution of Iron and Steel Industry in India",
+                "points": [
+                    "Concentrated mainly in mineral-rich regions",
+                    "Jharkhand, Odisha, Chhattisgarh – major iron and steel belt",
+                    "West Bengal – early industrial base (Kolkata region)",
+                    "Maharashtra – Mumbai and nearby industrial areas",
+                    "Karnataka and Andhra Pradesh – emerging steel centers"
+                ]
+            },
+            {
+                "heading": "Major Iron and Steel Plants in India",
+                "points": [
+                    "Tata Iron and Steel Company (TISCO) – Jamshedpur",
+                    "Bokaro Steel Plant – Jharkhand",
+                    "Rourkela Steel Plant – Odisha",
+                    "Bhilai Steel Plant – Chhattisgarh",
+                    "Visakhapatnam Steel Plant – Andhra Pradesh",
+                    "Durgapur Steel Plant – West Bengal"
+                ]
+            },
+            {
+                "heading": "Public Sector Steel Plants",
+                "points": [
+                    "Managed by Steel Authority of India Limited (SAIL)",
+                    "Bhilai, Durgapur, Rourkela, Bokaro, and Burnpur plants",
+                    "Set up during the planned economic development phase",
+                    "Focus on self-sufficiency in steel production",
+                    "Strategically located near raw material sources"
+                ]
+            },
+            {
+                "heading": "Private Sector Steel Plants",
+                "points": [
+                    "Tata Steel – Jamshedpur (oldest and most efficient)",
+                    "JSW Steel – Karnataka and Maharashtra",
+                    "Essar Steel – Gujarat",
+                    "ArcelorMittal Nippon Steel India",
+                    "Private sector contributes significantly to production growth"
+                ]
+            },
+            {
+                "heading": "Industrial Belt of Iron and Steel",
+                "points": [
+                    "Chota Nagpur Plateau is the heart of steel industry",
+                    "Rich in iron ore, coal, and manganese deposits",
+                    "Proximity to Damodar valley coalfields",
+                    "Good railway connectivity and water supply",
+                    "Forms the most important steel production cluster"
+                ]
+            },
+            {
+                "heading": "Problems of Iron and Steel Industry",
+                "points": [
+                    "High cost of production",
+                    "Dependence on imported coking coal",
+                    "Energy shortages in some regions",
+                    "Environmental pollution",
+                    "Old technology in some public sector units",
+                    "Global competition from China and other countries"
+                ]
+            },
+            {
+                "heading": "Importance of Iron and Steel Industry",
+                "points": [
+                    "Foundation of industrial development",
+                    "Supports construction, automobile, and machinery industries",
+                    "Major contributor to GDP and employment",
+                    "Promotes infrastructure development",
+                    "Strategic importance for national security"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Iron and steel industry is called:",
+                    "options": [
+                    "Consumer industry",
+                    "Basic industry",
+                    "Service industry",
+                    "Agricultural industry"
+                    ],
+                    "answer": "Basic industry"
+                },
+                {
+                    "question": "First modern steel plant in India was at:",
+                    "options": [
+                    "Jamshedpur",
+                    "Kolkata",
+                    "Mumbai",
+                    "Delhi"
+                    ],
+                    "answer": "Jamshedpur"
+                },
+                {
+                    "question": "Largest iron and steel plant in public sector is:",
+                    "options": [
+                    "TISCO",
+                    "SAIL plants",
+                    "Reliance Steel",
+                    "Adani Steel"
+                    ],
+                    "answer": "SAIL plants"
+                },
+                {
+                    "question": "Chota Nagpur plateau is famous for:",
+                    "options": [
+                    "Tea production",
+                    "Iron and steel industry",
+                    "Fishing industry",
+                    "Textile industry"
+                    ],
+                    "answer": "Iron and steel industry"
+                },
+                {
+                    "question": "Bhilai Steel Plant is located in:",
+                    "options": [
+                    "Odisha",
+                    "Chhattisgarh",
+                    "Punjab",
+                    "Kerala"
+                    ],
+                    "answer": "Chhattisgarh"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Main raw material for steel industry is:",
+                    "options": [
+                    "Cotton",
+                    "Iron ore",
+                    "Sugarcane",
+                    "Jute"
+                    ],
+                    "answer": "Iron ore"
+                },
+                {
+                    "question": "SAIL stands for:",
+                    "options": [
+                    "Steel Authority of India Limited",
+                    "South Asian Iron Ltd",
+                    "Steel Association of India Logistics",
+                    "State Alloy Iron Ltd"
+                    ],
+                    "answer": "Steel Authority of India Limited"
+                },
+                {
+                    "question": "Coking coal is used in:",
+                    "options": [
+                    "Steel production",
+                    "Food industry",
+                    "Textile industry",
+                    "Fishing industry"
+                    ],
+                    "answer": "Steel production"
+                },
+                {
+                    "question": "TISCO is located in:",
+                    "options": [
+                    "Kolkata",
+                    "Jamshedpur",
+                    "Mumbai",
+                    "Chennai"
+                    ],
+                    "answer": "Jamshedpur"
+                },
+                {
+                    "question": "Steel industry is highly dependent on:",
+                    "options": [
+                    "Agriculture",
+                    "Raw materials and energy",
+                    "Tourism",
+                    "Fishing"
+                    ],
+                    "answer": "Raw materials and energy"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Iron and steel is a basic industry\n2. Chota Nagpur region is rich in minerals\n3. It depends only on agriculture",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Bhilai – Chhattisgarh",
+                    "Rourkela – Kerala",
+                    "Durgapur – Rajasthan",
+                    "Jamshedpur – Punjab"
+                    ],
+                    "answer": "Bhilai – Chhattisgarh"
+                },
+                {
+                    "question": "Steel industry is located near raw material sources because:",
+                    "options": [
+                    "To increase transport cost",
+                    "To reduce transport cost",
+                    "To avoid production",
+                    "To increase imports"
+                    ],
+                    "answer": "To reduce transport cost"
+                },
+                {
+                    "question": "Private sector steel industry example is:",
+                    "options": [
+                    "TISCO",
+                    "SAIL",
+                    "Bhilai Steel Plant",
+                    "Durgapur Steel Plant"
+                    ],
+                    "answer": "TISCO"
+                },
+                {
+                    "question": "Main problem of Indian steel industry is:",
+                    "options": [
+                    "Excess raw material",
+                    "High production cost",
+                    "Too much water",
+                    "No demand"
+                    ],
+                    "answer": "High production cost"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Global Steel Production & International Trade",
+        "notes": [
+            {
+                "heading": "Introduction to Global Steel Industry",
+                "points": [
+                    "Steel is one of the most important industrial materials in the world",
+                    "It is essential for construction, automobiles, machinery, infrastructure, and defense",
+                    "Global steel production reflects a country's level of industrial development",
+                    "Steel industry is highly energy and capital intensive",
+                    "China dominates global steel production"
+                ]
+            },
+            {
+                "heading": "Global Steel Production Overview",
+                "points": [
+                    "World steel production is concentrated in a few major industrial countries",
+                    "China is the largest producer of crude steel globally",
+                    "India is the second or third largest producer depending on year",
+                    "Japan, USA, Russia, and South Korea are major producers",
+                    "Production is linked with urbanization and industrial demand"
+                ]
+            },
+            {
+                "heading": "Major Steel Producing Countries",
+                "points": [
+                    "China – largest producer (more than half of global output)",
+                    "India – rapidly growing producer",
+                    "Japan – advanced high-quality steel production",
+                    "USA – technologically advanced steel industry",
+                    "Russia – large producer with strong resource base",
+                    "South Korea – export-oriented steel industry"
+                ]
+            },
+            {
+                "heading": "Factors Affecting Global Steel Production",
+                "points": [
+                    "Availability of iron ore and coal",
+                    "Level of industrialization",
+                    "Technological advancement",
+                    "Energy availability and cost",
+                    "Government industrial policies",
+                    "Global demand from construction and automobile sectors"
+                ]
+            },
+            {
+                "heading": "China’s Dominance in Steel Production",
+                "points": [
+                    "China produces more than 50% of global steel",
+                    "Driven by massive infrastructure development",
+                    "Strong government support and industrial planning",
+                    "Large domestic demand from construction sector",
+                    "Highly integrated steel industry clusters"
+                ]
+            },
+            {
+                "heading": "India’s Position in Global Steel Production",
+                "points": [
+                    "India is among the top 2–3 steel producers globally",
+                    "Rapid growth due to infrastructure development",
+                    "Major producers include SAIL, Tata Steel, JSW Steel",
+                    "Strong domestic demand supports production growth",
+                    "India aims to increase capacity under National Steel Policy"
+                ]
+            },
+            {
+                "heading": "International Trade in Steel",
+                "points": [
+                    "Steel is widely traded across global markets",
+                    "Trade depends on surplus production and industrial demand",
+                    "Developed countries export high-quality specialized steel",
+                    "Developing countries import steel for infrastructure growth",
+                    "Trade is influenced by tariffs and trade policies"
+                ]
+            },
+            {
+                "heading": "Major Steel Exporters",
+                "points": [
+                    "China – largest exporter (though also high domestic consumption)",
+                    "Japan – exports high-quality steel products",
+                    "South Korea – major exporter of finished steel",
+                    "Russia – exports steel to Europe and Asia",
+                    "European Union countries – intra-regional trade and exports"
+                ]
+            },
+            {
+                "heading": "Major Steel Importers",
+                "points": [
+                    "USA – imports for construction and automobile sectors",
+                    "India – imports specialized steel products",
+                    "European countries – import from Asia and Russia",
+                    "Middle East countries – infrastructure-driven demand",
+                    "Southeast Asia – rapidly growing import market"
+                ]
+            },
+            {
+                "heading": "Global Steel Trade Dynamics",
+                "points": [
+                    "Trade is influenced by global economic cycles",
+                    "Infrastructure development increases steel demand",
+                    "Protectionist policies (tariffs, quotas) affect trade flow",
+                    "Dumping of cheap steel is a major concern",
+                    "COVID-19 impacted global steel supply chains"
+                ]
+            },
+            {
+                "heading": "India in Global Steel Trade",
+                "points": [
+                    "India is both importer and exporter of steel",
+                    "Exports include semi-finished and finished steel products",
+                    "Imports mainly specialized high-grade steel",
+                    "Major export destinations: USA, EU, UAE, Nepal",
+                    "Trade policies support domestic industry protection"
+                ]
+            },
+            {
+                "heading": "Challenges in Global Steel Industry",
+                "points": [
+                    "Overproduction in countries like China",
+                    "Price volatility in global markets",
+                    "Environmental concerns due to carbon emissions",
+                    "Dependence on fossil fuels",
+                    "Trade disputes and tariffs among countries"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Largest producer of steel in the world is:",
+                    "options": [
+                    "India",
+                    "China",
+                    "USA",
+                    "Japan"
+                    ],
+                    "answer": "China"
+                },
+                {
+                    "question": "Steel industry is mainly dependent on:",
+                    "options": [
+                    "Water and sunlight",
+                    "Iron ore and coal",
+                    "Cotton and jute",
+                    "Fish and timber"
+                    ],
+                    "answer": "Iron ore and coal"
+                },
+                {
+                    "question": "India is among the top ____ steel producers in the world:",
+                    "options": [
+                    "1",
+                    "2–3",
+                    "10",
+                    "20"
+                    ],
+                    "answer": "2–3"
+                },
+                {
+                    "question": "Steel is mainly used in:",
+                    "options": [
+                    "Food production",
+                    "Construction and machinery",
+                    "Fishing only",
+                    "Textile weaving"
+                    ],
+                    "answer": "Construction and machinery"
+                },
+                {
+                    "question": "USA imports steel mainly for:",
+                    "options": [
+                    "Agriculture",
+                    "Construction and automobile industry",
+                    "Fishing industry",
+                    "Mining only"
+                    ],
+                    "answer": "Construction and automobile industry"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "China’s steel dominance is due to:",
+                    "options": [
+                    "Small population",
+                    "Large infrastructure demand",
+                    "Lack of resources",
+                    "Cold climate"
+                    ],
+                    "answer": "Large infrastructure demand"
+                },
+                {
+                    "question": "Steel trade is affected by:",
+                    "options": [
+                    "Rainfall only",
+                    "Tariffs and policies",
+                    "Only climate",
+                    "Only forests"
+                    ],
+                    "answer": "Tariffs and policies"
+                },
+                {
+                    "question": "Japan is known for:",
+                    "options": [
+                    "Low-quality steel",
+                    "High-quality steel production",
+                    "No steel production",
+                    "Fishing industry"
+                    ],
+                    "answer": "High-quality steel production"
+                },
+                {
+                    "question": "India mainly exports:",
+                    "options": [
+                    "Raw cotton",
+                    "Semi-finished steel",
+                    "Crude oil only",
+                    "Tea only"
+                    ],
+                    "answer": "Semi-finished steel"
+                },
+                {
+                    "question": "Global steel industry is:",
+                    "options": [
+                    "Non-polluting",
+                    "Highly polluting",
+                    "Only agricultural",
+                    "Only service-based"
+                    ],
+                    "answer": "Highly polluting"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. China is the largest steel producer\n2. India is a major steel importer and exporter\n3. Steel trade is unaffected by policies",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Japan – High-quality steel",
+                    "India – No steel production",
+                    "USA – Only exporter of steel",
+                    "China – No steel exports"
+                    ],
+                    "answer": "Japan – High-quality steel"
+                },
+                {
+                    "question": "Steel industry trade is mainly influenced by:",
+                    "options": [
+                    "Climate change only",
+                    "Industrial demand and policies",
+                    "Agriculture output",
+                    "Forest density"
+                    ],
+                    "answer": "Industrial demand and policies"
+                },
+                {
+                    "question": "Dumping in steel trade refers to:",
+                    "options": [
+                    "Selling at very high price",
+                    "Selling at artificially low price",
+                    "No trade",
+                    "Import ban"
+                    ],
+                    "answer": "Selling at artificially low price"
+                },
+                {
+                    "question": "India’s steel strategy focuses on:",
+                    "options": [
+                    "Import dependency increase",
+                    "Self-sufficiency and export growth",
+                    "Stopping production",
+                    "Only agriculture development"
+                    ],
+                    "answer": "Self-sufficiency and export growth"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Indian Geography – Textile Industry (Cotton Textile Industry)",
+        "notes": [
+            {
+                "heading": "Introduction to Textile Industry",
+                "points": [
+                    "Textile industry is one of the oldest and largest industries in India",
+                    "It is a major employment-generating sector after agriculture",
+                    "Cotton textile industry is the backbone of India’s textile sector",
+                    "It contributes significantly to industrial output and exports",
+                    "India is one of the largest producers and exporters of cotton textiles"
+                ]
+            },
+            {
+                "heading": "Cotton Textile Industry – Overview",
+                "points": [
+                    "Cotton textile industry includes spinning, weaving, dyeing, and garment production",
+                    "It uses cotton fibre as raw material",
+                    "It is both a large-scale mill industry and a decentralized handloom industry",
+                    "India has a strong traditional cotton textile base",
+                    "Modern cotton textile industry developed during British rule"
+                ]
+            },
+            {
+                "heading": "Location Factors of Cotton Textile Industry",
+                "points": [
+                    "Availability of raw cotton (proximity to cotton-growing regions)",
+                    "Humid climate suitable for spinning and weaving",
+                    "Cheap and skilled labor availability",
+                    "Power supply (electricity and steam)",
+                    "Transport facilities (railways and ports)",
+                    "Market demand in urban centers"
+                ]
+            },
+            {
+                "heading": "Traditional Cotton Textile Centers",
+                "points": [
+                    "Mumbai – earliest modern cotton textile hub",
+                    "Ahmedabad – known as 'Manchester of India'",
+                    "Sholapur – important textile center in Maharashtra",
+                    "Nagpur – cotton processing hub",
+                    "Kolkata – early industrial textile center"
+                ]
+            },
+            {
+                "heading": "Recent Trends in Localization",
+                "points": [
+                    "Shift from western India to southern and central India",
+                    "Development of cotton textile clusters in Tamil Nadu",
+                    "Growth of decentralized powerloom sector",
+                    "Rise of synthetic and blended textile industries",
+                    "Export-oriented garment manufacturing hubs",
+                    "Proximity to ports for export markets influencing location"
+                ]
+            },
+            {
+                "heading": "Factors Behind Recent Shifts",
+                "points": [
+                    "Rising labor costs in Mumbai and Ahmedabad",
+                    "Availability of cheap power in southern states",
+                    "Government incentives and industrial policies",
+                    "Growth of export markets in Asia and Europe",
+                    "Development of textile parks and SEZs"
+                ]
+            },
+            {
+                "heading": "Distribution of Cotton Textile Industry in India",
+                "points": [
+                    "Maharashtra – Mumbai, Solapur (major producer)",
+                    "Gujarat – Ahmedabad, Surat (textile hub)",
+                    "Tamil Nadu – Coimbatore, Erode, Tiruppur",
+                    "Uttar Pradesh – Kanpur, Varanasi (handloom and powerloom)",
+                    "West Bengal – Kolkata and surrounding areas",
+                    "Punjab and Haryana – emerging textile centers"
+                ]
+            },
+            {
+                "heading": "Major Cotton Textile Production Centers",
+                "points": [
+                    "Mumbai – oldest cotton mill industry center",
+                    "Ahmedabad – strong spinning and weaving base",
+                    "Surat – synthetic and textile processing hub",
+                    "Coimbatore – 'Manchester of South India'",
+                    "Tiruppur – knitwear export hub",
+                    "Kanpur – textile and leather-based industries"
+                ]
+            },
+            {
+                "heading": "Types of Cotton Textile Production",
+                "points": [
+                    "Mill sector – large-scale mechanized production",
+                    "Powerloom sector – decentralized mechanized weaving",
+                    "Handloom sector – traditional cottage industry",
+                    "Composite mills – spinning and weaving together",
+                    "Garment and export-oriented units"
+                ]
+            },
+            {
+                "heading": "Importance of Cotton Textile Industry",
+                "points": [
+                    "Largest employment provider in India after agriculture",
+                    "Major contributor to export earnings",
+                    "Supports allied industries like dyes, chemicals, and machinery",
+                    "Promotes rural and urban industrial development",
+                    "Important for women employment in decentralized sector"
+                ]
+            },
+            {
+                "heading": "Problems of Cotton Textile Industry",
+                "points": [
+                    "Obsolete machinery in some mills",
+                    "High production cost in older centers",
+                    "Power shortage in some regions",
+                    "Competition from synthetic textiles",
+                    "Fragmented structure of industry"
+                ]
+            },
+            {
+                "heading": "Government Initiatives",
+                "points": [
+                    "Technology Upgradation Fund Scheme (TUFS)",
+                    "Textile Parks development",
+                    "Make in India for textile exports",
+                    "PLI scheme for textiles and garments",
+                    "Promotion of handloom and khadi industries"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Cotton textile industry is mainly based on:",
+                    "options": [
+                    "Iron ore",
+                    "Cotton fibre",
+                    "Coal",
+                    "Rubber"
+                    ],
+                    "answer": "Cotton fibre"
+                },
+                {
+                    "question": "Ahmedabad is known as:",
+                    "options": [
+                    "Manchester of India",
+                    "Silicon Valley",
+                    "Coal city",
+                    "Tea capital"
+                    ],
+                    "answer": "Manchester of India"
+                },
+                {
+                    "question": "Largest cotton textile center in South India is:",
+                    "options": [
+                    "Coimbatore",
+                    "Chennai",
+                    "Madurai",
+                    "Salem"
+                    ],
+                    "answer": "Coimbatore"
+                },
+                {
+                    "question": "Cotton textile industry belongs to:",
+                    "options": [
+                    "Primary sector",
+                    "Secondary sector",
+                    "Tertiary sector",
+                    "Quaternary sector"
+                    ],
+                    "answer": "Secondary sector"
+                },
+                {
+                    "question": "Tiruppur is famous for:",
+                    "options": [
+                    "Steel industry",
+                    "Knitwear exports",
+                    "Coal mining",
+                    "Fishing industry"
+                    ],
+                    "answer": "Knitwear exports"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Mumbai was an early cotton textile center because of:",
+                    "options": [
+                    "Cold climate",
+                    "Port location and cotton supply",
+                    "Forest resources",
+                    "Oil reserves"
+                    ],
+                    "answer": "Port location and cotton supply"
+                },
+                {
+                    "question": "Powerloom sector is mainly:",
+                    "options": [
+                    "Centralized",
+                    "Decentralized",
+                    "Mining based",
+                    "Forest based"
+                    ],
+                    "answer": "Decentralized"
+                },
+                {
+                    "question": "TUFS stands for:",
+                    "options": [
+                    "Textile Upgradation Fund Scheme",
+                    "Trade Union Fabric Scheme",
+                    "Textile Urban Farming System",
+                    "Technology Utility Fund Scheme"
+                    ],
+                    "answer": "Textile Upgradation Fund Scheme"
+                },
+                {
+                    "question": "Surat is famous for:",
+                    "options": [
+                    "Coal mining",
+                    "Synthetic textiles",
+                    "Fishing",
+                    "Tea production"
+                    ],
+                    "answer": "Synthetic textiles"
+                },
+                {
+                    "question": "Handloom sector is mainly:",
+                    "options": [
+                    "Highly mechanized",
+                    "Cottage industry",
+                    "Mining based",
+                    "Capital intensive only"
+                    ],
+                    "answer": "Cottage industry"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Cotton textile industry is labour intensive\n2. Ahmedabad is a major textile center\n3. It depends only on iron ore",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Coimbatore – Textile industry",
+                    "Jamshedpur – Cotton textiles",
+                    "Assam – Steel industry",
+                    "Punjab – Fishing industry"
+                    ],
+                    "answer": "Coimbatore – Textile industry"
+                },
+                {
+                    "question": "Recent shift in textile industry is due to:",
+                    "options": [
+                    "Cold climate change",
+                    "Lower labour and power costs in South India",
+                    "No raw material availability",
+                    "Mining expansion"
+                    ],
+                    "answer": "Lower labour and power costs in South India"
+                },
+                {
+                    "question": "Export-oriented textile hubs in India include:",
+                    "options": [
+                    "Tiruppur",
+                    "Jamshedpur",
+                    "Bhilai",
+                    "Durgapur"
+                    ],
+                    "answer": "Tiruppur"
+                },
+                {
+                    "question": "Main problem of cotton textile industry is:",
+                    "options": [
+                    "Excess cotton production",
+                    "Obsolete machinery",
+                    "Too much rainfall",
+                    "No labour"
+                    ],
+                    "answer": "Obsolete machinery"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Woollen & Silk Textile Industry",
+        "notes": [
+            {
+                "heading": "Introduction to Woollen Textile Industry",
+                "points": [
+                    "Woollen textile industry deals with production of wool-based fabrics and garments",
+                    "It is an important cold-climate textile industry",
+                    "It includes activities like shearing, scouring, spinning, weaving, and finishing",
+                    "India has limited wool production but significant processing industry",
+                    "It is both a mill-based and small-scale industry"
+                ]
+            },
+            {
+                "heading": "Location Factors of Woollen Textile Industry",
+                "points": [
+                    "Cold climate regions where woollen clothing demand is high",
+                    "Availability of raw wool from sheep rearing areas",
+                    "Proximity to hill regions and northern states",
+                    "Availability of skilled labour in textile processing",
+                    "Transport connectivity for distribution"
+                ]
+            },
+            {
+                "heading": "Major Woollen Textile Centers in India",
+                "points": [
+                    "Punjab – Ludhiana (largest woollen textile hub)",
+                    "Himachal Pradesh – Kullu and surrounding areas",
+                    "Jammu & Kashmir – Srinagar (handloom shawls and carpets)",
+                    "Haryana – Panipat (blankets and carpets)",
+                    "Uttar Pradesh – Kanpur (woollen mills)",
+                    "Rajasthan – Bikaner and Jaipur (wool processing)"
+                ]
+            },
+            {
+                "heading": "Importance of Woollen Industry",
+                "points": [
+                    "Provides warm clothing for cold regions",
+                    "Supports rural and cottage industries",
+                    "Important for handicrafts like shawls and carpets",
+                    "Employment generation in northern India",
+                    "Export of woollen garments and carpets"
+                ]
+            },
+            {
+                "heading": "Introduction to Silk Textile Industry",
+                "points": [
+                    "Silk textile industry is based on production and processing of silk fibres",
+                    "It includes sericulture, reeling, spinning, weaving, and finishing",
+                    "India is one of the largest producers of silk globally",
+                    "Silk is a luxury textile with high economic value",
+                    "Industry is both rural-based (sericulture) and urban-based (weaving units)"
+                ]
+            },
+            {
+                "heading": "Raw Silk Manufacture (Sericulture Process)",
+                "points": [
+                    "Sericulture involves rearing silkworms for silk production",
+                    "Silkworms are fed on mulberry leaves (mainly for mulberry silk)",
+                    "Cocoons are harvested after maturation of silkworms",
+                    "Silk filaments are extracted through a process called reeling",
+                    "Raw silk is obtained after cleaning and twisting of filaments"
+                ]
+            },
+            {
+                "heading": "Types of Silk in India",
+                "points": [
+                    "Mulberry silk – most widely produced and commercially important",
+                    "Tasar (Tussar) silk – produced in forest regions",
+                    "Eri silk – mainly in Assam and Northeast India",
+                    "Muga silk – exclusive golden silk of Assam",
+                    "India produces all four major types of silk"
+                ]
+            },
+            {
+                "heading": "Silk Textile Manufacturing Process",
+                "points": [
+                    "Reeling – extraction of silk filament from cocoons",
+                    "Throwing – twisting silk threads into yarn",
+                    "Weaving – converting yarn into fabric",
+                    "Dyeing and finishing – adding colors and texture",
+                    "Garment production – final silk products like sarees and garments"
+                ]
+            },
+            {
+                "heading": "Major Silk Textile Producing Regions",
+                "points": [
+                    "Karnataka – largest silk producing state (Mysuru region)",
+                    "West Bengal – silk weaving and handloom industry",
+                    "Assam – muga and eri silk production",
+                    "Tamil Nadu – silk weaving centers like Kanchipuram",
+                    "Jammu & Kashmir – silk shawls and carpets",
+                    "Uttar Pradesh – Varanasi silk sarees"
+                ]
+            },
+            {
+                "heading": "Silk Industry Clusters",
+                "points": [
+                    "Karnataka – sericulture and raw silk production hub",
+                    "Kanchipuram (Tamil Nadu) – famous for silk sarees",
+                    "Varanasi (UP) – handwoven silk textiles",
+                    "Murshidabad (West Bengal) – traditional silk weaving",
+                    "Assam – unique indigenous silk production"
+                ]
+            },
+            {
+                "heading": "Importance of Silk Industry",
+                "points": [
+                    "High employment generation in rural areas",
+                    "Strong export value in luxury textile markets",
+                    "Supports handicrafts and handloom industries",
+                    "Cultural importance in Indian clothing traditions",
+                    "Women employment in weaving and sericulture"
+                ]
+            },
+            {
+                "heading": "Problems of Silk Industry",
+                "points": [
+                    "Disease in silkworms affecting production",
+                    "Low productivity in traditional sericulture",
+                    "High labor intensity",
+                    "Competition from synthetic fabrics",
+                    "Price fluctuations in international markets"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Woollen textile industry is mainly suitable for:",
+                    "options": [
+                    "Hot climate regions",
+                    "Cold climate regions",
+                    "Desert regions",
+                    "Tropical rainforests"
+                    ],
+                    "answer": "Cold climate regions"
+                },
+                {
+                    "question": "Largest woollen textile center in India is:",
+                    "options": [
+                    "Ludhiana",
+                    "Surat",
+                    "Chennai",
+                    "Kolkata"
+                    ],
+                    "answer": "Ludhiana"
+                },
+                {
+                    "question": "Silk is obtained from:",
+                    "options": [
+                    "Sheep",
+                    "Silkworm cocoons",
+                    "Cotton plant",
+                    "Jute plant"
+                    ],
+                    "answer": "Silkworm cocoons"
+                },
+                {
+                    "question": "Largest silk producing state in India is:",
+                    "options": [
+                    "Punjab",
+                    "Karnataka",
+                    "Bihar",
+                    "Kerala"
+                    ],
+                    "answer": "Karnataka"
+                },
+                {
+                    "question": "Kanchipuram is famous for:",
+                    "options": [
+                    "Woollen carpets",
+                    "Silk sarees",
+                    "Steel industry",
+                    "Coal mining"
+                    ],
+                    "answer": "Silk sarees"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Sericulture refers to:",
+                    "options": [
+                    "Fish farming",
+                    "Silkworm rearing",
+                    "Cotton farming",
+                    "Mining activity"
+                    ],
+                    "answer": "Silkworm rearing"
+                },
+                {
+                    "question": "Panipat is famous for:",
+                    "options": [
+                    "Woollen blankets and carpets",
+                    "Silk production",
+                    "Tea plantations",
+                    "Fishing industry"
+                    ],
+                    "answer": "Woollen blankets and carpets"
+                },
+                {
+                    "question": "Mulberry silk is mainly produced from:",
+                    "options": [
+                    "Oak leaves",
+                    "Mulberry leaves",
+                    "Grass",
+                    "Wheat leaves"
+                    ],
+                    "answer": "Mulberry leaves"
+                },
+                {
+                    "question": "Reeling in silk industry means:",
+                    "options": [
+                    "Weaving fabric",
+                    "Extracting silk thread from cocoons",
+                    "Dyeing fabric",
+                    "Spinning cotton"
+                    ],
+                    "answer": "Extracting silk thread from cocoons"
+                },
+                {
+                    "question": "Muga silk is famous in:",
+                    "options": [
+                    "Punjab",
+                    "Assam",
+                    "Gujarat",
+                    "Rajasthan"
+                    ],
+                    "answer": "Assam"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Woollen industry is suitable for cold regions\n2. Silk is a luxury textile\n3. Sericulture is related to silkworm rearing",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "All"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Ludhiana – Woollen industry",
+                    "Surat – Wool production",
+                    "Assam – Coal industry",
+                    "Kolkata – Rubber industry"
+                    ],
+                    "answer": "Ludhiana – Woollen industry"
+                },
+                {
+                    "question": "Silk weaving centers include:",
+                    "options": [
+                    "Varanasi",
+                    "Jamshedpur",
+                    "Bhilai",
+                    "Durgapur"
+                    ],
+                    "answer": "Varanasi"
+                },
+                {
+                    "question": "Main problem of silk industry is:",
+                    "options": [
+                    "Overproduction of silk",
+                    "Silkworm diseases",
+                    "Excess coal",
+                    "No demand"
+                    ],
+                    "answer": "Silkworm diseases"
+                },
+                {
+                    "question": "Woollen industry in India is mainly located in:",
+                    "options": [
+                    "Southern coastal regions",
+                    "Northern and Himalayan regions",
+                    "Desert only",
+                    "Island regions"
+                    ],
+                    "answer": "Northern and Himalayan regions"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Synthetic Silk (Artificial Silk) & Man-Made Fibres Industry",
+        "notes": [
+            {
+                "heading": "Introduction to Synthetic (Artificial) Silk",
+                "points": [
+                    "Synthetic silk refers to man-made fibres that imitate natural silk in appearance and texture",
+                    "It is also called artificial silk or rayon-based silk",
+                    "It is produced using chemical processes rather than natural silkworms",
+                    "It is cheaper, more durable, and widely used in modern textile industry",
+                    "It forms an important part of the man-made fibre industry"
+                ]
+            },
+            {
+                "heading": "Types of Man-Made Fibres",
+                "points": [
+                    "Rayon – first artificial fibre made from cellulose",
+                    "Nylon – strong and elastic synthetic fibre",
+                    "Polyester – widely used in clothing and industrial fabrics",
+                    "Acrylic – wool-like synthetic fibre",
+                    "Spandex (Lycra) – highly elastic fibre used in sportswear"
+                ]
+            },
+            {
+                "heading": "Production of Synthetic Silk",
+                "points": [
+                    "Produced through chemical treatment of cellulose or petrochemicals",
+                    "Raw materials include wood pulp, coal, petroleum products",
+                    "Fibres are spun into threads and then woven into fabric",
+                    "Can be blended with natural fibres like cotton and wool",
+                    "Used in sarees, dresses, curtains, upholstery, and industrial fabrics"
+                ]
+            },
+            {
+                "heading": "Location Factors of Synthetic Fibre Industry",
+                "points": [
+                    "Availability of petrochemical raw materials",
+                    "Proximity to refineries and chemical plants",
+                    "Cheap and reliable electricity supply",
+                    "Developed transport and communication network",
+                    "Availability of skilled industrial workforce",
+                    "Proximity to large urban markets"
+                ]
+            },
+            {
+                "heading": "Major Centers of Synthetic Fibre Industry in India",
+                "points": [
+                    "Maharashtra – Mumbai, Pune (major textile and petrochemical hub)",
+                    "Gujarat – Surat, Vadodara (chemical and textile industries)",
+                    "Tamil Nadu – Chennai, Coimbatore (textile processing centers)",
+                    "Uttar Pradesh – Kanpur, Ghaziabad",
+                    "West Bengal – Kolkata region",
+                    "Delhi-NCR – garment manufacturing and fabric production"
+                ]
+            },
+            {
+                "heading": "Distribution of Man-Made Fibre Industry",
+                "points": [
+                    "Highly concentrated in western India (Gujarat and Maharashtra)",
+                    "Strong presence in southern India due to textile clusters",
+                    "Northern India has growing synthetic textile units",
+                    "Export-oriented garment hubs in Tiruppur and Surat",
+                    "Integrated with petrochemical industry development"
+                ]
+            },
+            {
+                "heading": "Growth of Synthetic Textile Industry",
+                "points": [
+                    "Rapid growth after independence due to industrialization",
+                    "Expansion of petrochemical sector supported fibre production",
+                    "Increasing demand for affordable and durable clothing",
+                    "Export growth in garments and fashion textiles",
+                    "Technological advancement in fiber manufacturing"
+                ]
+            },
+            {
+                "heading": "Advantages of Synthetic Fibres",
+                "points": [
+                    "Cheaper than natural fibres",
+                    "Highly durable and long-lasting",
+                    "Resistant to wrinkles and shrinking",
+                    "Easy maintenance and quick drying",
+                    "Wide range of applications in clothing and industry"
+                ]
+            },
+            {
+                "heading": "Problems of Synthetic Fibre Industry",
+                "points": [
+                    "Environmental pollution due to chemical processes",
+                    "Dependence on petroleum-based raw materials",
+                    "Non-biodegradable nature of many fibres",
+                    "Competition with natural textile industries",
+                    "Health concerns in some synthetic fabrics"
+                ]
+            },
+            {
+                "heading": "Importance of Synthetic Textile Industry",
+                "points": [
+                    "Major contributor to textile exports",
+                    "Supports fashion and garment industry",
+                    "Provides employment in urban and semi-urban areas",
+                    "Reduces pressure on natural fibres like cotton and silk",
+                    "Important for industrial diversification"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Synthetic silk is also called:",
+                    "options": [
+                    "Natural silk",
+                    "Artificial silk",
+                    "Wool",
+                    "Jute"
+                    ],
+                    "answer": "Artificial silk"
+                },
+                {
+                    "question": "Example of synthetic fibre is:",
+                    "options": [
+                    "Cotton",
+                    "Silk",
+                    "Nylon",
+                    "Jute"
+                    ],
+                    "answer": "Nylon"
+                },
+                {
+                    "question": "Largest synthetic textile hub in India is:",
+                    "options": [
+                    "Surat",
+                    "Jamshedpur",
+                    "Bhopal",
+                    "Patna"
+                    ],
+                    "answer": "Surat"
+                },
+                {
+                    "question": "Raw material for synthetic fibres is mainly:",
+                    "options": [
+                    "Coal and petroleum",
+                    "Cotton",
+                    "Wool",
+                    "Silk cocoons"
+                    ],
+                    "answer": "Coal and petroleum"
+                },
+                {
+                    "question": "Rayon is made from:",
+                    "options": [
+                    "Cellulose",
+                    "Iron ore",
+                    "Rubber",
+                    "Glass"
+                    ],
+                    "answer": "Cellulose"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Polyester is widely used in:",
+                    "options": [
+                    "Agriculture",
+                    "Clothing and fabrics",
+                    "Mining",
+                    "Fishing"
+                    ],
+                    "answer": "Clothing and fabrics"
+                },
+                {
+                    "question": "Synthetic fibre industry is closely linked with:",
+                    "options": [
+                    "Petrochemical industry",
+                    "Fishing industry",
+                    "Coal mining only",
+                    "Tea industry"
+                    ],
+                    "answer": "Petrochemical industry"
+                },
+                {
+                    "question": "Acrylic fibre is similar to:",
+                    "options": [
+                    "Cotton",
+                    "Wool",
+                    "Silk",
+                    "Jute"
+                    ],
+                    "answer": "Wool"
+                },
+                {
+                    "question": "Tiruppur is famous for:",
+                    "options": [
+                    "Coal mining",
+                    "Knitwear and garments",
+                    "Steel industry",
+                    "Fishing"
+                    ],
+                    "answer": "Knitwear and garments"
+                },
+                {
+                    "question": "Synthetic fibres are:",
+                    "options": [
+                    "Biodegradable",
+                    "Non-biodegradable",
+                    "Only natural",
+                    "Only agricultural"
+                    ],
+                    "answer": "Non-biodegradable"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Synthetic fibres are man-made\n2. They are linked with petrochemical industry\n3. They are always more expensive than natural fibres",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Surat – Synthetic textile hub",
+                    "Jamshedpur – Cotton textiles",
+                    "Assam – Iron industry",
+                    "Punjab – Petrochemical hub"
+                    ],
+                    "answer": "Surat – Synthetic textile hub"
+                },
+                {
+                    "question": "Main advantage of synthetic fibres is:",
+                    "options": [
+                    "High cost",
+                    "Durability and low cost",
+                    "Only natural origin",
+                    "Heavy weight"
+                    ],
+                    "answer": "Durability and low cost"
+                },
+                {
+                    "question": "Environmental issue of synthetic fibres is:",
+                    "options": [
+                    "Biodegradability",
+                    "Non-biodegradability",
+                    "High rainfall",
+                    "Soil fertility"
+                    ],
+                    "answer": "Non-biodegradability"
+                },
+                {
+                    "question": "Synthetic fibre industry growth is linked to:",
+                    "options": [
+                    "Agricultural decline",
+                    "Petrochemical expansion",
+                    "Mining shutdown",
+                    "Forest growth"
+                    ],
+                    "answer": "Petrochemical expansion"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Indian Geography – Engineering Industries",
+        "notes": [
+            {
+                "heading": "Introduction to Engineering Industries",
+                "points": [
+                    "Engineering industries manufacture machines, tools, and equipment used in other industries",
+                    "They are considered a key driver of industrial development",
+                    "They provide capital goods for agriculture, transport, and manufacturing sectors",
+                    "They are technology-intensive and require skilled labour",
+                    "They form the backbone of modern industrial economies"
+                ]
+            },
+            {
+                "heading": "Types of Engineering Industries",
+                "points": [
+                    "Heavy engineering industries (large machines, industrial equipment)",
+                    "Light engineering industries (tools, small machines)",
+                    "Electrical engineering industries (motors, generators)",
+                    "Transport equipment industries (automobiles, ships, aircraft)",
+                    "Precision engineering industries (machine tools, instruments)"
+                ]
+            },
+            {
+                "heading": "Machine Tools and Machines",
+                "points": [
+                    "Machine tools are machines used to manufacture other machines",
+                    "They include lathes, drills, milling machines, and grinders",
+                    "They are essential for industrial production and automation",
+                    "Require high precision and skilled workforce",
+                    "Mainly located in industrial and urban centers"
+                ]
+            },
+            {
+                "heading": "Areas of Production of Machine Tools in India",
+                "points": [
+                    "Bengaluru – major hub for machine tool industry",
+                    "Pune – engineering and automobile machinery",
+                    "Chennai – heavy engineering and machine tools",
+                    "Mumbai – diversified engineering production",
+                    "Coimbatore – small and medium engineering units",
+                    "Faridabad and Ludhiana – northern engineering clusters"
+                ]
+            },
+            {
+                "heading": "Industrial Machinery",
+                "points": [
+                    "Includes machines used in textile, cement, steel, and chemical industries",
+                    "Highly capital-intensive and technology-driven",
+                    "Requires strong industrial base for demand",
+                    "Depends on skilled engineers and technicians",
+                    "Closely linked with heavy engineering sector"
+                ]
+            },
+            {
+                "heading": "Textile Machinery Industry",
+                "points": [
+                    "Produces machines for spinning, weaving, dyeing, and finishing",
+                    "Important for cotton, silk, and synthetic textile industries",
+                    "Major centers include Ahmedabad, Coimbatore, and Mumbai",
+                    "Supports modernization of textile industry",
+                    "Encourages export of textile machinery"
+                ]
+            },
+            {
+                "heading": "Agricultural Machinery Industry",
+                "points": [
+                    "Produces tractors, harvesters, ploughs, and irrigation equipment",
+                    "Supports modernization of agriculture in India",
+                    "Major centers include Punjab, Haryana, Uttar Pradesh, and Maharashtra",
+                    "Tractor industry is a major segment (e.g., Punjab, UP hubs)",
+                    "Helps increase agricultural productivity and efficiency"
+                ]
+            },
+            {
+                "heading": "Manufacturing of Transport Equipment",
+                "points": [
+                    "Includes automobiles, railways, ships, and aircraft manufacturing",
+                    "One of the largest engineering industries in India",
+                    "Highly integrated with steel, rubber, and electronics industries",
+                    "India is a major global automobile producer",
+                    "Strong export potential in two-wheelers and cars"
+                ]
+            },
+            {
+                "heading": "Automobile Industry in India",
+                "points": [
+                    "Major centers: Chennai, Pune, Gurugram, Bengaluru",
+                    "Includes two-wheelers, cars, trucks, and commercial vehicles",
+                    "Strong presence of both Indian and foreign companies",
+                    "Growth driven by domestic demand and exports",
+                    "Important contributor to GDP and employment"
+                ]
+            },
+            {
+                "heading": "Shipbuilding Industry",
+                "points": [
+                    "Located mainly in coastal regions",
+                    "Major centers: Mumbai, Kochi, Visakhapatnam, Kolkata",
+                    "Used for commercial shipping and defense",
+                    "Requires heavy capital investment and skilled labor",
+                    "Closely linked with port development"
+                ]
+            },
+            {
+                "heading": "Aircraft Industry",
+                "points": [
+                    "Highly advanced and technology-intensive industry",
+                    "Primarily dominated by public sector and defense establishments",
+                    "Major centers include Bengaluru and Hyderabad",
+                    "Includes HAL (Hindustan Aeronautics Limited)",
+                    "Supports defense and civil aviation sectors"
+                ]
+            },
+            {
+                "heading": "Importance of Engineering Industries",
+                "points": [
+                    "Provide capital goods for all industries",
+                    "Support modernization of agriculture and industry",
+                    "Generate large-scale skilled employment",
+                    "Promote technological advancement",
+                    "Strengthen industrial base of the economy"
+                ]
+            },
+            {
+                "heading": "Problems of Engineering Industries",
+                "points": [
+                    "High capital requirement",
+                    "Dependence on imported technology in some sectors",
+                    "Uneven regional development",
+                    "Competition from global manufacturers",
+                    "Skill shortages in advanced manufacturing"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Machine tools are used for:",
+                    "options": [
+                    "Agriculture only",
+                    "Manufacturing other machines",
+                    "Fishing industry",
+                    "Textile weaving only"
+                    ],
+                    "answer": "Manufacturing other machines"
+                },
+                {
+                    "question": "Major machine tool industry hub in India is:",
+                    "options": [
+                    "Bengaluru",
+                    "Patna",
+                    "Jaipur",
+                    "Lucknow"
+                    ],
+                    "answer": "Bengaluru"
+                },
+                {
+                    "question": "Agricultural machinery includes:",
+                    "options": [
+                    "Tractors and harvesters",
+                    "Ships",
+                    "Airplanes",
+                    "Coal mines"
+                    ],
+                    "answer": "Tractors and harvesters"
+                },
+                {
+                    "question": "Automobile industry is mainly located in:",
+                    "options": [
+                    "Chennai and Pune",
+                    "Assam and Bihar",
+                    "Kashmir and Ladakh",
+                    "Goa only"
+                    ],
+                    "answer": "Chennai and Pune"
+                },
+                {
+                    "question": "HAL is related to:",
+                    "options": [
+                    "Textiles",
+                    "Aircraft industry",
+                    "Coal mining",
+                    "Fishing"
+                    ],
+                    "answer": "Aircraft industry"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Engineering industries are:",
+                    "options": [
+                    "Primary sector",
+                    "Capital goods industries",
+                    "Agricultural industries",
+                    "Forest-based industries"
+                    ],
+                    "answer": "Capital goods industries"
+                },
+                {
+                    "question": "Textile machinery is mainly used for:",
+                    "options": [
+                    "Fishing",
+                    "Spinning and weaving",
+                    "Mining",
+                    "Transport"
+                    ],
+                    "answer": "Spinning and weaving"
+                },
+                {
+                    "question": "Shipbuilding industry is located in:",
+                    "options": [
+                    "Coastal regions",
+                    "Deserts",
+                    "Mountains",
+                    "Forest regions"
+                    ],
+                    "answer": "Coastal regions"
+                },
+                {
+                    "question": "Agricultural machinery helps in:",
+                    "options": [
+                    "Increasing productivity",
+                    "Reducing transport",
+                    "Increasing rainfall",
+                    "Forest growth"
+                    ],
+                    "answer": "Increasing productivity"
+                },
+                {
+                    "question": "Engineering industries require:",
+                    "options": [
+                    "Only agriculture",
+                    "High skill and technology",
+                    "Only forests",
+                    "No labour"
+                    ],
+                    "answer": "High skill and technology"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Engineering industries provide capital goods\n2. They are technology intensive\n3. They depend only on agriculture",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Bengaluru – Machine tools",
+                    "Assam – Automobile hub",
+                    "Kashmir – Shipbuilding",
+                    "Punjab – Aircraft industry"
+                    ],
+                    "answer": "Bengaluru – Machine tools"
+                },
+                {
+                    "question": "Automobile industry is important because:",
+                    "options": [
+                    "It reduces agriculture",
+                    "It supports transport and economy",
+                    "It increases forests",
+                    "It stops trade"
+                    ],
+                    "answer": "It supports transport and economy"
+                },
+                {
+                    "question": "HAL is located in:",
+                    "options": [
+                    "Bengaluru",
+                    "Mumbai",
+                    "Kolkata",
+                    "Jaipur"
+                    ],
+                    "answer": "Bengaluru"
+                },
+                {
+                    "question": "Engineering industries are important for:",
+                    "options": [
+                    "Only agriculture",
+                    "Industrial development",
+                    "Only fishing",
+                    "Only forestry"
+                    ],
+                    "answer": "Industrial development"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Automobile, Shipbuilding, Aircraft & Fertiliser Industries",
+        "notes": [
+            {
+                "heading": "Automobile Industry",
+                "points": [
+                    "Automobile industry manufactures vehicles like cars, two-wheelers, trucks, and buses",
+                    "It is one of the fastest-growing engineering industries in India",
+                    "It is highly linked with steel, rubber, electronics, and petroleum industries",
+                    "India is one of the largest automobile producers in the world",
+                    "Both domestic demand and exports drive growth"
+                ]
+            },
+            {
+                "heading": "Location of Automobile Industry in India",
+                "points": [
+                    "Chennai – major automobile hub (often called 'Detroit of India')",
+                    "Pune – major center for cars and two-wheelers",
+                    "Gurugram-Manesar (Haryana) – automobile manufacturing cluster",
+                    "Bengaluru – automobile and component industry",
+                    "Sanand (Gujarat) – emerging automobile hub",
+                    "Noida and Greater Noida – automobile and EV production"
+                ]
+            },
+            {
+                "heading": "Importance of Automobile Industry",
+                "points": [
+                    "Provides large-scale employment",
+                    "Supports steel, rubber, and petrochemical industries",
+                    "Contributes significantly to exports",
+                    "Promotes urban industrial development",
+                    "Key driver of economic growth and mobility"
+                ]
+            },
+            {
+                "heading": "Shipbuilding Industry",
+                "points": [
+                    "Shipbuilding involves construction of ships and marine vessels",
+                    "It is a capital-intensive heavy engineering industry",
+                    "Located mainly in coastal regions for easy access to ports",
+                    "Important for trade, defense, and transportation",
+                    "Closely linked with steel and port development"
+                ]
+            },
+            {
+                "heading": "Major Shipbuilding Centers in India",
+                "points": [
+                    "Mumbai – major commercial shipbuilding hub",
+                    "Kochi – Cochin Shipyard (important public sector unit)",
+                    "Visakhapatnam – naval and commercial shipbuilding",
+                    "Kolkata – Hooghly river-based shipbuilding industry",
+                    "Goa – defense and commercial shipbuilding activities"
+                ]
+            },
+            {
+                "heading": "Importance of Shipbuilding Industry",
+                "points": [
+                    "Supports international trade and shipping",
+                    "Important for naval defense strength",
+                    "Generates employment in coastal regions",
+                    "Promotes port and coastal infrastructure",
+                    "Strategic importance for maritime security"
+                ]
+            },
+            {
+                "heading": "Aircraft Industry",
+                "points": [
+                    "Aircraft industry manufactures civil and military aircraft",
+                    "It is a highly advanced, technology-intensive industry",
+                    "Mostly controlled by public sector and defense organizations",
+                    "Requires high skilled engineers and capital investment",
+                    "Closely linked with electronics and defense sectors"
+                ]
+            },
+            {
+                "heading": "Major Aircraft Industry Centers",
+                "points": [
+                    "Bengaluru – Hindustan Aeronautics Limited (HAL) hub",
+                    "Hyderabad – aerospace and defense manufacturing",
+                    "Kanpur – aircraft repair and manufacturing units",
+                    "Nasik – defense aircraft production",
+                    "Kolkata – aerospace engineering activities"
+                ]
+            },
+            {
+                "heading": "Importance of Aircraft Industry",
+                "points": [
+                    "Critical for national defense and security",
+                    "Supports civil aviation development",
+                    "Promotes high-technology industrial base",
+                    "Encourages research and innovation",
+                    "Strategic sector for self-reliance (Atmanirbhar Bharat)"
+                ]
+            },
+            {
+                "heading": "Fertiliser Industry – Overview",
+                "points": [
+                    "Fertiliser industry supports agriculture by improving soil fertility",
+                    "It is a chemical-based industry",
+                    "India is one of the largest consumers of fertilisers",
+                    "Three main types: Nitrogen, Phosphate, and Potash fertilisers",
+                    "Closely linked with natural gas and mineral resources"
+                ]
+            },
+            {
+                "heading": "Nitrogen Fertilisers",
+                "points": [
+                    "Main component: Nitrogen (N)",
+                    "Used for promoting vegetative growth in crops",
+                    "Major products include urea and ammonium nitrate",
+                    "Production depends on natural gas and coal",
+                    "Major centres include Gujarat, Uttar Pradesh, and Maharashtra"
+                ]
+            },
+            {
+                "heading": "Phosphate Fertilisers",
+                "points": [
+                    "Main component: Phosphorus (P)",
+                    "Used for root development and crop maturity",
+                    "Derived from phosphate rock",
+                    "Important products include DAP (Diammonium Phosphate)",
+                    "Major production areas include Rajasthan and Gujarat"
+                ]
+            },
+            {
+                "heading": "Potash Fertilisers",
+                "points": [
+                    "Main component: Potassium (K)",
+                    "Used for improving drought resistance and crop quality",
+                    "India has limited potash reserves and depends on imports",
+                    "Important for balanced crop nutrition",
+                    "Imported mainly from Canada and Russia"
+                ]
+            },
+            {
+                "heading": "Importance of Fertiliser Industry",
+                "points": [
+                    "Supports agricultural productivity",
+                    "Ensures food security in India",
+                    "Reduces dependence on organic manure",
+                    "Improves crop yield and quality",
+                    "Strategically important for rural economy"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Automobile industry is mainly located in:",
+                    "options": [
+                    "Chennai and Pune",
+                    "Assam and Bihar",
+                    "Kashmir and Ladakh",
+                    "Goa and Odisha"
+                    ],
+                    "answer": "Chennai and Pune"
+                },
+                {
+                    "question": "Chennai is also called:",
+                    "options": [
+                    "Silicon Valley of India",
+                    "Detroit of India",
+                    "Manchester of India",
+                    "Coal city of India"
+                    ],
+                    "answer": "Detroit of India"
+                },
+                {
+                    "question": "HAL is related to:",
+                    "options": [
+                    "Shipbuilding",
+                    "Aircraft industry",
+                    "Fertiliser industry",
+                    "Textile industry"
+                    ],
+                    "answer": "Aircraft industry"
+                },
+                {
+                    "question": "Shipbuilding industry is mainly located in:",
+                    "options": [
+                    "Deserts",
+                    "Coastal regions",
+                    "Plateaus",
+                    "Forests"
+                    ],
+                    "answer": "Coastal regions"
+                },
+                {
+                    "question": "Main nutrient in nitrogen fertilisers is:",
+                    "options": [
+                    "Phosphorus",
+                    "Potassium",
+                    "Nitrogen",
+                    "Calcium"
+                    ],
+                    "answer": "Nitrogen"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Fertiliser industry is mainly:",
+                    "options": [
+                    "Agricultural industry",
+                    "Chemical industry",
+                    "Mining industry",
+                    "Textile industry"
+                    ],
+                    "answer": "Chemical industry"
+                },
+                {
+                    "question": "Potash fertilisers are mainly:",
+                    "options": [
+                    "Produced in India in large quantity",
+                    "Imported in large quantity",
+                    "Not used in agriculture",
+                    "Forest based"
+                    ],
+                    "answer": "Imported in large quantity"
+                },
+                {
+                    "question": "Cochin Shipyard is located in:",
+                    "options": [
+                    "Kerala",
+                    "Gujarat",
+                    "Punjab",
+                    "Assam"
+                    ],
+                    "answer": "Kerala"
+                },
+                {
+                    "question": "DAP stands for:",
+                    "options": [
+                    "Direct Agricultural Product",
+                    "Diammonium Phosphate",
+                    "Dry Agricultural Powder",
+                    "Domestic Agro Product"
+                    ],
+                    "answer": "Diammonium Phosphate"
+                },
+                {
+                    "question": "Aircraft industry is:",
+                    "options": [
+                    "Low technology industry",
+                    "High technology industry",
+                    "Agricultural industry",
+                    "Forest-based industry"
+                    ],
+                    "answer": "High technology industry"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Automobile industry supports steel industry\n2. Fertiliser industry supports agriculture\n3. Aircraft industry is low capital intensive",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Bengaluru – Aircraft industry",
+                    "Chennai – Coal mining",
+                    "Assam – Automobile hub",
+                    "Rajasthan – Shipbuilding hub"
+                    ],
+                    "answer": "Bengaluru – Aircraft industry"
+                },
+                {
+                    "question": "Potash fertiliser is mainly:",
+                    "options": [
+                    "Indigenously produced",
+                    "Imported",
+                    "Not used in India",
+                    "Forest based"
+                    ],
+                    "answer": "Imported"
+                },
+                {
+                    "question": "Shipbuilding is important for:",
+                    "options": [
+                    "Agriculture",
+                    "Maritime trade and defence",
+                    "Textile industry",
+                    "Mining only"
+                    ],
+                    "answer": "Maritime trade and defence"
+                },
+                {
+                    "question": "Automobile industry growth depends on:",
+                    "options": [
+                    "Steel and rubber industries",
+                    "Forest resources",
+                    "Fishing industry",
+                    "Tourism only"
+                    ],
+                    "answer": "Steel and rubber industries"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Agro-Industries, Synthetic Rubber & Pulp and Paper Industry",
+        "notes": [
+            {
+                "heading": "Introduction to Agro-Industries",
+                "points": [
+                    "Agro-industries are industries that use agricultural raw materials for manufacturing",
+                    "They form a crucial link between agriculture and industry",
+                    "They include food processing, textiles, rubber, paper, sugar, and edible oil industries",
+                    "They help in value addition to agricultural produce",
+                    "They reduce post-harvest losses and increase farmer income"
+                ]
+            },
+            {
+                "heading": "Importance of Agro-Industries",
+                "points": [
+                    "Provide employment in rural and semi-urban areas",
+                    "Help in industrialization of agriculture",
+                    "Increase value addition of raw agricultural products",
+                    "Reduce pressure on primary agriculture",
+                    "Support export earnings and rural development"
+                ]
+            },
+            {
+                "heading": "Synthetic Rubber Industry – Overview",
+                "points": [
+                    "Synthetic rubber is an artificially produced elastic material",
+                    "It is manufactured from petrochemicals (mainly butadiene and styrene)",
+                    "It is used as a substitute for natural rubber",
+                    "Widely used in tyres, footwear, hoses, and industrial goods",
+                    "It is part of the petrochemical-based industry"
+                ]
+            },
+            {
+                "heading": "Location Factors of Synthetic Rubber Industry",
+                "points": [
+                    "Proximity to petrochemical refineries",
+                    "Availability of raw materials like petroleum and natural gas",
+                    "Presence of automobile and tyre industries",
+                    "Developed transport and industrial infrastructure",
+                    "Availability of skilled chemical industry workforce"
+                ]
+            },
+            {
+                "heading": "Major Synthetic Rubber Production Areas in India",
+                "points": [
+                    "Gujarat – Jamnagar and Vadodara (petrochemical hub)",
+                    "Maharashtra – Mumbai and surrounding industrial belts",
+                    "Tamil Nadu – Chennai industrial region",
+                    "Karnataka – Bengaluru industrial belt",
+                    "Assam – small-scale petrochemical units"
+                ]
+            },
+            {
+                "heading": "Importance of Synthetic Rubber Industry",
+                "points": [
+                    "Supports automobile and tyre industry",
+                    "Reduces dependence on natural rubber imports",
+                    "Widely used in industrial applications",
+                    "Cost-effective and durable material",
+                    "Supports export-oriented industries"
+                ]
+            },
+            {
+                "heading": "Pulp and Paper Industry – Overview",
+                "points": [
+                    "Paper industry is based on production of pulp from raw materials",
+                    "Pulp is the fibrous material used to make paper and paper products",
+                    "Raw materials include wood, bamboo, grasses, and recycled paper",
+                    "It is an agro-forest based industry",
+                    "It is important for education, packaging, and communication"
+                ]
+            },
+            {
+                "heading": "Essential Conditions for Pulp Production",
+                "points": [
+                    "Availability of raw materials like bamboo, wood, and grasses",
+                    "Adequate supply of water for processing and cleaning",
+                    "Availability of cheap electricity for pulp processing",
+                    "Proximity to forest resources or plantations",
+                    "Transport facilities for raw material and finished products",
+                    "Presence of chemical inputs like soda ash and chlorine"
+                ]
+            },
+            {
+                "heading": "Major Raw Materials for Pulp Production",
+                "points": [
+                    "Wood from softwood and hardwood trees",
+                    "Bamboo (important in India)",
+                    "Bagasse (sugarcane residue)",
+                    "Recycled waste paper",
+                    "Straw and grasses"
+                ]
+            },
+            {
+                "heading": "Major Paper Industry Regions in India",
+                "points": [
+                    "West Bengal – paper mills along Hooghly region",
+                    "Maharashtra – Pune and Nagpur regions",
+                    "Andhra Pradesh – coastal paper mills",
+                    "Uttarakhand – Dehradun and nearby areas",
+                    "Karnataka – Mysuru region",
+                    "Assam – bamboo-based paper production"
+                ]
+            },
+            {
+                "heading": "Importance of Paper Industry",
+                "points": [
+                    "Essential for education and printing industry",
+                    "Used in packaging and packaging exports",
+                    "Supports communication and administration sectors",
+                    "Creates employment in rural forest regions",
+                    "Encourages recycling and sustainable resource use"
+                ]
+            },
+            {
+                "heading": "Problems of Paper Industry",
+                "points": [
+                    "Deforestation concerns due to wood usage",
+                    "High water and energy consumption",
+                    "Pollution from chemical processing",
+                    "High production cost compared to synthetic materials",
+                    "Irregular supply of raw materials"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Agro-industries are mainly based on:",
+                    "options": [
+                    "Minerals",
+                    "Agricultural raw materials",
+                    "Petroleum only",
+                    "Fish resources"
+                    ],
+                    "answer": "Agricultural raw materials"
+                },
+                {
+                    "question": "Synthetic rubber is made from:",
+                    "options": [
+                    "Cotton",
+                    "Petrochemicals",
+                    "Wood",
+                    "Iron ore"
+                    ],
+                    "answer": "Petrochemicals"
+                },
+                {
+                    "question": "Main raw material for paper industry is:",
+                    "options": [
+                    "Coal",
+                    "Wood and bamboo",
+                    "Iron",
+                    "Rubber"
+                    ],
+                    "answer": "Wood and bamboo"
+                },
+                {
+                    "question": "Pulp is used for making:",
+                    "options": [
+                    "Steel",
+                    "Paper",
+                    "Plastic",
+                    "Glass"
+                    ],
+                    "answer": "Paper"
+                },
+                {
+                    "question": "Synthetic rubber is mainly used in:",
+                    "options": [
+                    "Tyres",
+                    "Food",
+                    "Fishing nets only",
+                    "Coal mining"
+                    ],
+                    "answer": "Tyres"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Paper industry is also called:",
+                    "options": [
+                    "Mineral industry",
+                    "Agro-forest industry",
+                    "Steel industry",
+                    "Oil industry"
+                    ],
+                    "answer": "Agro-forest industry"
+                },
+                {
+                    "question": "Bagasse is used in:",
+                    "options": [
+                    "Steel production",
+                    "Paper making",
+                    "Rubber industry",
+                    "Coal mining"
+                    ],
+                    "answer": "Paper making"
+                },
+                {
+                    "question": "Synthetic rubber industry is linked with:",
+                    "options": [
+                    "Petrochemical industry",
+                    "Fishing industry",
+                    "Tea industry",
+                    "Coal mining"
+                    ],
+                    "answer": "Petrochemical industry"
+                },
+                {
+                    "question": "Bamboo is important for:",
+                    "options": [
+                    "Paper production",
+                    "Gold mining",
+                    "Fishing",
+                    "Oil extraction"
+                    ],
+                    "answer": "Paper production"
+                },
+                {
+                    "question": "Paper industry requires large amount of:",
+                    "options": [
+                    "Water and electricity",
+                    "Coal only",
+                    "Gold",
+                    "Diamonds"
+                    ],
+                    "answer": "Water and electricity"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Agro-industries link agriculture and industry\n2. Synthetic rubber is petroleum-based\n3. Paper industry does not use forest resources",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Synthetic rubber – Petrochemical industry",
+                    "Paper industry – Iron ore",
+                    "Agro-industry – Mining only",
+                    "Rubber industry – Agriculture only"
+                    ],
+                    "answer": "Synthetic rubber – Petrochemical industry"
+                },
+                {
+                    "question": "Main advantage of agro-industries is:",
+                    "options": [
+                    "Increasing deforestation",
+                    "Value addition to farm produce",
+                    "Reducing agriculture",
+                    "Stopping trade"
+                    ],
+                    "answer": "Value addition to farm produce"
+                },
+                {
+                    "question": "Pulp production requires:",
+                    "options": [
+                    "Only coal",
+                    "Water, wood, and chemicals",
+                    "Only oil",
+                    "Only metals"
+                    ],
+                    "answer": "Water, wood, and chemicals"
+                },
+                {
+                    "question": "Synthetic rubber reduces dependence on:",
+                    "options": [
+                    "Natural rubber",
+                    "Cotton",
+                    "Coal",
+                    "Iron ore"
+                    ],
+                    "answer": "Natural rubber"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Paper Production, Cement Industry & Distribution",
+        "notes": [
+            {
+                "heading": "Production of Paper and Paper Board",
+                "points": [
+                    "Paper production involves converting pulp into sheets of paper and paperboard",
+                    "Paperboard is thicker and used for packaging materials like boxes and cartons",
+                    "Main raw materials include wood, bamboo, bagasse, and recycled waste paper",
+                    "Process includes pulping, bleaching, pressing, drying, and finishing",
+                    "India has both large-scale mills and small paper units"
+                ]
+            },
+            {
+                "heading": "Stages in Paper Production",
+                "points": [
+                    "Raw material collection (wood, bamboo, recycled paper)",
+                    "Pulping – conversion into fibrous slurry",
+                    "Bleaching – whitening of pulp",
+                    "Sheet formation – pulp spread into thin layers",
+                    "Pressing and drying – removal of water",
+                    "Finishing – cutting and packaging"
+                ]
+            },
+            {
+                "heading": "Paper Board Industry",
+                "points": [
+                    "Paperboard is thicker than normal paper",
+                    "Used in packaging industries (cartons, boxes, containers)",
+                    "High demand in e-commerce and retail sectors",
+                    "Made from recycled paper and pulp",
+                    "Important for industrial packaging and logistics"
+                ]
+            },
+            {
+                "heading": "Major Paper Industry Regions in India",
+                "points": [
+                    "West Bengal – Hooghly region (traditional paper mills)",
+                    "Uttarakhand – Dehradun and nearby areas",
+                    "Andhra Pradesh – coastal paper mills",
+                    "Maharashtra – Pune and Nagpur regions",
+                    "Karnataka – Mysuru region",
+                    "Assam – bamboo-based paper production"
+                ]
+            },
+            {
+                "heading": "Newsprint Industry",
+                "points": [
+                    "Newsprint is a low-cost paper used for newspapers and printing",
+                    "Requires large quantities of wood pulp or recycled paper",
+                    "High demand from newspaper and publishing industry",
+                    "Requires cheap raw materials and electricity",
+                    "Often dependent on imports in India"
+                ]
+            },
+            {
+                "heading": "Newsprint Production Centers in India",
+                "points": [
+                    "Madhya Pradesh – Nepanagar (famous newsprint mill)",
+                    "Andhra Pradesh – coastal paper units",
+                    "Tamil Nadu – paper processing units",
+                    "Kerala – small-scale production",
+                    "West Bengal – printing and publishing hub"
+                ]
+            },
+            {
+                "heading": "Importance of Paper Industry",
+                "points": [
+                    "Essential for education, publishing, and administration",
+                    "Supports packaging and logistics industries",
+                    "Encourages recycling of waste paper",
+                    "Provides rural and forest-based employment",
+                    "Important for communication sector"
+                ]
+            },
+            {
+                "heading": "Cement Industry – Overview",
+                "points": [
+                    "Cement industry produces cement used in construction",
+                    "It is a heavy industry and key component of infrastructure development",
+                    "Uses limestone, clay, gypsum, and coal",
+                    "India is one of the largest cement producers in the world",
+                    "It is highly energy-intensive industry"
+                ]
+            },
+            {
+                "heading": "Raw Materials of Cement Industry",
+                "points": [
+                    "Limestone – main raw material",
+                    "Clay – provides silica and alumina",
+                    "Gypsum – used for setting time control",
+                    "Coal and electricity – for heating and processing",
+                    "Water – for cooling and processing"
+                ]
+            },
+            {
+                "heading": "Location Factors of Cement Industry",
+                "points": [
+                    "Availability of limestone deposits",
+                    "Proximity to coal fields or energy sources",
+                    "Transport connectivity (rail and road)",
+                    "Nearness to markets (urban and construction zones)",
+                    "Availability of water and labour"
+                ]
+            },
+            {
+                "heading": "Distribution of Cement Industry in India",
+                "points": [
+                    "Rajasthan – largest cement-producing state (limestone rich)",
+                    "Andhra Pradesh – major cement clusters",
+                    "Madhya Pradesh – Satna and Rewa regions",
+                    "Gujarat – industrial cement hubs",
+                    "Tamil Nadu – cement production and export",
+                    "Karnataka – growing cement industry"
+                ]
+            },
+            {
+                "heading": "Major Cement Producing Regions",
+                "points": [
+                    "Satna (Madhya Pradesh) – known as 'Cement City of India'",
+                    "Chittorgarh (Rajasthan) – limestone-based production",
+                    "Guntur (Andhra Pradesh) – major cement belt",
+                    "Gujarat coast – industrial cement production",
+                    "Tamil Nadu – Ariyalur region"
+                ]
+            },
+            {
+                "heading": "Importance of Cement Industry",
+                "points": [
+                    "Base for construction and infrastructure development",
+                    "Supports housing, roads, and bridges",
+                    "High employment generation",
+                    "Drives urbanization and industrialization",
+                    "Important for economic growth"
+                ]
+            },
+            {
+                "heading": "Problems of Cement Industry",
+                "points": [
+                    "High energy consumption",
+                    "Environmental pollution (dust and CO₂ emissions)",
+                    "Dependence on limestone availability",
+                    "Transport cost due to bulky nature",
+                    "Regional imbalance in production"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Main raw material for cement is:",
+                    "options": [
+                    "Iron ore",
+                    "Limestone",
+                    "Bauxite",
+                    "Coal"
+                    ],
+                    "answer": "Limestone"
+                },
+                {
+                    "question": "Newsprint is mainly used for:",
+                    "options": [
+                    "Construction",
+                    "Newspapers",
+                    "Machinery",
+                    "Automobiles"
+                    ],
+                    "answer": "Newspapers"
+                },
+                {
+                    "question": "Largest cement producing state in India is:",
+                    "options": [
+                    "Rajasthan",
+                    "Kerala",
+                    "Assam",
+                    "Goa"
+                    ],
+                    "answer": "Rajasthan"
+                },
+                {
+                    "question": "Paperboard is mainly used for:",
+                    "options": [
+                    "Fuel",
+                    "Packaging",
+                    "Construction",
+                    "Mining"
+                    ],
+                    "answer": "Packaging"
+                },
+                {
+                    "question": "Satna is famous for:",
+                    "options": [
+                    "Steel industry",
+                    "Cement industry",
+                    "Textile industry",
+                    "Fishing industry"
+                    ],
+                    "answer": "Cement industry"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Cement industry is:",
+                    "options": [
+                    "Light industry",
+                    "Heavy industry",
+                    "Forest-based industry",
+                    "Fishing industry"
+                    ],
+                    "answer": "Heavy industry"
+                },
+                {
+                    "question": "Newsprint is mainly made from:",
+                    "options": [
+                    "Coal",
+                    "Wood pulp and recycled paper",
+                    "Iron",
+                    "Rubber"
+                    ],
+                    "answer": "Wood pulp and recycled paper"
+                },
+                {
+                    "question": "Gypsum is used in cement industry for:",
+                    "options": [
+                    "Colouring",
+                    "Setting time control",
+                    "Cooling",
+                    "Fuel"
+                    ],
+                    "answer": "Setting time control"
+                },
+                {
+                    "question": "Nepanagar is famous for:",
+                    "options": [
+                    "Steel production",
+                    "Newsprint paper mill",
+                    "Coal mining",
+                    "Rubber industry"
+                    ],
+                    "answer": "Newsprint paper mill"
+                },
+                {
+                    "question": "Cement industry is highly dependent on:",
+                    "options": [
+                    "Limestone availability",
+                    "Cotton availability",
+                    "Fish supply",
+                    "Forest fruits"
+                    ],
+                    "answer": "Limestone availability"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Cement industry is energy intensive\n2. Newsprint requires wood pulp\n3. Cement industry is located near limestone deposits",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "All"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Satna – Cement industry",
+                    "Nepanagar – Automobile industry",
+                    "Gujarat – Tea industry",
+                    "Assam – Cement hub"
+                    ],
+                    "answer": "Satna – Cement industry"
+                },
+                {
+                    "question": "Paperboard is mainly used in:",
+                    "options": [
+                    "Packaging industry",
+                    "Mining industry",
+                    "Oil extraction",
+                    "Fishing"
+                    ],
+                    "answer": "Packaging industry"
+                },
+                {
+                    "question": "Main environmental issue of cement industry is:",
+                    "options": [
+                    "Water shortage only",
+                    "CO₂ emissions and dust pollution",
+                    "Noise pollution only",
+                    "Forest growth"
+                    ],
+                    "answer": "CO₂ emissions and dust pollution"
+                },
+                {
+                    "question": "Cement industry growth is linked to:",
+                    "options": [
+                    "Construction and infrastructure development",
+                    "Fishing industry",
+                    "Tea plantations",
+                    "Forest conservation only"
+                    ],
+                    "answer": "Construction and infrastructure development"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Transport: Importance, Development & Costs",
+        "notes": [
+            {
+                "heading": "Introduction to Transport",
+                "points": [
+                    "Transport refers to the movement of people, goods, and services from one place to another",
+                    "It is a key infrastructure component of economic development",
+                    "It connects production centres with consumption centres",
+                    "It includes land, water, air, and pipeline transport",
+                    "Efficient transport reduces regional disparities"
+                ]
+            },
+            {
+                "heading": "Importance of Transport",
+                "points": [
+                    "Supports economic development and trade",
+                    "Facilitates movement of raw materials and finished goods",
+                    "Promotes national integration",
+                    "Helps in regional development and urbanization",
+                    "Strengthens defence and strategic mobility"
+                ]
+            },
+            {
+                "heading": "Development of Transport System in India",
+                "points": [
+                    "Traditional transport systems included bullock carts, boats, and footpaths",
+                    "Colonial period introduced railways and modern ports",
+                    "Post-independence expansion of roadways, railways, and air transport",
+                    "Liberalisation led to rapid growth in highways and aviation",
+                    "Recent development includes metro rail and logistics corridors"
+                ]
+            },
+            {
+                "heading": "Means of Transport – Overview",
+                "points": [
+                    "Road transport – most widely used and flexible",
+                    "Rail transport – suitable for long distance and bulk goods",
+                    "Water transport – cheapest for heavy goods over long distances",
+                    "Air transport – fastest but expensive",
+                    "Pipeline transport – used for oil, gas, and liquids"
+                ]
+            },
+            {
+                "heading": "Road Transport",
+                "points": [
+                    "Most important mode in India for short and medium distances",
+                    "Includes national highways, state highways, and rural roads",
+                    "Flexible and door-to-door service",
+                    "High maintenance in rural areas",
+                    "Supports agriculture and small industries"
+                ]
+            },
+            {
+                "heading": "Rail Transport",
+                "points": [
+                    "Most important for long-distance and bulk transport",
+                    "Economical for heavy goods",
+                    "Well-developed network across India",
+                    "Managed by Indian Railways",
+                    "Important for freight and passenger movement"
+                ]
+            },
+            {
+                "heading": "Water Transport",
+                "points": [
+                    "Cheapest mode of transport",
+                    "Includes inland waterways and ocean transport",
+                    "Suitable for heavy and bulky goods",
+                    "Slow but energy-efficient",
+                    "Important for international trade"
+                ]
+            },
+            {
+                "heading": "Air Transport",
+                "points": [
+                    "Fastest mode of transport",
+                    "Suitable for passengers and high-value goods",
+                    "Limited by high cost",
+                    "Important for remote and inaccessible areas",
+                    "Supports tourism and emergency services"
+                ]
+            },
+            {
+                "heading": "Pipeline Transport",
+                "points": [
+                    "Used for transport of oil, natural gas, and water",
+                    "Safe and efficient for continuous flow",
+                    "Low operational cost after installation",
+                    "Requires high initial investment",
+                    "Important for energy transport"
+                ]
+            },
+            {
+                "heading": "Transport Costs – Overview",
+                "points": [
+                    "Transport cost refers to the expense of moving goods or passengers",
+                    "It includes fuel, labour, maintenance, and infrastructure costs",
+                    "It influences location of industries and markets",
+                    "Lower transport cost increases trade efficiency",
+                    "Varies by mode of transport"
+                ]
+            },
+            {
+                "heading": "Economic Distance",
+                "points": [
+                    "Economic distance refers to cost of transporting goods rather than physical distance",
+                    "It depends on transport cost, time, and efficiency",
+                    "Two places physically close may have high economic distance",
+                    "Improved transport reduces economic distance",
+                    "Important in regional planning and trade"
+                ]
+            },
+            {
+                "heading": "Operating Costs in Transport",
+                "points": [
+                    "Operating costs include fuel, wages, maintenance, and repairs",
+                    "Railways have lower operating cost per unit compared to roads for bulk goods",
+                    "Air transport has the highest operating cost",
+                    "Water transport has the lowest operating cost",
+                    "Pipeline transport has low operating cost after installation"
+                ]
+            },
+            {
+                "heading": "Comparison of Transport Modes",
+                "points": [
+                    "Road – flexible but medium cost",
+                    "Rail – economical for bulk goods",
+                    "Air – fastest but expensive",
+                    "Water – cheapest but slow",
+                    "Pipeline – efficient for liquids and gases"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Most widely used transport in India is:",
+                    "options": [
+                    "Air transport",
+                    "Road transport",
+                    "Water transport",
+                    "Pipeline transport"
+                    ],
+                    "answer": "Road transport"
+                },
+                {
+                    "question": "Fastest mode of transport is:",
+                    "options": [
+                    "Rail",
+                    "Road",
+                    "Air",
+                    "Water"
+                    ],
+                    "answer": "Air"
+                },
+                {
+                    "question": "Cheapest mode of transport is:",
+                    "options": [
+                    "Air",
+                    "Road",
+                    "Water",
+                    "Rail"
+                    ],
+                    "answer": "Water"
+                },
+                {
+                    "question": "Pipeline transport is mainly used for:",
+                    "options": [
+                    "Coal",
+                    "Oil and gas",
+                    "Food grains",
+                    "Textiles"
+                    ],
+                    "answer": "Oil and gas"
+                },
+                {
+                    "question": "Economic distance depends on:",
+                    "options": [
+                    "Physical distance only",
+                    "Transport cost and efficiency",
+                    "Rainfall",
+                    "Temperature"
+                    ],
+                    "answer": "Transport cost and efficiency"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Rail transport is most suitable for:",
+                    "options": [
+                    "Short distance only",
+                    "Bulk and long-distance goods",
+                    "Air travel only",
+                    "Forest products only"
+                    ],
+                    "answer": "Bulk and long-distance goods"
+                },
+                {
+                    "question": "Air transport is best for:",
+                    "options": [
+                    "Heavy goods",
+                    "Perishable and high-value goods",
+                    "Coal transport only",
+                    "Water transport"
+                    ],
+                    "answer": "Perishable and high-value goods"
+                },
+                {
+                    "question": "Operating cost includes:",
+                    "options": [
+                    "Only fuel",
+                    "Fuel, labour, and maintenance",
+                    "Only salary",
+                    "Only taxes"
+                    ],
+                    "answer": "Fuel, labour, and maintenance"
+                },
+                {
+                    "question": "Water transport is slow but:",
+                    "options": [
+                    "Expensive",
+                    "Energy efficient",
+                    "Unsafe",
+                    "Unimportant"
+                    ],
+                    "answer": "Energy efficient"
+                },
+                {
+                    "question": "Transport helps in:",
+                    "options": [
+                    "Increasing isolation",
+                    "Economic integration",
+                    "Reducing trade",
+                    "Stopping development"
+                    ],
+                    "answer": "Economic integration"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Air transport has high operating cost\n2. Water transport is cheapest\n3. Pipeline transport is used for gases and liquids",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "All"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Rail – bulk transport",
+                    "Air – cheapest transport",
+                    "Water – fastest transport",
+                    "Road – only international transport"
+                    ],
+                    "answer": "Rail – bulk transport"
+                },
+                {
+                    "question": "Economic distance decreases when:",
+                    "options": [
+                    "Transport cost increases",
+                    "Transport efficiency improves",
+                    "Roads deteriorate",
+                    "Fuel cost rises"
+                    ],
+                    "answer": "Transport efficiency improves"
+                },
+                {
+                    "question": "Pipeline transport advantage is:",
+                    "options": [
+                    "High maintenance",
+                    "Continuous flow and low cost",
+                    "Very slow and inefficient",
+                    "Only for passengers"
+                    ],
+                    "answer": "Continuous flow and low cost"
+                },
+                {
+                    "question": "Transport system is important for:",
+                    "options": [
+                    "Only agriculture",
+                    "Economic development",
+                    "Only forests",
+                    "Only weather changes"
+                    ],
+                    "answer": "Economic development"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Relative Importance of Transport, Freight Rates & Transport Policy",
+        "notes": [
+            {
+                "heading": "Relative Importance of Means of Transport",
+                "points": [
+                    "Different modes of transport have different roles based on cost, speed, and capacity",
+                    "Selection of transport depends on type of goods, distance, and urgency",
+                    "India uses a multimodal transport system combining all modes",
+                    "Each transport mode has specific advantages and limitations",
+                    "Balance among modes improves economic efficiency"
+                ]
+            },
+            {
+                "heading": "Railways – Importance",
+                "points": [
+                    "Most important mode for long-distance and bulk transport in India",
+                    "Economical for heavy goods like coal, iron ore, and food grains",
+                    "High carrying capacity compared to roads and air",
+                    "Suitable for inland connectivity across states",
+                    "Less flexible but highly reliable for mass transport"
+                ]
+            },
+            {
+                "heading": "Road Transport – Importance",
+                "points": [
+                    "Most widely used mode in India",
+                    "Provides door-to-door connectivity",
+                    "Highly flexible and suitable for short and medium distances",
+                    "Important for rural connectivity and agriculture",
+                    "Supports small and medium enterprises"
+                ]
+            },
+            {
+                "heading": "Pipeline Transport – Importance",
+                "points": [
+                    "Used for transport of liquids and gases like oil and natural gas",
+                    "Safe and continuous mode of transport",
+                    "Very low operational cost after installation",
+                    "Limited to specific commodities",
+                    "Important for energy security"
+                ]
+            },
+            {
+                "heading": "Ocean Transport – Importance",
+                "points": [
+                    "Cheapest mode for international trade",
+                    "Suitable for heavy and bulky goods",
+                    "Supports import-export economy",
+                    "Depends on ports and coastal infrastructure",
+                    "Slow but highly economical over long distances"
+                ]
+            },
+            {
+                "heading": "Air Transport – Importance",
+                "points": [
+                    "Fastest mode of transport",
+                    "Used for passengers and high-value goods",
+                    "Important for emergency services and remote areas",
+                    "High cost limits bulk transport use",
+                    "Supports tourism and global connectivity"
+                ]
+            },
+            {
+                "heading": "Comparison of Transport Modes",
+                "points": [
+                    "Railways – best for bulk inland transport",
+                    "Roads – best for short distance and flexibility",
+                    "Pipelines – best for liquids and gases",
+                    "Oceans – best for international bulk trade",
+                    "Air – best for speed and urgent delivery"
+                ]
+            },
+            {
+                "heading": "Freight Rates – Meaning",
+                "points": [
+                    "Freight rate refers to the charge for transporting goods",
+                    "Depends on distance, weight, volume, and mode of transport",
+                    "Rail and water transport have lower freight rates",
+                    "Air transport has the highest freight rates",
+                    "Freight rates influence trade and industrial location"
+                ]
+            },
+            {
+                "heading": "Factors Affecting Freight Rates",
+                "points": [
+                    "Distance of transportation",
+                    "Type and weight of goods",
+                    "Speed and urgency of delivery",
+                    "Fuel cost and operational cost",
+                    "Availability of transport infrastructure"
+                ]
+            },
+            {
+                "heading": "Profits in Transport Industry",
+                "points": [
+                    "Profit depends on demand and operating cost",
+                    "Air transport generates high profit per passenger but high cost",
+                    "Railways generate stable but regulated profits",
+                    "Road transport profits vary widely with competition",
+                    "Pipeline transport gives long-term steady returns"
+                ]
+            },
+            {
+                "heading": "Government Transport Policy – Overview",
+                "points": [
+                    "Government aims to develop integrated and efficient transport system",
+                    "Focus on multimodal transport development",
+                    "Emphasis on infrastructure modernization",
+                    "Policies support connectivity in rural and remote areas",
+                    "Private sector participation is encouraged"
+                ]
+            },
+            {
+                "heading": "Key Features of Transport Policy in India",
+                "points": [
+                    "Development of national highways and expressways",
+                    "Expansion of railway network and electrification",
+                    "Promotion of inland waterways for cargo transport",
+                    "Modernization of airports and ports",
+                    "Encouragement of logistics and freight corridors"
+                ]
+            },
+            {
+                "heading": "Recent Government Initiatives",
+                "points": [
+                    "Bharatmala Pariyojana – highway development",
+                    "Sagarmala Project – port-led development",
+                    "Dedicated Freight Corridors (DFC) for railways",
+                    "UDAN scheme for regional air connectivity",
+                    "Promotion of electric mobility and green transport"
+                ]
+            },
+            {
+                "heading": "Importance of Transport Policy",
+                "points": [
+                    "Reduces logistics cost in the economy",
+                    "Improves regional connectivity",
+                    "Boosts trade and industrial growth",
+                    "Supports economic integration",
+                    "Enhances global competitiveness"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Cheapest mode of transport for international trade is:",
+                    "options": [
+                    "Air transport",
+                    "Rail transport",
+                    "Road transport",
+                    "Ocean transport"
+                    ],
+                    "answer": "Ocean transport"
+                },
+                {
+                    "question": "Fastest mode of transport is:",
+                    "options": [
+                    "Road",
+                    "Rail",
+                    "Air",
+                    "Water"
+                    ],
+                    "answer": "Air"
+                },
+                {
+                    "question": "Pipeline transport is mainly used for:",
+                    "options": [
+                    "Passengers",
+                    "Oil and gas",
+                    "Food grains",
+                    "Coal"
+                    ],
+                    "answer": "Oil and gas"
+                },
+                {
+                    "question": "Freight rate refers to:",
+                    "options": [
+                    "Cost of production",
+                    "Transport charge of goods",
+                    "Tax on goods",
+                    "Salary of workers"
+                    ],
+                    "answer": "Transport charge of goods"
+                },
+                {
+                    "question": "Most flexible mode of transport is:",
+                    "options": [
+                    "Rail",
+                    "Road",
+                    "Air",
+                    "Pipeline"
+                    ],
+                    "answer": "Road"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Rail transport is best suited for:",
+                    "options": [
+                    "Short distance only",
+                    "Bulk and long-distance transport",
+                    "Air travel",
+                    "Fishing goods"
+                    ],
+                    "answer": "Bulk and long-distance transport"
+                },
+                {
+                    "question": "Air transport has:",
+                    "options": [
+                    "Lowest cost",
+                    "Highest speed",
+                    "No fuel cost",
+                    "No maintenance"
+                    ],
+                    "answer": "Highest speed"
+                },
+                {
+                    "question": "Sagarmala project is related to:",
+                    "options": [
+                    "Road development",
+                    "Port-led development",
+                    "Airports",
+                    "Railways"
+                    ],
+                    "answer": "Port-led development"
+                },
+                {
+                    "question": "Freight rates depend on:",
+                    "options": [
+                    "Only distance",
+                    "Distance, weight, and mode",
+                    "Only weather",
+                    "Only taxes"
+                    ],
+                    "answer": "Distance, weight, and mode"
+                },
+                {
+                    "question": "Pipeline transport is:",
+                    "options": [
+                    "Highly flexible",
+                    "Fixed route transport",
+                    "Only for passengers",
+                    "Only for exports"
+                    ],
+                    "answer": "Fixed route transport"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Railways are best for bulk transport\n2. Air transport has highest freight cost\n3. Ocean transport is slow but economical",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "All"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Sagarmala – Port development",
+                    "Bharatmala – Airports",
+                    "UDAN – Railways only",
+                    "DFC – Road transport"
+                    ],
+                    "answer": "Sagarmala – Port development"
+                },
+                {
+                    "question": "Freight rates are lowest in:",
+                    "options": [
+                    "Air transport",
+                    "Road transport",
+                    "Ocean transport",
+                    "Rail transport"
+                    ],
+                    "answer": "Ocean transport"
+                },
+                {
+                    "question": "Government transport policy aims at:",
+                    "options": [
+                    "Increasing isolation",
+                    "Reducing connectivity",
+                    "Multimodal transport development",
+                    "Stopping trade"
+                    ],
+                    "answer": "Multimodal transport development"
+                },
+                {
+                    "question": "Pipeline transport advantage is:",
+                    "options": [
+                    "High flexibility",
+                    "Low operational cost",
+                    "Passenger transport",
+                    "High pollution"
+                    ],
+                    "answer": "Low operational cost"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Ocean Transport, Inland Waterways & Railways",
+        "notes": [
+            {
+                "heading": "Ocean Transport Routes",
+                "points": [
+                    "Ocean transport routes are major sea lanes used for international trade",
+                    "They connect continents and major economic regions",
+                    "They are the cheapest mode for long-distance bulk transport",
+                    "Routes depend on ports, currents, winds, and strategic straits",
+                    "Major routes carry most global trade between developed regions"
+                ]
+            },
+            {
+                "heading": "Major Ocean Transport Routes",
+                "points": [
+                    "North Atlantic Route – connects North America and Europe (busiest route)",
+                    "Suez Canal Route – connects Europe and Asia via Mediterranean and Red Sea",
+                    "Cape of Good Hope Route – alternative to Suez route around Africa",
+                    "Trans-Pacific Route – connects Asia and North America",
+                    "Coastal shipping routes – within countries or regions"
+                ]
+            },
+            {
+                "heading": "Important Sea Lanes and Straits",
+                "points": [
+                    "Strait of Malacca – key link between Indian and Pacific Oceans",
+                    "Strait of Hormuz – crucial oil transport route",
+                    "Suez Canal – shortest route between Europe and Asia",
+                    "Panama Canal – connects Atlantic and Pacific Oceans",
+                    "Bab-el-Mandeb – connects Red Sea and Gulf of Aden"
+                ]
+            },
+            {
+                "heading": "Importance of Ocean Transport Routes",
+                "points": [
+                    "Facilitates international trade and globalization",
+                    "Supports bulk transport of oil, coal, and raw materials",
+                    "Reduces transport cost significantly",
+                    "Connects major industrial regions",
+                    "Strategic importance for global geopolitics"
+                ]
+            },
+            {
+                "heading": "Inland Waterways",
+                "points": [
+                    "Inland waterways refer to transport on rivers, lakes, and canals",
+                    "They are the cheapest mode of transport after ocean shipping",
+                    "Suitable for bulky and low-value goods",
+                    "Depends on navigable rivers and water availability",
+                    "Used for both passenger and freight transport"
+                ]
+            },
+            {
+                "heading": "Advantages of Inland Waterways",
+                "points": [
+                    "Low transport cost",
+                    "Energy efficient and eco-friendly",
+                    "Suitable for heavy goods",
+                    "Reduces road congestion",
+                    "Supports regional connectivity"
+                ]
+            },
+            {
+                "heading": "Limitations of Inland Waterways",
+                "points": [
+                    "Seasonal fluctuations in water levels",
+                    "Slow speed compared to road and rail",
+                    "Limited navigable rivers",
+                    "Requires maintenance of channels",
+                    "Dependent on geography and climate"
+                ]
+            },
+            {
+                "heading": "Main Regions of Inland Waterways – World",
+                "points": [
+                    "Europe – Rhine, Danube rivers (highly developed network)",
+                    "USA – Mississippi-Missouri river system",
+                    "China – Yangtze River (major inland water transport)",
+                    "Russia – Volga River system",
+                    "India – Ganga-Brahmaputra system (limited but developing)"
+                ]
+            },
+            {
+                "heading": "Railways – Factors Affecting Railroads",
+                "points": [
+                    "Relief – plains favor rail development, mountains hinder it",
+                    "Climate – extreme climates affect construction and operation",
+                    "Population density – higher density supports rail networks",
+                    "Economic development – industrial regions need rail connectivity",
+                    "Availability of capital and technology",
+                    "Historical and colonial development patterns"
+                ]
+            },
+            {
+                "heading": "Importance of Railways",
+                "points": [
+                    "Efficient for long-distance bulk transport",
+                    "Supports industrial and agricultural development",
+                    "Reduces transport cost over long distances",
+                    "Provides employment at large scale",
+                    "Important for national integration"
+                ]
+            },
+            {
+                "heading": "Distribution of Railroads in the World",
+                "points": [
+                    "North America – highly developed rail network (USA, Canada)",
+                    "Europe – dense and efficient rail system",
+                    "Asia – rapidly expanding network (China, India, Japan)",
+                    "Russia – Trans-Siberian Railway is major link",
+                    "Africa – limited and uneven rail development",
+                    "South America – concentrated in industrial regions like Brazil and Argentina"
+                ]
+            },
+            {
+                "heading": "Global Rail Transport Pattern",
+                "points": [
+                    "Developed countries have dense rail networks",
+                    "Developing countries have uneven and expanding networks",
+                    "Industrial regions show higher rail density",
+                    "Coastal and urban areas have better connectivity",
+                    "Railways are declining in passenger share in some regions but growing in freight"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Busiest ocean transport route in the world is:",
+                    "options": [
+                    "North Atlantic Route",
+                    "Pacific Route",
+                    "Indian Ocean Route",
+                    "Arctic Route"
+                    ],
+                    "answer": "North Atlantic Route"
+                },
+                {
+                    "question": "Suez Canal connects:",
+                    "options": [
+                    "Atlantic and Pacific",
+                    "Europe and Asia",
+                    "India and Australia",
+                    "Africa and America"
+                    ],
+                    "answer": "Europe and Asia"
+                },
+                {
+                    "question": "Cheapest mode of transport is:",
+                    "options": [
+                    "Air",
+                    "Rail",
+                    "Road",
+                    "Ocean"
+                    ],
+                    "answer": "Ocean"
+                },
+                {
+                    "question": "Major river system for inland waterways in USA is:",
+                    "options": [
+                    "Nile",
+                    "Mississippi-Missouri",
+                    "Amazon",
+                    "Yangtze"
+                    ],
+                    "answer": "Mississippi-Missouri"
+                },
+                {
+                    "question": "Trans-Siberian Railway is located in:",
+                    "options": [
+                    "China",
+                    "Russia",
+                    "India",
+                    "USA"
+                    ],
+                    "answer": "Russia"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Inland waterways are best suited for:",
+                    "options": [
+                    "Fast transport",
+                    "Bulk and cheap transport",
+                    "Air travel",
+                    "Mountain regions only"
+                    ],
+                    "answer": "Bulk and cheap transport"
+                },
+                {
+                    "question": "Strait of Hormuz is important for:",
+                    "options": [
+                    "Coal transport",
+                    "Oil transport",
+                    "Food grains",
+                    "Textiles"
+                    ],
+                    "answer": "Oil transport"
+                },
+                {
+                    "question": "Railway development is best in:",
+                    "options": [
+                    "Mountains",
+                    "Plains",
+                    "Deserts only",
+                    "Polar regions only"
+                    ],
+                    "answer": "Plains"
+                },
+                {
+                    "question": "Yangtze River is located in:",
+                    "options": [
+                    "India",
+                    "China",
+                    "USA",
+                    "Brazil"
+                    ],
+                    "answer": "China"
+                },
+                {
+                    "question": "Rail transport is important for:",
+                    "options": [
+                    "Only passengers",
+                    "Bulk goods transport",
+                    "Fishing",
+                    "Forest protection"
+                    ],
+                    "answer": "Bulk goods transport"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Inland waterways are cheapest mode of transport\n2. North Atlantic route is busiest ocean route\n3. Railways depend on relief and population density",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "All"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Suez Canal – Europe-Asia link",
+                    "Panama Canal – India-Europe link",
+                    "Mississippi – Europe river",
+                    "Volga – Africa river"
+                    ],
+                    "answer": "Suez Canal – Europe-Asia link"
+                },
+                {
+                    "question": "Railway density is highest in:",
+                    "options": [
+                    "Africa",
+                    "Europe",
+                    "Australia",
+                    "Greenland"
+                    ],
+                    "answer": "Europe"
+                },
+                {
+                    "question": "Inland waterways are limited in India due to:",
+                    "options": [
+                    "Too many rivers",
+                    "Seasonal water flow and siltation",
+                    "Excess rainfall everywhere",
+                    "High population only"
+                    ],
+                    "answer": "Seasonal water flow and siltation"
+                },
+                {
+                    "question": "Ocean routes are important because they:",
+                    "options": [
+                    "Increase cost",
+                    "Facilitate global trade",
+                    "Reduce trade",
+                    "Stop migration"
+                    ],
+                    "answer": "Facilitate global trade"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Air Transport & Pipeline Transport",
+        "notes": [
+            {
+                "heading": "Air Transport – Overview",
+                "points": [
+                    "Air transport is the fastest mode of transport in the world",
+                    "It is mainly used for passengers, high-value goods, and emergency services",
+                    "It requires high capital investment and advanced technology",
+                    "It is less affected by physical barriers like mountains and oceans",
+                    "It is an important component of global connectivity"
+                ]
+            },
+            {
+                "heading": "Factors Influencing Air Transport",
+                "points": [
+                    "Economic development – richer regions have better air networks",
+                    "Population and demand – high demand areas have more air routes",
+                    "Geographical conditions – plains and open spaces favor airports",
+                    "Technological advancement – modern aircraft and navigation systems",
+                    "Political stability – safe air routes depend on stable regions",
+                    "International trade and tourism demand"
+                ]
+            },
+            {
+                "heading": "Limitations of Air Transport",
+                "points": [
+                    "Very high operational and maintenance cost",
+                    "Weather conditions can disrupt flights",
+                    "Requires large infrastructure like airports and runways",
+                    "Limited use for bulky and low-value goods",
+                    "High fuel consumption"
+                ]
+            },
+            {
+                "heading": "Air Transport in Various Continents – North America",
+                "points": [
+                    "Highly developed air transport network",
+                    "USA has the world’s largest domestic air network",
+                    "Major hubs: New York, Chicago, Atlanta, Los Angeles",
+                    "Strong integration of passenger and cargo services",
+                    "Advanced aviation technology and infrastructure"
+                ]
+            },
+            {
+                "heading": "Air Transport in Europe",
+                "points": [
+                    "Dense network of international and domestic flights",
+                    "Short-distance international routes are very common",
+                    "Major hubs: London, Paris, Frankfurt, Amsterdam",
+                    "Well-connected low-cost airline network",
+                    "Important for tourism and business travel"
+                ]
+            },
+            {
+                "heading": "Air Transport in Asia",
+                "points": [
+                    "Rapidly growing aviation market",
+                    "China and India are major emerging aviation hubs",
+                    "Key airports: Beijing, Shanghai, Delhi, Tokyo, Dubai",
+                    "Increasing demand due to population and economic growth",
+                    "Strong growth in both passenger and cargo traffic"
+                ]
+            },
+            {
+                "heading": "Air Transport in Africa",
+                "points": [
+                    "Less developed compared to other continents",
+                    "Limited connectivity between countries",
+                    "Major hubs: Johannesburg, Nairobi, Cairo",
+                    "Challenges include poor infrastructure and low demand",
+                    "Air transport mainly used for international routes"
+                ]
+            },
+            {
+                "heading": "Air Transport in South America",
+                "points": [
+                    "Moderately developed air transport system",
+                    "Major hubs: São Paulo, Buenos Aires, Rio de Janeiro",
+                    "Challenging geography like Andes affects connectivity",
+                    "Air transport important due to poor road networks",
+                    "Growing tourism sector supports aviation"
+                ]
+            },
+            {
+                "heading": "Pipeline Transport – Overview",
+                "points": [
+                    "Pipeline transport is used to move liquids and gases over long distances",
+                    "It is mainly used for petroleum, natural gas, and chemicals",
+                    "It is a safe and continuous mode of transport",
+                    "It has low operating cost after installation",
+                    "It is highly reliable and efficient for energy transport"
+                ]
+            },
+            {
+                "heading": "Advantages of Pipeline Transport",
+                "points": [
+                    "Continuous and uninterrupted flow",
+                    "Low maintenance and operational cost",
+                    "Safe compared to road and rail transport",
+                    "Minimal environmental disruption on surface",
+                    "Efficient for long-distance energy transport"
+                ]
+            },
+            {
+                "heading": "Disadvantages of Pipeline Transport",
+                "points": [
+                    "Very high initial installation cost",
+                    "Limited to liquids and gases",
+                    "Not flexible once installed",
+                    "Risk of leakage and environmental damage",
+                    "Difficult to repair in remote areas"
+                ]
+            },
+            {
+                "heading": "Petroleum (Oil) Pipelines",
+                "points": [
+                    "Used to transport crude oil and refined petroleum products",
+                    "Connect oil fields, refineries, and distribution centers",
+                    "Important for energy security",
+                    "Reduce dependency on road and rail transport",
+                    "Examples include pipelines in USA, Russia, and Middle East"
+                ]
+            },
+            {
+                "heading": "Major Oil Pipeline Regions",
+                "points": [
+                    "USA – extensive crude oil pipeline network",
+                    "Russia – long-distance pipelines from Siberia",
+                    "Middle East – oil transport from fields to ports",
+                    "Europe – interconnected refinery pipeline systems",
+                    "India – pipelines from Assam, Gujarat, and offshore fields"
+                ]
+            },
+            {
+                "heading": "Gas Pipelines",
+                "points": [
+                    "Used for transporting natural gas over long distances",
+                    "Important for domestic and industrial energy supply",
+                    "More efficient and cleaner than coal and oil transport",
+                    "Requires compression stations for long-distance flow",
+                    "Supports power generation and fertilizer industries"
+                ]
+            },
+            {
+                "heading": "Major Gas Pipeline Regions",
+                "points": [
+                    "Russia – largest gas pipeline network (to Europe and Asia)",
+                    "USA – extensive interstate gas pipeline system",
+                    "Middle East – pipelines connecting gas fields and ports",
+                    "China – expanding pipeline network from Central Asia",
+                    "India – Hazira-Vijaipur-Jagdishpur (HVJ) pipeline system"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Fastest mode of transport is:",
+                    "options": [
+                    "Rail",
+                    "Road",
+                    "Air",
+                    "Water"
+                    ],
+                    "answer": "Air"
+                },
+                {
+                    "question": "Pipeline transport is mainly used for:",
+                    "options": [
+                    "Passengers",
+                    "Liquids and gases",
+                    "Coal only",
+                    "Forest products"
+                    ],
+                    "answer": "Liquids and gases"
+                },
+                {
+                    "question": "Air transport is most developed in:",
+                    "options": [
+                    "Africa",
+                    "North America",
+                    "Polar regions",
+                    "Deserts only"
+                    ],
+                    "answer": "North America"
+                },
+                {
+                    "question": "Pipeline transport has:",
+                    "options": [
+                    "High flexibility",
+                    "Low initial cost",
+                    "High initial cost",
+                    "No investment needed"
+                    ],
+                    "answer": "High initial cost"
+                },
+                {
+                    "question": "Gas pipelines are mainly used for:",
+                    "options": [
+                    "Food transport",
+                    "Energy supply",
+                    "Water irrigation only",
+                    "Coal transport"
+                    ],
+                    "answer": "Energy supply"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Air transport is most suitable for:",
+                    "options": [
+                    "Bulk goods",
+                    "High-value and urgent goods",
+                    "Coal transport",
+                    "Forest products"
+                    ],
+                    "answer": "High-value and urgent goods"
+                },
+                {
+                    "question": "Pipeline transport is best for:",
+                    "options": [
+                    "Flexible transport",
+                    "Continuous flow of oil and gas",
+                    "Passenger transport",
+                    "Short-distance travel"
+                    ],
+                    "answer": "Continuous flow of oil and gas"
+                },
+                {
+                    "question": "Air transport is highly influenced by:",
+                    "options": [
+                    "Ocean currents",
+                    "Weather conditions",
+                    "Soil type",
+                    "Forest density"
+                    ],
+                    "answer": "Weather conditions"
+                },
+                {
+                    "question": "HVJ pipeline is located in:",
+                    "options": [
+                    "India",
+                    "USA",
+                    "Russia",
+                    "China"
+                    ],
+                    "answer": "India"
+                },
+                {
+                    "question": "Pipeline transport is least suitable for:",
+                    "options": [
+                    "Oil",
+                    "Gas",
+                    "Passengers",
+                    "Chemicals"
+                    ],
+                    "answer": "Passengers"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Air transport is fastest mode\n2. Pipeline transport is continuous and safe\n3. Air transport is cheapest mode",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Pipeline – oil and gas transport",
+                    "Air – cheapest bulk transport",
+                    "Rail – fastest mode",
+                    "Road – only international trade"
+                    ],
+                    "answer": "Pipeline – oil and gas transport"
+                },
+                {
+                    "question": "Air transport is highly developed in:",
+                    "options": [
+                    "Africa",
+                    "North America",
+                    "Antarctica",
+                    "Greenland"
+                    ],
+                    "answer": "North America"
+                },
+                {
+                    "question": "Gas pipelines are important for:",
+                    "options": [
+                    "Industrial energy supply",
+                    "Fishing industry",
+                    "Tourism only",
+                    "Forestry"
+                    ],
+                    "answer": "Industrial energy supply"
+                },
+                {
+                    "question": "Pipeline transport advantage is:",
+                    "options": [
+                    "High speed",
+                    "Low operational cost",
+                    "Passenger comfort",
+                    "Flexibility"
+                    ],
+                    "answer": "Low operational cost"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,588 @@
+TOPICS = [
+    {
+        "name": "Insurgency in North-East India: Issues & Conflicts",
+        "notes": [
+            {
+                "heading": "Insurgency in North-East – Overview",
+                "points": [
+                    "North-East India has witnessed long-standing insurgency movements across multiple states",
+                    "Insurgency refers to armed rebellion against the state for autonomy or independence",
+                    "The region is ethnically diverse with multiple tribes, languages, and identities",
+                    "Many conflicts arise from demands for autonomy, identity, and resources",
+                    "Geographical isolation has contributed to underdevelopment and unrest"
+                ]
+            },
+            {
+                "heading": "Major States Affected",
+                "points": [
+                    "Assam",
+                    "Nagaland",
+                    "Manipur",
+                    "Arunachal Pradesh",
+                    "Meghalaya",
+                    "Tripura",
+                    "Mizoram (historically resolved but important for context)"
+                ]
+            },
+            {
+                "heading": "Nature of Insurgency in North-East",
+                "points": [
+                    "Ethnic identity-based movements",
+                    "Demand for separate states or independence",
+                    "Inter-tribal and inter-community conflicts",
+                    "Cross-border linkages with neighboring countries",
+                    "Use of armed groups and underground organizations",
+                    "Periodic peace talks and ceasefire agreements"
+                ]
+            },
+            {
+                "heading": "Major Causes of Insurgency",
+                "points": [
+                    "Ethnic diversity and identity assertion",
+                    "Historical neglect by central administration",
+                    "Underdevelopment and lack of infrastructure",
+                    "Illegal migration and demographic concerns",
+                    "Demand for autonomy and self-governance",
+                    "Porous international borders"
+                ]
+            },
+            {
+                "heading": "Ethnic Conflicts in North-East",
+                "points": [
+                    "Multiple tribes competing for land and political power",
+                    "Frequent clashes between different ethnic groups",
+                    "Demand for separate autonomous councils or states",
+                    "Competition over resources and territorial control",
+                    "Identity-based mobilization by insurgent groups"
+                ]
+            },
+            {
+                "heading": "Key Insurgent Groups",
+                "points": [
+                    "NSCN (National Socialist Council of Nagaland)",
+                    "ULFA (United Liberation Front of Assam)",
+                    "PLA (People’s Liberation Army – Manipur)",
+                    "Bodo groups in Assam",
+                    "Various smaller tribal militant organizations",
+                    "Many groups have signed peace accords but factions remain active"
+                ]
+            },
+            {
+                "heading": "Issues & Conflicts – Overview",
+                "points": [
+                    "Conflicts are both intra-state and inter-state in nature",
+                    "Land and identity disputes are major triggers",
+                    "Illegal migration adds demographic pressure",
+                    "Resource distribution disputes fuel tensions",
+                    "Frequent violence between insurgent groups and security forces"
+                ]
+            },
+            {
+                "heading": "Inter-State and Inter-Ethnic Conflicts",
+                "points": [
+                    "Border disputes between North-Eastern states",
+                    "Clashes between tribal and non-tribal communities",
+                    "Competition for political representation",
+                    "Conflicts over land ownership and customary rights",
+                    "Ethnic exclusion in governance structures"
+                ]
+            },
+            {
+                "heading": "Cross-Border Linkages",
+                "points": [
+                    "Insurgent groups use neighboring countries as safe havens",
+                    "Myanmar border used for movement of armed groups",
+                    "Bangladesh historically provided shelter to some groups",
+                    "Arms and drug trafficking through porous borders",
+                    "External support and training camps in some cases"
+                ]
+            },
+            {
+                "heading": "Impact of Insurgency",
+                "points": [
+                    "Loss of human lives and displacement of people",
+                    "Disruption of economic development",
+                    "Poor infrastructure and investment hesitancy",
+                    "Weak governance in remote areas",
+                    "Psychological fear among civilians",
+                    "Distortion of democratic processes"
+                ]
+            },
+            {
+                "heading": "Government Response – Security Measures",
+                "points": [
+                    "Deployment of Army and paramilitary forces",
+                    "Armed Forces Special Powers Act (AFSPA) in certain areas",
+                    "Counter-insurgency operations",
+                    "Border fencing and surveillance",
+                    "Intelligence-based operations against militant groups"
+                ]
+            },
+            {
+                "heading": "Government Response – Political Measures",
+                "points": [
+                    "Peace accords with insurgent groups (e.g., Bodo Accord, Naga peace talks)",
+                    "Autonomous district councils under Sixth Schedule",
+                    "Decentralization and local governance empowerment",
+                    "Dialogue and negotiation with insurgent groups",
+                    "Integration of militants through rehabilitation programs"
+                ]
+            },
+            {
+                "heading": "Government Response – Development Measures",
+                "points": [
+                    "Infrastructure development (roads, railways, airports)",
+                    "Act East Policy for regional integration",
+                    "Special development packages for North-East states",
+                    "Promotion of tourism and connectivity",
+                    "Skill development and employment generation",
+                    "Focus on inclusive growth"
+                ]
+            },
+            {
+                "heading": "Challenges in Resolving Insurgency",
+                "points": [
+                    "Fragmentation of insurgent groups",
+                    "Frequent breakdown of peace talks",
+                    "Inter-ethnic distrust and historical grievances",
+                    "Difficult terrain and border issues",
+                    "External influence and safe havens",
+                    "Slow pace of development implementation"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Insurgency refers to:",
+                    "options": [
+                    "Natural disaster",
+                    "Armed rebellion against the state",
+                    "Economic growth",
+                    "Education reform"
+                    ],
+                    "answer": "Armed rebellion against the state"
+                },
+                {
+                    "question": "One major cause of North-East insurgency is:",
+                    "options": [
+                    "Overdevelopment",
+                    "Ethnic diversity and identity issues",
+                    "High industrial growth",
+                    "Strong governance"
+                    ],
+                    "answer": "Ethnic diversity and identity issues"
+                },
+                {
+                    "question": "ULFA is active in:",
+                    "options": [
+                    "Kerala",
+                    "Assam",
+                    "Punjab",
+                    "Gujarat"
+                    ],
+                    "answer": "Assam"
+                },
+                {
+                    "question": "AFSPA is related to:",
+                    "options": [
+                    "Agriculture policy",
+                    "Security operations in disturbed areas",
+                    "Education reforms",
+                    "Trade laws"
+                    ],
+                    "answer": "Security operations in disturbed areas"
+                },
+                {
+                    "question": "One impact of insurgency is:",
+                    "options": [
+                    "Economic growth",
+                    "Infrastructure disruption",
+                    "Increased tourism",
+                    "Urban development"
+                    ],
+                    "answer": "Infrastructure disruption"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Insurgency in North-East is mainly:",
+                    "options": [
+                    "Economic only",
+                    "Ethnic and identity-based",
+                    "Climate-driven",
+                    "Technological"
+                    ],
+                    "answer": "Ethnic and identity-based"
+                },
+                {
+                    "question": "One challenge in North-East is:",
+                    "options": [
+                    "Strong infrastructure",
+                    "Inter-ethnic conflicts",
+                    "High literacy everywhere",
+                    "No diversity"
+                    ],
+                    "answer": "Inter-ethnic conflicts"
+                },
+                {
+                    "question": "Insurgent groups often use:",
+                    "options": [
+                    "Peaceful protest only",
+                    "Cross-border safe havens",
+                    "Legal systems",
+                    "Trade agreements"
+                    ],
+                    "answer": "Cross-border safe havens"
+                },
+                {
+                    "question": "One government approach is:",
+                    "options": [
+                    "Only military action",
+                    "Peace accords and dialogue",
+                    "Ignoring conflicts",
+                    "Reducing governance"
+                    ],
+                    "answer": "Peace accords and dialogue"
+                },
+                {
+                    "question": "Act East Policy aims at:",
+                    "options": [
+                    "West Asia focus",
+                    "Regional connectivity and integration",
+                    "Space exploration",
+                    "Agriculture expansion"
+                    ],
+                    "answer": "Regional connectivity and integration"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. North-East insurgency is mainly ethnic in nature\n2. There are no cross-border linkages\n3. Peace accords are part of government strategy",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "1 and 3"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "ULFA – Assam insurgency",
+                    "NSCN – Kerala movement",
+                    "PLA – Tamil Nadu group",
+                    "Bodo – Punjab movement"
+                    ],
+                    "answer": "ULFA – Assam insurgency"
+                },
+                {
+                    "question": "Insurgency persists in North-East due to:",
+                    "options": [
+                    "No diversity",
+                    "Historical neglect and identity issues",
+                    "Overdevelopment",
+                    "Strong central control"
+                    ],
+                    "answer": "Historical neglect and identity issues"
+                },
+                {
+                    "question": "One key challenge is:",
+                    "options": [
+                    "Easy governance",
+                    "Fragmented insurgent groups",
+                    "No conflict history",
+                    "Uniform population"
+                    ],
+                    "answer": "Fragmented insurgent groups"
+                },
+                {
+                    "question": "Effective solution requires:",
+                    "options": [
+                    "Only force",
+                    "Development, dialogue, and integration",
+                    "Ignoring grievances",
+                    "Reducing connectivity"
+                    ],
+                    "answer": "Development, dialogue, and integration"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Assam Insurgency",
+        "notes": [
+            {
+                "heading": "Assam Insurgency – Overview",
+                "points": [
+                    "Assam has been one of the most important insurgency-affected states in North-East India",
+                    "Insurgency here is mainly driven by ethnic identity, migration issues, and resource control",
+                    "Key groups include ULFA, Bodo militant groups, and smaller ethnic factions",
+                    "Over time, violence has reduced due to peace accords and development efforts",
+                    "However, some dormant and splinter groups still exist"
+                ]
+            },
+            {
+                "heading": "Historical Background",
+                "points": [
+                    "Insurgency intensified in Assam during the late 1970s and 1980s",
+                    "Rooted in anti-foreigner movement and Assam Agitation (1979–1985)",
+                    "ULFA formed in 1979 demanding an independent Assam",
+                    "Ethnic tensions increased due to illegal migration concerns",
+                    "Bodo movement also emerged for separate autonomy/statehood"
+                ]
+            },
+            {
+                "heading": "Major Insurgent Groups in Assam",
+                "points": [
+                    "ULFA (United Liberation Front of Asom) – seeks sovereignty of Assam",
+                    "NDFB (National Democratic Front of Bodoland) – Bodo autonomy movement",
+                    "KLNLF and smaller ethnic armed groups",
+                    "Splinter factions of ULFA and Bodo groups still active in limited capacity",
+                    "Many groups have entered peace talks or ceasefire agreements"
+                ]
+            },
+            {
+                "heading": "Causes of Assam Insurgency",
+                "points": [
+                    "Illegal immigration from neighboring Bangladesh",
+                    "Ethnic identity assertion and cultural protection",
+                    "Economic underdevelopment and unemployment",
+                    "Competition for land and resources",
+                    "Political marginalization of indigenous groups",
+                    "Historical grievances and identity insecurity"
+                ]
+            },
+            {
+                "heading": "Ethnic and Identity Issues",
+                "points": [
+                    "Conflict between indigenous Assamese and migrant populations",
+                    "Demand for protection of language and culture",
+                    "Bodo community’s demand for Bodoland state/autonomy",
+                    "Inter-tribal tensions within Assam",
+                    "Frequent clashes over land ownership and representation"
+                ]
+            },
+            {
+                "heading": "Role of Illegal Migration",
+                "points": [
+                    "Perceived demographic change due to cross-border migration",
+                    "Political and economic tensions arising from migration",
+                    "Key trigger of Assam Movement (1979–1985)",
+                    "Led to Assam Accord of 1985",
+                    "Continues to influence identity-based politics"
+                ]
+            },
+            {
+                "heading": "Impact of Assam Insurgency",
+                "points": [
+                    "Loss of lives and displacement of civilians",
+                    "Economic disruption and reduced investment",
+                    "Fear and instability in affected regions",
+                    "Weak industrial and infrastructure development",
+                    "Disturbance in law and order situation",
+                    "Impact on tourism and regional growth"
+                ]
+            },
+            {
+                "heading": "Government Measures – Political Solutions",
+                "points": [
+                    "Assam Accord (1985) to address illegal migration and identity issues",
+                    "Peace talks with ULFA and Bodo groups",
+                    "Creation of Bodoland Territorial Region (BTR)",
+                    "Autonomous councils for tribal groups",
+                    "Rehabilitation of surrendered militants"
+                ]
+            },
+            {
+                "heading": "Government Measures – Security Response",
+                "points": [
+                    "Deployment of Army, Assam Rifles, and paramilitary forces",
+                    "Counter-insurgency operations against militant groups",
+                    "Strengthening border security with Bangladesh",
+                    "Use of intelligence-based operations",
+                    "Monitoring of arms smuggling networks"
+                ]
+            },
+            {
+                "heading": "Government Measures – Developmental Approach",
+                "points": [
+                    "Infrastructure development under Act East Policy",
+                    "Special packages for Assam development",
+                    "Focus on education, employment, and skill development",
+                    "Improvement in road, rail, and connectivity networks",
+                    "Promotion of industrial investment in Assam"
+                ]
+            },
+            {
+                "heading": "Peace Process and Current Situation",
+                "points": [
+                    "Most major insurgent groups have entered peace agreements",
+                    "ULFA faction (pro-talk) engaged in negotiations",
+                    "Bodo Accord (2020) improved stability in Bodoland region",
+                    "Reduction in violence compared to earlier decades",
+                    "Some splinter groups still remain active at low levels"
+                ]
+            },
+            {
+                "heading": "Challenges Remaining",
+                "points": [
+                    "Residual militant factions still active",
+                    "Unresolved identity and migration concerns",
+                    "Slow economic development in some areas",
+                    "Inter-ethnic tensions in certain districts",
+                    "Need for better implementation of peace accords"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "ULFA stands for:",
+                    "options": [
+                    "United Liberation Front of Assam",
+                    "United Legal Force of Assam",
+                    "Unified Local Federation of Assam",
+                    "Urban Liberation Front of Assam"
+                    ],
+                    "answer": "United Liberation Front of Assam"
+                },
+                {
+                    "question": "Assam insurgency mainly began in:",
+                    "options": [
+                    "1950s",
+                    "1970s–1980s",
+                    "2000s",
+                    "1940s"
+                    ],
+                    "answer": "1970s–1980s"
+                },
+                {
+                    "question": "Bodo movement is related to:",
+                    "options": [
+                    "Maritime security",
+                    "Ethnic autonomy demand",
+                    "Space research",
+                    "Agriculture reform"
+                    ],
+                    "answer": "Ethnic autonomy demand"
+                },
+                {
+                    "question": "Assam Accord was signed in:",
+                    "options": [
+                    "1975",
+                    "1985",
+                    "1995",
+                    "2005"
+                    ],
+                    "answer": "1985"
+                },
+                {
+                    "question": "One major cause of Assam insurgency is:",
+                    "options": [
+                    "Climate change",
+                    "Illegal migration",
+                    "Industrial growth",
+                    "Space exploration"
+                    ],
+                    "answer": "Illegal migration"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Assam insurgency is mainly:",
+                    "options": [
+                    "Economic only",
+                    "Ethnic and identity-based",
+                    "Technological",
+                    "Purely political"
+                    ],
+                    "answer": "Ethnic and identity-based"
+                },
+                {
+                    "question": "ULFA’s original demand was:",
+                    "options": [
+                    "Autonomous district",
+                    "Independent Assam",
+                    "Tax reforms",
+                    "Agriculture policy"
+                    ],
+                    "answer": "Independent Assam"
+                },
+                {
+                    "question": "Bodoland Territorial Region was created to:",
+                    "options": [
+                    "Promote tourism",
+                    "Address ethnic autonomy demands",
+                    "Increase urbanization",
+                    "Improve trade"
+                    ],
+                    "answer": "Address ethnic autonomy demands"
+                },
+                {
+                    "question": "One impact of insurgency is:",
+                    "options": [
+                    "High investment growth",
+                    "Economic disruption",
+                    "Better governance",
+                    "Urban expansion"
+                    ],
+                    "answer": "Economic disruption"
+                },
+                {
+                    "question": "Counter-insurgency in Assam includes:",
+                    "options": [
+                    "Only diplomacy",
+                    "Security and development measures",
+                    "Only trade reforms",
+                    "Only education policy"
+                    ],
+                    "answer": "Security and development measures"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Assam insurgency is linked to identity issues\n2. ULFA demands full independence\n3. Assam Accord addressed illegal migration",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "All"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "ULFA – Assam insurgency group",
+                    "Bodo – Kerala movement",
+                    "Assam Accord – 2005 agreement",
+                    "NDFB – Tamil Nadu group"
+                    ],
+                    "answer": "ULFA – Assam insurgency group"
+                },
+                {
+                    "question": "Assam insurgency declined mainly due to:",
+                    "options": [
+                    "Increase in violence",
+                    "Peace accords and development",
+                    "No government action",
+                    "Urbanization only"
+                    ],
+                    "answer": "Peace accords and development"
+                },
+                {
+                    "question": "Illegal migration is important in Assam because:",
+                    "options": [
+                    "It has no impact",
+                    "It affects demographic and identity issues",
+                    "It improves economy only",
+                    "It reduces conflicts"
+                    ],
+                    "answer": "It affects demographic and identity issues"
+                },
+                {
+                    "question": "Effective solution requires:",
+                    "options": [
+                    "Only military action",
+                    "Integrated development, security, and dialogue",
+                    "Ignoring ethnic issues",
+                    "Stopping governance"
+                    ],
+                    "answer": "Integrated development, security, and dialogue"
+                }
+            ]
+        }
+    }
+]

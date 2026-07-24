@@ -1,0 +1,1866 @@
+TOPICS = [
+    {
+        "name": "Fundamental Duties (Article 51A)",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Fundamental Duties are listed in Part IV-A of the Constitution",
+                    "They were added by the 42nd Constitutional Amendment Act, 1976",
+                    "Originally 10 duties, later 11th duty added by 86th Amendment Act, 2002",
+                    "They apply only to citizens, not foreigners",
+                    "They are non-justiciable (cannot be enforced by courts)"
+                ]
+            },
+            {
+                "heading": "Meaning and Purpose",
+                "points": [
+                    "Fundamental Duties are moral obligations of citizens",
+                    "They aim to promote discipline and responsibility",
+                    "Balance Fundamental Rights with civic responsibilities",
+                    "Encourage patriotism and unity of nation"
+                ]
+            },
+            {
+                "heading": "List of Fundamental Duties (Article 51A)",
+                "points": [
+                    "To abide by the Constitution and respect its ideals and institutions",
+                    "To cherish and follow the noble ideals of the freedom struggle",
+                    "To uphold and protect the sovereignty, unity, and integrity of India",
+                    "To defend the country and render national service when called upon",
+                    "To promote harmony and spirit of common brotherhood",
+                    "To preserve the rich heritage of our composite culture",
+                    "To protect and improve the natural environment",
+                    "To develop scientific temper, humanism, and spirit of inquiry",
+                    "To safeguard public property and abjure violence",
+                    "To strive towards excellence in all spheres of individual and collective activity",
+                    "Parents/guardians to provide education to children aged 6–14 years (added by 86th Amendment)"
+                ]
+            },
+            {
+                "heading": "Features of Fundamental Duties",
+                "points": [
+                    "Non-justiciable in nature",
+                    "Applicable only to citizens",
+                    "Moral and civic obligations",
+                    "Derived from Constitution of former USSR",
+                    "Act as a reminder of civic responsibilities"
+                ]
+            },
+            {
+                "heading": "Importance of Fundamental Duties",
+                "points": [
+                    "Promote discipline among citizens",
+                    "Help in maintaining national integrity",
+                    "Support democratic functioning",
+                    "Encourage environmental protection",
+                    "Strengthen unity and harmony in society"
+                ]
+            },
+            {
+                "heading": "42nd Amendment Act, 1976",
+                "points": [
+                    "Introduced 10 Fundamental Duties",
+                    "Added Article 51A to the Constitution",
+                    "Made during Emergency period",
+                    "Recommended by Swaran Singh Committee"
+                ]
+            },
+            {
+                "heading": "86th Amendment Act, 2002",
+                "points": [
+                    "Added the 11th Fundamental Duty",
+                    "Made education a duty of parents/guardians",
+                    "Linked to Article 21A (Right to Education)",
+                    "Strengthened child education framework"
+                ]
+            },
+            {
+                "heading": "Limitations of Fundamental Duties",
+                "points": [
+                    "Not legally enforceable",
+                    "No punishment for violation",
+                    "Lack of awareness among citizens",
+                    "Vague and moral in nature"
+                ]
+            },
+            {
+                "heading": "Judicial Importance",
+                "points": [
+                    "Courts use Fundamental Duties to interpret laws",
+                    "Support environmental and constitutional cases",
+                    "Help balance Fundamental Rights",
+                    "Promote constitutional morality"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Fundamental Duties are in Part IV-A (Article 51A)",
+                    "Originally 10, now 11 duties",
+                    "Added by 42nd and 86th Amendments",
+                    "They are non-justiciable but important for governance"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Fundamental Duties are in:",
+                    "options": ["Part III", "Part IV", "Part IV-A", "Part V"],
+                    "answer": "Part IV-A"
+                },
+                {
+                    "question": "Article for Fundamental Duties is:",
+                    "options": ["Article 21", "Article 32", "Article 51A", "Article 14"],
+                    "answer": "Article 51A"
+                },
+                {
+                    "question": "Fundamental Duties were added by:",
+                    "options": [
+                        "42nd Amendment",
+                        "44th Amendment",
+                        "52nd Amendment",
+                        "73rd Amendment"
+                    ],
+                    "answer": "42nd Amendment"
+                },
+                {
+                    "question": "Fundamental Duties are:",
+                    "options": [
+                        "Justiciable",
+                        "Non-justiciable",
+                        "Fundamental Rights",
+                        "Emergency laws"
+                    ],
+                    "answer": "Non-justiciable"
+                },
+                {
+                    "question": "Fundamental Duties apply to:",
+                    "options": [
+                        "Citizens only",
+                        "All persons",
+                        "Foreigners only",
+                        "Judges only"
+                    ],
+                    "answer": "Citizens only"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "How many Fundamental Duties are there currently?",
+                    "options": ["10", "11", "12", "9"],
+                    "answer": "11"
+                },
+                {
+                    "question": "11th Fundamental Duty was added by:",
+                    "options": [
+                        "42nd Amendment",
+                        "44th Amendment",
+                        "86th Amendment",
+                        "101st Amendment"
+                    ],
+                    "answer": "86th Amendment"
+                },
+                {
+                    "question": "Fundamental Duties were recommended by:",
+                    "options": [
+                        "Sarkaria Commission",
+                        "Swaran Singh Committee",
+                        "NITI Aayog",
+                        "Punchhi Commission"
+                    ],
+                    "answer": "Swaran Singh Committee"
+                },
+                {
+                    "question": "Which duty is related to environment?",
+                    "options": [
+                        "Respect Constitution",
+                        "Protect environment",
+                        "Defend country",
+                        "Promote unity"
+                    ],
+                    "answer": "Protect environment"
+                },
+                {
+                    "question": "Fundamental Duties are derived from:",
+                    "options": [
+                        "USA Constitution",
+                        "UK Constitution",
+                        "USSR Constitution",
+                        "France Constitution"
+                    ],
+                    "answer": "USSR Constitution"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Fundamental Duties are enforceable in courts\n2. They were added by 42nd Amendment\n3. They apply only to citizens",
+                    "options": ["2 and 3", "1 and 2", "3 only", "All"],
+                    "answer": "2 and 3"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Fundamental Duties are legal rights",
+                        "Fundamental Duties are moral obligations",
+                        "Fundamental Duties are enforceable laws",
+                        "Fundamental Duties are emergency provisions"
+                    ],
+                    "answer": "Fundamental Duties are moral obligations"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "FD were added in 1976",
+                        "FD are justiciable",
+                        "FD apply to citizens",
+                        "FD promote discipline"
+                    ],
+                    "answer": "FD are justiciable"
+                },
+                {
+                    "question": "Main purpose of Fundamental Duties is:",
+                    "options": [
+                        "To punish citizens",
+                        "To promote civic responsibility",
+                        "To remove Constitution",
+                        "To reduce rights"
+                    ],
+                    "answer": "To promote civic responsibility"
+                },
+                {
+                    "question": "Relationship between Fundamental Rights and Duties is:",
+                    "options": [
+                        "Unrelated",
+                        "Complementary",
+                        "Conflicting always",
+                        "Opposing"
+                    ],
+                    "answer": "Complementary"
+                }
+            ]
+        }
+    },
+
+    {
+        "name": "Swaran Singh Committee Recommendations (1976)",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Swaran Singh Committee was constituted in 1976 during the Emergency period",
+                    "It was set up to study and recommend changes related to Fundamental Duties",
+                    "Many of its recommendations were incorporated through the 42nd Constitutional Amendment Act, 1976",
+                    "It played a key role in introducing Fundamental Duties in the Constitution"
+                ]
+            },
+            {
+                "heading": "Background",
+                "points": [
+                    "Indian Constitution originally did not include Fundamental Duties",
+                    "Need felt to balance Fundamental Rights with civic responsibilities",
+                    "Emergency period emphasized discipline and national unity",
+                    "Committee was formed to suggest constitutional inclusion of duties"
+                ]
+            },
+            {
+                "heading": "Formation of Committee",
+                "points": [
+                    "Headed by Swaran Singh (then Minister of External Affairs)",
+                    "Set up by Indira Gandhi government in 1976",
+                    "Task: Recommend measures for strengthening citizen responsibilities",
+                    "Focus was on adding Fundamental Duties to Constitution"
+                ]
+            },
+            {
+                "heading": "Major Recommendations",
+                "points": [
+                    "Inclusion of Fundamental Duties in the Constitution",
+                    "Provision for penalties for non-compliance of certain duties",
+                    "Parliament should have power to impose punishment for violation",
+                    "Duties should include respect for Constitution, national unity, and public property",
+                    "Emphasis on discipline, patriotism, and integrity"
+                ]
+            },
+            {
+                "heading": "Key Idea of Enforcement",
+                "points": [
+                    "Committee initially recommended enforceable Fundamental Duties",
+                    "Suggested legal sanctions for violation of duties",
+                    "However, Parliament later rejected punitive enforcement idea",
+                    "Final duties became non-justiciable in nature"
+                ]
+            },
+            {
+                "heading": "Implementation through 42nd Amendment Act, 1976",
+                "points": [
+                    "10 Fundamental Duties were added under Article 51A",
+                    "Duties were made non-justiciable",
+                    "Focus shifted from punishment to moral obligation",
+                    "Duties included respect for Constitution, environment protection, and unity"
+                ]
+            },
+            {
+                "heading": "Significance",
+                "points": [
+                    "First formal inclusion of Fundamental Duties in India",
+                    "Strengthened constitutional balance between rights and duties",
+                    "Promoted civic responsibility among citizens",
+                    "Laid foundation for constitutional morality"
+                ]
+            },
+            {
+                "heading": "Criticism",
+                "points": [
+                    "Introduced during Emergency period (authoritarian context)",
+                    "Initially proposed punitive approach was controversial",
+                    "Duties are still non-justiciable and weak in enforcement",
+                    "Lack of awareness among citizens"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Swaran Singh Committee recommended Fundamental Duties",
+                    "Led to 42nd Constitutional Amendment Act, 1976",
+                    "Initially suggested enforceable duties, but later made non-justiciable",
+                    "Added Article 51A with 10 Fundamental Duties"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Swaran Singh Committee was formed in:",
+                    "options": ["1972", "1976", "1980", "1965"],
+                    "answer": "1976"
+                },
+                {
+                    "question": "Main focus of Swaran Singh Committee was:",
+                    "options": [
+                        "Fundamental Rights",
+                        "Fundamental Duties",
+                        "Judiciary reforms",
+                        "Election reforms"
+                    ],
+                    "answer": "Fundamental Duties"
+                },
+                {
+                    "question": "Fundamental Duties were added by:",
+                    "options": [
+                        "42nd Amendment",
+                        "44th Amendment",
+                        "52nd Amendment",
+                        "73rd Amendment"
+                    ],
+                    "answer": "42nd Amendment"
+                },
+                {
+                    "question": "Swaran Singh Committee was appointed during:",
+                    "options": [
+                        "Emergency period",
+                        "Independence movement",
+                        "British rule",
+                        "Post-2000 reforms"
+                    ],
+                    "answer": "Emergency period"
+                },
+                {
+                    "question": "Fundamental Duties are in:",
+                    "options": ["Part III", "Part IV", "Part IV-A", "Part V"],
+                    "answer": "Part IV-A"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Who headed Swaran Singh Committee?",
+                    "options": [
+                        "Indira Gandhi",
+                        "Swaran Singh",
+                        "B.R. Ambedkar",
+                        "Rajendra Prasad"
+                    ],
+                    "answer": "Swaran Singh"
+                },
+                {
+                    "question": "How many Fundamental Duties were initially added?",
+                    "options": ["8", "9", "10", "11"],
+                    "answer": "10"
+                },
+                {
+                    "question": "Committee initially suggested duties should be:",
+                    "options": [
+                        "Optional",
+                        "Enforceable",
+                        "Fundamental Rights",
+                        "Judicial guidelines"
+                    ],
+                    "answer": "Enforceable"
+                },
+                {
+                    "question": "Final nature of Fundamental Duties is:",
+                    "options": [
+                        "Justiciable",
+                        "Non-justiciable",
+                        "Mandatory punishment",
+                        "Fundamental Rights"
+                    ],
+                    "answer": "Non-justiciable"
+                },
+                {
+                    "question": "Which of the following is NOT a recommendation?",
+                    "options": [
+                        "Include Fundamental Duties",
+                        "Impose penalties for violation",
+                        "Abolish Constitution",
+                        "Promote discipline"
+                    ],
+                    "answer": "Abolish Constitution"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Swaran Singh Committee recommended Fundamental Duties\n2. Duties were made enforceable with penalties\n3. They were added by 42nd Amendment",
+                    "options": ["1 and 3", "2 and 3", "1 and 2", "All"],
+                    "answer": "1 and 3"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Fundamental Duties were always non-justiciable",
+                        "Committee recommended enforceable duties initially",
+                        "Duties were added in 1950",
+                        "Committee dealt with Fundamental Rights only"
+                    ],
+                    "answer": "Committee recommended enforceable duties initially"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Committee formed in 1976",
+                        "It was during Emergency",
+                        "It recommended Fundamental Duties",
+                        "It abolished Fundamental Rights"
+                    ],
+                    "answer": "It abolished Fundamental Rights"
+                },
+                {
+                    "question": "Main contribution of Swaran Singh Committee is:",
+                    "options": [
+                        "Introduction of DPSP",
+                        "Introduction of Fundamental Duties",
+                        "Creation of judiciary",
+                        "Abolition of Constitution"
+                    ],
+                    "answer": "Introduction of Fundamental Duties"
+                },
+                {
+                    "question": "Final outcome of committee recommendation was:",
+                    "options": [
+                        "Enforceable duties",
+                        "Non-justiciable duties",
+                        "No duties added",
+                        "Abolition of rights"
+                    ],
+                    "answer": "Non-justiciable duties"
+                }
+            ]
+        }
+    },
+
+    {
+        "name": "Swaran Singh Committee Recommendations (1976)",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Swaran Singh Committee was constituted in 1976 during the Emergency period",
+                    "It was set up to study and recommend changes related to Fundamental Duties",
+                    "Many of its recommendations were incorporated through the 42nd Constitutional Amendment Act, 1976",
+                    "It played a key role in introducing Fundamental Duties in the Constitution"
+                ]
+            },
+            {
+                "heading": "Background",
+                "points": [
+                    "Indian Constitution originally did not include Fundamental Duties",
+                    "Need felt to balance Fundamental Rights with civic responsibilities",
+                    "Emergency period emphasized discipline and national unity",
+                    "Committee was formed to suggest constitutional inclusion of duties"
+                ]
+            },
+            {
+                "heading": "Formation of Committee",
+                "points": [
+                    "Headed by Swaran Singh (then Minister of External Affairs)",
+                    "Set up by Indira Gandhi government in 1976",
+                    "Task: Recommend measures for strengthening citizen responsibilities",
+                    "Focus was on adding Fundamental Duties to Constitution"
+                ]
+            },
+            {
+                "heading": "Major Recommendations",
+                "points": [
+                    "Inclusion of Fundamental Duties in the Constitution",
+                    "Provision for penalties for non-compliance of certain duties",
+                    "Parliament should have power to impose punishment for violation",
+                    "Duties should include respect for Constitution, national unity, and public property",
+                    "Emphasis on discipline, patriotism, and integrity"
+                ]
+            },
+            {
+                "heading": "Key Idea of Enforcement",
+                "points": [
+                    "Committee initially recommended enforceable Fundamental Duties",
+                    "Suggested legal sanctions for violation of duties",
+                    "However, Parliament later rejected punitive enforcement idea",
+                    "Final duties became non-justiciable in nature"
+                ]
+            },
+            {
+                "heading": "Implementation through 42nd Amendment Act, 1976",
+                "points": [
+                    "10 Fundamental Duties were added under Article 51A",
+                    "Duties were made non-justiciable",
+                    "Focus shifted from punishment to moral obligation",
+                    "Duties included respect for Constitution, environment protection, and unity"
+                ]
+            },
+            {
+                "heading": "Significance",
+                "points": [
+                    "First formal inclusion of Fundamental Duties in India",
+                    "Strengthened constitutional balance between rights and duties",
+                    "Promoted civic responsibility among citizens",
+                    "Laid foundation for constitutional morality"
+                ]
+            },
+            {
+                "heading": "Criticism",
+                "points": [
+                    "Introduced during Emergency period (authoritarian context)",
+                    "Initially proposed punitive approach was controversial",
+                    "Duties are still non-justiciable and weak in enforcement",
+                    "Lack of awareness among citizens"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Swaran Singh Committee recommended Fundamental Duties",
+                    "Led to 42nd Constitutional Amendment Act, 1976",
+                    "Initially suggested enforceable duties, but later made non-justiciable",
+                    "Added Article 51A with 10 Fundamental Duties"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Swaran Singh Committee was formed in:",
+                    "options": ["1972", "1976", "1980", "1965"],
+                    "answer": "1976"
+                },
+                {
+                    "question": "Main focus of Swaran Singh Committee was:",
+                    "options": [
+                        "Fundamental Rights",
+                        "Fundamental Duties",
+                        "Judiciary reforms",
+                        "Election reforms"
+                    ],
+                    "answer": "Fundamental Duties"
+                },
+                {
+                    "question": "Fundamental Duties were added by:",
+                    "options": [
+                        "42nd Amendment",
+                        "44th Amendment",
+                        "52nd Amendment",
+                        "73rd Amendment"
+                    ],
+                    "answer": "42nd Amendment"
+                },
+                {
+                    "question": "Swaran Singh Committee was appointed during:",
+                    "options": [
+                        "Emergency period",
+                        "Independence movement",
+                        "British rule",
+                        "Post-2000 reforms"
+                    ],
+                    "answer": "Emergency period"
+                },
+                {
+                    "question": "Fundamental Duties are in:",
+                    "options": ["Part III", "Part IV", "Part IV-A", "Part V"],
+                    "answer": "Part IV-A"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Who headed Swaran Singh Committee?",
+                    "options": [
+                        "Indira Gandhi",
+                        "Swaran Singh",
+                        "B.R. Ambedkar",
+                        "Rajendra Prasad"
+                    ],
+                    "answer": "Swaran Singh"
+                },
+                {
+                    "question": "How many Fundamental Duties were initially added?",
+                    "options": ["8", "9", "10", "11"],
+                    "answer": "10"
+                },
+                {
+                    "question": "Committee initially suggested duties should be:",
+                    "options": [
+                        "Optional",
+                        "Enforceable",
+                        "Fundamental Rights",
+                        "Judicial guidelines"
+                    ],
+                    "answer": "Enforceable"
+                },
+                {
+                    "question": "Final nature of Fundamental Duties is:",
+                    "options": [
+                        "Justiciable",
+                        "Non-justiciable",
+                        "Mandatory punishment",
+                        "Fundamental Rights"
+                    ],
+                    "answer": "Non-justiciable"
+                },
+                {
+                    "question": "Which of the following is NOT a recommendation?",
+                    "options": [
+                        "Include Fundamental Duties",
+                        "Impose penalties for violation",
+                        "Abolish Constitution",
+                        "Promote discipline"
+                    ],
+                    "answer": "Abolish Constitution"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Swaran Singh Committee recommended Fundamental Duties\n2. Duties were made enforceable with penalties\n3. They were added by 42nd Amendment",
+                    "options": ["1 and 3", "2 and 3", "1 and 2", "All"],
+                    "answer": "1 and 3"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Fundamental Duties were always non-justiciable",
+                        "Committee recommended enforceable duties initially",
+                        "Duties were added in 1950",
+                        "Committee dealt with Fundamental Rights only"
+                    ],
+                    "answer": "Committee recommended enforceable duties initially"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Committee formed in 1976",
+                        "It was during Emergency",
+                        "It recommended Fundamental Duties",
+                        "It abolished Fundamental Rights"
+                    ],
+                    "answer": "It abolished Fundamental Rights"
+                },
+                {
+                    "question": "Main contribution of Swaran Singh Committee is:",
+                    "options": [
+                        "Introduction of DPSP",
+                        "Introduction of Fundamental Duties",
+                        "Creation of judiciary",
+                        "Abolition of Constitution"
+                    ],
+                    "answer": "Introduction of Fundamental Duties"
+                },
+                {
+                    "question": "Final outcome of committee recommendation was:",
+                    "options": [
+                        "Enforceable duties",
+                        "Non-justiciable duties",
+                        "No duties added",
+                        "Abolition of rights"
+                    ],
+                    "answer": "Non-justiciable duties"
+                }
+            ]
+        }
+    },
+
+    {
+        "name": "List of Fundamental Duties (Article 51A)",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Fundamental Duties are given under Article 51A in Part IV-A of the Constitution",
+                    "They were added by the 42nd Amendment Act, 1976",
+                    "One more duty was added by the 86th Amendment Act, 2002",
+                    "They are moral obligations of citizens and are non-justiciable"
+                ]
+            },
+            {
+                "heading": "All Fundamental Duties (Article 51A)",
+                "points": [
+                    "To abide by the Constitution and respect its ideals, institutions, the National Flag and the National Anthem",
+                    "To cherish and follow the noble ideals which inspired our national struggle for freedom",
+                    "To uphold and protect the sovereignty, unity and integrity of India",
+                    "To defend the country and render national service when called upon to do so",
+                    "To promote harmony and spirit of common brotherhood among all the people of India",
+                    "To value and preserve the rich heritage of our composite culture",
+                    "To protect and improve the natural environment including forests, lakes, rivers and wildlife",
+                    "To develop scientific temper, humanism and the spirit of inquiry and reform",
+                    "To safeguard public property and to abjure violence",
+                    "To strive towards excellence in all spheres of individual and collective activity",
+                    "Every parent or guardian to provide opportunities for education to their child or ward between the age of 6 to 14 years (added by 86th Amendment Act, 2002)"
+                ]
+            },
+            {
+                "heading": "Classification of Duties (For Easy Understanding)",
+                "points": [
+                    "Civic Duties: Respect Constitution, National Flag, National Anthem",
+                    "Nationalistic Duties: Protect sovereignty, unity and integrity of India",
+                    "Social Duties: Promote harmony and brotherhood",
+                    "Environmental Duties: Protect environment, forests, rivers, wildlife",
+                    "Educational Duty: Provide education to children (6–14 years)"
+                ]
+            },
+            {
+                "heading": "Important Features",
+                "points": [
+                    "Applicable only to citizens of India",
+                    "Non-justiciable in nature (not enforceable by courts)",
+                    "Derived from the Constitution of USSR",
+                    "Reflect moral and civic responsibility",
+                    "Act as a reminder of duties along with rights"
+                ]
+            },
+            {
+                "heading": "Important Amendments",
+                "points": [
+                    "42nd Constitutional Amendment Act, 1976: Added 10 Fundamental Duties",
+                    "86th Constitutional Amendment Act, 2002: Added 11th duty (education of children)",
+                    "Linked with Article 21A (Right to Education)"
+                ]
+            },
+            {
+                "heading": "Importance of Fundamental Duties",
+                "points": [
+                    "Promote discipline and national unity",
+                    "Encourage civic responsibility among citizens",
+                    "Help in environmental protection",
+                    "Strengthen democratic values",
+                    "Balance Fundamental Rights with responsibilities"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Total 11 Fundamental Duties under Article 51A",
+                    "Added in 1976 and 2002 amendments",
+                    "Non-justiciable in nature",
+                    "Apply only to citizens, not foreigners"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Fundamental Duties are in:",
+                    "options": ["Part III", "Part IV", "Part IV-A", "Part V"],
+                    "answer": "Part IV-A"
+                },
+                {
+                    "question": "Article for Fundamental Duties is:",
+                    "options": ["Article 19", "Article 21", "Article 51A", "Article 32"],
+                    "answer": "Article 51A"
+                },
+                {
+                    "question": "Total Fundamental Duties are:",
+                    "options": ["10", "11", "12", "9"],
+                    "answer": "11"
+                },
+                {
+                    "question": "Fundamental Duties were added by:",
+                    "options": [
+                        "42nd Amendment",
+                        "44th Amendment",
+                        "52nd Amendment",
+                        "86th Amendment"
+                    ],
+                    "answer": "42nd Amendment"
+                },
+                {
+                    "question": "Fundamental Duties apply to:",
+                    "options": [
+                        "All persons",
+                        "Citizens only",
+                        "Foreigners only",
+                        "Judges only"
+                    ],
+                    "answer": "Citizens only"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "11th Fundamental Duty was added by:",
+                    "options": [
+                        "42nd Amendment",
+                        "44th Amendment",
+                        "86th Amendment",
+                        "101st Amendment"
+                    ],
+                    "answer": "86th Amendment"
+                },
+                {
+                    "question": "Which duty relates to environment protection?",
+                    "options": [
+                        "Respect Constitution",
+                        "Protect environment",
+                        "Defend country",
+                        "Promote brotherhood"
+                    ],
+                    "answer": "Protect environment"
+                },
+                {
+                    "question": "Fundamental Duties are derived from:",
+                    "options": [
+                        "USA Constitution",
+                        "UK Constitution",
+                        "USSR Constitution",
+                        "France Constitution"
+                    ],
+                    "answer": "USSR Constitution"
+                },
+                {
+                    "question": "Which duty was added later?",
+                    "options": [
+                        "Respect Constitution",
+                        "Defend country",
+                        "Education of children",
+                        "Promote brotherhood"
+                    ],
+                    "answer": "Education of children"
+                },
+                {
+                    "question": "Fundamental Duties are:",
+                    "options": [
+                        "Justiciable",
+                        "Non-justiciable",
+                        "Fundamental Rights",
+                        "Emergency provisions"
+                    ],
+                    "answer": "Non-justiciable"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Fundamental Duties are enforceable in courts\n2. They were added in 1976\n3. They apply only to citizens",
+                    "options": ["2 and 3", "1 and 2", "3 only", "All"],
+                    "answer": "2 and 3"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "FD are legal rights",
+                        "FD are moral obligations",
+                        "FD are judicial orders",
+                        "FD are emergency laws"
+                    ],
+                    "answer": "FD are moral obligations"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "FD promote discipline",
+                        "FD are enforceable in courts",
+                        "FD apply to citizens",
+                        "FD include environmental duty"
+                    ],
+                    "answer": "FD are enforceable in courts"
+                },
+                {
+                    "question": "Main purpose of Fundamental Duties is:",
+                    "options": [
+                        "To replace Fundamental Rights",
+                        "To promote civic responsibility",
+                        "To weaken Constitution",
+                        "To create monarchy"
+                    ],
+                    "answer": "To promote civic responsibility"
+                },
+                {
+                    "question": "Relationship between Fundamental Rights and Duties is:",
+                    "options": [
+                        "Conflicting",
+                        "Complementary",
+                        "Unrelated",
+                        "Opposing"
+                    ],
+                    "answer": "Complementary"
+                }
+            ]
+        }
+    },
+
+    {
+        "name": "Features of the Fundamental Duties",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Fundamental Duties are listed in Article 51A of Part IV-A of the Constitution",
+                    "They were added by the 42nd Amendment Act, 1976 and expanded by the 86th Amendment Act, 2002",
+                    "They define the moral obligations of Indian citizens",
+                    "They aim to promote discipline, unity, and civic responsibility"
+                ]
+            },
+            {
+                "heading": "Non-Justiciable Nature",
+                "points": [
+                    "Fundamental Duties cannot be enforced by courts",
+                    "No legal penalty is prescribed for their violation",
+                    "They depend on moral and social pressure",
+                    "Unlike Fundamental Rights, they are not legally enforceable"
+                ]
+            },
+            {
+                "heading": "Applicable Only to Citizens",
+                "points": [
+                    "Fundamental Duties apply only to Indian citizens",
+                    "Foreigners are not bound by these duties",
+                    "They reflect civic responsibilities of citizenship",
+                    "Linked with idea of national belonging and identity"
+                ]
+            },
+            {
+                "heading": "Moral and Civic Nature",
+                "points": [
+                    "They are moral obligations rather than legal obligations",
+                    "Promote ethical behavior among citizens",
+                    "Encourage respect for Constitution and national symbols",
+                    "Help build responsible citizenship"
+                ]
+            },
+            {
+                "heading": "Derived from USSR Constitution",
+                "points": [
+                    "Fundamental Duties were inspired by the Constitution of the former USSR",
+                    "India adopted them to balance rights with responsibilities",
+                    "Reflect socialist influence on Indian constitutional design",
+                    "Added during Emergency period (1976)"
+                ]
+            },
+            {
+                "heading": "Complementary to Fundamental Rights",
+                "points": [
+                    "Fundamental Duties complement Fundamental Rights",
+                    "Rights give freedom, duties ensure responsibility",
+                    "Both together ensure balanced democracy",
+                    "Courts often refer to duties while interpreting rights"
+                ]
+            },
+            {
+                "heading": "Role in Interpretation of Law",
+                "points": [
+                    "Courts use Fundamental Duties while interpreting constitutional provisions",
+                    "Help in expanding meaning of Article 21 (Right to Life)",
+                    "Support environmental and public interest litigation cases",
+                    "Promote constitutional morality"
+                ]
+            },
+            {
+                "heading": "Dynamic and Evolving Nature",
+                "points": [
+                    "Fundamental Duties can be expanded through constitutional amendments",
+                    "Example: 11th duty added in 2002 (education of children)",
+                    "Reflect changing needs of society",
+                    "Not rigid in structure"
+                ]
+            },
+            {
+                "heading": "Promote National Unity and Integrity",
+                "points": [
+                    "Encourage respect for sovereignty and unity of India",
+                    "Promote harmony among citizens",
+                    "Discourage violence and divisive behavior",
+                    "Strengthen national integration"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Fundamental Duties are non-justiciable",
+                    "They are in Article 51A (Part IV-A)",
+                    "Apply only to citizens",
+                    "Added by 42nd and 86th Amendments"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Fundamental Duties are contained in:",
+                    "options": ["Part III", "Part IV", "Part IV-A", "Part V"],
+                    "answer": "Part IV-A"
+                },
+                {
+                    "question": "Fundamental Duties are:",
+                    "options": [
+                        "Justiciable",
+                        "Non-justiciable",
+                        "Fundamental Rights",
+                        "Legal punishments"
+                    ],
+                    "answer": "Non-justiciable"
+                },
+                {
+                    "question": "Fundamental Duties apply to:",
+                    "options": [
+                        "All persons",
+                        "Citizens only",
+                        "Foreigners only",
+                        "Judges only"
+                    ],
+                    "answer": "Citizens only"
+                },
+                {
+                    "question": "Fundamental Duties are found in:",
+                    "options": ["Article 14", "Article 19", "Article 21", "Article 51A"],
+                    "answer": "Article 51A"
+                },
+                {
+                    "question": "Fundamental Duties were added by:",
+                    "options": [
+                        "42nd Amendment",
+                        "44th Amendment",
+                        "52nd Amendment",
+                        "73rd Amendment"
+                    ],
+                    "answer": "42nd Amendment"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Fundamental Duties were inspired from:",
+                    "options": [
+                        "USA Constitution",
+                        "UK Constitution",
+                        "USSR Constitution",
+                        "French Constitution"
+                    ],
+                    "answer": "USSR Constitution"
+                },
+                {
+                    "question": "11th Fundamental Duty was added by:",
+                    "options": [
+                        "42nd Amendment",
+                        "44th Amendment",
+                        "86th Amendment",
+                        "101st Amendment"
+                    ],
+                    "answer": "86th Amendment"
+                },
+                {
+                    "question": "Fundamental Duties are mainly:",
+                    "options": [
+                        "Legal obligations",
+                        "Moral obligations",
+                        "Financial obligations",
+                        "Judicial orders"
+                    ],
+                    "answer": "Moral obligations"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "FD are enforceable in courts",
+                        "FD are non-justiciable",
+                        "FD are Fundamental Rights",
+                        "FD are emergency laws"
+                    ],
+                    "answer": "FD are non-justiciable"
+                },
+                {
+                    "question": "Fundamental Duties help in:",
+                    "options": [
+                        "Weakening Constitution",
+                        "Promoting civic responsibility",
+                        "Removing democracy",
+                        "Creating monarchy"
+                    ],
+                    "answer": "Promoting civic responsibility"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Fundamental Duties are legally enforceable\n2. They apply only to citizens\n3. They promote national unity",
+                    "options": ["2 and 3", "1 and 2", "3 only", "All"],
+                    "answer": "2 and 3"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "FD are optional suggestions",
+                        "FD are moral obligations",
+                        "FD are Fundamental Rights",
+                        "FD are judicial orders"
+                    ],
+                    "answer": "FD are moral obligations"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "FD are non-justiciable",
+                        "FD promote discipline",
+                        "FD are enforceable in courts",
+                        "FD apply to citizens only"
+                    ],
+                    "answer": "FD are enforceable in courts"
+                },
+                {
+                    "question": "Main feature of Fundamental Duties is:",
+                    "options": [
+                        "Legal enforcement",
+                        "Moral obligation",
+                        "Economic policy",
+                        "Judicial control"
+                    ],
+                    "answer": "Moral obligation"
+                },
+                {
+                    "question": "Relationship between Fundamental Rights and Duties is:",
+                    "options": [
+                        "Conflicting always",
+                        "Complementary",
+                        "Unrelated",
+                        "Opposing systems"
+                    ],
+                    "answer": "Complementary"
+                }
+            ]
+        }
+    },
+
+    {
+        "name": "Criticism of Fundamental Duties",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Fundamental Duties are listed under Article 51A in Part IV-A of the Constitution",
+                    "They were added by the 42nd Amendment Act (1976) and expanded by the 86th Amendment Act (2002)",
+                    "Although important for civic responsibility, they have faced several criticisms",
+                    "Criticism mainly focuses on their non-enforceable nature and vague wording"
+                ]
+            },
+            {
+                "heading": "Non-Justiciable Nature",
+                "points": [
+                    "Fundamental Duties cannot be enforced by courts",
+                    "No legal punishment for their violation",
+                    "Critics argue this makes them ineffective",
+                    "Unlike Fundamental Rights, they lack legal backing"
+                ]
+            },
+            {
+                "heading": "Vague and General Language",
+                "points": [
+                    "Many duties are broadly worded and lack clear definition",
+                    "Terms like 'scientific temper' and 'composite culture' are subjective",
+                    "Difficult to determine exact compliance",
+                    "Leads to confusion in interpretation"
+                ]
+            },
+            {
+                "heading": "No Penal Consequences",
+                "points": [
+                    "No specific penalties are prescribed for violation",
+                    "Depend only on moral persuasion",
+                    "Critics say this reduces their effectiveness",
+                    "Citizens may ignore them without consequences"
+                ]
+            },
+            {
+                "heading": "Lack of Awareness",
+                "points": [
+                    "Many citizens are unaware of Fundamental Duties",
+                    "Not properly taught or emphasized in education system",
+                    "Low public engagement and understanding",
+                    "Reduces practical impact"
+                ]
+            },
+            {
+                "heading": "Borrowed and Imposed Nature",
+                "points": [
+                    "Derived from USSR Constitution",
+                    "Critics argue they were inserted during Emergency period",
+                    "Seen as top-down imposition rather than democratic demand",
+                    "Limited public participation in formulation"
+                ]
+            },
+            {
+                "heading": "Redundancy Argument",
+                "points": [
+                    "Some duties already exist in laws (e.g., environmental protection)",
+                    "Overlap with existing legal provisions",
+                    "Critics say they are symbolic rather than functional",
+                    "Questioned necessity of separate constitutional listing"
+                ]
+            },
+            {
+                "heading": "Imbalance with Fundamental Rights",
+                "points": [
+                    "Rights are enforceable but duties are not",
+                    "Creates imbalance between citizens' rights and obligations",
+                    "Some argue duties should have equal legal force",
+                    "Leads to asymmetry in constitutional structure"
+                ]
+            },
+            {
+                "heading": "Political Misuse",
+                "points": [
+                    "Sometimes used for political messaging rather than enforcement",
+                    "Governments emphasize duties selectively",
+                    "Critics argue they are used symbolically",
+                    "Lack of consistent implementation"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Main criticism: non-justiciable nature",
+                    "Duties are vague and lack legal enforceability",
+                    "Added during Emergency (42nd Amendment)",
+                    "Seen as moral rather than legal obligations"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Fundamental Duties are contained in:",
+                    "options": ["Part III", "Part IV", "Part IV-A", "Part V"],
+                    "answer": "Part IV-A"
+                },
+                {
+                    "question": "Fundamental Duties are:",
+                    "options": [
+                        "Justiciable",
+                        "Non-justiciable",
+                        "Fundamental Rights",
+                        "Emergency laws"
+                    ],
+                    "answer": "Non-justiciable"
+                },
+                {
+                    "question": "Main criticism of Fundamental Duties is:",
+                    "options": [
+                        "Too strict",
+                        "Non-justiciable nature",
+                        "Too many rights",
+                        "Judicial control"
+                    ],
+                    "answer": "Non-justiciable nature"
+                },
+                {
+                    "question": "Fundamental Duties were added by:",
+                    "options": [
+                        "42nd Amendment",
+                        "44th Amendment",
+                        "52nd Amendment",
+                        "73rd Amendment"
+                    ],
+                    "answer": "42nd Amendment"
+                },
+                {
+                    "question": "Fundamental Duties apply to:",
+                    "options": [
+                        "Citizens only",
+                        "All persons",
+                        "Foreigners only",
+                        "Judges only"
+                    ],
+                    "answer": "Citizens only"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Fundamental Duties are criticized mainly because they are:",
+                    "options": [
+                        "Highly enforceable",
+                        "Vague and non-justiciable",
+                        "Too detailed",
+                        "Overly strict"
+                    ],
+                    "answer": "Vague and non-justiciable"
+                },
+                {
+                    "question": "Fundamental Duties were borrowed from:",
+                    "options": [
+                        "USA",
+                        "UK",
+                        "USSR",
+                        "France"
+                    ],
+                    "answer": "USSR"
+                },
+                {
+                    "question": "Which is NOT a criticism?",
+                    "options": [
+                        "No legal enforcement",
+                        "Vague language",
+                        "Strong punishment system",
+                        "Lack of awareness"
+                    ],
+                    "answer": "Strong punishment system"
+                },
+                {
+                    "question": "Fundamental Duties were introduced during:",
+                    "options": [
+                        "Independence movement",
+                        "Emergency period",
+                        "Post-2000 reforms",
+                        "British rule"
+                    ],
+                    "answer": "Emergency period"
+                },
+                {
+                    "question": "Which of the following is true?",
+                    "options": [
+                        "FD are legally enforceable",
+                        "FD are moral obligations",
+                        "FD are Fundamental Rights",
+                        "FD are emergency powers"
+                    ],
+                    "answer": "FD are moral obligations"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Fundamental Duties are enforceable in courts\n2. They were added during Emergency\n3. They are derived from USSR Constitution",
+                    "options": ["2 and 3", "1 and 2", "3 only", "All"],
+                    "answer": "2 and 3"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "FD are legally binding",
+                        "FD are symbolic in nature",
+                        "FD are Fundamental Rights",
+                        "FD are judicial orders"
+                    ],
+                    "answer": "FD are symbolic in nature"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "FD lack legal enforcement",
+                        "FD are vague",
+                        "FD are always punishable",
+                        "FD are moral duties"
+                    ],
+                    "answer": "FD are always punishable"
+                },
+                {
+                    "question": "Main reason for criticism is:",
+                    "options": [
+                        "Excessive enforcement",
+                        "Lack of legal backing",
+                        "Too many courts",
+                        "Over-regulation"
+                    ],
+                    "answer": "Lack of legal backing"
+                },
+                {
+                    "question": "Fundamental Duties are best described as:",
+                    "options": [
+                        "Legal obligations",
+                        "Moral obligations",
+                        "Judicial orders",
+                        "Emergency laws"
+                    ],
+                    "answer": "Moral obligations"
+                }
+            ]
+        }
+    },
+
+    {
+        "name": "Significance of Fundamental Duties",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Fundamental Duties are listed in Article 51A of Part IV-A of the Constitution",
+                    "They were added by the 42nd Amendment Act (1976) and expanded by the 86th Amendment Act (2002)",
+                    "They represent the moral obligations of Indian citizens",
+                    "Though non-justiciable, they play a crucial role in constitutional governance"
+                ]
+            },
+            {
+                "heading": "Promote Civic Responsibility",
+                "points": [
+                    "Encourage citizens to act responsibly in society",
+                    "Balance between rights and duties",
+                    "Develop disciplined and law-abiding citizens",
+                    "Strengthen democratic culture"
+                ]
+            },
+            {
+                "heading": "Strengthen National Unity and Integrity",
+                "points": [
+                    "Promote respect for the Constitution, National Flag, and National Anthem",
+                    "Encourage unity among diverse communities",
+                    "Support sovereignty and integrity of India",
+                    "Reduce divisive tendencies in society"
+                ]
+            },
+            {
+                "heading": "Support Environmental Protection",
+                "points": [
+                    "Encourage protection of forests, lakes, rivers, and wildlife",
+                    "Promote ecological awareness among citizens",
+                    "Support sustainable development goals",
+                    "Complement environmental laws and policies"
+                ]
+            },
+            {
+                "heading": "Aid in Constitutional Interpretation",
+                "points": [
+                    "Courts use Fundamental Duties while interpreting laws",
+                    "Help expand scope of Fundamental Rights (especially Article 21)",
+                    "Promote constitutional morality",
+                    "Used in environmental and public interest litigation cases"
+                ]
+            },
+            {
+                "heading": "Complement Fundamental Rights",
+                "points": [
+                    "Rights and duties are interdependent",
+                    "Rights without duties can lead to misuse of freedom",
+                    "Duties ensure responsible exercise of rights",
+                    "Maintain balance in constitutional framework"
+                ]
+            },
+            {
+                "heading": "Promote Social Harmony",
+                "points": [
+                    "Encourage brotherhood among citizens",
+                    "Reduce social tensions and conflicts",
+                    "Promote respect for diversity",
+                    "Strengthen unity in diversity principle"
+                ]
+            },
+            {
+                "heading": "Educational Importance",
+                "points": [
+                    "Help in building value-based education system",
+                    "Included in school curriculum to create awareness",
+                    "Encourage ethical behavior among youth",
+                    "Develop responsible future citizens"
+                ]
+            },
+            {
+                "heading": "Strengthen Democracy",
+                "points": [
+                    "Ensure active participation of responsible citizens",
+                    "Reduce misuse of rights in democracy",
+                    "Promote accountability in public life",
+                    "Support good governance"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Fundamental Duties are moral obligations under Article 51A",
+                    "They promote discipline, unity, and responsibility",
+                    "They complement Fundamental Rights",
+                    "They are important for constitutional morality and governance"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Fundamental Duties are in:",
+                    "options": ["Part III", "Part IV", "Part IV-A", "Part V"],
+                    "answer": "Part IV-A"
+                },
+                {
+                    "question": "Article for Fundamental Duties is:",
+                    "options": ["Article 14", "Article 19", "Article 21", "Article 51A"],
+                    "answer": "Article 51A"
+                },
+                {
+                    "question": "Fundamental Duties are:",
+                    "options": [
+                        "Justiciable",
+                        "Non-justiciable",
+                        "Fundamental Rights",
+                        "Emergency laws"
+                    ],
+                    "answer": "Non-justiciable"
+                },
+                {
+                    "question": "Fundamental Duties were added by:",
+                    "options": [
+                        "42nd Amendment",
+                        "44th Amendment",
+                        "52nd Amendment",
+                        "73rd Amendment"
+                    ],
+                    "answer": "42nd Amendment"
+                },
+                {
+                    "question": "Fundamental Duties apply to:",
+                    "options": [
+                        "All persons",
+                        "Citizens only",
+                        "Foreigners only",
+                        "Judges only"
+                    ],
+                    "answer": "Citizens only"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Fundamental Duties help in:",
+                    "options": [
+                        "Weakening Constitution",
+                        "Promoting civic responsibility",
+                        "Removing democracy",
+                        "Ending rights"
+                    ],
+                    "answer": "Promoting civic responsibility"
+                },
+                {
+                    "question": "Which duty promotes environmental protection?",
+                    "options": [
+                        "Respect Constitution",
+                        "Protect environment",
+                        "Defend country",
+                        "Promote unity"
+                    ],
+                    "answer": "Protect environment"
+                },
+                {
+                    "question": "Fundamental Duties are useful in:",
+                    "options": [
+                        "Judicial interpretation",
+                        "Abolishing laws",
+                        "Creating monarchy",
+                        "Ending Constitution"
+                    ],
+                    "answer": "Judicial interpretation"
+                },
+                {
+                    "question": "Fundamental Duties are inspired from:",
+                    "options": [
+                        "USA Constitution",
+                        "UK Constitution",
+                        "USSR Constitution",
+                        "French Constitution"
+                    ],
+                    "answer": "USSR Constitution"
+                },
+                {
+                    "question": "Which of the following is correct?",
+                    "options": [
+                        "FD are enforceable rights",
+                        "FD are moral obligations",
+                        "FD are emergency laws",
+                        "FD are judicial orders"
+                    ],
+                    "answer": "FD are moral obligations"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Fundamental Duties are enforceable in courts\n2. They promote national unity\n3. They help in constitutional interpretation",
+                    "options": ["2 and 3", "1 and 2", "3 only", "All"],
+                    "answer": "2 and 3"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "FD are legal punishments",
+                        "FD are moral guidelines",
+                        "FD are Fundamental Rights",
+                        "FD are emergency provisions"
+                    ],
+                    "answer": "FD are moral guidelines"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "FD promote unity",
+                        "FD are non-justiciable",
+                        "FD are legally enforceable",
+                        "FD support democracy"
+                    ],
+                    "answer": "FD are legally enforceable"
+                },
+                {
+                    "question": "Main significance of Fundamental Duties is:",
+                    "options": [
+                        "Creating monarchy",
+                        "Building responsible citizens",
+                        "Removing Constitution",
+                        "Weakening democracy"
+                    ],
+                    "answer": "Building responsible citizens"
+                },
+                {
+                    "question": "Relationship between Fundamental Rights and Duties is:",
+                    "options": [
+                        "Conflicting always",
+                        "Complementary",
+                        "Unrelated",
+                        "Opposing systems"
+                    ],
+                    "answer": "Complementary"
+                }
+            ]
+        }
+    },
+
+    {
+        "name": "Verma Committee Observations on Fundamental Duties",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Verma Committee (1999) was constituted to review the operationalisation of Fundamental Duties",
+                    "It examined ways to make Fundamental Duties more effective in Indian governance",
+                    "Focus was on awareness, implementation, and legal backing of duties",
+                    "It submitted recommendations to strengthen civic responsibility in citizens"
+                ]
+            },
+            {
+                "heading": "Background",
+                "points": [
+                    "Fundamental Duties were added in 1976 but remained largely non-implementable in practice",
+                    "Low public awareness reduced their effectiveness",
+                    "Need felt to integrate duties into education and governance",
+                    "Committee aimed to address gap between constitutional ideals and ground reality"
+                ]
+            },
+            {
+                "heading": "Key Observations",
+                "points": [
+                    "Fundamental Duties are important for national development and discipline",
+                    "Lack of awareness among citizens is a major concern",
+                    "Absence of legal enforcement reduces effectiveness",
+                    "Education system has not adequately promoted constitutional values",
+                    "Duties should be integrated into daily civic life"
+                ]
+            },
+            {
+                "heading": "Legal and Institutional Observations",
+                "points": [
+                    "Some Fundamental Duties are already reflected in existing laws",
+                    "Need for better coordination between constitutional provisions and statutory laws",
+                    "No need for strict punitive enforcement, but moral and legal reinforcement is necessary",
+                    "Judiciary can play an indirect role in promoting duties"
+                ]
+            },
+            {
+                "heading": "Educational Observations",
+                "points": [
+                    "Fundamental Duties should be included in school curriculum",
+                    "Value-based education is essential for civic awareness",
+                    "Students should be taught constitutional morality early",
+                    "Role of teachers and institutions is crucial"
+                ]
+            },
+            {
+                "heading": "Awareness and Implementation Issues",
+                "points": [
+                    "Most citizens are unaware of their Fundamental Duties",
+                    "Government campaigns are insufficient",
+                    "Media and civil society should play a greater role",
+                    "Implementation requires cultural and behavioral change"
+                ]
+            },
+            {
+                "heading": "Key Recommendations (Observational Nature)",
+                "points": [
+                    "Strengthen public awareness through education and media",
+                    "Integrate Fundamental Duties into school and college curriculum",
+                    "Encourage voluntary compliance rather than legal compulsion",
+                    "Promote constitutional values through institutions"
+                ]
+            },
+            {
+                "heading": "Importance of Verma Committee Report",
+                "points": [
+                    "Highlighted gap between constitutional ideals and practical reality",
+                    "Reinforced importance of Fundamental Duties in democracy",
+                    "Stressed moral rather than punitive approach",
+                    "Helped in policy discussions on civic education"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Verma Committee (1999) dealt with Fundamental Duties",
+                    "Focused on awareness and implementation, not amendment",
+                    "Recommended strengthening civic education",
+                    "Emphasized moral and educational enforcement over legal punishment"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Verma Committee was related to:",
+                    "options": [
+                        "Fundamental Rights",
+                        "Fundamental Duties",
+                        "Judiciary reforms",
+                        "Election reforms"
+                    ],
+                    "answer": "Fundamental Duties"
+                },
+                {
+                    "question": "Verma Committee was set up in:",
+                    "options": ["1976", "1985", "1999", "2005"],
+                    "answer": "1999"
+                },
+                {
+                    "question": "Fundamental Duties are in:",
+                    "options": ["Part III", "Part IV", "Part IV-A", "Part V"],
+                    "answer": "Part IV-A"
+                },
+                {
+                    "question": "Main issue highlighted by Verma Committee was:",
+                    "options": [
+                        "Excess enforcement",
+                        "Lack of awareness",
+                        "Too many courts",
+                        "Over taxation"
+                    ],
+                    "answer": "Lack of awareness"
+                },
+                {
+                    "question": "Fundamental Duties were added by:",
+                    "options": [
+                        "42nd Amendment",
+                        "44th Amendment",
+                        "52nd Amendment",
+                        "73rd Amendment"
+                    ],
+                    "answer": "42nd Amendment"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Verma Committee suggested emphasis on:",
+                    "options": [
+                        "Strict punishment",
+                        "Civic education",
+                        "Military enforcement",
+                        "Abolition of duties"
+                    ],
+                    "answer": "Civic education"
+                },
+                {
+                    "question": "Fundamental Duties suffer mainly from:",
+                    "options": [
+                        "Over enforcement",
+                        "Low awareness",
+                        "Excess rights",
+                        "Judicial dominance"
+                    ],
+                    "answer": "Low awareness"
+                },
+                {
+                    "question": "Which of the following is correct?",
+                    "options": [
+                        "FD are strictly enforceable",
+                        "FD need awareness and education",
+                        "FD are abolished",
+                        "FD are judicial orders"
+                    ],
+                    "answer": "FD need awareness and education"
+                },
+                {
+                    "question": "Verma Committee focused on:",
+                    "options": [
+                        "Amending Constitution",
+                        "Operationalisation of duties",
+                        "Abolishing DPSP",
+                        "Creating new rights"
+                    ],
+                    "answer": "Operationalisation of duties"
+                },
+                {
+                    "question": "Verma Committee emphasized:",
+                    "options": [
+                        "Punitive enforcement",
+                        "Moral responsibility",
+                        "Emergency powers",
+                        "Judicial dictatorship"
+                    ],
+                    "answer": "Moral responsibility"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Verma Committee dealt with Fundamental Duties\n2. It recommended strict penalties for violation\n3. It emphasized civic education",
+                    "options": ["1 and 3", "2 and 3", "1 and 2", "All"],
+                    "answer": "1 and 3"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Verma Committee focused on enforcement through courts",
+                        "Verma Committee emphasized awareness of duties",
+                        "Verma Committee abolished Fundamental Duties",
+                        "Verma Committee dealt with Fundamental Rights only"
+                    ],
+                    "answer": "Verma Committee emphasized awareness of duties"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Verma Committee highlighted lack of awareness",
+                        "It recommended civic education",
+                        "It suggested military enforcement of duties",
+                        "It studied Fundamental Duties"
+                    ],
+                    "answer": "It suggested military enforcement of duties"
+                },
+                {
+                    "question": "Main contribution of Verma Committee is:",
+                    "options": [
+                        "Introducing Fundamental Duties",
+                        "Strengthening awareness of duties",
+                        "Abolishing DPSP",
+                        "Creating Fundamental Rights"
+                    ],
+                    "answer": "Strengthening awareness of duties"
+                },
+                {
+                    "question": "Approach suggested by Verma Committee is:",
+                    "options": [
+                        "Punitive approach",
+                        "Moral and educational approach",
+                        "Military approach",
+                        "Judicial abolition approach"
+                    ],
+                    "answer": "Moral and educational approach"
+                }
+            ]
+        }
+    }
+]

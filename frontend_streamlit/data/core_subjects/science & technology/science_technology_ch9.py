@@ -1,0 +1,549 @@
+TOPICS = [
+    {
+        "name": "Biology: Endocrine System (Hypothalamus & Pineal Body)",
+        "notes": [
+            {
+                "heading": "Introduction to Endocrine System",
+                "points": [
+                    "The endocrine system is a network of glands that release hormones",
+                    "Hormones regulate growth, metabolism, reproduction, and homeostasis",
+                    "Hormones are chemical messengers carried by blood",
+                    "Endocrine glands are ductless glands",
+                    "They work in coordination with the nervous system"
+                ]
+            },
+            {
+                "heading": "Hypothalamus – Overview",
+                "points": [
+                    "Hypothalamus is a small region in the brain below the thalamus",
+                    "It links the nervous system with the endocrine system",
+                    "Controls the pituitary gland (master gland)",
+                    "Maintains body homeostasis",
+                    "Regulates hunger, thirst, temperature, and emotions"
+                ]
+            },
+            {
+                "heading": "Functions of Hypothalamus",
+                "points": [
+                    "Regulates body temperature (thermoregulation)",
+                    "Controls hunger and satiety centers",
+                    "Controls water balance and thirst",
+                    "Regulates sleep-wake cycle",
+                    "Produces releasing and inhibiting hormones for pituitary control"
+                ]
+            },
+            {
+                "heading": "Hormones Produced by Hypothalamus",
+                "points": [
+                    "Releasing hormones (stimulate pituitary secretion)",
+                    "Inhibiting hormones (suppress pituitary secretion)",
+                    "Produces ADH (vasopressin) and oxytocin (stored in posterior pituitary)",
+                    "Controls secretion of growth hormone, TSH, ACTH indirectly",
+                    "Acts as a neuroendocrine control center"
+                ]
+            },
+            {
+                "heading": "Hypothalamus and Pituitary Connection",
+                "points": [
+                    "Hypothalamus controls pituitary gland via portal system",
+                    "Anterior pituitary is controlled by releasing/inhibiting hormones",
+                    "Posterior pituitary stores and releases hypothalamic hormones",
+                    "Together they regulate major endocrine functions",
+                    "Forms the hypothalamus-pituitary axis"
+                ]
+            },
+            {
+                "heading": "Pineal Body (Epiphysis) – Overview",
+                "points": [
+                    "Pineal body is a small endocrine gland in the brain",
+                    "Located near the center of the brain (epithalamus)",
+                    "Also called epiphysis",
+                    "Secretes the hormone melatonin",
+                    "Regulates biological rhythms"
+                ]
+            },
+            {
+                "heading": "Functions of Pineal Gland",
+                "points": [
+                    "Regulates sleep-wake cycle (circadian rhythm)",
+                    "Controls biological clock of the body",
+                    "Influences seasonal reproductive cycles in some animals",
+                    "Melatonin secretion increases in darkness",
+                    "Helps in maintaining body rhythm and sleep patterns"
+                ]
+            },
+            {
+                "heading": "Melatonin Hormone",
+                "points": [
+                    "Secreted by pineal gland",
+                    "Derived from serotonin",
+                    "Regulates sleep and circadian rhythm",
+                    "Levels increase at night and decrease in daylight",
+                    "Acts as antioxidant and regulates aging processes"
+                ]
+            },
+            {
+                "heading": "Hypothalamus vs Pineal Body",
+                "points": [
+                    "Hypothalamus controls multiple endocrine and physiological functions",
+                    "Pineal body mainly regulates biological clock",
+                    "Hypothalamus links nervous and endocrine systems",
+                    "Pineal gland responds to light-dark cycle",
+                    "Both are located in the brain but have different roles"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Hypothalamus is part of:",
+                    "options": [
+                    "Heart",
+                    "Brain",
+                    "Kidney",
+                    "Liver"
+                    ],
+                    "answer": "Brain"
+                },
+                {
+                    "question": "Hypothalamus controls:",
+                    "options": [
+                    "Digestion only",
+                    "Pituitary gland",
+                    "Lungs only",
+                    "Bones only"
+                    ],
+                    "answer": "Pituitary gland"
+                },
+                {
+                    "question": "Pineal gland secretes:",
+                    "options": [
+                    "Insulin",
+                    "Melatonin",
+                    "Thyroxine",
+                    "Adrenaline"
+                    ],
+                    "answer": "Melatonin"
+                },
+                {
+                    "question": "Pineal body is also called:",
+                    "options": [
+                    "Thymus",
+                    "Epiphysis",
+                    "Hypophysis",
+                    "Pancreas"
+                    ],
+                    "answer": "Epiphysis"
+                },
+                {
+                    "question": "Melatonin regulates:",
+                    "options": [
+                    "Blood pressure",
+                    "Sleep cycle",
+                    "Digestion",
+                    "Bone growth"
+                    ],
+                    "answer": "Sleep cycle"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Hypothalamus maintains:",
+                    "options": [
+                    "Only digestion",
+                    "Homeostasis",
+                    "Only movement",
+                    "Only reproduction"
+                    ],
+                    "answer": "Homeostasis"
+                },
+                {
+                    "question": "Hypothalamus and pituitary together form:",
+                    "options": [
+                    "Digestive system",
+                    "Endocrine axis",
+                    "Respiratory system",
+                    "Circulatory system"
+                    ],
+                    "answer": "Endocrine axis"
+                },
+                {
+                    "question": "Melatonin secretion increases in:",
+                    "options": [
+                    "Daylight",
+                    "Darkness",
+                    "Heat",
+                    "Exercise"
+                    ],
+                    "answer": "Darkness"
+                },
+                {
+                    "question": "Hypothalamus produces:",
+                    "options": [
+                    "Only digestive enzymes",
+                    "Releasing hormones",
+                    "Only insulin",
+                    "Only bile"
+                    ],
+                    "answer": "Releasing hormones"
+                },
+                {
+                    "question": "Pineal gland helps regulate:",
+                    "options": [
+                    "Bone growth",
+                    "Biological clock",
+                    "Blood clotting",
+                    "Muscle contraction"
+                    ],
+                    "answer": "Biological clock"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. Hypothalamus controls pituitary gland\n2. Pineal gland secretes melatonin\n3. Hypothalamus is part of endocrine system only",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "All"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                    "Hypothalamus – sleep regulation only",
+                    "Pineal gland – melatonin secretion",
+                    "Pituitary – digestion",
+                    "Thyroid – blood clotting"
+                    ],
+                    "answer": "Pineal gland – melatonin secretion"
+                },
+                {
+                    "question": "Hypothalamus is important because it:",
+                    "options": [
+                    "Produces all hormones directly",
+                    "Links nervous and endocrine systems",
+                    "Only controls bones",
+                    "Only controls lungs"
+                    ],
+                    "answer": "Links nervous and endocrine systems"
+                },
+                {
+                    "question": "Melatonin is derived from:",
+                    "options": [
+                    "Glucose",
+                    "Serotonin",
+                    "Insulin",
+                    "Adrenaline"
+                    ],
+                    "answer": "Serotonin"
+                },
+                {
+                    "question": "Circadian rhythm refers to:",
+                    "options": [
+                    "Heart rate",
+                    "Sleep-wake cycle",
+                    "Blood sugar level",
+                    "Bone growth"
+                    ],
+                    "answer": "Sleep-wake cycle"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Biology: Endocrine System (Pituitary, Thyroid, Adrenal & Reproductive Glands)",
+        "notes": [
+            {
+                "heading": "Introduction to Endocrine Glands",
+                "points": [
+                    "Endocrine glands secrete hormones directly into the bloodstream",
+                    "They regulate growth, metabolism, stress, and reproduction",
+                    "Work in coordination with the nervous system",
+                    "Key glands include pituitary, thyroid, adrenal, and reproductive glands",
+                    "They maintain body homeostasis"
+                ]
+            },
+            {
+                "heading": "Pituitary Gland (Hypophysis) – Overview",
+                "points": [
+                    "Known as the ‘master gland’ of the endocrine system",
+                    "Located at the base of the brain below the hypothalamus",
+                    "Controls other endocrine glands",
+                    "Has two parts: anterior pituitary and posterior pituitary",
+                    "Regulated by hypothalamus"
+                ]
+            },
+            {
+                "heading": "Hormones of Pituitary Gland",
+                "points": [
+                    "Growth Hormone (GH): body growth and development",
+                    "TSH: stimulates thyroid gland",
+                    "ACTH: stimulates adrenal cortex",
+                    "FSH & LH: control reproductive functions",
+                    "Prolactin: milk production",
+                    "ADH & Oxytocin (released via posterior pituitary)"
+                ]
+            },
+            {
+                "heading": "Functions of Pituitary Gland",
+                "points": [
+                    "Controls growth and development of body",
+                    "Regulates other endocrine glands",
+                    "Controls reproduction and lactation",
+                    "Maintains water balance (via ADH)",
+                    "Plays key role in homeostasis"
+                ]
+            },
+            {
+                "heading": "Thyroid Gland – Overview",
+                "points": [
+                    "Located in the neck region in front of trachea",
+                    "Shaped like a butterfly",
+                    "Produces thyroid hormones T3 (triiodothyronine) and T4 (thyroxine)",
+                    "Requires iodine for hormone synthesis",
+                    "Regulates metabolism"
+                ]
+            },
+            {
+                "heading": "Functions of Thyroid Gland",
+                "points": [
+                    "Controls metabolic rate of the body",
+                    "Regulates energy production",
+                    "Affects growth and development",
+                    "Maintains body temperature",
+                    "Supports brain development in infants"
+                ]
+            },
+            {
+                "heading": "Disorders of Thyroid Gland",
+                "points": [
+                    "Hypothyroidism: low hormone levels, causes fatigue and weight gain",
+                    "Hyperthyroidism: excess hormone, causes weight loss and anxiety",
+                    "Goitre: enlargement of thyroid gland due to iodine deficiency",
+                    "Cretinism: stunted growth in children",
+                    "Myxedema: severe hypothyroidism in adults"
+                ]
+            },
+            {
+                "heading": "Adrenal Glands – Overview",
+                "points": [
+                    "Located on top of each kidney",
+                    "Also called suprarenal glands",
+                    "Have two parts: adrenal cortex and adrenal medulla",
+                    "Produce hormones related to stress response",
+                    "Controlled by pituitary gland"
+                ]
+            },
+            {
+                "heading": "Hormones of Adrenal Glands",
+                "points": [
+                    "Adrenaline (epinephrine): fight or flight response",
+                    "Noradrenaline: regulates blood pressure",
+                    "Cortisol: stress hormone, metabolism regulation",
+                    "Aldosterone: regulates salt and water balance",
+                    "Androgens: minor sex hormones"
+                ]
+            },
+            {
+                "heading": "Functions of Adrenal Glands",
+                "points": [
+                    "Respond to stress and emergency situations",
+                    "Regulate blood pressure and heart rate",
+                    "Control metabolism of carbohydrates, fats, and proteins",
+                    "Maintain electrolyte balance",
+                    "Prepare body for fight or flight response"
+                ]
+            },
+            {
+                "heading": "Reproductive Glands – Overview",
+                "points": [
+                    "Also called gonads",
+                    "Testes in males and ovaries in females",
+                    "Produce sex hormones and gametes",
+                    "Controlled by pituitary hormones (FSH and LH)",
+                    "Responsible for reproduction and secondary sexual characteristics"
+                ]
+            },
+            {
+                "heading": "Male Reproductive Glands (Testes)",
+                "points": [
+                    "Produce sperm (spermatogenesis)",
+                    "Secrete testosterone hormone",
+                    "Testosterone controls male secondary sexual characters",
+                    "Located in scrotum for optimal temperature",
+                    "Essential for fertility"
+                ]
+            },
+            {
+                "heading": "Female Reproductive Glands (Ovaries)",
+                "points": [
+                    "Produce ova (eggs)",
+                    "Secrete estrogen and progesterone",
+                    "Regulate menstrual cycle",
+                    "Support pregnancy and childbirth",
+                    "Control female secondary sexual characteristics"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Pituitary gland is also called:",
+                    "options": [
+                    "Master gland",
+                    "Thyroid gland",
+                    "Adrenal gland",
+                    "Pancreas"
+                    ],
+                    "answer": "Master gland"
+                },
+                {
+                    "question": "Thyroid gland is located in:",
+                    "options": [
+                    "Brain",
+                    "Neck",
+                    "Kidney",
+                    "Heart"
+                    ],
+                    "answer": "Neck"
+                },
+                {
+                    "question": "Adrenal glands are located on:",
+                    "options": [
+                    "Heart",
+                    "Lungs",
+                    "Kidneys",
+                    "Brain"
+                    ],
+                    "answer": "Kidneys"
+                },
+                {
+                    "question": "Hormone for fight or flight response is:",
+                    "options": [
+                    "Insulin",
+                    "Adrenaline",
+                    "Thyroxine",
+                    "Estrogen"
+                    ],
+                    "answer": "Adrenaline"
+                },
+                {
+                    "question": "Male reproductive hormone is:",
+                    "options": [
+                    "Estrogen",
+                    "Progesterone",
+                    "Testosterone",
+                    "Thyroxine"
+                    ],
+                    "answer": "Testosterone"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Thyroid hormone requires:",
+                    "options": [
+                    "Iron",
+                    "Iodine",
+                    "Calcium",
+                    "Sodium"
+                    ],
+                    "answer": "Iodine"
+                },
+                {
+                    "question": "FSH and LH are secreted by:",
+                    "options": [
+                    "Thyroid",
+                    "Pituitary gland",
+                    "Adrenal gland",
+                    "Pancreas"
+                    ],
+                    "answer": "Pituitary gland"
+                },
+                {
+                    "question": "Cortisol is responsible for:",
+                    "options": [
+                    "Digestion",
+                    "Stress response",
+                    "Vision",
+                    "Hearing"
+                    ],
+                    "answer": "Stress response"
+                },
+                {
+                    "question": "Ovaries produce:",
+                    "options": [
+                    "Testosterone only",
+                    "Estrogen and progesterone",
+                    "Insulin",
+                    "Thyroxine"
+                    ],
+                    "answer": "Estrogen and progesterone"
+                },
+                {
+                    "question": "Goitre is caused by deficiency of:",
+                    "options": [
+                    "Iron",
+                    "Iodine",
+                    "Calcium",
+                    "Glucose"
+                    ],
+                    "answer": "Iodine"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. Pituitary is master gland\n2. Thyroid controls metabolism\n3. Adrenal glands produce insulin",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "All"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                    "Thyroid – adrenaline",
+                    "Adrenal – stress hormones",
+                    "Pituitary – digestion",
+                    "Ovary – insulin"
+                    ],
+                    "answer": "Adrenal – stress hormones"
+                },
+                {
+                    "question": "Cretinism is caused by:",
+                    "options": [
+                    "Excess insulin",
+                    "Thyroid hormone deficiency in children",
+                    "Excess cortisol",
+                    "Vitamin C deficiency"
+                    ],
+                    "answer": "Thyroid hormone deficiency in children"
+                },
+                {
+                    "question": "Testosterone is responsible for:",
+                    "options": [
+                    "Female characteristics",
+                    "Male secondary sexual characters",
+                    "Digestion",
+                    "Blood clotting"
+                    ],
+                    "answer": "Male secondary sexual characters"
+                },
+                {
+                    "question": "Adrenal cortex produces:",
+                    "options": [
+                    "Insulin",
+                    "Cortisol and aldosterone",
+                    "Estrogen only",
+                    "Thyroxine"
+                    ],
+                    "answer": "Cortisol and aldosterone"
+                }
+            ]
+        }
+    }
+]

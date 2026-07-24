@@ -1,0 +1,871 @@
+TOPICS = [
+    {
+        "name": "Biology: Tissues (Epithelial Tissue)",
+        "notes": [
+            {
+                "heading": "Introduction to Tissues",
+                "points": [
+                    "A tissue is a group of similar cells performing a specific function",
+                    "Tissues form organs and organ systems in multicellular organisms",
+                    "Animal tissues are broadly classified into epithelial, connective, muscular, and nervous tissues",
+                    "Epithelial tissue is the covering and protective tissue of the body",
+                    "It forms the outer layer of skin and lines internal organs"
+                ]
+            },
+            {
+                "heading": "Epithelial Tissue – Overview",
+                "points": [
+                    "Epithelial tissue is made of tightly packed cells",
+                    "It has very little intercellular space",
+                    "It rests on a basement membrane",
+                    "It covers body surfaces and lines cavities",
+                    "It plays roles in protection, absorption, secretion, and filtration"
+                ]
+            },
+            {
+                "heading": "Characteristics of Epithelial Tissue",
+                "points": [
+                    "Cells are closely packed with minimal space between them",
+                    "Avascular (no blood vessels)",
+                    "Highly regenerative in nature",
+                    "Cells are supported by connective tissue below",
+                    "Polarity is present (distinct apical and basal surfaces)"
+                ]
+            },
+            {
+                "heading": "Types of Epithelial Tissue",
+                "points": [
+                    "Simple epithelium: single layer of cells",
+                    "Stratified epithelium: multiple layers of cells",
+                    "Squamous epithelium: flat cells",
+                    "Cuboidal epithelium: cube-shaped cells",
+                    "Columnar epithelium: tall, column-like cells"
+                ]
+            },
+            {
+                "heading": "Simple Squamous Epithelium",
+                "points": [
+                    "Thin and flat cells arranged in a single layer",
+                    "Allows diffusion and filtration",
+                    "Found in alveoli of lungs and blood capillaries",
+                    "Helps in gas exchange",
+                    "Very delicate in structure"
+                ]
+            },
+            {
+                "heading": "Cuboidal Epithelium",
+                "points": [
+                    "Cube-shaped cells with central nuclei",
+                    "Found in kidney tubules and glands",
+                    "Functions in absorption and secretion",
+                    "Provides structural support",
+                    "Forms germinal epithelium in ovaries"
+                ]
+            },
+            {
+                "heading": "Columnar Epithelium",
+                "points": [
+                    "Tall, pillar-like cells",
+                    "Found in lining of intestine and stomach",
+                    "Specialized for absorption and secretion",
+                    "May have microvilli to increase surface area",
+                    "Ciliated type helps in movement of particles"
+                ]
+            },
+            {
+                "heading": "Stratified Epithelium",
+                "points": [
+                    "Multiple layers of cells",
+                    "Provides protection against wear and tear",
+                    "Found in skin, mouth, and esophagus",
+                    "Outer cells may be dead and keratinized",
+                    "Important in preventing mechanical injury"
+                ]
+            },
+            {
+                "heading": "Glandular Epithelium",
+                "points": [
+                    "Specialized for secretion",
+                    "Forms glands like sweat glands and salivary glands",
+                    "Can be unicellular (goblet cells) or multicellular",
+                    "Secretes enzymes, hormones, and mucus",
+                    "Important in maintaining body functions"
+                ]
+            },
+            {
+                "heading": "Functions of Epithelial Tissue",
+                "points": [
+                    "Protection of underlying tissues",
+                    "Absorption of nutrients",
+                    "Secretion of substances",
+                    "Exchange of gases",
+                    "Filtration in organs like kidneys"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Epithelial tissue mainly functions in:",
+                    "options": [
+                    "Movement",
+                    "Protection",
+                    "Digestion",
+                    "Respiration only"
+                    ],
+                    "answer": "Protection"
+                },
+                {
+                    "question": "Epithelial tissue is:",
+                    "options": [
+                    "Loosely packed",
+                    "Closely packed",
+                    "Hard tissue",
+                    "Fluid tissue"
+                    ],
+                    "answer": "Closely packed"
+                },
+                {
+                    "question": "Epithelial tissue is found in:",
+                    "options": [
+                    "Only blood",
+                    "Body surfaces and organs lining",
+                    "Only bones",
+                    "Only muscles"
+                    ],
+                    "answer": "Body surfaces and organs lining"
+                },
+                {
+                    "question": "Simple squamous epithelium is found in:",
+                    "options": [
+                    "Skin",
+                    "Lungs",
+                    "Bones",
+                    "Teeth"
+                    ],
+                    "answer": "Lungs"
+                },
+                {
+                    "question": "Epithelial tissue is:",
+                    "options": [
+                    "Vascular",
+                    "Avascular",
+                    "Highly vascular",
+                    "Blood-filled"
+                    ],
+                    "answer": "Avascular"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Cuboidal epithelium is mainly involved in:",
+                    "options": [
+                    "Protection only",
+                    "Absorption and secretion",
+                    "Movement",
+                    "Conduction of impulses"
+                    ],
+                    "answer": "Absorption and secretion"
+                },
+                {
+                    "question": "Columnar epithelium is found in:",
+                    "options": [
+                    "Bone marrow",
+                    "Intestine",
+                    "Skin",
+                    "Brain"
+                    ],
+                    "answer": "Intestine"
+                },
+                {
+                    "question": "Stratified epithelium provides:",
+                    "options": [
+                    "Digestion",
+                    "Protection",
+                    "Transport",
+                    "Photosynthesis"
+                    ],
+                    "answer": "Protection"
+                },
+                {
+                    "question": "Goblet cells are part of:",
+                    "options": [
+                    "Muscle tissue",
+                    "Glandular epithelium",
+                    "Nervous tissue",
+                    "Bone tissue"
+                    ],
+                    "answer": "Glandular epithelium"
+                },
+                {
+                    "question": "Basement membrane supports:",
+                    "options": [
+                    "Muscle tissue",
+                    "Epithelial tissue",
+                    "Blood cells",
+                    "Nerves only"
+                    ],
+                    "answer": "Epithelial tissue"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. Epithelial tissue is avascular\n2. It has high regeneration capacity\n3. It is loosely arranged",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "All"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                    "Squamous epithelium – secretion",
+                    "Cuboidal epithelium – absorption and secretion",
+                    "Columnar epithelium – bone formation",
+                    "Stratified epithelium – photosynthesis"
+                    ],
+                    "answer": "Cuboidal epithelium – absorption and secretion"
+                },
+                {
+                    "question": "Ciliated epithelium helps in:",
+                    "options": [
+                    "Blood formation",
+                    "Movement of particles",
+                    "Bone growth",
+                    "Muscle contraction"
+                    ],
+                    "answer": "Movement of particles"
+                },
+                {
+                    "question": "Stratified epithelium is mainly found in:",
+                    "options": [
+                    "Intestine",
+                    "Skin",
+                    "Lungs",
+                    "Kidney tubules"
+                    ],
+                    "answer": "Skin"
+                },
+                {
+                    "question": "Main feature of epithelial tissue is:",
+                    "options": [
+                    "Large intercellular space",
+                    "Tightly packed cells",
+                    "No nuclei",
+                    "Liquid structure"
+                    ],
+                    "answer": "Tightly packed cells"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Biology: Connective Tissue & Muscle Tissue",
+        "notes": [
+            {
+                "heading": "Introduction to Animal Tissues",
+                "points": [
+                    "Animal tissues are classified into epithelial, connective, muscular, and nervous tissues",
+                    "Connective and muscular tissues form the structural and functional framework of the body",
+                    "Connective tissue connects, supports, and binds organs",
+                    "Muscle tissue is responsible for movement",
+                    "Both are essential for coordination and body structure"
+                ]
+            },
+            {
+                "heading": "Connective Tissue – Overview",
+                "points": [
+                    "Connective tissue is the most abundant tissue in the body",
+                    "It connects and supports different organs and tissues",
+                    "Cells are widely spaced and embedded in extracellular matrix",
+                    "Matrix contains fibers like collagen and elastin",
+                    "Provides structural strength and flexibility"
+                ]
+            },
+            {
+                "heading": "Characteristics of Connective Tissue",
+                "points": [
+                    "Cells are loosely packed with large intercellular space",
+                    "Rich in extracellular matrix",
+                    "Generally well vascularized (except cartilage)",
+                    "Provides mechanical support and protection",
+                    "Originates from mesenchymal tissue"
+                ]
+            },
+            {
+                "heading": "Types of Connective Tissue",
+                "points": [
+                    "Loose connective tissue: areolar and adipose tissue",
+                    "Dense connective tissue: tendons and ligaments",
+                    "Supporting connective tissue: bone and cartilage",
+                    "Fluid connective tissue: blood and lymph",
+                    "Each type has specialized functions"
+                ]
+            },
+            {
+                "heading": "Areolar Tissue",
+                "points": [
+                    "Found between skin and muscles",
+                    "Acts as packing material between organs",
+                    "Supports internal organs",
+                    "Contains fibroblasts, macrophages, and mast cells",
+                    "Provides flexibility and strength"
+                ]
+            },
+            {
+                "heading": "Adipose Tissue",
+                "points": [
+                    "Stores fat in the body",
+                    "Acts as energy reserve",
+                    "Provides insulation against cold",
+                    "Found under skin and around organs",
+                    "Protects organs from mechanical shock"
+                ]
+            },
+            {
+                "heading": "Tendons and Ligaments",
+                "points": [
+                    "Tendons connect muscles to bones",
+                    "Ligaments connect bones to bones",
+                    "Both are made of dense fibrous connective tissue",
+                    "Tendons are strong and inelastic",
+                    "Ligaments are slightly elastic"
+                ]
+            },
+            {
+                "heading": "Bone and Cartilage",
+                "points": [
+                    "Bone is hard, rigid connective tissue",
+                    "Provides structural framework of body",
+                    "Cartilage is flexible and softer than bone",
+                    "Found in nose, ear, and joints",
+                    "Both support and protect organs"
+                ]
+            },
+            {
+                "heading": "Blood as Connective Tissue",
+                "points": [
+                    "Blood is a fluid connective tissue",
+                    "Transports oxygen, nutrients, and hormones",
+                    "Contains plasma, red blood cells, white blood cells, and platelets",
+                    "Helps in immunity and clotting",
+                    "Circulates throughout the body"
+                ]
+            },
+            {
+                "heading": "Muscle Tissue – Overview",
+                "points": [
+                    "Muscle tissue is responsible for movement in the body",
+                    "Made up of contractile cells (muscle fibers)",
+                    "Contains actin and myosin proteins",
+                    "Contraction and relaxation enable movement",
+                    "Highly vascularized tissue"
+                ]
+            },
+            {
+                "heading": "Types of Muscle Tissue",
+                "points": [
+                    "Skeletal muscle: voluntary movement, attached to bones",
+                    "Smooth muscle: involuntary movement, found in internal organs",
+                    "Cardiac muscle: found only in heart, involuntary and rhythmic",
+                    "Each type has distinct structure and function",
+                    "All muscles work through contraction"
+                ]
+            },
+            {
+                "heading": "Skeletal Muscle",
+                "points": [
+                    "Striated and voluntary muscle",
+                    "Attached to bones via tendons",
+                    "Multinucleated cells",
+                    "Controls body movement and posture",
+                    "Fatigues quickly"
+                ]
+            },
+            {
+                "heading": "Smooth Muscle",
+                "points": [
+                    "Non-striated and involuntary muscle",
+                    "Found in walls of internal organs like intestine and blood vessels",
+                    "Spindle-shaped cells",
+                    "Slow and sustained contractions",
+                    "Does not fatigue easily"
+                ]
+            },
+            {
+                "heading": "Cardiac Muscle",
+                "points": [
+                    "Found only in the heart",
+                    "Striated but involuntary",
+                    "Cells are branched and interconnected",
+                    "Contracts rhythmically and continuously",
+                    "Does not fatigue"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Connective tissue mainly functions in:",
+                    "options": [
+                    "Movement",
+                    "Support and binding",
+                    "Digestion",
+                    "Photosynthesis"
+                    ],
+                    "answer": "Support and binding"
+                },
+                {
+                    "question": "Muscle tissue is responsible for:",
+                    "options": [
+                    "Protection",
+                    "Movement",
+                    "Secretion",
+                    "Absorption"
+                    ],
+                    "answer": "Movement"
+                },
+                {
+                    "question": "Blood is classified as:",
+                    "options": [
+                    "Epithelial tissue",
+                    "Connective tissue",
+                    "Muscle tissue",
+                    "Nervous tissue"
+                    ],
+                    "answer": "Connective tissue"
+                },
+                {
+                    "question": "Tendons connect:",
+                    "options": [
+                    "Bone to bone",
+                    "Muscle to bone",
+                    "Nerve to muscle",
+                    "Skin to bone"
+                    ],
+                    "answer": "Muscle to bone"
+                },
+                {
+                    "question": "Cardiac muscle is found in:",
+                    "options": [
+                    "Lungs",
+                    "Heart",
+                    "Stomach",
+                    "Brain"
+                    ],
+                    "answer": "Heart"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Adipose tissue is mainly responsible for:",
+                    "options": [
+                    "Movement",
+                    "Fat storage",
+                    "Digestion",
+                    "Blood formation"
+                    ],
+                    "answer": "Fat storage"
+                },
+                {
+                    "question": "Ligaments connect:",
+                    "options": [
+                    "Muscle to bone",
+                    "Bone to bone",
+                    "Nerve to bone",
+                    "Skin to muscle"
+                    ],
+                    "answer": "Bone to bone"
+                },
+                {
+                    "question": "Smooth muscles are found in:",
+                    "options": [
+                    "Skeleton",
+                    "Intestine",
+                    "Brain",
+                    "Skin"
+                    ],
+                    "answer": "Intestine"
+                },
+                {
+                    "question": "Bone is classified as:",
+                    "options": [
+                    "Epithelial tissue",
+                    "Connective tissue",
+                    "Muscle tissue",
+                    "Nervous tissue"
+                    ],
+                    "answer": "Connective tissue"
+                },
+                {
+                    "question": "Muscle contraction involves:",
+                    "options": [
+                    "DNA replication",
+                    "Actin and myosin",
+                    "Chlorophyll",
+                    "Peptidoglycan"
+                    ],
+                    "answer": "Actin and myosin"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. Blood is a connective tissue\n2. Smooth muscle is voluntary\n3. Cartilage is flexible connective tissue",
+                    "options": [
+                    "1 and 3 only",
+                    "2 and 3 only",
+                    "1 and 2 only",
+                    "All"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                    "Tendon – bone to bone",
+                    "Ligament – muscle to bone",
+                    "Tendon – muscle to bone",
+                    "Cartilage – rigid bone tissue"
+                    ],
+                    "answer": "Tendon – muscle to bone"
+                },
+                {
+                    "question": "Which muscle is involuntary and striated?",
+                    "options": [
+                    "Skeletal muscle",
+                    "Smooth muscle",
+                    "Cardiac muscle",
+                    "Adipose tissue"
+                    ],
+                    "answer": "Cardiac muscle"
+                },
+                {
+                    "question": "Loose connective tissue includes:",
+                    "options": [
+                    "Bone only",
+                    "Areolar tissue",
+                    "Muscle fibers",
+                    "Cartilage only"
+                    ],
+                    "answer": "Areolar tissue"
+                },
+                {
+                    "question": "Main function of skeletal muscle is:",
+                    "options": [
+                    "Hormone secretion",
+                    "Voluntary movement",
+                    "Blood transport",
+                    "Fat storage"
+                    ],
+                    "answer": "Voluntary movement"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Biology: Connective Tissue & Muscle Tissue",
+        "notes": [
+            {
+                "heading": "Introduction to Animal Tissues",
+                "points": [
+                    "Animal tissues are classified into epithelial, connective, muscular, and nervous tissues",
+                    "Connective and muscular tissues form the structural and functional framework of the body",
+                    "Connective tissue connects, supports, and binds organs",
+                    "Muscle tissue is responsible for movement",
+                    "Both are essential for coordination and body structure"
+                ]
+            },
+            {
+                "heading": "Connective Tissue – Overview",
+                "points": [
+                    "Connective tissue is the most abundant tissue in the body",
+                    "It connects and supports different organs and tissues",
+                    "Cells are widely spaced and embedded in extracellular matrix",
+                    "Matrix contains fibers like collagen and elastin",
+                    "Provides structural strength and flexibility"
+                ]
+            },
+            {
+                "heading": "Characteristics of Connective Tissue",
+                "points": [
+                    "Cells are loosely packed with large intercellular space",
+                    "Rich in extracellular matrix",
+                    "Generally well vascularized (except cartilage)",
+                    "Provides mechanical support and protection",
+                    "Originates from mesenchymal tissue"
+                ]
+            },
+            {
+                "heading": "Types of Connective Tissue",
+                "points": [
+                    "Loose connective tissue: areolar and adipose tissue",
+                    "Dense connective tissue: tendons and ligaments",
+                    "Supporting connective tissue: bone and cartilage",
+                    "Fluid connective tissue: blood and lymph",
+                    "Each type has specialized functions"
+                ]
+            },
+            {
+                "heading": "Areolar Tissue",
+                "points": [
+                    "Found between skin and muscles",
+                    "Acts as packing material between organs",
+                    "Supports internal organs",
+                    "Contains fibroblasts, macrophages, and mast cells",
+                    "Provides flexibility and strength"
+                ]
+            },
+            {
+                "heading": "Adipose Tissue",
+                "points": [
+                    "Stores fat in the body",
+                    "Acts as energy reserve",
+                    "Provides insulation against cold",
+                    "Found under skin and around organs",
+                    "Protects organs from mechanical shock"
+                ]
+            },
+            {
+                "heading": "Tendons and Ligaments",
+                "points": [
+                    "Tendons connect muscles to bones",
+                    "Ligaments connect bones to bones",
+                    "Both are made of dense fibrous connective tissue",
+                    "Tendons are strong and inelastic",
+                    "Ligaments are slightly elastic"
+                ]
+            },
+            {
+                "heading": "Bone and Cartilage",
+                "points": [
+                    "Bone is hard, rigid connective tissue",
+                    "Provides structural framework of body",
+                    "Cartilage is flexible and softer than bone",
+                    "Found in nose, ear, and joints",
+                    "Both support and protect organs"
+                ]
+            },
+            {
+                "heading": "Blood as Connective Tissue",
+                "points": [
+                    "Blood is a fluid connective tissue",
+                    "Transports oxygen, nutrients, and hormones",
+                    "Contains plasma, red blood cells, white blood cells, and platelets",
+                    "Helps in immunity and clotting",
+                    "Circulates throughout the body"
+                ]
+            },
+            {
+                "heading": "Muscle Tissue – Overview",
+                "points": [
+                    "Muscle tissue is responsible for movement in the body",
+                    "Made up of contractile cells (muscle fibers)",
+                    "Contains actin and myosin proteins",
+                    "Contraction and relaxation enable movement",
+                    "Highly vascularized tissue"
+                ]
+            },
+            {
+                "heading": "Types of Muscle Tissue",
+                "points": [
+                    "Skeletal muscle: voluntary movement, attached to bones",
+                    "Smooth muscle: involuntary movement, found in internal organs",
+                    "Cardiac muscle: found only in heart, involuntary and rhythmic",
+                    "Each type has distinct structure and function",
+                    "All muscles work through contraction"
+                ]
+            },
+            {
+                "heading": "Skeletal Muscle",
+                "points": [
+                    "Striated and voluntary muscle",
+                    "Attached to bones via tendons",
+                    "Multinucleated cells",
+                    "Controls body movement and posture",
+                    "Fatigues quickly"
+                ]
+            },
+            {
+                "heading": "Smooth Muscle",
+                "points": [
+                    "Non-striated and involuntary muscle",
+                    "Found in walls of internal organs like intestine and blood vessels",
+                    "Spindle-shaped cells",
+                    "Slow and sustained contractions",
+                    "Does not fatigue easily"
+                ]
+            },
+            {
+                "heading": "Cardiac Muscle",
+                "points": [
+                    "Found only in the heart",
+                    "Striated but involuntary",
+                    "Cells are branched and interconnected",
+                    "Contracts rhythmically and continuously",
+                    "Does not fatigue"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Connective tissue mainly functions in:",
+                    "options": [
+                    "Movement",
+                    "Support and binding",
+                    "Digestion",
+                    "Photosynthesis"
+                    ],
+                    "answer": "Support and binding"
+                },
+                {
+                    "question": "Muscle tissue is responsible for:",
+                    "options": [
+                    "Protection",
+                    "Movement",
+                    "Secretion",
+                    "Absorption"
+                    ],
+                    "answer": "Movement"
+                },
+                {
+                    "question": "Blood is classified as:",
+                    "options": [
+                    "Epithelial tissue",
+                    "Connective tissue",
+                    "Muscle tissue",
+                    "Nervous tissue"
+                    ],
+                    "answer": "Connective tissue"
+                },
+                {
+                    "question": "Tendons connect:",
+                    "options": [
+                    "Bone to bone",
+                    "Muscle to bone",
+                    "Nerve to muscle",
+                    "Skin to bone"
+                    ],
+                    "answer": "Muscle to bone"
+                },
+                {
+                    "question": "Cardiac muscle is found in:",
+                    "options": [
+                    "Lungs",
+                    "Heart",
+                    "Stomach",
+                    "Brain"
+                    ],
+                    "answer": "Heart"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Adipose tissue is mainly responsible for:",
+                    "options": [
+                    "Movement",
+                    "Fat storage",
+                    "Digestion",
+                    "Blood formation"
+                    ],
+                    "answer": "Fat storage"
+                },
+                {
+                    "question": "Ligaments connect:",
+                    "options": [
+                    "Muscle to bone",
+                    "Bone to bone",
+                    "Nerve to bone",
+                    "Skin to muscle"
+                    ],
+                    "answer": "Bone to bone"
+                },
+                {
+                    "question": "Smooth muscles are found in:",
+                    "options": [
+                    "Skeleton",
+                    "Intestine",
+                    "Brain",
+                    "Skin"
+                    ],
+                    "answer": "Intestine"
+                },
+                {
+                    "question": "Bone is classified as:",
+                    "options": [
+                    "Epithelial tissue",
+                    "Connective tissue",
+                    "Muscle tissue",
+                    "Nervous tissue"
+                    ],
+                    "answer": "Connective tissue"
+                },
+                {
+                    "question": "Muscle contraction involves:",
+                    "options": [
+                    "DNA replication",
+                    "Actin and myosin",
+                    "Chlorophyll",
+                    "Peptidoglycan"
+                    ],
+                    "answer": "Actin and myosin"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. Blood is a connective tissue\n2. Smooth muscle is voluntary\n3. Cartilage is flexible connective tissue",
+                    "options": [
+                    "1 and 3 only",
+                    "2 and 3 only",
+                    "1 and 2 only",
+                    "All"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                    "Tendon – bone to bone",
+                    "Ligament – muscle to bone",
+                    "Tendon – muscle to bone",
+                    "Cartilage – rigid bone tissue"
+                    ],
+                    "answer": "Tendon – muscle to bone"
+                },
+                {
+                    "question": "Which muscle is involuntary and striated?",
+                    "options": [
+                    "Skeletal muscle",
+                    "Smooth muscle",
+                    "Cardiac muscle",
+                    "Adipose tissue"
+                    ],
+                    "answer": "Cardiac muscle"
+                },
+                {
+                    "question": "Loose connective tissue includes:",
+                    "options": [
+                    "Bone only",
+                    "Areolar tissue",
+                    "Muscle fibers",
+                    "Cartilage only"
+                    ],
+                    "answer": "Areolar tissue"
+                },
+                {
+                    "question": "Main function of skeletal muscle is:",
+                    "options": [
+                    "Hormone secretion",
+                    "Voluntary movement",
+                    "Blood transport",
+                    "Fat storage"
+                    ],
+                    "answer": "Voluntary movement"
+                }
+            ]
+        }
+    }
+]

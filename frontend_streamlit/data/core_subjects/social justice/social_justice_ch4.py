@@ -1,0 +1,515 @@
+TOPICS = [
+    {
+        "name": "Social Justice – Scheduled & Tribal Areas (5th & 6th Schedule)",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Scheduled and Tribal Areas are constitutionally recognized for protection of tribal communities",
+                    "Special provisions ensure socio-economic development and cultural preservation",
+                    "Governed under the Fifth and Sixth Schedules of the Constitution",
+                    "Aim to protect tribal rights over land, resources, and governance"
+                ]
+            },
+            {
+                "heading": "Scheduled Areas – Concept",
+                "points": [
+                    "Defined under Article 244 of the Constitution",
+                    "Areas with significant tribal population",
+                    "Declared by the President of India",
+                    "Focused on welfare and protection of tribal communities",
+                    "Mostly located in central and eastern India"
+                ]
+            },
+            {
+                "heading": "5th Schedule Areas",
+                "points": [
+                    "Applicable to states other than Northeast (e.g., Jharkhand, Chhattisgarh, Odisha)",
+                    "Governor has special powers regarding administration",
+                    "Tribal Advisory Council (TAC) to advise on welfare",
+                    "President can declare and modify Scheduled Areas",
+                    "Laws of Parliament/State Legislature can be modified for these areas",
+                    "Focus on land rights, forest rights, and tribal welfare"
+                ]
+            },
+            {
+                "heading": "Key Features of 5th Schedule",
+                "points": [
+                    "Governor can make regulations for peace and good governance",
+                    "Restriction on transfer of tribal land to non-tribals",
+                    "Control over money lending practices",
+                    "Tribal Advisory Council mandatory in states with Scheduled Areas",
+                    "Annual report by Governor to the President"
+                ]
+            },
+            {
+                "heading": "6th Schedule Areas",
+                "points": [
+                    "Applicable to Northeast states: Assam, Meghalaya, Tripura, Mizoram",
+                    "Provides for Autonomous District Councils (ADCs)",
+                    "ADCs have legislative, executive, and judicial powers",
+                    "Focus on self-governance and autonomy",
+                    "Protection of tribal customs, culture, and traditions"
+                ]
+            },
+            {
+                "heading": "Key Features of 6th Schedule",
+                "points": [
+                    "Autonomous District and Regional Councils",
+                    "Power to make laws on land, forests, and customs",
+                    "Judicial powers through village courts",
+                    "Power to collect taxes",
+                    "Greater autonomy compared to 5th Schedule"
+                ]
+            },
+            {
+                "heading": "Difference: 5th vs 6th Schedule",
+                "points": [
+                    "5th Schedule: Governor-centric administration",
+                    "6th Schedule: Autonomous Councils with self-governance",
+                    "5th Schedule applies to central India",
+                    "6th Schedule applies to Northeast India",
+                    "6th Schedule provides more autonomy"
+                ]
+            },
+            {
+                "heading": "Issues in Scheduled Areas",
+                "points": [
+                    "Displacement due to development projects",
+                    "Land alienation and exploitation",
+                    "Poor implementation of laws (PESA, FRA)",
+                    "Lack of infrastructure and basic services",
+                    "Insurgency and conflict in some regions",
+                    "Marginalization and poverty"
+                ]
+            },
+            {
+                "heading": "Reforms Needed",
+                "points": [
+                    "Effective implementation of PESA Act, 1996",
+                    "Strengthening Gram Sabhas",
+                    "Protection of land and forest rights (FRA 2006)",
+                    "Promote tribal participation in governance",
+                    "Balanced development with cultural preservation",
+                    "Improve infrastructure and education"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Scheduled Areas are defined under:",
+                    "options": [
+                    "Article 100",
+                    "Article 244",
+                    "Article 370",
+                    "Article 356"
+                    ],
+                    "answer": "Article 244"
+                },
+                {
+                    "question": "5th Schedule applies to:",
+                    "options": [
+                    "Northeast India",
+                    "Central and other states",
+                    "Only urban areas",
+                    "Foreign countries"
+                    ],
+                    "answer": "Central and other states"
+                },
+                {
+                    "question": "6th Schedule provides:",
+                    "options": [
+                    "Governor rule",
+                    "Autonomous Councils",
+                    "Military control",
+                    "Trade policies"
+                    ],
+                    "answer": "Autonomous Councils"
+                },
+                {
+                    "question": "TAC stands for:",
+                    "options": [
+                    "Tribal Advisory Council",
+                    "Trade Advisory Council",
+                    "Tax Advisory Council",
+                    "None"
+                    ],
+                    "answer": "Tribal Advisory Council"
+                },
+                {
+                    "question": "6th Schedule applies to:",
+                    "options": [
+                    "Tamil Nadu",
+                    "Assam and Northeast",
+                    "Punjab",
+                    "Gujarat"
+                    ],
+                    "answer": "Assam and Northeast"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Governor has special powers under:",
+                    "options": [
+                    "6th Schedule",
+                    "5th Schedule",
+                    "Both",
+                    "None"
+                    ],
+                    "answer": "5th Schedule"
+                },
+                {
+                    "question": "ADCs have powers over:",
+                    "options": [
+                    "Defense",
+                    "Land and customs",
+                    "Foreign policy",
+                    "Trade only"
+                    ],
+                    "answer": "Land and customs"
+                },
+                {
+                    "question": "Which Act strengthens tribal governance?",
+                    "options": [
+                    "PESA Act",
+                    "GST Act",
+                    "RTI Act",
+                    "IT Act"
+                    ],
+                    "answer": "PESA Act"
+                },
+                {
+                    "question": "Main issue in tribal areas is:",
+                    "options": [
+                    "Overdevelopment",
+                    "Land alienation",
+                    "High income",
+                    "No population"
+                    ],
+                    "answer": "Land alienation"
+                },
+                {
+                    "question": "FRA 2006 deals with:",
+                    "options": [
+                    "Forest rights",
+                    "Trade",
+                    "Defense",
+                    "Education"
+                    ],
+                    "answer": "Forest rights"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. 6th Schedule provides more autonomy\n2. 5th Schedule involves Governor control\n3. Both aim at tribal welfare",
+                    "options": [
+                    "1 only",
+                    "1 and 2 only",
+                    "1, 2 and 3",
+                    "2 and 3 only"
+                    ],
+                    "answer": "1, 2 and 3"
+                },
+                {
+                    "question": "Which schedule includes judicial powers at local level?",
+                    "options": [
+                    "5th",
+                    "6th",
+                    "Both",
+                    "None"
+                    ],
+                    "answer": "6th"
+                },
+                {
+                    "question": "President can modify Scheduled Areas under:",
+                    "options": [
+                    "5th Schedule",
+                    "6th Schedule",
+                    "Both",
+                    "None"
+                    ],
+                    "answer": "5th Schedule"
+                },
+                {
+                    "question": "Key challenge in tribal areas is:",
+                    "options": [
+                    "Overfunding",
+                    "Poor implementation",
+                    "Excess autonomy",
+                    "No laws"
+                    ],
+                    "answer": "Poor implementation"
+                },
+                {
+                    "question": "Goal of schedules is:",
+                    "options": [
+                    "Industrial growth",
+                    "Tribal protection",
+                    "Military expansion",
+                    "Trade promotion"
+                    ],
+                    "answer": "Tribal protection"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Social Justice – Autonomous Councils, Governor’s Role & Tribal Sub-Plan",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Autonomous Councils under the 6th Schedule ensure self-governance for tribal areas",
+                    "Governor plays a crucial role in administration of tribal regions (especially under 5th Schedule)",
+                    "Tribal Sub-Plan (TSP) is a key strategy for targeted tribal development",
+                    "Focus is on decentralization, participation, and inclusive growth"
+                ]
+            },
+            {
+                "heading": "Composition of Autonomous Councils",
+                "points": [
+                    "Established under the 6th Schedule of the Constitution",
+                    "Each Autonomous District Council (ADC) has up to 30 members",
+                    "26 members are elected through adult franchise",
+                    "4 members are nominated by the Governor",
+                    "Term of office is 5 years",
+                    "Separate Regional Councils may exist for different tribes within a district"
+                ]
+            },
+            {
+                "heading": "Structure of Autonomous Councils",
+                "points": [
+                    "Autonomous District Councils (ADCs)",
+                    "Autonomous Regional Councils (for specific tribes)",
+                    "Executive Committee headed by Chief Executive Member",
+                    "Council functions like a mini-legislature",
+                    "Has administrative and judicial wings"
+                ]
+            },
+            {
+                "heading": "Role and Functions of Autonomous Councils",
+                "points": [
+                    "Legislative powers over land, forests, agriculture, and customs",
+                    "Executive powers for administration of local areas",
+                    "Judicial powers through village courts for tribal disputes",
+                    "Power to levy and collect taxes",
+                    "Regulation of shifting cultivation",
+                    "Preservation of tribal culture and traditions"
+                ]
+            },
+            {
+                "heading": "Role of Governor in Tribal Areas (5th & 6th Schedule)",
+                "points": [
+                    "Governor has special powers under the 5th Schedule",
+                    "Can make regulations for peace and good governance",
+                    "Can modify or suspend application of laws",
+                    "Oversees Tribal Advisory Council (TAC)",
+                    "Submits annual report to the President",
+                    "In 6th Schedule, Governor has powers to create/modify councils",
+                    "Can approve or veto council laws"
+                ]
+            },
+            {
+                "heading": "Tribal Sub-Plan (TSP)",
+                "points": [
+                    "Introduced in 1974 for targeted tribal development",
+                    "Ensures proportionate allocation of funds for tribal areas",
+                    "Integrated into Five-Year Plans",
+                    "Focus on socio-economic development of Scheduled Tribes",
+                    "Covers sectors like education, health, livelihood, infrastructure"
+                ]
+            },
+            {
+                "heading": "Objectives of Tribal Sub-Plan",
+                "points": [
+                    "Reduce poverty among tribal communities",
+                    "Eliminate exploitation and inequality",
+                    "Improve human development indicators",
+                    "Promote sustainable livelihood",
+                    "Ensure participation in development process"
+                ]
+            },
+            {
+                "heading": "Issues in Implementation",
+                "points": [
+                    "Diversion of funds meant for tribal areas",
+                    "Weak monitoring and evaluation",
+                    "Lack of coordination among agencies",
+                    "Limited participation of tribal communities",
+                    "Administrative inefficiencies",
+                    "Poor awareness among beneficiaries"
+                ]
+            },
+            {
+                "heading": "Reforms Needed",
+                "points": [
+                    "Ensure strict implementation of TSP guidelines",
+                    "Strengthen role of Gram Sabhas",
+                    "Improve transparency and accountability",
+                    "Enhance capacity building of tribal institutions",
+                    "Promote participatory planning",
+                    "Focus on sustainable and inclusive development"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Autonomous Councils are established under:",
+                    "options": [
+                    "5th Schedule",
+                    "6th Schedule",
+                    "7th Schedule",
+                    "None"
+                    ],
+                    "answer": "6th Schedule"
+                },
+                {
+                    "question": "Total members in ADC can be up to:",
+                    "options": [
+                    "20",
+                    "25",
+                    "30",
+                    "50"
+                    ],
+                    "answer": "30"
+                },
+                {
+                    "question": "Governor nominates:",
+                    "options": [
+                    "2 members",
+                    "4 members",
+                    "6 members",
+                    "10 members"
+                    ],
+                    "answer": "4 members"
+                },
+                {
+                    "question": "TSP was introduced in:",
+                    "options": [
+                    "1950",
+                    "1965",
+                    "1974",
+                    "1991"
+                    ],
+                    "answer": "1974"
+                },
+                {
+                    "question": "ADC term is:",
+                    "options": [
+                    "3 years",
+                    "4 years",
+                    "5 years",
+                    "6 years"
+                    ],
+                    "answer": "5 years"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "ADC has power over:",
+                    "options": [
+                    "Defense",
+                    "Land and customs",
+                    "Foreign policy",
+                    "Trade only"
+                    ],
+                    "answer": "Land and customs"
+                },
+                {
+                    "question": "Governor can modify laws under:",
+                    "options": [
+                    "5th Schedule",
+                    "6th Schedule",
+                    "Both",
+                    "None"
+                    ],
+                    "answer": "5th Schedule"
+                },
+                {
+                    "question": "TSP focuses on:",
+                    "options": [
+                    "Urban areas",
+                    "Tribal development",
+                    "Defense",
+                    "Trade"
+                    ],
+                    "answer": "Tribal development"
+                },
+                {
+                    "question": "Village courts are under:",
+                    "options": [
+                    "5th Schedule",
+                    "6th Schedule",
+                    "Both",
+                    "None"
+                    ],
+                    "answer": "6th Schedule"
+                },
+                {
+                    "question": "Main issue in TSP is:",
+                    "options": [
+                    "Overfunding",
+                    "Fund diversion",
+                    "High awareness",
+                    "No schemes"
+                    ],
+                    "answer": "Fund diversion"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. ADCs have legislative powers\n2. Governor has special powers in tribal areas\n3. TSP ensures targeted tribal funding",
+                    "options": [
+                    "1 only",
+                    "1 and 2 only",
+                    "1, 2 and 3",
+                    "2 and 3 only"
+                    ],
+                    "answer": "1, 2 and 3"
+                },
+                {
+                    "question": "Chief Executive Member heads:",
+                    "options": [
+                    "Governor office",
+                    "ADC executive",
+                    "Parliament",
+                    "Panchayat"
+                    ],
+                    "answer": "ADC executive"
+                },
+                {
+                    "question": "TSP aims to:",
+                    "options": [
+                    "Increase inequality",
+                    "Reduce tribal poverty",
+                    "Promote trade",
+                    "Defense growth"
+                    ],
+                    "answer": "Reduce tribal poverty"
+                },
+                {
+                    "question": "Autonomous Councils ensure:",
+                    "options": [
+                    "Central control",
+                    "Self-governance",
+                    "Military rule",
+                    "Trade expansion"
+                    ],
+                    "answer": "Self-governance"
+                },
+                {
+                    "question": "Key reform needed is:",
+                    "options": [
+                    "Reduce funds",
+                    "Improve implementation",
+                    "Eliminate councils",
+                    "Centralize power"
+                    ],
+                    "answer": "Improve implementation"
+                }
+            ]
+        }
+    }
+]

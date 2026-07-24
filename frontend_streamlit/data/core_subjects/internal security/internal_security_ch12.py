@@ -1,0 +1,631 @@
+TOPICS = [
+    {
+        "name": "Police Reforms in India",
+        "notes": [
+            {
+                "heading": "Police Reforms in India – Overview",
+                "points": [
+                    "Police reforms refer to structural, functional, and administrative improvements in policing system",
+                    "Aim is to make police more efficient, accountable, and citizen-friendly",
+                    "Indian police system is largely based on the Police Act of 1861",
+                    "Reforms are needed due to colonial legacy, political interference, and outdated systems",
+                    "Modern policing requires professionalism, technology adoption, and human rights focus"
+                ]
+            },
+            {
+                "heading": "Need for Police Reforms",
+                "points": [
+                    "Increasing crime complexity including cybercrime and terrorism",
+                    "Political interference in police functioning",
+                    "Understaffing and poor working conditions",
+                    "Lack of modern equipment and training",
+                    "Low public trust in police institutions",
+                    "Slow investigation and case disposal rates"
+                ]
+            },
+            {
+                "heading": "Organisational Structure of Police in India",
+                "points": [
+                    "Police is a State subject under the Constitution (State List)",
+                    "Hierarchical structure from constable to Director General of Police (DGP)",
+                    "District Police headed by Superintendent of Police (SP)",
+                    "State police headed by DGP under Home Department",
+                    "Specialized units like CID, ATS, and Cyber Crime Cells"
+                ]
+            },
+            {
+                "heading": "Hierarchy of Police System",
+                "points": [
+                    "Constable – basic field-level officer",
+                    "Head Constable – supervisory role",
+                    "Sub-Inspector (SI) – investigates cases at police station level",
+                    "Inspector – heads police station",
+                    "Deputy Superintendent of Police (DSP)/Assistant SP – sub-divisional level",
+                    "Superintendent of Police (SP) – district level",
+                    "Senior officers like DIG, IG, DGP at higher levels"
+                ]
+            },
+            {
+                "heading": "Types of Police Forces in India",
+                "points": [
+                    "State Police Forces – primary law enforcement bodies",
+                    "Central Armed Police Forces (CAPFs) – BSF, CRPF, CISF, ITBP, SSB",
+                    "Special Forces – NSG for counter-terrorism, SPG for VIP security",
+                    "Railway Protection Force (RPF) for railway security",
+                    "Intelligence Bureau (IB) supports internal security intelligence"
+                ]
+            },
+            {
+                "heading": "Duties and Responsibilities of Police",
+                "points": [
+                    "Maintenance of law and order",
+                    "Crime prevention and investigation",
+                    "Protection of life and property",
+                    "Traffic management and regulation",
+                    "Assisting judiciary in evidence collection",
+                    "Disaster response and emergency support",
+                    "Maintaining public order during events and protests"
+                ]
+            },
+            {
+                "heading": "Preventive Functions of Police",
+                "points": [
+                    "Preventing crimes through patrolling and surveillance",
+                    "Community policing and public engagement",
+                    "Intelligence gathering on potential threats",
+                    "Monitoring suspicious activities",
+                    "Maintaining peace during sensitive situations"
+                ]
+            },
+            {
+                "heading": "Investigative Functions of Police",
+                "points": [
+                    "Registering FIRs and conducting investigations",
+                    "Collecting evidence and forensic support",
+                    "Arresting suspects and presenting chargesheets",
+                    "Coordinating with prosecution agencies",
+                    "Ensuring fair and lawful investigation process"
+                ]
+            },
+            {
+                "heading": "Centre’s Role in Policing",
+                "points": [
+                    "Police is primarily a State subject but Centre plays supporting role",
+                    "Central Armed Police Forces handle internal security threats",
+                    "Ministry of Home Affairs coordinates national security policies",
+                    "Assistance during riots, terrorism, and disaster situations",
+                    "Funding and modernization support to state police forces"
+                ]
+            },
+            {
+                "heading": "Central Agencies Supporting Policing",
+                "points": [
+                    "Central Bureau of Investigation (CBI) for major criminal cases",
+                    "National Investigation Agency (NIA) for terrorism-related crimes",
+                    "Intelligence Bureau (IB) for internal intelligence gathering",
+                    "National Crime Records Bureau (NCRB) for crime data management",
+                    "National Technical Research Organisation (NTRO) for technical intelligence"
+                ]
+            },
+            {
+                "heading": "Challenges in Policing System",
+                "points": [
+                    "Political interference in postings and investigations",
+                    "Vacancies and shortage of personnel",
+                    "Inadequate training in modern crime techniques",
+                    "Poor infrastructure and equipment",
+                    "Low conviction rates in criminal cases",
+                    "Stress and poor working conditions for police personnel"
+                ]
+            },
+            {
+                "heading": "Major Police Reforms Suggested",
+                "points": [
+                    "Separation of law and order from investigation functions",
+                    "Fixed tenure for police officers to ensure autonomy",
+                    "Police accountability mechanisms",
+                    "Modernization of police force with technology",
+                    "Community policing and citizen participation",
+                    "Improved training and capacity building"
+                ]
+            },
+            {
+                "heading": "Supreme Court Directions (Prakash Singh Case)",
+                "points": [
+                    "Establishment of State Security Commission",
+                    "Fixed tenure for DGP and other officers",
+                    "Separation of investigation and law & order functions",
+                    "Creation of Police Establishment Boards",
+                    "Police Complaints Authorities for accountability",
+                    "Aimed at reducing political interference in policing"
+                ]
+            },
+            {
+                "heading": "Modernization of Police",
+                "points": [
+                    "Use of CCTV and body cameras",
+                    "Digital FIR and online complaint systems",
+                    "Cybercrime cells in all states",
+                    "Use of AI and data analytics in policing",
+                    "Modern forensic labs and technology adoption",
+                    "Smart policing initiatives"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Police in India is a subject under:",
+                    "options": [
+                    "Union List",
+                    "State List",
+                    "Concurrent List",
+                    "Residuary List"
+                    ],
+                    "answer": "State List"
+                },
+                {
+                    "question": "Basic police unit is:",
+                    "options": [
+                    "Inspector",
+                    "Constable",
+                    "SP",
+                    "DGP"
+                    ],
+                    "answer": "Constable"
+                },
+                {
+                    "question": "CBI stands for:",
+                    "options": [
+                    "Central Bureau of Investigation",
+                    "Crime Bureau of India",
+                    "Central Banking Institution",
+                    "Civil Bureau of Investigation"
+                    ],
+                    "answer": "Central Bureau of Investigation"
+                },
+                {
+                    "question": "Police Act of India is from:",
+                    "options": [
+                    "1950",
+                    "1861",
+                    "2000",
+                    "1947"
+                    ],
+                    "answer": "1861"
+                },
+                {
+                    "question": "DGP stands for:",
+                    "options": [
+                    "District General Police",
+                    "Director General of Police",
+                    "Deputy General Police",
+                    "Defence General Police"
+                    ],
+                    "answer": "Director General of Police"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "One duty of police is:",
+                    "options": [
+                    "Space research",
+                    "Maintenance of law and order",
+                    "Tax collection",
+                    "Foreign trade"
+                    ],
+                    "answer": "Maintenance of law and order"
+                },
+                {
+                    "question": "NIA deals with:",
+                    "options": [
+                    "Agriculture crimes",
+                    "Terrorism-related crimes",
+                    "Banking policies",
+                    "Education reforms"
+                    ],
+                    "answer": "Terrorism-related crimes"
+                },
+                {
+                    "question": "One challenge in policing is:",
+                    "options": [
+                    "Too many officers",
+                    "Political interference",
+                    "No crimes",
+                    "Excess funding"
+                    ],
+                    "answer": "Political interference"
+                },
+                {
+                    "question": "Separation of investigation and law & order was suggested by:",
+                    "options": [
+                    "Planning Commission",
+                    "Supreme Court (Prakash Singh case)",
+                    "RBI",
+                    "NITI Aayog"
+                    ],
+                    "answer": "Supreme Court (Prakash Singh case)"
+                },
+                {
+                    "question": "CAPFs are:",
+                    "options": [
+                    "State police forces",
+                    "Central armed police forces",
+                    "Private security agencies",
+                    "Local committees"
+                    ],
+                    "answer": "Central armed police forces"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Police is a State subject\n2. CBI is a state agency\n3. Prakash Singh case is related to police reforms",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "1 and 3"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "NIA – terrorism investigation",
+                    "IB – agriculture policy",
+                    "CRPF – banking regulation",
+                    "NCRB – space research"
+                    ],
+                    "answer": "NIA – terrorism investigation"
+                },
+                {
+                    "question": "Police reforms aim to:",
+                    "options": [
+                    "Increase political control",
+                    "Improve efficiency and accountability",
+                    "Reduce law enforcement",
+                    "Eliminate policing system"
+                    ],
+                    "answer": "Improve efficiency and accountability"
+                },
+                {
+                    "question": "One modern policing method is:",
+                    "options": [
+                    "Manual reporting only",
+                    "Use of AI and CCTV",
+                    "No technology",
+                    "Paper-based FIR only"
+                    ],
+                    "answer": "Use of AI and CCTV"
+                },
+                {
+                    "question": "Effective policing requires:",
+                    "options": [
+                    "Weak training",
+                    "Modernization and autonomy",
+                    "No investigations",
+                    "Reduced staffing"
+                    ],
+                    "answer": "Modernization and autonomy"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Traditional & Non-Traditional Security Challenges + Police Reforms Vision",
+        "notes": [
+            {
+                "heading": "Traditional Security Challenges – Overview",
+                "points": [
+                    "Traditional security refers to threats primarily from military and external aggression",
+                    "It includes war, border conflicts, insurgency, and terrorism",
+                    "Focus is on sovereignty, territorial integrity, and national defense",
+                    "Handled mainly by armed forces and internal security agencies",
+                    "Still relevant in India due to cross-border tensions and insurgency"
+                ]
+            },
+            {
+                "heading": "Examples of Traditional Security Challenges",
+                "points": [
+                    "Cross-border terrorism and infiltration",
+                    "Conventional wars and military conflicts",
+                    "Border disputes with neighboring countries",
+                    "Insurgency movements in internal regions",
+                    "Arms smuggling and illegal weapons supply",
+                    "Proxy wars and state-sponsored terrorism"
+                ]
+            },
+            {
+                "heading": "Features of Traditional Security",
+                "points": [
+                    "State-centric threats (nation vs nation or state vs insurgents)",
+                    "Use of military force and armed response",
+                    "Clear enemy identification in most cases",
+                    "Focus on territorial protection",
+                    "High dependence on defence infrastructure"
+                ]
+            },
+            {
+                "heading": "Non-Traditional Security (NTS) Challenges – Overview",
+                "points": [
+                    "Non-traditional security threats are non-military in nature",
+                    "They affect individuals, societies, and states simultaneously",
+                    "Often transnational and borderless in nature",
+                    "Require multi-agency and multi-sector response",
+                    "Increasingly important in 21st-century security framework"
+                ]
+            },
+            {
+                "heading": "Types of Non-Traditional Security Challenges",
+                "points": [
+                    "Cyber security threats and cyber warfare",
+                    "Climate change and environmental degradation",
+                    "Pandemics and global health crises",
+                    "Food and water security issues",
+                    "Human trafficking and organized crime",
+                    "Economic instability and financial crimes",
+                    "Drug trafficking and narcotics trade"
+                ]
+            },
+            {
+                "heading": "Differences between Traditional and Non-Traditional Security",
+                "points": [
+                    "Traditional security is state-centric; NTS is human-centric",
+                    "Traditional involves military force; NTS involves multiple sectors",
+                    "Traditional threats are mostly external; NTS are both internal and external",
+                    "Traditional threats are visible; NTS are often invisible and complex",
+                    "NTS requires global cooperation more than traditional security"
+                ]
+            },
+            {
+                "heading": "Impact of Non-Traditional Security Threats",
+                "points": [
+                    "Threat to human life and public health",
+                    "Disruption of economy and supply chains",
+                    "Weakening of governance systems",
+                    "Increased burden on internal security agencies",
+                    "Cross-border instability and migration issues",
+                    "Social unrest and inequality amplification"
+                ]
+            },
+            {
+                "heading": "Need for Integrated Security Approach",
+                "points": [
+                    "Blending traditional and non-traditional security strategies",
+                    "Coordination between defence, police, and civil administration",
+                    "Use of technology and intelligence sharing",
+                    "International cooperation for global threats",
+                    "Focus on resilience and preparedness"
+                ]
+            },
+            {
+                "heading": "Recommendations for Police Reforms – Overview",
+                "points": [
+                    "Police reforms aim to modernize and depoliticize policing",
+                    "Focus on efficiency, accountability, and professionalism",
+                    "Ensure trust between police and citizens",
+                    "Adapt policing to new-age threats like cybercrime and terrorism",
+                    "Based on Supreme Court directives and expert committees"
+                ]
+            },
+            {
+                "heading": "Structural Reforms in Police",
+                "points": [
+                    "Separation of investigation and law & order functions",
+                    "Fixed tenure for senior police officers",
+                    "Independent Police Complaints Authorities",
+                    "Strengthening State Security Commissions",
+                    "Reducing political interference in policing"
+                ]
+            },
+            {
+                "heading": "Functional Reforms in Police",
+                "points": [
+                    "Improved crime investigation techniques",
+                    "Use of modern forensic science",
+                    "Cybercrime specialization units",
+                    "Intelligence-led policing system",
+                    "Better coordination with central agencies"
+                ]
+            },
+            {
+                "heading": "Human Resource Reforms",
+                "points": [
+                    "Improved training and skill development",
+                    "Better working conditions and welfare measures",
+                    "Stress management and mental health support",
+                    "Merit-based recruitment and promotions",
+                    "Gender sensitization and diversity in police force"
+                ]
+            },
+            {
+                "heading": "Technological Reforms",
+                "points": [
+                    "Use of AI and big data analytics in policing",
+                    "CCTV surveillance and body cameras",
+                    "Digital FIR and e-policing systems",
+                    "Cyber forensic labs in all states",
+                    "Integrated crime databases across states"
+                ]
+            },
+            {
+                "heading": "Police We Want in 21st Century – Vision",
+                "points": [
+                    "Professional, impartial, and accountable police force",
+                    "Citizen-friendly and service-oriented policing",
+                    "Technology-driven and intelligence-based policing",
+                    "Transparent and corruption-free system",
+                    "Human rights sensitive policing approach"
+                ]
+            },
+            {
+                "heading": "Characteristics of Ideal 21st Century Police",
+                "points": [
+                    "High ethical standards and integrity",
+                    "Quick response and efficient service delivery",
+                    "Strong cyber and digital crime capabilities",
+                    "Community policing and public trust",
+                    "Inter-agency coordination and global cooperation"
+                ]
+            },
+            {
+                "heading": "Community Policing Approach",
+                "points": [
+                    "Building trust between police and citizens",
+                    "Public participation in crime prevention",
+                    "Local intelligence gathering through community networks",
+                    "Conflict resolution at grassroots level",
+                    "Improved police legitimacy in society"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Traditional security mainly deals with:",
+                    "options": [
+                    "Health issues",
+                    "Military threats",
+                    "Education reforms",
+                    "Trade policies"
+                    ],
+                    "answer": "Military threats"
+                },
+                {
+                    "question": "Non-traditional security threats are:",
+                    "options": [
+                    "Only military",
+                    "Non-military in nature",
+                    "Only internal",
+                    "Only economic"
+                    ],
+                    "answer": "Non-military in nature"
+                },
+                {
+                    "question": "Example of NTS is:",
+                    "options": [
+                    "War",
+                    "Cybercrime",
+                    "Border dispute",
+                    "Military invasion"
+                    ],
+                    "answer": "Cybercrime"
+                },
+                {
+                    "question": "Traditional security is mainly:",
+                    "options": [
+                    "Human-centric",
+                    "State-centric",
+                    "Market-centric",
+                    "Technology-centric"
+                    ],
+                    "answer": "State-centric"
+                },
+                {
+                    "question": "Police reforms aim to:",
+                    "options": [
+                    "Increase inefficiency",
+                    "Improve efficiency and accountability",
+                    "Reduce policing",
+                    "Eliminate laws"
+                    ],
+                    "answer": "Improve efficiency and accountability"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "One feature of NTS is:",
+                    "options": [
+                    "National boundaries only",
+                    "Transnational nature",
+                    "Only military focus",
+                    "No global impact"
+                    ],
+                    "answer": "Transnational nature"
+                },
+                {
+                    "question": "Cyber security is a:",
+                    "options": [
+                    "Traditional threat",
+                    "Non-traditional threat",
+                    "Military war only",
+                    "Border dispute"
+                    ],
+                    "answer": "Non-traditional threat"
+                },
+                {
+                    "question": "Community policing aims to:",
+                    "options": [
+                    "Increase distrust",
+                    "Build police-public trust",
+                    "Reduce policing",
+                    "Increase corruption"
+                    ],
+                    "answer": "Build police-public trust"
+                },
+                {
+                    "question": "One reform in police is:",
+                    "options": [
+                    "Political interference",
+                    "Fixed tenure for officers",
+                    "No training",
+                    "No technology"
+                    ],
+                    "answer": "Fixed tenure for officers"
+                },
+                {
+                    "question": "NTS threats require:",
+                    "options": [
+                    "Only military response",
+                    "Multi-sector approach",
+                    "No response",
+                    "Only police action"
+                    ],
+                    "answer": "Multi-sector approach"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Traditional security is state-centric\n2. NTS threats are always internal\n3. Cyber security is a non-traditional threat",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "1 and 3"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "NTS – climate change",
+                    "Traditional security – health pandemic",
+                    "Police reform – increasing political control",
+                    "Cybercrime – physical warfare"
+                    ],
+                    "answer": "NTS – climate change"
+                },
+                {
+                    "question": "One key feature of modern policing is:",
+                    "options": [
+                    "Manual systems only",
+                    "Technology-driven policing",
+                    "No intelligence use",
+                    "Reduced coordination"
+                    ],
+                    "answer": "Technology-driven policing"
+                },
+                {
+                    "question": "Police reforms are needed because:",
+                    "options": [
+                    "No crimes exist",
+                    "Changing nature of crime and governance needs",
+                    "No policing required",
+                    "Reduced population"
+                    ],
+                    "answer": "Changing nature of crime and governance needs"
+                },
+                {
+                    "question": "21st century police should be:",
+                    "options": [
+                    "Corrupt and slow",
+                    "Citizen-friendly and tech-enabled",
+                    "Isolated from society",
+                    "Military-based only"
+                    ],
+                    "answer": "Citizen-friendly and tech-enabled"
+                }
+            ]
+        }
+    }
+]

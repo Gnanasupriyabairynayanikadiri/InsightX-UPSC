@@ -1,0 +1,599 @@
+[
+    {
+        "name": "Ancient History – Buddhism: Life of Buddha, Teachings, Organization & Sects",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Buddhism was founded by Gautama Buddha in the 6th century BCE",
+                    "It emerged as a reform movement against ritualistic Vedic practices",
+                    "Focuses on ethical living, non-violence, and liberation from suffering",
+                    "Spread widely across India and Asia through missionary efforts"
+                ]
+            },
+            {
+                "heading": "Birth and Life of Buddha (563–483 BCE)",
+                "points": [
+                    "Born as Siddhartha Gautama in Lumbini (modern Nepal)",
+                    "Belonged to Shakya clan of Kshatriyas",
+                    "Father: Suddhodana (ruler of Kapilavastu)",
+                    "Mother: Queen Maya (Mahamaya)",
+                    "Wife: Yashodhara; son: Rahula"
+                ]
+            },
+            {
+                "heading": "Four Sights and Renunciation",
+                "points": [
+                    "Saw an old man, sick man, dead body, and ascetic",
+                    "Realized suffering is universal",
+                    "Left palace at age of 29 (Mahabhinishkramana)",
+                    "Practiced severe austerity and meditation",
+                    "Attained enlightenment at Bodh Gaya under Bodhi tree"
+                ]
+            },
+            {
+                "heading": "Enlightenment and Death",
+                "points": [
+                    "Attained enlightenment at Bodh Gaya (Bihar)",
+                    "Became Buddha (the Enlightened One)",
+                    "Delivered first sermon at Sarnath (Dharmachakra Pravartana)",
+                    "Died at Kushinagar at age of 80 (Mahaparinirvana)",
+                    "Final words emphasized self-reliance and diligence"
+                ]
+            },
+            {
+                "heading": "Teachings of Buddha – Core Philosophy",
+                "points": [
+                    "Four Noble Truths (Arya Satya)",
+                    "Eightfold Path (Ashtangika Marga)",
+                    "Middle Path (avoid extremes of luxury and austerity)",
+                    "Emphasis on morality, meditation, and wisdom",
+                    "Rejection of caste system and ritual sacrifices"
+                ]
+            },
+            {
+                "heading": "Four Noble Truths",
+                "points": [
+                    "Life is suffering (Dukkha)",
+                    "Cause of suffering is desire (Trishna)",
+                    "Suffering can be ended (Nirvana)",
+                    "Path to end suffering is Eightfold Path"
+                ]
+            },
+            {
+                "heading": "Eightfold Path",
+                "points": [
+                    "Right Understanding",
+                    "Right Thought",
+                    "Right Speech",
+                    "Right Action",
+                    "Right Livelihood",
+                    "Right Effort",
+                    "Right Mindfulness",
+                    "Right Concentration"
+                ]
+            },
+            {
+                "heading": "Other Teachings",
+                "points": [
+                    "Doctrine of impermanence (Anicca)",
+                    "No permanent soul (Anatta)",
+                    "Karma and rebirth concept",
+                    "Non-violence (Ahimsa)",
+                    "Ethical and moral discipline"
+                ]
+            },
+            {
+                "heading": "Organization of Buddhism – Sangha",
+                "points": [
+                    "Monastic order of monks and nuns",
+                    "Founded by Buddha at Sarnath",
+                    "Open to all castes and classes",
+                    "Based on discipline (Vinaya rules)",
+                    "Supported spread of Buddhism"
+                ]
+            },
+            {
+                "heading": "Features of Sangha",
+                "points": [
+                    "Democratic functioning with assemblies",
+                    "Strict code of conduct (Vinaya Pitaka)",
+                    "Bhikshus (monks) and Bhikshunis (nuns)",
+                    "Dependent on alms for survival",
+                    "Played key role in missionary expansion"
+                ]
+            },
+            {
+                "heading": "Buddhist Councils",
+                "points": [
+                    "First Council: Rajagriha – compiled teachings",
+                    "Second Council: Vaishali – early sect division",
+                    "Third Council: Pataliputra – under Ashoka",
+                    "Fourth Council: Kashmir – under Kanishka",
+                    "Helped in codification and spread of Buddhism"
+                ]
+            },
+            {
+                "heading": "Sects of Buddhism",
+                "points": [
+                    "Hinayana (Theravada) – strict original teachings",
+                    "Mahayana – liberal, worship of Buddha as god-like",
+                    "Vajrayana – tantric practices, later development",
+                    "Hinayana focuses on individual liberation",
+                    "Mahayana emphasizes Bodhisattva ideal"
+                ]
+            },
+            {
+                "heading": "Differences between Hinayana and Mahayana",
+                "points": [
+                    "Hinayana: Buddha as teacher; Mahayana: Buddha as divine",
+                    "Hinayana: individual salvation; Mahayana: universal salvation",
+                    "Hinayana: Pali language; Mahayana: Sanskrit texts",
+                    "Hinayana: conservative; Mahayana: flexible",
+                    "Hinayana: Theravada dominant in Sri Lanka and SE Asia"
+                ]
+            },
+            {
+                "heading": "Importance of Buddhism",
+                "points": [
+                    "Social reform movement against caste system",
+                    "Promoted non-violence and ethical living",
+                    "Encouraged education and literacy",
+                    "Spread across Asia (Sri Lanka, China, Japan)",
+                    "Influenced Indian art, architecture, and culture"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Buddha was born in:",
+                    "options": [
+                        "Varanasi",
+                        "Lumbini",
+                        "Kushinagar",
+                        "Bodh Gaya"
+                    ],
+                    "answer": "Lumbini"
+                },
+                {
+                    "question": "Buddha attained enlightenment at:",
+                    "options": [
+                        "Sarnath",
+                        "Bodh Gaya",
+                        "Rajgir",
+                        "Vaishali"
+                    ],
+                    "answer": "Bodh Gaya"
+                },
+                {
+                    "question": "First sermon of Buddha was delivered at:",
+                    "options": [
+                        "Lumbini",
+                        "Sarnath",
+                        "Kushinagar",
+                        "Pataliputra"
+                    ],
+                    "answer": "Sarnath"
+                },
+                {
+                    "question": "Four Noble Truths deal with:",
+                    "options": [
+                        "War strategy",
+                        "Suffering and its end",
+                        "Trade system",
+                        "Caste system"
+                    ],
+                    "answer": "Suffering and its end"
+                },
+                {
+                    "question": "Buddha died at:",
+                    "options": [
+                        "Sarnath",
+                        "Kushinagar",
+                        "Bodh Gaya",
+                        "Lumbini"
+                    ],
+                    "answer": "Kushinagar"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Sangha refers to:",
+                    "options": [
+                        "King’s court",
+                        "Monastic order",
+                        "Trade guild",
+                        "Army unit"
+                    ],
+                    "answer": "Monastic order"
+                },
+                {
+                    "question": "Middle Path means:",
+                    "options": [
+                        "Extreme luxury",
+                        "Balance between extremes",
+                        "Only austerity",
+                        "Only rituals"
+                    ],
+                    "answer": "Balance between extremes"
+                },
+                {
+                    "question": "Hinayana Buddhism is also called:",
+                    "options": [
+                        "Mahayana",
+                        "Theravada",
+                        "Vajrayana",
+                        "Zen"
+                    ],
+                    "answer": "Theravada"
+                },
+                {
+                    "question": "Bodhisattva concept is associated with:",
+                    "options": [
+                        "Hinayana",
+                        "Mahayana",
+                        "Vedic religion",
+                        "Jainism"
+                    ],
+                    "answer": "Mahayana"
+                },
+                {
+                    "question": "Vinaya Pitaka deals with:",
+                    "options": [
+                        "Philosophy",
+                        "Monastic discipline",
+                        "Trade rules",
+                        "War ethics"
+                    ],
+                    "answer": "Monastic discipline"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Buddhism rejected caste system\n2. Buddha supported ritual sacrifices\n3. Sangha helped spread Buddhism",
+                    "options": [
+                        "1 and 3 only",
+                        "2 and 3 only",
+                        "1 and 2 only",
+                        "1, 2 and 3"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "Which of the following is NOT a Buddhist teaching?",
+                    "options": [
+                        "Eightfold Path",
+                        "Four Noble Truths",
+                        "Yajna rituals",
+                        "Middle Path"
+                    ],
+                    "answer": "Yajna rituals"
+                },
+                {
+                    "question": "Mahayana Buddhism is characterized by:",
+                    "options": [
+                        "Strict asceticism only",
+                        "Bodhisattva ideal",
+                        "No worship of Buddha",
+                        "Rejection of texts"
+                    ],
+                    "answer": "Bodhisattva ideal"
+                },
+                {
+                    "question": "Buddhist councils were mainly held to:",
+                    "options": [
+                        "Collect taxes",
+                        "Codify teachings",
+                        "Plan wars",
+                        "Trade agreements"
+                    ],
+                    "answer": "Codify teachings"
+                },
+                {
+                    "question": "A key feature of Buddhism is:",
+                    "options": [
+                        "Animal sacrifice",
+                        "Non-violence",
+                        "Caste hierarchy",
+                        "Ritual dominance"
+                    ],
+                    "answer": "Non-violence"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Ancient History – Buddhism: Literature, Councils, Spread, Royal Patronage & Decline",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Buddhism developed a rich literary tradition and organized doctrinal texts",
+                    "Buddhist councils played key role in codifying teachings",
+                    "Royal patronage (especially Ashoka and Kanishka) helped its spread",
+                    "Buddhism spread across Asia through missionaries and trade routes",
+                    "Gradual decline occurred in India due to multiple religious and social factors"
+                ]
+            },
+            {
+                "heading": "Literature of Buddhism – General Features",
+                "points": [
+                    "Buddhist literature written in Pali and Sanskrit",
+                    "Deals with philosophy, discipline, and teachings of Buddha",
+                    "Preserved orally before being written down",
+                    "Divided into Tripitaka (Three Baskets)",
+                    "Important source for early Indian history"
+                ]
+            },
+            {
+                "heading": "Tripitaka – Buddhist Canon",
+                "points": [
+                    "Vinaya Pitaka – rules for monks and nuns",
+                    "Sutta Pitaka – sermons and teachings of Buddha",
+                    "Abhidhamma Pitaka – philosophical analysis",
+                    "Forms core of Theravada Buddhist texts",
+                    "Represents earliest Buddhist doctrinal compilation"
+                ]
+            },
+            {
+                "heading": "Other Important Buddhist Texts",
+                "points": [
+                    "Jataka Tales – stories of Buddha’s previous lives",
+                    "Buddhacarita – life of Buddha by Ashvaghosha",
+                    "Milindapanha – dialogue between King Menander and monk Nagasena",
+                    "Lalitavistara – life of Buddha (Mahayana tradition)",
+                    "Divyavadana – collection of Buddhist legends"
+                ]
+            },
+            {
+                "heading": "Buddhist Councils",
+                "points": [
+                    "First Council – Rajagriha: compiled Buddha’s teachings after his death",
+                    "Second Council – Vaishali: led to early schism in Sangha",
+                    "Third Council – Pataliputra (under Ashoka): purification of Sangha",
+                    "Fourth Council – Kashmir (under Kanishka): compilation of Mahayana texts",
+                    "Helped in doctrinal consolidation and sect formation"
+                ]
+            },
+            {
+                "heading": "Significance of Councils",
+                "points": [
+                    "Preservation of teachings",
+                    "Resolution of doctrinal disputes",
+                    "Development of sects (Hinayana and Mahayana)",
+                    "Standardization of Buddhist canon",
+                    "Strengthened institutional structure of Buddhism"
+                ]
+            },
+            {
+                "heading": "Spread of Buddhism",
+                "points": [
+                    "Spread within India during Mauryan period",
+                    "Ashoka sent missionaries to Sri Lanka, Central Asia, West Asia",
+                    "Spread through trade routes like Silk Route",
+                    "Monasteries acted as centers of learning",
+                    "Adopted by foreign rulers and communities"
+                ]
+            },
+            {
+                "heading": "Role of Royal Patronage",
+                "points": [
+                    "Ashoka – greatest patron; promoted Dhamma and sent missionaries",
+                    "Kanishka – patron of Mahayana Buddhism",
+                    "Indo-Greek rulers supported Buddhism (e.g., Menander)",
+                    "Gupta rulers were more inclined towards Hinduism but tolerated Buddhism",
+                    "Royal support helped construction of stupas and monasteries"
+                ]
+            },
+            {
+                "heading": "Major Centres of Buddhism",
+                "points": [
+                    "Magadha (Bihar) – early center",
+                    "Sarnath – first sermon",
+                    "Nalanda – major learning university",
+                    "Taxila – center of learning",
+                    "Sri Lanka and Southeast Asia – major Theravada centers"
+                ]
+            },
+            {
+                "heading": "Causes for the Decline of Buddhism in India",
+                "points": [
+                    "Rise of Brahmanical Hinduism and Bhakti movement",
+                    "Loss of royal patronage after Mauryas and Guptas",
+                    "Corruption and degeneration in monastic order",
+                    "Complexity of Mahayana rituals alienated common people",
+                    "Invasions (Hunas, later Turkic invasions) destroyed monasteries"
+                ]
+            },
+            {
+                "heading": "Social and Religious Causes of Decline",
+                "points": [
+                    "Absorption of Buddha as avatar of Vishnu in Hinduism",
+                    "Decline of simple teachings of Buddha",
+                    "Language barrier (shift from Pali to Sanskritized texts)",
+                    "Rigid monastic life disconnected from society",
+                    "Competition from Jainism and Hinduism"
+                ]
+            },
+            {
+                "heading": "Institutional Causes of Decline",
+                "points": [
+                    "Dependence on royal patronage",
+                    "Wealth accumulation in monasteries",
+                    "Loss of missionary zeal",
+                    "Fragmentation into sects",
+                    "Decline of educational institutions after invasions"
+                ]
+            },
+            {
+                "heading": "Significance of Buddhism Despite Decline",
+                "points": [
+                    "Lasting impact on Indian art and architecture",
+                    "Influence on Hindu philosophy (Ahimsa, Karma)",
+                    "Spread across Asia (Sri Lanka, China, Japan, Tibet)",
+                    "Development of universities like Nalanda",
+                    "Cultural and ethical legacy in Indian society"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Tripitaka is associated with:",
+                    "options": [
+                        "Jainism",
+                        "Buddhism",
+                        "Vedic religion",
+                        "Sikhism"
+                    ],
+                    "answer": "Buddhism"
+                },
+                {
+                    "question": "Vinaya Pitaka deals with:",
+                    "options": [
+                        "Philosophy",
+                        "Monastic rules",
+                        "Trade",
+                        "War"
+                    ],
+                    "answer": "Monastic rules"
+                },
+                {
+                    "question": "Buddhism was strongly patronized by:",
+                    "options": [
+                        "Chandragupta Maurya",
+                        "Ashoka",
+                        "Harsha",
+                        "Akbar"
+                    ],
+                    "answer": "Ashoka"
+                },
+                {
+                    "question": "First Buddhist Council was held at:",
+                    "options": [
+                        "Vaishali",
+                        "Rajagriha",
+                        "Pataliputra",
+                        "Kashmir"
+                    ],
+                    "answer": "Rajagriha"
+                },
+                {
+                    "question": "Nalanda was a center of:",
+                    "options": [
+                        "Trade",
+                        "Buddhist learning",
+                        "Warfare",
+                        "Agriculture"
+                    ],
+                    "answer": "Buddhist learning"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Buddhist councils were mainly held to:",
+                    "options": [
+                        "Collect taxes",
+                        "Codify teachings",
+                        "Expand territory",
+                        "Train soldiers"
+                    ],
+                    "answer": "Codify teachings"
+                },
+                {
+                    "question": "Milindapanha is a dialogue between:",
+                    "options": [
+                        "Ashoka and monk",
+                        "Menander and Nagasena",
+                        "Kanishka and Buddha",
+                        "Chandragupta and Chanakya"
+                    ],
+                    "answer": "Menander and Nagasena"
+                },
+                {
+                    "question": "Main reason for Buddhist decline:",
+                    "options": [
+                        "No philosophy",
+                        "Loss of patronage",
+                        "Too much trade",
+                        "Excess agriculture"
+                    ],
+                    "answer": "Loss of patronage"
+                },
+                {
+                    "question": "Buddhism spread to Sri Lanka due to:",
+                    "options": [
+                        "Ashoka’s missionaries",
+                        "Gupta rulers",
+                        "British rule",
+                        "Greek invasion"
+                    ],
+                    "answer": "Ashoka’s missionaries"
+                },
+                {
+                    "question": "Jataka tales describe:",
+                    "options": [
+                        "Trade routes",
+                        "Buddha’s previous lives",
+                        "War history",
+                        "Political system"
+                    ],
+                    "answer": "Buddha’s previous lives"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Ashoka sent missionaries to spread Buddhism\n2. Buddhism declined only due to invasions\n3. Nalanda was a major Buddhist center",
+                    "options": [
+                        "1 and 3 only",
+                        "2 and 3 only",
+                        "1 and 2 only",
+                        "1, 2 and 3"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "Which of the following is NOT part of Tripitaka?",
+                    "options": [
+                        "Vinaya Pitaka",
+                        "Sutta Pitaka",
+                        "Abhidhamma Pitaka",
+                        "Rig Veda"
+                    ],
+                    "answer": "Rig Veda"
+                },
+                {
+                    "question": "A key cause of Buddhist decline was:",
+                    "options": [
+                        "Increased popularity",
+                        "Absorption into Hinduism",
+                        "Industrialization",
+                        "Coin economy"
+                    ],
+                    "answer": "Absorption into Hinduism"
+                },
+                {
+                    "question": "Kanishka is associated with:",
+                    "options": [
+                        "Hinayana Buddhism",
+                        "Mahayana Buddhism",
+                        "Jainism",
+                        "Vedic religion"
+                    ],
+                    "answer": "Mahayana Buddhism"
+                },
+                {
+                    "question": "A major institutional cause of decline is:",
+                    "options": [
+                        "Strong monarchy",
+                        "Monastic degeneration",
+                        "Trade expansion",
+                        "Urbanization"
+                    ],
+                    "answer": "Monastic degeneration"
+                }
+            ]
+        }
+    }
+]

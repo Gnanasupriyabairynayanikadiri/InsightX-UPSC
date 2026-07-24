@@ -1,0 +1,604 @@
+TOPICS = [
+    {
+        "name": "Global Warming & Health Impacts",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Global warming refers to the long-term rise in Earth’s average temperature due to greenhouse gas emissions",
+                    "It has direct and indirect impacts on human health",
+                    "Health effects are increasing due to heatwaves, disease spread, and environmental degradation"
+                ]
+            },
+            {
+                "heading": "Global Warming – Basic Concept",
+                "points": [
+                    "Caused mainly by increased greenhouse gases like CO₂, CH₄, and N₂O",
+                    "Results from fossil fuel burning, deforestation, agriculture, and industries",
+                    "Leads to climate system imbalance",
+                    "Increases frequency of extreme weather events",
+                    "Impacts ecosystems, agriculture, and human health"
+                ]
+            },
+            {
+                "heading": "Direct Health Impacts of Global Warming",
+                "points": [
+                    "Heat-related illnesses such as heat exhaustion and heat stroke",
+                    "Increased mortality during heatwaves",
+                    "Dehydration and cardiovascular stress",
+                    "Respiratory problems due to higher temperatures",
+                    "Increased risk for elderly and outdoor workers"
+                ]
+            },
+            {
+                "heading": "Heatwaves and Health",
+                "points": [
+                    "Heatwaves are prolonged periods of extreme heat",
+                    "Cause severe stress on human body temperature regulation",
+                    "Lead to heat cramps, heat exhaustion, and heatstroke",
+                    "Urban areas are more affected due to Urban Heat Island effect",
+                    "India frequently experiences deadly heatwaves"
+                ]
+            },
+            {
+                "heading": "Spread of Infectious Diseases",
+                "points": [
+                    "Global warming expands the range of disease vectors like mosquitoes",
+                    "Increases malaria, dengue, and chikungunya cases",
+                    "Warmer temperatures accelerate pathogen growth",
+                    "Changes in rainfall patterns create breeding grounds for vectors",
+                    "New diseases may emerge in previously unaffected areas"
+                ]
+            },
+            {
+                "heading": "Waterborne Diseases",
+                "points": [
+                    "Floods and heavy rainfall contaminate drinking water",
+                    "Increased cases of cholera, diarrhea, and typhoid",
+                    "Poor sanitation worsens disease spread",
+                    "Unsafe water supply becomes a major health risk",
+                    "Climate change intensifies water stress"
+                ]
+            },
+            {
+                "heading": "Air Pollution and Respiratory Diseases",
+                "points": [
+                    "Global warming worsens air quality through ozone formation",
+                    "Increases incidence of asthma and bronchitis",
+                    "Fine particulate matter (PM2.5) affects lungs and heart",
+                    "Heat increases chemical reactions in atmosphere",
+                    "Urban areas face combined pollution and heat stress"
+                ]
+            },
+            {
+                "heading": "Food Security and Malnutrition",
+                "points": [
+                    "Climate change reduces crop yields in many regions",
+                    "Leads to food shortages and price rise",
+                    "Affects nutritional quality of food crops",
+                    "Causes undernutrition and stunting in children",
+                    "Impacts vulnerable populations the most"
+                ]
+            },
+            {
+                "heading": "Mental Health Impacts",
+                "points": [
+                    "Climate anxiety and stress due to extreme events",
+                    "Post-traumatic stress after disasters like floods and cyclones",
+                    "Displacement of communities leads to psychological distress",
+                    "Loss of livelihood affects mental well-being",
+                    "Increasing recognition of climate-related mental health issues"
+                ]
+            },
+            {
+                "heading": "Vector-Borne Diseases",
+                "points": [
+                    "Mosquito-borne diseases increase due to warmer climates",
+                    "Malaria, dengue, and Zika virus spread more widely",
+                    "Changes in rainfall increase mosquito breeding sites",
+                    "Ticks and other vectors expand into new regions",
+                    "Public health systems face higher burden"
+                ]
+            },
+            {
+                "heading": "Vulnerable Populations",
+                "points": [
+                    "Children and elderly are more vulnerable to heat stress",
+                    "Poor communities face higher exposure and lower resilience",
+                    "Outdoor workers are at higher risk of heat-related illness",
+                    "Urban slum populations lack cooling and sanitation",
+                    "Developing countries face disproportionate impacts"
+                ]
+            },
+            {
+                "heading": "Urban Health Risks",
+                "points": [
+                    "Urban Heat Island effect increases temperature stress",
+                    "Air pollution is higher in cities",
+                    "Overcrowding increases disease transmission",
+                    "Poor waste management worsens health conditions",
+                    "Flooding increases water contamination risks"
+                ]
+            },
+            {
+                "heading": "Climate Change and Health Systems",
+                "points": [
+                    "Increased burden on healthcare infrastructure",
+                    "Higher demand for emergency medical services",
+                    "Need for climate-resilient health systems",
+                    "Early warning systems for heatwaves and disasters",
+                    "Integration of climate policy with public health planning"
+                ]
+            },
+            {
+                "heading": "Mitigation and Adaptation Measures",
+                "points": [
+                    "Reducing greenhouse gas emissions to control global warming",
+                    "Heat action plans in cities",
+                    "Improved disease surveillance systems",
+                    "Access to clean water and sanitation",
+                    "Climate-resilient healthcare infrastructure"
+                ]
+            },
+            {
+                "heading": "India-Specific Context",
+                "points": [
+                    "India is highly vulnerable to heatwaves and monsoon variability",
+                    "High population density increases health risks",
+                    "Frequent outbreaks of dengue and malaria",
+                    "Urban pollution worsens respiratory diseases",
+                    "Government implements Heat Action Plans in several cities"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Global warming mainly leads to:",
+                    "options": [
+                    "Decrease in temperature",
+                    "Increase in Earth’s average temperature",
+                    "No change in climate",
+                    "Increase in snowfall only"
+                    ],
+                    "answer": "Increase in Earth’s average temperature"
+                },
+                {
+                    "question": "Heatwaves mainly cause:",
+                    "options": [
+                    "Heat stroke",
+                    "Earthquakes",
+                    "Flood formation",
+                    "Ozone depletion"
+                    ],
+                    "answer": "Heat stroke"
+                },
+                {
+                    "question": "Global warming increases:",
+                    "options": [
+                    "Vector-borne diseases",
+                    "Forest growth",
+                    "Snow cover",
+                    "Ocean cooling"
+                    ],
+                    "answer": "Vector-borne diseases"
+                },
+                {
+                    "question": "Dengue is spread by:",
+                    "options": [
+                    "Mosquitoes",
+                    "Birds",
+                    "Wind",
+                    "Soil"
+                    ],
+                    "answer": "Mosquitoes"
+                },
+                {
+                    "question": "Heat stress affects mainly:",
+                    "options": [
+                    "Human body temperature regulation",
+                    "Ocean currents",
+                    "Earth rotation",
+                    "Rock formation"
+                    ],
+                    "answer": "Human body temperature regulation"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Global warming worsens air pollution by increasing:",
+                    "options": [
+                    "Ozone formation",
+                    "Forest cover",
+                    "Rainfall only",
+                    "Wind speed reduction"
+                    ],
+                    "answer": "Ozone formation"
+                },
+                {
+                    "question": "Waterborne diseases increase due to:",
+                    "options": [
+                    "Flooding and contamination",
+                    "Deforestation only",
+                    "Wind patterns",
+                    "Sunlight increase"
+                    ],
+                    "answer": "Flooding and contamination"
+                },
+                {
+                    "question": "Heatwaves are more severe in:",
+                    "options": [
+                    "Urban areas",
+                    "Oceans",
+                    "Forests only",
+                    "Glaciers"
+                    ],
+                    "answer": "Urban areas"
+                },
+                {
+                    "question": "Climate change affects food security by:",
+                    "options": [
+                    "Reducing crop yields",
+                    "Increasing rainfall always",
+                    "Increasing soil fertility always",
+                    "Stopping agriculture"
+                    ],
+                    "answer": "Reducing crop yields"
+                },
+                {
+                    "question": "Malaria spread is influenced by:",
+                    "options": [
+                    "Temperature and rainfall",
+                    "Earth rotation",
+                    "Moon phases only",
+                    "Ocean tides"
+                    ],
+                    "answer": "Temperature and rainfall"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Global warming increases heat-related illnesses\n2. It affects spread of vector-borne diseases\n3. It has no impact on mental health",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Heatwaves can be intensified by:",
+                    "options": [
+                    "Urban Heat Island effect",
+                    "Forest growth",
+                    "Ocean cooling",
+                    "Rainfall increase"
+                    ],
+                    "answer": "Urban Heat Island effect"
+                },
+                {
+                    "question": "Climate change impacts health through:",
+                    "options": [
+                    "Air, water, and food systems",
+                    "Only air systems",
+                    "Only oceans",
+                    "Only soil systems"
+                    ],
+                    "answer": "Air, water, and food systems"
+                },
+                {
+                    "question": "Vulnerable groups to climate change include:",
+                    "options": [
+                    "Elderly and children",
+                    "Only animals",
+                    "Only forests",
+                    "Only industries"
+                    ],
+                    "answer": "Elderly and children"
+                },
+                {
+                    "question": "Climate-resilient health systems include:",
+                    "options": [
+                    "Heat action plans",
+                    "Deforestation",
+                    "Increased emissions",
+                    "Urban expansion only"
+                    ],
+                    "answer": "Heat action plans"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Mosquito-Borne Diseases & Ozone Depletion and Human Health",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Mosquito-borne diseases are strongly influenced by climate, temperature, and rainfall patterns",
+                    "Ozone layer depletion increases harmful ultraviolet (UV) radiation reaching Earth",
+                    "Both issues have direct and indirect impacts on human health"
+                ]
+            },
+            {
+                "heading": "Mosquito-Borne Diseases – Overview",
+                "points": [
+                    "Diseases transmitted by mosquitoes are called vector-borne diseases",
+                    "Major vectors include Anopheles, Aedes, and Culex mosquitoes",
+                    "Common diseases: malaria, dengue, chikungunya, Zika virus",
+                    "Climate change increases their spread and intensity",
+                    "Public health systems face increasing burden due to these diseases"
+                ]
+            },
+            {
+                "heading": "Major Mosquito-Borne Diseases",
+                "points": [
+                    "Malaria – caused by Plasmodium parasite, transmitted by Anopheles mosquito",
+                    "Dengue – viral disease transmitted by Aedes aegypti",
+                    "Chikungunya – viral infection causing severe joint pain",
+                    "Zika virus – associated with birth defects in newborns",
+                    "Japanese encephalitis – affects brain and nervous system"
+                ]
+            },
+            {
+                "heading": "Climate Change and Mosquito-Borne Diseases",
+                "points": [
+                    "Rising temperatures accelerate mosquito breeding cycles",
+                    "Increased rainfall creates stagnant water breeding sites",
+                    "Warmer climates expand mosquito habitats to new regions",
+                    "Longer transmission seasons increase infection rates",
+                    "Urban flooding increases mosquito population density"
+                ]
+            },
+            {
+                "heading": "Health Impacts of Mosquito-Borne Diseases",
+                "points": [
+                    "Fever, fatigue, and severe illness in infected individuals",
+                    "High mortality in severe malaria cases",
+                    "Long-term disability in some viral infections",
+                    "Burden on healthcare systems",
+                    "Economic loss due to reduced productivity"
+                ]
+            },
+            {
+                "heading": "Prevention and Control Measures",
+                "points": [
+                    "Elimination of stagnant water sources",
+                    "Use of mosquito nets and repellents",
+                    "Indoor residual spraying",
+                    "Biological control using larvivorous fish",
+                    "Public awareness and vaccination (where available)"
+                ]
+            },
+            {
+                "heading": "Ozone Layer – Overview",
+                "points": [
+                    "The ozone layer is a protective layer in the stratosphere",
+                    "It absorbs harmful ultraviolet (UV-B) radiation from the sun",
+                    "Located about 15–35 km above Earth’s surface",
+                    "Essential for protecting life on Earth",
+                    "Depletion leads to increased UV exposure"
+                ]
+            },
+            {
+                "heading": "Causes of Ozone Layer Depletion",
+                "points": [
+                    "Chlorofluorocarbons (CFCs) from refrigerators and air conditioners",
+                    "Halons used in fire extinguishers",
+                    "Carbon tetrachloride and methyl bromide",
+                    "Industrial emissions containing chlorine and bromine",
+                    "Stratospheric chemical reactions breaking ozone molecules"
+                ]
+            },
+            {
+                "heading": "Effects of Ozone Depletion on Human Health",
+                "points": [
+                    "Increased skin cancers (melanoma and non-melanoma)",
+                    "Eye damage including cataracts",
+                    "Suppression of immune system",
+                    "Skin aging and sunburn",
+                    "Higher risk of DNA damage due to UV radiation"
+                ]
+            },
+            {
+                "heading": "Effects on Environment",
+                "points": [
+                    "Damage to phytoplankton in oceans",
+                    "Reduced crop productivity due to UV stress",
+                    "Impact on ecosystems and biodiversity",
+                    "Disruption of food chains",
+                    "Changes in atmospheric chemistry"
+                ]
+            },
+            {
+                "heading": "Montreal Protocol – Protection Measure",
+                "points": [
+                    "International treaty signed in 1987",
+                    "Aims to phase out ozone-depleting substances",
+                    "Successful global environmental agreement",
+                    "Led to gradual recovery of ozone layer",
+                    "Considered a model for climate action agreements"
+                ]
+            },
+            {
+                "heading": "Link Between Climate Change and Mosquito Diseases",
+                "points": [
+                    "Both are influenced by temperature and rainfall changes",
+                    "Urbanization and pollution increase mosquito breeding",
+                    "Extreme weather events spread disease vectors",
+                    "Ozone depletion increases UV exposure, affecting immunity indirectly",
+                    "Environmental degradation worsens disease vulnerability"
+                ]
+            },
+            {
+                "heading": "India-Specific Context",
+                "points": [
+                    "India is highly affected by dengue and malaria outbreaks",
+                    "Monsoon season increases mosquito breeding",
+                    "Urban flooding in cities like Mumbai and Chennai worsens spread",
+                    "National Vector Borne Disease Control Programme (NVBDCP) is implemented",
+                    "Awareness and sanitation are key control strategies"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Mosquito-borne diseases are called:",
+                    "options": [
+                    "Air-borne diseases",
+                    "Vector-borne diseases",
+                    "Water-borne diseases",
+                    "Genetic diseases"
+                    ],
+                    "answer": "Vector-borne diseases"
+                },
+                {
+                    "question": "Dengue is transmitted by:",
+                    "options": [
+                    "Anopheles mosquito",
+                    "Aedes aegypti mosquito",
+                    "Housefly",
+                    "Tsetse fly"
+                    ],
+                    "answer": "Aedes aegypti mosquito"
+                },
+                {
+                    "question": "Ozone layer protects Earth from:",
+                    "options": [
+                    "Infrared radiation",
+                    "UV radiation",
+                    "Sound waves",
+                    "Magnetic storms"
+                    ],
+                    "answer": "UV radiation"
+                },
+                {
+                    "question": "Malaria is caused by:",
+                    "options": [
+                    "Virus",
+                    "Bacteria",
+                    "Plasmodium parasite",
+                    "Fungus"
+                    ],
+                    "answer": "Plasmodium parasite"
+                },
+                {
+                    "question": "Ozone depletion increases:",
+                    "options": [
+                    "UV radiation",
+                    "Rainfall",
+                    "Forest cover",
+                    "Soil fertility"
+                    ],
+                    "answer": "UV radiation"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Main cause of ozone depletion is:",
+                    "options": [
+                    "CO₂",
+                    "CFCs",
+                    "Oxygen",
+                    "Nitrogen"
+                    ],
+                    "answer": "CFCs"
+                },
+                {
+                    "question": "Mosquito breeding increases due to:",
+                    "options": [
+                    "Stagnant water",
+                    "Dry deserts",
+                    "Snowfall",
+                    "Wind storms"
+                    ],
+                    "answer": "Stagnant water"
+                },
+                {
+                    "question": "Zika virus affects:",
+                    "options": [
+                    "Nervous system and pregnancy outcomes",
+                    "Only lungs",
+                    "Only skin",
+                    "Only bones"
+                    ],
+                    "answer": "Nervous system and pregnancy outcomes"
+                },
+                {
+                    "question": "Montreal Protocol deals with:",
+                    "options": [
+                    "Climate change",
+                    "Ozone depletion",
+                    "Deforestation",
+                    "Water pollution"
+                    ],
+                    "answer": "Ozone depletion"
+                },
+                {
+                    "question": "UV radiation increases risk of:",
+                    "options": [
+                    "Skin cancer",
+                    "Bone growth",
+                    "Rainfall increase",
+                    "Soil formation"
+                    ],
+                    "answer": "Skin cancer"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Mosquito-borne diseases increase with rising temperature\n2. Ozone layer protects against UV radiation\n3. Dengue is a bacterial disease",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Ozone depletion leads to:",
+                    "options": [
+                    "Increased UV exposure",
+                    "Increased rainfall",
+                    "Reduced temperature always",
+                    "Forest growth"
+                    ],
+                    "answer": "Increased UV exposure"
+                },
+                {
+                    "question": "Climate change affects mosquito diseases by:",
+                    "options": [
+                    "Expanding breeding areas",
+                    "Eliminating mosquitoes",
+                    "Reducing humidity everywhere",
+                    "Stopping reproduction"
+                    ],
+                    "answer": "Expanding breeding areas"
+                },
+                {
+                    "question": "Montreal Protocol is considered successful because:",
+                    "options": [
+                    "It reduced ozone-depleting substances",
+                    "It increased emissions",
+                    "It stopped climate change completely",
+                    "It banned agriculture"
+                    ],
+                    "answer": "It reduced ozone-depleting substances"
+                },
+                {
+                    "question": "Vector-borne diseases are influenced by:",
+                    "options": [
+                    "Climate and environment",
+                    "Earth rotation",
+                    "Solar cycles only",
+                    "Moon phases"
+                    ],
+                    "answer": "Climate and environment"
+                }
+            ]
+        }
+    }
+]

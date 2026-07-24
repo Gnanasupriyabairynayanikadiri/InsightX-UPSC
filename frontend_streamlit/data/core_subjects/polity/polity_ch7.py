@@ -1,0 +1,4281 @@
+TOPICS = [
+    {
+        "name": "Fundamental Rights (Part III of the Constitution)",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Fundamental Rights are enshrined in Part III of the Indian Constitution (Articles 12–35)",
+                    "They are essential for the development of individual personality and protection of liberty",
+                    "They are justiciable and enforceable by courts",
+                    "They form the cornerstone of Indian democracy"
+                ]
+            },
+            {
+                "heading": "Nature of Fundamental Rights",
+                "points": [
+                    "They are not absolute and are subject to reasonable restrictions",
+                    "They can be suspended during National Emergency (except Articles 20 and 21 in some cases)",
+                    "They are enforceable through writs under Article 32 and Article 226",
+                    "They protect individuals against arbitrary state action"
+                ]
+            },
+            {
+                "heading": "Classification of Fundamental Rights",
+                "points": [
+                    "Right to Equality (Articles 14–18)",
+                    "Right to Freedom (Articles 19–22)",
+                    "Right against Exploitation (Articles 23–24)",
+                    "Right to Freedom of Religion (Articles 25–28)",
+                    "Cultural and Educational Rights (Articles 29–30)",
+                    "Right to Constitutional Remedies (Article 32)"
+                ]
+            },
+            {
+                "heading": "Right to Equality (Articles 14–18)",
+                "points": [
+                    "Article 14: Equality before law and equal protection of laws",
+                    "Article 15: Prohibition of discrimination",
+                    "Article 16: Equality of opportunity in public employment",
+                    "Article 17: Abolition of untouchability",
+                    "Article 18: Abolition of titles"
+                ]
+            },
+            {
+                "heading": "Right to Freedom (Articles 19–22)",
+                "points": [
+                    "Article 19: Six freedoms (speech, assembly, association, movement, residence, profession)",
+                    "Article 20: Protection in criminal cases",
+                    "Article 21: Right to life and personal liberty",
+                    "Article 21A: Right to education (6–14 years)",
+                    "Article 22: Protection against arbitrary arrest and detention"
+                ]
+            },
+            {
+                "heading": "Right against Exploitation (Articles 23–24)",
+                "points": [
+                    "Prohibits human trafficking and forced labour (Article 23)",
+                    "Prohibits child labour in hazardous industries below 14 years (Article 24)",
+                    "Ensures protection of dignity and labour rights",
+                    "Reflects social justice principles"
+                ]
+            },
+            {
+                "heading": "Right to Freedom of Religion (Articles 25–28)",
+                "points": [
+                    "Freedom of conscience and religion (Article 25)",
+                    "Right to manage religious affairs (Article 26)",
+                    "Freedom from taxation for promotion of religion (Article 27)",
+                    "No religious instruction in government institutions (Article 28)"
+                ]
+            },
+            {
+                "heading": "Cultural and Educational Rights (Articles 29–30)",
+                "points": [
+                    "Protects interests of minorities",
+                    "Right to conserve language, script, and culture (Article 29)",
+                    "Right of minorities to establish and administer educational institutions (Article 30)",
+                    "Ensures diversity and cultural protection"
+                ]
+            },
+            {
+                "heading": "Right to Constitutional Remedies (Article 32)",
+                "points": [
+                    "Called the 'heart and soul' of the Constitution by Dr. B.R. Ambedkar",
+                    "Enables individuals to move Supreme Court for enforcement of rights",
+                    "Provides writs: Habeas Corpus, Mandamus, Prohibition, Certiorari, Quo Warranto",
+                    "Ensures real enforceability of Fundamental Rights"
+                ]
+            },
+            {
+                "heading": "Important Features",
+                "points": [
+                    "Fundamental Rights are justiciable",
+                    "They promote political democracy and individual liberty",
+                    "They are subject to reasonable restrictions",
+                    "They can be amended but not destroyed (Basic Structure Doctrine)"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Fundamental Rights are contained in Part III (Articles 12–35)",
+                    "Article 32 is a Fundamental Right itself",
+                    "They are not absolute rights",
+                    "Judicial review protects Fundamental Rights"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Fundamental Rights are contained in:",
+                    "options": ["Part II", "Part III", "Part IV", "Part V"],
+                    "answer": "Part III"
+                },
+                {
+                    "question": "Which Article is called the heart and soul of Constitution?",
+                    "options": ["Article 14", "Article 19", "Article 21", "Article 32"],
+                    "answer": "Article 32"
+                },
+                {
+                    "question": "Fundamental Rights are enforceable by:",
+                    "options": ["Parliament", "President", "Courts", "Governor"],
+                    "answer": "Courts"
+                },
+                {
+                    "question": "How many Fundamental Rights are there (broadly)?",
+                    "options": ["4", "5", "6", "7"],
+                    "answer": "6"
+                },
+                {
+                    "question": "Article 21 deals with:",
+                    "options": ["Equality", "Freedom of religion", "Life and personal liberty", "Property rights"],
+                    "answer": "Life and personal liberty"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which of the following is NOT a Fundamental Right?",
+                    "options": [
+                        "Right to Equality",
+                        "Right to Property",
+                        "Right to Freedom",
+                        "Cultural Rights"
+                    ],
+                    "answer": "Right to Property"
+                },
+                {
+                    "question": "Which writ is used to produce a person before court?",
+                    "options": ["Mandamus", "Habeas Corpus", "Certiorari", "Quo Warranto"],
+                    "answer": "Habeas Corpus"
+                },
+                {
+                    "question": "Article 19 guarantees:",
+                    "options": [
+                        "Religious freedom",
+                        "Six freedoms",
+                        "Right to property",
+                        "Judicial review"
+                    ],
+                    "answer": "Six freedoms"
+                },
+                {
+                    "question": "Fundamental Rights can be suspended during:",
+                    "options": [
+                        "President’s rule",
+                        "National Emergency",
+                        "State emergency only",
+                        "Judicial review"
+                    ],
+                    "answer": "National Emergency"
+                },
+                {
+                    "question": "Which Article deals with abolition of untouchability?",
+                    "options": ["Article 15", "Article 16", "Article 17", "Article 18"],
+                    "answer": "Article 17"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Fundamental Rights are absolute\n2. Article 32 is a Fundamental Right\n3. They are enforceable by courts",
+                    "options": ["2 and 3", "1 and 2", "3 only", "All"],
+                    "answer": "2 and 3"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Fundamental Rights are non-justiciable",
+                        "Fundamental Rights are enforceable in courts",
+                        "Fundamental Rights are only moral rights",
+                        "Fundamental Rights are not in Constitution"
+                    ],
+                    "answer": "Fundamental Rights are enforceable in courts"
+                },
+                {
+                    "question": "Which of the following is NOT included in Right to Freedom?",
+                    "options": [
+                        "Speech",
+                        "Movement",
+                        "Religion",
+                        "Profession"
+                    ],
+                    "answer": "Religion"
+                },
+                {
+                    "question": "Which writ is used to stop a public authority from acting illegally?",
+                    "options": ["Habeas Corpus", "Mandamus", "Quo Warranto", "Certiorari"],
+                    "answer": "Mandamus"
+                },
+                {
+                    "question": "Main objective of Fundamental Rights is:",
+                    "options": [
+                        "Strengthening monarchy",
+                        "Protecting individual liberty",
+                        "Weakening judiciary",
+                        "Centralising power"
+                    ],
+                    "answer": "Protecting individual liberty"
+                }
+            ]
+        }
+    },
+
+    {
+        "name": "Features of Fundamental Rights",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Fundamental Rights are guaranteed by the Constitution of India under Part III (Articles 12–35)",
+                    "They are essential for protecting individual liberty and dignity",
+                    "They act as limitations on the power of the State",
+                    "They are justiciable, meaning enforceable by courts"
+                ]
+            },
+            {
+                "heading": "Justiciable Nature",
+                "points": [
+                    "Fundamental Rights can be enforced through courts",
+                    "Any violation can be challenged in High Courts or Supreme Court",
+                    "Article 32 and Article 226 provide constitutional remedies",
+                    "Ensures real and effective protection of rights"
+                ]
+            },
+            {
+                "heading": "Not Absolute Rights",
+                "points": [
+                    "Fundamental Rights are subject to reasonable restrictions",
+                    "State can impose limitations in the interest of sovereignty, security, public order, morality, etc.",
+                    "Example: Freedom of speech can be restricted for national security",
+                    "Balances individual liberty with social interest"
+                ]
+            },
+            {
+                "heading": "Suspension during Emergency",
+                "points": [
+                    "Most Fundamental Rights can be suspended during National Emergency",
+                    "Article 19 is automatically suspended during emergency (Art 358)",
+                    "Article 20 and Article 21 cannot be suspended even during emergency (44th Amendment safeguard)",
+                    "Protects core human rights even in crisis situations"
+                ]
+            },
+            {
+                "heading": "Enforceable Against State",
+                "points": [
+                    "Fundamental Rights are primarily enforceable against the State (Article 12)",
+                    "State includes Government, Parliament, State Governments, and local authorities",
+                    "Some rights also apply indirectly against private individuals",
+                    "Ensures accountability of public authorities"
+                ]
+            },
+            {
+                "heading": "Amendability",
+                "points": [
+                    "Fundamental Rights can be amended by Parliament under Article 368",
+                    "However, basic structure doctrine restricts Parliament from destroying core rights",
+                    "Supreme Court has protected essential rights like equality and liberty",
+                    "Ensures balance between flexibility and permanence"
+                ]
+            },
+            {
+                "heading": "Legal Supremacy",
+                "points": [
+                    "Fundamental Rights are superior to ordinary laws",
+                    "Any law violating Fundamental Rights can be declared void by courts",
+                    "Judicial review ensures constitutional supremacy",
+                    "Protects citizens from arbitrary legislation"
+                ]
+            },
+            {
+                "heading": "Availability to Citizens and Partially to Non-Citizens",
+                "points": [
+                    "Most Fundamental Rights are available only to citizens (Articles 15, 16, 19, 29, 30)",
+                    "Some rights like Article 14, 21, and 22 are available to all persons",
+                    "Ensures basic human rights protection for everyone",
+                    "Differentiates citizenship rights from human rights"
+                ]
+            },
+            {
+                "heading": "Dynamic Nature",
+                "points": [
+                    "Fundamental Rights have evolved through judicial interpretation",
+                    "Supreme Court has expanded meaning of Article 21 (right to life)",
+                    "Includes rights like privacy, clean environment, education, etc.",
+                    "Reflects changing societal needs"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Fundamental Rights are justiciable and enforceable",
+                    "They are not absolute and have reasonable restrictions",
+                    "They can be suspended during National Emergency (with exceptions)",
+                    "They are protected by judicial review and basic structure doctrine"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Fundamental Rights are:",
+                    "options": [
+                        "Non-justiciable",
+                        "Justiciable",
+                        "Optional",
+                        "Administrative"
+                    ],
+                    "answer": "Justiciable"
+                },
+                {
+                    "question": "Fundamental Rights are contained in:",
+                    "options": ["Part I", "Part II", "Part III", "Part IV"],
+                    "answer": "Part III"
+                },
+                {
+                    "question": "Fundamental Rights can be enforced by:",
+                    "options": ["Parliament", "Courts", "President", "Governor"],
+                    "answer": "Courts"
+                },
+                {
+                    "question": "Article 32 provides:",
+                    "options": [
+                        "Legislative powers",
+                        "Constitutional remedies",
+                        "Emergency powers",
+                        "Tax rights"
+                    ],
+                    "answer": "Constitutional remedies"
+                },
+                {
+                    "question": "Fundamental Rights are subject to:",
+                    "options": [
+                        "No restrictions",
+                        "Absolute freedom",
+                        "Reasonable restrictions",
+                        "Parliamentary approval only"
+                    ],
+                    "answer": "Reasonable restrictions"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which of the following is NOT a feature of Fundamental Rights?",
+                    "options": [
+                        "Justiciable nature",
+                        "Absolute nature",
+                        "Enforceability",
+                        "Supremacy over laws"
+                    ],
+                    "answer": "Absolute nature"
+                },
+                {
+                    "question": "Fundamental Rights can be suspended during:",
+                    "options": [
+                        "State emergency",
+                        "National emergency",
+                        "Financial emergency",
+                        "Judicial review"
+                    ],
+                    "answer": "National emergency"
+                },
+                {
+                    "question": "Which Article CANNOT be suspended even during Emergency?",
+                    "options": [
+                        "Article 19",
+                        "Article 21",
+                        "Article 14",
+                        "Article 32"
+                    ],
+                    "answer": "Article 21"
+                },
+                {
+                    "question": "Fundamental Rights are enforceable against:",
+                    "options": [
+                        "Only Parliament",
+                        "Only courts",
+                        "State and its authorities",
+                        "Foreign governments only"
+                    ],
+                    "answer": "State and its authorities"
+                },
+                {
+                    "question": "Fundamental Rights can be amended under:",
+                    "options": [
+                        "Article 14",
+                        "Article 19",
+                        "Article 368",
+                        "Article 32"
+                    ],
+                    "answer": "Article 368"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Fundamental Rights are absolute\n2. They are enforceable by courts\n3. They are subject to reasonable restrictions",
+                    "options": ["2 and 3", "1 and 2", "3 only", "All"],
+                    "answer": "2 and 3"
+                },
+                {
+                    "question": "Which of the following is correct?",
+                    "options": [
+                        "Fundamental Rights are above Constitution",
+                        "They are below ordinary laws",
+                        "They are supreme over ordinary laws",
+                        "They are not enforceable"
+                    ],
+                    "answer": "They are supreme over ordinary laws"
+                },
+                {
+                    "question": "Which statement is NOT correct?",
+                    "options": [
+                        "Fundamental Rights are justiciable",
+                        "They can be enforced in courts",
+                        "They cannot be amended at all",
+                        "They protect individual liberty"
+                    ],
+                    "answer": "They cannot be amended at all"
+                },
+                {
+                    "question": "Which of the following rights is available to non-citizens?",
+                    "options": [
+                        "Article 15",
+                        "Article 16",
+                        "Article 21",
+                        "Article 29"
+                    ],
+                    "answer": "Article 21"
+                },
+                {
+                    "question": "Main objective of Fundamental Rights features is:",
+                    "options": [
+                        "Strengthen executive power",
+                        "Ensure balance between liberty and state control",
+                        "Remove judiciary",
+                        "Limit Constitution"
+                    ],
+                    "answer": "Ensure balance between liberty and state control"
+                }
+            ]
+        }
+    },
+
+    {
+        "name": "Definition of State (Article 12)",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "The term 'State' is defined in Article 12 of the Constitution of India",
+                    "It is important because Fundamental Rights are enforceable only against the State",
+                    "It gives a wide meaning to ensure maximum protection of rights",
+                    "It is applicable for Part III (Fundamental Rights)"
+                ]
+            },
+            {
+                "heading": "Meaning of State under Article 12",
+                "points": [
+                    "State includes the Government and Parliament of India",
+                    "It includes the Government and Legislature of each State",
+                    "It includes all local authorities within India",
+                    "It includes other authorities within the territory of India or under control of Government of India"
+                ]
+            },
+            {
+                "heading": "Components of State",
+                "points": [
+                    "Union Executive (President, Prime Minister, Council of Ministers)",
+                    "Union Legislature (Parliament)",
+                    "State Executive (Governor, Chief Minister, Council of Ministers)",
+                    "State Legislature",
+                    "Local Authorities (Municipalities, Panchayats, etc.)",
+                    "Other authorities (statutory bodies, government-controlled agencies)"
+                ]
+            },
+            {
+                "heading": "Local Authorities",
+                "points": [
+                    "Include municipal corporations, municipalities, district boards, panchayats",
+                    "These bodies exercise governmental functions",
+                    "They are created by statutes",
+                    "They are included in 'State' for Fundamental Rights enforcement"
+                ]
+            },
+            {
+                "heading": "Other Authorities (Important Concept)",
+                "points": [
+                    "Includes bodies created by law or Constitution",
+                    "Includes statutory corporations and government companies",
+                    "Includes authorities with governmental control",
+                    "Judicial interpretation has expanded this term over time"
+                ]
+            },
+            {
+                "heading": "Judicial Interpretation",
+                "points": [
+                    "Supreme Court has expanded the meaning of 'State' through liberal interpretation",
+                    "Important cases like R.D. Shetty v. International Airport Authority expanded scope",
+                    "Any body performing public functions may be treated as State",
+                    "Ensures wider protection of Fundamental Rights"
+                ]
+            },
+            {
+                "heading": "Importance of Article 12",
+                "points": [
+                    "Determines against whom Fundamental Rights can be enforced",
+                    "Ensures accountability of government institutions",
+                    "Prevents misuse of power by public authorities",
+                    "Forms the foundation of judicial review in FR cases"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Article 12 defines State for Part III only",
+                    "State includes government, legislature, local authorities, and other authorities",
+                    "Judiciary is not explicitly included but can act as State in some cases",
+                    "Broad interpretation ensures effective protection of Fundamental Rights"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Definition of State is given in:",
+                    "options": ["Article 10", "Article 12", "Article 14", "Article 32"],
+                    "answer": "Article 12"
+                },
+                {
+                    "question": "Fundamental Rights are enforceable against:",
+                    "options": ["Private individuals only", "State", "Foreign countries", "NGOs only"],
+                    "answer": "State"
+                },
+                {
+                    "question": "State includes:",
+                    "options": ["Only Parliament", "Only Judiciary", "Government and authorities", "Only President"],
+                    "answer": "Government and authorities"
+                },
+                {
+                    "question": "Municipal corporations are considered:",
+                    "options": ["Private bodies", "State", "NGOs", "Foreign bodies"],
+                    "answer": "State"
+                },
+                {
+                    "question": "Article 12 is part of:",
+                    "options": ["Fundamental Duties", "Fundamental Rights", "DPSP", "Emergency provisions"],
+                    "answer": "Fundamental Rights"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which of the following is NOT included in State under Article 12?",
+                    "options": [
+                        "Government of India",
+                        "State Legislature",
+                        "Private companies",
+                        "Local authorities"
+                    ],
+                    "answer": "Private companies"
+                },
+                {
+                    "question": "Which bodies are included in 'State'?",
+                    "options": [
+                        "Only executive bodies",
+                        "Only legislative bodies",
+                        "Government and authorities",
+                        "Only courts"
+                    ],
+                    "answer": "Government and authorities"
+                },
+                {
+                    "question": "Local authorities include:",
+                    "options": [
+                        "Foreign embassies",
+                        "Municipalities",
+                        "Private schools",
+                        "Religious trusts"
+                    ],
+                    "answer": "Municipalities"
+                },
+                {
+                    "question": "Article 12 helps in:",
+                    "options": [
+                        "Expanding trade",
+                        "Defining State for FR enforcement",
+                        "Tax collection",
+                        "Judicial appointment"
+                    ],
+                    "answer": "Defining State for FR enforcement"
+                },
+                {
+                    "question": "Which of the following is correct?",
+                    "options": [
+                        "State has narrow meaning",
+                        "State includes only Union Government",
+                        "State has wide meaning in Article 12",
+                        "State excludes local bodies"
+                    ],
+                    "answer": "State has wide meaning in Article 12"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Article 12 defines State only for Directive Principles\n2. Local authorities are included in State\n3. Private companies are always State",
+                    "options": ["2 only", "1 and 2", "2 and 3", "All"],
+                    "answer": "2 only"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "State has narrow interpretation",
+                        "State includes only judiciary",
+                        "State includes government and authorities",
+                        "State excludes Parliament"
+                    ],
+                    "answer": "State includes government and authorities"
+                },
+                {
+                    "question": "Which of the following is NOT part of State?",
+                    "options": [
+                        "Municipal Corporation",
+                        "State Government",
+                        "Private company (generally)",
+                        "Parliament"
+                    ],
+                    "answer": "Private company (generally)"
+                },
+                {
+                    "question": "Main purpose of Article 12 is:",
+                    "options": [
+                        "Define private rights",
+                        "Define State for Fundamental Rights enforcement",
+                        "Control judiciary",
+                        "Define citizenship"
+                    ],
+                    "answer": "Define State for Fundamental Rights enforcement"
+                },
+                {
+                    "question": "Which interpretation expanded the meaning of State?",
+                    "options": [
+                        "Strict interpretation",
+                        "Judicial interpretation",
+                        "Executive interpretation",
+                        "Political interpretation"
+                    ],
+                    "answer": "Judicial interpretation"
+                }
+            ]
+        }
+    },
+
+    {
+        "name": "Laws Inconsistent with Fundamental Rights (Article 13)",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Article 13 of the Constitution deals with laws inconsistent with Fundamental Rights",
+                    "It acts as the guardian of Fundamental Rights",
+                    "It provides the principle of judicial review in India",
+                    "Any law violating Fundamental Rights can be declared void by courts"
+                ]
+            },
+            {
+                "heading": "Meaning of Law under Article 13",
+                "points": [
+                    "Includes permanent laws passed by Parliament or State Legislatures",
+                    "Includes ordinances issued by President or Governors",
+                    "Includes regulations, rules, notifications, and by-laws",
+                    "Even customs or usage having legal force can be included"
+                ]
+            },
+            {
+                "heading": "Doctrine of Judicial Review",
+                "points": [
+                    "Courts have the power to examine validity of laws",
+                    "If a law violates Fundamental Rights, it can be struck down",
+                    "Supreme Court and High Courts exercise this power",
+                    "Ensures supremacy of Constitution over ordinary laws"
+                ]
+            },
+            {
+                "heading": "Pre-Constitutional Laws",
+                "points": [
+                    "Laws made before 26 January 1950 remain valid only if not inconsistent with Fundamental Rights",
+                    "If inconsistent, they become void to the extent of inconsistency",
+                    "Courts can modify or strike them down",
+                    "They are not automatically repealed but become inoperative"
+                ]
+            },
+            {
+                "heading": "Post-Constitutional Laws",
+                "points": [
+                    "Laws made after 26 January 1950 must comply with Fundamental Rights",
+                    "Any violation makes them void ab initio (from the beginning)",
+                    "Such laws have no legal effect",
+                    "Ensures continuous constitutional compliance"
+                ]
+            },
+            {
+                "heading": "Doctrine of Severability",
+                "points": [
+                    "If only part of a law is unconstitutional, only that part is struck down",
+                    "Remaining valid part continues to operate",
+                    "Helps preserve legislative intent as much as possible",
+                    "Applied by courts to maintain balance"
+                ]
+            },
+            {
+                "heading": "Doctrine of Eclipse",
+                "points": [
+                    "Pre-constitutional laws inconsistent with Fundamental Rights are not dead but inactive",
+                    "They become operative again if inconsistency is removed",
+                    "Applies mainly to pre-1950 laws",
+                    "Ensures flexibility in legal system"
+                ]
+            },
+            {
+                "heading": "Types of Inconsistency",
+                "points": [
+                    "Violation of Fundamental Rights under Part III",
+                    "Direct conflict with constitutional provisions",
+                    "Excessive restriction beyond reasonable limits",
+                    "Arbitrary or discriminatory laws"
+                ]
+            },
+            {
+                "heading": "Importance of Article 13",
+                "points": [
+                    "Protects supremacy of Fundamental Rights",
+                    "Establishes judicial review in India",
+                    "Prevents arbitrary law-making by Parliament and State legislatures",
+                    "Ensures constitutional supremacy"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Article 13 is the backbone of judicial review",
+                    "Laws inconsistent with Fundamental Rights are void",
+                    "Both pre and post-Constitution laws are covered",
+                    "Doctrines of severability and eclipse are important for MCQs"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Article dealing with laws inconsistent with Fundamental Rights is:",
+                    "options": ["Article 12", "Article 13", "Article 14", "Article 32"],
+                    "answer": "Article 13"
+                },
+                {
+                    "question": "Which doctrine allows courts to strike down unconstitutional laws?",
+                    "options": [
+                        "Basic structure doctrine",
+                        "Judicial review",
+                        "Federal doctrine",
+                        "Executive doctrine"
+                    ],
+                    "answer": "Judicial review"
+                },
+                {
+                    "question": "Unconstitutional laws are:",
+                    "options": [
+                        "Always valid",
+                        "Void",
+                        "Optional",
+                        "Political"
+                    ],
+                    "answer": "Void"
+                },
+                {
+                    "question": "Article 13 protects:",
+                    "options": [
+                        "Directive Principles",
+                        "Fundamental Rights",
+                        "Emergency powers",
+                        "Citizenship rules"
+                    ],
+                    "answer": "Fundamental Rights"
+                },
+                {
+                    "question": "Which body can strike down unconstitutional laws?",
+                    "options": [
+                        "Parliament",
+                        "President",
+                        "Courts",
+                        "Governor"
+                    ],
+                    "answer": "Courts"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which of the following is included in 'law' under Article 13?",
+                    "options": [
+                        "Only Acts of Parliament",
+                        "Only State laws",
+                        "Ordinances and regulations",
+                        "Only Constitution"
+                    ],
+                    "answer": "Ordinances and regulations"
+                },
+                {
+                    "question": "Pre-constitutional laws inconsistent with FR are:",
+                    "options": [
+                        "Completely dead",
+                        "Automatically repealed",
+                        "Void to the extent of inconsistency",
+                        "Always valid"
+                    ],
+                    "answer": "Void to the extent of inconsistency"
+                },
+                {
+                    "question": "Doctrine of severability means:",
+                    "options": [
+                        "Whole law is invalid",
+                        "Part of law can be struck down",
+                        "Law cannot be reviewed",
+                        "Law is permanent"
+                    ],
+                    "answer": "Part of law can be struck down"
+                },
+                {
+                    "question": "Which doctrine applies to pre-constitutional laws?",
+                    "options": [
+                        "Basic structure",
+                        "Eclipse doctrine",
+                        "Federal doctrine",
+                        "Laches doctrine"
+                    ],
+                    "answer": "Eclipse doctrine"
+                },
+                {
+                    "question": "Article 13 ensures:",
+                    "options": [
+                        "Parliamentary supremacy",
+                        "Judicial supremacy over Constitution",
+                        "Constitutional supremacy",
+                        "Executive dominance"
+                    ],
+                    "answer": "Constitutional supremacy"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Article 13 allows judicial review\n2. All laws inconsistent with FR are valid\n3. Doctrine of severability exists in India",
+                    "options": ["1 and 3", "2 and 3", "1 and 2", "All"],
+                    "answer": "1 and 3"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Article 13 protects Directive Principles",
+                        "Article 13 ensures FR supremacy",
+                        "Article 13 removes judiciary",
+                        "Article 13 supports arbitrary laws"
+                    ],
+                    "answer": "Article 13 ensures FR supremacy"
+                },
+                {
+                    "question": "Which of the following is NOT a feature of Article 13?",
+                    "options": [
+                        "Judicial review",
+                        "Severability",
+                        "Eclipse doctrine",
+                        "Absolute parliamentary sovereignty"
+                    ],
+                    "answer": "Absolute parliamentary sovereignty"
+                },
+                {
+                    "question": "Which laws become void under Article 13?",
+                    "options": [
+                        "Only pre-constitutional laws",
+                        "Only post-constitutional laws",
+                        "Both inconsistent pre and post laws",
+                        "Only constitutional amendments"
+                    ],
+                    "answer": "Both inconsistent pre and post laws"
+                },
+                {
+                    "question": "Main purpose of Article 13 is:",
+                    "options": [
+                        "Strengthen Parliament",
+                        "Protect Fundamental Rights",
+                        "Limit Judiciary",
+                        "Define citizenship"
+                    ],
+                    "answer": "Protect Fundamental Rights"
+                }
+            ]
+        }
+    },
+
+    {
+        "name": "Right to Equality (Articles 14–18)",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Right to Equality is one of the most important Fundamental Rights under Part III",
+                    "It ensures equal treatment before law and equal protection of laws",
+                    "It aims to eliminate discrimination and establish a just society",
+                    "It reflects the principle of rule of law and constitutional morality"
+                ]
+            },
+            {
+                "heading": "Article 14 – Equality before Law",
+                "points": [
+                    "Guarantees equality before law and equal protection of laws",
+                    "Equality before law is a negative concept (no special privilege)",
+                    "Equal protection of laws is a positive concept (equal treatment in similar situations)",
+                    "Applies to all persons, not just citizens"
+                ]
+            },
+            {
+                "heading": "Article 15 – Prohibition of Discrimination",
+                "points": [
+                    "Prohibits discrimination on grounds of religion, race, caste, sex, or place of birth",
+                    "Applies specifically to citizens",
+                    "Allows special provisions for women, children, and socially backward classes",
+                    "Enables affirmative action for weaker sections"
+                ]
+            },
+            {
+                "heading": "Article 16 – Equality in Public Employment",
+                "points": [
+                    "Provides equality of opportunity in public employment",
+                    "Prohibits discrimination in government jobs",
+                    "Allows reservation for backward classes",
+                    "Ensures fair access to public services"
+                ]
+            },
+            {
+                "heading": "Article 17 – Abolition of Untouchability",
+                "points": [
+                    "Abolishes untouchability in all forms",
+                    "Its practice is an offense punishable by law",
+                    "Protects dignity of individuals",
+                    "Has both constitutional and legal enforcement"
+                ]
+            },
+            {
+                "heading": "Article 18 – Abolition of Titles",
+                "points": [
+                    "Prohibits the State from conferring titles (except military and academic distinctions)",
+                    "Prevents creation of aristocratic or hereditary privileges",
+                    "Ensures social equality",
+                    "National awards like Bharat Ratna are not considered titles"
+                ]
+            },
+            {
+                "heading": "Exceptions and Reasonable Classifications",
+                "points": [
+                    "Equality does not mean absolute uniformity",
+                    "Reasonable classification is permitted under Article 14",
+                    "Classification must be based on intelligible differentia",
+                    "There must be a rational nexus with the objective of law"
+                ]
+            },
+            {
+                "heading": "Importance of Right to Equality",
+                "points": [
+                    "Forms the foundation of a democratic society",
+                    "Ensures rule of law and prevents arbitrariness",
+                    "Promotes social justice and inclusiveness",
+                    "Removes historical inequalities in society"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Article 14 applies to all persons, not only citizens",
+                    "Article 15 and 16 apply only to citizens",
+                    "Reasonable classification is allowed under Article 14",
+                    "Article 17 abolishes untouchability in absolute terms"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Right to Equality is contained in:",
+                    "options": ["Articles 12–14", "Articles 14–18", "Articles 19–22", "Articles 23–24"],
+                    "answer": "Articles 14–18"
+                },
+                {
+                    "question": "Article 14 guarantees:",
+                    "options": [
+                        "Freedom of speech",
+                        "Equality before law",
+                        "Right to education",
+                        "Religious freedom"
+                    ],
+                    "answer": "Equality before law"
+                },
+                {
+                    "question": "Untouchability is abolished under:",
+                    "options": ["Article 15", "Article 16", "Article 17", "Article 18"],
+                    "answer": "Article 17"
+                },
+                {
+                    "question": "Article 15 applies to:",
+                    "options": ["Citizens only", "All persons", "Judges only", "Foreigners only"],
+                    "answer": "Citizens only"
+                },
+                {
+                    "question": "Article 18 deals with:",
+                    "options": ["Equality", "Freedom", "Titles", "Religion"],
+                    "answer": "Titles"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which of the following is NOT covered under Article 14?",
+                    "options": [
+                        "Equality before law",
+                        "Equal protection of laws",
+                        "Reservation policies",
+                        "Freedom of speech"
+                    ],
+                    "answer": "Freedom of speech"
+                },
+                {
+                    "question": "Reasonable classification requires:",
+                    "options": [
+                        "Arbitrary division",
+                        "Intelligible differentia and rational nexus",
+                        "No basis required",
+                        "Parliament approval only"
+                    ],
+                    "answer": "Intelligible differentia and rational nexus"
+                },
+                {
+                    "question": "Which Article provides equality in public employment?",
+                    "options": ["Article 14", "Article 15", "Article 16", "Article 17"],
+                    "answer": "Article 16"
+                },
+                {
+                    "question": "Which of the following is correct?",
+                    "options": [
+                        "Article 14 applies only to citizens",
+                        "Article 15 applies to all persons",
+                        "Article 17 allows untouchability",
+                        "Article 18 promotes titles"
+                    ],
+                    "answer": "Article 15 applies to all persons"
+                },
+                {
+                    "question": "Article 16 allows:",
+                    "options": [
+                        "Discrimination in jobs",
+                        "Reservation for backward classes",
+                        "Abolition of equality",
+                        "Hereditary employment"
+                    ],
+                    "answer": "Reservation for backward classes"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Article 14 allows reasonable classification\n2. Article 15 applies to all persons\n3. Article 17 abolishes untouchability",
+                    "options": ["1 and 3", "2 and 3", "1 and 2", "All"],
+                    "answer": "1 and 3"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Equality means absolute uniformity",
+                        "Equality allows reasonable classification",
+                        "Equality is not enforceable",
+                        "Equality applies only to Parliament"
+                    ],
+                    "answer": "Equality allows reasonable classification"
+                },
+                {
+                    "question": "Which Article is available to both citizens and non-citizens?",
+                    "options": ["Article 15", "Article 16", "Article 14", "Article 18"],
+                    "answer": "Article 14"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Article 17 abolishes untouchability",
+                        "Article 18 allows titles freely",
+                        "Article 14 ensures equality",
+                        "Article 16 ensures equal opportunity"
+                    ],
+                    "answer": "Article 18 allows titles freely"
+                },
+                {
+                    "question": "Main objective of Right to Equality is:",
+                    "options": [
+                        "Economic control",
+                        "Social and legal equality",
+                        "Political dictatorship",
+                        "Judicial monopoly"
+                    ],
+                    "answer": "Social and legal equality"
+                }
+            ]
+        }
+    },
+
+    {
+        "name": "Right to Freedom (Articles 19–22)",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Right to Freedom is one of the most essential Fundamental Rights under Part III",
+                    "It guarantees basic civil liberties necessary for a democratic society",
+                    "It is not absolute and is subject to reasonable restrictions",
+                    "It ensures personal liberty, free movement, speech, and protection from arbitrary arrest"
+                ]
+            },
+            {
+                "heading": "Article 19 – Six Freedoms",
+                "points": [
+                    "Freedom of speech and expression",
+                    "Freedom to assemble peacefully without arms",
+                    "Freedom to form associations or unions",
+                    "Freedom to move freely throughout India",
+                    "Freedom to reside and settle in any part of India",
+                    "Freedom to practice any profession or carry on any occupation, trade or business"
+                ]
+            },
+            {
+                "heading": "Reasonable Restrictions on Article 19",
+                "points": [
+                    "Freedom of speech can be restricted for sovereignty and integrity of India",
+                    "Restrictions can be imposed in interest of public order, morality, and security of State",
+                    "Freedom of movement and residence can be restricted for public interest and protection of Scheduled Tribes",
+                    "Restrictions must be reasonable and not arbitrary"
+                ]
+            },
+            {
+                "heading": "Article 20 – Protection in Criminal Cases",
+                "points": [
+                    "Protection against ex post facto laws (no punishment for past acts not an offence then)",
+                    "Protection against double jeopardy (no punishment twice for same offence)",
+                    "Protection against self-incrimination (no forced confession)",
+                    "Applies to all persons including citizens and foreigners"
+                ]
+            },
+            {
+                "heading": "Article 21 – Right to Life and Personal Liberty",
+                "points": [
+                    "No person shall be deprived of life or personal liberty except according to procedure established by law",
+                    "Interpreted widely by Supreme Court",
+                    "Includes right to dignity, privacy, health, education, clean environment, etc.",
+                    "Forms the core of human rights jurisprudence in India"
+                ]
+            },
+            {
+                "heading": "Article 21A – Right to Education",
+                "points": [
+                    "Provides free and compulsory education to children aged 6–14 years",
+                    "Inserted by 86th Constitutional Amendment Act, 2002",
+                    "Makes education a Fundamental Right",
+                    "Implemented through Right to Education Act, 2009"
+                ]
+            },
+            {
+                "heading": "Article 22 – Protection against Arrest and Detention",
+                "points": [
+                    "Protects against arbitrary arrest and detention",
+                    "Right to be informed of grounds of arrest",
+                    "Right to consult and be defended by a lawyer",
+                    "Produced before magistrate within 24 hours",
+                    "Provides safeguards in preventive detention cases"
+                ]
+            },
+            {
+                "heading": "Preventive Detention",
+                "points": [
+                    "Detention of a person without trial to prevent potential crime",
+                    "Allowed under Article 22 with safeguards",
+                    "Maximum detention period governed by law",
+                    "Used for national security and public order"
+                ]
+            },
+            {
+                "heading": "Importance of Right to Freedom",
+                "points": [
+                    "Ensures individual liberty in a democratic society",
+                    "Protects against arbitrary State actions",
+                    "Forms the basis of free speech and expression",
+                    "Strengthens rule of law and democracy"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Article 19 contains six freedoms",
+                    "Article 21 is the most expansive Fundamental Right",
+                    "Article 20 applies to all persons (citizens and foreigners)",
+                    "Article 21A guarantees right to education for children"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Right to Freedom is covered under:",
+                    "options": ["Articles 14–18", "Articles 19–22", "Articles 23–24", "Articles 25–28"],
+                    "answer": "Articles 19–22"
+                },
+                {
+                    "question": "How many freedoms are under Article 19?",
+                    "options": ["5", "6", "7", "8"],
+                    "answer": "6"
+                },
+                {
+                    "question": "Article 21 deals with:",
+                    "options": [
+                        "Equality",
+                        "Freedom of speech",
+                        "Right to life and liberty",
+                        "Religion"
+                    ],
+                    "answer": "Right to life and liberty"
+                },
+                {
+                    "question": "Right to Education is under:",
+                    "options": ["Article 19A", "Article 21A", "Article 22", "Article 23"],
+                    "answer": "Article 21A"
+                },
+                {
+                    "question": "Article 22 deals with:",
+                    "options": [
+                        "Religious freedom",
+                        "Arrest and detention",
+                        "Equality",
+                        "Property rights"
+                    ],
+                    "answer": "Arrest and detention"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which of the following is NOT a freedom under Article 19?",
+                    "options": [
+                        "Speech",
+                        "Assembly",
+                        "Property ownership",
+                        "Profession"
+                    ],
+                    "answer": "Property ownership"
+                },
+                {
+                    "question": "Article 20 provides protection against:",
+                    "options": [
+                        "Taxation",
+                        "Ex post facto laws",
+                        "Election laws",
+                        "Administrative orders"
+                    ],
+                    "answer": "Ex post facto laws"
+                },
+                {
+                    "question": "Which Article is most widely interpreted by courts?",
+                    "options": ["Article 14", "Article 19", "Article 21", "Article 22"],
+                    "answer": "Article 21"
+                },
+                {
+                    "question": "Article 21A was added by:",
+                    "options": [
+                        "42nd Amendment",
+                        "44th Amendment",
+                        "86th Amendment",
+                        "52nd Amendment"
+                    ],
+                    "answer": "86th Amendment"
+                },
+                {
+                    "question": "Preventive detention is related to:",
+                    "options": [
+                        "Article 19",
+                        "Article 21",
+                        "Article 22",
+                        "Article 20"
+                    ],
+                    "answer": "Article 22"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Article 20 applies only to citizens\n2. Article 21 is available to all persons\n3. Article 19 applies to citizens only",
+                    "options": ["2 and 3", "1 and 2", "3 only", "All"],
+                    "answer": "2 and 3"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Right to freedom is absolute",
+                        "Article 21 includes right to privacy",
+                        "Article 19 has no restrictions",
+                        "Article 22 removes legal safeguards"
+                    ],
+                    "answer": "Article 21 includes right to privacy"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Article 20 protects against double jeopardy",
+                        "Article 21 guarantees life and liberty",
+                        "Article 19 is absolute",
+                        "Article 22 provides arrest safeguards"
+                    ],
+                    "answer": "Article 19 is absolute"
+                },
+                {
+                    "question": "Which Article is called heart of Fundamental Rights expansion?",
+                    "options": [
+                        "Article 14",
+                        "Article 19",
+                        "Article 21",
+                        "Article 32"
+                    ],
+                    "answer": "Article 21"
+                },
+                {
+                    "question": "Main objective of Right to Freedom is:",
+                    "options": [
+                        "Economic regulation",
+                        "Protection of civil liberties",
+                        "Military control",
+                        "Judicial monopoly"
+                    ],
+                    "answer": "Protection of civil liberties"
+                }
+            ]
+        }
+    },
+
+    {
+        "name": "Right Against Exploitation (Articles 23–24)",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Right Against Exploitation is a Fundamental Right under Part III of the Constitution",
+                    "It aims to protect individuals from forced labour, human trafficking, and child exploitation",
+                    "It reflects the principle of human dignity and social justice",
+                    "It applies to both citizens and non-citizens"
+                ]
+            },
+            {
+                "heading": "Article 23 – Prohibition of Human Trafficking and Forced Labour",
+                "points": [
+                    "Prohibits trafficking in human beings, begar, and other similar forms of forced labour",
+                    "Applies to all persons (citizens and foreigners)",
+                    "State is empowered to impose compulsory service for public purposes (without discrimination)",
+                    "Violation of Article 23 is punishable by law"
+                ]
+            },
+            {
+                "heading": "Meaning of Forced Labour",
+                "points": [
+                    "Any work extracted from a person without free will or payment",
+                    "Includes bonded labour system",
+                    "Includes begar (work without payment)",
+                    "Even minimal wages with coercion can fall under forced labour"
+                ]
+            },
+            {
+                "heading": "Article 24 – Prohibition of Child Labour",
+                "points": [
+                    "Prohibits employment of children below 14 years in factories, mines, or hazardous occupations",
+                    "Focuses on protection of child health and development",
+                    "Does not prohibit children from working in non-hazardous activities",
+                    "Supports Right to Education (Article 21A)"
+                ]
+            },
+            {
+                "heading": "Child Labour and Law",
+                "points": [
+                    "Child Labour (Prohibition and Regulation) Act regulates employment conditions",
+                    "Children are allowed in family-based and non-hazardous work",
+                    "Strict prohibition in dangerous industries like mining and chemical factories",
+                    "Government enforces penalties for violations"
+                ]
+            },
+            {
+                "heading": "Exceptions under Article 23",
+                "points": [
+                    "State can impose compulsory service for public purposes",
+                    "Such service cannot discriminate on grounds of religion, race, caste, or class",
+                    "Example: military service, social service during emergencies",
+                    "Must be lawful and non-exploitative"
+                ]
+            },
+            {
+                "heading": "Importance of Right Against Exploitation",
+                "points": [
+                    "Protects human dignity and freedom",
+                    "Abolishes traditional systems like bonded labour",
+                    "Ensures protection of children from hazardous work",
+                    "Promotes social justice and equality"
+                ]
+            },
+            {
+                "heading": "Judicial Interpretation",
+                "points": [
+                    "Supreme Court has expanded meaning of forced labour under Article 23",
+                    "Even unpaid compulsory work may be considered violation",
+                    "Public Interest Litigations (PILs) have strengthened enforcement",
+                    "Courts actively protect bonded labourers and children"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Article 23 applies to all persons, not just citizens",
+                    "Article 24 applies only to children below 14 years",
+                    "Forced labour includes begar and bonded labour",
+                    "Right supports Directive Principles like child welfare and education"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Right Against Exploitation is covered under:",
+                    "options": ["Articles 14–18", "Articles 19–22", "Articles 23–24", "Articles 25–28"],
+                    "answer": "Articles 23–24"
+                },
+                {
+                    "question": "Article 23 deals with:",
+                    "options": [
+                        "Religious freedom",
+                        "Forced labour and trafficking",
+                        "Equality",
+                        "Education"
+                    ],
+                    "answer": "Forced labour and trafficking"
+                },
+                {
+                    "question": "Article 24 prohibits employment of children below:",
+                    "options": ["12 years", "14 years", "16 years", "18 years"],
+                    "answer": "14 years"
+                },
+                {
+                    "question": "Begar means:",
+                    "options": [
+                        "Paid labour",
+                        "Forced unpaid labour",
+                        "Agricultural work",
+                        "Military service"
+                    ],
+                    "answer": "Forced unpaid labour"
+                },
+                {
+                    "question": "Article 23 applies to:",
+                    "options": ["Citizens only", "Foreigners only", "All persons", "Government only"],
+                    "answer": "All persons"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which of the following is prohibited under Article 23?",
+                    "options": [
+                        "Free employment",
+                        "Forced labour",
+                        "Government service",
+                        "Private business"
+                    ],
+                    "answer": "Forced labour"
+                },
+                {
+                    "question": "Article 24 applies to:",
+                    "options": [
+                        "All workers",
+                        "Children below 14 years",
+                        "Adults only",
+                        "Foreign citizens only"
+                    ],
+                    "answer": "Children below 14 years"
+                },
+                {
+                    "question": "Which of the following is allowed under Article 23?",
+                    "options": [
+                        "Human trafficking",
+                        "Bonded labour",
+                        "Compulsory public service",
+                        "Child exploitation"
+                    ],
+                    "answer": "Compulsory public service"
+                },
+                {
+                    "question": "Article 24 prohibits child labour in:",
+                    "options": [
+                        "Agriculture",
+                        "Family business",
+                        "Hazardous industries",
+                        "Education"
+                    ],
+                    "answer": "Hazardous industries"
+                },
+                {
+                    "question": "Right Against Exploitation reflects:",
+                    "options": [
+                        "Political control",
+                        "Economic monopoly",
+                        "Human dignity",
+                        "Judicial power"
+                    ],
+                    "answer": "Human dignity"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Article 23 applies only to citizens\n2. Article 24 prohibits child labour in hazardous industries\n3. Forced labour includes bonded labour",
+                    "options": ["2 and 3", "1 and 2", "3 only", "All"],
+                    "answer": "2 and 3"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Child labour is fully allowed in India",
+                        "Forced labour is protected under Constitution",
+                        "Human trafficking is prohibited",
+                        "Article 24 applies to all ages"
+                    ],
+                    "answer": "Human trafficking is prohibited"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Article 23 prohibits begar",
+                        "Article 24 prohibits child labour in mines",
+                        "Article 23 allows slavery",
+                        "Article 24 protects children"
+                    ],
+                    "answer": "Article 23 allows slavery"
+                },
+                {
+                    "question": "Main objective of Right Against Exploitation is:",
+                    "options": [
+                        "Political control",
+                        "Protect human dignity",
+                        "Economic monopoly",
+                        "Military regulation"
+                    ],
+                    "answer": "Protect human dignity"
+                },
+                {
+                    "question": "Which Article deals with bonded labour?",
+                    "options": ["Article 21", "Article 23", "Article 24", "Article 19"],
+                    "answer": "Article 23"
+                }
+            ]
+        }
+    },
+
+    {
+        "name": "Right to Freedom of Religion (Articles 25–28)",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Right to Freedom of Religion is a Fundamental Right under Part III of the Constitution",
+                    "It guarantees religious liberty to all individuals in India",
+                    "It promotes secularism, which is a basic feature of the Constitution",
+                    "It applies to both citizens and non-citizens"
+                ]
+            },
+            {
+                "heading": "Article 25 – Freedom of Conscience and Free Profession of Religion",
+                "points": [
+                    "All persons are equally entitled to freedom of conscience",
+                    "Right to freely profess, practice, and propagate religion",
+                    "Subject to public order, morality, health, and other Fundamental Rights",
+                    "State can regulate secular activities associated with religion"
+                ]
+            },
+            {
+                "heading": "Meaning of Key Terms in Article 25",
+                "points": [
+                    "Freedom of conscience: Inner freedom to believe in any religion",
+                    "Profess: Declaration of religious belief",
+                    "Practice: Performing religious rituals and duties",
+                    "Propagate: Spreading religious beliefs to others (not forced conversion)"
+                ]
+            },
+            {
+                "heading": "Article 26 – Freedom to Manage Religious Affairs",
+                "points": [
+                    "Every religious denomination has the right to manage its own affairs",
+                    "Right to establish and maintain institutions for religious purposes",
+                    "Right to manage property in accordance with law",
+                    "Right to administer religious matters internally"
+                ]
+            },
+            {
+                "heading": "Article 27 – Freedom from Taxation for Promotion of Religion",
+                "points": [
+                    "No person shall be compelled to pay taxes for promotion of any religion",
+                    "State cannot use tax revenue for supporting a particular religion",
+                    "Ensures secular use of public funds",
+                    "Does not prohibit general taxation used indirectly"
+                ]
+            },
+            {
+                "heading": "Article 28 – Freedom from Religious Instruction in Educational Institutions",
+                "points": [
+                    "No religious instruction in educational institutions wholly funded by State",
+                    "Allowed in institutions established under endowment or trust",
+                    "Students cannot be forced to participate in religious activities",
+                    "Ensures secular character of education system"
+                ]
+            },
+            {
+                "heading": "Limitations on Religious Freedom",
+                "points": [
+                    "Subject to public order, morality, and health",
+                    "State can regulate secular activities of religion",
+                    "Cannot violate other Fundamental Rights",
+                    "Does not permit forced conversion"
+                ]
+            },
+            {
+                "heading": "Secularism in India",
+                "points": [
+                    "India follows positive secularism (equal respect to all religions)",
+                    "State does not promote or favor any religion",
+                    "Allows religious freedom with reasonable restrictions",
+                    "Maintains balance between religion and State"
+                ]
+            },
+            {
+                "heading": "Importance of Right to Freedom of Religion",
+                "points": [
+                    "Ensures religious harmony in a diverse society",
+                    "Protects minority religious rights",
+                    "Prevents State interference in religion",
+                    "Strengthens secular democratic structure"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Article 25 applies to all persons, not just citizens",
+                    "Right to propagate religion does not include forced conversion",
+                    "State can regulate secular aspects of religion",
+                    "India follows positive secularism"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Right to Freedom of Religion is under:",
+                    "options": ["Articles 19–22", "Articles 23–24", "Articles 25–28", "Articles 29–30"],
+                    "answer": "Articles 25–28"
+                },
+                {
+                    "question": "Article 25 deals with:",
+                    "options": [
+                        "Equality",
+                        "Freedom of speech",
+                        "Religious freedom",
+                        "Education"
+                    ],
+                    "answer": "Religious freedom"
+                },
+                {
+                    "question": "Right to propagate religion means:",
+                    "options": [
+                        "Forced conversion",
+                        "Spreading beliefs",
+                        "Government control",
+                        "Tax exemption"
+                    ],
+                    "answer": "Spreading beliefs"
+                },
+                {
+                    "question": "Article 27 prohibits:",
+                    "options": [
+                        "Religious practice",
+                        "Tax for religious promotion",
+                        "Education",
+                        "Speech"
+                    ],
+                    "answer": "Tax for religious promotion"
+                },
+                {
+                    "question": "India follows:",
+                    "options": [
+                        "Theocratic system",
+                        "Atheist system",
+                        "Positive secularism",
+                        "Religious state"
+                    ],
+                    "answer": "Positive secularism"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which Article allows religious denominations to manage affairs?",
+                    "options": ["Article 25", "Article 26", "Article 27", "Article 28"],
+                    "answer": "Article 26"
+                },
+                {
+                    "question": "Article 28 deals with:",
+                    "options": [
+                        "Religious taxation",
+                        "Religious instruction in education",
+                        "Freedom of speech",
+                        "Equality"
+                    ],
+                    "answer": "Religious instruction in education"
+                },
+                {
+                    "question": "Which of the following is NOT a restriction on Article 25?",
+                    "options": [
+                        "Public order",
+                        "Morality",
+                        "Health",
+                        "Political opinion"
+                    ],
+                    "answer": "Political opinion"
+                },
+                {
+                    "question": "Religious freedom is available to:",
+                    "options": [
+                        "Citizens only",
+                        "Foreigners only",
+                        "All persons",
+                        "Judges only"
+                    ],
+                    "answer": "All persons"
+                },
+                {
+                    "question": "Secularism in India means:",
+                    "options": [
+                        "State religion exists",
+                        "No religion allowed",
+                        "Equal respect to all religions",
+                        "Only one religion allowed"
+                    ],
+                    "answer": "Equal respect to all religions"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Article 25 allows forced conversion\n2. Article 26 gives right to manage religious affairs\n3. Article 27 allows religious taxation",
+                    "options": ["2 only", "1 and 2", "2 and 3", "All"],
+                    "answer": "2 only"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "India is a theocratic state",
+                        "India follows positive secularism",
+                        "State promotes only one religion",
+                        "Religious freedom is absolute"
+                    ],
+                    "answer": "India follows positive secularism"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Article 25 allows propagation of religion",
+                        "Article 27 allows religious taxes",
+                        "Article 28 restricts religious instruction",
+                        "Article 26 allows managing religious affairs"
+                    ],
+                    "answer": "Article 27 allows religious taxes"
+                },
+                {
+                    "question": "Main objective of religious freedom is:",
+                    "options": [
+                        "Political dominance",
+                        "Religious harmony and liberty",
+                        "Economic control",
+                        "Judicial power"
+                    ],
+                    "answer": "Religious harmony and liberty"
+                },
+                {
+                    "question": "Which Article protects secular use of public funds?",
+                    "options": ["Article 25", "Article 26", "Article 27", "Article 28"],
+                    "answer": "Article 27"
+                }
+            ]
+        }
+    },
+
+    {
+        "name": "Cultural and Educational Rights (Articles 29–30)",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Cultural and Educational Rights are provided under Articles 29 and 30 of the Constitution",
+                    "They protect the interests of minorities in India",
+                    "They preserve cultural diversity and promote equality in education",
+                    "They are part of Fundamental Rights under Part III"
+                ]
+            },
+            {
+                "heading": "Article 29 – Protection of Interests of Minorities",
+                "points": [
+                    "Any section of citizens having a distinct language, script, or culture has the right to conserve it",
+                    "No citizen shall be denied admission to educational institutions maintained by the State on grounds of religion, race, caste, or language",
+                    "Applies to all citizens, not just minorities in some clauses",
+                    "Protects India’s cultural diversity"
+                ]
+            },
+            {
+                "heading": "Key Features of Article 29",
+                "points": [
+                    "Protects linguistic and cultural identity",
+                    "Prevents discrimination in State educational institutions",
+                    "Ensures equality in access to education",
+                    "Helps preserve minority heritage"
+                ]
+            },
+            {
+                "heading": "Article 30 – Right of Minorities to Establish Educational Institutions",
+                "points": [
+                    "All minorities, whether based on religion or language, have the right to establish and administer educational institutions",
+                    "Ensures protection of minority educational rights",
+                    "State cannot discriminate while granting aid to such institutions",
+                    "Protects autonomy of minority-run institutions"
+                ]
+            },
+            {
+                "heading": "Types of Minority Rights under Article 30",
+                "points": [
+                    "Right to establish educational institutions",
+                    "Right to administer institutions",
+                    "Right to receive State aid without discrimination",
+                    "Right to protect minority character of institutions"
+                ]
+            },
+            {
+                "heading": "Relation between Article 29 and 30",
+                "points": [
+                    "Article 29 protects cultural and educational interests of all citizens",
+                    "Article 30 specifically protects minority educational rights",
+                    "Article 29 is broader in scope, Article 30 is special provision",
+                    "Both ensure cultural pluralism in India"
+                ]
+            },
+            {
+                "heading": "Importance of Cultural Rights",
+                "points": [
+                    "Preserve linguistic and cultural diversity",
+                    "Protect minority rights in a plural society",
+                    "Promote inclusive education system",
+                    "Strengthen unity in diversity"
+                ]
+            },
+            {
+                "heading": "Judicial Interpretation",
+                "points": [
+                    "Supreme Court has protected minority educational rights in several cases",
+                    "State regulation is allowed but not interference in administration",
+                    "Autonomy of minority institutions is constitutionally protected",
+                    "Balance between regulation and rights is maintained"
+                ]
+            },
+            {
+                "heading": "Limitations",
+                "points": [
+                    "State can impose reasonable regulations for educational standards",
+                    "Rights are not absolute and subject to public order and morality",
+                    "Regulation allowed but not control or takeover",
+                    "Must maintain minority character of institutions"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Article 29 applies to all citizens; Article 30 applies to minorities",
+                    "Minorities can be based on religion or language",
+                    "Right includes establishment and administration of institutions",
+                    "State aid cannot be discriminatory"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Cultural and Educational Rights are under:",
+                    "options": ["Articles 25–28", "Articles 29–30", "Articles 31–32", "Articles 14–18"],
+                    "answer": "Articles 29–30"
+                },
+                {
+                    "question": "Article 29 deals with:",
+                    "options": [
+                        "Religious freedom",
+                        "Protection of culture and language",
+                        "Equality in jobs",
+                        "Arrest and detention"
+                    ],
+                    "answer": "Protection of culture and language"
+                },
+                {
+                    "question": "Article 30 is related to:",
+                    "options": [
+                        "Right to property",
+                        "Minority educational institutions",
+                        "Freedom of speech",
+                        "Taxation"
+                    ],
+                    "answer": "Minority educational institutions"
+                },
+                {
+                    "question": "Article 29 applies to:",
+                    "options": ["Minorities only", "All citizens", "Foreigners", "Judges"],
+                    "answer": "All citizens"
+                },
+                {
+                    "question": "Minorities under Article 30 can be based on:",
+                    "options": [
+                        "Only religion",
+                        "Only caste",
+                        "Religion or language",
+                        "Only race"
+                    ],
+                    "answer": "Religion or language"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which of the following is protected under Article 29?",
+                    "options": [
+                        "Right to vote",
+                        "Right to conserve culture",
+                        "Right to property",
+                        "Right to employment"
+                    ],
+                    "answer": "Right to conserve culture"
+                },
+                {
+                    "question": "Article 30 ensures:",
+                    "options": [
+                        "State control over schools",
+                        "Minority educational rights",
+                        "Tax exemption",
+                        "Judicial powers"
+                    ],
+                    "answer": "Minority educational rights"
+                },
+                {
+                    "question": "Which of the following is correct?",
+                    "options": [
+                        "Article 29 is for minorities only",
+                        "Article 30 applies to all citizens",
+                        "Article 29 applies to all citizens",
+                        "Article 30 is about voting rights"
+                    ],
+                    "answer": "Article 29 applies to all citizens"
+                },
+                {
+                    "question": "State aid to minority institutions must be:",
+                    "options": [
+                        "Discriminatory",
+                        "Uniform and non-discriminatory",
+                        "Denied completely",
+                        "Selective only"
+                    ],
+                    "answer": "Uniform and non-discriminatory"
+                },
+                {
+                    "question": "Cultural rights aim to protect:",
+                    "options": [
+                        "Economic monopoly",
+                        "Linguistic and cultural diversity",
+                        "Military power",
+                        "Tax system"
+                    ],
+                    "answer": "Linguistic and cultural diversity"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Article 29 applies only to minorities\n2. Article 30 protects minority educational institutions\n3. Minorities can be linguistic or religious",
+                    "options": ["2 and 3", "1 and 2", "3 only", "All"],
+                    "answer": "2 and 3"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Minority institutions have no autonomy",
+                        "State can completely control minority institutions",
+                        "Minority institutions have right to administer",
+                        "Article 29 is limited to religion only"
+                    ],
+                    "answer": "Minority institutions have right to administer"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Article 29 protects culture",
+                        "Article 30 protects minority rights",
+                        "Article 29 applies to all citizens",
+                        "Article 30 applies to all citizens"
+                    ],
+                    "answer": "Article 30 applies to all citizens"
+                },
+                {
+                    "question": "Main objective of Articles 29–30 is:",
+                    "options": [
+                        "Economic development",
+                        "Cultural and educational protection",
+                        "Military control",
+                        "Tax collection"
+                    ],
+                    "answer": "Cultural and educational protection"
+                },
+                {
+                    "question": "Which Article is broader in scope?",
+                    "options": ["Article 29", "Article 30", "Article 25", "Article 14"],
+                    "answer": "Article 29"
+                }
+            ]
+        }
+    },
+
+    {
+        "name": "Right to Constitutional Remedies (Article 32)",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Right to Constitutional Remedies is provided under Article 32 of the Constitution",
+                    "It is considered the 'heart and soul' of the Constitution",
+                    "It enables enforcement of Fundamental Rights through courts",
+                    "It provides the foundation for judicial review and constitutional protection"
+                ]
+            },
+            {
+                "heading": "Meaning of Article 32",
+                "points": [
+                    "Gives the right to move the Supreme Court directly for enforcement of Fundamental Rights",
+                    "Ensures that Fundamental Rights are not merely declaratory but enforceable",
+                    "Empowers Supreme Court to issue writs for protection of rights",
+                    "Applies only in case of violation of Fundamental Rights"
+                ]
+            },
+            {
+                "heading": "Types of Writs under Article 32",
+                "points": [
+                    "Habeas Corpus: To produce a detained person before the court",
+                    "Mandamus: To direct a public authority to perform its duty",
+                    "Prohibition: To stop a lower court or tribunal from exceeding jurisdiction",
+                    "Certiorari: To quash an illegal order of a lower court or authority",
+                    "Quo Warranto: To question the legality of a person holding public office"
+                ]
+            },
+            {
+                "heading": "Scope of Article 32",
+                "points": [
+                    "Applicable only for enforcement of Fundamental Rights",
+                    "Can be invoked only in Supreme Court",
+                    "Cannot be suspended except during National Emergency (with exceptions)",
+                    "It is itself a Fundamental Right"
+                ]
+            },
+            {
+                "heading": "Article 226 vs Article 32",
+                "points": [
+                    "Article 32: Supreme Court jurisdiction",
+                    "Article 226: High Court jurisdiction (broader scope)",
+                    "Article 226 can be used for Fundamental Rights and other legal rights",
+                    "Article 32 is narrower but more powerful in constitutional context"
+                ]
+            },
+            {
+                "heading": "Importance of Article 32",
+                "points": [
+                    "Acts as a protector of Fundamental Rights",
+                    "Provides direct access to Supreme Court",
+                    "Ensures judicial enforcement of rights",
+                    "Strengthens rule of law and constitutional supremacy"
+                ]
+            },
+            {
+                "heading": "Suspension of Article 32",
+                "points": [
+                    "Article 32 can be suspended during National Emergency under Article 359",
+                    "However, after 44th Amendment, protection of Articles 20 and 21 remains",
+                    "Suspension limits enforcement of Fundamental Rights temporarily",
+                    "Used in exceptional national situations only"
+                ]
+            },
+            {
+                "heading": "Judicial Significance",
+                "points": [
+                    "Supreme Court has expanded its role through PIL (Public Interest Litigation)",
+                    "Writ jurisdiction is a powerful tool for justice delivery",
+                    "Ensures accountability of State authorities",
+                    "Forms backbone of constitutional democracy"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Article 32 is itself a Fundamental Right",
+                    "It enables direct access to Supreme Court",
+                    "It provides five types of writs",
+                    "It is called the 'heart and soul' of the Constitution"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Right to Constitutional Remedies is under:",
+                    "options": ["Article 19", "Article 21", "Article 32", "Article 226"],
+                    "answer": "Article 32"
+                },
+                {
+                    "question": "Article 32 is called:",
+                    "options": [
+                        "Soul of Constitution",
+                        "Heart and soul of Constitution",
+                        "Basic structure",
+                        "Directive principle"
+                    ],
+                    "answer": "Heart and soul of Constitution"
+                },
+                {
+                    "question": "Which court can be directly approached under Article 32?",
+                    "options": ["High Court", "Supreme Court", "District Court", "Tribunal"],
+                    "answer": "Supreme Court"
+                },
+                {
+                    "question": "How many writs are there under Article 32?",
+                    "options": ["3", "4", "5", "6"],
+                    "answer": "5"
+                },
+                {
+                    "question": "Article 32 is a:",
+                    "options": [
+                        "Directive Principle",
+                        "Fundamental Right",
+                        "Ordinary law",
+                        "Emergency provision"
+                    ],
+                    "answer": "Fundamental Right"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which writ is used to release a person from illegal detention?",
+                    "options": [
+                        "Mandamus",
+                        "Habeas Corpus",
+                        "Certiorari",
+                        "Quo Warranto"
+                    ],
+                    "answer": "Habeas Corpus"
+                },
+                {
+                    "question": "Article 226 is related to:",
+                    "options": [
+                        "Supreme Court only",
+                        "High Courts",
+                        "Parliament",
+                        "President"
+                    ],
+                    "answer": "High Courts"
+                },
+                {
+                    "question": "Which writ is used to stop an inferior court from exceeding jurisdiction?",
+                    "options": [
+                        "Habeas Corpus",
+                        "Mandamus",
+                        "Prohibition",
+                        "Quo Warranto"
+                    ],
+                    "answer": "Prohibition"
+                },
+                {
+                    "question": "Article 32 can be suspended during:",
+                    "options": [
+                        "Financial Emergency",
+                        "National Emergency",
+                        "State Emergency",
+                        "Judicial Review"
+                    ],
+                    "answer": "National Emergency"
+                },
+                {
+                    "question": "Which writ challenges illegal occupation of public office?",
+                    "options": [
+                        "Mandamus",
+                        "Quo Warranto",
+                        "Certiorari",
+                        "Prohibition"
+                    ],
+                    "answer": "Quo Warranto"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Article 32 can be used for all legal rights\n2. Article 32 is a Fundamental Right\n3. It provides writ jurisdiction",
+                    "options": ["2 and 3", "1 and 2", "3 only", "All"],
+                    "answer": "2 and 3"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Article 32 is optional",
+                        "Article 32 is not enforceable",
+                        "Article 32 is enforceable Fundamental Right",
+                        "Article 32 is only advisory"
+                    ],
+                    "answer": "Article 32 is enforceable Fundamental Right"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Article 32 provides writs",
+                        "Article 32 protects Fundamental Rights",
+                        "Article 32 applies to High Courts",
+                        "Article 32 is a Fundamental Right"
+                    ],
+                    "answer": "Article 32 applies to High Courts"
+                },
+                {
+                    "question": "Main objective of Article 32 is:",
+                    "options": [
+                        "Tax collection",
+                        "Enforcement of Fundamental Rights",
+                        "Election control",
+                        "Executive power expansion"
+                    ],
+                    "answer": "Enforcement of Fundamental Rights"
+                },
+                {
+                    "question": "Which Article is broader in jurisdiction?",
+                    "options": [
+                        "Article 32",
+                        "Article 14",
+                        "Article 19",
+                        "Article 21"
+                    ],
+                    "answer": "Article 226"
+                }
+            ]
+        }
+    },
+
+    {
+        "name": "Writs – Types and Scope (Article 32 & Article 226)",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Writs are formal written orders issued by the Supreme Court or High Courts",
+                    "They are used to enforce Fundamental Rights and legal rights",
+                    "They form the backbone of judicial protection in India",
+                    "Derived from English common law system"
+                ]
+            },
+            {
+                "heading": "Constitutional Basis of Writs",
+                "points": [
+                    "Article 32: Supreme Court can issue writs for enforcement of Fundamental Rights",
+                    "Article 226: High Courts can issue writs for Fundamental Rights and other legal rights",
+                    "Article 32 is a Fundamental Right itself",
+                    "Article 226 has wider jurisdiction than Article 32"
+                ]
+            },
+            {
+                "heading": "Types of Writs in India",
+                "points": [
+                    "Habeas Corpus",
+                    "Mandamus",
+                    "Prohibition",
+                    "Certiorari",
+                    "Quo Warranto"
+                ]
+            },
+            {
+                "heading": "Habeas Corpus",
+                "points": [
+                    "Meaning: 'To have the body'",
+                    "Issued to release a person from illegal detention",
+                    "Protects personal liberty",
+                    "Can be filed by any person on behalf of detained individual"
+                ]
+            },
+            {
+                "heading": "Mandamus",
+                "points": [
+                    "Meaning: 'We command'",
+                    "Issued to compel a public authority to perform its duty",
+                    "Cannot be issued against private individuals or President/Governor",
+                    "Ensures performance of legal obligations"
+                ]
+            },
+            {
+                "heading": "Prohibition",
+                "points": [
+                    "Issued by a higher court to a lower court or tribunal",
+                    "Prevents lower court from exceeding jurisdiction",
+                    "Issued only against judicial or quasi-judicial bodies",
+                    "Acts as a preventive remedy"
+                ]
+            },
+            {
+                "heading": "Certiorari",
+                "points": [
+                    "Issued by higher court to quash order of lower court or tribunal",
+                    "Corrects errors of jurisdiction or law",
+                    "Acts as both preventive and curative remedy",
+                    "Transferred case to higher authority"
+                ]
+            },
+            {
+                "heading": "Quo Warranto",
+                "points": [
+                    "Meaning: 'By what authority'",
+                    "Questions legality of a person holding public office",
+                    "Prevents illegal occupation of public posts",
+                    "Can be filed by any person"
+                ]
+            },
+            {
+                "heading": "Scope of Writ Jurisdiction",
+                "points": [
+                    "Protect Fundamental Rights under Article 32",
+                    "Protect legal rights under Article 226",
+                    "Ensure accountability of public authorities",
+                    "Provide quick constitutional remedies"
+                ]
+            },
+            {
+                "heading": "Difference between Article 32 and Article 226",
+                "points": [
+                    "Article 32: Supreme Court only",
+                    "Article 226: High Courts",
+                    "Article 32: Only Fundamental Rights",
+                    "Article 226: Fundamental + other legal rights",
+                    "Article 226 has wider scope than Article 32"
+                ]
+            },
+            {
+                "heading": "Importance of Writs",
+                "points": [
+                    "Protect individual liberty",
+                    "Ensure rule of law",
+                    "Control misuse of power by authorities",
+                    "Provide speedy justice"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Five writs are borrowed from English law",
+                    "Article 32 is itself a Fundamental Right",
+                    "Article 226 has wider jurisdiction than Article 32",
+                    "Quo Warranto can be filed by any person (locus standi not required)"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "How many writs are there in India?",
+                    "options": ["3", "4", "5", "6"],
+                    "answer": "5"
+                },
+                {
+                    "question": "Which writ is used for illegal detention?",
+                    "options": [
+                        "Mandamus",
+                        "Habeas Corpus",
+                        "Certiorari",
+                        "Quo Warranto"
+                    ],
+                    "answer": "Habeas Corpus"
+                },
+                {
+                    "question": "Article 32 is related to:",
+                    "options": [
+                        "High Courts",
+                        "Supreme Court",
+                        "Parliament",
+                        "President"
+                    ],
+                    "answer": "Supreme Court"
+                },
+                {
+                    "question": "Mandamus means:",
+                    "options": [
+                        "We command",
+                        "To have the body",
+                        "By what authority",
+                        "To quash"
+                    ],
+                    "answer": "We command"
+                },
+                {
+                    "question": "Which writ is used to question legality of a public office holder?",
+                    "options": [
+                        "Habeas Corpus",
+                        "Quo Warranto",
+                        "Mandamus",
+                        "Prohibition"
+                    ],
+                    "answer": "Quo Warranto"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which writ is preventive in nature?",
+                    "options": [
+                        "Habeas Corpus",
+                        "Mandamus",
+                        "Prohibition",
+                        "Quo Warranto"
+                    ],
+                    "answer": "Prohibition"
+                },
+                {
+                    "question": "Which writ can quash a lower court order?",
+                    "options": [
+                        "Certiorari",
+                        "Mandamus",
+                        "Habeas Corpus",
+                        "Quo Warranto"
+                    ],
+                    "answer": "Certiorari"
+                },
+                {
+                    "question": "Article 226 is exercised by:",
+                    "options": [
+                        "Supreme Court",
+                        "High Courts",
+                        "Parliament",
+                        "Election Commission"
+                    ],
+                    "answer": "High Courts"
+                },
+                {
+                    "question": "Which writ cannot be issued against private individuals?",
+                    "options": [
+                        "Habeas Corpus",
+                        "Mandamus",
+                        "Quo Warranto",
+                        "All of the above"
+                    ],
+                    "answer": "Mandamus"
+                },
+                {
+                    "question": "Article 226 covers:",
+                    "options": [
+                        "Only Fundamental Rights",
+                        "Only legal rights",
+                        "Fundamental + legal rights",
+                        "Only constitutional amendments"
+                    ],
+                    "answer": "Fundamental + legal rights"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Habeas Corpus protects personal liberty\n2. Mandamus can be issued against President\n3. Quo Warranto can be filed by any person",
+                    "options": ["1 and 3", "2 and 3", "1 and 2", "All"],
+                    "answer": "1 and 3"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Article 32 has wider scope than Article 226",
+                        "Article 226 has wider scope than Article 32",
+                        "Both have equal scope",
+                        "Neither has judicial power"
+                    ],
+                    "answer": "Article 226 has wider scope than Article 32"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Certiorari quashes lower court order",
+                        "Prohibition prevents excess jurisdiction",
+                        "Mandamus is issued against private individuals",
+                        "Habeas Corpus protects liberty"
+                    ],
+                    "answer": "Mandamus is issued against private individuals"
+                },
+                {
+                    "question": "Main purpose of writs is:",
+                    "options": [
+                        "Tax collection",
+                        "Enforcement of rights",
+                        "Military control",
+                        "Election process"
+                    ],
+                    "answer": "Enforcement of rights"
+                },
+                {
+                    "question": "Which writ is both preventive and corrective?",
+                    "options": [
+                        "Habeas Corpus",
+                        "Mandamus",
+                        "Certiorari",
+                        "Quo Warranto"
+                    ],
+                    "answer": "Certiorari"
+                }
+            ]
+        }
+    },
+
+    {
+        "name": "Armed Forces and Fundamental Rights (Article 33)",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Article 33 empowers Parliament to modify Fundamental Rights for armed forces",
+                    "It ensures discipline and proper functioning of armed forces, police, and intelligence agencies",
+                    "It is an exception to the general application of Fundamental Rights",
+                    "It balances individual rights with national security needs"
+                ]
+            },
+            {
+                "heading": "Purpose of Article 33",
+                "points": [
+                    "To maintain discipline in armed forces",
+                    "To ensure operational efficiency and confidentiality",
+                    "To restrict certain Fundamental Rights where necessary",
+                    "To protect national security and integrity"
+                ]
+            },
+            {
+                "heading": "Who is Covered under Article 33",
+                "points": [
+                    "Members of the Armed Forces (Army, Navy, Air Force)",
+                    "Police personnel",
+                    "Intelligence agencies",
+                    "Other forces engaged in maintaining public order",
+                    "Any other force specified by Parliament"
+                ]
+            },
+            {
+                "heading": "Powers of Parliament under Article 33",
+                "points": [
+                    "Parliament can restrict or abrogate Fundamental Rights for armed forces",
+                    "It can determine the extent of such restrictions",
+                    "Applicable through laws made by Parliament only",
+                    "Cannot be exercised by State Legislatures"
+                ]
+            },
+            {
+                "heading": "Impact on Fundamental Rights",
+                "points": [
+                    "Freedom of speech (Article 19) may be restricted",
+                    "Right to form associations may be limited",
+                    "Right to equality may be modified in service conditions",
+                    "Disciplinary laws override certain rights for service members"
+                ]
+            },
+            {
+                "heading": "Important Features",
+                "points": [
+                    "Not all Fundamental Rights are removed, only modified",
+                    "Restrictions must be reasonable for discipline",
+                    "Applied only to specific forces, not general public",
+                    "Ensures balance between liberty and discipline"
+                ]
+            },
+            {
+                "heading": "Examples of Application",
+                "points": [
+                    "Restrictions on union formation in armed forces",
+                    "Limitations on speech regarding confidential matters",
+                    "Special disciplinary rules under Army Act, Navy Act, Air Force Act",
+                    "Different service conditions from civilians"
+                ]
+            },
+            {
+                "heading": "Judicial Interpretation",
+                "points": [
+                    "Courts recognize necessity of discipline in armed forces",
+                    "Judicial review is limited in operational matters",
+                    "However, arbitrary restrictions can still be challenged",
+                    "Balance maintained between security and rights"
+                ]
+            },
+            {
+                "heading": "Importance of Article 33",
+                "points": [
+                    "Ensures strong and disciplined armed forces",
+                    "Protects national security interests",
+                    "Prevents misuse of Fundamental Rights in service context",
+                    "Maintains operational secrecy and efficiency"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Article 33 applies only to specific forces, not civilians",
+                    "Only Parliament can make laws under Article 33",
+                    "Fundamental Rights are restricted, not completely removed",
+                    "Focus is on discipline and national security"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Article 33 deals with:",
+                    "options": [
+                        "Judicial review",
+                        "Armed forces and Fundamental Rights",
+                        "Election process",
+                        "Taxation"
+                    ],
+                    "answer": "Armed forces and Fundamental Rights"
+                },
+                {
+                    "question": "Article 33 is related to:",
+                    "options": [
+                        "Parliamentary privileges",
+                        "Restriction of Fundamental Rights",
+                        "Local government",
+                        "Religious freedom"
+                    ],
+                    "answer": "Restriction of Fundamental Rights"
+                },
+                {
+                    "question": "Article 33 applies to:",
+                    "options": [
+                        "All citizens",
+                        "Only judges",
+                        "Armed forces",
+                        "Only Parliament"
+                    ],
+                    "answer": "Armed forces"
+                },
+                {
+                    "question": "Who can make laws under Article 33?",
+                    "options": [
+                        "State Legislature",
+                        "Parliament",
+                        "President",
+                        "Supreme Court"
+                    ],
+                    "answer": "Parliament"
+                },
+                {
+                    "question": "Main purpose of Article 33 is:",
+                    "options": [
+                        "Increase taxation",
+                        "Maintain discipline in armed forces",
+                        "Promote elections",
+                        "Religious freedom"
+                    ],
+                    "answer": "Maintain discipline in armed forces"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which of the following can be restricted under Article 33?",
+                    "options": [
+                        "Right to vote",
+                        "Freedom of speech in service matters",
+                        "Right to property",
+                        "Right to education"
+                    ],
+                    "answer": "Freedom of speech in service matters"
+                },
+                {
+                    "question": "Article 33 empowers:",
+                    "options": [
+                        "Supreme Court",
+                        "Parliament",
+                        "State Governments",
+                        "Election Commission"
+                    ],
+                    "answer": "Parliament"
+                },
+                {
+                    "question": "Which of the following is NOT covered under Article 33?",
+                    "options": [
+                        "Army personnel",
+                        "Police forces",
+                        "Civilians",
+                        "Intelligence agencies"
+                    ],
+                    "answer": "Civilians"
+                },
+                {
+                    "question": "Restrictions under Article 33 are meant for:",
+                    "options": [
+                        "Economic development",
+                        "National security and discipline",
+                        "Tax collection",
+                        "Religious control"
+                    ],
+                    "answer": "National security and discipline"
+                },
+                {
+                    "question": "Fundamental Rights under Article 33 are:",
+                    "options": [
+                        "Fully abolished",
+                        "Modified or restricted",
+                        "Strengthened",
+                        "Unchanged"
+                    ],
+                    "answer": "Modified or restricted"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Article 33 applies to civilians\n2. Parliament can restrict Fundamental Rights under Article 33\n3. Purpose is to maintain discipline in armed forces",
+                    "options": ["2 and 3", "1 and 2", "3 only", "All"],
+                    "answer": "2 and 3"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Article 33 removes all Fundamental Rights",
+                        "Article 33 allows modification of rights for armed forces",
+                        "Article 33 applies to judiciary",
+                        "Article 33 is related to elections"
+                    ],
+                    "answer": "Article 33 allows modification of rights for armed forces"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Article 33 ensures discipline",
+                        "Article 33 applies to police forces",
+                        "Article 33 applies to civilians",
+                        "Article 33 is for armed forces"
+                    ],
+                    "answer": "Article 33 applies to civilians"
+                },
+                {
+                    "question": "Main objective of Article 33 is:",
+                    "options": [
+                        "Political rights expansion",
+                        "Military discipline and national security",
+                        "Judicial expansion",
+                        "Tax reform"
+                    ],
+                    "answer": "Military discipline and national security"
+                },
+                {
+                    "question": "Which body has exclusive power under Article 33?",
+                    "options": [
+                        "State Legislature",
+                        "Parliament",
+                        "Supreme Court",
+                        "President"
+                    ],
+                    "answer": "Parliament"
+                }
+            ]
+        }
+    },
+
+    {
+        "name": "Martial Law and Fundamental Rights (Article 34)",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Article 34 deals with Martial Law and its effect on Fundamental Rights",
+                    "It allows Parliament to indemnify persons for acts done during martial law",
+                    "It is an exceptional provision for maintaining public order in extreme situations",
+                    "It is different from National Emergency (Article 352)"
+                ]
+            },
+            {
+                "heading": "Meaning of Martial Law",
+                "points": [
+                    "Martial Law means military rule imposed in a specific area",
+                    "It is declared in extraordinary situations like war, rebellion, or breakdown of civil authority",
+                    "Civil administration is temporarily replaced by military authority",
+                    "Fundamental Rights may be restricted during such periods"
+                ]
+            },
+            {
+                "heading": "Article 34 – Key Provisions",
+                "points": [
+                    "Parliament can indemnify (protect from legal action) any person for acts done during martial law",
+                    "Parliament can validate acts done under martial law that would otherwise be illegal",
+                    "It can also restrict Fundamental Rights in areas under martial law",
+                    "Law made under Article 34 applies retrospectively"
+                ]
+            },
+            {
+                "heading": "Purpose of Article 34",
+                "points": [
+                    "To maintain public order during extreme emergencies",
+                    "To protect officials and armed forces acting under martial law",
+                    "To ensure legal immunity for necessary actions taken in disturbed areas",
+                    "To restore normal governance after crisis"
+                ]
+            },
+            {
+                "heading": "Difference between Martial Law and National Emergency",
+                "points": [
+                    "Martial Law: Military takes over administration in a specific area",
+                    "National Emergency: Constitutional machinery continues under President’s rule",
+                    "Martial Law suspends civil authority locally",
+                    "Emergency under Article 352 applies to whole or part of India with civil administration intact"
+                ]
+            },
+            {
+                "heading": "Judicial Aspect",
+                "points": [
+                    "Martial Law is not explicitly defined in the Constitution",
+                    "Courts generally do not interfere during martial law enforcement actions",
+                    "However, Parliament controls legality through indemnity laws",
+                    "Actions are subject to constitutional validation post-crisis"
+                ]
+            },
+            {
+                "heading": "Limitations",
+                "points": [
+                    "Martial Law does not automatically suspend the Constitution",
+                    "It is not a permanent system of governance",
+                    "Must be followed by parliamentary approval for legal protection",
+                    "Cannot be used as a routine governance tool"
+                ]
+            },
+            {
+                "heading": "Importance of Article 34",
+                "points": [
+                    "Provides legal protection for actions during extreme crises",
+                    "Helps restore order in disturbed regions",
+                    "Balances necessity and legality in emergency governance",
+                    "Ensures accountability after crisis period ends"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Martial Law is different from National Emergency",
+                    "Article 34 empowers Parliament to indemnify actions",
+                    "It applies only in exceptional disturbed situations",
+                    "It has retrospective legal effect"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Article 34 is related to:",
+                    "options": [
+                        "National Emergency",
+                        "Martial Law",
+                        "Financial Emergency",
+                        "President's Rule"
+                    ],
+                    "answer": "Martial Law"
+                },
+                {
+                    "question": "Martial Law means:",
+                    "options": [
+                        "Civil government rule",
+                        "Military rule in a region",
+                        "Judicial rule",
+                        "Parliamentary rule"
+                    ],
+                    "answer": "Military rule in a region"
+                },
+                {
+                    "question": "Article 34 empowers:",
+                    "options": [
+                        "Supreme Court",
+                        "Parliament",
+                        "President",
+                        "State Legislature"
+                    ],
+                    "answer": "Parliament"
+                },
+                {
+                    "question": "Martial Law is imposed in:",
+                    "options": [
+                        "Peaceful conditions",
+                        "Normal administration",
+                        "Extraordinary disturbed situations",
+                        "Election periods only"
+                    ],
+                    "answer": "Extraordinary disturbed situations"
+                },
+                {
+                    "question": "Main purpose of Article 34 is:",
+                    "options": [
+                        "Tax collection",
+                        "Legal protection during martial law",
+                        "Election control",
+                        "Judicial independence"
+                    ],
+                    "answer": "Legal protection during martial law"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which of the following is true about Martial Law?",
+                    "options": [
+                        "It is defined in the Constitution",
+                        "It replaces civil administration temporarily",
+                        "It is permanent",
+                        "It applies nationwide always"
+                    ],
+                    "answer": "It replaces civil administration temporarily"
+                },
+                {
+                    "question": "Article 34 allows:",
+                    "options": [
+                        "Suspension of Parliament",
+                        "Indemnity for actions during martial law",
+                        "Tax exemption",
+                        "Judicial elections"
+                    ],
+                    "answer": "Indemnity for actions during martial law"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Martial law is same as National Emergency",
+                        "Martial law is not defined in Constitution",
+                        "Martial law is permanent governance system",
+                        "Martial law is declared by President only under Article 352"
+                    ],
+                    "answer": "Martial law is not defined in Constitution"
+                },
+                {
+                    "question": "Parliament under Article 34 can:",
+                    "options": [
+                        "Punish officials for martial law acts",
+                        "Give legal protection for martial law acts",
+                        "Declare elections",
+                        "Suspend Supreme Court"
+                    ],
+                    "answer": "Give legal protection for martial law acts"
+                },
+                {
+                    "question": "Martial law primarily affects:",
+                    "options": [
+                        "Entire Constitution permanently",
+                        "Local civil administration",
+                        "Parliament structure",
+                        "Tax system"
+                    ],
+                    "answer": "Local civil administration"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Martial Law is defined in the Constitution\n2. Article 34 allows indemnity for actions\n3. Martial Law is different from National Emergency",
+                    "options": ["2 and 3", "1 and 2", "3 only", "All"],
+                    "answer": "2 and 3"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Martial Law suspends Constitution completely",
+                        "Martial Law replaces civil authority locally",
+                        "Martial Law is same as President’s Rule",
+                        "Martial Law is declared by Parliament"
+                    ],
+                    "answer": "Martial Law replaces civil authority locally"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Article 34 provides indemnity",
+                        "Martial Law is constitutional emergency",
+                        "Martial Law is same as National Emergency",
+                        "Parliament can validate acts under Article 34"
+                    ],
+                    "answer": "Martial Law is same as National Emergency"
+                },
+                {
+                    "question": "Main objective of Martial Law provision is:",
+                    "options": [
+                        "Economic reform",
+                        "Maintaining order in extreme situations",
+                        "Tax enforcement",
+                        "Judicial independence"
+                    ],
+                    "answer": "Maintaining order in extreme situations"
+                },
+                {
+                    "question": "Article 34 is mainly used for:",
+                    "options": [
+                        "Routine governance",
+                        "Legal protection after disturbed conditions",
+                        "Election management",
+                        "Budget approval"
+                    ],
+                    "answer": "Legal protection after disturbed conditions"
+                }
+            ]
+        }
+    },
+
+    {
+        "name": "Effecting Certain Fundamental Rights (Articles 35 & 36–51 Contextual Limits)",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Certain provisions of the Constitution empower the State to regulate or limit Fundamental Rights",
+                    "These provisions ensure balance between individual liberty and social order",
+                    "Article 35 specifically deals with enforcement of some Fundamental Rights",
+                    "These limitations are necessary for effective governance and uniform application of laws"
+                ]
+            },
+            {
+                "heading": "Article 35 – Legislation to Give Effect to Certain Fundamental Rights",
+                "points": [
+                    "Only Parliament has the power to make laws for giving effect to certain Fundamental Rights",
+                    "Ensures uniformity across India in implementation of these rights",
+                    "State legislatures cannot make laws in these specific matters unless empowered",
+                    "Mainly relates to Articles 16, 32, 33, 34, and certain penal provisions"
+                ]
+            },
+            {
+                "heading": "Key Areas Covered under Article 35",
+                "points": [
+                    "Power to prescribe punishment for acts violating Fundamental Rights",
+                    "Implementation of Article 16 (equality in public employment reservations)",
+                    "Implementation of Article 33 (armed forces restrictions)",
+                    "Implementation of Article 34 (martial law provisions)"
+                ]
+            },
+            {
+                "heading": "Importance of Article 35",
+                "points": [
+                    "Ensures consistency in enforcement of Fundamental Rights",
+                    "Centralizes legislative power for sensitive rights issues",
+                    "Prevents conflict between State and Union laws",
+                    "Strengthens constitutional uniformity across India"
+                ]
+            },
+            {
+                "heading": "Effect of Constitutional Provisions on Fundamental Rights",
+                "points": [
+                    "Fundamental Rights are not absolute in nature",
+                    "They are subject to reasonable restrictions imposed by the State",
+                    "Parliament has special powers to regulate certain rights",
+                    "Some rights may be modified in special situations like armed forces or emergency"
+                ]
+            },
+            {
+                "heading": "Judicial Interpretation",
+                "points": [
+                    "Courts uphold legislative restrictions if they are reasonable",
+                    "Parliament’s exclusive power under Article 35 is strictly interpreted",
+                    "Judicial review ensures restrictions do not violate basic structure",
+                    "Balance is maintained between rights and governance needs"
+                ]
+            },
+            {
+                "heading": "Limitations on Fundamental Rights (General Principle)",
+                "points": [
+                    "Public order, morality, and health can restrict rights",
+                    "Security of State is a valid ground for restriction",
+                    "Parliament may impose special provisions for specific groups",
+                    "Rights may be curtailed but not destroyed"
+                ]
+            },
+            {
+                "heading": "Importance of Effecting Provisions",
+                "points": [
+                    "Help in practical implementation of Fundamental Rights",
+                    "Ensure national uniformity in law enforcement",
+                    "Support governance in sensitive areas like security and discipline",
+                    "Maintain balance between liberty and national interest"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Article 35 gives exclusive power to Parliament in certain cases",
+                    "It ensures uniform application of Fundamental Rights laws",
+                    "It is linked with Articles 16, 33, and 34",
+                    "Fundamental Rights are subject to reasonable restrictions"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Article 35 is related to:",
+                    "options": [
+                        "Judicial review",
+                        "Legislation to enforce Fundamental Rights",
+                        "Election process",
+                        "Religious freedom"
+                    ],
+                    "answer": "Legislation to enforce Fundamental Rights"
+                },
+                {
+                    "question": "Who can make laws under Article 35?",
+                    "options": [
+                        "State Legislature",
+                        "Parliament",
+                        "Supreme Court",
+                        "President"
+                    ],
+                    "answer": "Parliament"
+                },
+                {
+                    "question": "Fundamental Rights are:",
+                    "options": [
+                        "Absolute",
+                        "Flexible with restrictions",
+                        "Non-constitutional",
+                        "Optional"
+                    ],
+                    "answer": "Flexible with restrictions"
+                },
+                {
+                    "question": "Article 35 ensures:",
+                    "options": [
+                        "State supremacy",
+                        "Uniform laws for Fundamental Rights",
+                        "Judicial dominance",
+                        "Emergency rules only"
+                    ],
+                    "answer": "Uniform laws for Fundamental Rights"
+                },
+                {
+                    "question": "Fundamental Rights can be restricted on grounds of:",
+                    "options": [
+                        "Public order",
+                        "Private interest",
+                        "Political gain",
+                        "None"
+                    ],
+                    "answer": "Public order"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Article 35 is mainly related to:",
+                    "options": [
+                        "Religion",
+                        "Implementation of Fundamental Rights",
+                        "Taxation",
+                        "Foreign policy"
+                    ],
+                    "answer": "Implementation of Fundamental Rights"
+                },
+                {
+                    "question": "Which of the following is correct?",
+                    "options": [
+                        "States have full power under Article 35",
+                        "Parliament has exclusive power under Article 35",
+                        "Judiciary makes laws under Article 35",
+                        "President alone enforces Article 35"
+                    ],
+                    "answer": "Parliament has exclusive power under Article 35"
+                },
+                {
+                    "question": "Article 35 is linked with:",
+                    "options": [
+                        "Article 14 only",
+                        "Articles 16, 33, and 34",
+                        "Article 19 only",
+                        "Article 21 only"
+                    ],
+                    "answer": "Articles 16, 33, and 34"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Fundamental Rights cannot be restricted",
+                        "Fundamental Rights are subject to reasonable restrictions",
+                        "Fundamental Rights are advisory only",
+                        "Fundamental Rights apply only to Parliament"
+                    ],
+                    "answer": "Fundamental Rights are subject to reasonable restrictions"
+                },
+                {
+                    "question": "Main objective of Article 35 is:",
+                    "options": [
+                        "To weaken Fundamental Rights",
+                        "To ensure uniform enforcement",
+                        "To remove judiciary",
+                        "To control elections"
+                    ],
+                    "answer": "To ensure uniform enforcement"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Article 35 gives power to State Legislatures\n2. Article 35 ensures uniform enforcement of Fundamental Rights\n3. Fundamental Rights are absolute",
+                    "options": ["2 only", "1 and 2", "2 and 3", "All"],
+                    "answer": "2 only"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Article 35 decentralizes enforcement of Fundamental Rights",
+                        "Article 35 centralizes law-making power in Parliament",
+                        "Article 35 abolishes Fundamental Rights",
+                        "Article 35 applies only during emergencies"
+                    ],
+                    "answer": "Article 35 centralizes law-making power in Parliament"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Fundamental Rights can be restricted",
+                        "Article 35 empowers Parliament",
+                        "States have exclusive power under Article 35",
+                        "Uniformity is ensured under Article 35"
+                    ],
+                    "answer": "States have exclusive power under Article 35"
+                },
+                {
+                    "question": "Main significance of Article 35 is:",
+                    "options": [
+                        "Judicial supremacy",
+                        "Uniform implementation of rights",
+                        "Economic control",
+                        "Military governance"
+                    ],
+                    "answer": "Uniform implementation of rights"
+                },
+                {
+                    "question": "Fundamental Rights are:",
+                    "options": [
+                        "Absolute and unchangeable",
+                        "Subject to reasonable restrictions",
+                        "Only moral guidelines",
+                        "Not enforceable"
+                    ],
+                    "answer": "Subject to reasonable restrictions"
+                }
+            ]
+        }
+    },
+
+    {
+        "name": "Present Position of Right to Property",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Right to Property was originally a Fundamental Right under Article 31",
+                    "It is no longer a Fundamental Right after the 44th Constitutional Amendment Act, 1978",
+                    "It is now a Constitutional/legal right under Article 300A",
+                    "It can be regulated and taken away only by authority of law"
+                ]
+            },
+            {
+                "heading": "Original Position (Before 1978)",
+                "points": [
+                    "Right to Property was part of Fundamental Rights under Articles 19(1)(f) and 31",
+                    "Citizens had the right to acquire, hold and dispose of property",
+                    "State faced restrictions on acquiring private property",
+                    "It created conflicts between individual rights and social welfare policies"
+                ]
+            },
+            {
+                "heading": "Problems with Fundamental Right Status",
+                "points": [
+                    "Hindered land reforms and redistribution policies",
+                    "Led to excessive litigation against land acquisition laws",
+                    "Created imbalance between social justice and private ownership",
+                    "Repeated constitutional amendments were needed to bypass restrictions"
+                ]
+            },
+            {
+                "heading": "44th Constitutional Amendment Act, 1978",
+                "points": [
+                    "Removed Right to Property from Fundamental Rights",
+                    "Deleted Article 19(1)(f) and Article 31",
+                    "Inserted Article 300A in Part XII of the Constitution",
+                    "Shifted property right from Fundamental Rights to legal/constitutional right"
+                ]
+            },
+            {
+                "heading": "Article 300A – Present Position",
+                "points": [
+                    "No person shall be deprived of property except by authority of law",
+                    "Ensures protection against arbitrary deprivation of property",
+                    "Does not guarantee Fundamental Right status",
+                    "State can acquire property through valid legislation"
+                ]
+            },
+            {
+                "heading": "Key Features of Present Position",
+                "points": [
+                    "Right to Property is no longer Fundamental Right",
+                    "It is a constitutional legal right",
+                    "It can be regulated by law enacted by Parliament or State Legislature",
+                    "It is enforceable through courts under Article 300A"
+                ]
+            },
+            {
+                "heading": "Judicial Interpretation",
+                "points": [
+                    "Courts have held that deprivation of property must be legal and non-arbitrary",
+                    "Compensation is not always mandatory but must follow fair procedure",
+                    "Article 300A ensures rule of law in property matters",
+                    "State action must be backed by valid legislation"
+                ]
+            },
+            {
+                "heading": "Impact of Change",
+                "points": [
+                    "Facilitated land reforms and redistribution policies",
+                    "Reduced litigation against government acquisition",
+                    "Strengthened social welfare policies",
+                    "Balanced private rights with public interest"
+                ]
+            },
+            {
+                "heading": "Importance in Present Context",
+                "points": [
+                    "Supports infrastructure development and land acquisition",
+                    "Ensures legal protection against arbitrary state action",
+                    "Maintains balance between individual rights and public welfare",
+                    "Allows government flexibility in economic planning"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Right to Property is not a Fundamental Right today",
+                    "It is protected under Article 300A",
+                    "Removed by 44th Constitutional Amendment Act, 1978",
+                    "Deprivation of property must be by authority of law only"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Right to Property is now a:",
+                    "options": [
+                        "Fundamental Right",
+                        "Legal Right",
+                        "Directive Principle",
+                        "Natural Right only"
+                    ],
+                    "answer": "Legal Right"
+                },
+                {
+                    "question": "Right to Property is under:",
+                    "options": [
+                        "Article 19",
+                        "Article 21",
+                        "Article 300A",
+                        "Article 32"
+                    ],
+                    "answer": "Article 300A"
+                },
+                {
+                    "question": "Right to Property was removed from Fundamental Rights by:",
+                    "options": [
+                        "42nd Amendment",
+                        "44th Amendment",
+                        "52nd Amendment",
+                        "86th Amendment"
+                    ],
+                    "answer": "44th Amendment"
+                },
+                {
+                    "question": "Original Article related to property as Fundamental Right was:",
+                    "options": [
+                        "Article 21",
+                        "Article 31",
+                        "Article 19(1)(f)",
+                        "Both Article 31 and 19(1)(f)"
+                    ],
+                    "answer": "Both Article 31 and 19(1)(f)"
+                },
+                {
+                    "question": "Article 300A ensures deprivation of property only by:",
+                    "options": [
+                        "Executive order",
+                        "Authority of law",
+                        "Police action",
+                        "Judicial discretion"
+                    ],
+                    "answer": "Authority of law"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which of the following is correct?",
+                    "options": [
+                        "Right to Property is Fundamental Right",
+                        "Right to Property is constitutional legal right",
+                        "Right to Property is Directive Principle",
+                        "Right to Property is abolished"
+                    ],
+                    "answer": "Right to Property is constitutional legal right"
+                },
+                {
+                    "question": "Main reason for removing Right to Property as Fundamental Right was:",
+                    "options": [
+                        "To strengthen judiciary",
+                        "To promote land reforms",
+                        "To increase taxes",
+                        "To weaken Parliament"
+                    ],
+                    "answer": "To promote land reforms"
+                },
+                {
+                    "question": "Article 300A is part of:",
+                    "options": [
+                        "Part III",
+                        "Part IV",
+                        "Part XII",
+                        "Part I"
+                    ],
+                    "answer": "Part XII"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Property cannot be taken by State",
+                        "Property can be taken only by authority of law",
+                        "Property is absolute right",
+                        "Property is religious right"
+                    ],
+                    "answer": "Property can be taken only by authority of law"
+                },
+                {
+                    "question": "44th Amendment mainly aimed to:",
+                    "options": [
+                        "Restore property as Fundamental Right",
+                        "Remove property from Fundamental Rights",
+                        "Strengthen Article 21 only",
+                        "Abolish Constitution"
+                    ],
+                    "answer": "Remove property from Fundamental Rights"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Right to Property is Fundamental Right today\n2. Article 300A protects property from arbitrary deprivation\n3. 44th Amendment removed Article 31",
+                    "options": ["2 and 3", "1 and 2", "3 only", "All"],
+                    "answer": "2 and 3"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Property cannot be acquired by State",
+                        "Property can be acquired only through law",
+                        "Property is absolute Fundamental Right",
+                        "Property is not protected at all"
+                    ],
+                    "answer": "Property can be acquired only through law"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Article 300A protects property",
+                        "Right to Property is Fundamental Right",
+                        "44th Amendment removed property from FR",
+                        "Deprivation must be by law"
+                    ],
+                    "answer": "Right to Property is Fundamental Right"
+                },
+                {
+                    "question": "Main significance of present position is:",
+                    "options": [
+                        "Strengthening aristocracy",
+                        "Balancing welfare and rights",
+                        "Removing laws",
+                        "Weakening State"
+                    ],
+                    "answer": "Balancing welfare and rights"
+                },
+                {
+                    "question": "Article 300A ensures:",
+                    "options": [
+                        "No property rights exist",
+                        "Protection against arbitrary deprivation",
+                        "Unlimited property rights",
+                        "Tax exemption"
+                    ],
+                    "answer": "Protection against arbitrary deprivation"
+                }
+            ]
+        }
+    },
+
+    {
+        "name": "Exceptions to Fundamental Rights",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Fundamental Rights in India are not absolute in nature",
+                    "The Constitution itself provides certain exceptions and restrictions",
+                    "These exceptions ensure balance between individual liberty and public interest",
+                    "They allow the State to maintain security, order, and social justice"
+                ]
+            },
+            {
+                "heading": "General Nature of Exceptions",
+                "points": [
+                    "Fundamental Rights can be reasonably restricted by the State",
+                    "Restrictions must be backed by law, not arbitrary executive action",
+                    "They must be reasonable and in public interest",
+                    "Courts have power of judicial review over such restrictions"
+                ]
+            },
+            {
+                "heading": "Grounds for Restriction of Fundamental Rights",
+                "points": [
+                    "Public order",
+                    "Morality",
+                    "Health",
+                    "Security of the State",
+                    "Sovereignty and integrity of India",
+                    "Friendly relations with foreign states"
+                ]
+            },
+            {
+                "heading": "Constitutional Exceptions (Important Articles)",
+                "points": [
+                    "Article 19(2)–(6): Reasonable restrictions on freedoms under Article 19",
+                    "Article 20 & 21 cannot be suspended even during emergency (as per 44th Amendment)",
+                    "Article 33: Restrictions for armed forces and similar forces",
+                    "Article 34: Martial law provisions",
+                    "Article 35: Parliament’s exclusive power to enforce certain FR laws"
+                ]
+            },
+            {
+                "heading": "Emergency Provisions as Exceptions",
+                "points": [
+                    "During National Emergency (Article 352), Fundamental Rights can be suspended",
+                    "Article 358 suspends Article 19 automatically during emergency",
+                    "Article 359 allows suspension of enforcement of other rights (not rights themselves)",
+                    "After 44th Amendment, Articles 20 and 21 cannot be suspended under Article 359"
+                ]
+            },
+            {
+                "heading": "Doctrine of Reasonable Restrictions",
+                "points": [
+                    "Restrictions must not be arbitrary or excessive",
+                    "There must be a rational connection with public interest",
+                    "Courts decide whether restriction is reasonable",
+                    "Protects balance between liberty and governance"
+                ]
+            },
+            {
+                "heading": "Restrictions on Specific Rights",
+                "points": [
+                    "Article 19 rights are most heavily restricted through law",
+                    "Article 21 allows deprivation only by procedure established by law",
+                    "Religious freedom (Articles 25–28) subject to public order and morality",
+                    "Right to property (Article 300A) requires authority of law"
+                ]
+            },
+            {
+                "heading": "Judicial Role",
+                "points": [
+                    "Courts ensure restrictions are constitutional and not excessive",
+                    "Doctrine of proportionality is applied in modern judgments",
+                    "Fundamental structure of Constitution cannot be violated",
+                    "Judiciary acts as guardian of Fundamental Rights"
+                ]
+            },
+            {
+                "heading": "Importance of Exceptions",
+                "points": [
+                    "Maintains national security and public order",
+                    "Prevents misuse of Fundamental Rights",
+                    "Ensures balance between individual rights and collective welfare",
+                    "Supports effective governance in emergencies"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Fundamental Rights are not absolute",
+                    "Reasonable restrictions are an integral part of FR",
+                    "Emergency provisions create temporary suspension of rights",
+                    "Articles 20 and 21 are most protected even during emergencies"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Fundamental Rights in India are:",
+                    "options": [
+                        "Absolute",
+                        "Conditional with exceptions",
+                        "Non-justiciable",
+                        "Optional"
+                    ],
+                    "answer": "Conditional with exceptions"
+                },
+                {
+                    "question": "Which of the following is a ground for restricting Fundamental Rights?",
+                    "options": [
+                        "Personal opinion",
+                        "Public order",
+                        "Private interest",
+                        "Political gain"
+                    ],
+                    "answer": "Public order"
+                },
+                {
+                    "question": "Article 19 allows:",
+                    "options": [
+                        "Absolute freedom",
+                        "Reasonable restrictions",
+                        "No freedom",
+                        "Judicial control only"
+                    ],
+                    "answer": "Reasonable restrictions"
+                },
+                {
+                    "question": "During National Emergency, Article 19 is:",
+                    "options": [
+                        "Strengthened",
+                        "Automatically suspended",
+                        "Permanent",
+                        "Unchanged"
+                    ],
+                    "answer": "Automatically suspended"
+                },
+                {
+                    "question": "Article 33 deals with exceptions for:",
+                    "options": [
+                        "Judges",
+                        "Armed forces",
+                        "Parliament",
+                        "Citizens only"
+                    ],
+                    "answer": "Armed forces"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which of the following is NOT a ground for restriction?",
+                    "options": [
+                        "Public order",
+                        "Morality",
+                        "Political advantage",
+                        "Security of State"
+                    ],
+                    "answer": "Political advantage"
+                },
+                {
+                    "question": "Article 359 deals with:",
+                    "options": [
+                        "Taxation",
+                        "Suspension of enforcement of FR",
+                        "Election rules",
+                        "Judicial review"
+                    ],
+                    "answer": "Suspension of enforcement of FR"
+                },
+                {
+                    "question": "Which rights cannot be suspended during emergency (post 44th Amendment)?",
+                    "options": [
+                        "Article 14 and 15",
+                        "Articles 20 and 21",
+                        "Article 19 only",
+                        "All rights"
+                    ],
+                    "answer": "Articles 20 and 21"
+                },
+                {
+                    "question": "Doctrine of reasonable restrictions is reviewed by:",
+                    "options": [
+                        "Parliament",
+                        "Judiciary",
+                        "President",
+                        "Election Commission"
+                    ],
+                    "answer": "Judiciary"
+                },
+                {
+                    "question": "Article 35 gives power to:",
+                    "options": [
+                        "State Legislature",
+                        "Parliament",
+                        "Supreme Court",
+                        "Governor"
+                    ],
+                    "answer": "Parliament"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Fundamental Rights are absolute\n2. Reasonable restrictions are allowed\n3. Articles 20 and 21 are fully protected during emergency",
+                    "options": ["2 and 3", "1 and 2", "3 only", "All"],
+                    "answer": "2 and 3"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Fundamental Rights can never be restricted",
+                        "State can impose reasonable restrictions",
+                        "Only Parliament can restrict FR",
+                        "Courts cannot review restrictions"
+                    ],
+                    "answer": "State can impose reasonable restrictions"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Emergency allows suspension of FR",
+                        "Restrictions must be reasonable",
+                        "FR are always absolute",
+                        "Judiciary reviews restrictions"
+                    ],
+                    "answer": "FR are always absolute"
+                },
+                {
+                    "question": "Main purpose of exceptions to FR is:",
+                    "options": [
+                        "To abolish rights",
+                        "To balance liberty and governance",
+                        "To strengthen monarchy",
+                        "To remove judiciary"
+                    ],
+                    "answer": "To balance liberty and governance"
+                },
+                {
+                    "question": "Which doctrine is used to test restrictions today?",
+                    "options": [
+                        "Doctrine of equality",
+                        "Doctrine of proportionality",
+                        "Doctrine of sovereignty",
+                        "Doctrine of separation of powers"
+                    ],
+                    "answer": "Doctrine of proportionality"
+                }
+            ]
+        }
+    },
+
+    {
+        "name": "Criticism of Fundamental Rights",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Fundamental Rights (Part III) are the most important part of the Constitution",
+                    "However, they have been criticized on several constitutional and practical grounds",
+                    "Criticism mainly focuses on limitations, restrictions, and enforcement issues",
+                    "Despite criticism, they remain the backbone of Indian democracy"
+                ]
+            },
+            {
+                "heading": "Criticism: Too Many Restrictions",
+                "points": [
+                    "Fundamental Rights are not absolute",
+                    "They are subject to reasonable restrictions under various articles",
+                    "During emergencies, many rights can be suspended",
+                    "This reduces the real effectiveness of rights in practice"
+                ]
+            },
+            {
+                "heading": "Criticism: Suspension during Emergency",
+                "points": [
+                    "Rights under Article 19 can be suspended during National Emergency",
+                    "Enforcement of other rights can also be suspended under Article 359",
+                    "This creates fear of misuse of emergency provisions",
+                    "44th Amendment reduced but did not eliminate this issue"
+                ]
+            },
+            {
+                "heading": "Criticism: Complex and Lengthy Provisions",
+                "points": [
+                    "Fundamental Rights section is detailed and technical",
+                    "Multiple exceptions and explanations make it complex",
+                    "Difficult for common citizens to understand fully",
+                    "Requires judicial interpretation for clarity"
+                ]
+            },
+            {
+                "heading": "Criticism: No Social and Economic Rights",
+                "points": [
+                    "Initially, FR focused more on civil and political rights",
+                    "Social and economic rights were placed under DPSP (Part IV)",
+                    "This creates imbalance between rights and welfare duties",
+                    "Critics argue for stronger socio-economic guarantees"
+                ]
+            },
+            {
+                "heading": "Criticism: Delayed Justice",
+                "points": [
+                    "Enforcement of Fundamental Rights depends on courts",
+                    "Judicial process can be slow and expensive",
+                    "Poor citizens may find it difficult to approach courts",
+                    "PIL has improved access but problems remain"
+                ]
+            },
+            {
+                "heading": "Criticism: Ambiguity in Reasonable Restrictions",
+                "points": [
+                    "Terms like 'reasonable restrictions' are not clearly defined",
+                    "Leaves wide scope for interpretation by courts and State",
+                    "Can lead to inconsistency in judgments",
+                    "Sometimes used to justify excessive restrictions"
+                ]
+            },
+            {
+                "heading": "Criticism: Conflicts between Rights",
+                "points": [
+                    "Sometimes Fundamental Rights conflict with each other",
+                    "Example: Article 19 vs Article 21 issues",
+                    "Balancing rights becomes complex for judiciary",
+                    "No clear hierarchy among rights"
+                ]
+            },
+            {
+                "heading": "Criticism: Over-Judicial Dependence",
+                "points": [
+                    "Protection of rights heavily depends on judiciary",
+                    "Judicial activism sometimes seen as overreach",
+                    "Policy issues may get influenced by courts",
+                    "Raises debate on separation of powers"
+                ]
+            },
+            {
+                "heading": "Importance Despite Criticism",
+                "points": [
+                    "Still ensures protection of individual liberty",
+                    "Acts as safeguard against arbitrary State action",
+                    "Provides strong judicial remedies",
+                    "Forms the foundation of Indian democracy"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Fundamental Rights are not absolute and have many restrictions",
+                    "Emergency provisions are major criticism points",
+                    "DPSP vs FR imbalance is a key critique",
+                    "Judiciary plays central role in enforcement"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Fundamental Rights are criticized mainly because they are:",
+                    "options": [
+                        "Too simple",
+                        "Not absolute",
+                        "Non-constitutional",
+                        "Unwritten"
+                    ],
+                    "answer": "Not absolute"
+                },
+                {
+                    "question": "During National Emergency, which Article can be suspended?",
+                    "options": [
+                        "Article 14",
+                        "Article 19",
+                        "Article 21",
+                        "Article 32 always"
+                    ],
+                    "answer": "Article 19"
+                },
+                {
+                    "question": "Fundamental Rights are part of:",
+                    "options": [
+                        "Part II",
+                        "Part III",
+                        "Part IV",
+                        "Part V"
+                    ],
+                    "answer": "Part III"
+                },
+                {
+                    "question": "Which body enforces Fundamental Rights?",
+                    "options": [
+                        "Parliament",
+                        "Supreme Court",
+                        "President",
+                        "Election Commission"
+                    ],
+                    "answer": "Supreme Court"
+                },
+                {
+                    "question": "Fundamental Rights are:",
+                    "options": [
+                        "Directive principles",
+                        "Enforceable rights",
+                        "Non-justiciable",
+                        "Optional rules"
+                    ],
+                    "answer": "Enforceable rights"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which of the following is a criticism of Fundamental Rights?",
+                    "options": [
+                        "They are too strong",
+                        "They are absolute",
+                        "They are subject to restrictions",
+                        "They are unlimited"
+                    ],
+                    "answer": "They are subject to restrictions"
+                },
+                {
+                    "question": "Which is a major issue in enforcement of FR?",
+                    "options": [
+                        "Fast justice",
+                        "Expensive and delayed justice",
+                        "No courts exist",
+                        "Too many judges"
+                    ],
+                    "answer": "Expensive and delayed justice"
+                },
+                {
+                    "question": "Which of the following is correct?",
+                    "options": [
+                        "DPSP are enforceable",
+                        "FR and DPSP are equal in enforcement",
+                        "DPSP are not enforceable",
+                        "FR are advisory only"
+                    ],
+                    "answer": "DPSP are not enforceable"
+                },
+                {
+                    "question": "Reasonable restrictions are:",
+                    "options": [
+                        "Clearly defined in Constitution",
+                        "Undefined and interpreted by courts",
+                        "Not allowed",
+                        "Fixed permanently"
+                    ],
+                    "answer": "Undefined and interpreted by courts"
+                },
+                {
+                    "question": "Which of the following creates conflict sometimes?",
+                    "options": [
+                        "FR and DPSP",
+                        "FR and Parliament",
+                        "FR and Judiciary",
+                        "FR and President"
+                    ],
+                    "answer": "FR and DPSP"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Fundamental Rights are absolute\n2. They are subject to reasonable restrictions\n3. They can be suspended during emergency",
+                    "options": ["2 and 3", "1 and 2", "3 only", "All"],
+                    "answer": "2 and 3"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "FR are not enforceable",
+                        "FR are enforced by judiciary",
+                        "FR are only moral guidelines",
+                        "FR are optional"
+                    ],
+                    "answer": "FR are enforced by judiciary"
+                },
+                {
+                    "question": "Which of the following is NOT a criticism of FR?",
+                    "options": [
+                        "Complexity of provisions",
+                        "Judicial delays",
+                        "Absolute nature of rights",
+                        "Over protection of citizens"
+                    ],
+                    "answer": "Over protection of citizens"
+                },
+                {
+                    "question": "Main criticism of reasonable restrictions is:",
+                    "options": [
+                        "They are too strict",
+                        "They are vague and open to misuse",
+                        "They are not used",
+                        "They are unnecessary"
+                    ],
+                    "answer": "They are vague and open to misuse"
+                },
+                {
+                    "question": "Main importance of Fundamental Rights despite criticism is:",
+                    "options": [
+                        "They remove Constitution",
+                        "They ensure liberty and justice",
+                        "They give unlimited power to State",
+                        "They replace DPSP"
+                    ],
+                    "answer": "They ensure liberty and justice"
+                }
+            ]
+        }
+    },
+
+    {
+        "name": "Significance of Fundamental Rights",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Fundamental Rights (Part III) form the most essential part of the Indian Constitution",
+                    "They guarantee basic freedoms and protect individual dignity",
+                    "They act as limitations on State power",
+                    "They are enforceable by courts and ensure constitutional governance"
+                ]
+            },
+            {
+                "heading": "Protection of Individual Liberty",
+                "points": [
+                    "Guarantee freedom of speech, movement, religion, and expression",
+                    "Protect citizens from arbitrary State actions",
+                    "Ensure personal liberty under Article 21",
+                    "Safeguard human dignity and autonomy"
+                ]
+            },
+            {
+                "heading": "Limitation on State Power",
+                "points": [
+                    "Prevent misuse of executive and legislative authority",
+                    "Ensure rule of law prevails over arbitrary decisions",
+                    "State must act within constitutional limits",
+                    "Judiciary acts as guardian of Fundamental Rights"
+                ]
+            },
+            {
+                "heading": "Foundation of Rule of Law",
+                "points": [
+                    "No person is above law, including government authorities",
+                    "All actions of State must be legally justified",
+                    "Ensures equality before law under Article 14",
+                    "Strengthens democratic governance"
+                ]
+            },
+            {
+                "heading": "Protection of Minority Rights",
+                "points": [
+                    "Safeguard cultural, religious, and linguistic minorities",
+                    "Ensure equal treatment in education and employment",
+                    "Prevent discrimination based on religion, caste, or language",
+                    "Promote unity in diversity"
+                ]
+            },
+            {
+                "heading": "Promotion of Social Justice",
+                "points": [
+                    "Abolition of untouchability (Article 17)",
+                    "Abolition of titles (Article 18)",
+                    "Protection against exploitation (Articles 23–24)",
+                    "Supports equality-based social order"
+                ]
+            },
+            {
+                "heading": "Strengthening Democracy",
+                "points": [
+                    "Ensures freedom of speech and expression",
+                    "Enables participation in democratic process",
+                    "Protects freedom of press (implicit under Article 19)",
+                    "Allows citizens to question government policies"
+                ]
+            },
+            {
+                "heading": "Judicial Protection and Enforcement",
+                "points": [
+                    "Supreme Court and High Courts enforce Fundamental Rights",
+                    "Article 32 provides direct remedy to Supreme Court",
+                    "Article 226 allows High Court intervention",
+                    "Judicial review ensures constitutional compliance"
+                ]
+            },
+            {
+                "heading": "Balancing Rights and Duties",
+                "points": [
+                    "Fundamental Rights are balanced with Fundamental Duties",
+                    "Ensures responsible exercise of freedoms",
+                    "Prevents misuse of rights against national interest",
+                    "Promotes constitutional morality"
+                ]
+            },
+            {
+                "heading": "Importance in Emergency Situations",
+                "points": [
+                    "Some rights can be suspended during emergencies",
+                    "But core rights like Articles 20 and 21 are protected",
+                    "Ensures continuity of legal protection even in crisis",
+                    "Maintains constitutional framework in difficult times"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Fundamental Rights are justiciable and enforceable",
+                    "They ensure balance between liberty and authority",
+                    "They promote equality, justice, and dignity",
+                    "They are essential for functioning of democracy"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Fundamental Rights are part of:",
+                    "options": [
+                        "Part II",
+                        "Part III",
+                        "Part IV",
+                        "Part V"
+                    ],
+                    "answer": "Part III"
+                },
+                {
+                    "question": "Fundamental Rights protect:",
+                    "options": [
+                        "Only government",
+                        "Individual liberty",
+                        "Only Parliament",
+                        "Only judiciary"
+                    ],
+                    "answer": "Individual liberty"
+                },
+                {
+                    "question": "Which Article guarantees Right to Life and Liberty?",
+                    "options": [
+                        "Article 14",
+                        "Article 19",
+                        "Article 21",
+                        "Article 32"
+                    ],
+                    "answer": "Article 21"
+                },
+                {
+                    "question": "Fundamental Rights are enforceable by:",
+                    "options": [
+                        "Parliament",
+                        "Courts",
+                        "President",
+                        "Election Commission"
+                    ],
+                    "answer": "Courts"
+                },
+                {
+                    "question": "Rule of law means:",
+                    "options": [
+                        "Government is above law",
+                        "Law is above all",
+                        "Judges make laws",
+                        "No laws exist"
+                    ],
+                    "answer": "Law is above all"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which of the following is NOT a significance of Fundamental Rights?",
+                    "options": [
+                        "Protection of liberty",
+                        "Limitation of State power",
+                        "Strengthening dictatorship",
+                        "Ensuring equality"
+                    ],
+                    "answer": "Strengthening dictatorship"
+                },
+                {
+                    "question": "Which Article allows direct approach to Supreme Court?",
+                    "options": [
+                        "Article 14",
+                        "Article 19",
+                        "Article 32",
+                        "Article 51"
+                    ],
+                    "answer": "Article 32"
+                },
+                {
+                    "question": "Fundamental Rights help in:",
+                    "options": [
+                        "Weakening democracy",
+                        "Strengthening democracy",
+                        "Removing courts",
+                        "Increasing inequality"
+                    ],
+                    "answer": "Strengthening democracy"
+                },
+                {
+                    "question": "Which of the following promotes social justice?",
+                    "options": [
+                        "Fundamental Rights",
+                        "Directive Principles",
+                        "Emergency provisions",
+                        "Parliament rules"
+                    ],
+                    "answer": "Fundamental Rights"
+                },
+                {
+                    "question": "Equality before law is guaranteed under:",
+                    "options": [
+                        "Article 14",
+                        "Article 19",
+                        "Article 21",
+                        "Article 25"
+                    ],
+                    "answer": "Article 14"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Fundamental Rights are enforceable\n2. They limit State power\n3. They are advisory in nature",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "FR are not important for democracy",
+                        "FR protect individual liberty",
+                        "FR are non-justiciable",
+                        "FR are optional rights"
+                    ],
+                    "answer": "FR protect individual liberty"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "FR ensure equality",
+                        "FR protect minorities",
+                        "FR strengthen dictatorship",
+                        "FR ensure rule of law"
+                    ],
+                    "answer": "FR strengthen dictatorship"
+                },
+                {
+                    "question": "Main role of Judiciary in FR is:",
+                    "options": [
+                        "Making laws",
+                        "Enforcing rights",
+                        "Abolishing Constitution",
+                        "Controlling elections"
+                    ],
+                    "answer": "Enforcing rights"
+                },
+                {
+                    "question": "Fundamental Rights are essential for:",
+                    "options": [
+                        "Monarchy",
+                        "Democracy",
+                        "Dictatorship",
+                        "Colonial rule"
+                    ],
+                    "answer": "Democracy"
+                }
+            ]
+        }
+    }
+]

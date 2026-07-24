@@ -1,0 +1,540 @@
+TOPICS = [
+    {
+        "name": "Biology: Cells (Structure, Membranes & Cell-Cell Interactions)",
+        "notes": [
+            {
+                "heading": "Introduction to Cell",
+                "points": [
+                    "Cell is the basic structural and functional unit of life",
+                    "All living organisms are made up of one or more cells",
+                    "Cells were first discovered by Robert Hooke in 1665",
+                    "Cell theory was proposed by Schleiden, Schwann, and Virchow",
+                    "New cells arise only from pre-existing cells"
+                ]
+            },
+            {
+                "heading": "Types of Cells",
+                "points": [
+                    "Prokaryotic cells: Simple cells without a true nucleus (e.g., bacteria)",
+                    "Eukaryotic cells: Complex cells with a well-defined nucleus",
+                    "Prokaryotes lack membrane-bound organelles",
+                    "Eukaryotes have organelles like mitochondria, Golgi body, etc.",
+                    "Plant and animal cells are both eukaryotic"
+                ]
+            },
+            {
+                "heading": "Cell Structure – Overview",
+                "points": [
+                    "Cell is enclosed by a plasma membrane",
+                    "Contains cytoplasm where organelles are suspended",
+                    "Nucleus controls cellular activities",
+                    "Organelles perform specific functions",
+                    "Plant cells have a rigid cell wall in addition to membrane"
+                ]
+            },
+            {
+                "heading": "Cell Organelles and Functions",
+                "points": [
+                    "Nucleus: Controls genetic material and cell activities",
+                    "Mitochondria: Powerhouse of the cell (ATP production)",
+                    "Ribosomes: Protein synthesis",
+                    "Endoplasmic Reticulum: Protein and lipid transport",
+                    "Golgi Apparatus: Packaging and secretion",
+                    "Lysosomes: Cellular digestion",
+                    "Chloroplast: Photosynthesis in plant cells"
+                ]
+            },
+            {
+                "heading": "Cell Membrane (Plasma Membrane)",
+                "points": [
+                    "Thin, flexible outer boundary of the cell",
+                    "Composed mainly of lipids and proteins",
+                    "Described by the Fluid Mosaic Model",
+                    "Controls movement of substances in and out of the cell",
+                    "Selective permeability allows only specific molecules to pass"
+                ]
+            },
+            {
+                "heading": "Transport Across Cell Membrane",
+                "points": [
+                    "Passive transport: No energy required (diffusion, osmosis)",
+                    "Active transport: Requires energy (ATP)",
+                    "Endocytosis: Intake of substances into the cell",
+                    "Exocytosis: Release of substances outside the cell",
+                    "Osmosis: Movement of water across semipermeable membrane"
+                ]
+            },
+            {
+                "heading": "Cell Wall (Plant Cells)",
+                "points": [
+                    "Present in plant cells, absent in animal cells",
+                    "Made mainly of cellulose",
+                    "Provides structural support and protection",
+                    "Freely permeable (unlike plasma membrane)",
+                    "Maintains cell shape and prevents bursting"
+                ]
+            },
+            {
+                "heading": "Cell-Cell Interactions",
+                "points": [
+                    "Cells communicate to coordinate functions in multicellular organisms",
+                    "Communication occurs through chemical signals",
+                    "Receptors on cell membrane receive signals",
+                    "Hormones act as signaling molecules",
+                    "Important for growth, immune response, and tissue repair"
+                ]
+            },
+            {
+                "heading": "Types of Cell Junctions",
+                "points": [
+                    "Tight junctions: Prevent leakage between cells",
+                    "Gap junctions: Allow direct communication between cells",
+                    "Desmosomes: Provide mechanical strength and adhesion",
+                    "Important in tissue formation and integrity",
+                    "Common in epithelial and muscle tissues"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Who discovered the cell?",
+                    "options": [
+                    "Darwin",
+                    "Robert Hooke",
+                    "Newton",
+                    "Pasteur"
+                    ],
+                    "answer": "Robert Hooke"
+                },
+                {
+                    "question": "Basic unit of life is:",
+                    "options": [
+                    "Tissue",
+                    "Organ",
+                    "Cell",
+                    "Atom"
+                    ],
+                    "answer": "Cell"
+                },
+                {
+                    "question": "Powerhouse of the cell is:",
+                    "options": [
+                    "Nucleus",
+                    "Mitochondria",
+                    "Ribosome",
+                    "Golgi body"
+                    ],
+                    "answer": "Mitochondria"
+                },
+                {
+                    "question": "Cell membrane is:",
+                    "options": [
+                    "Fully permeable",
+                    "Impermeable",
+                    "Selectively permeable",
+                    "Rigid structure"
+                    ],
+                    "answer": "Selectively permeable"
+                },
+                {
+                    "question": "Cell wall is made up of:",
+                    "options": [
+                    "Protein",
+                    "Cellulose",
+                    "Lipids",
+                    "DNA"
+                    ],
+                    "answer": "Cellulose"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which organelle is responsible for protein synthesis?",
+                    "options": [
+                    "Mitochondria",
+                    "Ribosomes",
+                    "Lysosomes",
+                    "Nucleus"
+                    ],
+                    "answer": "Ribosomes"
+                },
+                {
+                    "question": "Fluid Mosaic Model describes:",
+                    "options": [
+                    "Cell wall",
+                    "Cell membrane",
+                    "Nucleus",
+                    "Cytoplasm"
+                    ],
+                    "answer": "Cell membrane"
+                },
+                {
+                    "question": "Active transport requires:",
+                    "options": [
+                    "Oxygen",
+                    "ATP energy",
+                    "Carbon dioxide",
+                    "Water only"
+                    ],
+                    "answer": "ATP energy"
+                },
+                {
+                    "question": "Chloroplast is found in:",
+                    "options": [
+                    "Animal cells",
+                    "Plant cells",
+                    "Bacterial cells",
+                    "Virus"
+                    ],
+                    "answer": "Plant cells"
+                },
+                {
+                    "question": "Gap junctions help in:",
+                    "options": [
+                    "Cell death",
+                    "Cell communication",
+                    "Protein digestion",
+                    "DNA replication"
+                    ],
+                    "answer": "Cell communication"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. Prokaryotic cells have no nucleus\n2. Eukaryotic cells have membrane-bound organelles\n3. Cell wall is present in animal cells",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "All"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Mitochondria – photosynthesis",
+                    "Golgi body – protein packaging",
+                    "Ribosome – lipid synthesis",
+                    "Lysosome – energy production"
+                    ],
+                    "answer": "Golgi body – protein packaging"
+                },
+                {
+                    "question": "Osmosis refers to movement of:",
+                    "options": [
+                    "Proteins",
+                    "Water",
+                    "Lipids",
+                    "DNA"
+                    ],
+                    "answer": "Water"
+                },
+                {
+                    "question": "Desmosomes are responsible for:",
+                    "options": [
+                    "Energy production",
+                    "Cell adhesion",
+                    "Protein synthesis",
+                    "Waste removal"
+                    ],
+                    "answer": "Cell adhesion"
+                },
+                {
+                    "question": "Endocytosis is:",
+                    "options": [
+                    "Outward movement of substances",
+                    "Intake of substances into the cell",
+                    "Cell division",
+                    "DNA replication"
+                    ],
+                    "answer": "Intake of substances into the cell"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Biology: Energy & Metabolism, Respiration, Photosynthesis, Cell Division & Sexual Reproduction",
+        "notes": [
+            {
+                "heading": "Energy and Metabolism – Introduction",
+                "points": [
+                    "Metabolism refers to all biochemical reactions in a living organism",
+                    "It includes catabolism (breakdown) and anabolism (synthesis)",
+                    "Energy is required for all cellular activities",
+                    "ATP (Adenosine Triphosphate) is the main energy currency of the cell",
+                    "Enzymes regulate metabolic reactions"
+                ]
+            },
+            {
+                "heading": "Types of Metabolism",
+                "points": [
+                    "Catabolism: Breaks complex molecules into simpler ones releasing energy",
+                    "Anabolism: Builds complex molecules from simpler ones using energy",
+                    "Both processes are interlinked and essential for survival",
+                    "Example of catabolism: Respiration",
+                    "Example of anabolism: Photosynthesis"
+                ]
+            },
+            {
+                "heading": "Cellular Respiration – Overview",
+                "points": [
+                    "Respiration is the process of releasing energy from glucose",
+                    "Occurs in all living cells",
+                    "Produces ATP as usable energy",
+                    "Can be aerobic (with oxygen) or anaerobic (without oxygen)",
+                    "Main site of aerobic respiration is mitochondria"
+                ]
+            },
+            {
+                "heading": "Types of Respiration",
+                "points": [
+                    "Aerobic respiration: Uses oxygen and produces more energy",
+                    "Anaerobic respiration: Occurs without oxygen and produces less energy",
+                    "Aerobic produces CO2 and water as end products",
+                    "Anaerobic in muscles produces lactic acid",
+                    "Yeast fermentation produces alcohol and CO2"
+                ]
+            },
+            {
+                "heading": "Photosynthesis – Overview",
+                "points": [
+                    "Photosynthesis is the process by which plants make food using sunlight",
+                    "Occurs in chloroplasts of plant cells",
+                    "Uses carbon dioxide and water to produce glucose and oxygen",
+                    "Chlorophyll captures sunlight energy",
+                    "It is the base of food chains on Earth"
+                ]
+            },
+            {
+                "heading": "Photosynthesis Equation and Process",
+                "points": [
+                    "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂ (in presence of sunlight and chlorophyll)",
+                    "Occurs in two stages: light reaction and dark reaction",
+                    "Light reaction produces ATP and NADPH",
+                    "Dark reaction (Calvin cycle) produces glucose",
+                    "Oxygen is released as a byproduct"
+                ]
+            },
+            {
+                "heading": "Cell Division – Introduction",
+                "points": [
+                    "Cell division is the process by which a cell divides to form new cells",
+                    "Important for growth, repair, and reproduction",
+                    "Two main types: Mitosis and Meiosis",
+                    "Ensures continuity of life",
+                    "Regulated by cell cycle checkpoints"
+                ]
+            },
+            {
+                "heading": "Mitosis",
+                "points": [
+                    "Occurs in somatic (body) cells",
+                    "Produces two identical daughter cells",
+                    "Maintains chromosome number (diploid)",
+                    "Stages include prophase, metaphase, anaphase, telophase",
+                    "Important for growth and tissue repair"
+                ]
+            },
+            {
+                "heading": "Meiosis",
+                "points": [
+                    "Occurs in reproductive cells (gametes)",
+                    "Produces four non-identical daughter cells",
+                    "Reduces chromosome number by half (haploid)",
+                    "Increases genetic variation",
+                    "Essential for sexual reproduction"
+                ]
+            },
+            {
+                "heading": "Sexual Reproduction – Overview",
+                "points": [
+                    "Involves fusion of male and female gametes",
+                    "Produces genetically diverse offspring",
+                    "Occurs in plants and animals",
+                    "Includes meiosis and fertilization",
+                    "Ensures variation and evolution"
+                ]
+            },
+            {
+                "heading": "Sexual Reproduction in Plants",
+                "points": [
+                    "Flowers are reproductive organs of plants",
+                    "Male part: Stamen (produces pollen)",
+                    "Female part: Pistil/Carpel (contains ovule)",
+                    "Pollination transfers pollen to stigma",
+                    "Fertilization leads to seed formation"
+                ]
+            },
+            {
+                "heading": "Sexual Reproduction in Animals",
+                "points": [
+                    "Involves male and female reproductive organs",
+                    "Sperm (male gamete) and ovum (female gamete)",
+                    "Fertilization may be internal or external",
+                    "Zygote forms after fertilization",
+                    "Zygote develops into embryo and then organism"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Main energy currency of the cell is:",
+                    "options": [
+                    "DNA",
+                    "ATP",
+                    "Glucose",
+                    "RNA"
+                    ],
+                    "answer": "ATP"
+                },
+                {
+                    "question": "Photosynthesis occurs in:",
+                    "options": [
+                    "Mitochondria",
+                    "Chloroplast",
+                    "Nucleus",
+                    "Ribosome"
+                    ],
+                    "answer": "Chloroplast"
+                },
+                {
+                    "question": "Aerobic respiration requires:",
+                    "options": [
+                    "Carbon dioxide",
+                    "Oxygen",
+                    "Nitrogen",
+                    "Hydrogen"
+                    ],
+                    "answer": "Oxygen"
+                },
+                {
+                    "question": "Mitosis produces:",
+                    "options": [
+                    "Four cells",
+                    "Two identical cells",
+                    "One cell",
+                    "No cells"
+                    ],
+                    "answer": "Two identical cells"
+                },
+                {
+                    "question": "Sexual reproduction involves:",
+                    "options": [
+                    "Only one parent",
+                    "Fusion of gametes",
+                    "No gametes",
+                    "Only mitosis"
+                    ],
+                    "answer": "Fusion of gametes"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "End product of aerobic respiration is:",
+                    "options": [
+                    "Alcohol",
+                    "Lactic acid",
+                    "Carbon dioxide and water",
+                    "Glucose"
+                    ],
+                    "answer": "Carbon dioxide and water"
+                },
+                {
+                    "question": "Anaerobic respiration in yeast produces:",
+                    "options": [
+                    "Oxygen",
+                    "Alcohol and CO2",
+                    "Water",
+                    "Glucose"
+                    ],
+                    "answer": "Alcohol and CO2"
+                },
+                {
+                    "question": "Light reaction of photosynthesis produces:",
+                    "options": [
+                    "Glucose only",
+                    "ATP and NADPH",
+                    "Oxygen only",
+                    "Carbon dioxide"
+                    ],
+                    "answer": "ATP and NADPH"
+                },
+                {
+                    "question": "Meiosis results in:",
+                    "options": [
+                    "Two identical cells",
+                    "Four haploid cells",
+                    "One diploid cell",
+                    "No division"
+                    ],
+                    "answer": "Four haploid cells"
+                },
+                {
+                    "question": "Pollination refers to:",
+                    "options": [
+                    "Seed formation",
+                    "Transfer of pollen",
+                    "Fertilization",
+                    "Germination"
+                    ],
+                    "answer": "Transfer of pollen"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. Mitosis maintains chromosome number\n2. Meiosis reduces chromosome number\n3. Photosynthesis occurs in mitochondria",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "All"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                    "Chloroplast – respiration",
+                    "Mitochondria – energy production",
+                    "Nucleus – photosynthesis",
+                    "Ribosome – respiration"
+                    ],
+                    "answer": "Mitochondria – energy production"
+                },
+                {
+                    "question": "Zygote is formed after:",
+                    "options": [
+                    "Meiosis",
+                    "Fertilization",
+                    "Pollination",
+                    "Mitosis"
+                    ],
+                    "answer": "Fertilization"
+                },
+                {
+                    "question": "Dark reaction of photosynthesis is also called:",
+                    "options": [
+                    "Krebs cycle",
+                    "Calvin cycle",
+                    "Glycolysis",
+                    "Electron transport"
+                    ],
+                    "answer": "Calvin cycle"
+                },
+                {
+                    "question": "Sexual reproduction is important because it:",
+                    "options": [
+                    "Reduces variation",
+                    "Increases genetic variation",
+                    "Stops evolution",
+                    "Produces identical offspring"
+                    ],
+                    "answer": "Increases genetic variation"
+                }
+            ]
+        }
+    }
+]

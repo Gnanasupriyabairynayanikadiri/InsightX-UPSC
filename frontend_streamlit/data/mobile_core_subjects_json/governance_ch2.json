@@ -1,0 +1,831 @@
+[
+    {
+        "name": "Governance - Audit and Other Transparency Initiatives",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Audit and transparency initiatives ensure accountability in governance",
+                    "They help in reducing corruption and improving public trust",
+                    "India has strong institutional mechanisms like CAG, RTI, and Lokpal",
+                    "Transparency is a key principle of good governance",
+                    "Important for GS Paper II (Governance & Accountability)"
+                ]
+            },
+            {
+                "heading": "Meaning of Audit in Governance",
+                "points": [
+                    "Audit is an independent examination of government accounts and expenditure",
+                    "It ensures financial discipline and accountability",
+                    "Conducted mainly by the Comptroller and Auditor General (CAG)",
+                    "Focuses on legality, propriety, and performance of public spending",
+                    "Helps Parliament exercise financial control over the executive"
+                ]
+            },
+            {
+                "heading": "Comptroller and Auditor General (CAG)",
+                "points": [
+                    "CAG is the supreme audit institution in India",
+                    "Established under Article 148 of the Constitution",
+                    "Audits accounts of Union and State governments",
+                    "Reports submitted to Parliament and State Legislatures",
+                    "Ensures accountability of public funds"
+                ]
+            },
+            {
+                "heading": "Types of Audit",
+                "points": [
+                    "Financial Audit: Checks correctness of accounts",
+                    "Compliance Audit: Ensures adherence to rules and laws",
+                    "Performance Audit: Evaluates efficiency and effectiveness of schemes",
+                    "Propriety Audit: Examines justification of expenditure",
+                    "Environmental Audit: Assesses environmental impact of policies"
+                ]
+            },
+            {
+                "heading": "Right to Information (RTI) Act",
+                "points": [
+                    "Enacted in 2005 to promote transparency in governance",
+                    "Gives citizens right to access government information",
+                    "Public Information Officers (PIOs) are designated in departments",
+                    "Time-bound response mechanism ensures accountability",
+                    "Empowers citizens to question government functioning"
+                ]
+            },
+            {
+                "heading": "Lokpal and Lokayuktas",
+                "points": [
+                    "Lokpal is anti-corruption ombudsman at central level",
+                    "Lokayuktas operate at state level",
+                    "Established under Lokpal and Lokayuktas Act, 2013",
+                    "Investigates corruption complaints against public officials",
+                    "Strengthens accountability in public administration"
+                ]
+            },
+            {
+                "heading": "E-Governance as Transparency Tool",
+                "points": [
+                    "Use of ICT to improve governance delivery",
+                    "Reduces human interface and corruption",
+                    "Initiatives like Digital India, e-office, DBT",
+                    "Improves speed, efficiency, and transparency",
+                    "Enables real-time monitoring of schemes"
+                ]
+            },
+            {
+                "heading": "Citizen Charter",
+                "points": [
+                    "Document outlining services and standards of delivery",
+                    "Defines rights of citizens and responsibilities of departments",
+                    "Promotes accountability and service orientation",
+                    "Encourages grievance redressal mechanisms",
+                    "Improves citizen-government interaction"
+                ]
+            },
+            {
+                "heading": "Social Audit",
+                "points": [
+                    "Community-driven audit of government schemes",
+                    "Ensures participation of citizens in monitoring",
+                    "Widely used in MGNREGA implementation",
+                    "Detects irregularities and corruption at grassroots level",
+                    "Strengthens participatory governance"
+                ]
+            },
+            {
+                "heading": "Challenges in Transparency Mechanisms",
+                "points": [
+                    "Delay in RTI responses",
+                    "Weak enforcement of audit recommendations",
+                    "Limited awareness among citizens",
+                    "Political interference in institutions",
+                    "Data gaps and lack of digitization in some areas"
+                ]
+            },
+            {
+                "heading": "Importance of Transparency Initiatives",
+                "points": [
+                    "Strengthens democracy and accountability",
+                    "Reduces corruption and misuse of public funds",
+                    "Improves efficiency of governance",
+                    "Builds trust between citizens and government",
+                    "Supports good governance principles"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "CAG stands for:",
+                    "options": [
+                        "Central Audit Group",
+                        "Comptroller and Auditor General",
+                        "Chief Administrative Governor",
+                        "Central Accounting Government"
+                    ],
+                    "answer": "Comptroller and Auditor General"
+                },
+                {
+                    "question": "RTI Act was enacted in:",
+                    "options": [
+                        "2000",
+                        "2005",
+                        "2010",
+                        "2015"
+                    ],
+                    "answer": "2005"
+                },
+                {
+                    "question": "Lokpal deals with:",
+                    "options": [
+                        "Elections",
+                        "Corruption complaints",
+                        "Defense planning",
+                        "Tax collection"
+                    ],
+                    "answer": "Corruption complaints"
+                },
+                {
+                    "question": "Audit mainly ensures:",
+                    "options": [
+                        "Judicial independence",
+                        "Financial accountability",
+                        "Military efficiency",
+                        "Foreign policy"
+                    ],
+                    "answer": "Financial accountability"
+                },
+                {
+                    "question": "RTI gives citizens the right to:",
+                    "options": [
+                        "Vote",
+                        "Access government information",
+                        "Become ministers",
+                        "Pass laws"
+                    ],
+                    "answer": "Access government information"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Performance audit focuses on:",
+                    "options": [
+                        "Legal correctness only",
+                        "Efficiency and effectiveness of schemes",
+                        "Judicial review",
+                        "Election management"
+                    ],
+                    "answer": "Efficiency and effectiveness of schemes"
+                },
+                {
+                    "question": "Social audit is mainly conducted by:",
+                    "options": [
+                        "Courts",
+                        "Citizens and community",
+                        "Police",
+                        "Army"
+                    ],
+                    "answer": "Citizens and community"
+                },
+                {
+                    "question": "Citizen Charter aims to improve:",
+                    "options": [
+                        "Military strength",
+                        "Service delivery",
+                        "Judicial process",
+                        "Foreign relations"
+                    ],
+                    "answer": "Service delivery"
+                },
+                {
+                    "question": "CAG reports are submitted to:",
+                    "options": [
+                        "President only",
+                        "Parliament and State Legislatures",
+                        "Supreme Court",
+                        "Election Commission"
+                    ],
+                    "answer": "Parliament and State Legislatures"
+                },
+                {
+                    "question": "E-governance mainly improves:",
+                    "options": [
+                        "Corruption and delays",
+                        "Transparency and efficiency",
+                        "Military operations",
+                        "Judicial review"
+                    ],
+                    "answer": "Transparency and efficiency"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. CAG audits government expenditure\n2. RTI Act promotes transparency\n3. Lokpal is a judicial body",
+                    "options": [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "All of the above"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Which best describes audit in governance?",
+                    "options": [
+                        "Judicial review",
+                        "Financial and performance evaluation of public expenditure",
+                        "Election monitoring",
+                        "Military assessment"
+                    ],
+                    "answer": "Financial and performance evaluation of public expenditure"
+                },
+                {
+                    "question": "A key objective of transparency initiatives is:",
+                    "options": [
+                        "Increasing secrecy",
+                        "Reducing accountability",
+                        "Reducing corruption and improving trust",
+                        "Expanding bureaucracy"
+                    ],
+                    "answer": "Reducing corruption and improving trust"
+                },
+                {
+                    "question": "Social audit is most closely associated with:",
+                    "options": [
+                        "MGNREGA",
+                        "Defense policy",
+                        "Foreign trade",
+                        "Judiciary reforms"
+                    ],
+                    "answer": "MGNREGA"
+                },
+                {
+                    "question": "A major challenge in transparency mechanisms is:",
+                    "options": [
+                        "Too much public participation",
+                        "Delay in implementation and weak enforcement",
+                        "Absence of laws",
+                        "No governance system"
+                    ],
+                    "answer": "Delay in implementation and weak enforcement"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Governance - CVC & CAG",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "CVC (Central Vigilance Commission) and CAG (Comptroller and Auditor General) are key anti-corruption and accountability institutions in India",
+                    "They ensure transparency, integrity, and financial discipline in governance",
+                    "CAG focuses on audit of government finances, while CVC focuses on vigilance and corruption prevention",
+                    "Both are independent constitutional/statutory bodies supporting good governance",
+                    "Important for GS Paper II (Governance, Accountability, Institutions)"
+                ]
+            },
+            {
+                "heading": "Central Vigilance Commission (CVC)",
+                "points": [
+                    "CVC is the apex vigilance institution in India for preventing corruption in Central Government",
+                    "Established in 1964 based on Santhanam Committee recommendations",
+                    "Made statutory body through Central Vigilance Commission Act, 2003",
+                    "Works independently of executive control",
+                    "Monitors vigilance activities in Central Government organizations"
+                ]
+            },
+            {
+                "heading": "Functions of CVC",
+                "points": [
+                    "Supervises vigilance administration in Central Government offices",
+                    "Advises Central Government organizations in matters of corruption prevention",
+                    "Oversees investigation of corruption cases by CBI and other agencies",
+                    "Reviews progress of pending vigilance cases",
+                    "Promotes integrity and ethical standards in administration"
+                ]
+            },
+            {
+                "heading": "Limitations of CVC",
+                "points": [
+                    "CVC does not have its own investigation wing",
+                    "Depends on CBI and departmental vigilance units",
+                    "Only advisory powers in many cases",
+                    "Limited jurisdiction over state government employees",
+                    "Delay in disposal of corruption cases"
+                ]
+            },
+            {
+                "heading": "Comptroller and Auditor General (CAG)",
+                "points": [
+                    "CAG is the supreme audit authority in India",
+                    "Established under Article 148 of the Constitution",
+                    "Audits accounts of Union, State governments, and public sector bodies",
+                    "Ensures accountability in public expenditure",
+                    "Reports submitted to Parliament and State Legislatures"
+                ]
+            },
+            {
+                "heading": "Functions of CAG",
+                "points": [
+                    "Audits expenditure and receipts of government",
+                    "Ensures legality, propriety, and efficiency of public spending",
+                    "Conducts financial, compliance, and performance audits",
+                    "Submits audit reports to President/Governor",
+                    "Assists Public Accounts Committee (PAC) in financial scrutiny"
+                ]
+            },
+            {
+                "heading": "Types of Audit by CAG",
+                "points": [
+                    "Financial Audit: Accuracy of accounts and records",
+                    "Compliance Audit: Adherence to rules and regulations",
+                    "Performance Audit: Efficiency and effectiveness of programs",
+                    "Propriety Audit: Justification of expenditure decisions",
+                    "Environmental Audit: Impact of government policies on environment"
+                ]
+            },
+            {
+                "heading": "Independence of CAG",
+                "points": [
+                    "Security of tenure similar to Supreme Court judges",
+                    "Remuneration fixed by Parliament",
+                    "Cannot be removed except through impeachment",
+                    "Independent audit authority under Constitution",
+                    "Ensures impartial financial oversight"
+                ]
+            },
+            {
+                "heading": "Difference between CVC and CAG",
+                "points": [
+                    "CVC deals with corruption prevention; CAG deals with financial audit",
+                    "CVC is statutory body; CAG is constitutional body",
+                    "CVC has advisory role; CAG has audit authority",
+                    "CVC focuses on vigilance cases; CAG focuses on accounts and expenditure",
+                    "CVC works with CBI; CAG works with Parliament and PAC"
+                ]
+            },
+            {
+                "heading": "Importance in Governance",
+                "points": [
+                    "Strengthen accountability in public administration",
+                    "Reduce corruption and financial irregularities",
+                    "Ensure transparency in government expenditure",
+                    "Support parliamentary financial control",
+                    "Improve public trust in governance system"
+                ]
+            },
+            {
+                "heading": "Challenges",
+                "points": [
+                    "Delay in implementation of audit and vigilance recommendations",
+                    "Limited enforcement powers of CVC",
+                    "Large volume of pending cases",
+                    "Political influence in administrative processes",
+                    "Need for stronger institutional coordination"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "CVC was established based on recommendations of:",
+                    "options": [
+                        "Sarkaria Committee",
+                        "Santhanam Committee",
+                        "Punchhi Commission",
+                        "NITI Aayog"
+                    ],
+                    "answer": "Santhanam Committee"
+                },
+                {
+                    "question": "CAG is mentioned under which Article of the Constitution?",
+                    "options": [
+                        "Article 110",
+                        "Article 148",
+                        "Article 352",
+                        "Article 32"
+                    ],
+                    "answer": "Article 148"
+                },
+                {
+                    "question": "CVC mainly deals with:",
+                    "options": [
+                        "Tax collection",
+                        "Corruption prevention",
+                        "Judicial review",
+                        "Election conduct"
+                    ],
+                    "answer": "Corruption prevention"
+                },
+                {
+                    "question": "CAG submits reports to:",
+                    "options": [
+                        "Prime Minister",
+                        "Parliament and State Legislatures",
+                        "Supreme Court",
+                        "Finance Commission"
+                    ],
+                    "answer": "Parliament and State Legislatures"
+                },
+                {
+                    "question": "CVC is a:",
+                    "options": [
+                        "Constitutional body",
+                        "Statutory body",
+                        "Judicial body",
+                        "Executive body only"
+                    ],
+                    "answer": "Statutory body"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "CAG primarily ensures:",
+                    "options": [
+                        "Law enforcement",
+                        "Financial accountability",
+                        "Election management",
+                        "Foreign policy"
+                    ],
+                    "answer": "Financial accountability"
+                },
+                {
+                    "question": "Which audit is related to efficiency and effectiveness?",
+                    "options": [
+                        "Financial audit",
+                        "Compliance audit",
+                        "Performance audit",
+                        "Propriety audit"
+                    ],
+                    "answer": "Performance audit"
+                },
+                {
+                    "question": "CVC does NOT have:",
+                    "options": [
+                        "Advisory role",
+                        "Investigative wing",
+                        "Vigilance supervision",
+                        "Anti-corruption role"
+                    ],
+                    "answer": "Investigative wing"
+                },
+                {
+                    "question": "CAG is independent because:",
+                    "options": [
+                        "It is elected",
+                        "It is a constitutional authority",
+                        "It is under executive control",
+                        "It is a private body"
+                    ],
+                    "answer": "It is a constitutional authority"
+                },
+                {
+                    "question": "CVC oversees vigilance activities in:",
+                    "options": [
+                        "State governments only",
+                        "Central government organizations",
+                        "Judiciary",
+                        "Parliament"
+                    ],
+                    "answer": "Central government organizations"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. CAG is a constitutional body\n2. CVC has its own investigation wing\n3. CAG audits government expenditure",
+                    "options": [
+                        "1 and 3 only",
+                        "2 and 3 only",
+                        "1 and 2 only",
+                        "All of the above"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "Which best describes CVC?",
+                    "options": [
+                        "Constitutional audit body",
+                        "Anti-corruption vigilance institution",
+                        "Judicial body",
+                        "Legislative committee"
+                    ],
+                    "answer": "Anti-corruption vigilance institution"
+                },
+                {
+                    "question": "A major difference between CVC and CAG is:",
+                    "options": [
+                        "Both are constitutional bodies",
+                        "CAG audits finances while CVC handles vigilance",
+                        "Both handle elections",
+                        "Both are judicial bodies"
+                    ],
+                    "answer": "CAG audits finances while CVC handles vigilance"
+                },
+                {
+                    "question": "A key limitation of CVC is:",
+                    "options": [
+                        "Excess judicial power",
+                        "Lack of independent investigation powers",
+                        "Too much constitutional authority",
+                        "No role in corruption"
+                    ],
+                    "answer": "Lack of independent investigation powers"
+                },
+                {
+                    "question": "CAG supports parliamentary control through:",
+                    "options": [
+                        "Election Commission",
+                        "Public Accounts Committee",
+                        "Supreme Court",
+                        "Finance Ministry only"
+                    ],
+                    "answer": "Public Accounts Committee"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Governance - Lokpal & Lokayukta",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Lokpal and Lokayukta are anti-corruption ombudsman institutions in India",
+                    "They aim to investigate corruption complaints against public servants",
+                    "Lokpal operates at the central level, while Lokayukta operates at the state level",
+                    "They strengthen transparency, accountability, and good governance",
+                    "Important for GS Paper II (Governance, Accountability, Ethics)"
+                ]
+            },
+            {
+                "heading": "Lokpal",
+                "points": [
+                    "Lokpal is the anti-corruption ombudsman at the Union level",
+                    "Established under the Lokpal and Lokayuktas Act, 2013",
+                    "It is a statutory body, not a constitutional body",
+                    "Investigates allegations of corruption against public functionaries",
+                    "Chairperson and members include judicial and non-judicial members"
+                ]
+            },
+            {
+                "heading": "Composition of Lokpal",
+                "points": [
+                    "Chairperson (usually former Chief Justice of India or Supreme Court Judge)",
+                    "Maximum 8 members",
+                    "50% members from judicial background",
+                    "50% members from SC/ST/OBC/minorities/women categories",
+                    "Includes both judicial and non-judicial experts"
+                ]
+            },
+            {
+                "heading": "Jurisdiction of Lokpal",
+                "points": [
+                    "Prime Minister (with certain restrictions)",
+                    "Union Ministers",
+                    "Members of Parliament",
+                    "Group A, B, C, D Central Government officials",
+                    "Officials of PSUs and government-funded institutions"
+                ]
+            },
+            {
+                "heading": "Functions of Lokpal",
+                "points": [
+                    "Receives and investigates corruption complaints",
+                    "Orders investigation through CBI or other agencies",
+                    "Ensures speedy inquiry into corruption cases",
+                    "Recommends prosecution and disciplinary action",
+                    "Promotes transparency in public administration"
+                ]
+            },
+            {
+                "heading": "Limitations of Lokpal",
+                "points": [
+                    "Delay in appointment and operationalization",
+                    "Limited independence due to reliance on investigating agencies",
+                    "No suo motu power in some cases",
+                    "Jurisdiction restrictions over certain constitutional authorities",
+                    "Political influence concerns in appointments"
+                ]
+            },
+            {
+                "heading": "Lokayukta",
+                "points": [
+                    "Lokayukta is the anti-corruption ombudsman at state level",
+                    "Established under state Lokayukta Acts (varies by state)",
+                    "Inspired by Lokpal model at national level",
+                    "Investigates corruption cases involving state officials",
+                    "Promotes accountability in state administration"
+                ]
+            },
+            {
+                "heading": "Composition of Lokayukta",
+                "points": [
+                    "Headed by Lokayukta (usually former judge of High Court or Supreme Court)",
+                    "Includes Up-Lokayukta in some states",
+                    "Appointed by Governor of the state",
+                    "Composition varies across states",
+                    "Assisted by investigation and administrative staff"
+                ]
+            },
+            {
+                "heading": "Functions of Lokayukta",
+                "points": [
+                    "Investigates corruption complaints against state officials",
+                    "Recommends action against public servants",
+                    "Reduces corruption in state administration",
+                    "Ensures grievance redressal of citizens",
+                    "Promotes transparency at state level governance"
+                ]
+            },
+            {
+                "heading": "Difference between Lokpal and Lokayukta",
+                "points": [
+                    "Lokpal operates at central level; Lokayukta at state level",
+                    "Lokpal is established under central law; Lokayukta under state laws",
+                    "Lokpal investigates Union officials; Lokayukta investigates state officials",
+                    "Structure of Lokpal is uniform; Lokayukta varies across states",
+                    "Lokpal has wider national jurisdiction compared to Lokayukta"
+                ]
+            },
+            {
+                "heading": "Importance in Governance",
+                "points": [
+                    "Strengthens anti-corruption framework in India",
+                    "Improves transparency and accountability",
+                    "Builds public trust in governance system",
+                    "Acts as deterrent against misuse of power",
+                    "Supports ethical governance and rule of law"
+                ]
+            },
+            {
+                "heading": "Challenges",
+                "points": [
+                    "Delay in appointments and functioning",
+                    "Limited investigative independence",
+                    "Low public awareness",
+                    "Overlapping jurisdiction with other agencies like CBI and CVC",
+                    "Need for stronger enforcement mechanisms"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Lokpal is a:",
+                    "options": [
+                        "Constitutional body",
+                        "Statutory body",
+                        "Judicial body",
+                        "Executive body"
+                    ],
+                    "answer": "Statutory body"
+                },
+                {
+                    "question": "Lokayukta operates at:",
+                    "options": [
+                        "Central level",
+                        "State level",
+                        "District level",
+                        "International level"
+                    ],
+                    "answer": "State level"
+                },
+                {
+                    "question": "Lokpal was established under:",
+                    "options": [
+                        "RTI Act",
+                        "Lokpal and Lokayuktas Act, 2013",
+                        "CVC Act",
+                        "CAG Act"
+                    ],
+                    "answer": "Lokpal and Lokayuktas Act, 2013"
+                },
+                {
+                    "question": "Lokpal investigates corruption at:",
+                    "options": [
+                        "State level only",
+                        "Central level",
+                        "Judiciary only",
+                        "Private companies only"
+                    ],
+                    "answer": "Central level"
+                },
+                {
+                    "question": "Lokayukta is appointed by:",
+                    "options": [
+                        "President",
+                        "Governor",
+                        "Prime Minister",
+                        "Chief Justice of India"
+                    ],
+                    "answer": "Governor"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Lokpal includes jurisdiction over:",
+                    "options": [
+                        "Only judges",
+                        "Central government officials",
+                        "Only private companies",
+                        "Only NGOs"
+                    ],
+                    "answer": "Central government officials"
+                },
+                {
+                    "question": "Lokayukta mainly deals with:",
+                    "options": [
+                        "Foreign affairs",
+                        "State-level corruption cases",
+                        "Judicial review",
+                        "Military administration"
+                    ],
+                    "answer": "State-level corruption cases"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Lokpal is constitutional body",
+                        "Lokpal is statutory body",
+                        "Lokpal is judicial body",
+                        "Lokpal is electoral body"
+                    ],
+                    "answer": "Lokpal is statutory body"
+                },
+                {
+                    "question": "A key function of Lokpal is:",
+                    "options": [
+                        "Making laws",
+                        "Investigating corruption complaints",
+                        "Conducting elections",
+                        "Judging cases"
+                    ],
+                    "answer": "Investigating corruption complaints"
+                },
+                {
+                    "question": "Lokayukta varies across states because:",
+                    "options": [
+                        "It is under state laws",
+                        "It is under international law",
+                        "It is a constitutional body",
+                        "It is under judiciary"
+                    ],
+                    "answer": "It is under state laws"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Lokpal deals with central government corruption cases\n2. Lokayukta operates at state level\n3. Lokpal is a constitutional body",
+                    "options": [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "All of the above"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Which best describes Lokpal?",
+                    "options": [
+                        "Judicial body",
+                        "Anti-corruption statutory ombudsman",
+                        "Constitutional audit body",
+                        "Electoral body"
+                    ],
+                    "answer": "Anti-corruption statutory ombudsman"
+                },
+                {
+                    "question": "A major difference between Lokpal and Lokayukta is:",
+                    "options": [
+                        "Both operate at same level",
+                        "Lokpal is central, Lokayukta is state-level",
+                        "Both are judicial bodies",
+                        "Both handle elections"
+                    ],
+                    "answer": "Lokpal is central, Lokayukta is state-level"
+                },
+                {
+                    "question": "A key limitation of Lokpal system is:",
+                    "options": [
+                        "Excess judicial power",
+                        "Delay in appointments and enforcement issues",
+                        "Too much transparency",
+                        "Lack of legal framework"
+                    ],
+                    "answer": "Delay in appointments and enforcement issues"
+                },
+                {
+                    "question": "Lokpal strengthens governance by:",
+                    "options": [
+                        "Increasing secrecy",
+                        "Reducing accountability",
+                        "Promoting transparency and anti-corruption",
+                        "Weakening institutions"
+                    ],
+                    "answer": "Promoting transparency and anti-corruption"
+                }
+            ]
+        }
+    }
+]

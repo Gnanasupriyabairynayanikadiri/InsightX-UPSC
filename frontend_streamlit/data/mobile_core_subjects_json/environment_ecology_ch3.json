@@ -1,0 +1,546 @@
+[
+    {
+        "name": "Biogeochemical Cycles – Parts, Types & Carbon Cycle",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Biogeochemical cycles describe movement of elements between living organisms and the physical environment",
+                    "They ensure recycling of essential nutrients in ecosystems",
+                    "Unlike energy, nutrients are continuously recycled",
+                    "Major cycles include carbon, nitrogen, water, phosphorus, and sulfur"
+                ]
+            },
+            {
+                "heading": "Biogeochemical Cycle – Meaning",
+                "points": [
+                    "Bio = living organisms, Geo = earth, Chemical = elements",
+                    "Biogeochemical cycles are pathways through which chemical elements circulate",
+                    "They move between biosphere, lithosphere, atmosphere, and hydrosphere",
+                    "Maintains balance of nutrients in ecosystems",
+                    "Essential for sustaining life on Earth"
+                ]
+            },
+            {
+                "heading": "Parts of a Biogeochemical Cycle",
+                "points": [
+                    "Reservoir pool – where elements are stored in large amounts (e.g., rocks, atmosphere)",
+                    "Exchange pool – where elements are actively cycling (plants, animals, soil)",
+                    "Biotic components – plants, animals, microorganisms",
+                    "Abiotic components – air, water, soil, rocks",
+                    "Flux – movement of elements between pools"
+                ]
+            },
+            {
+                "heading": "Reservoir and Exchange Pools",
+                "points": [
+                    "Reservoir pool – slow cycling, long-term storage (e.g., carbon in rocks)",
+                    "Exchange pool – rapid cycling between organisms and environment",
+                    "Atmosphere is major reservoir for gases like CO₂",
+                    "Soil acts as both reservoir and exchange medium",
+                    "Oceans are major carbon and water reservoirs"
+                ]
+            },
+            {
+                "heading": "Types of Biogeochemical Cycles",
+                "points": [
+                    "Gaseous cycles – main reservoir is atmosphere (carbon, nitrogen, oxygen cycle)",
+                    "Sedimentary cycles – main reservoir is earth’s crust (phosphorus, sulfur cycle)",
+                    "Hydrological cycle – movement of water between land, air, and oceans",
+                    "Fast cycling – water and carbon (short time scale)",
+                    "Slow cycling – phosphorus (long geological time scale)"
+                ]
+            },
+            {
+                "heading": "Gaseous Cycles",
+                "points": [
+                    "Main reservoir is atmosphere",
+                    "Elements cycle quickly between living organisms and air",
+                    "Examples: carbon cycle, nitrogen cycle, oxygen cycle",
+                    "Highly dynamic and fast-moving cycles",
+                    "Strongly influenced by human activities"
+                ]
+            },
+            {
+                "heading": "Sedimentary Cycles",
+                "points": [
+                    "Main reservoir is earth’s crust (rocks and soil)",
+                    "Slow cycling process compared to gaseous cycles",
+                    "Examples: phosphorus cycle, sulfur cycle",
+                    "Movement occurs through weathering and erosion",
+                    "Less affected by atmospheric changes"
+                ]
+            },
+            {
+                "heading": "Carbon Cycle – Meaning",
+                "points": [
+                    "Carbon cycle describes movement of carbon among atmosphere, biosphere, oceans, and lithosphere",
+                    "Carbon is fundamental element for all living organisms",
+                    "Involves processes like photosynthesis, respiration, decomposition, and combustion",
+                    "Maintains balance of CO₂ in atmosphere",
+                    "Key cycle linked to climate change"
+                ]
+            },
+            {
+                "heading": "Processes in Carbon Cycle",
+                "points": [
+                    "Photosynthesis – plants absorb CO₂ and convert into organic matter",
+                    "Respiration – organisms release CO₂ into atmosphere",
+                    "Decomposition – breakdown of dead matter releases carbon",
+                    "Combustion – burning of fossil fuels releases CO₂",
+                    "Ocean absorption – oceans act as major carbon sink"
+                ]
+            },
+            {
+                "heading": "Carbon Reservoirs",
+                "points": [
+                    "Atmosphere – CO₂ gas",
+                    "Biosphere – plants and animals",
+                    "Hydrosphere – dissolved carbon in oceans",
+                    "Lithosphere – fossil fuels and carbonate rocks",
+                    "Oceans store the largest amount of carbon"
+                ]
+            },
+            {
+                "heading": "Human Impact on Carbon Cycle",
+                "points": [
+                    "Burning of fossil fuels increases atmospheric CO₂",
+                    "Deforestation reduces carbon absorption",
+                    "Industrial activities release greenhouse gases",
+                    "Leads to global warming and climate change",
+                    "Disturbs natural carbon balance"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Biogeochemical cycles involve movement of:",
+                    "options": [
+                        "Energy only",
+                        "Water only",
+                        "Chemical elements",
+                        "Rocks only"
+                    ],
+                    "answer": "Chemical elements"
+                },
+                {
+                    "question": "Main reservoir of gaseous cycles is:",
+                    "options": [
+                        "Soil",
+                        "Rocks",
+                        "Atmosphere",
+                        "Plants"
+                    ],
+                    "answer": "Atmosphere"
+                },
+                {
+                    "question": "Carbon cycle is important for:",
+                    "options": [
+                        "Soil formation",
+                        "Climate regulation",
+                        "Rock formation",
+                        "Earthquake control"
+                    ],
+                    "answer": "Climate regulation"
+                },
+                {
+                    "question": "Photosynthesis removes from atmosphere:",
+                    "options": [
+                        "Oxygen",
+                        "Nitrogen",
+                        "Carbon dioxide",
+                        "Hydrogen"
+                    ],
+                    "answer": "Carbon dioxide"
+                },
+                {
+                    "question": "Sedimentary cycles have main reservoir in:",
+                    "options": [
+                        "Atmosphere",
+                        "Ocean surface",
+                        "Earth’s crust",
+                        "Plants"
+                    ],
+                    "answer": "Earth’s crust"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which is a gaseous cycle?",
+                    "options": [
+                        "Phosphorus cycle",
+                        "Sulfur cycle",
+                        "Carbon cycle",
+                        "Rock cycle"
+                    ],
+                    "answer": "Carbon cycle"
+                },
+                {
+                    "question": "Carbon is stored in largest amount in:",
+                    "options": [
+                        "Atmosphere",
+                        "Biosphere",
+                        "Oceans",
+                        "Lithosphere"
+                    ],
+                    "answer": "Oceans"
+                },
+                {
+                    "question": "Combustion in carbon cycle results in:",
+                    "options": [
+                        "Absorption of CO₂",
+                        "Release of CO₂",
+                        "Formation of water",
+                        "Soil enrichment"
+                    ],
+                    "answer": "Release of CO₂"
+                },
+                {
+                    "question": "Decomposition in carbon cycle:",
+                    "options": [
+                        "Consumes carbon",
+                        "Releases carbon dioxide",
+                        "Stops carbon flow",
+                        "Removes oxygen"
+                    ],
+                    "answer": "Releases carbon dioxide"
+                },
+                {
+                    "question": "Phosphorus cycle is classified as:",
+                    "options": [
+                        "Gaseous cycle",
+                        "Sedimentary cycle",
+                        "Hydrological cycle",
+                        "Energy cycle"
+                    ],
+                    "answer": "Sedimentary cycle"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Carbon cycle is a gaseous cycle\n2. Phosphorus cycle has atmospheric reservoir\n3. Oceans are major carbon sinks",
+                    "options": [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "1, 2 and 3"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "Human activities affect carbon cycle by:",
+                    "options": [
+                        "Increasing oxygen levels",
+                        "Increasing CO₂ emissions",
+                        "Stopping decomposition",
+                        "Reducing photosynthesis completely"
+                    ],
+                    "answer": "Increasing CO₂ emissions"
+                },
+                {
+                    "question": "Biogeochemical cycles are important because they:",
+                    "options": [
+                        "Destroy nutrients",
+                        "Recycle essential elements",
+                        "Stop energy flow",
+                        "Increase pollution only"
+                    ],
+                    "answer": "Recycle essential elements"
+                },
+                {
+                    "question": "Sedimentary cycles are slower because:",
+                    "options": [
+                        "Atmosphere is dominant",
+                        "Movement through rocks is slow",
+                        "No organisms involved",
+                        "Water is absent"
+                    ],
+                    "answer": "Movement through rocks is slow"
+                },
+                {
+                    "question": "Carbon cycle is linked to climate change due to:",
+                    "options": [
+                        "Oxygen increase",
+                        "CO₂ concentration changes",
+                        "Water cycle disruption",
+                        "Soil erosion"
+                    ],
+                    "answer": "CO₂ concentration changes"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Nitrogen Cycle, Phosphorus Cycle & Sulphur Cycle",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Biogeochemical cycles recycle essential nutrients through ecosystems",
+                    "Nitrogen, phosphorus, and sulfur are key nutrient cycles for life processes",
+                    "They maintain soil fertility, ecosystem productivity, and biological functions",
+                    "Nitrogen and sulfur are gaseous cycles, while phosphorus is sedimentary"
+                ]
+            },
+            {
+                "heading": "Nitrogen Cycle – Meaning",
+                "points": [
+                    "Nitrogen cycle describes movement of nitrogen between atmosphere, soil, and living organisms",
+                    "Nitrogen is essential for proteins, DNA, and chlorophyll",
+                    "Atmosphere contains about 78% nitrogen but it is unusable in free form",
+                    "Conversion into usable forms is done by biological and physical processes",
+                    "Maintains soil fertility and ecosystem productivity"
+                ]
+            },
+            {
+                "heading": "Steps of Nitrogen Cycle",
+                "points": [
+                    "Nitrogen fixation – conversion of atmospheric N₂ into ammonia (by bacteria or lightning)",
+                    "Nitrification – ammonia converted into nitrites and nitrates",
+                    "Assimilation – plants absorb nitrates to form proteins",
+                    "Ammonification – decomposition of organic matter releases ammonia",
+                    "Denitrification – conversion of nitrates back to nitrogen gas"
+                ]
+            },
+            {
+                "heading": "Importance of Nitrogen Cycle",
+                "points": [
+                    "Essential for protein synthesis in living organisms",
+                    "Maintains soil fertility",
+                    "Supports plant growth and agriculture",
+                    "Maintains atmospheric balance of nitrogen",
+                    "Prevents accumulation of toxic nitrogen compounds"
+                ]
+            },
+            {
+                "heading": "Phosphorus Cycle – Meaning",
+                "points": [
+                    "Phosphorus cycle describes movement of phosphorus through rocks, soil, water, and organisms",
+                    "Essential for DNA, ATP, and cell membranes",
+                    "Unlike nitrogen, it does not have a gaseous phase",
+                    "Main reservoir is sedimentary rocks and soil",
+                    "Very slow cycling process"
+                ]
+            },
+            {
+                "heading": "Steps of Phosphorus Cycle",
+                "points": [
+                    "Weathering of rocks releases phosphate into soil and water",
+                    "Plants absorb phosphate from soil",
+                    "Animals obtain phosphorus by consuming plants",
+                    "Decomposition returns phosphorus to soil",
+                    "Sedimentation stores phosphorus in rocks over time"
+                ]
+            },
+            {
+                "heading": "Importance of Phosphorus Cycle",
+                "points": [
+                    "Essential for energy transfer (ATP)",
+                    "Important for bone and teeth formation",
+                    "Supports plant growth and root development",
+                    "Critical for ecosystem productivity",
+                    "Slow cycle makes it a limiting nutrient"
+                ]
+            },
+            {
+                "heading": "Sulphur Cycle – Meaning",
+                "points": [
+                    "Sulphur cycle describes movement of sulfur through atmosphere, soil, water, and organisms",
+                    "Important for protein structure (amino acids like cysteine and methionine)",
+                    "Has both gaseous and sedimentary components",
+                    "Sources include volcanic activity, fossil fuels, and decomposition",
+                    "Plays role in ecosystem and atmospheric chemistry"
+                ]
+            },
+            {
+                "heading": "Steps of Sulphur Cycle",
+                "points": [
+                    "Release from rocks through weathering and volcanic activity",
+                    "Absorption by plants in form of sulfates",
+                    "Transfer to animals through food chain",
+                    "Decomposition returns sulfur to soil",
+                    "Atmospheric sulfur dioxide converted into sulfuric acid (acid rain)"
+                ]
+            },
+            {
+                "heading": "Importance of Sulphur Cycle",
+                "points": [
+                    "Essential for protein synthesis in organisms",
+                    "Maintains soil fertility",
+                    "Important in enzyme and vitamin structure",
+                    "Influences atmospheric chemistry and acid rain formation",
+                    "Supports ecosystem functioning"
+                ]
+            },
+            {
+                "heading": "Nitrogen vs Phosphorus vs Sulphur Cycle",
+                "points": [
+                    "Nitrogen – gaseous cycle with atmospheric reservoir",
+                    "Phosphorus – sedimentary cycle with no gaseous phase",
+                    "Sulphur – both gaseous and sedimentary components",
+                    "Nitrogen cycle is fastest, phosphorus is slowest",
+                    "All are essential for biological processes"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Atmospheric nitrogen is about:",
+                    "options": [
+                        "21%",
+                        "50%",
+                        "78%",
+                        "90%"
+                    ],
+                    "answer": "78%"
+                },
+                {
+                    "question": "Phosphorus cycle is mainly:",
+                    "options": [
+                        "Gaseous cycle",
+                        "Sedimentary cycle",
+                        "Energy cycle",
+                        "Water cycle"
+                    ],
+                    "answer": "Sedimentary cycle"
+                },
+                {
+                    "question": "Nitrogen fixation converts N₂ into:",
+                    "options": [
+                        "Oxygen",
+                        "Ammonia",
+                        "Carbon dioxide",
+                        "Phosphate"
+                    ],
+                    "answer": "Ammonia"
+                },
+                {
+                    "question": "Sulphur is essential for:",
+                    "options": [
+                        "Carbohydrates",
+                        "Proteins",
+                        "Fats only",
+                        "Water formation"
+                    ],
+                    "answer": "Proteins"
+                },
+                {
+                    "question": "Main reservoir of phosphorus is:",
+                    "options": [
+                        "Atmosphere",
+                        "Rocks and soil",
+                        "Oceans only",
+                        "Plants only"
+                    ],
+                    "answer": "Rocks and soil"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Denitrification results in:",
+                    "options": [
+                        "Formation of nitrates",
+                        "Release of nitrogen gas",
+                        "Increase in soil fertility",
+                        "Water purification"
+                    ],
+                    "answer": "Release of nitrogen gas"
+                },
+                {
+                    "question": "Phosphorus is important for:",
+                    "options": [
+                        "ATP formation",
+                        "Air formation",
+                        "Heat production",
+                        "Light emission"
+                    ],
+                    "answer": "ATP formation"
+                },
+                {
+                    "question": "Sulphur cycle contributes to:",
+                    "options": [
+                        "Acid rain formation",
+                        "Ozone depletion only",
+                        "Soil erosion",
+                        "Water freezing"
+                    ],
+                    "answer": "Acid rain formation"
+                },
+                {
+                    "question": "Which cycle is fastest?",
+                    "options": [
+                        "Phosphorus cycle",
+                        "Nitrogen cycle",
+                        "Sulphur cycle",
+                        "Rock cycle"
+                    ],
+                    "answer": "Nitrogen cycle"
+                },
+                {
+                    "question": "Ammonification is carried out by:",
+                    "options": [
+                        "Plants",
+                        "Animals",
+                        "Decomposers",
+                        "Sunlight"
+                    ],
+                    "answer": "Decomposers"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Phosphorus cycle has no atmospheric phase\n2. Nitrogen cycle includes denitrification\n3. Sulphur cycle is purely gaseous",
+                    "options": [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Nitrogen is essential because it is a component of:",
+                    "options": [
+                        "DNA and proteins",
+                        "Only water",
+                        "Only soil minerals",
+                        "Only oxygen"
+                    ],
+                    "answer": "DNA and proteins"
+                },
+                {
+                    "question": "Phosphorus cycle is slow because:",
+                    "options": [
+                        "It has atmospheric phase",
+                        "It depends on rock weathering",
+                        "It is energy-based",
+                        "It has no biological role"
+                    ],
+                    "answer": "It depends on rock weathering"
+                },
+                {
+                    "question": "Sulphur cycle impacts environment through:",
+                    "options": [
+                        "Greenhouse effect only",
+                        "Acid rain formation",
+                        "Soil freezing",
+                        "Oxygen production"
+                    ],
+                    "answer": "Acid rain formation"
+                },
+                {
+                    "question": "Overall biogeochemical cycles ensure:",
+                    "options": [
+                        "Energy destruction",
+                        "Nutrient recycling",
+                        "Species extinction",
+                        "Climate stability only"
+                    ],
+                    "answer": "Nutrient recycling"
+                }
+            ]
+        }
+    }
+]

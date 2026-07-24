@@ -1,0 +1,1911 @@
+[
+    {
+        "name": "Science and Technology Through the Ages",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Science and technology in India evolved continuously from ancient to modern times",
+                    "Ancient India made significant contributions in mathematics, astronomy, medicine, metallurgy, and architecture",
+                    "Knowledge was preserved through texts, oral traditions, and institutions like universities",
+                    "Indian scientific traditions were deeply linked with philosophy and religion",
+                    "Many ideas influenced global scientific development"
+                ]
+            },
+            {
+                "heading": "Science in Ancient India",
+                "points": [
+                    "Developed during Vedic and post-Vedic periods",
+                    "Strong focus on astronomy, mathematics, and medicine",
+                    "Knowledge recorded in texts like Vedas, Upanishads, and Sutras",
+                    "Scientific thinking was often observational and theoretical",
+                    "Universities like Takshashila and Nalanda promoted learning"
+                ]
+            },
+            {
+                "heading": "Mathematics in Ancient India",
+                "points": [
+                    "Concept of zero (Shunya) developed in India",
+                    "Decimal number system originated in India",
+                    "Aryabhata introduced place value system",
+                    "Brahmagupta formalized rules of zero and negative numbers",
+                    "Pingala contributed early binary number system ideas"
+                ]
+            },
+            {
+                "heading": "Important Mathematicians",
+                "points": [
+                    "Aryabhata – Earth rotates on its axis, calculation of π",
+                    "Brahmagupta – rules of zero and algebra",
+                    "Bhaskara I & II – advanced arithmetic and algebra",
+                    "Pingala – binary numbers and combinatorics",
+                    "Varahamihira – astronomy and mathematics integration"
+                ]
+            },
+            {
+                "heading": "Astronomy in Ancient India",
+                "points": [
+                    "Closely linked with mathematics",
+                    "Study of planets, eclipses, and celestial movements",
+                    "Aryabhata proposed heliocentric ideas (Earth rotation)",
+                    "Varahamihira wrote Brihat Samhita",
+                    "Indian astronomy influenced Islamic and European systems"
+                ]
+            },
+            {
+                "heading": "Medicine (Ayurveda)",
+                "points": [
+                    "Ancient Indian system of medicine",
+                    "Based on balance of three doshas: Vata, Pitta, Kapha",
+                    "Charaka Samhita – internal medicine",
+                    "Sushruta Samhita – surgery and surgical instruments",
+                    "Emphasized preventive healthcare and holistic healing"
+                ]
+            },
+            {
+                "heading": "Sushruta – Father of Surgery",
+                "points": [
+                    "Performed surgeries including cataract and plastic surgery",
+                    "Described over 120 surgical instruments",
+                    "Knowledge of anatomy through dissection",
+                    "Detailed procedures for wound treatment",
+                    "Sushruta Samhita is key medical text"
+                ]
+            },
+            {
+                "heading": "Metallurgy in Ancient India",
+                "points": [
+                    "Advanced knowledge of metal extraction and processing",
+                    "Iron Pillar of Delhi shows rust-resistant technology",
+                    "Zinc distillation techniques developed in India",
+                    "High-quality steel known as Wootz steel",
+                    "Used in weapons and tools"
+                ]
+            },
+            {
+                "heading": "Architecture and Engineering",
+                "points": [
+                    "Temple architecture based on Vastu Shastra",
+                    "Harappan civilization showed advanced urban planning",
+                    "Stepwells, irrigation systems, and dams developed",
+                    "Rock-cut architecture (Ajanta, Ellora caves)",
+                    "Use of geometry and astronomy in construction"
+                ]
+            },
+            {
+                "heading": "Universities and Learning Centers",
+                "points": [
+                    "Takshashila – oldest university, taught medicine, law, warfare",
+                    "Nalanda – major Buddhist learning center",
+                    "Vikramshila – advanced Buddhist studies",
+                    "Valabhi – center for secular education",
+                    "Attracted international students from Asia"
+                ]
+            },
+            {
+                "heading": "Science in Medieval India",
+                "points": [
+                    "Continued development in astronomy and medicine",
+                    "Influence of Islamic scientific traditions",
+                    "Translation of Sanskrit texts into Arabic and Persian",
+                    "Advancement in architecture under Delhi Sultanate and Mughals",
+                    "Introduction of new technologies like paper-making and gunpowder"
+                ]
+            },
+            {
+                "heading": "Mughal Contributions to Technology",
+                "points": [
+                    "Advancement in irrigation systems (Persian wheel)",
+                    "Development of gunpowder technology",
+                    "Architectural engineering (Taj Mahal, forts)",
+                    "Blending Persian and Indian scientific knowledge",
+                    "Improvement in metallurgy and craftsmanship"
+                ]
+            },
+            {
+                "heading": "Modern Scientific Developments",
+                "points": [
+                    "Introduction of Western science during British rule",
+                    "Establishment of universities and research institutions",
+                    "Growth of railways, telegraph, and modern engineering",
+                    "Indian scientists contributed to modern physics and mathematics",
+                    "Rise of scientific institutions like IISc and DRDO"
+                ]
+            },
+            {
+                "heading": "Modern Indian Scientists",
+                "points": [
+                    "C.V. Raman – Raman Effect (Nobel Prize in Physics)",
+                    "Homi Bhabha – nuclear physics and atomic energy",
+                    "Satyendra Nath Bose – Bose-Einstein statistics",
+                    "Jagadish Chandra Bose – plant physiology and radio science",
+                    "A.P.J. Abdul Kalam – missile technology"
+                ]
+            },
+            {
+                "heading": "Importance of Science in Indian Culture",
+                "points": [
+                    "Science was integrated with philosophy and religion",
+                    "Knowledge was transmitted through gurukul system",
+                    "Emphasis on observation and experimentation",
+                    "Strong tradition of interdisciplinary learning",
+                    "Influence on global scientific development"
+                ]
+            },
+            {
+                "heading": "UPSC Importance",
+                "points": [
+                    "Frequently asked in Ancient History and Culture section",
+                    "Important scientists like Aryabhata and Sushruta are key",
+                    "Match inventor–field questions are common",
+                    "Harappan science and metallurgy are important topics",
+                    "Modern scientists like C.V. Raman are often asked"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Aryabhata is known for:",
+                    "options": [
+                        "Earth rotation theory",
+                        "Theory of relativity",
+                        "Evolution theory",
+                        "Gravitational law"
+                    ],
+                    "answer": "Earth rotation theory"
+                },
+                {
+                    "question": "Sushruta is associated with:",
+                    "options": [
+                        "Surgery",
+                        "Mathematics",
+                        "Astronomy",
+                        "Physics"
+                    ],
+                    "answer": "Surgery"
+                },
+                {
+                    "question": "Zero (Shunya) concept developed in:",
+                    "options": [
+                        "India",
+                        "China",
+                        "Greece",
+                        "Egypt"
+                    ],
+                    "answer": "India"
+                },
+                {
+                    "question": "Nalanda was a:",
+                    "options": [
+                        "University",
+                        "Temple",
+                        "Fort",
+                        "Market"
+                    ],
+                    "answer": "University"
+                },
+                {
+                    "question": "Raman Effect is discovered by:",
+                    "options": [
+                        "C.V. Raman",
+                        "Homi Bhabha",
+                        "S.N. Bose",
+                        "Kalam"
+                    ],
+                    "answer": "C.V. Raman"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Charaka Samhita is related to:",
+                    "options": [
+                        "Medicine",
+                        "Astronomy",
+                        "Mathematics",
+                        "Architecture"
+                    ],
+                    "answer": "Medicine"
+                },
+                {
+                    "question": "Wootz steel is famous for:",
+                    "options": [
+                        "High quality metallurgy",
+                        "Pottery",
+                        "Textiles",
+                        "Paintings"
+                    ],
+                    "answer": "High quality metallurgy"
+                },
+                {
+                    "question": "Takshashila was famous for:",
+                    "options": [
+                        "Higher education",
+                        "Trade only",
+                        "Religious rituals",
+                        "Warfare only"
+                    ],
+                    "answer": "Higher education"
+                },
+                {
+                    "question": "Brahmagupta contributed to:",
+                    "options": [
+                        "Zero and algebra",
+                        "Surgery",
+                        "Architecture",
+                        "Poetry"
+                    ],
+                    "answer": "Zero and algebra"
+                },
+                {
+                    "question": "Ayurveda is based on:",
+                    "options": [
+                        "Three doshas",
+                        "Four elements",
+                        "Five senses",
+                        "Seven metals"
+                    ],
+                    "answer": "Three doshas"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Aryabhata proposed Earth rotates\n2. Sushruta wrote about surgery\n3. Charaka is related to astronomy",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                        "Sushruta – Surgery",
+                        "Brahmagupta – Architecture",
+                        "Aryabhata – Medicine",
+                        "Charaka – Astronomy"
+                    ],
+                    "answer": "Sushruta – Surgery"
+                },
+                {
+                    "question": "Iron Pillar of Delhi is famous for:",
+                    "options": [
+                        "Rust resistance",
+                        "Height only",
+                        "Religious significance",
+                        "Decoration"
+                    ],
+                    "answer": "Rust resistance"
+                },
+                {
+                    "question": "Nalanda University was mainly associated with:",
+                    "options": [
+                        "Buddhist studies",
+                        "Hindu rituals",
+                        "Military training",
+                        "Trade education"
+                    ],
+                    "answer": "Buddhist studies"
+                },
+                {
+                    "question": "C.V. Raman is known for:",
+                    "options": [
+                        "Raman Effect",
+                        "Theory of gravity",
+                        "Atom model",
+                        "Space research"
+                    ],
+                    "answer": "Raman Effect"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Mathematics in India",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "India has one of the oldest mathematical traditions in the world",
+                    "Indian mathematics developed independently and influenced global mathematics",
+                    "Major contributions include zero, decimal system, algebra, trigonometry, and combinatorics",
+                    "Mathematics was closely linked with astronomy, rituals, and temple architecture",
+                    "Key texts include Sulba Sutras, Aryabhatiya, Brahmasphutasiddhanta"
+                ]
+            },
+            {
+                "heading": "Early Mathematical Traditions",
+                "points": [
+                    "Sulba Sutras (Vedic period) contain early geometry",
+                    "Used for altar construction and rituals",
+                    "Knowledge of Pythagorean theorem predates Greek mathematics",
+                    "Use of basic geometry for measurements and constructions",
+                    "Mathematics developed from practical needs like construction and astronomy"
+                ]
+            },
+            {
+                "heading": "Key Contributions of Ancient India",
+                "points": [
+                    "Concept of zero (Shunya)",
+                    "Decimal place value system",
+                    "Advanced algebraic methods",
+                    "Early trigonometry (sine, cosine concepts)",
+                    "Combinatorics and binary system ideas"
+                ]
+            },
+            {
+                "heading": "Aryabhata",
+                "points": [
+                    "Author of Aryabhatiya (499 CE)",
+                    "Introduced place value system",
+                    "Calculated value of π (Pi) approximately 3.1416",
+                    "Proposed Earth rotates on its axis",
+                    "Work influenced astronomy and mathematics globally"
+                ]
+            },
+            {
+                "heading": "Brahmagupta",
+                "points": [
+                    "Author of Brahmasphutasiddhanta",
+                    "First to define rules of zero as a number",
+                    "Developed rules for negative numbers",
+                    "Contributed to algebra and arithmetic",
+                    "Work influenced Islamic and European mathematics"
+                ]
+            },
+            {
+                "heading": "Bhaskara I & II",
+                "points": [
+                    "Bhaskara I – wrote commentary on Aryabhata",
+                    "Bhaskara II (Bhaskaracharya) – author of Lilavati and Bijaganita",
+                    "Advanced work in algebra, arithmetic, and geometry",
+                    "Solved quadratic and indeterminate equations",
+                    "Major contributor to medieval Indian mathematics"
+                ]
+            },
+            {
+                "heading": "Pingala",
+                "points": [
+                    "Ancient scholar of prosody and combinatorics",
+                    "Early use of binary number system concepts",
+                    "Studied patterns of syllables in poetry",
+                    "Linked mathematics with linguistic analysis",
+                    "Considered precursor to modern combinatorics"
+                ]
+            },
+            {
+                "heading": "Trigonometry in India",
+                "points": [
+                    "Concept of sine (jya) developed in India",
+                    "Aryabhata introduced trigonometric tables",
+                    "Used in astronomy for calculating planetary positions",
+                    "Influenced Islamic and European mathematics",
+                    "Advanced understanding of angles and circles"
+                ]
+            },
+            {
+                "heading": "Geometry in Ancient India",
+                "points": [
+                    "Sulba Sutras contain geometric constructions",
+                    "Used ropes for measurements in altar building",
+                    "Knowledge of right-angle triangle principles",
+                    "Application in temple architecture",
+                    "Early understanding of spatial geometry"
+                ]
+            },
+            {
+                "heading": "Zero and Decimal System",
+                "points": [
+                    "India developed concept of zero as a number",
+                    "Brahmagupta formalized mathematical rules of zero",
+                    "Decimal system based on place value system",
+                    "Spread to Arab world and then Europe",
+                    "Foundation of modern mathematics"
+                ]
+            },
+            {
+                "heading": "Medieval Mathematics",
+                "points": [
+                    "Development continued under Indian astronomer-mathematicians",
+                    "Kerala School of Mathematics made advanced discoveries",
+                    "Madhava developed early calculus concepts",
+                    "Use of infinite series in trigonometry",
+                    "Independent development before European calculus"
+                ]
+            },
+            {
+                "heading": "Kerala School of Mathematics",
+                "points": [
+                    "Founded by Madhava of Sangamagrama",
+                    "Developed infinite series for π, sine, cosine",
+                    "Preceded Newton and Leibniz calculus",
+                    "Strong link with astronomy",
+                    "Highly advanced mathematical tradition in medieval India"
+                ]
+            },
+            {
+                "heading": "Applications of Mathematics",
+                "points": [
+                    "Astronomy – planetary calculations and eclipses",
+                    "Architecture – temple and city planning",
+                    "Trade – accounting and measurements",
+                    "Calendar systems – time calculation",
+                    "Religious rituals – altar construction geometry"
+                ]
+            },
+            {
+                "heading": "Global Influence",
+                "points": [
+                    "Indian numerals transmitted to Arab world",
+                    "Known as Hindu-Arabic numeral system",
+                    "Influenced European Renaissance mathematics",
+                    "Zero concept transformed global mathematics",
+                    "Indian trigonometry widely adopted in astronomy"
+                ]
+            },
+            {
+                "heading": "Importance for UPSC",
+                "points": [
+                    "Very important for Ancient and Medieval History",
+                    "Zero, Aryabhata, and Brahmagupta are frequently asked",
+                    "Kerala School of Mathematics is a recent UPSC favorite",
+                    "Match inventor-mathematical concept questions are common",
+                    "Often linked with science and technology in culture section"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Concept of zero was developed in:",
+                    "options": [
+                        "India",
+                        "Greece",
+                        "China",
+                        "Egypt"
+                    ],
+                    "answer": "India"
+                },
+                {
+                    "question": "Aryabhata is associated with:",
+                    "options": [
+                        "Astronomy and mathematics",
+                        "Medicine",
+                        "Architecture",
+                        "Politics"
+                    ],
+                    "answer": "Astronomy and mathematics"
+                },
+                {
+                    "question": "Brahmagupta is known for:",
+                    "options": [
+                        "Rules of zero",
+                        "Theory of relativity",
+                        "Evolution theory",
+                        "Gravity"
+                    ],
+                    "answer": "Rules of zero"
+                },
+                {
+                    "question": "Lilavati is written by:",
+                    "options": [
+                        "Bhaskara II",
+                        "Aryabhata",
+                        "Brahmagupta",
+                        "Pingala"
+                    ],
+                    "answer": "Bhaskara II"
+                },
+                {
+                    "question": "Decimal system originated in:",
+                    "options": [
+                        "India",
+                        "Rome",
+                        "Arabia",
+                        "China"
+                    ],
+                    "answer": "India"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Pingala is associated with:",
+                    "options": [
+                        "Binary system concepts",
+                        "Medicine",
+                        "Architecture",
+                        "Trade systems"
+                    ],
+                    "answer": "Binary system concepts"
+                },
+                {
+                    "question": "Kerala School of Mathematics is known for:",
+                    "options": [
+                        "Infinite series",
+                        "Temple architecture",
+                        "Medicine",
+                        "Law studies"
+                    ],
+                    "answer": "Infinite series"
+                },
+                {
+                    "question": "Sulba Sutras are related to:",
+                    "options": [
+                        "Geometry",
+                        "Poetry",
+                        "Medicine",
+                        "Music"
+                    ],
+                    "answer": "Geometry"
+                },
+                {
+                    "question": "Indian trigonometry developed for:",
+                    "options": [
+                        "Astronomy",
+                        "Trade only",
+                        "War strategy",
+                        "Agriculture"
+                    ],
+                    "answer": "Astronomy"
+                },
+                {
+                    "question": "Hindu-Arabic numeral system includes:",
+                    "options": [
+                        "Zero and decimal system",
+                        "Roman numerals",
+                        "Binary only",
+                        "Greek alphabet"
+                    ],
+                    "answer": "Zero and decimal system"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Aryabhata used π approximation\n2. Brahmagupta defined zero rules\n3. Bhaskara I discovered calculus",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                        "Bhaskara II – Lilavati",
+                        "Aryabhata – Brahmasphutasiddhanta",
+                        "Brahmagupta – Aryabhatiya",
+                        "Pingala – Ayurveda"
+                    ],
+                    "answer": "Bhaskara II – Lilavati"
+                },
+                {
+                    "question": "Kerala School contributed to:",
+                    "options": [
+                        "Early calculus concepts",
+                        "Modern physics",
+                        "Medicine",
+                        "Political science"
+                    ],
+                    "answer": "Early calculus concepts"
+                },
+                {
+                    "question": "Sulba Sutras are important for:",
+                    "options": [
+                        "Geometric constructions",
+                        "Trade accounting",
+                        "Music theory",
+                        "Law codes"
+                    ],
+                    "answer": "Geometric constructions"
+                },
+                {
+                    "question": "Indian mathematical contribution influenced:",
+                    "options": [
+                        "Global numeral systems",
+                        "Only Indian society",
+                        "Only religious rituals",
+                        "Only literature"
+                    ],
+                    "answer": "Global numeral systems"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Medicine in Ancient India (Ayurveda & Medical Science)",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Medicine in ancient India is primarily represented by Ayurveda, one of the oldest healing systems in the world",
+                    "It focuses on holistic health – balance of body, mind, and spirit",
+                    "Medical knowledge developed through observation, experience, and textual tradition",
+                    "Closely linked with philosophy, spirituality, and natural sciences",
+                    "Two major classical medical texts: Charaka Samhita and Sushruta Samhita"
+                ]
+            },
+            {
+                "heading": "Origin and Development",
+                "points": [
+                    "Medical ideas appear in the Vedas, especially Atharva Veda",
+                    "Systematic development during post-Vedic and classical periods",
+                    "Ayurveda means ‘Science of Life’ (Ayur = life, Veda = knowledge)",
+                    "Medical knowledge was transmitted through guru-shishya tradition",
+                    "Ayurveda integrated diet, lifestyle, and medicine"
+                ]
+            },
+            {
+                "heading": "Core Concept of Ayurveda",
+                "points": [
+                    "Human body is governed by three doshas: Vata, Pitta, Kapha",
+                    "Health = balance of doshas",
+                    "Disease = imbalance of doshas",
+                    "Focus on prevention rather than cure",
+                    "Uses herbal medicines, diet, and lifestyle regulation"
+                ]
+            },
+            {
+                "heading": "Charaka Samhita",
+                "points": [
+                    "Attributed to Acharya Charaka",
+                    "Focuses on internal medicine (Kayachikitsa)",
+                    "Describes diagnosis, causes, and treatment of diseases",
+                    "Emphasizes preventive healthcare and healthy lifestyle",
+                    "One of the most important Ayurvedic texts"
+                ]
+            },
+            {
+                "heading": "Sushruta Samhita",
+                "points": [
+                    "Attributed to Sushruta",
+                    "Known as the father of surgery",
+                    "Describes surgical procedures and instruments",
+                    "Covers topics like cataract surgery, plastic surgery, and fractures",
+                    "Contains detailed anatomical knowledge"
+                ]
+            },
+            {
+                "heading": "Sushruta – Contributions",
+                "points": [
+                    "Performed advanced surgical procedures",
+                    "Described over 120 surgical instruments",
+                    "Knowledge of dissection for anatomical study",
+                    "Early techniques of reconstructive surgery",
+                    "Systematic classification of diseases and treatments"
+                ]
+            },
+            {
+                "heading": "Branches of Ayurveda",
+                "points": [
+                    "Kayachikitsa – internal medicine",
+                    "Shalya Tantra – surgery",
+                    "Shalakya Tantra – ENT and eye diseases",
+                    "Kaumarbhritya – pediatrics",
+                    "Agada Tantra – toxicology",
+                    "Rasayana – rejuvenation therapy"
+                ]
+            },
+            {
+                "heading": "Medical Practices in Ancient India",
+                "points": [
+                    "Use of herbal medicines and natural remedies",
+                    "Emphasis on diet (Ahara) and lifestyle (Vihara)",
+                    "Preventive healthcare and hygiene practices",
+                    "Pulse diagnosis and observation-based treatment",
+                    "Integration of yoga and meditation for healing"
+                ]
+            },
+            {
+                "heading": "Public Health and Surgery",
+                "points": [
+                    "Advanced understanding of hygiene and sanitation",
+                    "Surgical procedures like cataract removal and rhinoplasty",
+                    "Treatment of fractures and wounds",
+                    "Use of anesthesia-like herbal substances",
+                    "Focus on sterilization and cleanliness"
+                ]
+            },
+            {
+                "heading": "Medical Education",
+                "points": [
+                    "Taught in ancient universities like Takshashila and Nalanda",
+                    "Guru-shishya parampara system of learning",
+                    "Practical training along with theoretical knowledge",
+                    "Study of anatomy through observation",
+                    "Medical ethics strongly emphasized"
+                ]
+            },
+            {
+                "heading": "Other Medical Scholars",
+                "points": [
+                    "Dhanvantari – considered divine physician",
+                    "Vagbhata – author of Ashtanga Hridaya",
+                    "Madhava – contributed to diagnosis of diseases",
+                    "Sharngadhara – medical compendium of Ayurveda",
+                    "Bhela – early Ayurvedic text contributor"
+                ]
+            },
+            {
+                "heading": "Link with Philosophy and Religion",
+                "points": [
+                    "Health seen as balance of physical and spiritual well-being",
+                    "Strong link with Sankhya and Yoga philosophies",
+                    "Meditation and yoga used for healing",
+                    "Medical ethics based on Dharma",
+                    "Healing considered part of spiritual duty"
+                ]
+            },
+            {
+                "heading": "Medieval Developments",
+                "points": [
+                    "Interaction with Unani system during Islamic period",
+                    "Translation of Sanskrit medical texts into Arabic and Persian",
+                    "Development of hospitals (Bimaristans)",
+                    "Integration of Ayurveda and Unani traditions",
+                    "Continued practice of traditional medicine"
+                ]
+            },
+            {
+                "heading": "Modern Ayurveda",
+                "points": [
+                    "Still widely practiced in India today",
+                    "Recognized as traditional system of medicine",
+                    "Integrated with modern healthcare systems",
+                    "Global interest in herbal and holistic medicine",
+                    "Institutions like CCRAS promote research in Ayurveda"
+                ]
+            },
+            {
+                "heading": "Importance of Ancient Indian Medicine",
+                "points": [
+                    "One of the earliest structured medical systems in the world",
+                    "Influenced Arabic and European medicine",
+                    "Strong foundation in surgery and pharmacology",
+                    "Emphasis on preventive healthcare",
+                    "Holistic approach to health and wellness"
+                ]
+            },
+            {
+                "heading": "UPSC Importance",
+                "points": [
+                    "Very important for Ancient History and Art & Culture",
+                    "Charaka and Sushruta are frequently asked topics",
+                    "Branches of Ayurveda often appear in MCQs",
+                    "Surgery-related contributions are important",
+                    "Link between Ayurveda and philosophy is relevant for mains answers"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Ayurveda is primarily related to:",
+                    "options": [
+                        "Medicine",
+                        "Architecture",
+                        "Mathematics",
+                        "Music"
+                    ],
+                    "answer": "Medicine"
+                },
+                {
+                    "question": "Charaka Samhita deals with:",
+                    "options": [
+                        "Internal medicine",
+                        "Surgery",
+                        "Astronomy",
+                        "Law"
+                    ],
+                    "answer": "Internal medicine"
+                },
+                {
+                    "question": "Sushruta is known as the father of:",
+                    "options": [
+                        "Surgery",
+                        "Physics",
+                        "Mathematics",
+                        "Agriculture"
+                    ],
+                    "answer": "Surgery"
+                },
+                {
+                    "question": "Ayurveda is based on:",
+                    "options": [
+                        "Three doshas",
+                        "Four elements",
+                        "Five senses",
+                        "Seven metals"
+                    ],
+                    "answer": "Three doshas"
+                },
+                {
+                    "question": "Atharva Veda contains references to:",
+                    "options": [
+                        "Medicine",
+                        "Only rituals",
+                        "Only music",
+                        "Only warfare"
+                    ],
+                    "answer": "Medicine"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Sushruta Samhita is famous for:",
+                    "options": [
+                        "Surgical techniques",
+                        "Poetry",
+                        "Mathematics",
+                        "Astronomy"
+                    ],
+                    "answer": "Surgical techniques"
+                },
+                {
+                    "question": "Branches of Ayurveda include:",
+                    "options": [
+                        "Shalya Tantra",
+                        "Nyaya",
+                        "Vedanta",
+                        "Samkhya"
+                    ],
+                    "answer": "Shalya Tantra"
+                },
+                {
+                    "question": "Ashtanga Hridaya was written by:",
+                    "options": [
+                        "Vagbhata",
+                        "Charaka",
+                        "Sushruta",
+                        "Kanada"
+                    ],
+                    "answer": "Vagbhata"
+                },
+                {
+                    "question": "Ayurveda emphasizes:",
+                    "options": [
+                        "Preventive healthcare",
+                        "Only surgery",
+                        "Only astrology",
+                        "Only rituals"
+                    ],
+                    "answer": "Preventive healthcare"
+                },
+                {
+                    "question": "Takshashila was a center for:",
+                    "options": [
+                        "Medical education",
+                        "Only trade",
+                        "Only religion",
+                        "Only art"
+                    ],
+                    "answer": "Medical education"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Sushruta dealt with surgery\n2. Charaka dealt with internal medicine\n3. Vagbhata wrote Lilavati",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                        "Sushruta – Surgery",
+                        "Charaka – Astronomy",
+                        "Vagbhata – Mathematics",
+                        "Kanada – Medicine"
+                    ],
+                    "answer": "Sushruta – Surgery"
+                },
+                {
+                    "question": "Shalya Tantra refers to:",
+                    "options": [
+                        "Surgery",
+                        "Medicine",
+                        "Astrology",
+                        "Yoga"
+                    ],
+                    "answer": "Surgery"
+                },
+                {
+                    "question": "Ayurveda is best described as:",
+                    "options": [
+                        "Holistic health system",
+                        "Military science",
+                        "Trade system",
+                        "Political system"
+                    ],
+                    "answer": "Holistic health system"
+                },
+                {
+                    "question": "Sushruta Samhita is important because it:",
+                    "options": [
+                        "Describes surgical instruments",
+                        "Teaches grammar",
+                        "Explains astronomy",
+                        "Describes architecture"
+                    ],
+                    "answer": "Describes surgical instruments"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Physics and Chemistry in Ancient & Traditional India",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Ancient Indian knowledge of physics and chemistry developed through observation and practical application",
+                    "It was not 'modern experimental science' but a strong empirical and technical tradition",
+                    "Linked with metallurgy, medicine, astronomy, architecture, and rituals",
+                    "Knowledge was preserved in texts like Vedas, Samhitas, and technical treatises",
+                    "Strong contributions in metallurgy, optics, acoustics, and material science"
+                ]
+            },
+            {
+                "heading": "Science in Vedic and Early Period",
+                "points": [
+                    "Natural phenomena were studied through philosophical interpretation",
+                    "Fire (Agni), water (Apah), air (Vayu) seen as fundamental elements",
+                    "Sulba Sutras show early understanding of geometry and measurement",
+                    "Observations of sound, light, and motion in ritual practices",
+                    "Early ideas of matter and transformation"
+                ]
+            },
+            {
+                "heading": "Physics in Ancient India",
+                "points": [
+                    "Concepts of motion and force discussed in philosophical schools",
+                    "Ideas of gravity mentioned by Bhaskaracharya (objects fall due to attraction of Earth)",
+                    "Sound studied in relation to vibration (Nada theory)",
+                    "Optics studied in context of light and vision",
+                    "Heat and energy observed in fire rituals and metallurgy"
+                ]
+            },
+            {
+                "heading": "Concept of Matter",
+                "points": [
+                    "Vaisheshika school introduced atomic theory (Anu)",
+                    "Matter believed to be composed of indivisible particles",
+                    "Combination of atoms forms all substances",
+                    "Early conceptual foundation of material science",
+                    "Different properties explained through combination of elements"
+                ]
+            },
+            {
+                "heading": "Chemistry in Ancient India (Rasashastra)",
+                "points": [
+                    "Traditional chemistry known as Rasashastra",
+                    "Focus on metals, minerals, and herbal compounds",
+                    "Used in medicine, metallurgy, and alchemy",
+                    "Knowledge of distillation, calcination, and sublimation",
+                    "Closely linked with Ayurveda"
+                ]
+            },
+            {
+                "heading": "Metallurgy",
+                "points": [
+                    "Highly advanced metal extraction and processing techniques",
+                    "Iron Pillar of Delhi shows rust-resistant iron technology",
+                    "Wootz steel known for high quality and durability",
+                    "Zinc distillation process developed in India",
+                    "Use of copper, bronze, gold, and silver in crafts and coins"
+                ]
+            },
+            {
+                "heading": "Iron Pillar of Delhi",
+                "points": [
+                    "Located near Qutub Minar complex",
+                    "Known for corrosion resistance even after centuries",
+                    "Shows advanced knowledge of iron purification",
+                    "Example of ancient Indian metallurgical skill",
+                    "Still studied by modern material scientists"
+                ]
+            },
+            {
+                "heading": "Wootz Steel",
+                "points": [
+                    "High-quality steel developed in South India",
+                    "Exported to Middle East and Europe",
+                    "Known for sharpness and strength",
+                    "Used in sword-making (Damascus swords)",
+                    "Shows advanced carbon control techniques"
+                ]
+            },
+            {
+                "heading": "Chemistry in Ayurveda",
+                "points": [
+                    "Use of herbal compounds and mineral medicines",
+                    "Processes like fermentation and distillation",
+                    "Preparation of Rasayana (rejuvenation medicines)",
+                    "Use of metals like mercury in controlled forms",
+                    "Early pharmaceutical knowledge system"
+                ]
+            },
+            {
+                "heading": "Optics and Light",
+                "points": [
+                    "Early understanding of reflection and vision",
+                    "Concept that light travels in straight lines",
+                    "Studies related to mirrors and lenses in later periods",
+                    "Used in astronomy for observation tools",
+                    "Developed through observational astronomy"
+                ]
+            },
+            {
+                "heading": "Sound and Acoustics",
+                "points": [
+                    "Concept of Nada (sound vibration) in Indian philosophy",
+                    "Sound considered fundamental to universe (Om concept)",
+                    "Music theory linked with mathematical ratios",
+                    "Temple architecture designed for sound resonance",
+                    "Early understanding of vibration and frequency"
+                ]
+            },
+            {
+                "heading": "Material Science and Architecture",
+                "points": [
+                    "Use of lime, mortar, and natural binding materials",
+                    "Advanced stone carving techniques in temples",
+                    "Knowledge of load distribution in architecture",
+                    "Use of geometry in construction design",
+                    "Durable construction methods seen in ancient monuments"
+                ]
+            },
+            {
+                "heading": "Gunpowder and Later Chemistry",
+                "points": [
+                    "Gunpowder technology introduced later in medieval India",
+                    "Used in warfare during Delhi Sultanate and Mughal periods",
+                    "Chemical processes expanded through trade with Arabs",
+                    "Paper-making and ink preparation techniques improved",
+                    "Blend of indigenous and foreign chemical knowledge"
+                ]
+            },
+            {
+                "heading": "Scientific Method in Ancient India",
+                "points": [
+                    "Based on observation (Pratyaksha) and inference (Anumana)",
+                    "Experimentation in metallurgy and medicine",
+                    "Integration of philosophy with practical science",
+                    "Knowledge transmission through guru-shishya tradition",
+                    "Not formalized like modern scientific method but highly systematic"
+                ]
+            },
+            {
+                "heading": "Global Influence",
+                "points": [
+                    "Indian metallurgy influenced Islamic and European technology",
+                    "Decimal system and zero transformed global mathematics and physics",
+                    "Ayurvedic chemistry influenced traditional medicine systems",
+                    "Trade spread Indian technical knowledge abroad",
+                    "Strong contribution to global scientific heritage"
+                ]
+            },
+            {
+                "heading": "UPSC Importance",
+                "points": [
+                    "Frequently asked in Ancient History and Culture section",
+                    "Iron Pillar of Delhi is a recurring question",
+                    "Wootz steel and metallurgy are important topics",
+                    "Vaisheshika atomic theory often asked in MCQs",
+                    "Link between science and philosophy is important for mains answers"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Iron Pillar of Delhi is famous for:",
+                    "options": [
+                        "Corrosion resistance",
+                        "Height",
+                        "Decoration",
+                        "Religious rituals"
+                    ],
+                    "answer": "Corrosion resistance"
+                },
+                {
+                    "question": "Wootz steel is associated with:",
+                    "options": [
+                        "Metallurgy",
+                        "Medicine",
+                        "Astronomy",
+                        "Architecture"
+                    ],
+                    "answer": "Metallurgy"
+                },
+                {
+                    "question": "Vaisheshika school is related to:",
+                    "options": [
+                        "Atomic theory",
+                        "Music",
+                        "Medicine",
+                        "Politics"
+                    ],
+                    "answer": "Atomic theory"
+                },
+                {
+                    "question": "Rasashastra deals with:",
+                    "options": [
+                        "Chemistry and alchemy",
+                        "Poetry",
+                        "Law",
+                        "Astronomy"
+                    ],
+                    "answer": "Chemistry and alchemy"
+                },
+                {
+                    "question": "Om concept is related to:",
+                    "options": [
+                        "Sound vibration",
+                        "Mathematics",
+                        "Trade",
+                        "Agriculture"
+                    ],
+                    "answer": "Sound vibration"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Wootz steel was famous for:",
+                    "options": [
+                        "Sword making",
+                        "Pottery",
+                        "Textiles",
+                        "Painting"
+                    ],
+                    "answer": "Sword making"
+                },
+                {
+                    "question": "Vaisheshika philosophy introduced:",
+                    "options": [
+                        "Atomic theory",
+                        "Yoga system",
+                        "Ritual system",
+                        "Bhakti movement"
+                    ],
+                    "answer": "Atomic theory"
+                },
+                {
+                    "question": "Rasayana in Ayurveda refers to:",
+                    "options": [
+                        "Rejuvenation therapy",
+                        "Surgery",
+                        "Astrology",
+                        "Trade"
+                    ],
+                    "answer": "Rejuvenation therapy"
+                },
+                {
+                    "question": "Ancient Indian optics studied:",
+                    "options": [
+                        "Reflection of light",
+                        "Electricity",
+                        "Gravity only",
+                        "Nuclear energy"
+                    ],
+                    "answer": "Reflection of light"
+                },
+                {
+                    "question": "Gunpowder was introduced in India during:",
+                    "options": [
+                        "Medieval period",
+                        "Vedic period",
+                        "Mauryan period",
+                        "Harappan period"
+                    ],
+                    "answer": "Medieval period"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Iron Pillar shows rust resistance\n2. Wootz steel was exported abroad\n3. Vaisheshika explains atomic theory",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "All"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                        "Vaisheshika – Atomic theory",
+                        "Samkhya – Surgery",
+                        "Nyaya – Metallurgy",
+                        "Yoga – Chemistry"
+                    ],
+                    "answer": "Vaisheshika – Atomic theory"
+                },
+                {
+                    "question": "Rasashastra is primarily associated with:",
+                    "options": [
+                        "Alchemy and chemistry",
+                        "Architecture",
+                        "Law",
+                        "Music"
+                    ],
+                    "answer": "Alchemy and chemistry"
+                },
+                {
+                    "question": "Sound in ancient Indian thought is linked with:",
+                    "options": [
+                        "Vibration theory",
+                        "Gravity theory",
+                        "Atomic fusion",
+                        "Electricity"
+                    ],
+                    "answer": "Vibration theory"
+                },
+                {
+                    "question": "Ancient Indian science was mainly based on:",
+                    "options": [
+                        "Observation and inference",
+                        "Only experiments in labs",
+                        "Pure theory without observation",
+                        "Modern instruments"
+                    ],
+                    "answer": "Observation and inference"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Shipbuilding and Navigation in Ancient & Medieval India",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "India has a long maritime tradition dating back to the Indus Valley Civilization",
+                    "Shipbuilding and navigation were highly developed due to extensive coastline and trade needs",
+                    "Ancient Indians engaged in both coastal and overseas trade",
+                    "Knowledge of winds, monsoons, and stars was used for navigation",
+                    "Major ports and shipbuilding centers existed across Gujarat, Bengal, and South India"
+                ]
+            },
+            {
+                "heading": "Early Evidence (Indus Valley Civilization)",
+                "points": [
+                    "Dockyard at Lothal (Gujarat) is one of the earliest known in the world",
+                    "Evidence of inland and maritime trade",
+                    "Seals and artifacts indicate trade with Mesopotamia",
+                    "Use of boats for transport and trade",
+                    "Early understanding of tidal and river systems"
+                ]
+            },
+            {
+                "heading": "Shipbuilding in Ancient India",
+                "points": [
+                    "Advanced knowledge of wooden ship construction",
+                    "Use of durable timber and waterproofing techniques",
+                    "Ships designed for both river and ocean travel",
+                    "Shipbuilding described in ancient texts like Yuktikalpataru",
+                    "Skilled craftsmen (shipwrights) were highly respected"
+                ]
+            },
+            {
+                "heading": "Types of Ships",
+                "points": [
+                    "River boats – used for inland navigation",
+                    "Coastal ships – for trade along Indian coastline",
+                    "Ocean-going ships – for international trade",
+                    "Cargo ships – for transporting goods like spices and textiles",
+                    "Warships – used by kingdoms for naval defense"
+                ]
+            },
+            {
+                "heading": "Navigation Techniques",
+                "points": [
+                    "Use of stars and celestial bodies for direction",
+                    "Understanding of monsoon wind patterns (Hindu-Arabic sailors were experts)",
+                    "Knowledge of ocean currents and tides",
+                    "Magnetic compass-like devices were later introduced via trade",
+                    "Sun position used for daytime navigation"
+                ]
+            },
+            {
+                "heading": "Indian Maritime Knowledge",
+                "points": [
+                    "Texts mention sea routes and maritime geography",
+                    "Knowledge of Arabian Sea, Bay of Bengal, and Indian Ocean routes",
+                    "Use of port-to-port navigation system",
+                    "Seasonal sailing based on monsoon winds",
+                    "Strong tradition of merchant guilds involved in navigation"
+                ]
+            },
+            {
+                "heading": "Important Ancient Ports",
+                "points": [
+                    "Lothal – Indus Valley port city",
+                    "Bharuch (Broach) – major trade center in Gujarat",
+                    "Kaveripattinam – Chola port in South India",
+                    "Tamralipta – important Bengal port",
+                    "Muziris – major Kerala port for Indo-Roman trade"
+                ]
+            },
+            {
+                "heading": "Medieval Shipbuilding",
+                "points": [
+                    "Continued development under Cholas and later kingdoms",
+                    "Chola navy was one of the strongest in Indian history",
+                    "Use of large wooden ships for overseas expeditions",
+                    "Trade with Southeast Asia expanded maritime activity",
+                    "Arab and European travelers noted Indian shipbuilding skill"
+                ]
+            },
+            {
+                "heading": "Chola Naval Power",
+                "points": [
+                    "Cholas maintained a strong navy for trade and conquest",
+                    "Rajendra Chola I conducted naval expeditions to Southeast Asia",
+                    "Controlled maritime trade routes in Bay of Bengal",
+                    "Advanced dockyards and ship maintenance systems",
+                    "Helped spread Indian culture to Southeast Asia"
+                ]
+            },
+            {
+                "heading": "Medieval Foreign Accounts",
+                "points": [
+                    "Arab traders praised Indian ships for durability",
+                    "Marco Polo mentioned Indian maritime trade",
+                    "Ibn Battuta described Indian shipbuilding techniques",
+                    "European travelers noted Indian coastal trade networks",
+                    "India was a key hub in Indian Ocean trade system"
+                ]
+            },
+            {
+                "heading": "Materials and Technology",
+                "points": [
+                    "Ships built using teak and other strong wood",
+                    "Use of natural resins for waterproofing",
+                    "Rope and sail technology for wind navigation",
+                    "Knowledge of hull design for stability",
+                    "Improved cargo storage systems for long voyages"
+                ]
+            },
+            {
+                "heading": "Trade and Navigation Link",
+                "points": [
+                    "Navigation developed mainly due to trade needs",
+                    "Spices, textiles, and precious stones were major exports",
+                    "India connected to Rome, Arabia, and Southeast Asia",
+                    "Maritime Silk Route passed through Indian waters",
+                    "Ports acted as economic and cultural hubs"
+                ]
+            },
+            {
+                "heading": "Decline and Changes",
+                "points": [
+                    "Decline of Indian maritime dominance after 17th century",
+                    "Rise of European naval powers (Portuguese, Dutch, British)",
+                    "Shift in global trade routes",
+                    "Indian shipbuilding gradually declined under colonial policies",
+                    "Traditional knowledge survived in coastal communities"
+                ]
+            },
+            {
+                "heading": "Importance of Shipbuilding Tradition",
+                "points": [
+                    "Enabled India’s participation in global trade networks",
+                    "Facilitated cultural exchange with Southeast Asia and Rome",
+                    "Supported economic prosperity of ancient kingdoms",
+                    "Contributed to spread of Indian religion and culture",
+                    "Shows advanced indigenous technological knowledge"
+                ]
+            },
+            {
+                "heading": "UPSC Importance",
+                "points": [
+                    "Frequently asked in Ancient and Medieval History",
+                    "Lothal and Indus Valley maritime trade is important",
+                    "Chola navy is a recurring topic",
+                    "Indo-Roman trade routes often appear in MCQs",
+                    "Navigation techniques linked with science and culture"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Lothal is famous for:",
+                    "options": [
+                        "Ancient dockyard",
+                        "Temple architecture",
+                        "Rock paintings",
+                        "Iron smelting"
+                    ],
+                    "answer": "Ancient dockyard"
+                },
+                {
+                    "question": "Chola dynasty is known for:",
+                    "options": [
+                        "Strong navy",
+                        "Stone age tools",
+                        "Buddhist monasteries only",
+                        "Gupta coins"
+                    ],
+                    "answer": "Strong navy"
+                },
+                {
+                    "question": "Tamralipta was located in:",
+                    "options": [
+                        "Bengal",
+                        "Gujarat",
+                        "Kerala",
+                        "Punjab"
+                    ],
+                    "answer": "Bengal"
+                },
+                {
+                    "question": "Ancient Indian navigation mainly used:",
+                    "options": [
+                        "Stars and monsoon winds",
+                        "GPS systems",
+                        "Radar",
+                        "Maps only"
+                    ],
+                    "answer": "Stars and monsoon winds"
+                },
+                {
+                    "question": "Muziris was a famous port in:",
+                    "options": [
+                        "Kerala",
+                        "Tamil Nadu",
+                        "Odisha",
+                        "Bihar"
+                    ],
+                    "answer": "Kerala"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Indian ships were mainly built using:",
+                    "options": [
+                        "Teak wood",
+                        "Iron only",
+                        "Stone",
+                        "Plastic"
+                    ],
+                    "answer": "Teak wood"
+                },
+                {
+                    "question": "Chola naval expeditions reached:",
+                    "options": [
+                        "Southeast Asia",
+                        "Europe",
+                        "Africa only",
+                        "America"
+                    ],
+                    "answer": "Southeast Asia"
+                },
+                {
+                    "question": "Indo-Roman trade mainly used port of:",
+                    "options": [
+                        "Muziris",
+                        "Delhi",
+                        "Pataliputra",
+                        "Varanasi"
+                    ],
+                    "answer": "Muziris"
+                },
+                {
+                    "question": "Navigation in ancient India depended on:",
+                    "options": [
+                        "Monsoon winds",
+                        "Railways",
+                        "Air routes",
+                        "Telegraphs"
+                    ],
+                    "answer": "Monsoon winds"
+                },
+                {
+                    "question": "Ibn Battuta described Indian:",
+                    "options": [
+                        "Shipbuilding",
+                        "Agriculture only",
+                        "Temple rituals only",
+                        "Political system only"
+                    ],
+                    "answer": "Shipbuilding"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Lothal had a dockyard\n2. Cholas had a strong navy\n3. Harappans used iron ships",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                        "Lothal – Indus Valley dockyard",
+                        "Muziris – Gangetic port",
+                        "Tamralipta – Rajasthan port",
+                        "Bharuch – Himalayan trade center"
+                    ],
+                    "answer": "Lothal – Indus Valley dockyard"
+                },
+                {
+                    "question": "Indian navigation primarily relied on:",
+                    "options": [
+                        "Astronomy and monsoon winds",
+                        "Electric compass",
+                        "Steam engines",
+                        "Maps only"
+                    ],
+                    "answer": "Astronomy and monsoon winds"
+                },
+                {
+                    "question": "Decline of Indian maritime power was due to:",
+                    "options": [
+                        "European naval dominance",
+                        "Increase in trade",
+                        "Better ships in India",
+                        "Discovery of new ports"
+                    ],
+                    "answer": "European naval dominance"
+                },
+                {
+                    "question": "Chola navy helped in:",
+                    "options": [
+                        "Trade and cultural expansion",
+                        "Only agriculture",
+                        "Only inland trade",
+                        "Religious rituals"
+                    ],
+                    "answer": "Trade and cultural expansion"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Other Important Contributors of Ancient and Medieval India",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Ancient and medieval India saw contributions from scholars, artists, scientists, architects, and philosophers",
+                    "These contributors shaped India’s cultural, scientific, and intellectual heritage",
+                    "Their work spans fields like literature, medicine, mathematics, architecture, and philosophy",
+                    "Many contributions influenced both Indian society and global knowledge systems",
+                    "Important across Vedic, classical, and medieval periods"
+                ]
+            },
+            {
+                "heading": "Vedic and Early Contributors",
+                "points": [
+                    "Rishis (sages) contributed to Vedic hymns and philosophy",
+                    "Panini – Sanskrit grammar (Ashtadhyayi)",
+                    "Yaska – Nirukta (etymology and linguistics)",
+                    "Gargi and Maitreyi – women philosophers in Upanishadic tradition",
+                    "Bharata – author of Natya Shastra (theory of performing arts)"
+                ]
+            },
+            {
+                "heading": "Literary Contributors",
+                "points": [
+                    "Kalidasa – greatest classical Sanskrit poet and dramatist",
+                    "Bhasa – early Sanskrit playwright",
+                    "Banabhatta – author of Harshacharita",
+                    "Dandin – writer of Kavyadarsha (poetics)",
+                    "Amarasimha – author of Amarakosha (Sanskrit dictionary)"
+                ]
+            },
+            {
+                "heading": "Scientific and Mathematical Contributors",
+                "points": [
+                    "Aryabhata – astronomy and mathematics",
+                    "Brahmagupta – rules of zero and algebra",
+                    "Bhaskara II – advanced mathematics and astronomy",
+                    "Varahamihira – astrology and astronomy (Brihat Samhita)",
+                    "Pingala – combinatorics and binary concepts"
+                ]
+            },
+            {
+                "heading": "Medical Contributors",
+                "points": [
+                    "Charaka – internal medicine (Charaka Samhita)",
+                    "Sushruta – surgery (Sushruta Samhita)",
+                    "Vagbhata – Ashtanga Hridaya",
+                    "Dhanvantari – regarded as divine physician",
+                    "Madhava – contributions to diagnosis of diseases"
+                ]
+            },
+            {
+                "heading": "Philosophical Contributors",
+                "points": [
+                    "Kapila – founder of Samkhya philosophy",
+                    "Patanjali – Yoga Sutras",
+                    "Gautama – Nyaya philosophy",
+                    "Kanada – Vaisheshika philosophy",
+                    "Jaimini – Purva Mimamsa philosophy"
+                ]
+            },
+            {
+                "heading": "Bhakti and Religious Contributors",
+                "points": [
+                    "Adi Shankaracharya – Advaita Vedanta",
+                    "Ramanujacharya – Vishishtadvaita philosophy",
+                    "Madhvacharya – Dvaita philosophy",
+                    "Kabir – Bhakti movement poet-saint",
+                    "Guru Nanak – founder of Sikhism"
+                ]
+            },
+            {
+                "heading": "Medieval Literary Contributors",
+                "points": [
+                    "Tulsidas – Ramcharitmanas",
+                    "Surdas – devotional poetry of Krishna",
+                    "Amir Khusrau – Indo-Persian literature and music",
+                    "Chand Bardai – Prithviraj Raso",
+                    "Abdul Rahim Khan-i-Khana – Persian couplets and poetry"
+                ]
+            },
+            {
+                "heading": "Art and Architecture Contributors",
+                "points": [
+                    "Ashokan artisans – Mauryan pillars and stupas",
+                    "Chola craftsmen – bronze sculptures and temple architecture",
+                    "Gupta artists – classical temple architecture and sculpture",
+                    "Mughal architects – Taj Mahal, Fatehpur Sikri structures",
+                    "Rajput artists – miniature paintings"
+                ]
+            },
+            {
+                "heading": "Music and Dance Contributors",
+                "points": [
+                    "Bharata Muni – Natya Shastra (theory of dance and drama)",
+                    "Amir Khusrau – development of Hindustani music",
+                    "Tansen – Mughal court musician",
+                    "Jayadeva – Gita Govinda (devotional music tradition)",
+                    "South Indian composers – development of Carnatic music"
+                ]
+            },
+            {
+                "heading": "Medieval Scientific Contributors",
+                "points": [
+                    "Madhava of Sangamagrama – Kerala School of Mathematics",
+                    "Nilakantha Somayaji – astronomy and mathematics",
+                    "Bhaskara II (continuing influence in medieval learning)",
+                    "Unani scholars in India – medical synthesis",
+                    "Islamic scholars in India – translation and astronomy"
+                ]
+            },
+            {
+                "heading": "Foreign Contributors in Indian Context",
+                "points": [
+                    "Al-Biruni – wrote Kitab-ul-Hind on Indian culture and science",
+                    "Ibn Battuta – travel accounts of India",
+                    "Marco Polo – descriptions of Indian trade and society",
+                    "Abdur Razzaq – Vijayanagara empire accounts",
+                    "European travelers documented Indian culture during late medieval period"
+                ]
+            },
+            {
+                "heading": "Contribution of Women in Ancient India",
+                "points": [
+                    "Gargi – philosophical debates in Upanishads",
+                    "Maitreyi – spiritual inquiry in Vedic texts",
+                    "Lopamudra – Vedic hymns contributor",
+                    "Andal – Tamil Bhakti poet-saint",
+                    "Akka Mahadevi – Kannada Bhakti movement"
+                ]
+            },
+            {
+                "heading": "Importance of Contributors",
+                "points": [
+                    "Built foundation of Indian intellectual tradition",
+                    "Advanced science, mathematics, medicine, and arts",
+                    "Encouraged cultural synthesis and diversity",
+                    "Influenced global knowledge systems",
+                    "Still relevant in modern Indian identity and education"
+                ]
+            },
+            {
+                "heading": "UPSC Importance",
+                "points": [
+                    "Frequently asked in Ancient and Medieval History",
+                    "Matching author-work questions are very common",
+                    "Bhakti and Sufi contributors are important",
+                    "Scientific contributors often appear in MCQs",
+                    "Interdisciplinary nature makes it useful for both Prelims and Mains"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Panini is known for:",
+                    "options": [
+                        "Sanskrit grammar",
+                        "Medicine",
+                        "Astronomy",
+                        "Architecture"
+                    ],
+                    "answer": "Sanskrit grammar"
+                },
+                {
+                    "question": "Kalidasa was a:",
+                    "options": [
+                        "Poet and dramatist",
+                        "Scientist",
+                        "Physician",
+                        "King"
+                    ],
+                    "answer": "Poet and dramatist"
+                },
+                {
+                    "question": "Sushruta is associated with:",
+                    "options": [
+                        "Surgery",
+                        "Music",
+                        "Mathematics",
+                        "Law"
+                    ],
+                    "answer": "Surgery"
+                },
+                {
+                    "question": "Adi Shankaracharya is associated with:",
+                    "options": [
+                        "Advaita Vedanta",
+                        "Buddhism",
+                        "Jainism",
+                        "Nyaya philosophy"
+                    ],
+                    "answer": "Advaita Vedanta"
+                },
+                {
+                    "question": "Tansen was a musician in the court of:",
+                    "options": [
+                        "Akbar",
+                        "Ashoka",
+                        "Chandragupta Maurya",
+                        "Harsha"
+                    ],
+                    "answer": "Akbar"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Amir Khusrau contributed to:",
+                    "options": [
+                        "Music and literature",
+                        "Medicine",
+                        "Mathematics",
+                        "Architecture"
+                    ],
+                    "answer": "Music and literature"
+                },
+                {
+                    "question": "Bharata Muni is associated with:",
+                    "options": [
+                        "Natya Shastra",
+                        "Charaka Samhita",
+                        "Aryabhatiya",
+                        "Arthashastra"
+                    ],
+                    "answer": "Natya Shastra"
+                },
+                {
+                    "question": "Al-Biruni wrote about:",
+                    "options": [
+                        "Indian society and science",
+                        "Greek politics",
+                        "Roman law",
+                        "Chinese trade only"
+                    ],
+                    "answer": "Indian society and science"
+                },
+                {
+                    "question": "Madhava of Sangamagrama is known for:",
+                    "options": [
+                        "Kerala School of Mathematics",
+                        "Surgery",
+                        "Architecture",
+                        "Music"
+                    ],
+                    "answer": "Kerala School of Mathematics"
+                },
+                {
+                    "question": "Kabir was associated with:",
+                    "options": [
+                        "Bhakti movement",
+                        "Gupta administration",
+                        "Mauryan empire",
+                        "Harappan culture"
+                    ],
+                    "answer": "Bhakti movement"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Panini wrote Sanskrit grammar\n2. Charaka dealt with medicine\n3. Kalidasa wrote Arthashastra",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                        "Kalidasa – Poetry",
+                        "Sushruta – Grammar",
+                        "Panini – Medicine",
+                        "Bhaskara II – Music"
+                    ],
+                    "answer": "Kalidasa – Poetry"
+                },
+                {
+                    "question": "Al-Biruni is important because he:",
+                    "options": [
+                        "Documented Indian science and culture",
+                        "Built temples in India",
+                        "Founded Mughal empire",
+                        "Wrote Vedas"
+                    ],
+                    "answer": "Documented Indian science and culture"
+                },
+                {
+                    "question": "Bharata Muni’s Natya Shastra deals with:",
+                    "options": [
+                        "Performing arts",
+                        "Medicine",
+                        "Law",
+                        "Astronomy"
+                    ],
+                    "answer": "Performing arts"
+                },
+                {
+                    "question": "Kerala School of Mathematics contributed to:",
+                    "options": [
+                        "Early calculus ideas",
+                        "Political theory",
+                        "Military science",
+                        "Architecture"
+                    ],
+                    "answer": "Early calculus ideas"
+                }
+            ]
+        }
+    }
+]

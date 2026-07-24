@@ -1,0 +1,2331 @@
+TOPICS = [
+    {
+        "name": "Indian Art & Culture – Tribal Culture in India",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Tribal communities are indigenous groups with distinct cultural identities",
+                    "They are spread across forest, hill, and remote regions of India",
+                    "India has one of the largest tribal populations in the world",
+                    "Tribal culture is deeply connected with nature and environment",
+                    "They preserve unique languages, rituals, and traditions"
+                ]
+            },
+            {
+                "heading": "Meaning of Tribal Culture",
+                "points": [
+                    "Refers to the way of life of indigenous communities",
+                    "Includes customs, traditions, beliefs, and social systems",
+                    "Strong oral tradition with limited written records",
+                    "Community-based lifestyle rather than individualistic",
+                    "Closely linked with forests, land, and natural resources"
+                ]
+            },
+            {
+                "heading": "Distribution of Tribal Population in India",
+                "points": [
+                    "Central India belt – Madhya Pradesh, Chhattisgarh, Jharkhand, Odisha",
+                    "North-East India – Nagaland, Mizoram, Meghalaya, Arunachal Pradesh",
+                    "Western India – Rajasthan, Gujarat",
+                    "Southern India – Kerala, Tamil Nadu, Karnataka",
+                    "Islands – Andaman & Nicobar Islands"
+                ]
+            },
+            {
+                "heading": "Major Tribal Groups in India",
+                "points": [
+                    "Gonds – Central India (largest tribal group)",
+                    "Bhils – Rajasthan, Gujarat, Madhya Pradesh",
+                    "Santhals – Jharkhand, West Bengal, Odisha",
+                    "Mizos – Mizoram",
+                    "Nagas – Nagaland",
+                    "Todas – Nilgiri Hills (Tamil Nadu)",
+                    "Jarawas and Onges – Andaman & Nicobar Islands"
+                ]
+            },
+            {
+                "heading": "Tribal Social Structure",
+                "points": [
+                    "Based on clans and kinship systems",
+                    "Strong community decision-making (village councils)",
+                    "Equal participation in social life",
+                    "Less hierarchical than mainstream society",
+                    "Customary laws govern social behavior"
+                ]
+            },
+            {
+                "heading": "Tribal Economy",
+                "points": [
+                    "Primarily based on agriculture, hunting, and gathering",
+                    "Shifting cultivation (jhum farming) in North-East India",
+                    "Forest-based livelihoods (minor forest produce)",
+                    "Handicrafts and traditional skills",
+                    "Limited dependence on industrial economy"
+                ]
+            },
+            {
+                "heading": "Tribal Religion and Beliefs",
+                "points": [
+                    "Animism – belief in spirits of nature",
+                    "Worship of ancestors and nature elements",
+                    "Sacred groves and forests are protected",
+                    "Shamanistic practices common",
+                    "Integration of tribal beliefs with Hinduism, Buddhism, or Christianity in some regions"
+                ]
+            },
+            {
+                "heading": "Tribal Festivals",
+                "points": [
+                    "Hornbill Festival – Nagaland",
+                    "Bihu – Assam (tribal influence)",
+                    "Sarhul – Jharkhand",
+                    "Wangala – Meghalaya (Garo tribe)",
+                    "Karma Festival – Central India tribes",
+                    "Losar – Arunachal Pradesh (Monpa tribe)"
+                ]
+            },
+            {
+                "heading": "Tribal Art and Culture",
+                "points": [
+                    "Warli painting – Maharashtra",
+                    "Gond art – Madhya Pradesh",
+                    "Pithora painting – Gujarat",
+                    "Tribal dances like Chhau, Bihu, Bagurumba",
+                    "Music using traditional instruments like drums and flutes"
+                ]
+            },
+            {
+                "heading": "Language and Literature",
+                "points": [
+                    "Mostly oral traditions",
+                    "Rich storytelling and folklore",
+                    "Many tribal languages belong to Austroasiatic, Dravidian, and Tibeto-Burman families",
+                    "Songs and epics passed through generations",
+                    "Limited written scripts in some tribes"
+                ]
+            },
+            {
+                "heading": "Impact of Modernization",
+                "points": [
+                    "Loss of traditional occupations",
+                    "Migration to urban areas",
+                    "Cultural assimilation with mainstream society",
+                    "Decline of tribal languages",
+                    "Government efforts for protection and development"
+                ]
+            },
+            {
+                "heading": "Government Measures",
+                "points": [
+                    "Scheduled Tribes (ST) classification under Constitution",
+                    "Fifth and Sixth Schedule provisions for tribal regions",
+                    "Tribal Sub-Plan (TSP) for development",
+                    "Ministry of Tribal Affairs",
+                    "Eklavya Model Residential Schools for education"
+                ]
+            },
+            {
+                "heading": "Important Tribal Movements",
+                "points": [
+                    "Santhal Rebellion (1855-56)",
+                    "Bhil Revolts in Rajasthan and MP",
+                    "Munda Ulgulan Movement led by Birsa Munda",
+                    "Naga resistance movements",
+                    "Tribal assertion for land and forest rights"
+                ]
+            },
+            {
+                "heading": "Cultural Importance",
+                "points": [
+                    "Preserves biodiversity and ecological balance",
+                    "Represents India’s cultural diversity",
+                    "Strong connection with sustainable living",
+                    "Rich contribution to folk traditions",
+                    "Important part of intangible cultural heritage"
+                ]
+            },
+            {
+                "heading": "UPSC Importance",
+                "points": [
+                    "Gonds, Bhils, Santhals – frequently asked tribes",
+                    "Hornbill Festival – Nagaland",
+                    "Warli and Gond paintings – tribal art questions",
+                    "Fifth and Sixth Schedule – governance of tribal areas",
+                    "Tribal revolts like Birsa Munda movement",
+                    "Often asked in culture + polity integration questions"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Largest tribal group in India is:",
+                    "options": ["Gonds", "Bhils", "Santhals", "Mizos"],
+                    "answer": "Gonds"
+                },
+                {
+                    "question": "Hornbill Festival is celebrated in:",
+                    "options": ["Nagaland", "Kerala", "Rajasthan", "Gujarat"],
+                    "answer": "Nagaland"
+                },
+                {
+                    "question": "Warli painting belongs to:",
+                    "options": ["Maharashtra", "Bihar", "Assam", "Punjab"],
+                    "answer": "Maharashtra"
+                },
+                {
+                    "question": "Santhals are mainly found in:",
+                    "options": ["Jharkhand", "Punjab", "Kerala", "Goa"],
+                    "answer": "Jharkhand"
+                },
+                {
+                    "question": "Tribal economy is mainly based on:",
+                    "options": [
+                    "Agriculture and forest resources",
+                    "Industrial production",
+                    "IT services",
+                    "Banking sector"
+                    ],
+                    "answer": "Agriculture and forest resources"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Birsa Munda is associated with:",
+                    "options": [
+                    "Tribal movement in Jharkhand",
+                    "Freedom movement in Bengal",
+                    "Peasant movement in Punjab",
+                    "Dravidian movement"
+                    ],
+                    "answer": "Tribal movement in Jharkhand"
+                },
+                {
+                    "question": "Pithora painting is from:",
+                    "options": ["Gujarat", "Kerala", "Assam", "Tamil Nadu"],
+                    "answer": "Gujarat"
+                },
+                {
+                    "question": "Fifth Schedule of Constitution deals with:",
+                    "options": [
+                    "Tribal areas in mainland India",
+                    "Union territories",
+                    "Fundamental rights",
+                    "Finance Commission"
+                    ],
+                    "answer": "Tribal areas in mainland India"
+                },
+                {
+                    "question": "Sarhul festival is celebrated in:",
+                    "options": ["Jharkhand", "Punjab", "Goa", "Rajasthan"],
+                    "answer": "Jharkhand"
+                },
+                {
+                    "question": "Tribal religion is mainly based on:",
+                    "options": [
+                    "Nature worship and animism",
+                    "Monotheism only",
+                    "Atheism",
+                    "Modern science"
+                    ],
+                    "answer": "Nature worship and animism"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Gonds are the largest tribal group\n2. Warli painting is from Maharashtra\n3. Sixth Schedule applies to tribal areas in North-East only",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Bhils – Rajasthan",
+                    "Santhals – Punjab",
+                    "Mizos – Kerala",
+                    "Todas – Assam"
+                    ],
+                    "answer": "Bhils – Rajasthan"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                    "Tribal culture is closely linked to nature",
+                    "Tribal communities are urban-based",
+                    "They have no cultural identity",
+                    "They are only industrial workers"
+                    ],
+                    "answer": "Tribal culture is closely linked to nature"
+                },
+                {
+                    "question": "Birsa Munda movement was against:",
+                    "options": [
+                    "British exploitation",
+                    "Mughal rule",
+                    "French rule",
+                    "Portuguese rule"
+                    ],
+                    "answer": "British exploitation"
+                },
+                {
+                    "question": "Tribal languages mainly belong to:",
+                    "options": [
+                    "Austroasiatic, Dravidian, Tibeto-Burman families",
+                    "Only Indo-Aryan family",
+                    "Only Latin family",
+                    "Only Semitic family"
+                    ],
+                    "answer": "Austroasiatic, Dravidian, Tibeto-Burman families"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Indian Art & Culture – Tribes in India",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Tribes in India are indigenous communities with distinct cultural, linguistic, and social identities",
+                    "They are officially recognized as Scheduled Tribes (STs) under the Constitution",
+                    "They are mainly concentrated in forests, hills, and remote regions",
+                    "India has one of the largest tribal populations in the world",
+                    "Each tribe has unique traditions, customs, and governance systems"
+                ]
+            },
+            {
+                "heading": "Definition of Tribes",
+                "points": [
+                    "A tribe is a social group with common ancestry, culture, and territory",
+                    "Generally isolated from mainstream society (historically)",
+                    "Strong kinship-based social structure",
+                    "Distinct language or dialect",
+                    "Dependence on natural environment for livelihood"
+                ]
+            },
+            {
+                "heading": "Geographical Distribution of Tribes",
+                "points": [
+                    "Central Tribal Belt – Madhya Pradesh, Chhattisgarh, Jharkhand, Odisha",
+                    "North-East India – Nagaland, Mizoram, Meghalaya, Arunachal Pradesh, Manipur",
+                    "Western India – Rajasthan, Gujarat, Maharashtra",
+                    "Southern India – Kerala, Tamil Nadu, Karnataka",
+                    "Islands – Andaman & Nicobar Islands"
+                ]
+            },
+            {
+                "heading": "Major Tribal Groups in India",
+                "points": [
+                    "Gonds – Madhya Pradesh, Chhattisgarh (largest tribal group)",
+                    "Bhils – Rajasthan, Gujarat, Madhya Pradesh",
+                    "Santhals – Jharkhand, West Bengal, Odisha",
+                    "Mizos – Mizoram",
+                    "Nagas – Nagaland",
+                    "Khasis – Meghalaya",
+                    "Todas – Nilgiri Hills (Tamil Nadu)",
+                    "Jarawas – Andaman & Nicobar Islands"
+                ]
+            },
+            {
+                "heading": "Tribal Classification in India",
+                "points": [
+                    "Scheduled Tribes (STs) recognized under Article 342",
+                    "Fifth Schedule – Tribal areas in mainland India",
+                    "Sixth Schedule – Autonomous tribal councils in North-East India",
+                    "Particularly Vulnerable Tribal Groups (PVTGs)",
+                    "Denotified and Semi-nomadic tribes (DNTs)"
+                ]
+            },
+            {
+                "heading": "Particularly Vulnerable Tribal Groups (PVTGs)",
+                "points": [
+                    "Most vulnerable tribal communities in India",
+                    "Identified based on low literacy, declining population, and economic backwardness",
+                    "Examples: Sentinelese, Jarawas, Onge, Toda, Birhor",
+                    "Require special protection and welfare measures",
+                    "Focus on conservation of their culture and livelihood"
+                ]
+            },
+            {
+                "heading": "Tribal Social Structure",
+                "points": [
+                    "Based on clans and kinship systems",
+                    "Strong community decision-making (village councils)",
+                    "Egalitarian social structure in many tribes",
+                    "Customary laws regulate behavior",
+                    "Oral traditions dominate social communication"
+                ]
+            },
+            {
+                "heading": "Tribal Economy",
+                "points": [
+                    "Shifting cultivation (jhum) in North-East India",
+                    "Hunting and gathering in forest regions",
+                    "Agriculture and animal husbandry",
+                    "Forest produce collection (minor forest produce)",
+                    "Handicrafts and traditional crafts"
+                ]
+            },
+            {
+                "heading": "Tribal Culture",
+                "points": [
+                    "Rich oral traditions and folklore",
+                    "Music and dance integral to festivals",
+                    "Use of natural materials in lifestyle",
+                    "Animistic religious beliefs",
+                    "Strong connection with nature and environment"
+                ]
+            },
+            {
+                "heading": "Important Tribal Movements",
+                "points": [
+                    "Santhal Rebellion (1855–56)",
+                    "Munda Ulgulan Movement led by Birsa Munda",
+                    "Bhil Revolts in Rajasthan and Madhya Pradesh",
+                    "Naga resistance movements",
+                    "Tribal uprisings against British colonial policies"
+                ]
+            },
+            {
+                "heading": "Tribal Art and Crafts",
+                "points": [
+                    "Warli painting – Maharashtra",
+                    "Gond art – Madhya Pradesh",
+                    "Pithora painting – Gujarat",
+                    "Wood carving and bamboo crafts",
+                    "Traditional jewelry and textile designs"
+                ]
+            },
+            {
+                "heading": "Government Protection for Tribes",
+                "points": [
+                    "Constitutional safeguards under Articles 244, 275, and 342",
+                    "Fifth and Sixth Schedule provisions",
+                    "Ministry of Tribal Affairs",
+                    "Tribal Sub-Plan (TSP)",
+                    "Eklavya Model Residential Schools"
+                ]
+            },
+            {
+                "heading": "Challenges Faced by Tribes",
+                "points": [
+                    "Loss of traditional lands due to deforestation and development",
+                    "Cultural assimilation and identity loss",
+                    "Low literacy and health issues",
+                    "Economic exploitation and displacement",
+                    "Limited access to education and healthcare"
+                ]
+            },
+            {
+                "heading": "Importance of Tribes in India",
+                "points": [
+                    "Preserve biodiversity and ecological balance",
+                    "Rich contribution to Indian cultural heritage",
+                    "Maintain traditional ecological knowledge",
+                    "Represent cultural diversity of India",
+                    "Important for sustainable development practices"
+                ]
+            },
+            {
+                "heading": "UPSC Importance",
+                "points": [
+                    "Gonds, Bhils, Santhals – frequently asked tribes",
+                    "PVTGs and their characteristics",
+                    "Fifth and Sixth Schedule – governance of tribal areas",
+                    "Tribal movements like Birsa Munda uprising",
+                    "Mapping tribes with regions is very important",
+                    "Often asked in elimination-based MCQs"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Largest tribal group in India is:",
+                    "options": ["Gonds", "Bhils", "Santhals", "Mizos"],
+                    "answer": "Gonds"
+                },
+                {
+                    "question": "Santhals are mainly found in:",
+                    "options": ["Jharkhand", "Punjab", "Kerala", "Goa"],
+                    "answer": "Jharkhand"
+                },
+                {
+                    "question": "Bhils are mainly found in:",
+                    "options": ["Rajasthan", "Assam", "Kerala", "Bihar"],
+                    "answer": "Rajasthan"
+                },
+                {
+                    "question": "PVTGs stands for:",
+                    "options": [
+                    "Particularly Vulnerable Tribal Groups",
+                    "Protected Village Tribal Groups",
+                    "Primitive Value Tribal Groups",
+                    "Public Vulnerable Tribal Groups"
+                    ],
+                    "answer": "Particularly Vulnerable Tribal Groups"
+                },
+                {
+                    "question": "Birsa Munda is associated with:",
+                    "options": [
+                    "Tribal uprising in Jharkhand",
+                    "Freedom movement in Bengal",
+                    "Peasant revolt in Punjab",
+                    "Dravidian movement"
+                    ],
+                    "answer": "Tribal uprising in Jharkhand"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Sixth Schedule of Indian Constitution applies to:",
+                    "options": [
+                    "North-East tribal areas",
+                    "All tribal areas in India",
+                    "Urban areas",
+                    "Coastal regions"
+                    ],
+                    "answer": "North-East tribal areas"
+                },
+                {
+                    "question": "Jarawas are found in:",
+                    "options": ["Andaman & Nicobar Islands", "Kerala", "Assam", "Rajasthan"],
+                    "answer": "Andaman & Nicobar Islands"
+                },
+                {
+                    "question": "Warli painting belongs to:",
+                    "options": ["Maharashtra", "Gujarat", "Bihar", "Odisha"],
+                    "answer": "Maharashtra"
+                },
+                {
+                    "question": "Tribal economy is mainly based on:",
+                    "options": [
+                    "Forest resources and agriculture",
+                    "Heavy industries",
+                    "IT services",
+                    "Banking sector"
+                    ],
+                    "answer": "Forest resources and agriculture"
+                },
+                {
+                    "question": "Munda Ulgulan movement was led by:",
+                    "options": ["Birsa Munda", "Gandhi", "Tilak", "Ambedkar"],
+                    "answer": "Birsa Munda"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Gonds are largest tribal group\n2. Santhals are in Jharkhand region\n3. Todas are found in Assam",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Bhils – Rajasthan",
+                    "Mizos – Kerala",
+                    "Nagas – Tamil Nadu",
+                    "Khasis – Punjab"
+                    ],
+                    "answer": "Bhils – Rajasthan"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                    "Tribes have distinct cultural identities",
+                    "Tribes are only urban communities",
+                    "Tribes have no traditions",
+                    "Tribes are industrial workers only"
+                    ],
+                    "answer": "Tribes have distinct cultural identities"
+                },
+                {
+                    "question": "PVTGs are identified based on:",
+                    "options": [
+                    "Low literacy and vulnerability",
+                    "High income",
+                    "Urban population",
+                    "Military strength"
+                    ],
+                    "answer": "Low literacy and vulnerability"
+                },
+                {
+                    "question": "Fifth Schedule deals with:",
+                    "options": [
+                    "Tribal areas in mainland India",
+                    "Union Budget",
+                    "Fundamental Rights",
+                    "Election process"
+                    ],
+                    "answer": "Tribal areas in mainland India"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Indian Art & Culture – Tribal Languages in India",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "India is one of the most linguistically diverse countries in the world",
+                    "Tribal languages form an important part of India’s cultural heritage",
+                    "Most tribal languages are oral in nature with limited written scripts",
+                    "They belong mainly to three major language families",
+                    "Tribal languages are closely linked with identity, culture, and traditions"
+                ]
+            },
+            {
+                "heading": "Major Language Families of Tribal Languages",
+                "points": [
+                    "Austroasiatic family (e.g., Santhali, Mundari)",
+                    "Dravidian family (e.g., Gondi, Kurukh)",
+                    "Tibeto-Burman family (e.g., Bodo, Mizo, Naga languages)",
+                    "Some tribes also use Indo-Aryan dialects in mixed regions",
+                    "Each family reflects distinct historical migration patterns"
+                ]
+            },
+            {
+                "heading": "Austroasiatic Language Family",
+                "points": [
+                    "One of the oldest language groups in India",
+                    "Found mainly in central and eastern India",
+                    "Santhali is the most widely spoken tribal language in this group",
+                    "Other languages include Mundari and Ho",
+                    "Santhali has its own script called Ol Chiki"
+                ]
+            },
+            {
+                "heading": "Dravidian Language Family (Tribal Context)",
+                "points": [
+                    "Found mainly in central and southern India",
+                    "Gondi is the largest tribal Dravidian language",
+                    "Other languages include Kurukh (Oraon tribe)",
+                    "Used by tribes in Madhya Pradesh, Chhattisgarh, Jharkhand",
+                    "Many Dravidian tribal languages are endangered"
+                ]
+            },
+            {
+                "heading": "Tibeto-Burman Language Family",
+                "points": [
+                    "Predominantly spoken in North-East India",
+                    "Includes languages like Bodo, Mizo, Naga languages",
+                    "Strong influence from Himalayan and Southeast Asian regions",
+                    "Highly diverse with many dialects",
+                    "Some have developed written scripts recently"
+                ]
+            },
+            {
+                "heading": "Important Tribal Languages in India",
+                "points": [
+                    "Santhali – Jharkhand, West Bengal, Odisha",
+                    "Gondi – Madhya Pradesh, Chhattisgarh",
+                    "Bodo – Assam",
+                    "Mizo – Mizoram",
+                    "Kurukh – Jharkhand, Chhattisgarh",
+                    "Ho – Jharkhand",
+                    "Naga languages – Nagaland",
+                    "Mundari – Jharkhand region"
+                ]
+            },
+            {
+                "heading": "Scripts and Writing Systems",
+                "points": [
+                    "Many tribal languages were originally oral traditions",
+                    "Ol Chiki script developed for Santhali language",
+                    "Latin script is used for some North-East tribal languages",
+                    "Devanagari is also used in some central tribal regions",
+                    "Efforts are ongoing to preserve and standardize scripts"
+                ]
+            },
+            {
+                "heading": "Features of Tribal Languages",
+                "points": [
+                    "Strong oral tradition (folk tales, songs, myths)",
+                    "Deep connection with nature and environment",
+                    "Simple grammatical structure in many cases",
+                    "Rich vocabulary for forests, agriculture, and rituals",
+                    "High regional diversity even within the same tribe"
+                ]
+            },
+            {
+                "heading": "Cultural Importance of Tribal Languages",
+                "points": [
+                    "Preserve tribal identity and heritage",
+                    "Transmit oral traditions across generations",
+                    "Used in rituals, festivals, and storytelling",
+                    "Reflect ecological knowledge and sustainable practices",
+                    "Important part of intangible cultural heritage"
+                ]
+            },
+            {
+                "heading": "Challenges Faced by Tribal Languages",
+                "points": [
+                    "Decline due to urbanization and migration",
+                    "Dominance of regional and national languages",
+                    "Lack of formal education in tribal languages",
+                    "Loss of oral traditions among younger generation",
+                    "Many languages are classified as endangered"
+                ]
+            },
+            {
+                "heading": "Government and Institutional Efforts",
+                "points": [
+                    "Constitutional protection under Article 29 and 350A",
+                    "Recognition of some tribal languages in Eighth Schedule (e.g., Santhali)",
+                    "Central Institute of Indian Languages (CIIL) works on preservation",
+                    "Tribal language documentation projects",
+                    "Educational inclusion in mother tongue-based learning"
+                ]
+            },
+            {
+                "heading": "Examples of Recognized Tribal Language Efforts",
+                "points": [
+                    "Santhali included in Eighth Schedule of Constitution",
+                    "Bodo language recognized for official use in Assam",
+                    "Mizo language widely used in education in Mizoram",
+                    "Development of dictionaries and grammar books",
+                    "Digital preservation initiatives"
+                ]
+            },
+            {
+                "heading": "Importance for UPSC",
+                "points": [
+                    "Santhali – only Austroasiatic language in Eighth Schedule",
+                    "Mapping tribes with language families is important",
+                    "Bodo and Mizo frequently appear in current affairs",
+                    "Questions often asked on language families",
+                    "Link between culture, geography, and linguistics is important"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Santhali language belongs to which family?",
+                    "options": [
+                    "Austroasiatic",
+                    "Dravidian",
+                    "Indo-Aryan",
+                    "Semitic"
+                    ],
+                    "answer": "Austroasiatic"
+                },
+                {
+                    "question": "Gondi language belongs to:",
+                    "options": [
+                    "Dravidian family",
+                    "Tibeto-Burman family",
+                    "Austroasiatic family",
+                    "Romance family"
+                    ],
+                    "answer": "Dravidian family"
+                },
+                {
+                    "question": "Bodo language is mainly spoken in:",
+                    "options": ["Assam", "Kerala", "Punjab", "Gujarat"],
+                    "answer": "Assam"
+                },
+                {
+                    "question": "Santhali script is called:",
+                    "options": ["Ol Chiki", "Brahmi", "Kharosthi", "Latin"],
+                    "answer": "Ol Chiki"
+                },
+                {
+                    "question": "Mizo language belongs to:",
+                    "options": [
+                    "Tibeto-Burman family",
+                    "Dravidian family",
+                    "Indo-Aryan family",
+                    "Austroasiatic family"
+                    ],
+                    "answer": "Tibeto-Burman family"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Kurukh language is spoken by:",
+                    "options": ["Oraon tribe", "Bhils", "Santhals", "Mizos"],
+                    "answer": "Oraon tribe"
+                },
+                {
+                    "question": "Which language is included in the Eighth Schedule?",
+                    "options": ["Santhali", "Gondi", "Ho", "Kurukh"],
+                    "answer": "Santhali"
+                },
+                {
+                    "question": "Tibeto-Burman languages are mainly found in:",
+                    "options": [
+                    "North-East India",
+                    "Central India",
+                    "South India",
+                    "West India"
+                    ],
+                    "answer": "North-East India"
+                },
+                {
+                    "question": "Mundari language belongs to:",
+                    "options": [
+                    "Austroasiatic family",
+                    "Dravidian family",
+                    "Indo-European family",
+                    "Sino-Tibetan family"
+                    ],
+                    "answer": "Austroasiatic family"
+                },
+                {
+                    "question": "CIIL stands for:",
+                    "options": [
+                    "Central Institute of Indian Languages",
+                    "Council for Indian Literature",
+                    "Central Indian Linguistic Institute",
+                    "Centre for Indigenous Languages"
+                    ],
+                    "answer": "Central Institute of Indian Languages"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Santhali is in Eighth Schedule\n2. Gondi is Dravidian language\n3. Bodo is Austroasiatic language",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Santhali – Austroasiatic",
+                    "Mizo – Dravidian",
+                    "Gondi – Austroasiatic",
+                    "Ho – Indo-Aryan"
+                    ],
+                    "answer": "Santhali – Austroasiatic"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                    "Tribal languages are mainly oral traditions",
+                    "All tribal languages have ancient scripts",
+                    "They are only written languages",
+                    "They are not culturally important"
+                    ],
+                    "answer": "Tribal languages are mainly oral traditions"
+                },
+                {
+                    "question": "Ol Chiki script is used for:",
+                    "options": [
+                    "Santhali language",
+                    "Mizo language",
+                    "Gondi language",
+                    "Bodo language"
+                    ],
+                    "answer": "Santhali language"
+                },
+                {
+                    "question": "Tibeto-Burman languages are mainly spoken in:",
+                    "options": [
+                    "North-East India",
+                    "South India",
+                    "Western India",
+                    "Northern Plains only"
+                    ],
+                    "answer": "North-East India"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Indian Art & Culture – Tribal Music and Dance",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Tribal music and dance are integral parts of India’s indigenous cultural heritage",
+                    "They are deeply connected with nature, rituals, and community life",
+                    "Mostly performed during festivals, harvests, and social celebrations",
+                    "Oral tradition dominates transmission of music and dance forms",
+                    "They reflect collective identity rather than individual performance"
+                ]
+            },
+            {
+                "heading": "Characteristics of Tribal Music",
+                "points": [
+                    "Simple rhythmic patterns and repetitive structures",
+                    "Strong use of percussion instruments like drums and cymbals",
+                    "Nature-inspired themes (forests, rivers, animals)",
+                    "Community participation in singing and clapping",
+                    "Often linked with rituals, agriculture, and festivals"
+                ]
+            },
+            {
+                "heading": "Characteristics of Tribal Dance",
+                "points": [
+                    "Group-oriented performances rather than solo acts",
+                    "Simple, energetic, and rhythmic movements",
+                    "Closely linked with music and storytelling",
+                    "Performed in circles or lines",
+                    "Represents unity and social bonding"
+                ]
+            },
+            {
+                "heading": "Instruments Used in Tribal Music",
+                "points": [
+                    "Dhol – widely used drum instrument",
+                    "Nagada – kettle drum used in celebrations",
+                    "Flutes made of bamboo",
+                    "Cymbals and metal plates",
+                    "Traditional string instruments in some tribes"
+                ]
+            },
+            {
+                "heading": "Tribal Music of Central India",
+                "points": [
+                    "Gond tribal songs – Madhya Pradesh and Chhattisgarh",
+                    "Baiga songs associated with forest rituals",
+                    "Santhal music with rhythmic drum beats",
+                    "Songs linked with hunting and agriculture",
+                    "Strong oral storytelling tradition through music"
+                ]
+            },
+            {
+                "heading": "Tribal Music of North-East India",
+                "points": [
+                    "Bodo folk songs – Assam",
+                    "Naga war songs and folk chants",
+                    "Mizo traditional songs with choral singing",
+                    "Khasi and Garo community music traditions",
+                    "Use of drums and bamboo instruments"
+                ]
+            },
+            {
+                "heading": "Tribal Music of Western India",
+                "points": [
+                    "Bhils of Rajasthan and Gujarat have rich folk songs",
+                    "Warli tribal songs in Maharashtra",
+                    "Songs related to agriculture and festivals",
+                    "Strong influence of desert culture in Rajasthan tribes",
+                    "Music often accompanies dance performances"
+                ]
+            },
+            {
+                "heading": "Important Tribal Dances in India",
+                "points": [
+                    "Chhau dance – Odisha, Jharkhand, West Bengal",
+                    "Bihu dance – Assam (tribal influence)",
+                    "Gaur Maria dance – Chhattisgarh",
+                    "Bagurumba dance – Assam (Bodo tribe)",
+                    "Raut Nacha – Chhattisgarh",
+                    "Karma dance – Central India tribes",
+                    "Cheraw dance – Mizoram"
+                ]
+            },
+            {
+                "heading": "Chhau Dance (Tribal Martial Dance)",
+                "points": [
+                    "Combines martial arts, storytelling, and dance",
+                    "Performed in Odisha, Jharkhand, West Bengal",
+                    "Uses masks in many styles (especially Seraikella Chhau)",
+                    "Themes from Ramayana and Mahabharata",
+                    "Recognized by UNESCO as Intangible Cultural Heritage"
+                ]
+            },
+            {
+                "heading": "Bihu Dance (Assam)",
+                "points": [
+                    "Associated with Assamese festival of Bihu",
+                    "Performed by both men and women",
+                    "Fast hand movements and rhythmic steps",
+                    "Reflects agricultural cycle and fertility themes",
+                    "Strong tribal cultural influence"
+                ]
+            },
+            {
+                "heading": "Bagurumba Dance (Bodo Tribe)",
+                "points": [
+                    "Traditional dance of Bodo community in Assam",
+                    "Known as ‘butterfly dance’",
+                    "Performed by women in colorful attire",
+                    "Gentle and graceful movements",
+                    "Accompanied by traditional Bodo instruments"
+                ]
+            },
+            {
+                "heading": "Cheraw Dance (Mizoram)",
+                "points": [
+                    "Also called bamboo dance",
+                    "Involves rhythmic clapping of bamboo sticks",
+                    "Dancers move between moving bamboo poles",
+                    "Highly synchronized group performance",
+                    "Represents agility and coordination"
+                ]
+            },
+            {
+                "heading": "Karma Dance (Central India)",
+                "points": [
+                    "Performed by tribal communities like Gonds and Oraons",
+                    "Associated with Karma festival (harvest festival)",
+                    "Worship of Karma tree symbolizing fertility",
+                    "Group dance with singing and drumming",
+                    "Represents prosperity and agricultural success"
+                ]
+            },
+            {
+                "heading": "Cultural Importance",
+                "points": [
+                    "Preserves oral traditions and tribal history",
+                    "Strengthens community bonding",
+                    "Linked with agricultural and ecological cycles",
+                    "Represents indigenous identity and heritage",
+                    "Important part of India’s intangible cultural heritage"
+                ]
+            },
+            {
+                "heading": "Challenges",
+                "points": [
+                    "Decline due to urbanization and migration",
+                    "Loss of traditional instruments and skills",
+                    "Reduced participation among younger generations",
+                    "Commercialization of folk performances",
+                    "Need for documentation and preservation"
+                ]
+            },
+            {
+                "heading": "UPSC Importance",
+                "points": [
+                    "Chhau dance – UNESCO listed intangible heritage",
+                    "Bagurumba – Bodo tribe (Assam)",
+                    "Cheraw – Mizoram bamboo dance",
+                    "Karma dance – Central Indian tribes",
+                    "Mapping tribe → state → dance is frequently asked",
+                    "Often appears in elimination-based MCQs"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Chhau dance is performed in:",
+                    "options": [
+                    "Odisha, Jharkhand, West Bengal",
+                    "Kerala only",
+                    "Punjab only",
+                    "Tamil Nadu only"
+                    ],
+                    "answer": "Odisha, Jharkhand, West Bengal"
+                },
+                {
+                    "question": "Bagurumba dance is associated with:",
+                    "options": ["Bodo tribe", "Santhals", "Bhils", "Gonds"],
+                    "answer": "Bodo tribe"
+                },
+                {
+                    "question": "Cheraw dance is famous in:",
+                    "options": ["Mizoram", "Assam", "Rajasthan", "Kerala"],
+                    "answer": "Mizoram"
+                },
+                {
+                    "question": "Bihu dance is associated with:",
+                    "options": ["Assam", "Punjab", "Goa", "Bihar"],
+                    "answer": "Assam"
+                },
+                {
+                    "question": "Tribal music is mainly based on:",
+                    "options": [
+                    "Rhythm and percussion",
+                    "Electronic instruments",
+                    "Western classical violin only",
+                    "Opera singing"
+                    ],
+                    "answer": "Rhythm and percussion"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Chhau dance uses:",
+                    "options": [
+                    "Masks and martial movements",
+                    "Only singing",
+                    "Only painting",
+                    "No costumes"
+                    ],
+                    "answer": "Masks and martial movements"
+                },
+                {
+                    "question": "Karma dance is associated with:",
+                    "options": ["Harvest festival", "Wedding ritual only", "War preparation", "Trade festival"],
+                    "answer": "Harvest festival"
+                },
+                {
+                    "question": "Bagurumba is also called:",
+                    "options": [
+                    "Butterfly dance",
+                    "Snake dance",
+                    "War dance",
+                    "Fire dance"
+                    ],
+                    "answer": "Butterfly dance"
+                },
+                {
+                    "question": "Cheraw dance uses:",
+                    "options": [
+                    "Bamboo sticks",
+                    "Fire torches",
+                    "Metal swords",
+                    "Paint brushes"
+                    ],
+                    "answer": "Bamboo sticks"
+                },
+                {
+                    "question": "Tribal music is mostly:",
+                    "options": [
+                    "Oral tradition",
+                    "Written symphonies",
+                    "Digital only",
+                    "Studio-based composition"
+                    ],
+                    "answer": "Oral tradition"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Chhau is a martial dance\n2. Bagurumba belongs to Bodo tribe\n3. Cheraw is performed in Rajasthan",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Cheraw – Mizoram",
+                    "Bagurumba – Kerala",
+                    "Chhau – Tamil Nadu",
+                    "Karma – Goa"
+                    ],
+                    "answer": "Cheraw – Mizoram"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                    "Tribal dances are group-based performances",
+                    "They are only solo performances",
+                    "They have no cultural significance",
+                    "They are modern urban creations"
+                    ],
+                    "answer": "Tribal dances are group-based performances"
+                },
+                {
+                    "question": "Tribal music instruments mainly include:",
+                    "options": [
+                    "Drums and flutes",
+                    "Pianos and violins",
+                    "Guitars and saxophones",
+                    "Organs only"
+                    ],
+                    "answer": "Drums and flutes"
+                },
+                {
+                    "question": "Karma dance is associated with:",
+                    "options": [
+                    "Central Indian tribes",
+                    "North-East only",
+                    "South Indian temples",
+                    "Urban festivals"
+                    ],
+                    "answer": "Central Indian tribes"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Indian Art & Culture – Tribal Religion in India",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Tribal religion refers to the traditional belief systems of indigenous communities",
+                    "It is deeply rooted in nature, ancestors, and spirits",
+                    "Mostly oral in tradition, without rigid scriptures",
+                    "Closely linked with daily life, agriculture, and environment",
+                    "It reflects a holistic worldview where nature and humans are interconnected"
+                ]
+            },
+            {
+                "heading": "Key Features of Tribal Religion",
+                "points": [
+                    "Animism – belief that natural objects have souls or spirits",
+                    "Totemism – belief in sacred animals, plants, or objects as clan symbols",
+                    "Ancestor worship is widely practiced",
+                    "Nature worship (trees, rivers, mountains, forests)",
+                    "Rituals performed by shamans or tribal priests"
+                ]
+            },
+            {
+                "heading": "Animism in Tribal Religion",
+                "points": [
+                    "Belief that all natural objects have spiritual essence",
+                    "Rivers, stones, trees, and animals are considered sacred",
+                    "Spirits can influence human life positively or negatively",
+                    "Rituals performed to please or appease spirits",
+                    "Strong ecological awareness is embedded in beliefs"
+                ]
+            },
+            {
+                "heading": "Totemism",
+                "points": [
+                    "Each tribe or clan associates with a totem (animal/plant/object)",
+                    "Totem is considered sacred and protected",
+                    "Marriage within same totem group is often prohibited",
+                    "Examples: tiger, peacock, tree as clan symbols",
+                    "Strengthens social identity and unity"
+                ]
+            },
+            {
+                "heading": "Ancestor Worship",
+                "points": [
+                    "Ancestors are believed to protect and guide living members",
+                    "Offerings are made to ancestral spirits",
+                    "Rituals performed during festivals and important events",
+                    "Belief in life after death is common",
+                    "Ensures continuity of tribal lineage and traditions"
+                ]
+            },
+            {
+                "heading": "Nature Worship",
+                "points": [
+                    "Forests, rivers, mountains, and sun are worshipped",
+                    "Sacred groves are protected areas of forest",
+                    "Trees like peepal and banyan are considered holy",
+                    "Agricultural cycles linked with rituals",
+                    "Promotes environmental conservation naturally"
+                ]
+            },
+            {
+                "heading": "Shamanism",
+                "points": [
+                    "Shamans act as spiritual healers and mediators",
+                    "They communicate with spirits on behalf of community",
+                    "Perform healing rituals and exorcisms",
+                    "Use chants, dance, and trance states",
+                    "Important role in tribal social and religious life"
+                ]
+            },
+            {
+                "heading": "Major Tribal Religious Practices in India",
+                "points": [
+                    "Santhal religion – worship of Marang Buru (Supreme deity)",
+                    "Gond religion – belief in Baradeo (supreme god)",
+                    "Munda religion – reverence for Singbonga (sun god)",
+                    "Naga tribal beliefs – ancestor and nature worship",
+                    "Bhils – worship of local deities and spirits"
+                ]
+            },
+            {
+                "heading": "Tribal Festivals and Religion",
+                "points": [
+                    "Sarhul festival – worship of trees (Jharkhand tribes)",
+                    "Karma festival – worship of Karma tree for fertility",
+                    "Hornbill festival – Nagaland cultural and religious celebration",
+                    "Wangala festival – Garo tribe harvest festival",
+                    "Bastar Dussehra – unique tribal form of worship in Chhattisgarh"
+                ]
+            },
+            {
+                "heading": "Sacred Spaces in Tribal Religion",
+                "points": [
+                    "Sacred groves (Devrai, Orans, Kavu) are protected forests",
+                    "Village deities are worshipped in open spaces",
+                    "Hilltops and rivers are considered sacred",
+                    "No exploitation allowed in sacred natural sites",
+                    "They act as biodiversity conservation zones"
+                ]
+            },
+            {
+                "heading": "Interaction with Mainstream Religions",
+                "points": [
+                    "Gradual assimilation with Hinduism, Buddhism, Christianity",
+                    "Many tribal deities integrated into Hindu pantheon",
+                    "Syncretic religious practices developed",
+                    "Some tribes retain distinct religious identity",
+                    "Missionary influence in North-East India"
+                ]
+            },
+            {
+                "heading": "Role of Rituals in Tribal Religion",
+                "points": [
+                    "Mark agricultural cycles like sowing and harvesting",
+                    "Used for healing and protection from evil spirits",
+                    "Strengthen community bonding",
+                    "Include music, dance, and storytelling",
+                    "Performed collectively by entire village"
+                ]
+            },
+            {
+                "heading": "Importance of Tribal Religion",
+                "points": [
+                    "Preserves ecological balance through sacred traditions",
+                    "Maintains cultural identity of tribes",
+                    "Promotes community cohesion",
+                    "Protects biodiversity through sacred groves",
+                    "Represents ancient belief systems of India"
+                ]
+            },
+            {
+                "heading": "Challenges",
+                "points": [
+                    "Loss of traditional beliefs due to modernization",
+                    "Influence of mainstream religions",
+                    "Displacement from forest areas",
+                    "Decline in sacred grove protection",
+                    "Cultural erosion among younger generations"
+                ]
+            },
+            {
+                "heading": "UPSC Importance",
+                "points": [
+                    "Animism, totemism, and shamanism are frequently asked concepts",
+                    "Sacred groves and ecological conservation link is important",
+                    "Tribal deities like Singbonga and Marang Buru",
+                    "Questions on syncretism with Hinduism",
+                    "Often asked in culture + environment intersection questions"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Animism means:",
+                    "options": [
+                    "Belief that natural objects have spirits",
+                    "Worship of only humans",
+                    "Belief in one god",
+                    "Denial of religion"
+                    ],
+                    "answer": "Belief that natural objects have spirits"
+                },
+                {
+                    "question": "Totemism refers to:",
+                    "options": [
+                    "Worship of clan symbols like animals or plants",
+                    "Worship of kings",
+                    "Modern religion",
+                    "Urban belief system"
+                    ],
+                    "answer": "Worship of clan symbols like animals or plants"
+                },
+                {
+                    "question": "Sacred groves are:",
+                    "options": [
+                    "Protected forest areas",
+                    "Industrial zones",
+                    "Urban parks",
+                    "Desert regions"
+                    ],
+                    "answer": "Protected forest areas"
+                },
+                {
+                    "question": "Shamans are:",
+                    "options": [
+                    "Spiritual healers in tribal society",
+                    "Government officials",
+                    "Warriors",
+                    "Farmers"
+                    ],
+                    "answer": "Spiritual healers in tribal society"
+                },
+                {
+                    "question": "Marang Buru is worshipped by:",
+                    "options": [
+                    "Santhals",
+                    "Bhils",
+                    "Mizos",
+                    "Gonds"
+                    ],
+                    "answer": "Santhals"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Singbonga is associated with:",
+                    "options": [
+                    "Munda tribe",
+                    "Santhal tribe",
+                    "Naga tribe",
+                    "Bhil tribe"
+                    ],
+                    "answer": "Munda tribe"
+                },
+                {
+                    "question": "Karma festival is related to:",
+                    "options": [
+                    "Tree worship and fertility",
+                    "War celebrations",
+                    "Urban culture",
+                    "Trade fairs"
+                    ],
+                    "answer": "Tree worship and fertility"
+                },
+                {
+                    "question": "Sacred groves help in:",
+                    "options": [
+                    "Biodiversity conservation",
+                    "Industrial growth",
+                    "Urban expansion",
+                    "Mining activities"
+                    ],
+                    "answer": "Biodiversity conservation"
+                },
+                {
+                    "question": "Shamanism involves:",
+                    "options": [
+                    "Communication with spirits",
+                    "Banking system",
+                    "Political elections",
+                    "Military training"
+                    ],
+                    "answer": "Communication with spirits"
+                },
+                {
+                    "question": "Baradeo is worshipped by:",
+                    "options": [
+                    "Gonds",
+                    "Santhals",
+                    "Bhils",
+                    "Mizos"
+                    ],
+                    "answer": "Gonds"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Animism is belief in spirits of nature\n2. Totemism involves clan symbols\n3. Sacred groves are man-made forests",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Santhals – Marang Buru",
+                    "Mundas – Singbonga",
+                    "Gonds – Marang Buru",
+                    "Bhils – Singbonga"
+                    ],
+                    "answer": "Mundas – Singbonga"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                    "Tribal religion is closely linked to nature",
+                    "Tribal religion is fully written and codified",
+                    "It is identical to modern organized religion",
+                    "It does not include rituals"
+                    ],
+                    "answer": "Tribal religion is closely linked to nature"
+                },
+                {
+                    "question": "Sacred groves are important because they:",
+                    "options": [
+                    "Help conserve biodiversity",
+                    "Increase urbanization",
+                    "Support industrialization",
+                    "Encourage deforestation"
+                    ],
+                    "answer": "Help conserve biodiversity"
+                },
+                {
+                    "question": "Shamanism is mainly associated with:",
+                    "options": [
+                    "Tribal spiritual practices",
+                    "Modern banking systems",
+                    "Political systems",
+                    "Scientific research"
+                    ],
+                    "answer": "Tribal spiritual practices"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Indian Art & Culture – Tribal Religion in India",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Tribal religion refers to the traditional belief systems of indigenous communities",
+                    "It is deeply rooted in nature, ancestors, and spirits",
+                    "Mostly oral in tradition, without rigid scriptures",
+                    "Closely linked with daily life, agriculture, and environment",
+                    "It reflects a holistic worldview where nature and humans are interconnected"
+                ]
+            },
+            {
+                "heading": "Key Features of Tribal Religion",
+                "points": [
+                    "Animism – belief that natural objects have souls or spirits",
+                    "Totemism – belief in sacred animals, plants, or objects as clan symbols",
+                    "Ancestor worship is widely practiced",
+                    "Nature worship (trees, rivers, mountains, forests)",
+                    "Rituals performed by shamans or tribal priests"
+                ]
+            },
+            {
+                "heading": "Animism in Tribal Religion",
+                "points": [
+                    "Belief that all natural objects have spiritual essence",
+                    "Rivers, stones, trees, and animals are considered sacred",
+                    "Spirits can influence human life positively or negatively",
+                    "Rituals performed to please or appease spirits",
+                    "Strong ecological awareness is embedded in beliefs"
+                ]
+            },
+            {
+                "heading": "Totemism",
+                "points": [
+                    "Each tribe or clan associates with a totem (animal/plant/object)",
+                    "Totem is considered sacred and protected",
+                    "Marriage within same totem group is often prohibited",
+                    "Examples: tiger, peacock, tree as clan symbols",
+                    "Strengthens social identity and unity"
+                ]
+            },
+            {
+                "heading": "Ancestor Worship",
+                "points": [
+                    "Ancestors are believed to protect and guide living members",
+                    "Offerings are made to ancestral spirits",
+                    "Rituals performed during festivals and important events",
+                    "Belief in life after death is common",
+                    "Ensures continuity of tribal lineage and traditions"
+                ]
+            },
+            {
+                "heading": "Nature Worship",
+                "points": [
+                    "Forests, rivers, mountains, and sun are worshipped",
+                    "Sacred groves are protected areas of forest",
+                    "Trees like peepal and banyan are considered holy",
+                    "Agricultural cycles linked with rituals",
+                    "Promotes environmental conservation naturally"
+                ]
+            },
+            {
+                "heading": "Shamanism",
+                "points": [
+                    "Shamans act as spiritual healers and mediators",
+                    "They communicate with spirits on behalf of community",
+                    "Perform healing rituals and exorcisms",
+                    "Use chants, dance, and trance states",
+                    "Important role in tribal social and religious life"
+                ]
+            },
+            {
+                "heading": "Major Tribal Religious Practices in India",
+                "points": [
+                    "Santhal religion – worship of Marang Buru (Supreme deity)",
+                    "Gond religion – belief in Baradeo (supreme god)",
+                    "Munda religion – reverence for Singbonga (sun god)",
+                    "Naga tribal beliefs – ancestor and nature worship",
+                    "Bhils – worship of local deities and spirits"
+                ]
+            },
+            {
+                "heading": "Tribal Festivals and Religion",
+                "points": [
+                    "Sarhul festival – worship of trees (Jharkhand tribes)",
+                    "Karma festival – worship of Karma tree for fertility",
+                    "Hornbill festival – Nagaland cultural and religious celebration",
+                    "Wangala festival – Garo tribe harvest festival",
+                    "Bastar Dussehra – unique tribal form of worship in Chhattisgarh"
+                ]
+            },
+            {
+                "heading": "Sacred Spaces in Tribal Religion",
+                "points": [
+                    "Sacred groves (Devrai, Orans, Kavu) are protected forests",
+                    "Village deities are worshipped in open spaces",
+                    "Hilltops and rivers are considered sacred",
+                    "No exploitation allowed in sacred natural sites",
+                    "They act as biodiversity conservation zones"
+                ]
+            },
+            {
+                "heading": "Interaction with Mainstream Religions",
+                "points": [
+                    "Gradual assimilation with Hinduism, Buddhism, Christianity",
+                    "Many tribal deities integrated into Hindu pantheon",
+                    "Syncretic religious practices developed",
+                    "Some tribes retain distinct religious identity",
+                    "Missionary influence in North-East India"
+                ]
+            },
+            {
+                "heading": "Role of Rituals in Tribal Religion",
+                "points": [
+                    "Mark agricultural cycles like sowing and harvesting",
+                    "Used for healing and protection from evil spirits",
+                    "Strengthen community bonding",
+                    "Include music, dance, and storytelling",
+                    "Performed collectively by entire village"
+                ]
+            },
+            {
+                "heading": "Importance of Tribal Religion",
+                "points": [
+                    "Preserves ecological balance through sacred traditions",
+                    "Maintains cultural identity of tribes",
+                    "Promotes community cohesion",
+                    "Protects biodiversity through sacred groves",
+                    "Represents ancient belief systems of India"
+                ]
+            },
+            {
+                "heading": "Challenges",
+                "points": [
+                    "Loss of traditional beliefs due to modernization",
+                    "Influence of mainstream religions",
+                    "Displacement from forest areas",
+                    "Decline in sacred grove protection",
+                    "Cultural erosion among younger generations"
+                ]
+            },
+            {
+                "heading": "UPSC Importance",
+                "points": [
+                    "Animism, totemism, and shamanism are frequently asked concepts",
+                    "Sacred groves and ecological conservation link is important",
+                    "Tribal deities like Singbonga and Marang Buru",
+                    "Questions on syncretism with Hinduism",
+                    "Often asked in culture + environment intersection questions"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Animism means:",
+                    "options": [
+                    "Belief that natural objects have spirits",
+                    "Worship of only humans",
+                    "Belief in one god",
+                    "Denial of religion"
+                    ],
+                    "answer": "Belief that natural objects have spirits"
+                },
+                {
+                    "question": "Totemism refers to:",
+                    "options": [
+                    "Worship of clan symbols like animals or plants",
+                    "Worship of kings",
+                    "Modern religion",
+                    "Urban belief system"
+                    ],
+                    "answer": "Worship of clan symbols like animals or plants"
+                },
+                {
+                    "question": "Sacred groves are:",
+                    "options": [
+                    "Protected forest areas",
+                    "Industrial zones",
+                    "Urban parks",
+                    "Desert regions"
+                    ],
+                    "answer": "Protected forest areas"
+                },
+                {
+                    "question": "Shamans are:",
+                    "options": [
+                    "Spiritual healers in tribal society",
+                    "Government officials",
+                    "Warriors",
+                    "Farmers"
+                    ],
+                    "answer": "Spiritual healers in tribal society"
+                },
+                {
+                    "question": "Marang Buru is worshipped by:",
+                    "options": [
+                    "Santhals",
+                    "Bhils",
+                    "Mizos",
+                    "Gonds"
+                    ],
+                    "answer": "Santhals"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Singbonga is associated with:",
+                    "options": [
+                    "Munda tribe",
+                    "Santhal tribe",
+                    "Naga tribe",
+                    "Bhil tribe"
+                    ],
+                    "answer": "Munda tribe"
+                },
+                {
+                    "question": "Karma festival is related to:",
+                    "options": [
+                    "Tree worship and fertility",
+                    "War celebrations",
+                    "Urban culture",
+                    "Trade fairs"
+                    ],
+                    "answer": "Tree worship and fertility"
+                },
+                {
+                    "question": "Sacred groves help in:",
+                    "options": [
+                    "Biodiversity conservation",
+                    "Industrial growth",
+                    "Urban expansion",
+                    "Mining activities"
+                    ],
+                    "answer": "Biodiversity conservation"
+                },
+                {
+                    "question": "Shamanism involves:",
+                    "options": [
+                    "Communication with spirits",
+                    "Banking system",
+                    "Political elections",
+                    "Military training"
+                    ],
+                    "answer": "Communication with spirits"
+                },
+                {
+                    "question": "Baradeo is worshipped by:",
+                    "options": [
+                    "Gonds",
+                    "Santhals",
+                    "Bhils",
+                    "Mizos"
+                    ],
+                    "answer": "Gonds"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Animism is belief in spirits of nature\n2. Totemism involves clan symbols\n3. Sacred groves are man-made forests",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Santhals – Marang Buru",
+                    "Mundas – Singbonga",
+                    "Gonds – Marang Buru",
+                    "Bhils – Singbonga"
+                    ],
+                    "answer": "Mundas – Singbonga"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                    "Tribal religion is closely linked to nature",
+                    "Tribal religion is fully written and codified",
+                    "It is identical to modern organized religion",
+                    "It does not include rituals"
+                    ],
+                    "answer": "Tribal religion is closely linked to nature"
+                },
+                {
+                    "question": "Sacred groves are important because they:",
+                    "options": [
+                    "Help conserve biodiversity",
+                    "Increase urbanization",
+                    "Support industrialization",
+                    "Encourage deforestation"
+                    ],
+                    "answer": "Help conserve biodiversity"
+                },
+                {
+                    "question": "Shamanism is mainly associated with:",
+                    "options": [
+                    "Tribal spiritual practices",
+                    "Modern banking systems",
+                    "Political systems",
+                    "Scientific research"
+                    ],
+                    "answer": "Tribal spiritual practices"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Indian Art & Culture – Tribal Art (Advanced UPSC Focus)",
+        "notes": [
+            {
+                "heading": "Conceptual Understanding of Tribal Art",
+                "points": [
+                    "Tribal art is not 'fine art' in classical sense but a lived cultural expression",
+                    "It is embedded in ritual, ecology, and community identity",
+                    "Unlike classical art, it does not separate aesthetics from utility",
+                    "Most tribal art evolves collectively, not individually",
+                    "It reflects oral traditions rather than written artistic theory"
+                ]
+            },
+            {
+                "heading": "Philosophical Foundation of Tribal Art",
+                "points": [
+                    "Based on animism: belief that nature has spirit",
+                    "Based on totemism: sacred animal/plant symbols define identity",
+                    "Art is seen as communication with spirits, not just decoration",
+                    "No strict distinction between sacred and secular art",
+                    "Art is often considered a form of ritual offering"
+                ]
+            },
+            {
+                "heading": "Regional Distribution Patterns",
+                "points": [
+                    "Central India (Madhya Pradesh, Chhattisgarh, Jharkhand) → Gond, Baiga, Bhil traditions",
+                    "Western India (Maharashtra, Gujarat, Rajasthan) → Warli, Pithora, Bhil art",
+                    "North-East India → bamboo crafts, tattoo art, ritual carvings",
+                    "South India tribal belts → terracotta, wooden ritual art",
+                    "Each region’s art is shaped by geography and livelihood"
+                ]
+            },
+            {
+                "heading": "Symbolism in Tribal Art",
+                "points": [
+                    "Circle → sun, moon, cycles of life",
+                    "Triangle → mountains or human body",
+                    "Square → sacred space or enclosure",
+                    "Animals → clan identity and spiritual protection",
+                    "Patterns → storytelling and memory preservation"
+                ]
+            },
+            {
+                "heading": "Tribal Art and Environment",
+                "points": [
+                    "Strong ecological awareness embedded in motifs",
+                    "Forests are not just resources but sacred entities",
+                    "Art often reflects sustainable lifestyle practices",
+                    "Sacred groves are both ecological and artistic spaces",
+                    "Depicts harmony between humans and biodiversity"
+                ]
+            },
+            {
+                "heading": "Material Culture in Tribal Art",
+                "points": [
+                    "Natural pigments from soil, plants, charcoal",
+                    "Clay and terracotta used for figurines",
+                    "Wood and bamboo used for carvings and tools",
+                    "Metal crafts using indigenous techniques like Dhokra",
+                    "Art materials are locally sourced and biodegradable"
+                ]
+            },
+            {
+                "heading": "Tribal Art vs Folk Art (UPSC Distinction)",
+                "points": [
+                    "Tribal art → created by indigenous isolated communities",
+                    "Folk art → created in more settled rural societies",
+                    "Tribal art is more ritualistic and symbolic",
+                    "Folk art is often more decorative and social",
+                    "Both are oral traditions but differ in cultural context"
+                ]
+            },
+            {
+                "heading": "Important Tribal Art Forms (Revision List)",
+                "points": [
+                    "Warli – Maharashtra (geometric wall painting)",
+                    "Gond – Madhya Pradesh (detailed nature motifs)",
+                    "Pithora – Gujarat/Madhya Pradesh (ritual wall art)",
+                    "Bhils – Rajasthan/Madhya Pradesh (dot painting)",
+                    "Dhokra – Chhattisgarh/Odisha (metal casting art)",
+                    "Santhal art – Eastern India (daily life depiction)"
+                ]
+            },
+            {
+                "heading": "Modern Transformation of Tribal Art",
+                "points": [
+                    "Shift from ritual use to commercial art markets",
+                    "Global recognition through exhibitions and galleries",
+                    "Adaptation into textiles, fashion, and interior design",
+                    "Government branding through GI tags and GI protection",
+                    "Risk of losing original spiritual meaning"
+                ]
+            },
+            {
+                "heading": "Threats to Tribal Art",
+                "points": [
+                    "Loss of traditional knowledge transmission",
+                    "Urban migration of tribal youth",
+                    "Commercial exploitation by intermediaries",
+                    "Dilution of originality due to mass production",
+                    "Decline in ritual importance in many regions"
+                ]
+            },
+            {
+                "heading": "Conservation and Promotion Efforts",
+                "points": [
+                    "TRIFED supports tribal crafts and marketing",
+                    "National and state museums preserve tribal artifacts",
+                    "GI tagging protects regional art identity",
+                    "Skill India and tribal development schemes promote artisans",
+                    "NGOs support documentation of endangered art forms"
+                ]
+            },
+            {
+                "heading": "UPSC High-Value Areas",
+                "points": [
+                    "Match tribe–state–art form questions are frequent",
+                    "GI tags of tribal art forms are important",
+                    "Dhokra + Warli + Gond are repeatedly asked",
+                    "Link between ecology and tribal art is a key theme",
+                    "Difference between tribal art, folk art, and classical art is crucial"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Tribal art is mainly based on:",
+                    "options": [
+                    "Ritual and symbolism",
+                    "Industrial techniques",
+                    "Modern photography",
+                    "Urban architecture"
+                    ],
+                    "answer": "Ritual and symbolism"
+                },
+                {
+                    "question": "Warli art is known for:",
+                    "options": [
+                    "Geometric patterns",
+                    "Metal carving",
+                    "Glass painting",
+                    "Stone engraving"
+                    ],
+                    "answer": "Geometric patterns"
+                },
+                {
+                    "question": "Dhokra art uses:",
+                    "options": [
+                    "Lost wax technique",
+                    "Oil painting",
+                    "Digital printing",
+                    "Clay molding only"
+                    ],
+                    "answer": "Lost wax technique"
+                },
+                {
+                    "question": "Gond art mainly represents:",
+                    "options": [
+                    "Nature and mythology",
+                    "Urban life",
+                    "Political themes",
+                    "Industrial growth"
+                    ],
+                    "answer": "Nature and mythology"
+                },
+                {
+                    "question": "Pithora painting is mainly:",
+                    "options": [
+                    "Ritual art",
+                    "Modern abstract art",
+                    "Photography-based art",
+                    "Industrial design"
+                    ],
+                    "answer": "Ritual art"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Tribal art is different from folk art because:",
+                    "options": [
+                    "It is more ritualistic and symbolic",
+                    "It is purely modern",
+                    "It uses only machines",
+                    "It has no cultural link"
+                    ],
+                    "answer": "It is more ritualistic and symbolic"
+                },
+                {
+                    "question": "Which of the following is true?",
+                    "options": [
+                    "Tribal art uses natural materials",
+                    "Tribal art uses synthetic chemicals only",
+                    "Tribal art is fully industrial",
+                    "Tribal art is digital"
+                    ],
+                    "answer": "Tribal art uses natural materials"
+                },
+                {
+                    "question": "TRIFED is associated with:",
+                    "options": [
+                    "Tribal craft promotion",
+                    "Space research",
+                    "Banking reforms",
+                    "Urban planning"
+                    ],
+                    "answer": "Tribal craft promotion"
+                },
+                {
+                    "question": "Sacred groves are related to:",
+                    "options": [
+                    "Ecological conservation",
+                    "Industrial zones",
+                    "Mining activities",
+                    "Urban parks"
+                    ],
+                    "answer": "Ecological conservation"
+                },
+                {
+                    "question": "Bhils art is famous for:",
+                    "options": [
+                    "Dot painting style",
+                    "Metal sculpture",
+                    "Wood carving",
+                    "Stone architecture"
+                    ],
+                    "answer": "Dot painting style"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Tribal art is ritual-based\n2. It uses synthetic materials extensively\n3. It reflects ecological awareness",
+                    "options": ["1 and 3", "2 and 3", "1 and 2", "All"],
+                    "answer": "1 and 3"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Warli – Maharashtra",
+                    "Gond – Kerala",
+                    "Pithora – Assam",
+                    "Bhils – Punjab"
+                    ],
+                    "answer": "Warli – Maharashtra"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                    "Tribal art reflects community life",
+                    "It is individualistic fine art",
+                    "It has no link with nature",
+                    "It is purely commercial"
+                    ],
+                    "answer": "Tribal art reflects community life"
+                },
+                {
+                    "question": "Dhokra art is associated with:",
+                    "options": [
+                    "Metal casting tradition",
+                    "Glass blowing",
+                    "Paper art",
+                    "Digital art"
+                    ],
+                    "answer": "Metal casting tradition"
+                },
+                {
+                    "question": "Tribal art is best described as:",
+                    "options": [
+                    "Cultural expression rooted in nature and rituals",
+                    "Industrial design system",
+                    "Modern abstract theory",
+                    "Scientific diagramming"
+                    ],
+                    "answer": "Cultural expression rooted in nature and rituals"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Indian Art & Culture – Preserving Tribal Culture",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Tribal culture in India represents one of the oldest living cultural traditions in the world",
+                    "It includes language, religion, art, dance, music, customs, and ecological knowledge",
+                    "Preservation is essential due to rapid modernization and cultural assimilation",
+                    "Government, NGOs, and communities all play a role in protection",
+                    "It is closely linked with constitutional rights and sustainable development"
+                ]
+            },
+            {
+                "heading": "Why Preservation of Tribal Culture is Important",
+                "points": [
+                    "Maintains cultural diversity of India",
+                    "Protects endangered languages and traditions",
+                    "Preserves indigenous ecological knowledge",
+                    "Strengthens identity and dignity of tribal communities",
+                    "Contributes to intangible cultural heritage of humanity"
+                ]
+            },
+            {
+                "heading": "Constitutional Safeguards",
+                "points": [
+                    "Article 29 – Protection of cultural and educational rights of minorities",
+                    "Article 46 – Promotion of educational and economic interests of SCs and STs",
+                    "Fifth Schedule – Administration of Scheduled Areas",
+                    "Sixth Schedule – Autonomous District Councils in North-East India",
+                    "Recognition of Scheduled Tribes for targeted protection"
+                ]
+            },
+            {
+                "heading": "Government Institutions for Tribal Preservation",
+                "points": [
+                    "Ministry of Tribal Affairs – nodal ministry for tribal welfare",
+                    "TRIFED – promotes tribal crafts and livelihoods",
+                    "Anthropological Survey of India – documentation of tribal life",
+                    "Indira Gandhi Rashtriya Manav Sangrahalaya (Bhopal) – tribal museum",
+                    "Central Institute of Indian Languages (CIIL) – tribal language preservation"
+                ]
+            },
+            {
+                "heading": "Major Government Schemes",
+                "points": [
+                    "Eklavya Model Residential Schools (EMRS) – education in tribal areas",
+                    "Vanbandhu Kalyan Yojana – holistic tribal development",
+                    "TRIBES India initiative – marketing tribal products",
+                    "Sankalp and STRIVE programs – skill development",
+                    "Van Dhan Yojana – value addition to minor forest produce"
+                ]
+            },
+            {
+                "heading": "Role of Education in Preservation",
+                "points": [
+                    "Mother tongue-based education improves cultural retention",
+                    "Bilingual education helps preserve tribal languages",
+                    "Inclusion of tribal history and culture in curriculum",
+                    "Residential schools help maintain cultural environment",
+                    "Digital learning tools for tribal language documentation"
+                ]
+            },
+            {
+                "heading": "Role of Museums and Documentation",
+                "points": [
+                    "Tribal museums preserve artifacts and cultural heritage",
+                    "Documentation of oral traditions, songs, and folklore",
+                    "Ethnographic research by scholars and institutions",
+                    "Digital archiving of tribal languages and practices",
+                    "Exhibitions to promote awareness among wider public"
+                ]
+            },
+            {
+                "heading": "Role of NGOs and Civil Society",
+                "points": [
+                    "Work on education, health, and cultural preservation",
+                    "Support revival of traditional crafts and art forms",
+                    "Language documentation and literacy programs",
+                    "Advocacy for tribal rights and land protection",
+                    "Community-led cultural festivals and workshops"
+                ]
+            },
+            {
+                "heading": "Role of Technology in Preservation",
+                "points": [
+                    "Digital recording of endangered languages",
+                    "Mobile apps for tribal language learning",
+                    "Online platforms for tribal art promotion",
+                    "Virtual museums and archives",
+                    "Social media used to showcase tribal traditions"
+                ]
+            },
+            {
+                "heading": "Challenges in Preservation",
+                "points": [
+                    "Rapid urbanization and migration",
+                    "Loss of traditional livelihoods",
+                    "Cultural assimilation into mainstream society",
+                    "Decline in intergenerational transmission",
+                    "Commercial exploitation of tribal art and culture"
+                ]
+            },
+            {
+                "heading": "Impact of Globalization",
+                "points": [
+                    "Exposure to mainstream culture reduces traditional practices",
+                    "Younger generation shifts away from tribal identity",
+                    "However, global platforms also provide recognition",
+                    "Increased tourism leads to both opportunities and risks",
+                    "Need for balance between modernization and preservation"
+                ]
+            },
+            {
+                "heading": "Sustainable Development and Tribal Culture",
+                "points": [
+                    "Tribal knowledge contributes to sustainable forest management",
+                    "Traditional agriculture practices are eco-friendly",
+                    "Sacred groves help biodiversity conservation",
+                    "Indigenous knowledge supports climate resilience",
+                    "Cultural preservation aligns with SDGs (Sustainable Development Goals)"
+                ]
+            },
+            {
+                "heading": "Community-Based Preservation",
+                "points": [
+                    "Tribal communities themselves are primary custodians of culture",
+                    "Local festivals and rituals ensure continuity",
+                    "Elders play key role in knowledge transmission",
+                    "Self-governance under Fifth and Sixth Schedule areas",
+                    "Collective ownership of cultural traditions"
+                ]
+            },
+            {
+                "heading": "UPSC Importance",
+                "points": [
+                    "Constitutional provisions for tribal protection are frequently asked",
+                    "Schemes like TRIFED, Van Dhan Yojana are important",
+                    "Link between tribal culture and environmental conservation is key",
+                    "Role of Sixth Schedule in North-East governance is important",
+                    "Questions often combine culture + governance + environment"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "TRIFED is related to:",
+                    "options": [
+                    "Tribal craft and marketing",
+                    "Space research",
+                    "Banking regulation",
+                    "Education policy"
+                    ],
+                    "answer": "Tribal craft and marketing"
+                },
+                {
+                    "question": "Article 29 of the Indian Constitution deals with:",
+                    "options": [
+                    "Cultural rights",
+                    "Fundamental duties",
+                    "Emergency provisions",
+                    "Judiciary powers"
+                    ],
+                    "answer": "Cultural rights"
+                },
+                {
+                    "question": "Eklavya Model Residential Schools are meant for:",
+                    "options": [
+                    "Tribal students",
+                    "Urban elite students",
+                    "Foreign students",
+                    "Military training"
+                    ],
+                    "answer": "Tribal students"
+                },
+                {
+                    "question": "Sixth Schedule provides for:",
+                    "options": [
+                    "Autonomous district councils",
+                    "President’s Rule",
+                    "Uniform civil code",
+                    "GST structure"
+                    ],
+                    "answer": "Autonomous district councils"
+                },
+                {
+                    "question": "Indira Gandhi Rashtriya Manav Sangrahalaya is located in:",
+                    "options": [
+                    "Bhopal",
+                    "Delhi",
+                    "Kolkata",
+                    "Chennai"
+                    ],
+                    "answer": "Bhopal"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Van Dhan Yojana is related to:",
+                    "options": [
+                    "Forest produce value addition",
+                    "Urban housing",
+                    "Industrial zones",
+                    "Railway expansion"
+                    ],
+                    "answer": "Forest produce value addition"
+                },
+                {
+                    "question": "Which is NOT a challenge in preserving tribal culture?",
+                    "options": [
+                    "Cultural assimilation",
+                    "Urbanization",
+                    "Language preservation efforts",
+                    "Loss of traditional livelihoods"
+                    ],
+                    "answer": "Language preservation efforts"
+                },
+                {
+                    "question": "Anthropological Survey of India works on:",
+                    "options": [
+                    "Tribal studies",
+                    "Space missions",
+                    "Tax reforms",
+                    "Defence research"
+                    ],
+                    "answer": "Tribal studies"
+                },
+                {
+                    "question": "Sacred groves are important for:",
+                    "options": [
+                    "Biodiversity conservation",
+                    "Industrial growth",
+                    "Mining expansion",
+                    "Urban construction"
+                    ],
+                    "answer": "Biodiversity conservation"
+                },
+                {
+                    "question": "Sixth Schedule is applicable in:",
+                    "options": [
+                    "North-East India",
+                    "Entire India",
+                    "Only South India",
+                    "Only Union Territories"
+                    ],
+                    "answer": "North-East India"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Sixth Schedule provides autonomy to tribal areas\n2. TRIFED promotes tribal entrepreneurship\n3. Article 21 deals with cultural rights",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Van Dhan Yojana – forest produce",
+                    "EMRS – space research",
+                    "TRIFED – urban planning",
+                    "CIIL – banking reforms"
+                    ],
+                    "answer": "Van Dhan Yojana – forest produce"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                    "Tribal culture is linked to environment",
+                    "Tribal culture is purely modern",
+                    "It has no role in biodiversity",
+                    "It is independent of nature"
+                    ],
+                    "answer": "Tribal culture is linked to environment"
+                },
+                {
+                    "question": "Which institution preserves tribal artifacts?",
+                    "options": [
+                    "Indira Gandhi Rashtriya Manav Sangrahalaya",
+                    "ISRO",
+                    "NITI Aayog",
+                    "RBI"
+                    ],
+                    "answer": "Indira Gandhi Rashtriya Manav Sangrahalaya"
+                },
+                {
+                    "question": "Preservation of tribal culture helps in:",
+                    "options": [
+                    "Maintaining cultural diversity",
+                    "Industrial pollution",
+                    "Urban congestion",
+                    "Loss of biodiversity"
+                    ],
+                    "answer": "Maintaining cultural diversity"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,698 @@
+TOPICS = [
+    {
+        "name": "Medieval India – Regional States (Bahmani, Bengal, Awadh, Sikhs, Rajputs, Jats, Hyderabad, Mysore)",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "18th century India saw rise of numerous regional states after decline of Mughal Empire",
+                    "These states varied in origin: some were Mughal governors, some were independent kingdoms, and some were community-based powers",
+                    "They played a crucial role in political fragmentation of India",
+                    "Many adopted semi-autonomous administration while maintaining nominal Mughal links initially",
+                    "They became key contenders before British consolidation"
+                ]
+            },
+            {
+                "heading": "Classification of Regional States",
+                "points": [
+                    "Successor states (Bengal, Awadh, Hyderabad)",
+                    "Rebel states (Marathas, Sikhs, Jats)",
+                    "Independent regional kingdoms (Mysore, Rajput states)",
+                    "Deccan Sultanate legacy states (Bahmani successor states)",
+                    "Each had distinct administrative and military systems"
+                ]
+            },
+            {
+                "heading": "Bahmani Sultanate (Deccan Region)",
+                "points": [
+                    "Founded in 1347 by Ala-ud-Din Bahman Shah",
+                    "First major independent Muslim kingdom in Deccan",
+                    "Constant conflict with Vijayanagar Empire",
+                    "Eventually split into five Deccan Sultanates",
+                    "Important for Indo-Islamic cultural synthesis in Deccan"
+                ]
+            },
+            {
+                "heading": "Bengal – Nawabs of Bengal",
+                "points": [
+                    "Became autonomous under Murshid Quli Khan",
+                    "Richest province due to fertile land and textile industry",
+                    "Strong trade links with European companies",
+                    "Murshidabad became capital",
+                    "Defeated in Battle of Plassey (1757) leading to British control"
+                ]
+            },
+            {
+                "heading": "Features of Bengal State",
+                "points": [
+                    "Highly prosperous agrarian economy",
+                    "Strong administrative system",
+                    "Independent revenue collection",
+                    "Major center of textile production",
+                    "Early target of British East India Company"
+                ]
+            },
+            {
+                "heading": "Awadh (Oudh)",
+                "points": [
+                    "Founded by Saadat Khan Burhan-ul-Mulk",
+                    "Initially Mughal province, later autonomous",
+                    "Capital at Lucknow",
+                    "Known for cultural refinement and administrative efficiency",
+                    "Played balancing role in 18th-century politics"
+                ]
+            },
+            {
+                "heading": "Features of Awadh",
+                "points": [
+                    "Strong agrarian revenue base",
+                    "Shia Muslim elite dominance",
+                    "Cultural center of Indo-Persian traditions",
+                    "Loose Mughal connection but practical independence",
+                    "Eventually annexed by British in 1856"
+                ]
+            },
+            {
+                "heading": "Hyderabad State",
+                "points": [
+                    "Founded by Nizam-ul-Mulk Asaf Jah in 1724",
+                    "Largest successor state of Mughal Deccan",
+                    "Maintained nominal allegiance to Mughals initially",
+                    "Strong administrative structure",
+                    "Balanced relations with Marathas and British"
+                ]
+            },
+            {
+                "heading": "Features of Hyderabad",
+                "points": [
+                    "Efficient revenue administration",
+                    "Strategic control over Deccan region",
+                    "Multi-ethnic administration",
+                    "Strong diplomatic balancing policy",
+                    "Survived longest among Mughal successor states"
+                ]
+            },
+            {
+                "heading": "Rajput States",
+                "points": [
+                    "Included Jaipur, Jodhpur, Udaipur, Bikaner, etc.",
+                    "Maintained semi-independent status under Mughals and later British",
+                    "Based on hereditary monarchy system",
+                    "Strong martial tradition",
+                    "Often allied or conflicted with Mughals and Marathas"
+                ]
+            },
+            {
+                "heading": "Features of Rajput States",
+                "points": [
+                    "Feudal political structure",
+                    "Strong warrior aristocracy",
+                    "Cultural patronage of art and architecture",
+                    "Frequent internal rivalries",
+                    "Strategic alliances with major powers"
+                ]
+            },
+            {
+                "heading": "The Sikhs",
+                "points": [
+                    "Originated as religious movement under Guru Nanak",
+                    "Transformed into political-military power under Guru Gobind Singh",
+                    "Formation of Khalsa in 1699",
+                    "Led by Banda Bahadur against Mughals",
+                    "Later formed Sikh Empire under Maharaja Ranjit Singh"
+                ]
+            },
+            {
+                "heading": "Features of Sikh Power",
+                "points": [
+                    "Strong martial organization (Khalsa army)",
+                    "Religious unity and discipline",
+                    "Resistance against Mughal authority",
+                    "Expansion in Punjab region",
+                    "Eventually became a major regional empire"
+                ]
+            },
+            {
+                "heading": "Jats",
+                "points": [
+                    "Agrarian community in North India",
+                    "Revolted against Mughal authority in 17th–18th century",
+                    "Established small states like Bharatpur",
+                    "Strong peasant-based military organization",
+                    "Played role in weakening Mughal authority in north India"
+                ]
+            },
+            {
+                "heading": "Features of Jat States",
+                "points": [
+                    "Peasant uprising transformed into political power",
+                    "Control over fertile agricultural regions",
+                    "Simple but effective military organization",
+                    "Limited but significant regional influence",
+                    "Eventually absorbed by stronger powers"
+                ]
+            },
+            {
+                "heading": "Mysore Kingdom",
+                "points": [
+                    "Ruled by Wodeyar dynasty initially",
+                    "Rose to prominence under Hyder Ali and Tipu Sultan",
+                    "Modernized military and administration",
+                    "Conflict with British East India Company",
+                    "Tipu Sultan known as 'Tiger of Mysore'"
+                ]
+            },
+            {
+                "heading": "Features of Mysore",
+                "points": [
+                    "Strong centralized administration under Hyder Ali and Tipu",
+                    "Modernization of army with French assistance",
+                    "Economic reforms and trade expansion",
+                    "Strong resistance to British expansion",
+                    "Eventually defeated in Anglo-Mysore Wars"
+                ]
+            },
+            {
+                "heading": "Hyderabad vs Mysore Comparison",
+                "points": [
+                    "Hyderabad focused on diplomacy and survival",
+                    "Mysore focused on military modernization and resistance",
+                    "Hyderabad maintained stability longer",
+                    "Mysore actively resisted British expansion",
+                    "Both played key roles in Deccan politics"
+                ]
+            },
+            {
+                "heading": "Historical Significance",
+                "points": [
+                    "Regional states filled power vacuum after Mughal decline",
+                    "Created political fragmentation in 18th century India",
+                    "Some states resisted British expansion effectively",
+                    "Others became allies or subsidiary powers",
+                    "Eventually all were absorbed into British colonial system"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Battle of Plassey (1757) was associated with:",
+                    "options": [
+                    "Bengal",
+                    "Awadh",
+                    "Mysore",
+                    "Hyderabad"
+                    ],
+                    "answer": "Bengal"
+                },
+                {
+                    "question": "Hyderabad state was founded by:",
+                    "options": [
+                    "Shivaji",
+                    "Nizam-ul-Mulk",
+                    "Tipu Sultan",
+                    "Ranjit Singh"
+                    ],
+                    "answer": "Nizam-ul-Mulk"
+                },
+                {
+                    "question": "Khalsa was founded by:",
+                    "options": [
+                    "Guru Nanak",
+                    "Guru Gobind Singh",
+                    "Akbar",
+                    "Banda Bahadur"
+                    ],
+                    "answer": "Guru Gobind Singh"
+                },
+                {
+                    "question": "Mysore was ruled by:",
+                    "options": [
+                    "Wodeyars",
+                    "Mughals",
+                    "Marathas",
+                    "Nawabs of Bengal"
+                    ],
+                    "answer": "Wodeyars"
+                },
+                {
+                    "question": "Capital of Awadh was:",
+                    "options": [
+                    "Delhi",
+                    "Lucknow",
+                    "Patna",
+                    "Murshidabad"
+                    ],
+                    "answer": "Lucknow"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Jats mainly emerged as:",
+                    "options": [
+                    "Urban traders",
+                    "Peasant uprising group",
+                    "Foreign rulers",
+                    "Religious sect only"
+                    ],
+                    "answer": "Peasant uprising group"
+                },
+                {
+                    "question": "Mysore under Tipu Sultan was known for:",
+                    "options": [
+                    "Feudal fragmentation",
+                    "Military modernization",
+                    "Religious isolation",
+                    "Trade decline"
+                    ],
+                    "answer": "Military modernization"
+                },
+                {
+                    "question": "Awadh was originally a:",
+                    "options": [
+                    "British colony",
+                    "Mughal province",
+                    "Sikh kingdom",
+                    "Maratha state"
+                    ],
+                    "answer": "Mughal province"
+                },
+                {
+                    "question": "Rajput states were mainly characterized by:",
+                    "options": [
+                    "Industrial economy",
+                    "Feudal monarchy",
+                    "Republic system",
+                    "Colonial administration"
+                    ],
+                    "answer": "Feudal monarchy"
+                },
+                {
+                    "question": "Bengal was important in 18th century due to:",
+                    "options": [
+                    "Oil production",
+                    "Textile and revenue wealth",
+                    "Mining industry",
+                    "Naval power"
+                    ],
+                    "answer": "Textile and revenue wealth"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Hyderabad was founded by Nizam-ul-Mulk\n2. Mysore under Tipu Sultan resisted British expansion\n3. Bengal was poorest province in 18th century",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Main reason for rise of regional states in 18th century was:",
+                    "options": [
+                    "Industrial revolution",
+                    "Decline of Mughal Empire",
+                    "European colonization",
+                    "Religious unity"
+                    ],
+                    "answer": "Decline of Mughal Empire"
+                },
+                {
+                    "question": "Sikh political power developed from:",
+                    "options": [
+                    "Trade guilds",
+                    "Religious movement",
+                    "European colonies",
+                    "Mughal nobility"
+                    ],
+                    "answer": "Religious movement"
+                },
+                {
+                    "question": "Mysore vs British conflicts are known as:",
+                    "options": [
+                    "Maratha Wars",
+                    "Anglo-Mysore Wars",
+                    "Carnatic Wars",
+                    "Panipat Wars"
+                    ],
+                    "answer": "Anglo-Mysore Wars"
+                },
+                {
+                    "question": "18th century Indian polity is best described as:",
+                    "options": [
+                    "Centralized empire",
+                    "Fragmented regional states",
+                    "Colonial federation",
+                    "Unified republic"
+                    ],
+                    "answer": "Fragmented regional states"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Medieval India – Social, Cultural, Economic & Military Conditions",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Medieval India witnessed continuity and change in social, cultural, economic, and military structures",
+                    "Society remained hierarchical but saw interaction between diverse religious and cultural traditions",
+                    "Economy was primarily agrarian with growing urban and trade networks",
+                    "Military organization evolved with new technologies and administrative systems",
+                    "Regional diversity increased after decline of centralized empires"
+                ]
+            },
+            {
+                "heading": "Social Conditions – Overview",
+                "points": [
+                    "Society was largely caste-based and hierarchical",
+                    "Influence of both Hindu and Islamic traditions shaped social life",
+                    "Urban and rural societies had distinct structures",
+                    "Women’s status varied across regions and classes",
+                    "Social mobility was limited but present in certain cases"
+                ]
+            },
+            {
+                "heading": "Caste System and Social Hierarchy",
+                "points": [
+                    "Varna and jati system remained dominant in Hindu society",
+                    "Brahmins held religious and social authority",
+                    "Kshatriyas formed warrior and ruling class",
+                    "Vaishyas engaged in trade and commerce",
+                    "Shudras and lower castes performed agricultural and service roles"
+                ]
+            },
+            {
+                "heading": "Social Changes in Medieval Period",
+                "points": [
+                    "Rise of new social groups like zamindars and military elites",
+                    "Influence of Bhakti and Sufi movements reduced rigidity of caste in some areas",
+                    "Urbanization led to new occupational groups",
+                    "Intermixing of Hindu-Muslim cultures in cities",
+                    "Growth of artisan and merchant classes"
+                ]
+            },
+            {
+                "heading": "Status of Women",
+                "points": [
+                    "Varied across regions and social groups",
+                    "Practices like sati and purdah existed in some regions",
+                    "Royal and elite women sometimes held political influence",
+                    "Women participated in religious movements like Bhakti",
+                    "Overall status remained subordinate in patriarchal society"
+                ]
+            },
+            {
+                "heading": "Cultural Conditions – Overview",
+                "points": [
+                    "Rich cultural synthesis of Hindu, Islamic, Persian, and regional traditions",
+                    "Growth of literature in regional languages",
+                    "Development of Indo-Islamic architecture",
+                    "Flourishing of music, dance, and painting traditions",
+                    "Strong patronage from regional rulers and courts"
+                ]
+            },
+            {
+                "heading": "Language and Literature",
+                "points": [
+                    "Persian remained official language of administration",
+                    "Sanskrit continued in religious and scholarly works",
+                    "Growth of regional languages like Hindi, Marathi, Bengali, Telugu",
+                    "Bhakti literature popularized vernacular expression",
+                    "Sufi literature influenced Indo-Islamic culture"
+                ]
+            },
+            {
+                "heading": "Art and Architecture",
+                "points": [
+                    "Indo-Islamic architecture flourished during Delhi Sultanate and Mughal period",
+                    "Temples and regional architecture continued in South India",
+                    "Use of arches, domes, minarets introduced by Islamic rulers",
+                    "Vijayanagar and Rajput architecture developed distinct styles",
+                    "Mughal architecture represented peak of synthesis"
+                ]
+            },
+            {
+                "heading": "Religion and Society",
+                "points": [
+                    "Bhakti movement promoted devotion and equality",
+                    "Sufi saints emphasized spiritual unity and tolerance",
+                    "Interaction between Hinduism and Islam increased",
+                    "Religious institutions played major social role",
+                    "Syncretic culture developed in many regions"
+                ]
+            },
+            {
+                "heading": "Economic Conditions – Overview",
+                "points": [
+                    "Economy was primarily agrarian with land revenue as main source",
+                    "Urban centers supported trade and craft production",
+                    "Internal and external trade networks were active",
+                    "European trading companies gradually expanded influence",
+                    "Regional variation in economic prosperity existed"
+                ]
+            },
+            {
+                "heading": "Agrarian Economy",
+                "points": [
+                    "Agriculture formed backbone of economy",
+                    "Land revenue system was central to state finances",
+                    "Zamindars played key role in revenue collection",
+                    "Irrigation systems improved productivity in some regions",
+                    "Peasants bore heavy taxation burden"
+            ]
+            },
+            {
+                "heading": "Trade and Commerce",
+                "points": [
+                    "Internal trade linked villages and urban centers",
+                    "Long-distance trade connected India with Central Asia, Middle East, and Southeast Asia",
+                    "Major exports included textiles, spices, and handicrafts",
+                    "Ports like Surat, Calicut, and Masulipatnam were important",
+                    "European companies increased maritime trade influence"
+                ]
+            },
+            {
+                "heading": "Urban Economy",
+                "points": [
+                    "Cities were centers of administration, trade, and crafts",
+                    "Artisans formed important economic group",
+                    "Market systems were well developed",
+                    "Urban prosperity varied across regions and periods",
+                    "Decline of some cities and rise of new regional capitals occurred"
+                ]
+            },
+            {
+                "heading": "Military Conditions – Overview",
+                "points": [
+                    "Military systems evolved from feudal to more organized structures",
+                    "Use of cavalry, infantry, elephants, and artillery",
+                    "Fort-based defense was important",
+                    "Regional armies emerged after Mughal decline",
+                    "European military technology began influencing Indian warfare"
+                ]
+            },
+            {
+                "heading": "Army Organization",
+                "points": [
+                    "Standing armies maintained by major states",
+                    "Mansabdari system under Mughals organized military and civil ranks",
+                    "Nayankara system in South India linked land grants with military service",
+                    "Mercenary forces used in some regions",
+                    "Feudal levies common in Rajput and other regional states"
+                ]
+            },
+            {
+                "heading": "Military Technology",
+                "points": [
+                    "Introduction of gunpowder weapons and artillery",
+                    "Use of cannons in siege warfare",
+                    "Cavalry remained dominant force in open battles",
+                    "Fortifications became stronger and more complex",
+                    "European military techniques gradually adopted"
+                ]
+            },
+            {
+                "heading": "Naval Power",
+                "points": [
+                    "Limited naval development in most Indian states",
+                    "Some coastal states like Vijayanagar and Marathas had naval forces",
+                    "European powers dominated sea warfare",
+                    "Control of ports became strategically important",
+                    "Naval weakness contributed to colonial expansion"
+                ]
+            },
+            {
+                "heading": "Historical Significance",
+                "points": [
+                    "Medieval India showed strong cultural synthesis and diversity",
+                    "Economy remained largely agrarian but trade was vibrant",
+                    "Military evolution shaped regional power dynamics",
+                    "Social structure remained hierarchical but flexible in some aspects",
+                    "These conditions laid foundation for colonial transition"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Main language of administration in medieval India was:",
+                    "options": [
+                    "Sanskrit",
+                    "Persian",
+                    "Arabic",
+                    "English"
+                    ],
+                    "answer": "Persian"
+                },
+                {
+                    "question": "Main occupation in medieval India was:",
+                    "options": [
+                    "Industry",
+                    "Agriculture",
+                    "Mining",
+                    "Fishing"
+                    ],
+                    "answer": "Agriculture"
+                },
+                {
+                    "question": "Bhakti movement promoted:",
+                    "options": [
+                    "Caste rigidity",
+                    "Devotion and equality",
+                    "Military expansion",
+                    "Trade monopoly"
+                    ],
+                    "answer": "Devotion and equality"
+                },
+                {
+                    "question": "Major export of medieval India was:",
+                    "options": [
+                    "Steel",
+                    "Textiles",
+                    "Coal",
+                    "Oil"
+                    ],
+                    "answer": "Textiles"
+                },
+                {
+                    "question": "Mansabdari system was associated with:",
+                    "options": [
+                    "Vijayanagar Empire",
+                    "Mughal Empire",
+                    "Maratha Empire",
+                    "British Empire"
+                    ],
+                    "answer": "Mughal Empire"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Zamindars were mainly responsible for:",
+                    "options": [
+                    "Religious rituals",
+                    "Revenue collection",
+                    "Foreign trade",
+                    "Military invasion"
+                    ],
+                    "answer": "Revenue collection"
+                },
+                {
+                    "question": "Sufi saints were associated with:",
+                    "options": [
+                    "Political wars",
+                    "Mystical Islamic tradition",
+                    "Trade guilds",
+                    "Temple construction"
+                    ],
+                    "answer": "Mystical Islamic tradition"
+                },
+                {
+                    "question": "Gunpowder weapons were introduced in:",
+                    "options": [
+                    "Ancient period",
+                    "Medieval period",
+                    "Modern period only",
+                    "Vedic period"
+                    ],
+                    "answer": "Medieval period"
+                },
+                {
+                    "question": "Major feature of medieval economy was:",
+                    "options": [
+                    "Industrialization",
+                    "Agrarian dominance",
+                    "Digital trade",
+                    "Oil economy"
+                    ],
+                    "answer": "Agrarian dominance"
+                },
+                {
+                    "question": "European influence in military began through:",
+                    "options": [
+                    "Land wars only",
+                    "Maritime trade and weapons",
+                    "Religious missions",
+                    "Agriculture"
+                    ],
+                    "answer": "Maritime trade and weapons"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Persian was official language in medieval India\n2. Agriculture was main economic base\n3. India had strong naval dominance over Europe",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Bhakti and Sufi movements contributed to:",
+                    "options": [
+                    "Religious rigidity",
+                    "Cultural synthesis",
+                    "Military expansion",
+                    "Colonial rule"
+                    ],
+                    "answer": "Cultural synthesis"
+                },
+                {
+                    "question": "Mansabdari system primarily regulated:",
+                    "options": [
+                    "Religious institutions",
+                    "Military and civil administration",
+                    "Trade routes",
+                    "Temple economy"
+                    ],
+                    "answer": "Military and civil administration"
+                },
+                {
+                    "question": "Decline of naval power in India contributed to:",
+                    "options": [
+                    "Agricultural boom",
+                    "European colonial expansion",
+                    "Religious unity",
+                    "Industrial growth"
+                    ],
+                    "answer": "European colonial expansion"
+                },
+                {
+                    "question": "Medieval Indian society was best described as:",
+                    "options": [
+                    "Classless and equal",
+                    "Hierarchical with cultural diversity",
+                    "Industrial and modern",
+                    "Completely tribal"
+                    ],
+                    "answer": "Hierarchical with cultural diversity"
+                }
+            ]
+        }
+    }
+]

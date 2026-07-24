@@ -1,0 +1,1189 @@
+TOPICS = [
+    {
+        "name": "High Court",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "High Court is the highest judicial authority at the state level",
+                    "It is part of the Indian integrated judicial system",
+                    "Established under Article 214 of the Constitution",
+                    "Each state or group of states has a High Court"
+                ]
+            },
+            {
+                "heading": "Constitutional Provision",
+                "points": [
+                    "Articles 214 to 231 deal with High Courts",
+                    "Article 214: Establishment of High Courts",
+                    "Article 215: High Court as Court of Record",
+                    "Article 226: Writ jurisdiction of High Court"
+                ]
+            },
+            {
+                "heading": "Establishment of High Court",
+                "points": [
+                    "Every state has a High Court or shares one with other states",
+                    "Parliament can establish or reorganize High Courts",
+                    "Example: Punjab & Haryana High Court serves two states",
+                    "Union Territories may come under jurisdiction of nearby High Courts"
+                ]
+            },
+            {
+                "heading": "Composition of High Court",
+                "points": [
+                    "Consists of Chief Justice and other judges",
+                    "Number of judges is not fixed by Constitution",
+                    "Decided by President based on workload",
+                    "Includes additional and acting judges as needed"
+                ]
+            },
+            {
+                "heading": "Appointment of Judges",
+                "points": [
+                    "Appointed by President of India",
+                    "Consultation with Chief Justice of India and Governor of State",
+                    "Judges hold office till age of 62 years",
+                    "Transfer of judges can be done by President"
+                ]
+            },
+            {
+                "heading": "Qualifications of Judges",
+                "points": [
+                    "Must be a citizen of India",
+                    "Must have held judicial office for 10 years in India OR",
+                    "Must have been an advocate in High Court for 10 years",
+                    "No fixed educational qualification mentioned"
+                ]
+            },
+            {
+                "heading": "Tenure and Removal",
+                "points": [
+                    "Retires at age of 62 years",
+                    "Can resign by writing to President",
+                    "Can be removed by impeachment process",
+                    "Grounds: proved misbehavior or incapacity"
+                ]
+            },
+            {
+                "heading": "Powers of High Court",
+                "points": [
+                    "Original jurisdiction",
+                    "Appellate jurisdiction",
+                    "Writ jurisdiction",
+                    "Supervisory jurisdiction",
+                    "Control over subordinate courts"
+                ]
+            },
+            {
+                "heading": "Writ Jurisdiction",
+                "points": [
+                    "Under Article 226",
+                    "Can issue writs for enforcement of Fundamental Rights",
+                    "Broader than Supreme Court in some cases",
+                    "Includes Habeas Corpus, Mandamus, Prohibition, Certiorari, Quo Warranto"
+                ]
+            },
+            {
+                "heading": "Original Jurisdiction",
+                "points": [
+                    "Cases involving constitutional matters of state importance",
+                    "Election disputes of state legislature",
+                    "Civil and criminal cases in certain situations",
+                    "Power varies across High Courts"
+                ]
+            },
+            {
+                "heading": "Appellate Jurisdiction",
+                "points": [
+                    "Hears appeals from subordinate courts",
+                    "Civil and criminal appeals included",
+                    "Reviews judgments of District Courts",
+                    "Acts as final court at state level in many cases"
+                ]
+            },
+            {
+                "heading": "Supervisory Jurisdiction",
+                "points": [
+                    "Controls all subordinate courts under Article 227",
+                    "Ensures proper functioning of lower judiciary",
+                    "Can call for records and issue directions",
+                    "Maintains judicial discipline"
+                ]
+            },
+            {
+                "heading": "Court of Record",
+                "points": [
+                    "High Court judgments are recorded as evidence",
+                    "Has power to punish for contempt of court",
+                    "Its records are of evidentiary value",
+                    "Ensures authority and dignity of court"
+                ]
+            },
+            {
+                "heading": "Importance of High Court",
+                "points": [
+                    "Protects fundamental rights at state level",
+                    "Ensures justice delivery system in states",
+                    "Acts as guardian of constitution in states",
+                    "Reduces burden on Supreme Court"
+                ]
+            },
+            {
+                "heading": "Issues and Challenges",
+                "points": [
+                    "Case backlog and delays",
+                    "Judicial vacancies",
+                    "Infrastructure limitations",
+                    "Regional disparities in efficiency"
+                ]
+            },
+            {
+                "heading": "Conclusion (UPSC Perspective)",
+                "points": [
+                    "High Courts are vital part of Indian judiciary",
+                    "They ensure justice at state level",
+                    "Strong writ jurisdiction makes them powerful",
+                    "Important for constitutional governance"
+                ]
+            },
+            {
+                "heading": "Important Constitutional Articles",
+                "points": [
+                    "Article 214: Establishment of High Courts",
+                    "Article 215: Court of Record",
+                    "Article 216: Constitution of High Court",
+                    "Article 217: Appointment of Judges",
+                    "Article 226: Writ jurisdiction",
+                    "Article 227: Superintendence over courts"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "High Court is highest state judiciary",
+                    "Writ jurisdiction under Article 226 is wider than Supreme Court",
+                    "Judges retire at 62 years",
+                    "Appointed by President",
+                    "Court of Record has contempt powers"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Article related to High Court establishment is:",
+                    "options": ["214", "215", "216", "217"],
+                    "answer": "214"
+                },
+                {
+                    "question": "High Court judges retire at age:",
+                    "options": ["60", "62", "65", "58"],
+                    "answer": "62"
+                },
+                {
+                    "question": "Writ jurisdiction is under:",
+                    "options": ["Article 32", "Article 226", "Article 227", "Article 136"],
+                    "answer": "Article 226"
+                },
+                {
+                    "question": "High Court is:",
+                    "options": [
+                        "Court of Appeal only",
+                        "Court of Record",
+                        "Executive body",
+                        "Legislature"
+                    ],
+                    "answer": "Court of Record"
+                },
+                {
+                    "question": "Judges are appointed by:",
+                    "options": [
+                        "Governor",
+                        "President",
+                        "Chief Justice of State",
+                        "Prime Minister"
+                    ],
+                    "answer": "President"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "High Court has:",
+                    "options": [
+                        "No jurisdiction",
+                        "Writ jurisdiction",
+                        "Only executive power",
+                        "Military power"
+                    ],
+                    "answer": "Writ jurisdiction"
+                },
+                {
+                    "question": "Article for supervision of subordinate courts:",
+                    "options": ["225", "226", "227", "228"],
+                    "answer": "227"
+                },
+                {
+                    "question": "High Court can punish for:",
+                    "options": [
+                        "Election fraud",
+                        "Contempt of court",
+                        "Tax evasion",
+                        "Budget issues"
+                    ],
+                    "answer": "Contempt of court"
+                },
+                {
+                    "question": "High Court hears appeals from:",
+                    "options": [
+                        "Supreme Court",
+                        "District Courts",
+                        "Parliament",
+                        "Governor"
+                    ],
+                    "answer": "District Courts"
+                },
+                {
+                    "question": "Writ jurisdiction under Article 226 is:",
+                    "options": [
+                        "Narrower than SC",
+                        "Wider than SC",
+                        "Equal to SC",
+                        "Not valid"
+                    ],
+                    "answer": "Wider than SC"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. High Court is Court of Record\n2. Judges retire at 65\n3. Writ jurisdiction exists",
+                    "options": ["1 and 3", "2 and 3", "1 and 2", "All"],
+                    "answer": "1 and 3"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "High Court is subordinate to District Court",
+                        "High Court is highest in state judiciary",
+                        "High Court is executive body",
+                        "High Court is legislature"
+                    ],
+                    "answer": "High Court is highest in state judiciary"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Article 226 exists",
+                        "Judges appointed by President",
+                        "High Court is executive body",
+                        "Court of Record exists"
+                    ],
+                    "answer": "High Court is executive body"
+                },
+                {
+                    "question": "Main power of High Court is:",
+                    "options": [
+                        "Taxation",
+                        "Judicial review and writs",
+                        "Military control",
+                        "Budget approval"
+                    ],
+                    "answer": "Judicial review and writs"
+                },
+                {
+                    "question": "Final nature of High Court is:",
+                    "options": [
+                        "Administrative body",
+                        "Constitutional court",
+                        "Executive agency",
+                        "Legislative body"
+                    ],
+                    "answer": "Constitutional court"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Organisation of High Court",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Organisation of High Court refers to its structural setup, composition, and internal arrangement",
+                    "High Court is the highest judicial authority at the state level",
+                    "Established under Article 214 of the Constitution",
+                    "Its organisation is flexible and varies across states depending on workload"
+                ]
+            },
+            {
+                "heading": "Constitutional Basis",
+                "points": [
+                    "Articles 214 to 231 deal with High Courts",
+                    "Article 216: Constitution of High Court (Chief Justice and judges)",
+                    "Article 217: Appointment and conditions of judges",
+                    "Article 222: Transfer of judges",
+                    "Article 224: Additional and acting judges"
+                ]
+            },
+            {
+                "heading": "Structure of High Court",
+                "points": [
+                    "Chief Justice of High Court",
+                    "Other permanent judges",
+                    "Additional judges (temporary appointment)",
+                    "Acting judges (for short-term needs)",
+                    "Retired judges can also be appointed temporarily"
+                ]
+            },
+            {
+                "heading": "Chief Justice of High Court",
+                "points": [
+                    "Head of the High Court",
+                    "Responsible for administration and allocation of cases",
+                    "Appointed by President of India",
+                    "Coordinates functioning of benches",
+                    "Supervises judicial administration"
+                ]
+            },
+            {
+                "heading": "Other Judges",
+                "points": [
+                    "Appointed by President in consultation with Chief Justice of India and Governor",
+                    "Number of judges varies from state to state",
+                    "Depends on workload and pendency of cases",
+                    "Serve until retirement age of 62 years"
+                ]
+            },
+            {
+                "heading": "Additional Judges",
+                "points": [
+                    "Appointed temporarily under Article 224",
+                    "Purpose: to clear backlog of cases",
+                    "Term usually not more than 2 years",
+                    "Appointed when workload increases"
+                ]
+            },
+            {
+                "heading": "Acting Judges",
+                "points": [
+                    "Appointed when a judge is temporarily absent or unable to perform duties",
+                    "Serve for a short duration",
+                    "Must have qualifications of a High Court judge",
+                    "Ensure continuity of judicial work"
+                ]
+            },
+            {
+                "heading": "Benches of High Court",
+                "points": [
+                    "High Courts may have benches in different locations",
+                    "Created for administrative convenience",
+                    "Principal seat and regional benches exist",
+                    "Example: Bombay High Court has benches in Nagpur, Aurangabad, Goa"
+                ]
+            },
+            {
+                "heading": "Appointment of Judges",
+                "points": [
+                    "Appointed by President of India",
+                    "Consultation with Chief Justice of India, Governor, and Chief Justice of High Court",
+                    "Based on collegium system (judicial interpretation)",
+                    "Ensures independence of judiciary"
+                ]
+            },
+            {
+                "heading": "Qualifications of Judges",
+                "points": [
+                    "Must be citizen of India",
+                    "Must have held judicial office for 10 years in India OR",
+                    "Must have been advocate of High Court for 10 years",
+                    "No specific educational qualification mentioned"
+                ]
+            },
+            {
+                "heading": "Tenure and Removal",
+                "points": [
+                    "Retires at age of 62 years",
+                    "Can resign by writing to President",
+                    "Can be removed by impeachment by Parliament",
+                    "Grounds: proven misbehavior or incapacity"
+                ]
+            },
+            {
+                "heading": "Administrative Organisation",
+                "points": [
+                    "Chief Justice allocates cases among judges",
+                    "Registry assists in administrative work",
+                    "Court staff manages filings and records",
+                    "Ensures smooth judicial functioning"
+                ]
+            },
+            {
+                "heading": "Importance of Organisation",
+                "points": [
+                    "Ensures efficient case management",
+                    "Reduces judicial delays",
+                    "Maintains independence of judiciary",
+                    "Helps in regional accessibility of justice"
+                ]
+            },
+            {
+                "heading": "Challenges in Organisation",
+                "points": [
+                    "Judicial vacancies",
+                    "Huge case backlog",
+                    "Unequal distribution of workload",
+                    "Infrastructure limitations in some benches"
+                ]
+            },
+            {
+                "heading": "Conclusion (UPSC Perspective)",
+                "points": [
+                    "Organisation of High Court ensures structured judicial system at state level",
+                    "Chief Justice plays central administrative role",
+                    "Additional and acting judges help manage workload",
+                    "Efficient organisation is key to timely justice delivery"
+                ]
+            },
+            {
+                "heading": "Important Constitutional Articles",
+                "points": [
+                    "Article 214: High Court establishment",
+                    "Article 216: Constitution of High Court",
+                    "Article 217: Appointment of judges",
+                    "Article 222: Transfer of judges",
+                    "Article 224: Additional and acting judges"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Chief Justice is head of High Court",
+                    "Judges appointed by President",
+                    "Retirement age is 62 years",
+                    "Additional judges help reduce backlog",
+                    "Benches improve accessibility of justice"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Article for constitution of High Court is:",
+                    "options": ["214", "216", "217", "222"],
+                    "answer": "216"
+                },
+                {
+                    "question": "Head of High Court is:",
+                    "options": [
+                        "Chief Minister",
+                        "Chief Justice",
+                        "Governor",
+                        "President"
+                    ],
+                    "answer": "Chief Justice"
+                },
+                {
+                    "question": "High Court judges retire at age:",
+                    "options": ["60", "62", "65", "58"],
+                    "answer": "62"
+                },
+                {
+                    "question": "Additional judges are appointed under:",
+                    "options": ["Article 220", "Article 222", "Article 224", "Article 226"],
+                    "answer": "Article 224"
+                },
+                {
+                    "question": "Judges are appointed by:",
+                    "options": [
+                        "Governor",
+                        "President",
+                        "Chief Justice of State",
+                        "Prime Minister"
+                    ],
+                    "answer": "President"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Acting judges are appointed when:",
+                    "options": [
+                        "Judge is promoted",
+                        "Judge is temporarily absent",
+                        "Judge retires permanently",
+                        "New court is created"
+                    ],
+                    "answer": "Judge is temporarily absent"
+                },
+                {
+                    "question": "Benches are created for:",
+                    "options": [
+                        "Political reasons",
+                        "Administrative convenience",
+                        "Military control",
+                        "Election purposes"
+                    ],
+                    "answer": "Administrative convenience"
+                },
+                {
+                    "question": "Chief Justice role includes:",
+                    "options": [
+                        "Executive control",
+                        "Case allocation",
+                        "Tax collection",
+                        "Budget approval"
+                    ],
+                    "answer": "Case allocation"
+                },
+                {
+                    "question": "Additional judges help in:",
+                    "options": [
+                        "Increasing taxes",
+                        "Reducing backlog",
+                        "Conducting elections",
+                        "Police control"
+                    ],
+                    "answer": "Reducing backlog"
+                },
+                {
+                    "question": "High Court judges are removed by:",
+                    "options": [
+                        "Governor",
+                        "Impeachment by Parliament",
+                        "Chief Minister",
+                        "Election Commission"
+                    ],
+                    "answer": "Impeachment by Parliament"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Chief Justice heads High Court\n2. Additional judges are permanent\n3. Acting judges are temporary",
+                    "options": ["1 and 3", "2 and 3", "1 and 2", "All"],
+                    "answer": "1 and 3"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "High Court judges appointed by Governor",
+                        "High Court is highest state judiciary",
+                        "Chief Minister appoints judges",
+                        "Parliament directly appoints judges"
+                    ],
+                    "answer": "High Court is highest state judiciary"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Article 224 exists",
+                        "Additional judges exist",
+                        "Judges retire at 65",
+                        "Chief Justice heads court"
+                    ],
+                    "answer": "Judges retire at 65"
+                },
+                {
+                    "question": "Main purpose of organisation is:",
+                    "options": [
+                        "Military control",
+                        "Efficient justice delivery",
+                        "Election management",
+                        "Tax collection"
+                    ],
+                    "answer": "Efficient justice delivery"
+                },
+                {
+                    "question": "Final nature of High Court organisation is:",
+                    "options": [
+                        "Administrative setup",
+                        "Judicial structure for justice",
+                        "Executive system",
+                        "Political institution"
+                    ],
+                    "answer": "Judicial structure for justice"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Independence of High Court",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Independence of High Court means freedom from executive and legislative interference",
+                    "Ensures impartial and fair justice delivery",
+                    "It is a basic feature of the Constitution under the doctrine of separation of powers",
+                    "Protected through constitutional safeguards under Articles 214–231"
+                ]
+            },
+            {
+                "heading": "Meaning of Judicial Independence",
+                "points": [
+                    "Freedom of judges to decide cases without external pressure",
+                    "Protection from political or administrative influence",
+                    "Security of tenure and financial independence",
+                    "Essential for rule of law and democracy"
+                ]
+            },
+            {
+                "heading": "Constitutional Safeguards",
+                "points": [
+                    "Security of tenure for judges",
+                    "Fixed retirement age (62 years)",
+                    "Salaries charged on Consolidated Fund of State",
+                    "Removal only through impeachment by Parliament",
+                    "Restrictions on discussion of conduct of judges in legislature"
+                ]
+            },
+            {
+                "heading": "Appointment of Judges",
+                "points": [
+                    "Appointed by President of India",
+                    "In consultation with Chief Justice of India, Governor, and Chief Justice of High Court",
+                    "Collegium system plays a key role in practice",
+                    "Reduces political interference"
+                ]
+            },
+            {
+                "heading": "Security of Tenure",
+                "points": [
+                    "Judges cannot be removed arbitrarily",
+                    "Removal only by impeachment process in Parliament",
+                    "Grounds: proved misbehavior or incapacity",
+                    "Ensures independence from executive pressure"
+                ]
+            },
+            {
+                "heading": "Financial Independence",
+                "points": [
+                    "Salaries and allowances are charged on Consolidated Fund of State",
+                    "Not subject to vote of legislature",
+                    "Ensures financial security of judges",
+                    "Prevents executive control through budget"
+                ]
+            },
+            {
+                "heading": "Freedom from Legislative Control",
+                "points": [
+                    "Legislature cannot discuss conduct of judges except during impeachment",
+                    "Judicial decisions cannot be criticized in House proceedings",
+                    "Maintains dignity of judiciary",
+                    "Protects impartial decision-making"
+                ]
+            },
+            {
+                "heading": "Administrative Independence",
+                "points": [
+                    "Chief Justice controls internal administration",
+                    "Court decides allocation of cases",
+                    "Judiciary manages its own staff and procedures",
+                    "Minimizes executive interference"
+                ]
+            },
+            {
+                "heading": "Transfer and Security",
+                "points": [
+                    "Judges can be transferred only by President after consultation with CJI",
+                    "Transfers are not arbitrary",
+                    "Ensures balance between independence and national integration",
+                    "Prevents local political pressure"
+                ]
+            },
+            {
+                "heading": "Restrictions on Judges",
+                "points": [
+                    "Judges cannot practice law after retirement in same court",
+                    "Cannot hold office under government after retirement (except SC/HC as permitted)",
+                    "Cannot engage in political activities",
+                    "Ensures neutrality"
+                ]
+            },
+            {
+                "heading": "Importance of Independence",
+                "points": [
+                    "Protects rule of law",
+                    "Ensures fair justice",
+                    "Maintains public confidence in judiciary",
+                    "Safeguards fundamental rights"
+                ]
+            },
+            {
+                "heading": "Challenges to Independence",
+                "points": [
+                    "Executive influence in appointments (debated)",
+                    "Delay in judicial appointments",
+                    "Political pressure in sensitive cases",
+                    "Infrastructure and workload issues"
+                ]
+            },
+            {
+                "heading": "Judicial Review Role",
+                "points": [
+                    "High Courts can review executive and legislative actions",
+                    "Ensures constitutional supremacy",
+                    "Protects citizens’ rights",
+                    "Strengthens independence of judiciary"
+                ]
+            },
+            {
+                "heading": "Conclusion (UPSC Perspective)",
+                "points": [
+                    "Independence of High Court is essential for democracy",
+                    "It ensures justice without fear or favor",
+                    "Constitution provides strong safeguards",
+                    "Yet practical challenges remain in implementation"
+                ]
+            },
+            {
+                "heading": "Important Constitutional Articles",
+                "points": [
+                    "Article 214: Establishment of High Courts",
+                    "Article 217: Appointment of Judges",
+                    "Article 222: Transfer of Judges",
+                    "Article 235: Control over subordinate courts",
+                    "Article 50: Separation of judiciary from executive"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Independence is a basic feature of Constitution",
+                    "Security of tenure is crucial safeguard",
+                    "Financial independence ensures neutrality",
+                    "Impeachment is the only removal method",
+                    "Judicial review strengthens independence"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Independence of High Court ensures:",
+                    "options": [
+                        "Executive control",
+                        "Fair justice",
+                        "Political dominance",
+                        "Military control"
+                    ],
+                    "answer": "Fair justice"
+                },
+                {
+                    "question": "Judges are removed by:",
+                    "options": [
+                        "Governor",
+                        "Impeachment by Parliament",
+                        "Chief Minister",
+                        "President alone"
+                    ],
+                    "answer": "Impeachment by Parliament"
+                },
+                {
+                    "question": "Salary of judges is charged on:",
+                    "options": [
+                        "Contingency Fund",
+                        "Consolidated Fund of State",
+                        "Public Fund",
+                        "PM Relief Fund"
+                    ],
+                    "answer": "Consolidated Fund of State"
+                },
+                {
+                    "question": "Judges retire at age:",
+                    "options": ["60", "62", "65", "58"],
+                    "answer": "62"
+                },
+                {
+                    "question": "Article related to separation of judiciary is:",
+                    "options": ["48", "49", "50", "51"],
+                    "answer": "50"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Judges are appointed by:",
+                    "options": [
+                        "Governor",
+                        "President",
+                        "Chief Minister",
+                        "Chief Justice alone"
+                    ],
+                    "answer": "President"
+                },
+                {
+                    "question": "Judges cannot be removed except by:",
+                    "options": [
+                        "Election",
+                        "Impeachment",
+                        "Resignation",
+                        "Transfer"
+                    ],
+                    "answer": "Impeachment"
+                },
+                {
+                    "question": "Financial independence means:",
+                    "options": [
+                        "Judges set taxes",
+                        "Salary not voted by legislature",
+                        "Judges control budget",
+                        "Executive controls salary"
+                    ],
+                    "answer": "Salary not voted by legislature"
+                },
+                {
+                    "question": "Chief Justice role ensures:",
+                    "options": [
+                        "Executive control",
+                        "Administrative independence",
+                        "Military control",
+                        "Election control"
+                    ],
+                    "answer": "Administrative independence"
+                },
+                {
+                    "question": "Judicial independence is part of:",
+                    "options": [
+                        "Directive Principles",
+                        "Basic structure",
+                        "Fundamental Duties",
+                        "Election law"
+                    ],
+                    "answer": "Basic structure"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Judges have security of tenure\n2. Salary is voted by legislature\n3. Removal only by impeachment",
+                    "options": ["1 and 3", "2 and 3", "1 and 2", "All"],
+                    "answer": "1 and 3"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "High Court is under executive control",
+                        "High Court is independent judiciary",
+                        "Judges are elected",
+                        "Governor controls judiciary"
+                    ],
+                    "answer": "High Court is independent judiciary"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Judges retire at 62",
+                        "Impeachment removes judges",
+                        "Judges can be removed by Governor",
+                        "Salary is charged on Consolidated Fund"
+                    ],
+                    "answer": "Judges can be removed by Governor"
+                },
+                {
+                    "question": "Main purpose of independence is:",
+                    "options": [
+                        "Political control",
+                        "Fair justice delivery",
+                        "Tax collection",
+                        "Election management"
+                    ],
+                    "answer": "Fair justice delivery"
+                },
+                {
+                    "question": "Final nature of independence is:",
+                    "options": [
+                        "Administrative formality",
+                        "Constitutional safeguard",
+                        "Executive privilege",
+                        "Political tool"
+                    ],
+                    "answer": "Constitutional safeguard"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Jurisdiction and Powers of High Court",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Jurisdiction and powers of High Court define its authority to hear cases and administer justice",
+                    "High Court is the highest judicial authority at the state level",
+                    "Derived from Articles 214 to 231 of the Constitution",
+                    "It has original, appellate, writ, supervisory, and administrative powers"
+                ]
+            },
+            {
+                "heading": "Types of Jurisdiction",
+                "points": [
+                    "Original Jurisdiction",
+                    "Appellate Jurisdiction",
+                    "Writ Jurisdiction",
+                    "Supervisory Jurisdiction",
+                    "Administrative Jurisdiction"
+                ]
+            },
+            {
+                "heading": "Original Jurisdiction",
+                "points": [
+                    "High Court can hear cases directly without lower court involvement",
+                    "Constitutional matters related to state laws",
+                    "Election disputes of state legislature",
+                    "Cases involving fundamental rights (in some situations)",
+                    "Varies across High Courts"
+                ]
+            },
+            {
+                "heading": "Appellate Jurisdiction",
+                "points": [
+                    "Hears appeals from subordinate courts (District and Sessions Courts)",
+                    "Civil and criminal appeals included",
+                    "Can review judgments of lower courts",
+                    "Ensures correction of judicial errors"
+                ]
+            },
+            {
+                "heading": "Writ Jurisdiction (Article 226)",
+                "points": [
+                    "Power to issue writs for enforcement of Fundamental Rights and other legal rights",
+                    "Writs include Habeas Corpus, Mandamus, Prohibition, Certiorari, Quo Warranto",
+                    "Wider than Supreme Court’s writ jurisdiction (Article 32)",
+                    "Can be issued against both government and private bodies in some cases"
+                ]
+            },
+            {
+                "heading": "Supervisory Jurisdiction (Article 227)",
+                "points": [
+                    "High Court has control over all subordinate courts and tribunals",
+                    "Can call for records and inspect proceedings",
+                    "Ensures proper functioning of lower judiciary",
+                    "Helps maintain judicial discipline"
+                ]
+            },
+            {
+                "heading": "Administrative Powers",
+                "points": [
+                    "Control over subordinate judiciary in administrative matters",
+                    "Posting, promotion, and transfer of judicial officers (in consultation)",
+                    "Framing rules for court procedure",
+                    "Supervision of court functioning"
+                ]
+            },
+            {
+                "heading": "Court of Record Powers",
+                "points": [
+                    "High Court judgments are recorded as legal precedent",
+                    "Can punish for contempt of court",
+                    "Its records have evidentiary value",
+                    "Ensures authority and dignity of court"
+                ]
+            },
+            {
+                "heading": "Judicial Review Power",
+                "points": [
+                    "Can examine constitutionality of state laws",
+                    "Can strike down unconstitutional laws",
+                    "Ensures supremacy of Constitution",
+                    "Protects Fundamental Rights"
+                ]
+            },
+            {
+                "heading": "Power over Subordinate Courts",
+                "points": [
+                    "Administrative and judicial control over district courts",
+                    "Ensures uniformity in justice delivery",
+                    "Guides lower judiciary in legal matters",
+                    "Strengthens judicial hierarchy"
+                ]
+            },
+            {
+                "heading": "Limitations of High Court Powers",
+                "points": [
+                    "Cannot override Supreme Court decisions",
+                    "Jurisdiction may be limited by Parliament or state laws",
+                    "Original jurisdiction varies among High Courts",
+                    "Overburdened with pending cases"
+                ]
+            },
+            {
+                "heading": "Importance of High Court Powers",
+                "points": [
+                    "Protects Fundamental Rights at state level",
+                    "Acts as guardian of Constitution in states",
+                    "Ensures justice delivery system efficiency",
+                    "Reduces burden on Supreme Court"
+                ]
+            },
+            {
+                "heading": "Conclusion (UPSC Perspective)",
+                "points": [
+                    "High Court has wide and diverse jurisdiction",
+                    "Writ jurisdiction under Article 226 is especially powerful",
+                    "It acts as a key pillar of Indian judiciary",
+                    "Ensures constitutional governance at state level"
+                ]
+            },
+            {
+                "heading": "Important Constitutional Articles",
+                "points": [
+                    "Article 214: Establishment of High Courts",
+                    "Article 226: Writ Jurisdiction",
+                    "Article 227: Supervisory Jurisdiction",
+                    "Article 215: Court of Record",
+                    "Articles 228–231: Other powers"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Article 226 is wider than Article 32",
+                    "High Court is Court of Record",
+                    "Has supervisory power over subordinate courts",
+                    "Can issue writs for enforcement of rights",
+                    "Judicial review is key constitutional power"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Writ jurisdiction of High Court is under:",
+                    "options": ["Article 32", "Article 226", "Article 227", "Article 215"],
+                    "answer": "Article 226"
+                },
+                {
+                    "question": "High Court is a:",
+                    "options": [
+                        "Legislative body",
+                        "Court of Record",
+                        "Executive body",
+                        "Election body"
+                    ],
+                    "answer": "Court of Record"
+                },
+                {
+                    "question": "Supervisory jurisdiction is under:",
+                    "options": ["225", "226", "227", "228"],
+                    "answer": "227"
+                },
+                {
+                    "question": "High Court hears appeals from:",
+                    "options": [
+                        "Supreme Court",
+                        "District Courts",
+                        "Parliament",
+                        "Governor"
+                    ],
+                    "answer": "District Courts"
+                },
+                {
+                    "question": "Which writ is NOT issued by High Court?",
+                    "options": [
+                        "Habeas Corpus",
+                        "Mandamus",
+                        "Amnesty",
+                        "Certiorari"
+                    ],
+                    "answer": "Amnesty"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Original jurisdiction means:",
+                    "options": [
+                        "Hearing appeals only",
+                        "Direct hearing of cases",
+                        "Executive control",
+                        "Legislative review"
+                    ],
+                    "answer": "Direct hearing of cases"
+                },
+                {
+                    "question": "High Court can issue writs against:",
+                    "options": [
+                        "Only private individuals",
+                        "Government and others",
+                        "Only Parliament",
+                        "Only Supreme Court"
+                    ],
+                    "answer": "Government and others"
+                },
+                {
+                    "question": "Court of Record means:",
+                    "options": [
+                        "No power",
+                        "Judgments are legal evidence",
+                        "Only record keeping",
+                        "Election authority"
+                    ],
+                    "answer": "Judgments are legal evidence"
+                },
+                {
+                    "question": "Judicial review allows:",
+                    "options": [
+                        "Tax collection",
+                        "Checking constitutionality of laws",
+                        "Election management",
+                        "Budget approval"
+                    ],
+                    "answer": "Checking constitutionality of laws"
+                },
+                {
+                    "question": "High Court controls:",
+                    "options": [
+                        "Police only",
+                        "Subordinate courts",
+                        "Parliament",
+                        "Army"
+                    ],
+                    "answer": "Subordinate courts"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Article 226 is wider than Article 32\n2. High Court has supervisory power\n3. High Court is under Supreme Court control in administration",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "High Court cannot issue writs",
+                        "High Court has judicial review power",
+                        "High Court is executive body",
+                        "High Court is legislature"
+                    ],
+                    "answer": "High Court has judicial review power"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Article 226 exists",
+                        "High Court is Court of Record",
+                        "High Court is subordinate to District Court",
+                        "High Court supervises lower courts"
+                    ],
+                    "answer": "High Court is subordinate to District Court"
+                },
+                {
+                    "question": "Main power of High Court is:",
+                    "options": [
+                        "Taxation",
+                        "Judicial review and writs",
+                        "Defense control",
+                        "Budget approval"
+                    ],
+                    "answer": "Judicial review and writs"
+                },
+                {
+                    "question": "Final nature of High Court powers is:",
+                    "options": [
+                        "Executive authority",
+                        "Constitutional judicial authority",
+                        "Legislative authority",
+                        "Military authority"
+                    ],
+                    "answer": "Constitutional judicial authority"
+                }
+            ]
+        }
+    }
+]

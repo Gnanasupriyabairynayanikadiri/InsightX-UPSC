@@ -1,0 +1,547 @@
+TOPICS = [
+    {
+        "name": "Crop Insurance in India – Historical Background & Issues",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Crop insurance is a risk management tool for farmers against crop loss",
+                    "Protects farmers from uncertainties like droughts, floods, pests, and diseases",
+                    "Ensures income stability and promotes agricultural sustainability"
+                ]
+            },
+            {
+                "heading": "Crop Insurance – Meaning",
+                "points": [
+                    "Insurance coverage for crop losses due to natural calamities",
+                    "Provides financial compensation to farmers",
+                    "Reduces risk in agriculture sector",
+                    "Encourages investment and adoption of modern practices"
+                ]
+            },
+            {
+                "heading": "Need for Crop Insurance",
+                "points": [
+                    "Agriculture is highly dependent on monsoon",
+                    "Frequent natural disasters (droughts, floods, cyclones)",
+                    "Price fluctuations and market risks",
+                    "Protection of farmer income",
+                    "Reduction in farmer distress and suicides"
+                ]
+            },
+            {
+                "heading": "Historical Background of Crop Insurance in India",
+                "points": [
+                    "1972: First crop insurance scheme introduced (pilot basis)",
+                    "1979: Pilot Crop Insurance Scheme (PCIS)",
+                    "1985: Comprehensive Crop Insurance Scheme (CCIS)",
+                    "1999: National Agricultural Insurance Scheme (NAIS)",
+                    "2010: Modified NAIS (MNAIS)",
+                    "2013: Weather-Based Crop Insurance Scheme (WBCIS)",
+                    "2016: Pradhan Mantri Fasal Bima Yojana (PMFBY)"
+                ]
+            },
+            {
+                "heading": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+                "points": [
+                    "Launched in 2016",
+                    "Provides comprehensive crop insurance coverage",
+                    "Low premium rates (2% Kharif, 1.5% Rabi, 5% commercial crops)",
+                    "Use of technology (satellite, drones) for assessment",
+                    "Covers pre-sowing to post-harvest losses"
+                ]
+            },
+            {
+                "heading": "Key Features of Crop Insurance",
+                "points": [
+                    "Covers natural risks (drought, flood, pest attacks)",
+                    "Subsidized premium rates",
+                    "Area-based approach for loss assessment",
+                    "Government support for premium sharing",
+                    "Integration with credit system (linked to KCC)"
+                ]
+            },
+            {
+                "heading": "Issues Related to Crop Insurance",
+                "points": [
+                    "Delay in claim settlement",
+                    "Inaccurate crop loss assessment",
+                    "Low awareness among farmers",
+                    "Limited coverage of farmers",
+                    "High fiscal burden on government",
+                    "Dependence on area-based approach",
+                    "Exclusion of tenant farmers in some cases",
+                    "Complex procedures and documentation"
+                ]
+            },
+            {
+                "heading": "Operational Challenges",
+                "points": [
+                    "Lack of reliable data and infrastructure",
+                    "Delay in premium payment by states",
+                    "Coordination issues among stakeholders",
+                    "Inadequate use of technology in some regions",
+                    "Limited participation of private insurers"
+                ]
+            },
+            {
+                "heading": "Criticism of PMFBY",
+                "points": [
+                    "Delayed compensation to farmers",
+                    "Profitability concerns for insurance companies",
+                    "Implementation gaps at state level",
+                    "Low transparency in claim settlement",
+                    "Limited coverage of non-loanee farmers"
+                ]
+            },
+            {
+                "heading": "Recent Reforms",
+                "points": [
+                    "Use of remote sensing and drones",
+                    "Digitization of claim processes",
+                    "Voluntary participation for farmers",
+                    "Improved transparency measures",
+                    "Direct Benefit Transfer (DBT) for claims"
+                ]
+            },
+            {
+                "heading": "Way Forward",
+                "points": [
+                    "Improve claim settlement speed",
+                    "Enhance awareness among farmers",
+                    "Increase coverage of tenant farmers",
+                    "Strengthen use of technology",
+                    "Ensure timely premium payments",
+                    "Improve coordination among stakeholders"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "PMFBY launched in:",
+                    "options": [
+                    "2010",
+                    "2016",
+                    "2000",
+                    "1999"
+                    ],
+                    "answer": "2016"
+                },
+                {
+                    "question": "Crop insurance covers:",
+                    "options": [
+                    "Taxes",
+                    "Crop loss",
+                    "Exports",
+                    "Imports"
+                    ],
+                    "answer": "Crop loss"
+                },
+                {
+                    "question": "NAIS launched in:",
+                    "options": [
+                    "1985",
+                    "1999",
+                    "2010",
+                    "2016"
+                    ],
+                    "answer": "1999"
+                },
+                {
+                    "question": "Main risk:",
+                    "options": [
+                    "Technology",
+                    "Monsoon",
+                    "Exports",
+                    "Imports"
+                    ],
+                    "answer": "Monsoon"
+                },
+                {
+                    "question": "Premium is:",
+                    "options": [
+                    "High",
+                    "Subsidized",
+                    "Free",
+                    "Export-based"
+                    ],
+                    "answer": "Subsidized"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Major issue:",
+                    "options": [
+                    "Quick payment",
+                    "Delay in claims",
+                    "Exports",
+                    "Imports"
+                    ],
+                    "answer": "Delay in claims"
+                },
+                {
+                    "question": "Area-based approach means:",
+                    "options": [
+                    "Individual loss",
+                    "Regional loss",
+                    "Exports",
+                    "Imports"
+                    ],
+                    "answer": "Regional loss"
+                },
+                {
+                    "question": "WBCIS focuses on:",
+                    "options": [
+                    "Weather",
+                    "Trade",
+                    "Tax",
+                    "Exports"
+                    ],
+                    "answer": "Weather"
+                },
+                {
+                    "question": "Technology used:",
+                    "options": [
+                    "Manual only",
+                    "Satellite",
+                    "Exports",
+                    "Imports"
+                    ],
+                    "answer": "Satellite"
+                },
+                {
+                    "question": "Main benefit:",
+                    "options": [
+                    "Risk increase",
+                    "Risk reduction",
+                    "Exports",
+                    "Imports"
+                    ],
+                    "answer": "Risk reduction"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. PMFBY covers crop loss\n2. NAIS introduced before PMFBY\n3. Claims are always timely",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Main limitation:",
+                    "options": [
+                    "Coverage",
+                    "Delay",
+                    "Exports",
+                    "Imports"
+                    ],
+                    "answer": "Delay"
+                },
+                {
+                    "question": "Best reform:",
+                    "options": [
+                    "Reduce coverage",
+                    "Improve efficiency",
+                    "Ban insurance",
+                    "Exports"
+                    ],
+                    "answer": "Improve efficiency"
+                },
+                {
+                    "question": "Crop insurance helps:",
+                    "options": [
+                    "Loss increase",
+                    "Income stability",
+                    "Exports",
+                    "Imports"
+                    ],
+                    "answer": "Income stability"
+                },
+                {
+                    "question": "Goal:",
+                    "options": [
+                    "High risk",
+                    "Risk management",
+                    "Exports",
+                    "Imports"
+                    ],
+                    "answer": "Risk management"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY) – Comparison with Earlier Schemes & Challenges",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "PMFBY is India’s flagship crop insurance scheme launched in 2016",
+                    "Provides comprehensive risk coverage for crops against natural calamities",
+                    "Replaces earlier fragmented crop insurance schemes",
+                    "Aims at income security and reducing farmer distress"
+                ]
+            },
+            {
+                "heading": "Pradhan Mantri Fasal Bima Yojana (PMFBY) – Overview",
+                "points": [
+                    "Launched in 2016 by Government of India",
+                    "Implemented by Ministry of Agriculture & Farmers Welfare",
+                    "Low premium rates: 2% (Kharif), 1.5% (Rabi), 5% for commercial crops",
+                    "Covers pre-sowing to post-harvest losses",
+                    "Uses technology like satellites, drones, and remote sensing",
+                    "Provides insurance coverage for food crops, oilseeds, and horticultural crops"
+                ]
+            },
+            {
+                "heading": "Objectives of PMFBY",
+                "points": [
+                    "Provide financial support to farmers in crop loss situations",
+                    "Stabilize farm income",
+                    "Encourage farmers to adopt modern farming practices",
+                    "Ensure credit flow in agriculture sector",
+                    "Reduce dependence on moneylenders"
+                ]
+            },
+            {
+                "heading": "Features of PMFBY",
+                "points": [
+                    "Uniform low premium for farmers",
+                    "No upper limit on government subsidy",
+                    "Coverage of localized risks (hailstorm, landslide, inundation)",
+                    "Use of technology for faster assessment",
+                    "Compulsory for loanee farmers (later made voluntary in many states)"
+                ]
+            },
+            {
+                "heading": "Comparison with Earlier Crop Insurance Schemes",
+                "points": [
+                    "NAIS (1999): Limited coverage and slow claim settlement",
+                    "MNAIS (2010): Improved but still complex structure",
+                    "WBCIS (2013): Based on weather parameters only",
+                    "PMFBY (2016): Comprehensive coverage from sowing to post-harvest",
+                    "PMFBY uses advanced technology unlike earlier schemes",
+                    "PMFBY has lower premium burden on farmers"
+                ]
+            },
+            {
+                "heading": "Key Improvements under PMFBY",
+                "points": [
+                    "Broader risk coverage compared to NAIS and MNAIS",
+                    "Faster claim settlement using technology",
+                    "Integration of satellite and remote sensing data",
+                    "Higher government subsidy support",
+                    "More transparent and digitized system",
+                    "Greater scalability and nationwide coverage"
+                ]
+            },
+            {
+                "heading": "Challenges of PMFBY",
+                "points": [
+                    "Delay in claim settlement to farmers",
+                    "Poor implementation in some states",
+                    "High fiscal burden on central and state governments",
+                    "Inaccurate crop loss assessment in some cases",
+                    "Low awareness among farmers",
+                    "Non-payment of state premium share on time",
+                    "Insurance companies showing low interest in some regions",
+                    "Limited coverage of tenant and sharecroppers"
+                ]
+            },
+            {
+                "heading": "Operational Issues",
+                "points": [
+                    "Lack of accurate yield data",
+                    "Poor infrastructure in rural areas",
+                    "Coordination gaps between stakeholders",
+                    "Dependence on manual surveys in some regions",
+                    "Delays due to administrative bottlenecks"
+                ]
+            },
+            {
+                "heading": "Recent Reforms in PMFBY",
+                "points": [
+                    "Use of technology (drones, satellite imaging)",
+                    "Direct Benefit Transfer (DBT) for claims",
+                    "Voluntary participation of farmers",
+                    "Digitization of enrollment and claim process",
+                    "Increased transparency in data collection"
+                ]
+            },
+            {
+                "heading": "Way Forward",
+                "points": [
+                    "Improve speed of claim settlement",
+                    "Strengthen use of technology and AI tools",
+                    "Ensure timely payment of state share",
+                    "Expand awareness among farmers",
+                    "Include tenant farmers and sharecroppers",
+                    "Strengthen crop yield estimation systems"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "PMFBY was launched in:",
+                    "options": [
+                    "2010",
+                    "2016",
+                    "1999",
+                    "2005"
+                    ],
+                    "answer": "2016"
+                },
+                {
+                    "question": "PMFBY replaces:",
+                    "options": [
+                    "Only banking schemes",
+                    "Earlier crop insurance schemes",
+                    "Export schemes",
+                    "Tax schemes"
+                    ],
+                    "answer": "Earlier crop insurance schemes"
+                },
+                {
+                    "question": "PMFBY premium for Kharif crops is:",
+                    "options": [
+                    "1%",
+                    "2%",
+                    "5%",
+                    "10%"
+                    ],
+                    "answer": "2%"
+                },
+                {
+                    "question": "PMFBY uses:",
+                    "options": [
+                    "Only manual surveys",
+                    "Satellite and drones",
+                    "No technology",
+                    "Export data"
+                    ],
+                    "answer": "Satellite and drones"
+                },
+                {
+                    "question": "PMFBY covers:",
+                    "options": [
+                    "Only post-harvest loss",
+                    "Full crop cycle risks",
+                    "Only exports",
+                    "Only imports"
+                    ],
+                    "answer": "Full crop cycle risks"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Earlier scheme based on weather parameters:",
+                    "options": [
+                    "NAIS",
+                    "WBCIS",
+                    "KCC",
+                    "RIDF"
+                    ],
+                    "answer": "WBCIS"
+                },
+                {
+                    "question": "Main issue in PMFBY:",
+                    "options": [
+                    "Fast claims",
+                    "Delay in claims",
+                    "Exports",
+                    "Imports"
+                    ],
+                    "answer": "Delay in claims"
+                },
+                {
+                    "question": "Coverage includes:",
+                    "options": [
+                    "Only crops",
+                    "Pre and post harvest losses",
+                    "Only trade",
+                    "Only taxes"
+                    ],
+                    "answer": "Pre and post harvest losses"
+                },
+                {
+                    "question": "PMFBY implemented by:",
+                    "options": [
+                    "RBI",
+                    "Ministry of Agriculture",
+                    "World Bank",
+                    "IMF"
+                    ],
+                    "answer": "Ministry of Agriculture"
+                },
+                {
+                    "question": "Benefit of PMFBY:",
+                    "options": [
+                    "Increases risk",
+                    "Stabilizes income",
+                    "Reduces exports",
+                    "Increases imports"
+                    ],
+                    "answer": "Stabilizes income"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. PMFBY covers crop loss from sowing to post-harvest\n2. Earlier schemes had wider technological use\n3. PMFBY uses satellite data",
+                    "options": [
+                    "1 and 3 only",
+                    "2 and 3 only",
+                    "1 and 2 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "Main challenge:",
+                    "options": [
+                    "High efficiency",
+                    "Delay in claims",
+                    "Exports",
+                    "Imports"
+                    ],
+                    "answer": "Delay in claims"
+                },
+                {
+                    "question": "Best reform:",
+                    "options": [
+                    "Reduce coverage",
+                    "Improve technology use",
+                    "Ban insurance",
+                    "Stop subsidies"
+                    ],
+                    "answer": "Improve technology use"
+                },
+                {
+                    "question": "Earlier schemes were:",
+                    "options": [
+                    "Fully digital",
+                    "Less comprehensive",
+                    "More efficient",
+                    "Global"
+                    ],
+                    "answer": "Less comprehensive"
+                },
+                {
+                    "question": "Goal:",
+                    "options": [
+                    "Income instability",
+                    "Income stability",
+                    "Export increase",
+                    "Import increase"
+                    ],
+                    "answer": "Income stability"
+                }
+            ]
+        }
+    }
+]

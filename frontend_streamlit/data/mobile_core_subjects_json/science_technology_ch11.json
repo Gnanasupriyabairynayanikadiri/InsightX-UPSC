@@ -1,0 +1,598 @@
+[
+    {
+        "name": "Biology: Transport System in Organisms (Cell Transport & Plant Transport)",
+        "notes": [
+            {
+                "heading": "Introduction to Transport Systems",
+                "points": [
+                    "Transport systems help in movement of materials within organisms",
+                    "They ensure supply of nutrients, water, gases, and removal of wastes",
+                    "In unicellular organisms, transport occurs by diffusion",
+                    "In multicellular organisms, specialized systems are required",
+                    "Plants and animals have different transport mechanisms"
+                ]
+            },
+            {
+                "heading": "Transport System in a Cell – Overview",
+                "points": [
+                    "Cells exchange materials through the cell membrane",
+                    "Movement occurs via passive or active transport",
+                    "Ensures balance of nutrients and waste removal",
+                    "Essential for cell survival and function",
+                    "Controlled by selective permeability of membrane"
+                ]
+            },
+            {
+                "heading": "Types of Transport in Cells",
+                "points": [
+                    "Passive transport: no energy required",
+                    "Active transport: requires energy (ATP)",
+                    "Diffusion: movement from high to low concentration",
+                    "Osmosis: movement of water through semi-permeable membrane",
+                    "Endocytosis and exocytosis: bulk transport processes"
+                ]
+            },
+            {
+                "heading": "Diffusion",
+                "points": [
+                    "Movement of molecules from high concentration to low concentration",
+                    "Does not require energy",
+                    "Occurs in gases and liquids",
+                    "Important for gas exchange in cells",
+                    "Example: oxygen entering cells"
+                ]
+            },
+            {
+                "heading": "Osmosis",
+                "points": [
+                    "Movement of water across a semi-permeable membrane",
+                    "Water moves from dilute to concentrated solution",
+                    "Requires no energy",
+                    "Important for plant cell turgidity",
+                    "Controls water balance in cells"
+                ]
+            },
+            {
+                "heading": "Active Transport",
+                "points": [
+                    "Movement of substances against concentration gradient",
+                    "Requires energy (ATP)",
+                    "Occurs via carrier proteins",
+                    "Helps in absorption of nutrients",
+                    "Example: uptake of minerals by root cells"
+                ]
+            },
+            {
+                "heading": "Endocytosis and Exocytosis",
+                "points": [
+                    "Endocytosis: intake of materials into the cell",
+                    "Exocytosis: removal of materials from the cell",
+                    "Used for large molecules",
+                    "Important in immune response and secretion",
+                    "Requires energy"
+                ]
+            },
+            {
+                "heading": "Transport System in Plants – Overview",
+                "points": [
+                    "Plants have specialized vascular tissues for transport",
+                    "Xylem transports water and minerals",
+                    "Phloem transports food (sugars)",
+                    "Transport occurs throughout the plant body",
+                    "Essential for growth and survival"
+                ]
+            },
+            {
+                "heading": "Xylem – Structure and Function",
+                "points": [
+                    "Transports water and minerals from roots to leaves",
+                    "Made up of tracheids, vessels, xylem fibres, and parenchyma",
+                    "Movement is mostly unidirectional (upward)",
+                    "Provides structural support",
+                    "Driven by transpiration pull"
+                ]
+            },
+            {
+                "heading": "Phloem – Structure and Function",
+                "points": [
+                    "Transports food (mainly sugars) from leaves to other parts",
+                    "Made of sieve tubes, companion cells, and phloem fibres",
+                    "Movement is bidirectional",
+                    "Energy-dependent process (active transport)",
+                    "Supports growth and storage"
+                ]
+            },
+            {
+                "heading": "Mechanism of Water Transport in Plants",
+                "points": [
+                    "Water is absorbed by root hairs from soil",
+                    "Moves through xylem vessels to leaves",
+                    "Transpiration creates suction force",
+                    "Cohesion and adhesion help water movement",
+                    "Capillary action assists transport"
+                ]
+            },
+            {
+                "heading": "Transpiration",
+                "points": [
+                    "Loss of water vapour from aerial parts of plants",
+                    "Occurs mainly through stomata",
+                    "Helps in cooling plant and water transport",
+                    "Creates transpiration pull",
+                    "Regulated by environmental conditions"
+                ]
+            },
+            {
+                "heading": "Food Transport in Plants (Translocation)",
+                "points": [
+                    "Food is transported from leaves to other parts via phloem",
+                    "Occurs in both upward and downward directions",
+                    "Energy required (ATP)",
+                    "Known as pressure flow mechanism",
+                    "Supports growth, storage, and reproduction"
+                ]
+            },
+            {
+                "heading": "Importance of Transport System",
+                "points": [
+                    "Ensures distribution of nutrients and water",
+                    "Removes waste products",
+                    "Maintains internal balance",
+                    "Supports growth and metabolism",
+                    "Essential for survival of organisms"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Diffusion is movement from:",
+                    "options": [
+                        "Low to high concentration",
+                        "High to low concentration",
+                        "Equal concentration only",
+                        "Inside to outside only"
+                    ],
+                    "answer": "High to low concentration"
+                },
+                {
+                    "question": "Osmosis involves movement of:",
+                    "options": [
+                        "Oxygen",
+                        "Water",
+                        "Glucose",
+                        "Protein"
+                    ],
+                    "answer": "Water"
+                },
+                {
+                    "question": "Xylem transports:",
+                    "options": [
+                        "Food",
+                        "Water and minerals",
+                        "Hormones",
+                        "Proteins"
+                    ],
+                    "answer": "Water and minerals"
+                },
+                {
+                    "question": "Phloem transports:",
+                    "options": [
+                        "Water",
+                        "Food (sugars)",
+                        "Oxygen",
+                        "Calcium only"
+                    ],
+                    "answer": "Food (sugars)"
+                },
+                {
+                    "question": "Transport in cells occurs through:",
+                    "options": [
+                        "Cell wall only",
+                        "Cell membrane",
+                        "Nucleus",
+                        "Mitochondria"
+                    ],
+                    "answer": "Cell membrane"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Active transport requires:",
+                    "options": [
+                        "No energy",
+                        "ATP energy",
+                        "Light energy only",
+                        "Heat energy"
+                    ],
+                    "answer": "ATP energy"
+                },
+                {
+                    "question": "Transpiration mainly occurs through:",
+                    "options": [
+                        "Roots",
+                        "Stomata",
+                        "Xylem",
+                        "Phloem"
+                    ],
+                    "answer": "Stomata"
+                },
+                {
+                    "question": "Xylem transport is:",
+                    "options": [
+                        "Bidirectional",
+                        "Unidirectional",
+                        "Random",
+                        "Circular"
+                    ],
+                    "answer": "Unidirectional"
+                },
+                {
+                    "question": "Phloem transport is:",
+                    "options": [
+                        "Only upward",
+                        "Only downward",
+                        "Bidirectional",
+                        "No direction"
+                    ],
+                    "answer": "Bidirectional"
+                },
+                {
+                    "question": "Osmosis occurs through:",
+                    "options": [
+                        "Cell wall",
+                        "Semi-permeable membrane",
+                        "Nucleus",
+                        "Cytoplasm only"
+                    ],
+                    "answer": "Semi-permeable membrane"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. Xylem transports water\n2. Phloem transports food\n3. Diffusion requires energy",
+                    "options": [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "All"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                        "Xylem – food transport",
+                        "Phloem – water transport",
+                        "Xylem – water transport",
+                        "Phloem – oxygen transport"
+                    ],
+                    "answer": "Xylem – water transport"
+                },
+                {
+                    "question": "Transpiration helps in:",
+                    "options": [
+                        "Digestion",
+                        "Water transport in plants",
+                        "Reproduction",
+                        "Respiration only"
+                    ],
+                    "answer": "Water transport in plants"
+                },
+                {
+                    "question": "Active transport differs from diffusion because it:",
+                    "options": [
+                        "Requires energy",
+                        "Does not use membrane",
+                        "Occurs only in plants",
+                        "Is passive"
+                    ],
+                    "answer": "Requires energy"
+                },
+                {
+                    "question": "Root hairs help in:",
+                    "options": [
+                        "Photosynthesis",
+                        "Water absorption",
+                        "Respiration",
+                        "Seed formation"
+                    ],
+                    "answer": "Water absorption"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Biology: Transport System in Animals (Blood Vascular System & Lymphatic System)",
+        "notes": [
+            {
+                "heading": "Introduction to Transport System in Animals",
+                "points": [
+                    "Animal transport system distributes oxygen, nutrients, hormones, and removes wastes",
+                    "It consists mainly of circulatory (blood vascular) and lymphatic systems",
+                    "Blood is the primary medium of transport",
+                    "The heart acts as the pumping organ",
+                    "Efficient transport is essential for high metabolic activity in animals"
+                ]
+            },
+            {
+                "heading": "Blood Vascular System – Overview",
+                "points": [
+                    "Also called circulatory system",
+                    "Comprises heart, blood, and blood vessels",
+                    "Blood vessels include arteries, veins, and capillaries",
+                    "Transports oxygen, nutrients, hormones, and waste products",
+                    "Maintains homeostasis in the body"
+                ]
+            },
+            {
+                "heading": "Heart – Structure and Function",
+                "points": [
+                    "Muscular organ located in the thoracic cavity",
+                    "Pumps blood throughout the body",
+                    "Has four chambers in humans: two atria and two ventricles",
+                    "Works continuously without fatigue",
+                    "Controlled by electrical impulses"
+                ]
+            },
+            {
+                "heading": "Blood Vessels",
+                "points": [
+                    "Arteries carry blood away from the heart",
+                    "Veins carry blood toward the heart",
+                    "Capillaries are thin vessels for exchange of materials",
+                    "Arteries have thick, elastic walls",
+                    "Veins contain valves to prevent backflow"
+                ]
+            },
+            {
+                "heading": "Blood – Composition and Functions",
+                "points": [
+                    "Blood is a fluid connective tissue",
+                    "Composed of plasma, RBCs, WBCs, and platelets",
+                    "RBCs carry oxygen using hemoglobin",
+                    "WBCs provide immunity",
+                    "Platelets help in blood clotting"
+                ]
+            },
+            {
+                "heading": "Double Circulation in Humans",
+                "points": [
+                    "Blood passes through heart twice in one complete cycle",
+                    "Pulmonary circulation: heart ↔ lungs",
+                    "Systemic circulation: heart ↔ body",
+                    "Ensures efficient oxygen supply",
+                    "Prevents mixing of oxygenated and deoxygenated blood"
+                ]
+            },
+            {
+                "heading": "Functions of Blood Vascular System",
+                "points": [
+                    "Transports oxygen and carbon dioxide",
+                    "Delivers nutrients to cells",
+                    "Removes metabolic wastes",
+                    "Regulates body temperature",
+                    "Provides immune defense"
+                ]
+            },
+            {
+                "heading": "Lymphatic System – Overview",
+                "points": [
+                    "Network of lymph vessels and lymph nodes",
+                    "Lymph is a colorless fluid similar to plasma",
+                    "Collects excess fluid from tissues",
+                    "Returns it to bloodstream",
+                    "Works closely with circulatory and immune systems"
+                ]
+            },
+            {
+                "heading": "Lymph – Composition and Role",
+                "points": [
+                    "Derived from tissue fluid",
+                    "Contains lymphocytes (WBCs)",
+                    "Lacks RBCs and platelets",
+                    "Helps in immune response",
+                    "Transports fats from intestine"
+                ]
+            },
+            {
+                "heading": "Functions of Lymphatic System",
+                "points": [
+                    "Drains excess interstitial fluid",
+                    "Maintains fluid balance in body",
+                    "Provides immunity through lymphocytes",
+                    "Absorbs and transports fats from intestines",
+                    "Filters pathogens through lymph nodes"
+                ]
+            },
+            {
+                "heading": "Lymph Nodes",
+                "points": [
+                    "Small bean-shaped structures",
+                    "Filter harmful substances and pathogens",
+                    "Contain immune cells (lymphocytes)",
+                    "Swollen during infection",
+                    "Act as defense checkpoints"
+                ]
+            },
+            {
+                "heading": "Comparison: Blood vs Lymph",
+                "points": [
+                    "Blood contains RBCs, WBCs, and platelets; lymph mainly has WBCs",
+                    "Blood circulates in closed system; lymph flows in lymphatic vessels",
+                    "Blood transports oxygen; lymph mainly aids immunity",
+                    "Blood is red; lymph is colorless",
+                    "Blood is pumped by heart; lymph moves slowly via body movement"
+                ]
+            },
+            {
+                "heading": "Importance of Transport System",
+                "points": [
+                    "Ensures survival of multicellular organisms",
+                    "Maintains internal balance (homeostasis)",
+                    "Supports immune defense",
+                    "Removes waste products efficiently",
+                    "Enables high metabolic activities"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Main function of circulatory system is:",
+                    "options": [
+                        "Digestion",
+                        "Transport of substances",
+                        "Reproduction",
+                        "Photosynthesis"
+                    ],
+                    "answer": "Transport of substances"
+                },
+                {
+                    "question": "Heart is made up of:",
+                    "options": [
+                        "Bone tissue",
+                        "Muscle tissue",
+                        "Nervous tissue",
+                        "Epithelial tissue"
+                    ],
+                    "answer": "Muscle tissue"
+                },
+                {
+                    "question": "Arteries carry blood:",
+                    "options": [
+                        "To heart",
+                        "Away from heart",
+                        "Only in lungs",
+                        "Only in brain"
+                    ],
+                    "answer": "Away from heart"
+                },
+                {
+                    "question": "Lymph is mainly involved in:",
+                    "options": [
+                        "Digestion",
+                        "Immunity",
+                        "Respiration",
+                        "Photosynthesis"
+                    ],
+                    "answer": "Immunity"
+                },
+                {
+                    "question": "RBCs contain:",
+                    "options": [
+                        "Chlorophyll",
+                        "Hemoglobin",
+                        "Insulin",
+                        "Melanin"
+                    ],
+                    "answer": "Hemoglobin"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Veins contain:",
+                    "options": [
+                        "No valves",
+                        "Valves to prevent backflow",
+                        "Only oxygenated blood",
+                        "Only plasma"
+                    ],
+                    "answer": "Valves to prevent backflow"
+                },
+                {
+                    "question": "Double circulation occurs in:",
+                    "options": [
+                        "Fish",
+                        "Humans",
+                        "Earthworms",
+                        "Insects"
+                    ],
+                    "answer": "Humans"
+                },
+                {
+                    "question": "Lymph nodes help in:",
+                    "options": [
+                        "Digestion",
+                        "Filtering pathogens",
+                        "Photosynthesis",
+                        "Respiration"
+                    ],
+                    "answer": "Filtering pathogens"
+                },
+                {
+                    "question": "Pulmonary circulation is between:",
+                    "options": [
+                        "Heart and body",
+                        "Heart and lungs",
+                        "Lungs and kidneys",
+                        "Brain and heart"
+                    ],
+                    "answer": "Heart and lungs"
+                },
+                {
+                    "question": "Lymph carries:",
+                    "options": [
+                        "Oxygen",
+                        "Fats from intestines",
+                        "Carbon dioxide only",
+                        "Glucose only"
+                    ],
+                    "answer": "Fats from intestines"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. Lymph contains RBCs\n2. Blood is a connective tissue\n3. Lymph helps in immunity",
+                    "options": [
+                        "2 and 3 only",
+                        "1 and 2 only",
+                        "1 and 3 only",
+                        "All"
+                    ],
+                    "answer": "2 and 3 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                        "Arteries – to heart",
+                        "Veins – away from heart",
+                        "Capillaries – exchange of materials",
+                        "Heart – digestion"
+                    ],
+                    "answer": "Capillaries – exchange of materials"
+                },
+                {
+                    "question": "Double circulation ensures:",
+                    "options": [
+                        "Mixing of blood",
+                        "Efficient oxygen supply",
+                        "No blood flow",
+                        "Only lymph transport"
+                    ],
+                    "answer": "Efficient oxygen supply"
+                },
+                {
+                    "question": "Lymph differs from blood because it:",
+                    "options": [
+                        "Contains RBCs",
+                        "Lacks RBCs and platelets",
+                        "Is red in color",
+                        "Carries oxygen only"
+                    ],
+                    "answer": "Lacks RBCs and platelets"
+                },
+                {
+                    "question": "Main role of capillaries is:",
+                    "options": [
+                        "Pumping blood",
+                        "Exchange of gases and nutrients",
+                        "Producing hormones",
+                        "Digesting food"
+                    ],
+                    "answer": "Exchange of gases and nutrients"
+                }
+            ]
+        }
+    }
+]

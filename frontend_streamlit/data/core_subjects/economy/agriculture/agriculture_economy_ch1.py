@@ -1,0 +1,288 @@
+TOPICS = [
+    {
+        "name": "Role of Agriculture in Indian Economy",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Agriculture is a backbone of the Indian economy",
+                    "Provides livelihood to a large section of population",
+                    "Contributes to GDP, employment, and food security"
+                ]
+            },
+            {
+                "heading": "Agriculture in India – Key Facts",
+                "points": [
+                    "Employs around 40-45% of workforce",
+                    "Contributes around 15-18% to GDP",
+                    "Major source of livelihood in rural areas",
+                    "India is one of the largest producers of food grains"
+                ]
+            },
+            {
+                "heading": "Role of Agriculture in Indian Economy",
+                "points": [
+                    "Provides food security to population",
+                    "Supplies raw materials to industries",
+                    "Generates employment",
+                    "Contributes to exports",
+                    "Supports rural development",
+                    "Drives inclusive growth"
+                ]
+            },
+            {
+                "heading": "Contribution to GDP",
+                "points": [
+                    "Though declining, still significant sector",
+                    "Acts as a stabilizing factor during economic downturns",
+                    "Supports allied sectors like dairy, fisheries",
+                    "Essential for overall economic balance"
+                ]
+            },
+            {
+                "heading": "Employment Generation",
+                "points": [
+                    "Largest employer in India",
+                    "Provides livelihood to rural population",
+                    "Includes farming, allied activities",
+                    "Absorbs surplus labor"
+                ]
+            },
+            {
+                "heading": "Role in Industrial Development",
+                "points": [
+                    "Supplies raw materials to agro-based industries",
+                    "Creates demand for industrial goods",
+                    "Supports food processing industry",
+                    "Helps in industrial growth"
+                ]
+            },
+            {
+                "heading": "Role in Foreign Trade",
+                "points": [
+                    "Exports of agricultural products (rice, tea, spices)",
+                    "Earns foreign exchange",
+                    "Improves balance of trade",
+                    "Enhances global presence"
+                ]
+            },
+            {
+                "heading": "Food Security",
+                "points": [
+                    "Ensures availability of food grains",
+                    "Supports Public Distribution System (PDS)",
+                    "Reduces dependence on imports",
+                    "Essential for national stability"
+                ]
+            },
+            {
+                "heading": "Role in Rural Development",
+                "points": [
+                    "Drives rural economy",
+                    "Improves income levels",
+                    "Reduces poverty",
+                    "Promotes infrastructure development in villages"
+                ]
+            },
+            {
+                "heading": "Linkages with Other Sectors",
+                "points": [
+                    "Backward linkages – Inputs like fertilizers, machinery",
+                    "Forward linkages – Processing, marketing",
+                    "Supports services like transport and storage",
+                    "Integrated with overall economy"
+                ]
+            },
+            {
+                "heading": "Challenges in Agriculture",
+                "points": [
+                    "Low productivity",
+                    "Dependence on monsoon",
+                    "Fragmented landholdings",
+                    "Lack of modern technology",
+                    "Market inefficiencies",
+                    "Price volatility"
+                ]
+            },
+            {
+                "heading": "Recent Developments",
+                "points": [
+                    "Digital agriculture initiatives",
+                    "Promotion of organic farming",
+                    "Focus on agri-tech startups",
+                    "Schemes like PM-KISAN, PMFBY",
+                    "Doubling farmers' income initiative"
+                ]
+            },
+            {
+                "heading": "Way Forward",
+                "points": [
+                    "Increase investment in agriculture",
+                    "Promote irrigation and technology",
+                    "Strengthen supply chains",
+                    "Enhance market access",
+                    "Promote diversification",
+                    "Ensure sustainable practices"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Agriculture contributes approximately to GDP:",
+                    "options": [
+                    "5%",
+                    "10%",
+                    "15-18%",
+                    "25%"
+                    ],
+                    "answer": "15-18%"
+                },
+                {
+                    "question": "Agriculture employs:",
+                    "options": [
+                    "10%",
+                    "20%",
+                    "40-45%",
+                    "60%"
+                    ],
+                    "answer": "40-45%"
+                },
+                {
+                    "question": "Agriculture provides:",
+                    "options": [
+                    "Only food",
+                    "Food and employment",
+                    "Only exports",
+                    "Only taxes"
+                    ],
+                    "answer": "Food and employment"
+                },
+                {
+                    "question": "Major issue in agriculture:",
+                    "options": [
+                    "High productivity",
+                    "Low productivity",
+                    "High profits",
+                    "High exports"
+                    ],
+                    "answer": "Low productivity"
+                },
+                {
+                    "question": "Agriculture supports:",
+                    "options": [
+                    "Only farming",
+                    "Industries",
+                    "Only services",
+                    "Only exports"
+                    ],
+                    "answer": "Industries"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Backward linkage means:",
+                    "options": [
+                    "Output",
+                    "Inputs",
+                    "Exports",
+                    "Imports"
+                    ],
+                    "answer": "Inputs"
+                },
+                {
+                    "question": "Forward linkage means:",
+                    "options": [
+                    "Processing",
+                    "Inputs",
+                    "Taxes",
+                    "Imports"
+                    ],
+                    "answer": "Processing"
+                },
+                {
+                    "question": "PDS ensures:",
+                    "options": [
+                    "Exports",
+                    "Food security",
+                    "Imports",
+                    "Taxes"
+                    ],
+                    "answer": "Food security"
+                },
+                {
+                    "question": "PM-KISAN provides:",
+                    "options": [
+                    "Loans",
+                    "Income support",
+                    "Tax",
+                    "Exports"
+                    ],
+                    "answer": "Income support"
+                },
+                {
+                    "question": "Main dependency of agriculture:",
+                    "options": [
+                    "Technology",
+                    "Monsoon",
+                    "Exports",
+                    "Imports"
+                    ],
+                    "answer": "Monsoon"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Agriculture provides employment\n2. Agriculture supports industries\n3. Agriculture has no role in exports",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Main challenge in agriculture:",
+                    "options": [
+                    "High growth",
+                    "Low productivity",
+                    "High exports",
+                    "High income"
+                    ],
+                    "answer": "Low productivity"
+                },
+                {
+                    "question": "Agri exports help in:",
+                    "options": [
+                    "Deficit",
+                    "Forex earnings",
+                    "Tax",
+                    "Imports"
+                    ],
+                    "answer": "Forex earnings"
+                },
+                {
+                    "question": "Fragmented land leads to:",
+                    "options": [
+                    "High efficiency",
+                    "Low efficiency",
+                    "High profit",
+                    "High growth"
+                    ],
+                    "answer": "Low efficiency"
+                },
+                {
+                    "question": "Sustainable agriculture focuses on:",
+                    "options": [
+                    "Short-term gains",
+                    "Long-term productivity",
+                    "Imports",
+                    "Exports"
+                    ],
+                    "answer": "Long-term productivity"
+                }
+            ]
+        }
+    }
+]

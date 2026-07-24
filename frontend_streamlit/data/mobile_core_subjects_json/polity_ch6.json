@@ -1,0 +1,1485 @@
+[
+    {
+        "name": "Citizenship (Articles 5–11)",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Citizenship determines full membership of the Indian political community",
+                    "Only citizens enjoy certain rights like voting, holding constitutional posts, etc.",
+                    "Part II of the Constitution deals with Citizenship (Articles 5 to 11)",
+                    "The Constitution provides citizenship only at the commencement; later governed by Citizenship Act, 1955"
+                ]
+            },
+            {
+                "heading": "Article 5 – Citizenship at Commencement",
+                "points": [
+                    "Person who had domicile in India and fulfilled conditions became citizen at commencement",
+                    "Includes those born in India",
+                    "Includes those who have at least one parent born in India",
+                    "Includes those ordinarily resident in India for 5 years before commencement"
+                ]
+            },
+            {
+                "heading": "Article 6 – Migrants from Pakistan to India",
+                "points": [
+                    "Deals with persons who migrated from Pakistan to India before 19 July 1948",
+                    "Citizenship depends on residence and registration requirements",
+                    "Special provisions for refugees during Partition",
+                    "Simplified criteria for early migrants"
+                ]
+            },
+            {
+                "heading": "Article 7 – Migrants to Pakistan and Returning",
+                "points": [
+                    "Persons who migrated to Pakistan after March 1, 1947 lost citizenship",
+                    "However, those who returned under permit could regain citizenship",
+                    "Ensured control over dual migration issues during Partition",
+                    "Focused on post-Partition population movement"
+                ]
+            },
+            {
+                "heading": "Article 8 – Persons of Indian Origin Abroad",
+                "points": [
+                    "Persons of Indian origin residing outside India could register as citizens",
+                    "Must have parents or grandparents born in undivided India",
+                    "Registration done by Indian diplomatic or consular representatives",
+                    "Ensures connection with Indian diaspora"
+                ]
+            },
+            {
+                "heading": "Article 9 – No Dual Citizenship",
+                "points": [
+                    "If a person voluntarily acquires citizenship of another country, Indian citizenship is lost",
+                    "India does not allow dual citizenship in constitutional sense",
+                    "Ensures single allegiance to one country",
+                    "Later OCI (Overseas Citizen of India) is not full citizenship"
+                ]
+            },
+            {
+                "heading": "Article 10 – Continuance of Citizenship",
+                "points": [
+                    "Every person who is or is deemed to be a citizen continues as citizen",
+                    "Subject to any law made by Parliament",
+                    "Citizenship can be regulated by legislation",
+                    "Ensures stability of citizenship status"
+                ]
+            },
+            {
+                "heading": "Article 11 – Parliament’s Power",
+                "points": [
+                    "Parliament has exclusive power to regulate citizenship",
+                    "Includes acquisition and termination of citizenship",
+                    "Basis for Citizenship Act, 1955",
+                    "Constitution does not provide detailed citizenship rules"
+                ]
+            },
+            {
+                "heading": "Citizenship Act, 1955 (Brief Idea)",
+                "points": [
+                    "Provides modes of acquiring citizenship: birth, descent, registration, naturalisation, incorporation of territory",
+                    "Provides for termination and renunciation",
+                    "Has been amended multiple times",
+                    "Introduced OCI (Overseas Citizen of India) scheme"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "No provision for dual citizenship in India",
+                    "Articles 5–11 deal only with initial citizenship framework",
+                    "Parliament has full power over citizenship laws",
+                    "Citizenship is closely linked to Fundamental Rights"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Part II of the Constitution deals with:",
+                    "options": [
+                        "Fundamental Rights",
+                        "Citizenship",
+                        "DPSP",
+                        "Emergency"
+                    ],
+                    "answer": "Citizenship"
+                },
+                {
+                    "question": "Which Article deals with citizenship at commencement?",
+                    "options": [
+                        "Article 3",
+                        "Article 5",
+                        "Article 7",
+                        "Article 11"
+                    ],
+                    "answer": "Article 5"
+                },
+                {
+                    "question": "India allows:",
+                    "options": [
+                        "Dual citizenship",
+                        "Single citizenship",
+                        "No citizenship",
+                        "State citizenship"
+                    ],
+                    "answer": "Single citizenship"
+                },
+                {
+                    "question": "Parliament regulates citizenship under:",
+                    "options": [
+                        "Article 9",
+                        "Article 10",
+                        "Article 11",
+                        "Article 12"
+                    ],
+                    "answer": "Article 11"
+                },
+                {
+                    "question": "Citizenship Act was enacted in:",
+                    "options": [
+                        "1950",
+                        "1955",
+                        "1960",
+                        "1947"
+                    ],
+                    "answer": "1955"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which of the following is correct?",
+                    "options": [
+                        "Citizenship is defined in detail in Constitution",
+                        "Citizenship is fully regulated by Parliament",
+                        "Dual citizenship is allowed",
+                        "Citizenship cannot be changed"
+                    ],
+                    "answer": "Citizenship is fully regulated by Parliament"
+                },
+                {
+                    "question": "Article 9 deals with:",
+                    "options": [
+                        "Citizenship at commencement",
+                        "Loss of citizenship on acquiring foreign citizenship",
+                        "Naturalisation",
+                        "Domicile rules"
+                    ],
+                    "answer": "Loss of citizenship on acquiring foreign citizenship"
+                },
+                {
+                    "question": "Which Article gives power to Parliament over citizenship?",
+                    "options": [
+                        "Article 10",
+                        "Article 11",
+                        "Article 5",
+                        "Article 6"
+                    ],
+                    "answer": "Article 11"
+                },
+                {
+                    "question": "OCI status is:",
+                    "options": [
+                        "Full citizenship",
+                        "Dual citizenship",
+                        "Not full citizenship",
+                        "Constitutional citizenship"
+                    ],
+                    "answer": "Not full citizenship"
+                },
+                {
+                    "question": "Which Article deals with persons of Indian origin abroad?",
+                    "options": [
+                        "Article 5",
+                        "Article 6",
+                        "Article 8",
+                        "Article 10"
+                    ],
+                    "answer": "Article 8"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. India allows dual citizenship\n2. Citizenship is regulated by Parliament\n3. Articles 5–11 give detailed acquisition rules",
+                    "options": [
+                        "2 only",
+                        "1 and 2",
+                        "2 and 3",
+                        "All"
+                    ],
+                    "answer": "2 only"
+                },
+                {
+                    "question": "Which of the following is correct?",
+                    "options": [
+                        "Citizenship rules are static in Constitution",
+                        "Parliament cannot change citizenship law",
+                        "Citizenship is governed by statute law",
+                        "Citizenship is only judicially defined"
+                    ],
+                    "answer": "Citizenship is governed by statute law"
+                },
+                {
+                    "question": "Which Article deals with continuance of citizenship?",
+                    "options": [
+                        "Article 5",
+                        "Article 6",
+                        "Article 9",
+                        "Article 10"
+                    ],
+                    "answer": "Article 10"
+                },
+                {
+                    "question": "Which statement is NOT correct?",
+                    "options": [
+                        "Citizenship Act governs acquisition",
+                        "Constitution defines all citizenship rules",
+                        "Parliament can amend citizenship laws",
+                        "Citizenship can be terminated by law"
+                    ],
+                    "answer": "Constitution defines all citizenship rules"
+                },
+                {
+                    "question": "Main objective of citizenship provisions is:",
+                    "options": [
+                        "Economic classification",
+                        "Defining political membership of India",
+                        "Judicial control",
+                        "State autonomy"
+                    ],
+                    "answer": "Defining political membership of India"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Citizenship – Meaning and Significance",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Citizenship refers to full and equal membership of a sovereign political state",
+                    "It establishes a legal and political bond between an individual and the State",
+                    "In India, citizenship is governed by Part II of the Constitution and Citizenship Act, 1955",
+                    "Only citizens enjoy certain exclusive rights under the Constitution"
+                ]
+            },
+            {
+                "heading": "Meaning of Citizenship",
+                "points": [
+                    "Citizenship is the status of being a legal member of a country",
+                    "It includes rights, duties, and allegiance to the State",
+                    "It distinguishes citizens from aliens (foreigners)",
+                    "It ensures political identity within a nation-state"
+                ]
+            },
+            {
+                "heading": "Citizens vs Aliens",
+                "points": [
+                    "Citizens enjoy full civil and political rights",
+                    "Aliens do not enjoy political rights like voting or holding constitutional posts",
+                    "Aliens are subject to restrictions under domestic law",
+                    "Some Fundamental Rights are available to both citizens and non-citizens"
+                ]
+            },
+            {
+                "heading": "Significance of Citizenship",
+                "points": [
+                    "Provides political rights such as voting and contesting elections",
+                    "Ensures right to hold public offices like President, MP, MLA (with conditions)",
+                    "Creates sense of belonging and national identity",
+                    "Forms the basis of democratic participation"
+                ]
+            },
+            {
+                "heading": "Constitutional Importance",
+                "points": [
+                    "Only citizens enjoy Fundamental Rights under Articles 15, 16, 19, 29, and 30",
+                    "Citizenship is essential for political rights like voting under Article 326",
+                    "Ensures equality before law within the political community",
+                    "Helps define the population of the sovereign state"
+                ]
+            },
+            {
+                "heading": "Political Significance",
+                "points": [
+                    "Citizens participate in governance through elections",
+                    "They can form and join political parties",
+                    "They can influence policy-making and government formation",
+                    "Citizenship ensures accountability of government"
+                ]
+            },
+            {
+                "heading": "Legal Significance",
+                "points": [
+                    "Defines who is subject to full legal rights and obligations",
+                    "Citizens cannot be arbitrarily deported",
+                    "Ensures diplomatic protection from the State",
+                    "Provides legal identity in domestic and international law"
+                ]
+            },
+            {
+                "heading": "Citizenship in Indian Context",
+                "points": [
+                    "India follows single citizenship system",
+                    "No state citizenship exists unlike federal countries like USA",
+                    "Citizenship is uniform across all states and UTs",
+                    "Ensures national unity and integration"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Citizenship is different from domicile",
+                    "Only citizens enjoy full political rights",
+                    "India has single citizenship system",
+                    "Citizenship ensures both rights and duties in a democracy"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Citizenship means:",
+                    "options": [
+                        "Temporary stay in a country",
+                        "Full membership of a state",
+                        "Foreign residence",
+                        "Tourist status"
+                    ],
+                    "answer": "Full membership of a state"
+                },
+                {
+                    "question": "India follows:",
+                    "options": [
+                        "Dual citizenship",
+                        "Single citizenship",
+                        "No citizenship",
+                        "State citizenship"
+                    ],
+                    "answer": "Single citizenship"
+                },
+                {
+                    "question": "Citizens enjoy:",
+                    "options": [
+                        "Only economic rights",
+                        "Only social rights",
+                        "Political rights",
+                        "No rights"
+                    ],
+                    "answer": "Political rights"
+                },
+                {
+                    "question": "Aliens are:",
+                    "options": [
+                        "Permanent citizens",
+                        "Foreign nationals",
+                        "Judges",
+                        "Government officers"
+                    ],
+                    "answer": "Foreign nationals"
+                },
+                {
+                    "question": "Voting rights in India are given to:",
+                    "options": [
+                        "Aliens",
+                        "Only citizens",
+                        "Foreign companies",
+                        "Refugees"
+                    ],
+                    "answer": "Only citizens"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which of the following is correct?",
+                    "options": [
+                        "Citizenship is same as domicile",
+                        "Citizenship gives political identity",
+                        "Aliens have voting rights",
+                        "Citizenship is temporary"
+                    ],
+                    "answer": "Citizenship gives political identity"
+                },
+                {
+                    "question": "Which Fundamental Rights are available only to citizens?",
+                    "options": [
+                        "Articles 14 and 21",
+                        "Articles 15 and 16",
+                        "Article 32",
+                        "Article 21 only"
+                    ],
+                    "answer": "Articles 15 and 16"
+                },
+                {
+                    "question": "Citizenship is important because it:",
+                    "options": [
+                        "Removes democracy",
+                        "Ensures political participation",
+                        "Stops elections",
+                        "Removes rights"
+                    ],
+                    "answer": "Ensures political participation"
+                },
+                {
+                    "question": "India does NOT allow:",
+                    "options": [
+                        "Single citizenship",
+                        "Dual citizenship",
+                        "Fundamental rights",
+                        "Voting rights"
+                    ],
+                    "answer": "Dual citizenship"
+                },
+                {
+                    "question": "Citizenship helps in:",
+                    "options": [
+                        "Defining national identity",
+                        "Removing government",
+                        "Ending law",
+                        "Creating monarchy"
+                    ],
+                    "answer": "Defining national identity"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Citizenship is same as domicile\n2. Only citizens enjoy political rights\n3. India has single citizenship",
+                    "options": [
+                        "2 and 3",
+                        "1 and 2",
+                        "3 only",
+                        "All"
+                    ],
+                    "answer": "2 and 3"
+                },
+                {
+                    "question": "Which of the following is correct?",
+                    "options": [
+                        "Citizenship is only symbolic",
+                        "Citizenship has legal and political significance",
+                        "Citizenship is not required for voting",
+                        "Citizenship is same worldwide"
+                    ],
+                    "answer": "Citizenship has legal and political significance"
+                },
+                {
+                    "question": "Which rights are exclusive to citizens?",
+                    "options": [
+                        "Right to life",
+                        "Freedom of speech",
+                        "Right to vote",
+                        "Right to equality"
+                    ],
+                    "answer": "Right to vote"
+                },
+                {
+                    "question": "Which statement is NOT correct?",
+                    "options": [
+                        "Citizenship defines political identity",
+                        "Aliens have full political rights",
+                        "Citizenship is linked to democracy",
+                        "India has single citizenship"
+                    ],
+                    "answer": "Aliens have full political rights"
+                },
+                {
+                    "question": "Main significance of citizenship is:",
+                    "options": [
+                        "Economic classification",
+                        "Political membership in a state",
+                        "Judicial power",
+                        "Military control"
+                    ],
+                    "answer": "Political membership in a state"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Citizenship – Constitutional Provisions (Articles 5–11)",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Citizenship provisions are contained in Part II of the Indian Constitution",
+                    "Articles 5 to 11 deal with citizenship at the commencement of the Constitution and Parliament’s power over it",
+                    "The Constitution provides only the framework; detailed rules are in the Citizenship Act, 1955",
+                    "Citizenship provisions mainly address who became citizens at the time of independence"
+                ]
+            },
+            {
+                "heading": "Article 5 – Citizenship at Commencement",
+                "points": [
+                    "Any person who had domicile in India at commencement became a citizen",
+                    "Conditions included birth in India or parental link to India",
+                    "Or ordinary residence in India for 5 years before 26 January 1950",
+                    "Focuses on initial citizenship determination"
+                ]
+            },
+            {
+                "heading": "Article 6 – Migrants from Pakistan to India",
+                "points": [
+                    "Deals with persons who migrated from Pakistan before 19 July 1948",
+                    "Citizenship depended on residence and registration requirements",
+                    "Special provisions were made due to Partition refugee crisis",
+                    "Ensured inclusion of displaced persons in India"
+                ]
+            },
+            {
+                "heading": "Article 7 – Migration to Pakistan and Return",
+                "points": [
+                    "Persons who migrated to Pakistan after 1 March 1947 lost citizenship",
+                    "But those who returned to India with proper permit could regain citizenship",
+                    "Deals with post-Partition migration complexities",
+                    "Ensures regulated re-entry of migrants"
+                ]
+            },
+            {
+                "heading": "Article 8 – Indian Origin Persons Abroad",
+                "points": [
+                    "Persons of Indian origin residing outside India could register as citizens",
+                    "Requires parents or grandparents born in undivided India",
+                    "Registration done through Indian diplomatic missions",
+                    "Maintains link with Indian diaspora"
+                ]
+            },
+            {
+                "heading": "Article 9 – No Dual Citizenship",
+                "points": [
+                    "A person voluntarily acquiring citizenship of another country loses Indian citizenship",
+                    "Ensures single allegiance to India",
+                    "India does not permit dual citizenship under Constitution",
+                    "OCI is not equivalent to citizenship"
+                ]
+            },
+            {
+                "heading": "Article 10 – Continuance of Citizenship",
+                "points": [
+                    "Every person who is or is deemed to be a citizen continues as a citizen",
+                    "Subject to provisions made by Parliament",
+                    "Ensures continuity and legal stability of citizenship",
+                    "Citizenship can be regulated by law"
+                ]
+            },
+            {
+                "heading": "Article 11 – Power of Parliament",
+                "points": [
+                    "Parliament has exclusive authority to regulate citizenship",
+                    "Includes acquisition, termination, and determination of citizenship",
+                    "Basis for Citizenship Act, 1955",
+                    "Constitution intentionally leaves detailed rules to Parliament"
+                ]
+            },
+            {
+                "heading": "Key Features of Citizenship Provisions",
+                "points": [
+                    "Only initial citizenship rules are in the Constitution",
+                    "Parliament has full control over citizenship laws",
+                    "No provision for dual citizenship",
+                    "Citizenship is dynamic and can be changed by legislation"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Articles 5–8 deal with initial citizenship at commencement",
+                    "Article 9 clearly prohibits dual citizenship",
+                    "Article 11 gives Parliament plenary power over citizenship",
+                    "Citizenship Act, 1955 is the operational law"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Citizenship provisions are contained in:",
+                    "options": [
+                        "Part I",
+                        "Part II",
+                        "Part III",
+                        "Part IV"
+                    ],
+                    "answer": "Part II"
+                },
+                {
+                    "question": "Which Article gives Parliament power over citizenship?",
+                    "options": [
+                        "Article 9",
+                        "Article 10",
+                        "Article 11",
+                        "Article 5"
+                    ],
+                    "answer": "Article 11"
+                },
+                {
+                    "question": "India allows:",
+                    "options": [
+                        "Dual citizenship",
+                        "Single citizenship",
+                        "State citizenship",
+                        "No citizenship"
+                    ],
+                    "answer": "Single citizenship"
+                },
+                {
+                    "question": "Which Article deals with citizenship at commencement?",
+                    "options": [
+                        "Article 5",
+                        "Article 9",
+                        "Article 10",
+                        "Article 11"
+                    ],
+                    "answer": "Article 5"
+                },
+                {
+                    "question": "Citizenship Act was enacted in:",
+                    "options": [
+                        "1950",
+                        "1955",
+                        "1960",
+                        "1947"
+                    ],
+                    "answer": "1955"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which of the following is correct?",
+                    "options": [
+                        "Constitution defines full citizenship rules",
+                        "Parliament regulates citizenship",
+                        "Dual citizenship is allowed",
+                        "Citizenship is fixed and unchangeable"
+                    ],
+                    "answer": "Parliament regulates citizenship"
+                },
+                {
+                    "question": "Article 9 deals with:",
+                    "options": [
+                        "Citizenship at commencement",
+                        "Loss of citizenship on acquiring foreign citizenship",
+                        "Naturalisation",
+                        "Voting rights"
+                    ],
+                    "answer": "Loss of citizenship on acquiring foreign citizenship"
+                },
+                {
+                    "question": "Which Article ensures continuity of citizenship?",
+                    "options": [
+                        "Article 5",
+                        "Article 8",
+                        "Article 10",
+                        "Article 11"
+                    ],
+                    "answer": "Article 10"
+                },
+                {
+                    "question": "Which of the following is NOT part of Constitution?",
+                    "options": [
+                        "Articles 5–11 framework",
+                        "Citizenship Act details",
+                        "Parliament’s power",
+                        "Initial citizenship rules"
+                    ],
+                    "answer": "Citizenship Act details"
+                },
+                {
+                    "question": "Which Article deals with Indian origin persons abroad?",
+                    "options": [
+                        "Article 6",
+                        "Article 7",
+                        "Article 8",
+                        "Article 10"
+                    ],
+                    "answer": "Article 8"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Citizenship Act is part of Constitution\n2. Article 11 gives Parliament power over citizenship\n3. Dual citizenship is allowed in India",
+                    "options": [
+                        "2 only",
+                        "1 and 2",
+                        "2 and 3",
+                        "All"
+                    ],
+                    "answer": "2 only"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Citizenship rules are fully in Constitution",
+                        "Parliament cannot amend citizenship laws",
+                        "Citizenship is governed by statute law",
+                        "Citizenship is judicially determined only"
+                    ],
+                    "answer": "Citizenship is governed by statute law"
+                },
+                {
+                    "question": "Which Articles deal with Partition-related citizenship issues?",
+                    "options": [
+                        "5–8",
+                        "9–11",
+                        "1–4",
+                        "12–14"
+                    ],
+                    "answer": "5–8"
+                },
+                {
+                    "question": "Which statement is NOT correct?",
+                    "options": [
+                        "Article 11 gives Parliament power",
+                        "Article 9 prohibits dual citizenship",
+                        "Constitution gives detailed citizenship laws",
+                        "Citizenship Act governs procedures"
+                    ],
+                    "answer": "Constitution gives detailed citizenship laws"
+                },
+                {
+                    "question": "Main feature of constitutional citizenship provisions is:",
+                    "options": [
+                        "Rigid framework",
+                        "Dynamic parliamentary control",
+                        "Judicial dominance",
+                        "No regulation system"
+                    ],
+                    "answer": "Dynamic parliamentary control"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Citizenship Act, 1955",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "The Citizenship Act, 1955 is the primary legislation governing Indian citizenship",
+                    "It was enacted under Article 11 of the Constitution",
+                    "It lays down provisions for acquisition and termination of citizenship after 26 January 1950",
+                    "It has been amended multiple times to reflect changing national needs"
+                ]
+            },
+            {
+                "heading": "Modes of Acquiring Citizenship",
+                "points": [
+                    "By Birth: A person born in India (subject to conditions in different periods of law)",
+                    "By Descent: Citizenship through Indian parents",
+                    "By Registration: For Persons of Indian Origin and certain categories of migrants",
+                    "By Naturalisation: Citizenship granted after residing in India for a specified period and fulfilling conditions",
+                    "By Incorporation of Territory: When new territory becomes part of India"
+                ]
+            },
+            {
+                "heading": "Citizenship by Birth (Evolution)",
+                "points": [
+                    "Initially (1950–1987): Any person born in India was a citizen",
+                    "1986 Amendment: At least one parent must be Indian citizen",
+                    "2003 Amendment: One parent must be Indian citizen and other not an illegal migrant",
+                    "Tighter rules introduced due to illegal migration concerns"
+                ]
+            },
+            {
+                "heading": "Citizenship by Registration",
+                "points": [
+                    "Available to Persons of Indian Origin residing in India for a specified period",
+                    "Spouses of Indian citizens can apply",
+                    "Persons registered by Government of India",
+                    "Helps in integrating diaspora and long-term residents"
+                ]
+            },
+            {
+                "heading": "Citizenship by Naturalisation",
+                "points": [
+                    "Granted to foreigners who reside in India for 12 years (generally)",
+                    "Requires good character and knowledge of Indian language",
+                    "Must renounce previous citizenship (no dual citizenship)",
+                    "Granted by Central Government discretion"
+                ]
+            },
+            {
+                "heading": "Citizenship by Incorporation of Territory",
+                "points": [
+                    "When new territory becomes part of India, its residents become citizens",
+                    "Example: Puducherry, Goa, Sikkim integration",
+                    "Citizenship is automatically conferred by law",
+                    "Ensures smooth political integration of new regions"
+                ]
+            },
+            {
+                "heading": "Termination of Citizenship",
+                "points": [
+                    "Renunciation: Voluntary giving up of citizenship",
+                    "Termination: Automatically when a person acquires foreign citizenship",
+                    "Deprivation: Government can revoke citizenship in certain cases (fraud, disloyalty, etc.)",
+                    "Ensures national security and legal compliance"
+                ]
+            },
+            {
+                "heading": "Important Amendments",
+                "points": [
+                    "1986 Amendment: Restricted citizenship by birth",
+                    "2003 Amendment: Further tightened illegal migration provisions",
+                    "2015 Amendment: Introduced Overseas Citizen of India (OCI) integration improvements",
+                    "2019 Amendment (CAA): Fast-tracked citizenship for certain persecuted minorities from neighboring countries"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Citizenship Act is the operational law for citizenship in India",
+                    "India does not permit dual citizenship",
+                    "Parliament has full power to amend citizenship rules",
+                    "Citizenship can be acquired in 5 different ways under the Act"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Citizenship Act was enacted in:",
+                    "options": [
+                        "1950",
+                        "1955",
+                        "1960",
+                        "1947"
+                    ],
+                    "answer": "1955"
+                },
+                {
+                    "question": "Which Article empowers Citizenship Act?",
+                    "options": [
+                        "Article 9",
+                        "Article 10",
+                        "Article 11",
+                        "Article 12"
+                    ],
+                    "answer": "Article 11"
+                },
+                {
+                    "question": "India allows:",
+                    "options": [
+                        "Dual citizenship",
+                        "Single citizenship",
+                        "No citizenship",
+                        "State citizenship"
+                    ],
+                    "answer": "Single citizenship"
+                },
+                {
+                    "question": "Citizenship by birth has been modified in:",
+                    "options": [
+                        "1986 and 2003",
+                        "1950 only",
+                        "1970 only",
+                        "2010 only"
+                    ],
+                    "answer": "1986 and 2003"
+                },
+                {
+                    "question": "Citizenship by naturalisation is granted by:",
+                    "options": [
+                        "State Government",
+                        "Supreme Court",
+                        "Central Government",
+                        "President only"
+                    ],
+                    "answer": "Central Government"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which of the following is NOT a mode of citizenship?",
+                    "options": [
+                        "Birth",
+                        "Descent",
+                        "Marriage only",
+                        "Naturalisation"
+                    ],
+                    "answer": "Marriage only"
+                },
+                {
+                    "question": "Citizenship is lost automatically when:",
+                    "options": [
+                        "Voting is not done",
+                        "Foreign citizenship is acquired",
+                        "Education is completed abroad",
+                        "Residence outside India"
+                    ],
+                    "answer": "Foreign citizenship is acquired"
+                },
+                {
+                    "question": "Which amendment restricted citizenship by birth?",
+                    "options": [
+                        "1986",
+                        "1991",
+                        "2001",
+                        "1976"
+                    ],
+                    "answer": "1986"
+                },
+                {
+                    "question": "OCI status is:",
+                    "options": [
+                        "Full citizenship",
+                        "Dual citizenship",
+                        "Not full citizenship",
+                        "State citizenship"
+                    ],
+                    "answer": "Not full citizenship"
+                },
+                {
+                    "question": "Citizenship by incorporation applies when:",
+                    "options": [
+                        "New territory joins India",
+                        "Election is held",
+                        "Emergency is declared",
+                        "Judiciary is formed"
+                    ],
+                    "answer": "New territory joins India"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. India allows dual citizenship\n2. Citizenship Act is amended by Parliament\n3. Citizenship by descent is allowed",
+                    "options": [
+                        "2 and 3",
+                        "1 and 2",
+                        "3 only",
+                        "All"
+                    ],
+                    "answer": "2 and 3"
+                },
+                {
+                    "question": "Which of the following is correct?",
+                    "options": [
+                        "Citizenship Act is part of Constitution",
+                        "Citizenship rules are static",
+                        "Citizenship is governed by statute law",
+                        "Citizenship cannot be changed"
+                    ],
+                    "answer": "Citizenship is governed by statute law"
+                },
+                {
+                    "question": "Which of the following is NOT a mode of acquiring citizenship?",
+                    "options": [
+                        "Birth",
+                        "Naturalisation",
+                        "Inheritance of property",
+                        "Registration"
+                    ],
+                    "answer": "Inheritance of property"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Citizenship cannot be terminated",
+                        "Parliament has no role in citizenship",
+                        "Citizenship can be acquired by law",
+                        "Citizenship is only judicially decided"
+                    ],
+                    "answer": "Citizenship can be acquired by law"
+                },
+                {
+                    "question": "Main purpose of Citizenship Act is:",
+                    "options": [
+                        "Define military rights",
+                        "Regulate acquisition and termination of citizenship",
+                        "Control judiciary",
+                        "Define state boundaries"
+                    ],
+                    "answer": "Regulate acquisition and termination of citizenship"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Single Citizenship in India",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "India follows the system of Single Citizenship",
+                    "Every citizen of India is a citizen of India only, not of any state separately",
+                    "This is provided implicitly under the Constitution",
+                    "It promotes unity and national integration"
+                ]
+            },
+            {
+                "heading": "Meaning of Single Citizenship",
+                "points": [
+                    "A person has only one citizenship i.e., Indian citizenship",
+                    "There is no separate citizenship for states like in federal countries such as the USA",
+                    "All citizens enjoy uniform rights across the country",
+                    "It removes the concept of state-based citizenship identity"
+                ]
+            },
+            {
+                "heading": "Constitutional Basis",
+                "points": [
+                    "Articles 5–11 of the Constitution deal with citizenship framework",
+                    "No provision for state citizenship exists in the Constitution",
+                    "Citizenship Act, 1955 also provides only one national citizenship",
+                    "India’s unitary bias in federal structure supports this system"
+                ]
+            },
+            {
+                "heading": "Features of Single Citizenship",
+                "points": [
+                    "Uniform political and civil rights for all citizens",
+                    "No discrimination between citizens based on state residence",
+                    "Free movement and settlement across India",
+                    "Equal eligibility for central government jobs"
+                ]
+            },
+            {
+                "heading": "Comparison with Dual Citizenship Countries",
+                "points": [
+                    "Countries like USA, Australia have dual citizenship (national + state)",
+                    "In India, no separate state citizenship exists",
+                    "All citizens are treated equally across states",
+                    "This strengthens national unity"
+                ]
+            },
+            {
+                "heading": "Advantages of Single Citizenship",
+                "points": [
+                    "Promotes national integration and unity",
+                    "Prevents regionalism and state-based discrimination",
+                    "Ensures equal rights across the country",
+                    "Strengthens integrity of the nation"
+                ]
+            },
+            {
+                "heading": "Criticism of Single Citizenship",
+                "points": [
+                    "States have no separate identity in citizenship matters",
+                    "May reduce importance of federal structure",
+                    "Over-centralisation of identity at national level",
+                    "Less scope for state-level political autonomy"
+                ]
+            },
+            {
+                "heading": "Important Constitutional Support",
+                "points": [
+                    "Single Constitution for Union and States",
+                    "Single Judiciary system",
+                    "All India Services recruitment system",
+                    "Fundamental Rights apply uniformly across states"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "India follows single citizenship unlike USA",
+                    "No state citizenship exists in India",
+                    "Promotes unity and integrity of nation",
+                    "It is a key feature of Indian Constitution’s unitary bias"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "India follows:",
+                    "options": [
+                        "Dual citizenship",
+                        "Single citizenship",
+                        "State citizenship",
+                        "Multiple citizenship"
+                    ],
+                    "answer": "Single citizenship"
+                },
+                {
+                    "question": "In India, citizenship is:",
+                    "options": [
+                        "State-based",
+                        "National only",
+                        "Dual",
+                        "Confederal"
+                    ],
+                    "answer": "National only"
+                },
+                {
+                    "question": "Which country has dual citizenship system?",
+                    "options": [
+                        "India",
+                        "USA",
+                        "Nepal",
+                        "Bhutan"
+                    ],
+                    "answer": "USA"
+                },
+                {
+                    "question": "Single citizenship promotes:",
+                    "options": [
+                        "Regionalism",
+                        "Disintegration",
+                        "National unity",
+                        "State sovereignty"
+                    ],
+                    "answer": "National unity"
+                },
+                {
+                    "question": "Citizenship in India is governed by:",
+                    "options": [
+                        "States",
+                        "Parliament only",
+                        "Constitution and Citizenship Act",
+                        "Supreme Court only"
+                    ],
+                    "answer": "Constitution and Citizenship Act"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which of the following is correct?",
+                    "options": [
+                        "India has state citizenship",
+                        "India has dual citizenship",
+                        "India has single citizenship",
+                        "India has no citizenship system"
+                    ],
+                    "answer": "India has single citizenship"
+                },
+                {
+                    "question": "Single citizenship helps in:",
+                    "options": [
+                        "Creating state conflicts",
+                        "Promoting unity",
+                        "Weakening Centre",
+                        "Reducing rights"
+                    ],
+                    "answer": "Promoting unity"
+                },
+                {
+                    "question": "Which is NOT an advantage of single citizenship?",
+                    "options": [
+                        "National integration",
+                        "Equal rights",
+                        "State dominance",
+                        "Free movement"
+                    ],
+                    "answer": "State dominance"
+                },
+                {
+                    "question": "Which system does NOT exist in India?",
+                    "options": [
+                        "Single citizenship",
+                        "Dual citizenship",
+                        "Fundamental rights",
+                        "Parliamentary system"
+                    ],
+                    "answer": "Dual citizenship"
+                },
+                {
+                    "question": "Single citizenship is a feature of:",
+                    "options": [
+                        "Federal disintegration",
+                        "Unitary bias in federalism",
+                        "Confederation",
+                        "Military system"
+                    ],
+                    "answer": "Unitary bias in federalism"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. India follows dual citizenship\n2. Single citizenship promotes unity\n3. No state citizenship exists in India",
+                    "options": [
+                        "2 and 3",
+                        "1 and 2",
+                        "3 only",
+                        "All"
+                    ],
+                    "answer": "2 and 3"
+                },
+                {
+                    "question": "Which of the following is correct?",
+                    "options": [
+                        "Citizenship varies by state",
+                        "India has confederal citizenship",
+                        "All citizens have uniform citizenship",
+                        "States issue citizenship certificates"
+                    ],
+                    "answer": "All citizens have uniform citizenship"
+                },
+                {
+                    "question": "Which statement is NOT correct?",
+                    "options": [
+                        "Single citizenship exists in India",
+                        "Citizenship is uniform",
+                        "States have separate citizenship",
+                        "Constitution supports unity"
+                    ],
+                    "answer": "States have separate citizenship"
+                },
+                {
+                    "question": "Main objective of single citizenship is:",
+                    "options": [
+                        "Promote regional identity",
+                        "Ensure national unity",
+                        "Weaken Parliament",
+                        "Create state sovereignty"
+                    ],
+                    "answer": "Ensure national unity"
+                },
+                {
+                    "question": "Which feature supports single citizenship?",
+                    "options": [
+                        "Separate state laws",
+                        "All India Services",
+                        "Confederal system",
+                        "State constitutions"
+                    ],
+                    "answer": "All India Services"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Overseas Citizenship of India (OCI)",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "OCI is a special status granted to Persons of Indian Origin (PIOs) living abroad",
+                    "It was introduced through the Citizenship (Amendment) Act, 2005",
+                    "OCI is NOT full citizenship of India",
+                    "It provides certain lifelong visa and economic benefits"
+                ]
+            },
+            {
+                "heading": "Background and Purpose",
+                "points": [
+                    "Created to strengthen emotional and economic ties with Indian diaspora",
+                    "Demand arose from Indian-origin people in developed countries",
+                    "Aimed at allowing easier travel and residence in India",
+                    "Does not revive dual citizenship in constitutional sense"
+                ]
+            },
+            {
+                "heading": "Eligibility for OCI",
+                "points": [
+                    "A foreign citizen who was eligible to become Indian citizen on 26 January 1950 or thereafter",
+                    "Persons belonging to territories that became part of India after 15 August 1947",
+                    "Children or grandchildren of such persons are eligible",
+                    "Spouses of OCI cardholders (subject to conditions)"
+                ]
+            },
+            {
+                "heading": "Rights Granted under OCI",
+                "points": [
+                    "Multiple entry, lifelong visa to India",
+                    "Exemption from registration with Foreigners Regional Registration Office (FRRO)",
+                    "Parity with Non-Resident Indians (NRIs) in economic, financial, and educational fields (with restrictions)",
+                    "Permission to own property (except agricultural land, unless specifically allowed)"
+                ]
+            },
+            {
+                "heading": "Restrictions on OCI",
+                "points": [
+                    "No voting rights in India",
+                    "Cannot hold constitutional posts like President, MP, or MLA",
+                    "Cannot buy agricultural or plantation land",
+                    "Not eligible for government employment"
+                ]
+            },
+            {
+                "heading": "Legal Status of OCI",
+                "points": [
+                    "OCI is NOT Indian citizenship",
+                    "It is a form of long-term visa with privileges",
+                    "OCI cardholders remain foreign citizens",
+                    "Does not provide political rights in India"
+                ]
+            },
+            {
+                "heading": "Difference between OCI and Citizenship",
+                "points": [
+                    "Citizenship gives full political rights; OCI does not",
+                    "Citizenship allows voting; OCI does not",
+                    "Citizenship requires allegiance only to India; OCI holders are foreign citizens",
+                    "OCI is revocable; citizenship is governed by stricter provisions"
+                ]
+            },
+            {
+                "heading": "Important Amendments",
+                "points": [
+                    "OCI scheme introduced in 2005 amendment",
+                    "Later amendments expanded eligibility conditions",
+                    "2015 amendment merged PIO scheme with OCI",
+                    "Rules have been periodically updated for simplification"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "OCI is NOT dual citizenship",
+                    "OCI is a lifelong visa with limited rights",
+                    "It is governed by Citizenship Act, 1955 (amended)",
+                    "It strengthens India’s global diaspora connection"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "OCI stands for:",
+                    "options": [
+                        "Overseas Constitutional Identity",
+                        "Overseas Citizenship of India",
+                        "Original Citizenship of India",
+                        "Overseas Certificate of India"
+                    ],
+                    "answer": "Overseas Citizenship of India"
+                },
+                {
+                    "question": "OCI scheme was introduced in:",
+                    "options": [
+                        "1955",
+                        "2005",
+                        "2010",
+                        "1991"
+                    ],
+                    "answer": "2005"
+                },
+                {
+                    "question": "OCI provides:",
+                    "options": [
+                        "Full voting rights",
+                        "Dual citizenship",
+                        "Lifelong visa benefits",
+                        "State citizenship"
+                    ],
+                    "answer": "Lifelong visa benefits"
+                },
+                {
+                    "question": "OCI holders can:",
+                    "options": [
+                        "Vote in elections",
+                        "Hold constitutional posts",
+                        "Enter India freely",
+                        "Become MPs directly"
+                    ],
+                    "answer": "Enter India freely"
+                },
+                {
+                    "question": "OCI is:",
+                    "options": [
+                        "Full citizenship",
+                        "Dual citizenship",
+                        "Not full citizenship",
+                        "State citizenship"
+                    ],
+                    "answer": "Not full citizenship"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which of the following is NOT allowed to OCI holders?",
+                    "options": [
+                        "Travel to India",
+                        "Buy agricultural land",
+                        "Long-term visa",
+                        "Business investment"
+                    ],
+                    "answer": "Buy agricultural land"
+                },
+                {
+                    "question": "OCI holders are treated as:",
+                    "options": [
+                        "Indian citizens",
+                        "Foreign citizens",
+                        "State citizens",
+                        "Dual citizens"
+                    ],
+                    "answer": "Foreign citizens"
+                },
+                {
+                    "question": "Which scheme merged with OCI in 2015?",
+                    "options": [
+                        "NRI scheme",
+                        "PIO scheme",
+                        "Visa scheme",
+                        "Green card scheme"
+                    ],
+                    "answer": "PIO scheme"
+                },
+                {
+                    "question": "OCI does NOT allow:",
+                    "options": [
+                        "Education in India",
+                        "Property ownership (restricted)",
+                        "Voting rights",
+                        "Entry visa"
+                    ],
+                    "answer": "Voting rights"
+                },
+                {
+                    "question": "OCI scheme is governed under:",
+                    "options": [
+                        "Fundamental Rights",
+                        "Citizenship Act, 1955",
+                        "Election Commission rules",
+                        "Judiciary guidelines"
+                    ],
+                    "answer": "Citizenship Act, 1955"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. OCI is equivalent to dual citizenship\n2. OCI provides voting rights\n3. OCI is a lifelong visa facility",
+                    "options": [
+                        "3 only",
+                        "1 and 2",
+                        "2 and 3",
+                        "All"
+                    ],
+                    "answer": "3 only"
+                },
+                {
+                    "question": "Which of the following is correct?",
+                    "options": [
+                        "OCI holders are Indian citizens",
+                        "OCI is a form of political citizenship",
+                        "OCI is a special immigration status",
+                        "OCI allows holding constitutional posts"
+                    ],
+                    "answer": "OCI is a special immigration status"
+                },
+                {
+                    "question": "Which statement is NOT correct?",
+                    "options": [
+                        "OCI allows entry into India",
+                        "OCI grants voting rights",
+                        "OCI is not full citizenship",
+                        "OCI is regulated by law"
+                    ],
+                    "answer": "OCI grants voting rights"
+                },
+                {
+                    "question": "Main objective of OCI scheme is:",
+                    "options": [
+                        "Grant full citizenship abroad",
+                        "Strengthen diaspora connection",
+                        "Replace Indian citizenship",
+                        "Create state identity abroad"
+                    ],
+                    "answer": "Strengthen diaspora connection"
+                },
+                {
+                    "question": "Which feature differentiates OCI from citizenship?",
+                    "options": [
+                        "Right to vote",
+                        "Lifelong visa",
+                        "Economic rights",
+                        "Education access"
+                    ],
+                    "answer": "Right to vote"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,450 @@
+TOPICS = [
+    {
+        "name": "Africa – India’s Relations (South Africa & Nigeria)",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Africa is an important partner for India in trade, energy, and development cooperation",
+                    "India focuses on capacity building, investment, and South-South cooperation",
+                    "Historical ties through anti-colonial struggles and diaspora",
+                    "Part of India’s extended neighbourhood and Global South engagement"
+                ]
+            },
+            {
+                "heading": "India–South Africa Relations",
+                "points": [
+                    "Strategic partnership with strong historical ties (Gandhi’s connection)",
+                    "Member of BRICS, IBSA, and G20 along with India",
+                    "Cooperation in trade, defense, and science & technology",
+                    "Shared commitment to democracy and Global South interests",
+                    "Trade includes gold, coal, and minerals",
+                    "Important partner in multilateral forums"
+                ]
+            },
+            {
+                "heading": "Key Areas – India–South Africa",
+                "points": [
+                    "Trade: Bilateral trade and investment",
+                    "Multilateral: BRICS, IBSA cooperation",
+                    "Defense: Joint exercises and cooperation",
+                    "Technology: Science and innovation collaboration",
+                    "Culture: Strong diaspora and historical ties"
+                ]
+            },
+            {
+                "heading": "India–Nigeria Relations",
+                "points": [
+                    "Nigeria is India’s largest trading partner in Africa",
+                    "Major supplier of crude oil to India",
+                    "Strong trade relations (pharmaceuticals, machinery)",
+                    "Indian companies active in Nigeria",
+                    "Cooperation in energy, trade, and capacity building",
+                    "Important for India’s energy security"
+                ]
+            },
+            {
+                "heading": "Key Areas – India–Nigeria",
+                "points": [
+                    "Energy: Oil imports",
+                    "Trade: Pharmaceuticals, engineering goods",
+                    "Investment: Indian businesses presence",
+                    "Development: Capacity building and training",
+                    "Diplomacy: Strong bilateral engagement"
+                ]
+            },
+            {
+                "heading": "Strategic Importance of Africa",
+                "points": [
+                    "Energy resources (oil, gas, minerals)",
+                    "Growing market for trade and investment",
+                    "Support in international forums",
+                    "Countering influence of China in Africa",
+                    "Strengthening South-South cooperation"
+                ]
+            },
+            {
+                "heading": "Challenges",
+                "points": [
+                    "Political instability in some African countries",
+                    "Competition from China and other global powers",
+                    "Infrastructure and connectivity issues",
+                    "Security concerns (terrorism, piracy)",
+                    "Trade imbalances"
+                ]
+            },
+            {
+                "heading": "India’s Approach",
+                "points": [
+                    "India–Africa Forum Summit (IAFS)",
+                    "Capacity building and development assistance",
+                    "Lines of credit and grants",
+                    "Focus on healthcare, education, and technology",
+                    "Strengthening diplomatic and economic ties"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "South Africa is part of which grouping with India?",
+                    "options": ["NATO", "BRICS", "EU", "OPEC"],
+                    "answer": "BRICS"
+                },
+                {
+                    "question": "Nigeria is important for India due to:",
+                    "options": [
+                    "Tourism",
+                    "Oil supply",
+                    "Agriculture",
+                    "Space research"
+                    ],
+                    "answer": "Oil supply"
+                },
+                {
+                    "question": "India–Africa Forum Summit relates to:",
+                    "options": [
+                    "Defense only",
+                    "India–Africa cooperation",
+                    "Trade war",
+                    "Space missions"
+                    ],
+                    "answer": "India–Africa cooperation"
+                },
+                {
+                    "question": "South Africa and India cooperate in:",
+                    "options": [
+                    "Isolation",
+                    "BRICS and IBSA",
+                    "No cooperation",
+                    "Military alliance only"
+                    ],
+                    "answer": "BRICS and IBSA"
+                },
+                {
+                    "question": "Nigeria is located in:",
+                    "options": ["Asia", "Europe", "Africa", "America"],
+                    "answer": "Africa"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "India imports crude oil from:",
+                    "options": ["South Africa", "Nigeria", "Nepal", "Japan"],
+                    "answer": "Nigeria"
+                },
+                {
+                    "question": "IBSA includes India, Brazil and:",
+                    "options": ["Nigeria", "South Africa", "Egypt", "Kenya"],
+                    "answer": "South Africa"
+                },
+                {
+                    "question": "India’s engagement with Africa includes:",
+                    "options": [
+                    "Isolation",
+                    "Development cooperation",
+                    "War",
+                    "Sanctions"
+                    ],
+                    "answer": "Development cooperation"
+                },
+                {
+                    "question": "Africa is important for India due to:",
+                    "options": [
+                    "No resources",
+                    "Energy and markets",
+                    "Only tourism",
+                    "Isolation"
+                    ],
+                    "answer": "Energy and markets"
+                },
+                {
+                    "question": "India competes with which country in Africa?",
+                    "options": ["USA", "China", "Russia", "UK"],
+                    "answer": "China"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. South Africa is part of BRICS\n2. Nigeria supplies oil to India\n3. India conducts Africa Forum Summit",
+                    "options": [
+                    "1 only",
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "All of the above"
+                    ],
+                    "answer": "All of the above"
+                },
+                {
+                    "question": "India–South Africa relations focus on:",
+                    "options": [
+                    "Isolation",
+                    "Multilateral cooperation",
+                    "Military conflict",
+                    "No engagement"
+                    ],
+                    "answer": "Multilateral cooperation"
+                },
+                {
+                    "question": "India’s Africa policy aims at:",
+                    "options": [
+                    "Colonial expansion",
+                    "Development partnership",
+                    "Isolation",
+                    "Military domination"
+                    ],
+                    "answer": "Development partnership"
+                },
+                {
+                    "question": "Nigeria is strategically important due to:",
+                    "options": [
+                    "Mountains",
+                    "Oil reserves",
+                    "Forests",
+                    "Rivers"
+                    ],
+                    "answer": "Oil reserves"
+                },
+                {
+                    "question": "India’s engagement in Africa is part of:",
+                    "options": [
+                    "North-South divide",
+                    "South-South cooperation",
+                    "Military alliance",
+                    "Trade isolation"
+                    ],
+                    "answer": "South-South cooperation"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Africa – India’s Relations (Kenya & Sudan)",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "India’s engagement with East Africa is important for trade, diaspora, and strategic outreach",
+                    "Kenya and Sudan are key partners in Africa for economic and political cooperation",
+                    "Focus on energy, trade, capacity building, and maritime connectivity",
+                    "Part of India’s broader Africa policy and South-South cooperation"
+                ]
+            },
+            {
+                "heading": "India–Kenya Relations",
+                "points": [
+                    "Kenya is a key partner in East Africa",
+                    "Strong Indian diaspora presence",
+                    "Cooperation in trade, healthcare, and education",
+                    "India exports pharmaceuticals, machinery, and textiles",
+                    "Maritime cooperation in Indian Ocean Region",
+                    "Strategic location for connectivity and trade"
+                ]
+            },
+            {
+                "heading": "Key Areas – India–Kenya",
+                "points": [
+                    "Trade: Growing bilateral trade",
+                    "Healthcare: Supply of medicines and medical support",
+                    "Education: Scholarships and training programs",
+                    "Diaspora: Significant Indian-origin population",
+                    "Security: Maritime cooperation"
+                ]
+            },
+            {
+                "heading": "India–Sudan Relations",
+                "points": [
+                    "Sudan is important for oil and energy cooperation",
+                    "India involved in oil exploration and investments",
+                    "Trade includes petroleum products and machinery",
+                    "Political instability affects relations",
+                    "Humanitarian assistance during crises",
+                    "Engagement through African Union frameworks"
+                ]
+            },
+            {
+                "heading": "Key Areas – India–Sudan",
+                "points": [
+                    "Energy: Oil exploration and trade",
+                    "Trade: Machinery, pharmaceuticals",
+                    "Development: Capacity building initiatives",
+                    "Humanitarian: Aid during conflicts",
+                    "Diplomacy: Engagement despite instability"
+                ]
+            },
+            {
+                "heading": "Strategic Importance",
+                "points": [
+                    "Access to African markets",
+                    "Energy security (Sudan)",
+                    "Indian Ocean connectivity (Kenya)",
+                    "Strengthening Africa outreach",
+                    "Support in international forums"
+                ]
+            },
+            {
+                "heading": "Challenges",
+                "points": [
+                    "Political instability in Sudan",
+                    "Security concerns in region",
+                    "Competition from China",
+                    "Infrastructure and connectivity gaps",
+                    "Limited trade potential realization"
+                ]
+            },
+            {
+                "heading": "India’s Approach",
+                "points": [
+                    "Development partnerships and aid",
+                    "Capacity building programs",
+                    "Focus on healthcare and education",
+                    "Strengthening trade and investment",
+                    "Engagement through multilateral platforms"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Kenya is located in:",
+                    "options": ["Asia", "Europe", "Africa", "America"],
+                    "answer": "Africa"
+                },
+                {
+                    "question": "India–Kenya relations are strong due to:",
+                    "options": [
+                    "No interaction",
+                    "Diaspora and trade",
+                    "Military alliance",
+                    "Isolation"
+                    ],
+                    "answer": "Diaspora and trade"
+                },
+                {
+                    "question": "Sudan is important for India due to:",
+                    "options": [
+                    "Tourism",
+                    "Oil and energy",
+                    "Agriculture",
+                    "Space research"
+                    ],
+                    "answer": "Oil and energy"
+                },
+                {
+                    "question": "India exports to Kenya include:",
+                    "options": [
+                    "Oil only",
+                    "Pharmaceuticals and machinery",
+                    "Gold",
+                    "Coal"
+                    ],
+                    "answer": "Pharmaceuticals and machinery"
+                },
+                {
+                    "question": "India provides humanitarian aid to:",
+                    "options": ["Kenya only", "Sudan during crises", "USA", "Europe"],
+                    "answer": "Sudan during crises"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "India–Kenya cooperation includes:",
+                    "options": [
+                    "Only defense",
+                    "Trade, healthcare, and education",
+                    "No cooperation",
+                    "Only tourism"
+                    ],
+                    "answer": "Trade, healthcare, and education"
+                },
+                {
+                    "question": "Main challenge in India–Sudan relations is:",
+                    "options": [
+                    "No trade",
+                    "Political instability",
+                    "Language",
+                    "Climate"
+                    ],
+                    "answer": "Political instability"
+                },
+                {
+                    "question": "Kenya is important for India due to:",
+                    "options": [
+                    "Mountains",
+                    "Indian Ocean connectivity",
+                    "Deserts",
+                    "Arctic access"
+                    ],
+                    "answer": "Indian Ocean connectivity"
+                },
+                {
+                    "question": "India competes with which country in Africa?",
+                    "options": ["Japan", "China", "Brazil", "Canada"],
+                    "answer": "China"
+                },
+                {
+                    "question": "India’s Africa policy focuses on:",
+                    "options": [
+                    "Colonization",
+                    "Development partnership",
+                    "Isolation",
+                    "Military dominance"
+                    ],
+                    "answer": "Development partnership"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Kenya has strong Indian diaspora\n2. Sudan is important for oil resources\n3. India provides aid to Sudan",
+                    "options": [
+                    "1 only",
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "All of the above"
+                    ],
+                    "answer": "All of the above"
+                },
+                {
+                    "question": "India–Kenya relations are strengthened by:",
+                    "options": [
+                    "Isolation",
+                    "Trade and cultural ties",
+                    "Military conflict",
+                    "No engagement"
+                    ],
+                    "answer": "Trade and cultural ties"
+                },
+                {
+                    "question": "India’s interest in Sudan is mainly:",
+                    "options": [
+                    "Tourism",
+                    "Energy security",
+                    "Sports",
+                    "Culture only"
+                    ],
+                    "answer": "Energy security"
+                },
+                {
+                    "question": "India’s Africa engagement aims to:",
+                    "options": [
+                    "Control resources",
+                    "Promote development and cooperation",
+                    "Avoid relations",
+                    "Reduce trade"
+                    ],
+                    "answer": "Promote development and cooperation"
+                },
+                {
+                    "question": "Africa is important for India due to:",
+                    "options": [
+                    "Isolation",
+                    "Energy and markets",
+                    "No relevance",
+                    "Only culture"
+                    ],
+                    "answer": "Energy and markets"
+                }
+            ]
+        }
+    }
+]

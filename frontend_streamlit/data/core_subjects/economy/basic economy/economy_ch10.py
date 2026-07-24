@@ -1,0 +1,1242 @@
+TOPICS = [
+    {
+        "name": "Banking, Indian Banking System & Commercial Banks",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Banking system is the backbone of financial system",
+                    "Facilitates credit creation, savings, and economic growth",
+                    "Commercial banks play a crucial role in financial intermediation"
+                ]
+            },
+            {
+                "heading": "Indian Banking System – Overview",
+                "points": [
+                    "Well-structured system regulated by RBI",
+                    "Includes public sector, private sector, foreign, and cooperative banks",
+                    "Supports economic development through credit and financial services",
+                    "Evolved through nationalization, liberalization, and reforms"
+                ]
+            },
+            {
+                "heading": "Structure of Indian Banking System",
+                "points": [
+                    "Reserve Bank of India (RBI) – Central bank",
+                    "Commercial Banks – Public and private sector banks",
+                    "Cooperative Banks – Urban and rural",
+                    "Regional Rural Banks (RRBs)",
+                    "Small Finance Banks and Payment Banks"
+                ]
+            },
+            {
+                "heading": "Types of Commercial Banks",
+                "points": [
+                    "Public Sector Banks – Majority owned by government",
+                    "Private Sector Banks – Owned by private entities",
+                    "Foreign Banks – Operate branches in India",
+                    "Regional Rural Banks – Focus on rural areas"
+                ]
+            },
+            {
+                "heading": "Functions of Commercial Banks – Primary Functions",
+                "points": [
+                    "Accept deposits (savings, current, fixed deposits)",
+                    "Provide loans and advances",
+                    "Credit creation through lending",
+                    "Facilitate payment and settlement systems"
+                ]
+            },
+            {
+                "heading": "Functions of Commercial Banks – Secondary Functions",
+                "points": [
+                    "Agency functions – Collection of cheques, dividends, etc.",
+                    "General utility services – Locker facility, remittances",
+                    "Investment services",
+                    "Foreign exchange services"
+                ]
+            },
+            {
+                "heading": "Role of Commercial Banks in Economy",
+                "points": [
+                    "Promote savings and investment",
+                    "Support industrial and agricultural growth",
+                    "Facilitate trade and commerce",
+                    "Enhance financial inclusion",
+                    "Act as transmission channel for monetary policy"
+                ]
+            },
+            {
+                "heading": "Challenges Faced by Commercial Banks in India",
+                "points": [
+                    "Non-Performing Assets (NPAs)",
+                    "Low profitability",
+                    "Capital adequacy issues",
+                    "Frauds and cyber risks",
+                    "Poor governance in some banks",
+                    "Competition from NBFCs and fintech companies"
+                ]
+            },
+            {
+                "heading": "Non-Performing Assets (NPAs)",
+                "points": [
+                    "Loans where interest/principal is overdue for more than 90 days",
+                    "Major issue affecting bank balance sheets",
+                    "Reduces profitability and lending capacity",
+                    "Requires effective resolution mechanisms"
+                ]
+            },
+            {
+                "heading": "Banking Sector Reforms",
+                "points": [
+                    "Bank recapitalization",
+                    "Insolvency and Bankruptcy Code (IBC)",
+                    "Mergers of public sector banks",
+                    "Introduction of Basel norms",
+                    "Digital banking initiatives",
+                    "Strengthening governance and regulation"
+                ]
+            },
+            {
+                "heading": "Financial Inclusion Initiatives",
+                "points": [
+                    "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+                    "Direct Benefit Transfer (DBT)",
+                    "Mobile and digital banking",
+                    "Microfinance institutions",
+                    "Expansion of banking services in rural areas"
+                ]
+            },
+            {
+                "heading": "Role of RBI in Banking",
+                "points": [
+                    "Regulates and supervises banks",
+                    "Controls monetary policy",
+                    "Ensures financial stability",
+                    "Acts as lender of last resort",
+                    "Manages payment systems"
+                ]
+            },
+            {
+                "heading": "Way Forward",
+                "points": [
+                    "Strengthen asset quality",
+                    "Improve governance and accountability",
+                    "Enhance digital banking infrastructure",
+                    "Promote financial inclusion",
+                    "Encourage innovation in banking",
+                    "Strengthen risk management systems"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Central bank of India:",
+                    "options": [
+                    "SBI",
+                    "RBI",
+                    "SEBI",
+                    "NABARD"
+                    ],
+                    "answer": "RBI"
+                },
+                {
+                    "question": "Commercial banks mainly:",
+                    "options": [
+                    "Collect taxes",
+                    "Accept deposits and give loans",
+                    "Make laws",
+                    "Control exports"
+                    ],
+                    "answer": "Accept deposits and give loans"
+                },
+                {
+                    "question": "NPA means:",
+                    "options": [
+                    "New Public Asset",
+                    "Non-Performing Asset",
+                    "National Public Account",
+                    "Net Profit Asset"
+                    ],
+                    "answer": "Non-Performing Asset"
+                },
+                {
+                    "question": "RRB stands for:",
+                    "options": [
+                    "Regional Rural Bank",
+                    "Reserve Rural Bank",
+                    "Rural Reserve Bank",
+                    "Regional Reserve Bank"
+                    ],
+                    "answer": "Regional Rural Bank"
+                },
+                {
+                    "question": "Deposits include:",
+                    "options": [
+                    "Loans",
+                    "Savings",
+                    "Taxes",
+                    "Imports"
+                    ],
+                    "answer": "Savings"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Credit creation means:",
+                    "options": [
+                    "Printing money",
+                    "Creating loans",
+                    "Collecting taxes",
+                    "Saving money"
+                    ],
+                    "answer": "Creating loans"
+                },
+                {
+                    "question": "NPAs affect:",
+                    "options": [
+                    "Profitability",
+                    "Exports",
+                    "Imports",
+                    "Taxes"
+                    ],
+                    "answer": "Profitability"
+                },
+                {
+                    "question": "IBC deals with:",
+                    "options": [
+                    "Taxes",
+                    "Insolvency",
+                    "Exports",
+                    "Imports"
+                    ],
+                    "answer": "Insolvency"
+                },
+                {
+                    "question": "Locker facility is:",
+                    "options": [
+                    "Primary function",
+                    "Secondary function",
+                    "No function",
+                    "Tax function"
+                    ],
+                    "answer": "Secondary function"
+                },
+                {
+                    "question": "RBI is lender of:",
+                    "options": [
+                    "First resort",
+                    "Last resort",
+                    "No resort",
+                    "Private sector"
+                    ],
+                    "answer": "Last resort"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. RBI regulates banks\n2. NPAs reduce profitability\n3. Commercial banks create credit",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1, 2 and 3",
+                    "1 and 3 only"
+                    ],
+                    "answer": "1, 2 and 3"
+                },
+                {
+                    "question": "Main challenge of banks:",
+                    "options": [
+                    "High profits",
+                    "NPAs",
+                    "High exports",
+                    "Low taxes"
+                    ],
+                    "answer": "NPAs"
+                },
+                {
+                    "question": "Financial inclusion aims at:",
+                    "options": [
+                    "Rich people",
+                    "All sections",
+                    "Only urban",
+                    "Only industry"
+                    ],
+                    "answer": "All sections"
+                },
+                {
+                    "question": "Basel norms relate to:",
+                    "options": [
+                    "Tax",
+                    "Capital adequacy",
+                    "Exports",
+                    "Imports"
+                    ],
+                    "answer": "Capital adequacy"
+                },
+                {
+                    "question": "Digital banking improves:",
+                    "options": [
+                    "Delay",
+                    "Efficiency",
+                    "Fraud",
+                    "Cost"
+                    ],
+                    "answer": "Efficiency"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Bank Nationalisation, Banking Reforms & New Banking Structure",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Banking sector reforms in India have evolved from nationalization to liberalization",
+                    "Focus has shifted from state control to financial inclusion and efficiency",
+                    "Introduction of new banking models like Small Finance Banks and Payment Banks"
+                ]
+            },
+            {
+                "heading": "Nationalisation of Banks in India – Overview",
+                "points": [
+                    "Major step to bring banking under government control",
+                    "Aimed at aligning banking with social and developmental goals",
+                    "Happened in two phases: 1969 and 1980",
+                    "Led to dominance of public sector banks"
+                ]
+            },
+            {
+                "heading": "Phases of Nationalisation",
+                "points": [
+                    "1969: 14 major commercial banks nationalized",
+                    "1980: 6 more banks nationalized",
+                    "Government ownership increased significantly",
+                    "Expanded banking services to rural and priority sectors"
+                ]
+            },
+            {
+                "heading": "Objectives of Bank Nationalisation",
+                "points": [
+                    "Promote financial inclusion",
+                    "Expand banking in rural areas",
+                    "Support agriculture and small industries",
+                    "Reduce concentration of wealth",
+                    "Align credit with national priorities"
+                ]
+            },
+            {
+                "heading": "Impact of Nationalisation",
+                "points": [
+                    "Expansion of bank branches in rural areas",
+                    "Increased priority sector lending",
+                    "Improved access to credit",
+                    "Reduced dominance of private capital",
+                    "However, led to inefficiencies and NPAs later"
+                ]
+            },
+            {
+                "heading": "Banking Reforms in India – Overview",
+                "points": [
+                    "Initiated post-1991 economic reforms",
+                    "Shift from state control to market-oriented system",
+                    "Focus on efficiency, competition, and stability",
+                    "Guided by Narasimham Committee recommendations"
+                ]
+            },
+            {
+                "heading": "Key Banking Reforms",
+                "points": [
+                    "Reduction in CRR and SLR",
+                    "Introduction of prudential norms (income recognition, asset classification)",
+                    "Capital adequacy norms (Basel norms)",
+                    "Deregulation of interest rates",
+                    "Entry of private and foreign banks",
+                    "Strengthening of RBI supervision"
+                ]
+            },
+            {
+                "heading": "Recent Banking Reforms",
+                "points": [
+                    "Insolvency and Bankruptcy Code (IBC)",
+                    "Bank recapitalization",
+                    "Mergers of public sector banks",
+                    "Digital banking initiatives",
+                    "Strengthening governance and transparency"
+                ]
+            },
+            {
+                "heading": "New Bank License Criteria – Overview",
+                "points": [
+                    "Issued by RBI for granting licenses to new banks",
+                    "Ensures financial stability and proper governance",
+                    "Encourages competition and innovation in banking sector"
+                ]
+            },
+            {
+                "heading": "Key Criteria for New Bank Licenses",
+                "points": [
+                    "Minimum capital requirement (e.g., ₹500 crore for universal banks)",
+                    "Fit and proper promoters",
+                    "Sound business plan",
+                    "Corporate structure (NOFHC model earlier)",
+                    "Compliance with prudential norms",
+                    "Priority sector lending obligations"
+                ]
+            },
+            {
+                "heading": "Small Finance Banks (SFBs) – Overview",
+                "points": [
+                    "Established to promote financial inclusion",
+                    "Focus on small borrowers, farmers, MSMEs",
+                    "Provide basic banking services",
+                    "Regulated by RBI"
+                ]
+            },
+            {
+                "heading": "Small Finance Banks – Key Features",
+                "points": [
+                    "Minimum capital requirement: ₹200 crore",
+                    "75% of lending to priority sector",
+                    "At least 50% loans up to ₹25 lakh",
+                    "Can accept deposits and provide loans",
+                    "Target underserved sections"
+                ]
+            },
+            {
+                "heading": "Payment Banks – Overview",
+                "points": [
+                    "Specialized banks for small savings and payments",
+                    "Promote financial inclusion and digital payments",
+                    "Do not provide loans",
+                    "Regulated by RBI"
+                ]
+            },
+            {
+                "heading": "Payment Banks – Key Features",
+                "points": [
+                    "Minimum capital requirement: ₹100 crore",
+                    "Accept deposits up to ₹2 lakh per customer",
+                    "Provide payment and remittance services",
+                    "Cannot issue loans or credit cards",
+                    "Invest mainly in government securities"
+                ]
+            },
+            {
+                "heading": "Significance of New Banking Models",
+                "points": [
+                    "Enhance financial inclusion",
+                    "Promote digital economy",
+                    "Improve access to banking services",
+                    "Encourage competition in banking sector",
+                    "Support inclusive growth"
+                ]
+            },
+            {
+                "heading": "Challenges in Banking Reforms",
+                "points": [
+                    "Rising NPAs",
+                    "Governance issues",
+                    "Regulatory challenges",
+                    "Competition from fintech",
+                    "Financial literacy gaps"
+                ]
+            },
+            {
+                "heading": "Way Forward",
+                "points": [
+                    "Strengthen regulatory framework",
+                    "Improve governance in banks",
+                    "Promote digital banking",
+                    "Enhance financial inclusion",
+                    "Encourage innovation and competition",
+                    "Strengthen risk management"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "First phase of bank nationalisation was in:",
+                    "options": [
+                    "1950",
+                    "1969",
+                    "1980",
+                    "1991"
+                    ],
+                    "answer": "1969"
+                },
+                {
+                    "question": "Second phase of nationalisation was in:",
+                    "options": [
+                    "1969",
+                    "1975",
+                    "1980",
+                    "1991"
+                    ],
+                    "answer": "1980"
+                },
+                {
+                    "question": "SFB stands for:",
+                    "options": [
+                    "Small Finance Bank",
+                    "State Finance Bank",
+                    "Special Fund Bank",
+                    "Savings Fund Bank"
+                    ],
+                    "answer": "Small Finance Bank"
+                },
+                {
+                    "question": "Payment banks can:",
+                    "options": [
+                    "Give loans",
+                    "Accept deposits",
+                    "Issue credit cards",
+                    "Invest in stocks"
+                    ],
+                    "answer": "Accept deposits"
+                },
+                {
+                    "question": "Banking reforms started after:",
+                    "options": [
+                    "1969",
+                    "1980",
+                    "1991",
+                    "2000"
+                    ],
+                    "answer": "1991"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Main aim of nationalisation:",
+                    "options": [
+                    "Profit",
+                    "Social control",
+                    "Exports",
+                    "Imports"
+                    ],
+                    "answer": "Social control"
+                },
+                {
+                    "question": "Minimum capital for SFB:",
+                    "options": [
+                    "₹100 crore",
+                    "₹200 crore",
+                    "₹500 crore",
+                    "₹1000 crore"
+                    ],
+                    "answer": "₹200 crore"
+                },
+                {
+                    "question": "Payment banks deposit limit:",
+                    "options": [
+                    "₹1 lakh",
+                    "₹2 lakh",
+                    "₹5 lakh",
+                    "No limit"
+                    ],
+                    "answer": "₹2 lakh"
+                },
+                {
+                    "question": "Narasimham Committee dealt with:",
+                    "options": [
+                    "Tax reforms",
+                    "Banking reforms",
+                    "Trade",
+                    "Agriculture"
+                    ],
+                    "answer": "Banking reforms"
+                },
+                {
+                    "question": "Priority sector includes:",
+                    "options": [
+                    "Luxury sector",
+                    "Agriculture",
+                    "Imports",
+                    "Exports"
+                    ],
+                    "answer": "Agriculture"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Payment banks cannot lend\n2. SFBs focus on small borrowers\n3. Nationalisation improved rural banking",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1, 2 and 3",
+                    "1 and 3 only"
+                    ],
+                    "answer": "1, 2 and 3"
+                },
+                {
+                    "question": "Main drawback of nationalisation:",
+                    "options": [
+                    "Efficiency",
+                    "Inefficiency",
+                    "Growth",
+                    "Inclusion"
+                    ],
+                    "answer": "Inefficiency"
+                },
+                {
+                    "question": "NOFHC model refers to:",
+                    "options": [
+                    "Holding company",
+                    "Bank branch",
+                    "Loan scheme",
+                    "Tax system"
+                    ],
+                    "answer": "Holding company"
+                },
+                {
+                    "question": "SFBs must lend mostly to:",
+                    "options": [
+                    "Corporate sector",
+                    "Priority sector",
+                    "Foreign sector",
+                    "Luxury sector"
+                    ],
+                    "answer": "Priority sector"
+                },
+                {
+                    "question": "Payment banks mainly promote:",
+                    "options": [
+                    "Industrial loans",
+                    "Digital payments",
+                    "Exports",
+                    "Imports"
+                    ],
+                    "answer": "Digital payments"
+                }
+            ]
+        }
+    },
+    {
+        "name": "NBFCs, Banking Terminologies & Financial Inclusion",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "NBFCs and banking concepts are crucial for understanding India’s financial system",
+                    "Financial inclusion ensures equitable access to financial services",
+                    "These topics are interconnected and important for inclusive growth"
+                ]
+            },
+            {
+                "heading": "Non-Banking Financial Company (NBFC) – Meaning",
+                "points": [
+                    "Financial institutions that provide banking-like services without holding a banking license",
+                    "Registered under Companies Act",
+                    "Regulated by RBI",
+                    "Do not accept demand deposits"
+                ]
+            },
+            {
+                "heading": "Functions of NBFCs",
+                "points": [
+                    "Provide loans and advances",
+                    "Asset financing (vehicles, machinery)",
+                    "Investment in securities",
+                    "Microfinance services",
+                    "Support MSMEs and informal sector"
+                ]
+            },
+            {
+                "heading": "Types of NBFCs",
+                "points": [
+                    "Asset Finance Company (AFC)",
+                    "Loan Company (LC)",
+                    "Investment Company (IC)",
+                    "Infrastructure Finance Company (IFC)",
+                    "Microfinance Institutions (NBFC-MFI)",
+                    "Housing Finance Companies (HFC)"
+                ]
+            },
+            {
+                "heading": "NBFC vs Banks",
+                "points": [
+                    "NBFCs cannot accept demand deposits; banks can",
+                    "NBFCs do not form part of payment system",
+                    "NBFCs have less stringent regulations",
+                    "Banks provide full banking services; NBFCs have limited scope"
+                ]
+            },
+            {
+                "heading": "Role of NBFCs in Economy",
+                "points": [
+                    "Provide credit to underserved sectors",
+                    "Enhance financial inclusion",
+                    "Support MSMEs and rural economy",
+                    "Complement banking sector",
+                    "Promote economic growth"
+                ]
+            },
+            {
+                "heading": "Challenges Faced by NBFCs",
+                "points": [
+                    "Liquidity issues",
+                    "Regulatory challenges",
+                    "Asset-liability mismatch",
+                    "Credit risk",
+                    "Dependence on market borrowings"
+                ]
+            },
+            {
+                "heading": "Terminologies/Concepts in Banking",
+                "points": [
+                    "CRR (Cash Reserve Ratio)",
+                    "SLR (Statutory Liquidity Ratio)",
+                    "Repo Rate & Reverse Repo Rate",
+                    "Bank Rate",
+                    "Base Rate / MCLR / External Benchmark Lending Rate",
+                    "Priority Sector Lending (PSL)",
+                    "Non-Performing Assets (NPAs)",
+                    "Capital Adequacy Ratio (CAR)"
+                ]
+            },
+            {
+                "heading": "Important Banking Concepts Explained",
+                "points": [
+                    "CRR – Cash kept by banks with RBI",
+                    "SLR – Liquid assets maintained by banks",
+                    "Repo Rate – Rate at which RBI lends to banks",
+                    "MCLR – Minimum rate below which banks cannot lend",
+                    "NPA – Loan overdue for more than 90 days",
+                    "CAR – Measure of bank’s financial strength"
+                ]
+            },
+            {
+                "heading": "Financial Inclusion – Meaning",
+                "points": [
+                    "Ensuring access to financial services for all sections of society",
+                    "Includes banking, credit, insurance, and pension services",
+                    "Focus on weaker and vulnerable sections",
+                    "Promotes inclusive growth"
+                ]
+            },
+            {
+                "heading": "Objectives of Financial Inclusion",
+                "points": [
+                    "Provide banking access to all",
+                    "Reduce poverty and inequality",
+                    "Promote savings and investment",
+                    "Empower marginalized groups",
+                    "Support economic development"
+                ]
+            },
+            {
+                "heading": "Financial Inclusion Initiatives in India",
+                "points": [
+                    "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+                    "Direct Benefit Transfer (DBT)",
+                    "Aadhaar-enabled payment system",
+                    "Mobile banking and digital payments",
+                    "Microfinance institutions",
+                    "Business Correspondent (BC) model"
+                ]
+            },
+            {
+                "heading": "Role of NBFCs in Financial Inclusion",
+                "points": [
+                    "Provide credit to unbanked population",
+                    "Support microfinance and rural lending",
+                    "Offer flexible loan products",
+                    "Reach remote and underserved areas",
+                    "Complement banks in inclusion efforts"
+                ]
+            },
+            {
+                "heading": "Challenges in Financial Inclusion",
+                "points": [
+                    "Low financial literacy",
+                    "Lack of infrastructure in rural areas",
+                    "Digital divide",
+                    "Trust issues with formal banking",
+                    "Limited access to credit"
+                ]
+            },
+            {
+                "heading": "Way Forward",
+                "points": [
+                    "Enhance digital infrastructure",
+                    "Promote financial literacy",
+                    "Strengthen NBFC regulation",
+                    "Expand banking outreach",
+                    "Encourage fintech innovations",
+                    "Improve credit access for MSMEs"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "NBFC stands for:",
+                    "options": [
+                    "Non-Banking Financial Company",
+                    "National Bank Finance Corporation",
+                    "New Banking Finance Company",
+                    "Non-Bank Funding Company"
+                    ],
+                    "answer": "Non-Banking Financial Company"
+                },
+                {
+                    "question": "NBFCs are regulated by:",
+                    "options": [
+                    "SEBI",
+                    "RBI",
+                    "Finance Ministry",
+                    "NITI Aayog"
+                    ],
+                    "answer": "RBI"
+                },
+                {
+                    "question": "Financial inclusion means:",
+                    "options": [
+                    "Only banking",
+                    "Access to financial services for all",
+                    "Only loans",
+                    "Only savings"
+                    ],
+                    "answer": "Access to financial services for all"
+                },
+                {
+                    "question": "CRR is maintained with:",
+                    "options": [
+                    "Government",
+                    "RBI",
+                    "Banks",
+                    "Public"
+                    ],
+                    "answer": "RBI"
+                },
+                {
+                    "question": "NPA means:",
+                    "options": [
+                    "New Public Asset",
+                    "Non-Performing Asset",
+                    "Net Public Account",
+                    "National Profit Asset"
+                    ],
+                    "answer": "Non-Performing Asset"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "NBFCs cannot:",
+                    "options": [
+                    "Give loans",
+                    "Accept demand deposits",
+                    "Invest",
+                    "Support MSMEs"
+                    ],
+                    "answer": "Accept demand deposits"
+                },
+                {
+                    "question": "PMJDY aims at:",
+                    "options": [
+                    "Exports",
+                    "Financial inclusion",
+                    "Imports",
+                    "Taxes"
+                    ],
+                    "answer": "Financial inclusion"
+                },
+                {
+                    "question": "Repo rate is:",
+                    "options": [
+                    "Tax rate",
+                    "Lending rate of RBI",
+                    "Deposit rate",
+                    "Inflation rate"
+                    ],
+                    "answer": "Lending rate of RBI"
+                },
+                {
+                    "question": "CAR indicates:",
+                    "options": [
+                    "Profit",
+                    "Capital strength",
+                    "Tax",
+                    "Loan"
+                    ],
+                    "answer": "Capital strength"
+                },
+                {
+                    "question": "NBFC-MFI deals with:",
+                    "options": [
+                    "Big corporates",
+                    "Microfinance",
+                    "Exports",
+                    "Imports"
+                    ],
+                    "answer": "Microfinance"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. NBFCs support MSMEs\n2. Financial inclusion reduces inequality\n3. NBFCs accept demand deposits",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Main issue with NBFCs:",
+                    "options": [
+                    "Profit",
+                    "Liquidity",
+                    "Growth",
+                    "Exports"
+                    ],
+                    "answer": "Liquidity"
+                },
+                {
+                    "question": "MCLR is:",
+                    "options": [
+                    "Maximum rate",
+                    "Minimum lending rate",
+                    "Tax rate",
+                    "Deposit rate"
+                    ],
+                    "answer": "Minimum lending rate"
+                },
+                {
+                    "question": "Financial inclusion improves:",
+                    "options": [
+                    "Inequality",
+                    "Equity",
+                    "Inflation",
+                    "Deficit"
+                    ],
+                    "answer": "Equity"
+                },
+                {
+                    "question": "BC model stands for:",
+                    "options": [
+                    "Bank Credit",
+                    "Business Correspondent",
+                    "Bank Company",
+                    "Budget Control"
+                    ],
+                    "answer": "Business Correspondent"
+                }
+            ]
+        }
+    },
+    {
+        "name": "NPAs & Important Banking Bills in India",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "NPAs are a major challenge affecting the banking sector in India",
+                    "Banking-related bills aim to strengthen regulation, resolution, and governance",
+                    "Both are crucial for financial stability and economic growth"
+                ]
+            },
+            {
+                "heading": "Non-Performing Assets (NPAs) – Meaning",
+                "points": [
+                    "Loans where interest or principal remains overdue for more than 90 days",
+                    "Indicates failure of borrower to repay loan",
+                    "Major concern for banks’ financial health",
+                    "Classified based on duration of default"
+                ]
+            },
+            {
+                "heading": "Classification of NPAs",
+                "points": [
+                    "Substandard Assets – NPA for less than 12 months",
+                    "Doubtful Assets – NPA for more than 12 months",
+                    "Loss Assets – Considered uncollectible",
+                    "Based on asset quality and recovery chances"
+                ]
+            },
+            {
+                "heading": "Causes of NPAs",
+                "points": [
+                    "Poor credit appraisal",
+                    "Economic slowdown",
+                    "Wilful default by borrowers",
+                    "Project delays and cost overruns",
+                    "Policy and regulatory issues",
+                    "Global economic factors"
+                ]
+            },
+            {
+                "heading": "Impact of NPAs",
+                "points": [
+                    "Reduces bank profitability",
+                    "Affects lending capacity",
+                    "Increases cost of borrowing",
+                    "Weakens banking system",
+                    "Impacts economic growth"
+                ]
+            },
+            {
+                "heading": "Measures to Address NPAs",
+                "points": [
+                    "Insolvency and Bankruptcy Code (IBC), 2016",
+                    "SARFAESI Act, 2002",
+                    "Asset Reconstruction Companies (ARCs)",
+                    "Bank recapitalization",
+                    "Strengthening credit monitoring",
+                    "Prompt Corrective Action (PCA)"
+                ]
+            },
+            {
+                "heading": "Recent Initiatives",
+                "points": [
+                    "National Asset Reconstruction Company Limited (Bad Bank)",
+                    "Mission Indradhanush",
+                    "EASE reforms",
+                    "Digital tracking of loans",
+                    "Strengthening governance in banks"
+                ]
+            },
+            {
+                "heading": "Banking Bills – Overview",
+                "points": [
+                    "Legislative measures to regulate banking sector",
+                    "Aim to improve efficiency, transparency, and stability",
+                    "Address issues like NPAs, governance, and regulation",
+                    "Important for financial sector reforms"
+                ]
+            },
+            {
+                "heading": "Important Banking Bills/Acts in India",
+                "points": [
+                    "Banking Regulation Act, 1949 – Governs banking operations",
+                    "Reserve Bank of India Act, 1934 – Establishes RBI",
+                    "SARFAESI Act, 2002 – Recovery of bad loans",
+                    "Insolvency and Bankruptcy Code (IBC), 2016 – Time-bound resolution of insolvency",
+                    "Deposit Insurance and Credit Guarantee Corporation (DICGC) Act, 1961 – Insurance of deposits",
+                    "Banking Laws (Amendment) Act, 2012 – Strengthens banking regulation"
+                ]
+            },
+            {
+                "heading": "SARFAESI Act, 2002",
+                "points": [
+                    "Allows banks to recover NPAs without court intervention",
+                    "Enables seizure and sale of secured assets",
+                    "Speeds up recovery process",
+                    "Strengthens creditors’ rights"
+                ]
+            },
+            {
+                "heading": "Insolvency and Bankruptcy Code (IBC), 2016",
+                "points": [
+                    "Provides time-bound resolution of insolvency cases",
+                    "Applies to companies, individuals, and partnerships",
+                    "Handled by National Company Law Tribunal (NCLT)",
+                    "Improves recovery rates and credit discipline"
+                ]
+            },
+            {
+                "heading": "DICGC Act, 1961",
+                "points": [
+                    "Provides insurance cover to bank deposits",
+                    "Currently insures up to ₹5 lakh per depositor",
+                    "Enhances depositor confidence",
+                    "Managed by RBI subsidiary"
+                ]
+            },
+            {
+                "heading": "Significance of Banking Bills",
+                "points": [
+                    "Strengthen banking sector",
+                    "Improve recovery of bad loans",
+                    "Enhance financial stability",
+                    "Protect depositors’ interests",
+                    "Promote transparency and accountability"
+                ]
+            },
+            {
+                "heading": "Challenges in NPA Resolution",
+                "points": [
+                    "Delay in legal processes",
+                    "Low recovery rates in some cases",
+                    "Haircuts in loan recovery",
+                    "Operational inefficiencies",
+                    "Coordination issues among stakeholders"
+                ]
+            },
+            {
+                "heading": "Way Forward",
+                "points": [
+                    "Strengthen credit appraisal systems",
+                    "Improve governance in banks",
+                    "Speed up judicial processes",
+                    "Enhance monitoring of loans",
+                    "Promote responsible lending",
+                    "Strengthen regulatory framework"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "NPA means:",
+                    "options": [
+                    "New Public Asset",
+                    "Non-Performing Asset",
+                    "National Public Account",
+                    "Net Profit Asset"
+                    ],
+                    "answer": "Non-Performing Asset"
+                },
+                {
+                    "question": "NPA is when loan overdue exceeds:",
+                    "options": [
+                    "30 days",
+                    "60 days",
+                    "90 days",
+                    "120 days"
+                    ],
+                    "answer": "90 days"
+                },
+                {
+                    "question": "SARFAESI Act was enacted in:",
+                    "options": [
+                    "1991",
+                    "2002",
+                    "2010",
+                    "2016"
+                    ],
+                    "answer": "2002"
+                },
+                {
+                    "question": "IBC was introduced in:",
+                    "options": [
+                    "2002",
+                    "2010",
+                    "2016",
+                    "2020"
+                    ],
+                    "answer": "2016"
+                },
+                {
+                    "question": "Deposit insurance limit is:",
+                    "options": [
+                    "₹1 lakh",
+                    "₹2 lakh",
+                    "₹5 lakh",
+                    "₹10 lakh"
+                    ],
+                    "answer": "₹5 lakh"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Substandard asset duration:",
+                    "options": [
+                    "< 12 months",
+                    "> 12 months",
+                    "> 2 years",
+                    "> 5 years"
+                    ],
+                    "answer": "< 12 months"
+                },
+                {
+                    "question": "IBC is handled by:",
+                    "options": [
+                    "RBI",
+                    "NCLT",
+                    "SEBI",
+                    "Finance Ministry"
+                    ],
+                    "answer": "NCLT"
+                },
+                {
+                    "question": "SARFAESI allows:",
+                    "options": [
+                    "Tax collection",
+                    "Loan recovery",
+                    "Export promotion",
+                    "Import control"
+                    ],
+                    "answer": "Loan recovery"
+                },
+                {
+                    "question": "DICGC protects:",
+                    "options": [
+                    "Banks",
+                    "Depositors",
+                    "Government",
+                    "Companies"
+                    ],
+                    "answer": "Depositors"
+                },
+                {
+                    "question": "Loss asset means:",
+                    "options": [
+                    "Recoverable",
+                    "Unrecoverable",
+                    "New loan",
+                    "Old loan"
+                    ],
+                    "answer": "Unrecoverable"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. NPAs reduce bank profitability\n2. SARFAESI allows asset seizure\n3. IBC ensures time-bound resolution",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1, 2 and 3",
+                    "1 and 3 only"
+                    ],
+                    "answer": "1, 2 and 3"
+                },
+                {
+                    "question": "Main cause of NPAs:",
+                    "options": [
+                    "Growth",
+                    "Default",
+                    "Savings",
+                    "Exports"
+                    ],
+                    "answer": "Default"
+                },
+                {
+                    "question": "Bad bank refers to:",
+                    "options": [
+                    "Good loans",
+                    "Stressed assets management",
+                    "Tax collection",
+                    "Exports"
+                    ],
+                    "answer": "Stressed assets management"
+                },
+                {
+                    "question": "Haircut means:",
+                    "options": [
+                    "Full recovery",
+                    "Partial recovery",
+                    "No recovery",
+                    "New loan"
+                    ],
+                    "answer": "Partial recovery"
+                },
+                {
+                    "question": "PCA framework is by:",
+                    "options": [
+                    "SEBI",
+                    "RBI",
+                    "NITI Aayog",
+                    "Finance Ministry"
+                    ],
+                    "answer": "RBI"
+                }
+            ]
+        }
+    }
+]

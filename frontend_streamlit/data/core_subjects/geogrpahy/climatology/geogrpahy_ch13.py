@@ -1,0 +1,816 @@
+TOPICS = [
+    {
+        "name": "Water in the Atmosphere",
+        "notes": [
+            {
+                "heading": "Water in the Atmosphere – Overview",
+                "points": [
+                    "Water exists in atmosphere mainly as vapour, liquid, and ice",
+                    "It plays a key role in weather and climate",
+                    "Responsible for cloud formation and precipitation",
+                    "Transfers latent heat in the atmosphere",
+                    "Controls humidity and rainfall patterns"
+                ]
+            },
+            {
+                "heading": "Water Vapour – Definition",
+                "points": [
+                    "Invisible gaseous form of water present in air",
+                    "Variable component of atmosphere (0–4%)",
+                    "Highest near oceans, lowest in deserts and poles",
+                    "Strongly influences weather conditions",
+                    "Source of clouds and precipitation"
+                ]
+            },
+            {
+                "heading": "Factors Controlling Water Vapour",
+                "points": [
+                    "Temperature (higher temperature → more vapour)",
+                    "Availability of water bodies",
+                    "Wind movement",
+                    "Vegetation cover",
+                    "Altitude (decreases with height)"
+                ]
+            },
+            {
+                "heading": "Humidity – Concept",
+                "points": [
+                    "Amount of water vapour present in air",
+                    "Measured as absolute, relative, and specific humidity",
+                    "Relative humidity is most important for weather",
+                    "100% RH → air is saturated",
+                    "Important for cloud formation"
+                ]
+            },
+            {
+                "heading": "Condensation – Process",
+                "points": [
+                    "Conversion of water vapour into liquid water",
+                    "Occurs when air is cooled to dew point",
+                    "Needs condensation nuclei (dust, smoke)",
+                    "Forms clouds, fog, dew, frost",
+                    "Releases latent heat"
+                ]
+            },
+            {
+                "heading": "Precipitation – Definition",
+                "points": [
+                    "Any form of water falling from atmosphere to Earth",
+                    "Includes rain, snow, sleet, hail",
+                    "Occurs when cloud droplets become heavy",
+                    "Essential part of hydrological cycle",
+                    "Main source of fresh water"
+                ]
+            },
+            {
+                "heading": "Conditions for Precipitation",
+                "points": [
+                    "Cooling of moist air to saturation",
+                    "Presence of condensation nuclei",
+                    "Growth of cloud droplets/ice crystals",
+                    "Upward movement of air",
+                    "Sufficient moisture in atmosphere"
+                ]
+            },
+            {
+                "heading": "Types of Precipitation",
+                "points": [
+                    "Convectional rainfall – due to surface heating",
+                    "Orographic rainfall – due to mountains",
+                    "Cyclonic (frontal) rainfall – due to air mass interaction",
+                    "Each type depends on lifting mechanism",
+                    "Different regions experience different types"
+                ]
+            },
+            {
+                "heading": "Convectional Rainfall",
+                "points": [
+                    "Strong heating of surface causes air to rise",
+                    "Cooling leads to condensation",
+                    "Short duration but heavy intensity",
+                    "Common in equatorial regions",
+                    "Often accompanied by thunderstorms"
+                ]
+            },
+            {
+                "heading": "Orographic Rainfall",
+                "points": [
+                    "Moist air is forced to rise over mountains",
+                    "Rain occurs on windward side",
+                    "Leeward side remains dry (rain shadow area)",
+                    "Example: Western Ghats in India",
+                    "Important for monsoon rainfall distribution"
+                ]
+            },
+            {
+                "heading": "Cyclonic (Frontal) Rainfall",
+                "points": [
+                    "Occurs when warm and cold air masses meet",
+                    "Warm air rises over cold air",
+                    "Gentle but widespread rainfall",
+                    "Common in temperate regions",
+                    "Associated with mid-latitude cyclones"
+                ]
+            },
+            {
+                "heading": "Importance of Water Vapour & Precipitation",
+                "points": [
+                    "Controls weather and climate systems",
+                    "Drives hydrological cycle",
+                    "Redistributes heat through latent heat release",
+                    "Supports agriculture and ecosystems",
+                    "Influences monsoon systems"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Water vapour is:",
+                    "options": [
+                    "Solid water",
+                    "Invisible gas",
+                    "Liquid water",
+                    "Ice crystals"
+                    ],
+                    "answer": "Invisible gas"
+                },
+                {
+                    "question": "Precipitation means:",
+                    "options": [
+                    "Evaporation of water",
+                    "Falling of water from atmosphere",
+                    "Formation of clouds",
+                    "Heating of air"
+                    ],
+                    "answer": "Falling of water from atmosphere"
+                },
+                {
+                    "question": "Relative humidity of 100% means:",
+                    "options": [
+                    "Dry air",
+                    "Saturated air",
+                    "Cold air",
+                    "No water vapour"
+                    ],
+                    "answer": "Saturated air"
+                },
+                {
+                    "question": "Condensation is formation of:",
+                    "options": [
+                    "Water vapour",
+                    "Liquid water from vapour",
+                    "Heat energy",
+                    "Wind"
+                    ],
+                    "answer": "Liquid water from vapour"
+                },
+                {
+                    "question": "Main source of atmospheric moisture is:",
+                    "options": [
+                    "Rocks",
+                    "Oceans",
+                    "Mountains",
+                    "Volcanoes"
+                    ],
+                    "answer": "Oceans"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Convectional rainfall is common in:",
+                    "options": [
+                    "Deserts",
+                    "Equatorial regions",
+                    "Poles",
+                    "Mountains only"
+                    ],
+                    "answer": "Equatorial regions"
+                },
+                {
+                    "question": "Orographic rainfall occurs due to:",
+                    "options": [
+                    "Earthquakes",
+                    "Mountain barriers",
+                    "Ocean currents",
+                    "Jet streams"
+                    ],
+                    "answer": "Mountain barriers"
+                },
+                {
+                    "question": "Rain shadow region is found on:",
+                    "options": [
+                    "Windward side",
+                    "Leeward side",
+                    "Sea side",
+                    "River side"
+                    ],
+                    "answer": "Leeward side"
+                },
+                {
+                    "question": "Cyclonic rainfall is associated with:",
+                    "options": [
+                    "Air mass interaction",
+                    "Solar radiation",
+                    "Volcanoes",
+                    "Tides"
+                    ],
+                    "answer": "Air mass interaction"
+                },
+                {
+                    "question": "Condensation requires:",
+                    "options": [
+                    "No moisture",
+                    "Cooling of air",
+                    "Strong wind only",
+                    "Earth rotation"
+                    ],
+                    "answer": "Cooling of air"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Water vapour varies in atmosphere\n2. Condensation releases latent heat\n3. Precipitation is part of hydrological cycle",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "All"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Convectional rainfall – equator",
+                    "Orographic rainfall – plains only",
+                    "Cyclonic rainfall – deserts",
+                    "Rain shadow – windward side"
+                    ],
+                    "answer": "Convectional rainfall – equator"
+                },
+                {
+                    "question": "Condensation nuclei are:",
+                    "options": [
+                    "Water droplets",
+                    "Dust particles",
+                    "Wind particles",
+                    "Ice sheets"
+                    ],
+                    "answer": "Dust particles"
+                },
+                {
+                    "question": "Precipitation occurs when:",
+                    "options": [
+                    "Cloud droplets become heavy",
+                    "Air becomes dry",
+                    "Wind stops",
+                    "Temperature increases"
+                    ],
+                    "answer": "Cloud droplets become heavy"
+                },
+                {
+                    "question": "Water vapour content is highest in:",
+                    "options": [
+                    "Deserts",
+                    "Oceans",
+                    "Poles",
+                    "Mountains"
+                    ],
+                    "answer": "Oceans"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Humidity, Saturation, Evaporation & Condensation",
+        "notes": [
+            {
+                "heading": "Humidity – Definition",
+                "points": [
+                    "Humidity is the amount of water vapour present in the atmosphere",
+                    "It varies with temperature, location, and season",
+                    "Higher near oceans, lower in deserts",
+                    "Important for cloud formation and rainfall",
+                    "Key factor in weather and climate systems"
+                ]
+            },
+            {
+                "heading": "Types of Humidity",
+                "points": [
+                    "Absolute Humidity",
+                    "Relative Humidity",
+                    "Specific Humidity",
+                    "Relative humidity is most important for weather analysis",
+                    "Humidity decreases with altitude"
+                ]
+            },
+            {
+                "heading": "Absolute Humidity",
+                "points": [
+                    "Mass of water vapour present in a unit volume of air",
+                    "Expressed in grams per cubic meter",
+                    "Changes with temperature and volume",
+                    "Higher in warm air, lower in cold air",
+                    "Does not indicate saturation level"
+                ]
+            },
+            {
+                "heading": "Relative Humidity (RH)",
+                "points": [
+                    "Ratio of actual water vapour to maximum possible water vapour",
+                    "Expressed in percentage (%)",
+                    "RH = (Actual vapour / Maximum vapour capacity) × 100",
+                    "100% RH means air is fully saturated",
+                    "Important for cloud formation and precipitation"
+                ]
+            },
+            {
+                "heading": "Saturation of Air",
+                "points": [
+                    "Condition when air holds maximum possible water vapour",
+                    "No more evaporation can occur",
+                    "Relative humidity = 100%",
+                    "Air becomes unstable at saturation",
+                    "Leads to condensation and cloud formation"
+                ]
+            },
+            {
+                "heading": "Dew Point – Definition",
+                "points": [
+                    "Temperature at which air becomes saturated",
+                    "Below dew point → condensation begins",
+                    "Higher dew point = more moisture in air",
+                    "Important for fog, dew, and cloud formation",
+                    "Indicator of humidity level in atmosphere"
+                ]
+            },
+            {
+                "heading": "Evaporation – Definition",
+                "points": [
+                    "Process of liquid water changing into water vapour",
+                    "Occurs at all temperatures",
+                    "Faster in warm, dry, windy conditions",
+                    "Takes place from oceans, lakes, soil, vegetation",
+                    "Absorbs heat energy (cooling effect)"
+                ]
+            },
+            {
+                "heading": "Factors Affecting Evaporation",
+                "points": [
+                    "Temperature (higher → faster evaporation)",
+                    "Wind speed (removes moist air)",
+                    "Surface area (larger → more evaporation)",
+                    "Humidity (low humidity → faster evaporation)",
+                    "Atmospheric pressure (lower → faster evaporation)"
+                ]
+            },
+            {
+                "heading": "Condensation – Definition",
+                "points": [
+                    "Process of water vapour turning into liquid water",
+                    "Occurs when air cools to dew point",
+                    "Requires condensation nuclei (dust, smoke)",
+                    "Releases latent heat into atmosphere",
+                    "Forms clouds, fog, dew, frost"
+                ]
+            },
+            {
+                "heading": "Conditions for Condensation",
+                "points": [
+                    "Cooling of moist air",
+                    "Presence of condensation nuclei",
+                    "High relative humidity",
+                    "Reaching dew point temperature",
+                    "Stable atmospheric conditions"
+                ]
+            },
+            {
+                "heading": "Evaporation vs Condensation",
+                "points": [
+                    "Evaporation: liquid → gas (absorbs heat)",
+                    "Condensation: gas → liquid (releases heat)",
+                    "Evaporation causes cooling effect",
+                    "Condensation causes warming effect",
+                    "Both are key to energy transfer in atmosphere"
+                ]
+            },
+            {
+                "heading": "Importance in Weather Systems",
+                "points": [
+                    "Controls cloud formation and rainfall",
+                    "Regulates humidity and temperature balance",
+                    "Drives hydrological cycle",
+                    "Influences monsoon development",
+                    "Critical for cyclone energy formation"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Humidity refers to:",
+                    "options": [
+                    "Air pressure",
+                    "Water vapour in air",
+                    "Wind speed",
+                    "Temperature only"
+                    ],
+                    "answer": "Water vapour in air"
+                },
+                {
+                    "question": "Relative humidity is expressed in:",
+                    "options": [
+                    "Grams",
+                    "Percentage",
+                    "Litres",
+                    "Kelvin"
+                    ],
+                    "answer": "Percentage"
+                },
+                {
+                    "question": "Saturated air has RH of:",
+                    "options": [
+                    "0%",
+                    "50%",
+                    "100%",
+                    "200%"
+                    ],
+                    "answer": "100%"
+                },
+                {
+                    "question": "Evaporation is:",
+                    "options": [
+                    "Gas to liquid",
+                    "Liquid to gas",
+                    "Solid to liquid",
+                    "Gas to solid"
+                    ],
+                    "answer": "Liquid to gas"
+                },
+                {
+                    "question": "Condensation requires:",
+                    "options": [
+                    "Heating",
+                    "Cooling",
+                    "Strong wind",
+                    "High pressure only"
+                    ],
+                    "answer": "Cooling"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Dew point is the temperature at which:",
+                    "options": [
+                    "Air becomes dry",
+                    "Air becomes saturated",
+                    "Wind stops",
+                    "Pressure increases"
+                    ],
+                    "answer": "Air becomes saturated"
+                },
+                {
+                    "question": "Evaporation is faster in:",
+                    "options": [
+                    "Cold, humid air",
+                    "Warm, dry air",
+                    "Still air only",
+                    "High pressure only"
+                    ],
+                    "answer": "Warm, dry air"
+                },
+                {
+                    "question": "Condensation releases:",
+                    "options": [
+                    "Cold energy",
+                    "Latent heat",
+                    "No energy",
+                    "Solar energy"
+                    ],
+                    "answer": "Latent heat"
+                },
+                {
+                    "question": "Relative humidity depends on:",
+                    "options": [
+                    "Only temperature",
+                    "Actual and maximum moisture",
+                    "Wind only",
+                    "Pressure only"
+                    ],
+                    "answer": "Actual and maximum moisture"
+                },
+                {
+                    "question": "Condensation nuclei are:",
+                    "options": [
+                    "Water drops",
+                    "Dust particles",
+                    "Wind currents",
+                    "Ocean waves"
+                    ],
+                    "answer": "Dust particles"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Evaporation absorbs heat\n2. Condensation releases heat\n3. Dew point indicates saturation",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "All"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Evaporation – cooling effect",
+                    "Condensation – cooling effect",
+                    "Dew point – dry air condition",
+                    "Humidity – wind speed"
+                    ],
+                    "answer": "Evaporation – cooling effect"
+                },
+                {
+                    "question": "Absolute humidity is measured in:",
+                    "options": [
+                    "Percentage",
+                    "g/m³",
+                    "km/h",
+                    "hPa"
+                    ],
+                    "answer": "g/m³"
+                },
+                {
+                    "question": "100% relative humidity means:",
+                    "options": [
+                    "Dry air",
+                    "Saturated air",
+                    "No water vapour",
+                    "High wind"
+                    ],
+                    "answer": "Saturated air"
+                },
+                {
+                    "question": "Evaporation increases with:",
+                    "options": [
+                    "Low temperature",
+                    "High humidity",
+                    "High wind speed",
+                    "High pressure"
+                    ],
+                    "answer": "High wind speed"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Dew, Frost, Fog and Mist",
+        "notes": [
+            {
+                "heading": "Dew – Definition",
+                "points": [
+                    "Dew is water droplets formed on cool surfaces near the ground",
+                    "Formed due to condensation of water vapour",
+                    "Occurs when surface temperature falls to dew point",
+                    "Usually seen on grass, leaves, and cars in early morning",
+                    "Common during clear nights with calm winds"
+                ]
+            },
+            {
+                "heading": "Formation of Dew",
+                "points": [
+                    "Night cooling of Earth's surface (radiation cooling)",
+                    "Air near surface becomes saturated",
+                    "Water vapour condenses on cool objects",
+                    "Requires clear sky and high humidity",
+                    "Light winds favor dew formation"
+                ]
+            },
+            {
+                "heading": "Frost – Definition",
+                "points": [
+                    "Frost is frozen dew in the form of ice crystals",
+                    "Forms when temperature falls below 0°C",
+                    "Direct deposition of water vapour into ice (sublimation)",
+                    "Occurs on cold surfaces like grass and rooftops",
+                    "Common in temperate and polar regions"
+                ]
+            },
+            {
+                "heading": "Conditions for Frost Formation",
+                "points": [
+                    "Very low temperature (below freezing point)",
+                    "Clear sky and strong night radiation cooling",
+                    "Calm wind conditions",
+                    "High relative humidity near surface",
+                    "Cold air pooling in valleys enhances frost"
+                ]
+            },
+            {
+                "heading": "Fog – Definition",
+                "points": [
+                    "Fog is a cloud formed at ground level",
+                    "Made of tiny water droplets suspended in air",
+                    "Reduces visibility to less than 1 km",
+                    "Forms when air near surface becomes saturated",
+                    "Common in winter mornings"
+                ]
+            },
+            {
+                "heading": "Types of Fog",
+                "points": [
+                    "Radiation Fog – cooling of ground at night",
+                    "Advection Fog – warm moist air over cold surface",
+                    "Valley Fog – cold air trapped in valleys",
+                    "Steam Fog – cold air over warm water",
+                    "Frontal Fog – associated with weather fronts"
+                ]
+            },
+            {
+                "heading": "Mist – Definition",
+                "points": [
+                    "Mist is similar to fog but less dense",
+                    "Visibility is more than 1 km",
+                    "Contains smaller water droplets",
+                    "Occurs in humid conditions",
+                    "Common in coastal and forest areas"
+                ]
+            },
+            {
+                "heading": "Difference between Fog and Mist",
+                "points": [
+                    "Fog → very low visibility (<1 km)",
+                    "Mist → higher visibility (>1 km)",
+                    "Fog is denser than mist",
+                    "Fog is more dangerous for transport",
+                    "Both are condensation near ground level"
+                ]
+            },
+            {
+                "heading": "Common Conditions for Dew, Frost, Fog, Mist",
+                "points": [
+                    "High humidity in lower atmosphere",
+                    "Cooling of air to dew point",
+                    "Calm or light winds",
+                    "Clear sky (for radiation cooling)",
+                    "Stable atmospheric conditions"
+                ]
+            },
+            {
+                "heading": "Importance in Weather Systems",
+                "points": [
+                    "Indicate moisture content in atmosphere",
+                    "Affect visibility and transportation",
+                    "Important for agriculture (dew beneficial, frost harmful)",
+                    "Fog influences aviation and road safety",
+                    "Reflect local climate conditions"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Dew forms when temperature reaches:",
+                    "options": [
+                    "Boiling point",
+                    "Dew point",
+                    "Freezing point",
+                    "Room temperature"
+                    ],
+                    "answer": "Dew point"
+                },
+                {
+                    "question": "Frost is:",
+                    "options": [
+                    "Liquid water",
+                    "Frozen dew",
+                    "Cloud in sky",
+                    "Wind movement"
+                    ],
+                    "answer": "Frozen dew"
+                },
+                {
+                    "question": "Fog is formed at:",
+                    "options": [
+                    "High altitude",
+                    "Ground level",
+                    "Ocean depth",
+                    "Upper atmosphere"
+                    ],
+                    "answer": "Ground level"
+                },
+                {
+                    "question": "Mist is less dense than:",
+                    "options": [
+                    "Cloud",
+                    "Fog",
+                    "Rain",
+                    "Snow"
+                    ],
+                    "answer": "Fog"
+                },
+                {
+                    "question": "Frost occurs below:",
+                    "options": [
+                    "100°C",
+                    "50°C",
+                    "0°C",
+                    "10°C"
+                    ],
+                    "answer": "0°C"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Radiation fog forms due to:",
+                    "options": [
+                    "Strong wind",
+                    "Night cooling of surface",
+                    "Ocean currents",
+                    "Earthquakes"
+                    ],
+                    "answer": "Night cooling of surface"
+                },
+                {
+                    "question": "Advection fog occurs when:",
+                    "options": [
+                    "Cold air over warm surface",
+                    "Warm air over cold surface",
+                    "Dry air over desert",
+                    "Wind stops completely"
+                    ],
+                    "answer": "Warm air over cold surface"
+                },
+                {
+                    "question": "Visibility in fog is:",
+                    "options": [
+                    "More than 5 km",
+                    "Less than 1 km",
+                    "More than 10 km",
+                    "Unlimited"
+                    ],
+                    "answer": "Less than 1 km"
+                },
+                {
+                    "question": "Mist occurs in:",
+                    "options": [
+                    "Dry deserts",
+                    "Humid regions",
+                    "Polar ice sheets only",
+                    "Volcanoes"
+                    ],
+                    "answer": "Humid regions"
+                },
+                {
+                    "question": "Frost formation is common in:",
+                    "options": [
+                    "Tropics",
+                    "Temperate regions",
+                    "Equator",
+                    "Oceans only"
+                    ],
+                    "answer": "Temperate regions"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Dew forms due to condensation\n2. Frost forms below 0°C\n3. Fog reduces visibility",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "All"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Fog – visibility < 1 km",
+                    "Mist – visibility < 1 km",
+                    "Dew – ice crystals in air",
+                    "Frost – liquid water droplets"
+                    ],
+                    "answer": "Fog – visibility < 1 km"
+                },
+                {
+                    "question": "Radiation cooling occurs during:",
+                    "options": [
+                    "Daytime with clouds",
+                    "Night with clear sky",
+                    "Storms",
+                    "Earthquakes"
+                    ],
+                    "answer": "Night with clear sky"
+                },
+                {
+                    "question": "Steam fog forms when:",
+                    "options": [
+                    "Cold air over warm water",
+                    "Warm air over cold water",
+                    "Dry air over land",
+                    "No humidity exists"
+                    ],
+                    "answer": "Cold air over warm water"
+                },
+                {
+                    "question": "Fog is dangerous for:",
+                    "options": [
+                    "Agriculture",
+                    "Aviation and transport",
+                    "Soil formation",
+                    "Plate tectonics"
+                    ],
+                    "answer": "Aviation and transport"
+                }
+            ]
+        }
+    }
+]

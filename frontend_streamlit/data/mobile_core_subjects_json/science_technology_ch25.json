@@ -1,0 +1,2941 @@
+[
+    {
+        "name": "Science & Technology – Space: Orbits, Launch Vehicles & Satellite Communication in India",
+        "notes": [
+            {
+                "heading": "Introduction",
+                "points": [
+                    "Space technology is a key pillar of modern science and national development",
+                    "It supports communication, navigation, weather forecasting, disaster management, and defense",
+                    "India’s space program is led by ISRO (Indian Space Research Organisation)",
+                    "Core areas include satellite systems, launch vehicles, and orbital mechanics",
+                    "Highly relevant for UPSC GS Paper 3 and current affairs"
+                ]
+            },
+            {
+                "heading": "Types of Orbits – Overview",
+                "points": [
+                    "An orbit is the curved path of a satellite around a celestial body due to gravity",
+                    "Different orbits are used depending on mission requirements",
+                    "Major types include Low Earth Orbit (LEO), Medium Earth Orbit (MEO), and Geostationary Orbit (GEO)",
+                    "Other specialized orbits include polar and sun-synchronous orbits",
+                    "Each orbit has distinct altitude, speed, and application"
+                ]
+            },
+            {
+                "heading": "Low Earth Orbit (LEO)",
+                "points": [
+                    "Altitude: 160 km to 2,000 km above Earth",
+                    "Used for Earth observation and remote sensing satellites",
+                    "Satellites move quickly and complete orbit in ~90 minutes",
+                    "Provides high-resolution imaging",
+                    "Used by ISS and many communication constellations"
+                ]
+            },
+            {
+                "heading": "Medium Earth Orbit (MEO)",
+                "points": [
+                    "Altitude: 2,000 km to 35,786 km",
+                    "Used mainly for navigation systems like GPS, GLONASS, Galileo",
+                    "Provides wider coverage than LEO",
+                    "Balanced between coverage and signal strength",
+                    "Moderate orbital period"
+                ]
+            },
+            {
+                "heading": "Geostationary Orbit (GEO)",
+                "points": [
+                    "Altitude: 35,786 km above equator",
+                    "Satellite appears stationary relative to Earth",
+                    "Used for communication and weather satellites",
+                    "Covers one-third of Earth’s surface per satellite",
+                    "High latency but stable communication"
+                ]
+            },
+            {
+                "heading": "Polar Orbit",
+                "points": [
+                    "Passes over Earth's poles",
+                    "Earth rotates beneath satellite, allowing global coverage",
+                    "Used for Earth mapping and environmental monitoring",
+                    "Common in remote sensing satellites",
+                    "Low to medium altitude orbit"
+                ]
+            },
+            {
+                "heading": "Sun-Synchronous Orbit (SSO)",
+                "points": [
+                    "Special type of polar orbit",
+                    "Satellite passes over the same part of Earth at the same local solar time",
+                    "Ideal for consistent lighting conditions in imaging",
+                    "Used for weather forecasting and environmental monitoring",
+                    "Widely used by ISRO Earth observation satellites"
+                ]
+            },
+            {
+                "heading": "Launch Vehicles – Overview",
+                "points": [
+                    "Launch vehicles are rockets used to place satellites into orbit",
+                    "They provide necessary thrust to overcome Earth's gravity",
+                    "India’s ISRO develops and operates multiple launch vehicles",
+                    "Launch vehicles vary based on payload capacity and orbit type",
+                    "Key Indian rockets include PSLV, GSLV, and LVM3"
+                ]
+            },
+            {
+                "heading": "PSLV (Polar Satellite Launch Vehicle)",
+                "points": [
+                    "Known as the ‘workhorse’ of ISRO",
+                    "Used for launching satellites into polar orbits",
+                    "Reliable and cost-effective launch vehicle",
+                    "Can carry multiple satellites in a single mission",
+                    "Used for Earth observation and remote sensing satellites"
+                ]
+            },
+            {
+                "heading": "GSLV (Geosynchronous Satellite Launch Vehicle)",
+                "points": [
+                    "Designed for launching satellites into geostationary orbit",
+                    "Uses cryogenic upper stage for higher efficiency",
+                    "Important for communication and navigation satellites",
+                    "More powerful than PSLV",
+                    "Supports heavier payloads"
+                ]
+            },
+            {
+                "heading": "LVM3 (Launch Vehicle Mark-3)",
+                "points": [
+                    "Previously known as GSLV Mk III",
+                    "ISRO’s heaviest and most powerful launch vehicle",
+                    "Used for Chandrayaan and heavy communication satellites",
+                    "Can carry large payloads to GEO and lunar missions",
+                    "Represents India’s advanced launch capability"
+                ]
+            },
+            {
+                "heading": "Satellite Communication in India – Overview",
+                "points": [
+                    "Satellite communication uses satellites to transmit signals for TV, internet, and telecommunication",
+                    "India developed INSAT and GSAT series for communication needs",
+                    "Managed by ISRO and Department of Space",
+                    "Supports rural connectivity, broadcasting, and disaster management",
+                    "Key pillar of Digital India initiative"
+                ]
+            },
+            {
+                "heading": "INSAT System",
+                "points": [
+                    "Indian National Satellite System (INSAT) is a multipurpose satellite system",
+                    "Used for communication, weather forecasting, and broadcasting",
+                    "Launched in geostationary orbit",
+                    "Supports telecom, TV broadcasting, and meteorology",
+                    "One of the largest domestic communication systems in Asia"
+                ]
+            },
+            {
+                "heading": "GSAT Series",
+                "points": [
+                    "Geostationary satellites developed by ISRO",
+                    "Primarily used for communication services",
+                    "Provides telecommunication, television, and internet services",
+                    "Enhances broadband connectivity in remote areas",
+                    "Supports national security and disaster response"
+                ]
+            },
+            {
+                "heading": "Applications of Satellite Communication",
+                "points": [
+                    "Telecommunication and mobile networks",
+                    "Direct-to-home (DTH) television services",
+                    "Weather forecasting and cyclone tracking",
+                    "Disaster warning systems",
+                    "Military and strategic communication",
+                    "Rural connectivity and e-governance"
+                ]
+            },
+            {
+                "heading": "Challenges in Space Technology",
+                "points": [
+                    "High cost of satellite launches",
+                    "Space debris and orbital congestion",
+                    "Technological complexity of cryogenic engines",
+                    "Dependence on advanced materials and electronics",
+                    "Cybersecurity risks in satellite systems"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "LEO stands for:",
+                    "options": [
+                        "Low Earth Orbit",
+                        "Large Energy Orbit",
+                        "Low Energy Operation",
+                        "Long Earth Orbit"
+                    ],
+                    "answer": "Low Earth Orbit"
+                },
+                {
+                    "question": "PSLV is mainly used for:",
+                    "options": [
+                        "Polar orbits",
+                        "Deep space travel",
+                        "Ocean exploration",
+                        "Weather control"
+                    ],
+                    "answer": "Polar orbits"
+                },
+                {
+                    "question": "Geostationary satellites appear:",
+                    "options": [
+                        "Moving fast",
+                        "Stationary relative to Earth",
+                        "Randomly moving",
+                        "Falling back to Earth"
+                    ],
+                    "answer": "Stationary relative to Earth"
+                },
+                {
+                    "question": "INSAT system is used for:",
+                    "options": [
+                        "Communication and weather",
+                        "Mining",
+                        "Agriculture only",
+                        "Space tourism"
+                    ],
+                    "answer": "Communication and weather"
+                },
+                {
+                    "question": "ISRO stands for:",
+                    "options": [
+                        "Indian Satellite Research Organisation",
+                        "Indian Space Research Organisation",
+                        "International Space Research Organisation",
+                        "Indian Science Rocket Organization"
+                    ],
+                    "answer": "Indian Space Research Organisation"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "GEO orbit altitude is approximately:",
+                    "options": [
+                        "2,000 km",
+                        "20,000 km",
+                        "35,786 km",
+                        "100 km"
+                    ],
+                    "answer": "35,786 km"
+                },
+                {
+                    "question": "Sun-synchronous orbit is mainly used for:",
+                    "options": [
+                        "Communication",
+                        "Earth observation",
+                        "Space tourism",
+                        "Mining"
+                    ],
+                    "answer": "Earth observation"
+                },
+                {
+                    "question": "GSLV uses:",
+                    "options": [
+                        "Cryogenic engine",
+                        "Steam engine",
+                        "Diesel engine",
+                        "Nuclear engine"
+                    ],
+                    "answer": "Cryogenic engine"
+                },
+                {
+                    "question": "GSAT satellites are used for:",
+                    "options": [
+                        "Communication services",
+                        "Defense only",
+                        "Mining",
+                        "Ocean drilling"
+                    ],
+                    "answer": "Communication services"
+                },
+                {
+                    "question": "Polar orbit passes over:",
+                    "options": [
+                        "Equator only",
+                        "Poles of Earth",
+                        "Sun only",
+                        "Moon only"
+                    ],
+                    "answer": "Poles of Earth"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. LEO is used for Earth observation\n2. GEO satellites appear stationary\n3. MEO is used for GPS systems",
+                    "options": [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "All"
+                    ],
+                    "answer": "All"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                        "PSLV – polar orbit missions",
+                        "GSLV – ocean research",
+                        "INSAT – mining system",
+                        "LEO – geostationary orbit"
+                    ],
+                    "answer": "PSLV – polar orbit missions"
+                },
+                {
+                    "question": "Main advantage of SSO is:",
+                    "options": [
+                        "Same lighting conditions for imaging",
+                        "No gravity effect",
+                        "Infinite speed",
+                        "No orbit decay"
+                    ],
+                    "answer": "Same lighting conditions for imaging"
+                },
+                {
+                    "question": "Space communication satellites help in:",
+                    "options": [
+                        "Only entertainment",
+                        "Telecommunication and disaster management",
+                        "Only agriculture",
+                        "Only mining"
+                    ],
+                    "answer": "Telecommunication and disaster management"
+                },
+                {
+                    "question": "LVM3 is mainly used for:",
+                    "options": [
+                        "Heavy payload missions",
+                        "Weather control",
+                        "Underwater missions",
+                        "Road transport"
+                    ],
+                    "answer": "Heavy payload missions"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Space Technology – INSAT, Remote Sensing, Cryogenic Rockets & GPS",
+        "notes": [
+            {
+                "heading": "Introduction",
+                "points": [
+                    "Space technology applications form the backbone of modern communication, navigation, and Earth observation systems",
+                    "India has developed strong indigenous capabilities through ISRO",
+                    "Key systems include INSAT satellites, remote sensing satellites, cryogenic rocket technology, and navigation systems like GPS",
+                    "These technologies support governance, security, disaster management, and economic development",
+                    "Highly relevant for UPSC GS Paper 3 and current affairs"
+                ]
+            },
+            {
+                "heading": "INSAT Satellite System – Overview",
+                "points": [
+                    "INSAT stands for Indian National Satellite System",
+                    "It is a multipurpose geostationary satellite system developed by ISRO",
+                    "Launched in 1983, it is one of the largest domestic communication satellite systems in Asia",
+                    "Operates in geostationary orbit providing continuous coverage",
+                    "Used for communication, meteorology, broadcasting, and disaster warning"
+                ]
+            },
+            {
+                "heading": "INSAT Satellite Applications",
+                "points": [
+                    "Telecommunication services across India including remote areas",
+                    "Television broadcasting and DTH services",
+                    "Weather forecasting and cyclone tracking",
+                    "Disaster warning systems for floods, cyclones, and tsunamis",
+                    "Search and rescue coordination and emergency communication"
+                ]
+            },
+            {
+                "heading": "Importance of INSAT System",
+                "points": [
+                    "Bridges communication gap in rural and remote regions",
+                    "Supports India Meteorological Department (IMD)",
+                    "Enhances disaster preparedness and response",
+                    "Strengthens national security communication networks",
+                    "Enables digital connectivity and e-governance"
+                ]
+            },
+            {
+                "heading": "Remote Sensing – Overview",
+                "points": [
+                    "Remote sensing is the science of collecting information about Earth without physical contact",
+                    "Uses satellites and sensors to capture data from space",
+                    "Data is analyzed to monitor Earth’s surface, atmosphere, and oceans",
+                    "ISRO operates a series of Earth observation satellites like IRS and Cartosat",
+                    "Critical for environmental monitoring and planning"
+                ]
+            },
+            {
+                "heading": "Applications of Remote Sensing",
+                "points": [
+                    "Agricultural monitoring and crop estimation",
+                    "Forest cover mapping and deforestation tracking",
+                    "Disaster management (floods, cyclones, droughts)",
+                    "Urban planning and infrastructure development",
+                    "Mineral and groundwater exploration",
+                    "Climate change and environmental monitoring"
+                ]
+            },
+            {
+                "heading": "Types of Remote Sensing",
+                "points": [
+                    "Passive remote sensing – uses natural sunlight reflected from Earth",
+                    "Active remote sensing – uses satellite-generated signals like radar (e.g., SAR)",
+                    "Optical imaging satellites for visible and infrared data",
+                    "Radar imaging for all-weather, day-night monitoring",
+                    "Thermal sensing for temperature measurement"
+                ]
+            },
+            {
+                "heading": "Importance of Remote Sensing in India",
+                "points": [
+                    "Supports agriculture and food security planning",
+                    "Helps in disaster risk reduction and early warning systems",
+                    "Assists in urban and rural development planning",
+                    "Used in natural resource management",
+                    "Critical for environmental conservation policies"
+                ]
+            },
+            {
+                "heading": "Cryogenic Rockets – Overview",
+                "points": [
+                    "Cryogenic rockets use cryogenic engines that burn liquid hydrogen and liquid oxygen",
+                    "These fuels are stored at extremely low temperatures",
+                    "Provide very high efficiency and thrust in upper stages of rockets",
+                    "Used for launching heavy payloads into geostationary orbits",
+                    "Important for deep space missions"
+                ]
+            },
+            {
+                "heading": "Features of Cryogenic Technology",
+                "points": [
+                    "Uses liquid hydrogen (-253°C) and liquid oxygen (-183°C)",
+                    "Higher specific impulse compared to solid and liquid engines",
+                    "More fuel-efficient for long-distance space missions",
+                    "Technically complex due to extreme temperature requirements",
+                    "Requires advanced insulation and storage systems"
+                ]
+            },
+            {
+                "heading": "India’s Cryogenic Technology Development",
+                "points": [
+                    "Initially faced technology denial from other countries",
+                    "Developed indigenous cryogenic engine through ISRO’s efforts",
+                    "Used in GSLV and LVM3 launch vehicles",
+                    "Critical milestone for India’s space autonomy",
+                    "Enabled India to launch heavier communication satellites"
+                ]
+            },
+            {
+                "heading": "Applications of Cryogenic Rockets",
+                "points": [
+                    "Launching communication satellites into geostationary orbit",
+                    "Deep space missions like Chandrayaan and Aditya-L1",
+                    "Heavy payload transport",
+                    "Interplanetary missions",
+                    "Strengthening India’s space independence"
+                ]
+            },
+            {
+                "heading": "Global Positioning System (GPS) – Overview",
+                "points": [
+                    "GPS is a satellite-based navigation system developed by the United States",
+                    "Provides location, navigation, and timing (PNT) services globally",
+                    "Uses a constellation of satellites in medium Earth orbit",
+                    "Receivers calculate position using signals from multiple satellites",
+                    "Works anywhere on Earth with line-of-sight to satellites"
+                ]
+            },
+            {
+                "heading": "Working Principle of GPS",
+                "points": [
+                    "At least four satellites are required for accurate positioning",
+                    "Uses trilateration to calculate exact location",
+                    "Signals contain time and position data",
+                    "Receiver calculates distance based on signal travel time",
+                    "Provides real-time navigation information"
+                ]
+            },
+            {
+                "heading": "Applications of GPS",
+                "points": [
+                    "Navigation in vehicles, ships, and aircraft",
+                    "Military operations and strategic planning",
+                    "Disaster management and rescue operations",
+                    "Agriculture (precision farming)",
+                    "Mapping and surveying",
+                    "Mobile phone location services"
+                ]
+            },
+            {
+                "heading": "India’s Navigation System – NavIC",
+                "points": [
+                    "NavIC (Navigation with Indian Constellation) is India’s regional GPS system",
+                    "Developed by ISRO",
+                    "Provides accurate positioning over India and surrounding region",
+                    "Independent from foreign GPS systems",
+                    "Used for defense, navigation, and emergency services"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "INSAT is mainly used for:",
+                    "options": [
+                        "Mining",
+                        "Communication and weather forecasting",
+                        "Space tourism",
+                        "Ocean drilling"
+                    ],
+                    "answer": "Communication and weather forecasting"
+                },
+                {
+                    "question": "Remote sensing is done using:",
+                    "options": [
+                        "Ground sensors only",
+                        "Satellites",
+                        "Only aircraft",
+                        "Only ships"
+                    ],
+                    "answer": "Satellites"
+                },
+                {
+                    "question": "Cryogenic fuel includes:",
+                    "options": [
+                        "Petrol and diesel",
+                        "Liquid hydrogen and oxygen",
+                        "Coal and gas",
+                        "Water and salt"
+                    ],
+                    "answer": "Liquid hydrogen and oxygen"
+                },
+                {
+                    "question": "GPS is developed by:",
+                    "options": [
+                        "India",
+                        "USA",
+                        "Russia",
+                        "China"
+                    ],
+                    "answer": "USA"
+                },
+                {
+                    "question": "NavIC is India’s:",
+                    "options": [
+                        "Weather system",
+                        "Navigation system",
+                        "Rocket system",
+                        "Communication tower"
+                    ],
+                    "answer": "Navigation system"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "INSAT satellites are placed in:",
+                    "options": [
+                        "Low Earth Orbit",
+                        "Geostationary Orbit",
+                        "Polar Orbit",
+                        "Medium Orbit only"
+                    ],
+                    "answer": "Geostationary Orbit"
+                },
+                {
+                    "question": "Remote sensing is useful for:",
+                    "options": [
+                        "Agriculture monitoring",
+                        "Space tourism",
+                        "Mining rockets",
+                        "Electricity generation"
+                    ],
+                    "answer": "Agriculture monitoring"
+                },
+                {
+                    "question": "Cryogenic engines are used in:",
+                    "options": [
+                        "PSLV",
+                        "GSLV and LVM3",
+                        "Cars",
+                        "Submarines"
+                    ],
+                    "answer": "GSLV and LVM3"
+                },
+                {
+                    "question": "GPS works on principle of:",
+                    "options": [
+                        "Reflection",
+                        "Trilateration",
+                        "Magnetism",
+                        "Friction"
+                    ],
+                    "answer": "Trilateration"
+                },
+                {
+                    "question": "Remote sensing satellites help in:",
+                    "options": [
+                        "Weather forecasting",
+                        "Time travel",
+                        "Mining rockets",
+                        "Ocean drilling only"
+                    ],
+                    "answer": "Weather forecasting"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. INSAT supports communication and weather services\n2. Cryogenic engines use liquid hydrogen and oxygen\n3. GPS is fully Indian system",
+                    "options": [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "All"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                        "INSAT – communication satellite",
+                        "GPS – Indian system",
+                        "Cryogenic – solid fuel engine",
+                        "Remote sensing – navigation only"
+                    ],
+                    "answer": "INSAT – communication satellite"
+                },
+                {
+                    "question": "Main advantage of cryogenic engines is:",
+                    "options": [
+                        "Low efficiency",
+                        "High efficiency and thrust",
+                        "No fuel use",
+                        "No space application"
+                    ],
+                    "answer": "High efficiency and thrust"
+                },
+                {
+                    "question": "Remote sensing is useful for:",
+                    "options": [
+                        "Only entertainment",
+                        "Earth resource monitoring",
+                        "Only navigation",
+                        "Only communication"
+                    ],
+                    "answer": "Earth resource monitoring"
+                },
+                {
+                    "question": "NavIC is important because:",
+                    "options": [
+                        "It replaces agriculture",
+                        "It provides independent navigation capability",
+                        "It controls weather",
+                        "It builds rockets"
+                    ],
+                    "answer": "It provides independent navigation capability"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Space Technology – Global Navigation Systems (Galileo, GLONASS, IRNSS, GAGAN) & Chandrayaan Missions",
+        "notes": [
+            {
+                "heading": "Introduction",
+                "points": [
+                    "Global Navigation Satellite Systems (GNSS) provide positioning, navigation, and timing (PNT) services",
+                    "Different countries have developed their own systems for strategic autonomy and accuracy",
+                    "India also developed its regional navigation system (IRNSS/NavIC) and augmentation system (GAGAN)",
+                    "Chandrayaan missions represent India’s lunar exploration program",
+                    "These topics are crucial for space technology and current affairs in UPSC"
+                ]
+            },
+            {
+                "heading": "Global Navigation Satellite Systems (GNSS) – Overview",
+                "points": [
+                    "GNSS are satellite-based systems that provide global positioning and navigation",
+                    "They help in determining precise location, speed, and time",
+                    "Major systems include GPS (USA), GLONASS (Russia), Galileo (EU), and BeiDou (China)",
+                    "India has IRNSS/NavIC as a regional system and GAGAN as augmentation",
+                    "Used in civilian, military, aviation, and maritime applications"
+                ]
+            },
+            {
+                "heading": "Galileo – European Navigation System",
+                "points": [
+                    "Developed by the European Union",
+                    "Fully civilian-controlled global navigation system",
+                    "Provides high-precision positioning services",
+                    "Operational constellation in medium Earth orbit",
+                    "Designed for interoperability with other GNSS systems"
+                ]
+            },
+            {
+                "heading": "Features of Galileo",
+                "points": [
+                    "Global coverage with high accuracy (better than GPS in some cases)",
+                    "Open service for civilians and encrypted service for government use",
+                    "Independent from US GPS control",
+                    "Provides timing services for financial and telecom systems",
+                    "Used in aviation, transportation, and emergency services"
+                ]
+            },
+            {
+                "heading": "GLONASS – Russian Navigation System",
+                "points": [
+                    "Developed by Russia (originally Soviet Union)",
+                    "Global navigation satellite system similar to GPS",
+                    "Operates in medium Earth orbit",
+                    "Provides global positioning services",
+                    "Used for both civilian and military applications"
+                ]
+            },
+            {
+                "heading": "Features of GLONASS",
+                "points": [
+                    "Provides global coverage including polar regions",
+                    "High reliability in high latitude areas",
+                    "Integrated with GPS for better accuracy in devices",
+                    "Controlled by Russian Aerospace Defence Forces",
+                    "Supports navigation, mapping, and defense systems"
+                ]
+            },
+            {
+                "heading": "IRNSS / NavIC – India’s Navigation System",
+                "points": [
+                    "IRNSS stands for Indian Regional Navigation Satellite System",
+                    "Also known as NavIC (Navigation with Indian Constellation)",
+                    "Developed by ISRO",
+                    "Provides regional coverage over India and surrounding region (up to ~1500 km)",
+                    "Independent navigation system for strategic autonomy"
+                ]
+            },
+            {
+                "heading": "Features of NavIC",
+                "points": [
+                    "Comprises 7 satellites in geostationary and geosynchronous orbits",
+                    "Provides accurate position, timing, and velocity information",
+                    "Supports civilian and military applications",
+                    "Used in mobile phones, transport, and disaster management",
+                    "More accurate in Indian subcontinent region than GPS"
+                ]
+            },
+            {
+                "heading": "Applications of NavIC",
+                "points": [
+                    "Vehicle navigation and transportation systems",
+                    "Disaster management and rescue operations",
+                    "Fishermen navigation in coastal waters",
+                    "Military and strategic operations",
+                    "Timing synchronization in telecom and banking systems"
+                ]
+            },
+            {
+                "heading": "GAGAN – Overview",
+                "points": [
+                    "GAGAN stands for GPS Aided GEO Augmented Navigation",
+                    "Developed jointly by ISRO and Airports Authority of India (AAI)",
+                    "Satellite-based augmentation system for GPS",
+                    "Improves accuracy of GPS signals over Indian airspace",
+                    "Mainly used for aviation safety and navigation"
+                ]
+            },
+            {
+                "heading": "Features of GAGAN",
+                "points": [
+                    "Enhances GPS accuracy to sub-meter level",
+                    "Provides real-time navigation corrections",
+                    "Supports precision landing of aircraft",
+                    "Improves safety in Indian aviation sector",
+                    "Compatible with international aviation standards"
+                ]
+            },
+            {
+                "heading": "Difference between NavIC and GAGAN",
+                "points": [
+                    "NavIC is an independent navigation system, GAGAN is an augmentation system",
+                    "NavIC provides regional coverage, GAGAN enhances GPS accuracy",
+                    "NavIC is ISRO-led; GAGAN is ISRO + AAI collaboration",
+                    "NavIC is used for general navigation; GAGAN mainly for aviation",
+                    "Both strengthen India’s navigation capability"
+                ]
+            },
+            {
+                "heading": "Chandrayaan-I – Overview",
+                "points": [
+                    "India’s first lunar mission launched in 2008",
+                    "Developed by ISRO",
+                    "Aimed to map lunar surface and study mineral composition",
+                    "Confirmed presence of water molecules on the Moon",
+                    "Operated for about 312 days before contact was lost"
+                ]
+            },
+            {
+                "heading": "Significance of Chandrayaan-I",
+                "points": [
+                    "Marked India’s entry into lunar exploration",
+                    "Discovered water molecules on lunar surface",
+                    "Improved India’s global space reputation",
+                    "Provided high-resolution lunar maps",
+                    "Laid foundation for future lunar missions"
+                ]
+            },
+            {
+                "heading": "Chandrayaan-II – Overview",
+                "points": [
+                    "Launched in 2019 by ISRO",
+                    "Consisted of Orbiter, Lander (Vikram), and Rover (Pragyan)",
+                    "Aimed to explore Moon’s south pole region",
+                    "Orbiter successfully continues to function",
+                    "Lander attempt faced crash landing during descent"
+                ]
+            },
+            {
+                "heading": "Objectives of Chandrayaan-II",
+                "points": [
+                    "Study lunar surface composition and topography",
+                    "Explore water ice in polar regions",
+                    "Analyze lunar atmosphere (exosphere)",
+                    "Demonstrate soft landing capability",
+                    "Deploy rover for surface exploration"
+                ]
+            },
+            {
+                "heading": "Achievements of Chandrayaan-II",
+                "points": [
+                    "Orbiter provided high-resolution lunar data",
+                    "Advanced understanding of lunar south pole",
+                    "Improved India’s deep space communication capabilities",
+                    "Strengthened future mission design (Chandrayaan-3)",
+                    "Enhanced global collaboration in lunar science"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Galileo system is developed by:",
+                    "options": [
+                        "USA",
+                        "European Union",
+                        "Russia",
+                        "India"
+                    ],
+                    "answer": "European Union"
+                },
+                {
+                    "question": "GLONASS is the navigation system of:",
+                    "options": [
+                        "China",
+                        "Russia",
+                        "India",
+                        "Japan"
+                    ],
+                    "answer": "Russia"
+                },
+                {
+                    "question": "NavIC is developed by:",
+                    "options": [
+                        "NASA",
+                        "ISRO",
+                        "ESA",
+                        "Roscosmos"
+                    ],
+                    "answer": "ISRO"
+                },
+                {
+                    "question": "GAGAN is mainly used in:",
+                    "options": [
+                        "Aviation",
+                        "Mining",
+                        "Agriculture",
+                        "Space tourism"
+                    ],
+                    "answer": "Aviation"
+                },
+                {
+                    "question": "Chandrayaan-I discovered:",
+                    "options": [
+                        "Gold on Moon",
+                        "Water molecules on Moon",
+                        "Life on Moon",
+                        "Oxygen plants"
+                    ],
+                    "answer": "Water molecules on Moon"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "NavIC provides coverage up to:",
+                    "options": [
+                        "Global",
+                        "Regional (India and nearby region)",
+                        "Only cities",
+                        "Only oceans"
+                    ],
+                    "answer": "Regional (India and nearby region)"
+                },
+                {
+                    "question": "GAGAN is a system to:",
+                    "options": [
+                        "Replace GPS",
+                        "Enhance GPS accuracy",
+                        "Destroy satellites",
+                        "Build rockets"
+                    ],
+                    "answer": "Enhance GPS accuracy"
+                },
+                {
+                    "question": "Chandrayaan-II lander was named:",
+                    "options": [
+                        "Vikram",
+                        "Pragyan",
+                        "Aryabhata",
+                        "Rohini"
+                    ],
+                    "answer": "Vikram"
+                },
+                {
+                    "question": "GLONASS provides better coverage in:",
+                    "options": [
+                        "Equatorial regions",
+                        "Polar regions",
+                        "Deserts only",
+                        "Oceans only"
+                    ],
+                    "answer": "Polar regions"
+                },
+                {
+                    "question": "Galileo system is:",
+                    "options": [
+                        "Military only",
+                        "Civilian-controlled system",
+                        "Weather system",
+                        "Agriculture system"
+                    ],
+                    "answer": "Civilian-controlled system"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. NavIC is regional system\n2. Galileo is EU system\n3. GAGAN is augmentation system",
+                    "options": [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "All"
+                    ],
+                    "answer": "All"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                        "GLONASS – Russia",
+                        "Galileo – India",
+                        "NavIC – USA",
+                        "GAGAN – China"
+                    ],
+                    "answer": "GLONASS – Russia"
+                },
+                {
+                    "question": "Main purpose of Chandrayaan-II orbiter is:",
+                    "options": [
+                        "Lunar mapping and data collection",
+                        "Mining Moon",
+                        "Weather control",
+                        "Navigation system"
+                    ],
+                    "answer": "Lunar mapping and data collection"
+                },
+                {
+                    "question": "GAGAN improves:",
+                    "options": [
+                        "GPS accuracy",
+                        "Solar energy",
+                        "Rocket speed",
+                        "Water purification"
+                    ],
+                    "answer": "GPS accuracy"
+                },
+                {
+                    "question": "NavIC is important because:",
+                    "options": [
+                        "It depends on USA",
+                        "It provides independent navigation system",
+                        "It replaces satellites",
+                        "It is only weather system"
+                    ],
+                    "answer": "It provides independent navigation system"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Space Technology – Mars Orbiter Mission, Space Organisations, Space Race & Space Junk",
+        "notes": [
+            {
+                "heading": "Introduction",
+                "points": [
+                    "Space exploration is a major area of scientific advancement and geopolitical competition",
+                    "India has emerged as a key player through missions like Mars Orbiter Mission (MOM)",
+                    "Global space activities involve multiple organisations and increasing private sector participation",
+                    "Issues like space race and space junk are becoming critical challenges"
+                ]
+            },
+            {
+                "heading": "Mars Orbiter Mission (MOM) – Overview",
+                "points": [
+                    "Also known as Mangalyaan",
+                    "Launched by ISRO on 5 November 2013",
+                    "India’s first interplanetary mission to Mars",
+                    "India became the first country to reach Mars orbit in its maiden attempt",
+                    "Mission aimed at studying Martian surface and atmosphere"
+                ]
+            },
+            {
+                "heading": "Objectives of Mars Orbiter Mission",
+                "points": [
+                    "Demonstrate India’s capability in interplanetary missions",
+                    "Study Martian surface features and morphology",
+                    "Analyze Martian atmosphere and methane presence",
+                    "Explore Martian mineral composition",
+                    "Develop deep space communication technologies"
+                ]
+            },
+            {
+                "heading": "Achievements of MOM",
+                "points": [
+                    "Successful insertion into Mars orbit in September 2014",
+                    "Low-cost interplanetary mission (cost-effective space mission globally)",
+                    "India became the first Asian country to reach Mars orbit",
+                    "Provided valuable images and data of Mars surface",
+                    "Enhanced ISRO’s global reputation"
+                ]
+            },
+            {
+                "heading": "Significance of Mars Orbiter Mission",
+                "points": [
+                    "Demonstrated cost-effective space technology",
+                    "Boosted India’s space diplomacy and global image",
+                    "Strengthened interplanetary mission capability",
+                    "Encouraged future missions like Mars exploration and Chandrayaan series",
+                    "Showcased indigenous rocket and navigation systems"
+                ]
+            },
+            {
+                "heading": "Space Organisations – Overview",
+                "points": [
+                    "Space exploration is carried out by national agencies and international organisations",
+                    "Major agencies include ISRO, NASA, ESA, Roscosmos, CNSA, and JAXA",
+                    "Private companies like SpaceX and Blue Origin are also key players",
+                    "Collaboration is increasing in global space missions",
+                    "Space governance includes UNOOSA and international treaties"
+                ]
+            },
+            {
+                "heading": "Key Space Organisations",
+                "points": [
+                    "ISRO (India) – Indian Space Research Organisation",
+                    "NASA (USA) – National Aeronautics and Space Administration",
+                    "ESA (Europe) – European Space Agency",
+                    "Roscosmos (Russia) – Russian space agency",
+                    "CNSA (China) – China National Space Administration",
+                    "JAXA (Japan) – Japan Aerospace Exploration Agency"
+                ]
+            },
+            {
+                "heading": "UNOOSA and International Governance",
+                "points": [
+                    "UNOOSA stands for United Nations Office for Outer Space Affairs",
+                    "Promotes peaceful use of outer space",
+                    "Supports international cooperation in space law",
+                    "Oversees Outer Space Treaty (1967)",
+                    "Ensures space activities benefit all humanity"
+                ]
+            },
+            {
+                "heading": "Space Race – Overview",
+                "points": [
+                    "Originally refers to competition between USA and USSR during Cold War",
+                    "Focused on achieving milestones in space exploration",
+                    "Key events included Sputnik launch, Moon landing, and space stations",
+                    "Modern space race includes USA, China, India, and private companies",
+                    "Now includes scientific, commercial, and military dimensions"
+                ]
+            },
+            {
+                "heading": "Modern Space Race",
+                "points": [
+                    "Competition for Moon exploration (Artemis vs Chang’e missions)",
+                    "Mars exploration missions",
+                    "Satellite internet constellations (Starlink, OneWeb)",
+                    "Space militarization and defense systems",
+                    "Commercial space tourism development"
+                ]
+            },
+            {
+                "heading": "India’s Role in Space Race",
+                "points": [
+                    "Cost-effective interplanetary missions (MOM, Chandrayaan)",
+                    "Successful lunar south pole landing (Chandrayaan-3)",
+                    "Development of indigenous navigation system (NavIC)",
+                    "International collaboration in space research",
+                    "Growing private space sector (IN-SPACe initiative)"
+                ]
+            },
+            {
+                "heading": "Space Junk (Space Debris) – Overview",
+                "points": [
+                    "Space junk refers to defunct satellites, rocket parts, and debris orbiting Earth",
+                    "It poses collision risks to operational satellites and spacecraft",
+                    "Increasing due to rising number of satellite launches",
+                    "Found mainly in Low Earth Orbit (LEO)",
+                    "A major global concern for space sustainability"
+                ]
+            },
+            {
+                "heading": "Causes of Space Debris",
+                "points": [
+                    "Decommissioned satellites left in orbit",
+                    "Rocket upper stages and fragments",
+                    "Collisions between space objects",
+                    "Anti-satellite weapon tests",
+                    "Fragmentation due to explosions"
+                ]
+            },
+            {
+                "heading": "Impacts of Space Junk",
+                "points": [
+                    "Threat to operational satellites",
+                    "Risk to space stations like ISS",
+                    "Increased cost of space missions",
+                    "Communication and navigation disruptions",
+                    "Kessler Syndrome risk (chain reaction collisions)"
+                ]
+            },
+            {
+                "heading": "Solutions to Space Junk",
+                "points": [
+                    "Space debris tracking systems",
+                    "Active debris removal technologies",
+                    "End-of-life satellite deorbiting",
+                    "International space regulations",
+                    "Reusable rocket technology (e.g., SpaceX)"
+                ]
+            },
+            {
+                "heading": "Recent Updates in Space Sector",
+                "points": [
+                    "Increased private sector participation in India (IN-SPACe)",
+                    "Successful Chandrayaan-3 Moon landing",
+                    "Aditya-L1 mission for solar studies",
+                    "Global focus on lunar south pole exploration",
+                    "Growth of satellite internet constellations"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Mars Orbiter Mission is also known as:",
+                    "options": [
+                        "Chandrayaan",
+                        "Mangalyaan",
+                        "Aryabhatta",
+                        "Gaganyaan"
+                    ],
+                    "answer": "Mangalyaan"
+                },
+                {
+                    "question": "MOM was launched in:",
+                    "options": [
+                        "2010",
+                        "2013",
+                        "2015",
+                        "2008"
+                    ],
+                    "answer": "2013"
+                },
+                {
+                    "question": "NASA is space agency of:",
+                    "options": [
+                        "India",
+                        "USA",
+                        "Russia",
+                        "China"
+                    ],
+                    "answer": "USA"
+                },
+                {
+                    "question": "Space junk refers to:",
+                    "options": [
+                        "Fuel for rockets",
+                        "Orbital debris",
+                        "Stars",
+                        "Planets"
+                    ],
+                    "answer": "Orbital debris"
+                },
+                {
+                    "question": "UNOOSA is related to:",
+                    "options": [
+                        "Space governance",
+                        "Agriculture",
+                        "Defense manufacturing",
+                        "Ocean exploration"
+                    ],
+                    "answer": "Space governance"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "MOM successfully entered Mars orbit in:",
+                    "options": [
+                        "2012",
+                        "2014",
+                        "2016",
+                        "2018"
+                    ],
+                    "answer": "2014"
+                },
+                {
+                    "question": "Space debris is mainly found in:",
+                    "options": [
+                        "Deep space",
+                        "Low Earth Orbit",
+                        "Sun surface",
+                        "Moon surface"
+                    ],
+                    "answer": "Low Earth Orbit"
+                },
+                {
+                    "question": "ESA is space agency of:",
+                    "options": [
+                        "Europe",
+                        "Russia",
+                        "India",
+                        "Japan"
+                    ],
+                    "answer": "Europe"
+                },
+                {
+                    "question": "Space race originally was between:",
+                    "options": [
+                        "India and China",
+                        "USA and USSR",
+                        "USA and India",
+                        "China and Japan"
+                    ],
+                    "answer": "USA and USSR"
+                },
+                {
+                    "question": "Kessler Syndrome refers to:",
+                    "options": [
+                        "Space tourism",
+                        "Chain reaction of space debris collisions",
+                        "Rocket explosion",
+                        "Satellite launch system"
+                    ],
+                    "answer": "Chain reaction of space debris collisions"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. MOM was India’s first interplanetary mission\n2. Space junk is increasing in LEO\n3. NASA is a private company",
+                    "options": [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "All"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                        "ISRO – India",
+                        "CNSA – Russia",
+                        "ESA – USA",
+                        "Roscosmos – Japan"
+                    ],
+                    "answer": "ISRO – India"
+                },
+                {
+                    "question": "Main issue with space debris is:",
+                    "options": [
+                        "Improved navigation",
+                        "Collision risk to satellites",
+                        "Better communication",
+                        "Increased gravity"
+                    ],
+                    "answer": "Collision risk to satellites"
+                },
+                {
+                    "question": "MOM was important because:",
+                    "options": [
+                        "It was costly mission",
+                        "It demonstrated low-cost interplanetary capability",
+                        "It failed completely",
+                        "It was manned mission"
+                    ],
+                    "answer": "It demonstrated low-cost interplanetary capability"
+                },
+                {
+                    "question": "Modern space race includes:",
+                    "options": [
+                        "Only military use",
+                        "Scientific, commercial, and strategic competition",
+                        "Only tourism",
+                        "Only agriculture"
+                    ],
+                    "answer": "Scientific, commercial, and strategic competition"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Space Technology – South Asia Satellite, Neutrino Observatory, Aditya Mission & Gravitational Waves",
+        "notes": [
+            {
+                "heading": "Introduction",
+                "points": [
+                    "Modern space and physics missions are expanding India’s scientific and regional leadership",
+                    "ISRO’s South Asia Satellite strengthens regional cooperation",
+                    "India is also involved in advanced physics projects like neutrino research and gravitational wave detection",
+                    "Aditya-L1 mission focuses on solar studies and space weather",
+                    "These topics combine space science, astrophysics, and diplomacy"
+                ]
+            },
+            {
+                "heading": "South Asia Satellite – Overview",
+                "points": [
+                    "South Asia Satellite (GSAT-9) was launched by ISRO in 2017",
+                    "It is a communication satellite aimed at regional cooperation",
+                    "Provides services to South Asian countries except Pakistan (due to political reasons)",
+                    "Supports communication, disaster management, and tele-education",
+                    "Reflects India’s ‘Neighbourhood First’ policy"
+                ]
+            },
+            {
+                "heading": "Significance of South Asia Satellite",
+                "points": [
+                    "Strengthens India’s regional leadership in space technology",
+                    "Enhances disaster response and early warning systems",
+                    "Improves communication connectivity in South Asia",
+                    "Promotes peaceful use of outer space",
+                    "Builds diplomatic goodwill in the region"
+                ]
+            },
+            {
+                "heading": "Applications of South Asia Satellite",
+                "points": [
+                    "Telemedicine and tele-education services",
+                    "Disaster management support (floods, cyclones)",
+                    "Communication connectivity in remote areas",
+                    "Broadcasting and data sharing",
+                    "Support for weather forecasting systems"
+                ]
+            },
+            {
+                "heading": "Neutrino Observatory – Overview",
+                "points": [
+                    "Neutrino observatories are scientific facilities to detect neutrinos (subatomic particles)",
+                    "Neutrinos are extremely small, neutral particles with very weak interaction",
+                    "India’s proposed project is the India-based Neutrino Observatory (INO)",
+                    "Located in Tamil Nadu (planned underground facility)",
+                    "Aims to study fundamental properties of matter"
+                ]
+            },
+            {
+                "heading": "Neutrino Properties",
+                "points": [
+                    "Neutrinos are electrically neutral particles",
+                    "They have very small mass",
+                    "They rarely interact with matter",
+                    "Produced in nuclear reactions like the Sun and cosmic rays",
+                    "Travel almost at the speed of light"
+                ]
+            },
+            {
+                "heading": "Objectives of Neutrino Observatory",
+                "points": [
+                    "Study neutrino oscillations (change of type)",
+                    "Understand mass hierarchy of neutrinos",
+                    "Explore origin of universe and matter-antimatter asymmetry",
+                    "Study cosmic rays and astrophysical phenomena",
+                    "Advance fundamental particle physics research"
+                ]
+            },
+            {
+                "heading": "Importance of Neutrino Research",
+                "points": [
+                    "Helps understand evolution of universe",
+                    "Contributes to particle physics and cosmology",
+                    "Improves understanding of solar processes",
+                    "Supports theoretical physics advancements",
+                    "Enhances India’s global scientific standing"
+                ]
+            },
+            {
+                "heading": "Challenges in Neutrino Research",
+                "points": [
+                    "Extremely difficult detection due to weak interaction",
+                    "Requires underground laboratories",
+                    "High cost and complex infrastructure",
+                    "Environmental and safety concerns in site selection",
+                    "Long-term research commitment needed"
+                ]
+            },
+            {
+                "heading": "Aditya-L1 Solar Mission – Overview",
+                "points": [
+                    "Aditya-L1 is India’s first dedicated solar observation mission",
+                    "Launched by ISRO to study the Sun",
+                    "Placed in a halo orbit around Lagrange Point 1 (L1)",
+                    "Provides continuous view of the Sun without eclipses",
+                    "Aims to study solar atmosphere and space weather"
+                ]
+            },
+            {
+                "heading": "Objectives of Aditya-L1 Mission",
+                "points": [
+                    "Study solar corona and its heating mechanism",
+                    "Analyze solar wind and its effects on Earth",
+                    "Observe solar flares and coronal mass ejections (CMEs)",
+                    "Understand space weather dynamics",
+                    "Improve prediction of solar storms"
+                ]
+            },
+            {
+                "heading": "Importance of Aditya-L1",
+                "points": [
+                    "Helps protect satellites and communication systems",
+                    "Improves space weather forecasting",
+                    "Enhances understanding of Sun-Earth relationship",
+                    "Supports space mission safety",
+                    "Strengthens India’s solar research capabilities"
+                ]
+            },
+            {
+                "heading": "Gravitational Waves – Overview",
+                "points": [
+                    "Gravitational waves are ripples in space-time caused by massive cosmic events",
+                    "Predicted by Albert Einstein’s General Theory of Relativity",
+                    "Produced by events like black hole mergers and neutron star collisions",
+                    "Detected first in 2015 by LIGO observatory",
+                    "Open a new window to observe the universe"
+                ]
+            },
+            {
+                "heading": "Detection of Gravitational Waves",
+                "points": [
+                    "Detected using laser interferometers (LIGO, Virgo)",
+                    "Measures tiny distortions in space-time",
+                    "Requires extremely sensitive instruments",
+                    "Signals travel at the speed of light",
+                    "Confirms Einstein’s century-old prediction"
+                ]
+            },
+            {
+                "heading": "Importance of Gravitational Waves",
+                "points": [
+                    "Provides new way to study universe (gravitational astronomy)",
+                    "Helps understand black holes and neutron stars",
+                    "Confirms general relativity",
+                    "Opens new field of multi-messenger astronomy",
+                    "Enhances understanding of cosmic evolution"
+                ]
+            },
+            {
+                "heading": "India’s Role in Gravitational Wave Research",
+                "points": [
+                    "India is part of LIGO-India project",
+                    "Aims to establish gravitational wave detector in India",
+                    "Enhances global network for detection accuracy",
+                    "Strengthens India’s role in astrophysics research",
+                    "Supports international scientific collaboration"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "South Asia Satellite is also known as:",
+                    "options": [
+                        "GSAT-7",
+                        "GSAT-9",
+                        "INSAT-3",
+                        "Cartosat-2"
+                    ],
+                    "answer": "GSAT-9"
+                },
+                {
+                    "question": "Neutrinos are:",
+                    "options": [
+                        "Heavy particles",
+                        "Neutral subatomic particles",
+                        "Atoms",
+                        "Planets"
+                    ],
+                    "answer": "Neutral subatomic particles"
+                },
+                {
+                    "question": "Aditya-L1 mission is related to:",
+                    "options": [
+                        "Moon",
+                        "Sun",
+                        "Mars",
+                        "Jupiter"
+                    ],
+                    "answer": "Sun"
+                },
+                {
+                    "question": "Gravitational waves were predicted by:",
+                    "options": [
+                        "Newton",
+                        "Einstein",
+                        "Bohr",
+                        "Galileo"
+                    ],
+                    "answer": "Einstein"
+                },
+                {
+                    "question": "LIGO is related to:",
+                    "options": [
+                        "Ocean study",
+                        "Gravitational wave detection",
+                        "Satellite launch",
+                        "Agriculture"
+                    ],
+                    "answer": "Gravitational wave detection"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "South Asia Satellite was launched in:",
+                    "options": [
+                        "2015",
+                        "2017",
+                        "2019",
+                        "2021"
+                    ],
+                    "answer": "2017"
+                },
+                {
+                    "question": "Aditya-L1 is placed at:",
+                    "options": [
+                        "Moon surface",
+                        "L1 Lagrange point",
+                        "Mars orbit",
+                        "LEO orbit"
+                    ],
+                    "answer": "L1 Lagrange point"
+                },
+                {
+                    "question": "Neutrino observatory in India is proposed in:",
+                    "options": [
+                        "Kerala",
+                        "Tamil Nadu",
+                        "Karnataka",
+                        "Punjab"
+                    ],
+                    "answer": "Tamil Nadu"
+                },
+                {
+                    "question": "Gravitational waves are caused by:",
+                    "options": [
+                        "Light reflection",
+                        "Massive cosmic events",
+                        "Wind movement",
+                        "Ocean tides"
+                    ],
+                    "answer": "Massive cosmic events"
+                },
+                {
+                    "question": "South Asia Satellite mainly supports:",
+                    "options": [
+                        "Military operations",
+                        "Regional cooperation",
+                        "Mining",
+                        "Space tourism"
+                    ],
+                    "answer": "Regional cooperation"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. Aditya-L1 studies the Sun\n2. Neutrinos are easy to detect\n3. GSAT-9 supports South Asia region",
+                    "options": [
+                        "1 and 3 only",
+                        "2 and 3 only",
+                        "1 and 2 only",
+                        "All"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                        "Aditya-L1 – solar mission",
+                        "GSAT-9 – Moon mission",
+                        "LIGO – satellite communication",
+                        "Neutrino – weather system"
+                    ],
+                    "answer": "Aditya-L1 – solar mission"
+                },
+                {
+                    "question": "Main challenge in neutrino detection is:",
+                    "options": [
+                        "High visibility",
+                        "Weak interaction with matter",
+                        "Strong radiation",
+                        "Easy detection"
+                    ],
+                    "answer": "Weak interaction with matter"
+                },
+                {
+                    "question": "Gravitational waves help in studying:",
+                    "options": [
+                        "Black holes",
+                        "Rivers",
+                        "Clouds",
+                        "Earthquakes only"
+                    ],
+                    "answer": "Black holes"
+                },
+                {
+                    "question": "South Asia Satellite strengthens:",
+                    "options": [
+                        "Space warfare",
+                        "Regional cooperation",
+                        "Agriculture only",
+                        "Mining industry"
+                    ],
+                    "answer": "Regional cooperation"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Space Science – FAST, Spitzer Telescope, GMRT & Chandra X-ray Observatory",
+        "notes": [
+            {
+                "heading": "Introduction",
+                "points": [
+                    "Modern astronomy relies on advanced telescopes that observe different wavelengths of electromagnetic radiation",
+                    "Radio, infrared, and X-ray telescopes help study the universe beyond visible light",
+                    "These instruments reveal black holes, galaxies, star formation, and cosmic evolution",
+                    "Major observatories include FAST (China), Spitzer (NASA), GMRT (India), and Chandra (NASA)",
+                    "Important for UPSC GS Paper 3 and space science current affairs"
+                ]
+            },
+            {
+                "heading": "FAST (Five-hundred-meter Aperture Spherical Telescope) – Overview",
+                "points": [
+                    "FAST is the world’s largest single-dish radio telescope",
+                    "Located in Guizhou province, China",
+                    "Completed in 2016 and operational since 2019",
+                    "Used for radio astronomy observations of deep space",
+                    "Designed to detect faint radio signals from the universe"
+                ]
+            },
+            {
+                "heading": "Features of FAST Telescope",
+                "points": [
+                    "Diameter of 500 meters, making it extremely powerful",
+                    "Built in a natural depression (karst formation)",
+                    "Highly sensitive to weak cosmic radio signals",
+                    "Used for pulsar detection and fast radio bursts (FRBs)",
+                    "Requires minimal human interference in observation zone"
+                ]
+            },
+            {
+                "heading": "Applications of FAST",
+                "points": [
+                    "Detection of pulsars and neutron stars",
+                    "Study of galaxies and cosmic evolution",
+                    "Search for extraterrestrial signals (SETI research)",
+                    "Observation of fast radio bursts",
+                    "Mapping hydrogen distribution in the universe"
+                ]
+            },
+            {
+                "heading": "Spitzer Space Telescope – Overview",
+                "points": [
+                    "NASA’s infrared space telescope launched in 2003",
+                    "Part of NASA’s Great Observatories program",
+                    "Designed to observe infrared radiation from space",
+                    "Helped study cold and distant objects in the universe",
+                    "Retired in 2020 after successful mission life"
+                ]
+            },
+            {
+                "heading": "Features of Spitzer Telescope",
+                "points": [
+                    "Infrared observation capability",
+                    "Helps see through cosmic dust clouds",
+                    "Located in Earth-trailing solar orbit",
+                    "Studied exoplanets and star formation",
+                    "Provided deep-field infrared images of universe"
+                ]
+            },
+            {
+                "heading": "Contributions of Spitzer Telescope",
+                "points": [
+                    "Discovered exoplanet atmospheres",
+                    "Studied formation of stars and galaxies",
+                    "Detected distant and early universe objects",
+                    "Improved understanding of cosmic dust and molecular clouds",
+                    "Supported research on planetary systems"
+                ]
+            },
+            {
+                "heading": "Giant Metrewave Radio Telescope (GMRT) – Overview",
+                "points": [
+                    "Located near Pune, India",
+                    "Operated by the National Centre for Radio Astrophysics (NCRA)",
+                    "One of the world’s largest radio telescope arrays at meter wavelengths",
+                    "Consists of 30 fully steerable parabolic dishes",
+                    "Used for studying radio waves from space"
+                ]
+            },
+            {
+                "heading": "Features of GMRT",
+                "points": [
+                    "Operates in low-frequency radio spectrum",
+                    "Detects faint radio signals from distant galaxies",
+                    "Used for pulsars, quasars, and cosmic background studies",
+                    "Highly sensitive to long-wavelength radio emissions",
+                    "Upgraded to uGMRT for improved performance"
+                ]
+            },
+            {
+                "heading": "Applications of GMRT",
+                "points": [
+                    "Study of pulsars and neutron stars",
+                    "Understanding galaxy formation",
+                    "Detection of cosmic radio emissions",
+                    "Research on dark matter and early universe",
+                    "Space weather and solar studies"
+                ]
+            },
+            {
+                "heading": "Chandra X-ray Observatory – Overview",
+                "points": [
+                    "NASA space telescope launched in 1999",
+                    "Designed to observe X-rays from high-energy regions of universe",
+                    "Part of NASA’s Great Observatories program",
+                    "Named after astrophysicist Subrahmanyan Chandrasekhar",
+                    "Observes extreme cosmic environments"
+                ]
+            },
+            {
+                "heading": "Features of Chandra Observatory",
+                "points": [
+                    "Detects high-energy X-ray radiation",
+                    "Observes black holes, supernovae, and neutron stars",
+                    "Placed in highly elliptical Earth orbit",
+                    "Extremely high-resolution X-ray imaging capability",
+                    "Works outside Earth’s atmosphere for clear X-ray detection"
+                ]
+            },
+            {
+                "heading": "Contributions of Chandra Observatory",
+                "points": [
+                    "Studied black hole behavior and event horizons",
+                    "Observed supernova explosions",
+                    "Mapped hot gas in galaxy clusters",
+                    "Helped understand dark matter distribution",
+                    "Revealed high-energy cosmic phenomena"
+                ]
+            },
+            {
+                "heading": "Comparison of Telescopes",
+                "points": [
+                    "FAST – Radio telescope (China)",
+                    "GMRT – Radio telescope (India)",
+                    "Spitzer – Infrared telescope (NASA)",
+                    "Chandra – X-ray telescope (NASA)",
+                    "Each observes different part of electromagnetic spectrum"
+                ]
+            },
+            {
+                "heading": "Importance in Astronomy",
+                "points": [
+                    "Different telescopes help study different wavelengths of universe",
+                    "Radio telescopes detect cold and distant objects",
+                    "Infrared telescopes see through dust clouds",
+                    "X-ray telescopes study high-energy cosmic events",
+                    "Together they provide a complete picture of the universe"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "FAST telescope is located in:",
+                    "options": [
+                        "India",
+                        "China",
+                        "USA",
+                        "Japan"
+                    ],
+                    "answer": "China"
+                },
+                {
+                    "question": "Spitzer Space Telescope observes:",
+                    "options": [
+                        "Radio waves",
+                        "Infrared radiation",
+                        "X-rays",
+                        "Gamma rays"
+                    ],
+                    "answer": "Infrared radiation"
+                },
+                {
+                    "question": "GMRT is located in:",
+                    "options": [
+                        "Delhi",
+                        "Pune",
+                        "Bengaluru",
+                        "Kolkata"
+                    ],
+                    "answer": "Pune"
+                },
+                {
+                    "question": "Chandra X-ray Observatory studies:",
+                    "options": [
+                        "Low energy light",
+                        "X-ray emissions",
+                        "Sound waves",
+                        "Water waves"
+                    ],
+                    "answer": "X-ray emissions"
+                },
+                {
+                    "question": "GMRT is used for:",
+                    "options": [
+                        "Weather forecasting",
+                        "Radio astronomy",
+                        "Ocean study",
+                        "Agriculture"
+                    ],
+                    "answer": "Radio astronomy"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "FAST telescope diameter is:",
+                    "options": [
+                        "50 m",
+                        "500 m",
+                        "5 km",
+                        "5000 m"
+                    ],
+                    "answer": "500 m"
+                },
+                {
+                    "question": "Spitzer Space Telescope was operated by:",
+                    "options": [
+                        "ISRO",
+                        "NASA",
+                        "ESA",
+                        "Roscosmos"
+                    ],
+                    "answer": "NASA"
+                },
+                {
+                    "question": "Chandra Observatory is named after:",
+                    "options": [
+                        "APJ Abdul Kalam",
+                        "Subrahmanyan Chandrasekhar",
+                        "Homi Bhabha",
+                        "Vikram Sarabhai"
+                    ],
+                    "answer": "Subrahmanyan Chandrasekhar"
+                },
+                {
+                    "question": "GMRT stands for:",
+                    "options": [
+                        "Global Magnetic Radio Telescope",
+                        "Giant Metrewave Radio Telescope",
+                        "General Microwave Radio Tool",
+                        "Galactic Mapping Radio Telescope"
+                    ],
+                    "answer": "Giant Metrewave Radio Telescope"
+                },
+                {
+                    "question": "Infrared telescopes help in studying:",
+                    "options": [
+                        "Hot gases only",
+                        "Objects hidden by dust clouds",
+                        "Sound waves",
+                        "Earth crust"
+                    ],
+                    "answer": "Objects hidden by dust clouds"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. FAST is a radio telescope\n2. Spitzer observes infrared waves\n3. Chandra observes X-rays",
+                    "options": [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "All"
+                    ],
+                    "answer": "All"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                        "FAST – China radio telescope",
+                        "GMRT – X-ray telescope",
+                        "Spitzer – radio telescope",
+                        "Chandra – infrared telescope"
+                    ],
+                    "answer": "FAST – China radio telescope"
+                },
+                {
+                    "question": "Main advantage of radio telescopes is:",
+                    "options": [
+                        "Observe visible light only",
+                        "Detect distant cosmic radio signals",
+                        "Measure temperature of Earth",
+                        "Generate electricity"
+                    ],
+                    "answer": "Detect distant cosmic radio signals"
+                },
+                {
+                    "question": "Chandra telescope helps study:",
+                    "options": [
+                        "Black holes and supernovae",
+                        "Rivers and lakes",
+                        "Weather patterns",
+                        "Soil fertility"
+                    ],
+                    "answer": "Black holes and supernovae"
+                },
+                {
+                    "question": "Different telescopes are needed because:",
+                    "options": [
+                        "Universe emits only one type of radiation",
+                        "Different wavelengths reveal different cosmic phenomena",
+                        "Only radio waves exist in space",
+                        "Telescopes are identical"
+                    ],
+                    "answer": "Different wavelengths reveal different cosmic phenomena"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Space Technology – JWST, ARIES, Solar Telescope, TMT & Resourcesat-2A",
+        "notes": [
+            {
+                "heading": "Introduction",
+                "points": [
+                    "Modern astronomy uses advanced ground-based and space-based telescopes to study the universe across multiple wavelengths",
+                    "These instruments help in understanding galaxy formation, star birth, solar activity, and Earth observation",
+                    "Key systems include James Webb Space Telescope, ARIES/Devasthal Telescope, Multi-Application Solar Telescope, Thirty Meter Telescope, and Resourcesat-2A",
+                    "They represent global collaboration and India’s growing space capabilities"
+                ]
+            },
+            {
+                "heading": "James Webb Space Telescope (JWST) – Overview",
+                "points": [
+                    "JWST is the most powerful space telescope ever launched",
+                    "Developed by NASA in collaboration with ESA and CSA (Canadian Space Agency)",
+                    "Launched in December 2021",
+                    "Designed as a successor to the Hubble Space Telescope",
+                    "Observes the universe in infrared spectrum"
+                ]
+            },
+            {
+                "heading": "Features of JWST",
+                "points": [
+                    "Large 6.5-meter segmented primary mirror",
+                    "Located at Sun-Earth L2 Lagrange point",
+                    "Infrared observation capability to see early universe",
+                    "Protected by a large sunshield to block heat and light",
+                    "Extremely sensitive to faint cosmic signals"
+                ]
+            },
+            {
+                "heading": "Objectives of JWST",
+                "points": [
+                    "Study formation of first galaxies after Big Bang",
+                    "Observe star and planet formation",
+                    "Analyze atmospheres of exoplanets",
+                    "Understand dark matter and cosmic evolution",
+                    "Replace and extend Hubble Space Telescope observations"
+                ]
+            },
+            {
+                "heading": "Significance of JWST",
+                "points": [
+                    "Allows observation of very early universe (first light objects)",
+                    "Helps search for habitable exoplanets",
+                    "Improves understanding of cosmic origins",
+                    "Provides deeper infrared images than Hubble",
+                    "Revolutionizes astronomy and astrophysics"
+                ]
+            },
+            {
+                "heading": "ARIES / Devasthal Telescope – Overview",
+                "points": [
+                    "ARIES stands for Aryabhatta Research Institute of Observational Sciences",
+                    "Located in Devasthal, Uttarakhand, India",
+                    "Hosts one of Asia’s largest optical telescopes",
+                    "Operated by Indian research institutions",
+                    "Used for optical and astronomical observations"
+                ]
+            },
+            {
+                "heading": "Features of Devasthal Telescope",
+                "points": [
+                    "3.6-meter optical telescope",
+                    "High altitude location for clear sky observation",
+                    "Advanced imaging and spectroscopic capability",
+                    "Collaborative project with international institutions",
+                    "Supports deep sky and galaxy research"
+                ]
+            },
+            {
+                "heading": "Applications of ARIES Telescope",
+                "points": [
+                    "Study of stars and galaxies",
+                    "Observation of cosmic structures",
+                    "Research on variable stars and supernovae",
+                    "Astronomical spectroscopy",
+                    "Contributes to astrophysics research in India"
+                ]
+            },
+            {
+                "heading": "Multi-Application Solar Telescope (MAST) – Overview",
+                "points": [
+                    "Located at Udaipur Solar Observatory, India",
+                    "Designed for high-resolution solar observations",
+                    "Used to study solar magnetic fields and activity",
+                    "Specialized instrument for solar physics research",
+                    "Operated by Physical Research Laboratory (PRL)"
+                ]
+            },
+            {
+                "heading": "Features of MAST",
+                "points": [
+                    "High-resolution imaging of Sun’s photosphere and chromosphere",
+                    "Studies solar flares and sunspots",
+                    "Analyzes solar magnetic field structure",
+                    "Advanced adaptive optics system",
+                    "Supports space weather research"
+                ]
+            },
+            {
+                "heading": "Importance of MAST",
+                "points": [
+                    "Helps understand solar activity cycles",
+                    "Improves space weather forecasting",
+                    "Protects satellites and communication systems",
+                    "Contributes to solar physics research",
+                    "Enhances understanding of Sun-Earth connection"
+                ]
+            },
+            {
+                "heading": "Thirty Meter Telescope (TMT) – Overview",
+                "points": [
+                    "International astronomical observatory project",
+                    "Planned with 30-meter primary mirror",
+                    "Proposed location: Mauna Kea, Hawaii (facing challenges) and backup site in La Palma",
+                    "India is a key partner in the project",
+                    "Designed for extremely high-resolution observations"
+                ]
+            },
+            {
+                "heading": "Features of TMT",
+                "points": [
+                    "Segmented mirror design for ultra-high resolution",
+                    "Will be one of the largest optical telescopes in the world",
+                    "Adaptive optics for sharp images",
+                    "Observes visible, infrared, and near-ultraviolet light",
+                    "International collaboration (USA, India, Japan, Canada, China)"
+                ]
+            },
+            {
+                "heading": "Scientific Goals of TMT",
+                "points": [
+                    "Study formation of galaxies and stars",
+                    "Explore dark matter and dark energy",
+                    "Investigate black holes",
+                    "Study exoplanet atmospheres",
+                    "Understand early universe evolution"
+                ]
+            },
+            {
+                "heading": "Resourcesat-2A – Overview",
+                "points": [
+                    "Earth observation satellite launched by ISRO in 2016",
+                    "Part of Resourcesat series for natural resource monitoring",
+                    "Provides data for agriculture, forestry, and land use studies",
+                    "Operates in polar sun-synchronous orbit",
+                    "Supports national planning and resource management"
+                ]
+            },
+            {
+                "heading": "Features of Resourcesat-2A",
+                "points": [
+                    "Carries multiple imaging sensors (LISS, AWiFS)",
+                    "High-resolution multispectral imaging capability",
+                    "Continuous Earth observation coverage",
+                    "Supports real-time data acquisition",
+                    "Replaces and enhances earlier Resourcesat missions"
+                ]
+            },
+            {
+                "heading": "Applications of Resourcesat-2A",
+                "points": [
+                    "Agricultural crop monitoring",
+                    "Forest and vegetation mapping",
+                    "Land use and land cover analysis",
+                    "Water resource management",
+                    "Disaster monitoring and planning"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "James Webb Space Telescope observes mainly in:",
+                    "options": [
+                        "Radio waves",
+                        "Infrared spectrum",
+                        "X-rays",
+                        "Ultraviolet only"
+                    ],
+                    "answer": "Infrared spectrum"
+                },
+                {
+                    "question": "ARIES is located in:",
+                    "options": [
+                        "Uttarakhand",
+                        "Kerala",
+                        "Gujarat",
+                        "Assam"
+                    ],
+                    "answer": "Uttarakhand"
+                },
+                {
+                    "question": "MAST is used for studying:",
+                    "options": [
+                        "Moon surface",
+                        "Sun",
+                        "Mars",
+                        "Deep ocean"
+                    ],
+                    "answer": "Sun"
+                },
+                {
+                    "question": "TMT stands for:",
+                    "options": [
+                        "Thirty Meter Telescope",
+                        "Terrestrial Mapping Telescope",
+                        "Total Meteor Tracking",
+                        "Thermal Measurement Tool"
+                    ],
+                    "answer": "Thirty Meter Telescope"
+                },
+                {
+                    "question": "Resourcesat-2A is used for:",
+                    "options": [
+                        "Space tourism",
+                        "Earth resource monitoring",
+                        "Moon landing",
+                        "Star mapping only"
+                    ],
+                    "answer": "Earth resource monitoring"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "JWST is located at:",
+                    "options": [
+                        "Low Earth Orbit",
+                        "Sun-Earth L2 point",
+                        "Moon surface",
+                        "Mars orbit"
+                    ],
+                    "answer": "Sun-Earth L2 point"
+                },
+                {
+                    "question": "Devasthal Telescope is operated by:",
+                    "options": [
+                        "ISRO",
+                        "ARIES",
+                        "NASA",
+                        "ESA"
+                    ],
+                    "answer": "ARIES"
+                },
+                {
+                    "question": "MAST helps in studying:",
+                    "options": [
+                        "Earth core",
+                        "Solar magnetic fields",
+                        "Ocean currents",
+                        "Atmospheric pollution only"
+                    ],
+                    "answer": "Solar magnetic fields"
+                },
+                {
+                    "question": "TMT is an example of:",
+                    "options": [
+                        "Radio telescope",
+                        "Optical telescope",
+                        "Satellite",
+                        "Rocket system"
+                    ],
+                    "answer": "Optical telescope"
+                },
+                {
+                    "question": "Resourcesat satellites are mainly used for:",
+                    "options": [
+                        "Defense only",
+                        "Natural resource monitoring",
+                        "Moon exploration",
+                        "Communication"
+                    ],
+                    "answer": "Natural resource monitoring"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. JWST observes infrared light\n2. TMT is an international project\n3. Resourcesat-2A is a communication satellite",
+                    "options": [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "All"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                        "JWST – infrared telescope",
+                        "MAST – galaxy observation",
+                        "Resourcesat – lunar mission",
+                        "TMT – weather satellite"
+                    ],
+                    "answer": "JWST – infrared telescope"
+                },
+                {
+                    "question": "Main advantage of JWST is:",
+                    "options": [
+                        "Visible light imaging only",
+                        "Infrared observation of early universe",
+                        "Weather forecasting",
+                        "Navigation system"
+                    ],
+                    "answer": "Infrared observation of early universe"
+                },
+                {
+                    "question": "Resourcesat-2A helps in:",
+                    "options": [
+                        "Agriculture and land use mapping",
+                        "Space tourism",
+                        "Black hole study",
+                        "Solar flares only"
+                    ],
+                    "answer": "Agriculture and land use mapping"
+                },
+                {
+                    "question": "MAST contributes to:",
+                    "options": [
+                        "Solar physics research",
+                        "Oceanography",
+                        "Navigation systems",
+                        "Mining operations"
+                    ],
+                    "answer": "Solar physics research"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Space Science – ASTROSAT, Sunspots, Magnetars, Neutron Stars & Air-breathing Propulsion",
+        "notes": [
+            {
+                "heading": "Introduction",
+                "points": [
+                    "Modern astrophysics studies high-energy phenomena and stellar evolution using space observatories and advanced propulsion systems",
+                    "India’s ASTROSAT is a key multi-wavelength space observatory",
+                    "Sunspots, neutron stars, and magnetars help explain solar and stellar activity",
+                    "Air-breathing propulsion is an emerging rocket technology improving space launch efficiency",
+                    "These topics are important for UPSC GS Paper 3 (Science & Technology)"
+                ]
+            },
+            {
+                "heading": "ASTROSAT – Overview",
+                "points": [
+                    "ASTROSAT is India’s first dedicated multi-wavelength space observatory",
+                    "Launched by ISRO in 2015",
+                    "Designed to observe the universe in visible, ultraviolet, and X-ray wavelengths",
+                    "Operates from a near-Earth orbit",
+                    "Developed by ISRO with Indian and international collaboration"
+                ]
+            },
+            {
+                "heading": "Features of ASTROSAT",
+                "points": [
+                    "Multi-wavelength observation capability (optical, UV, X-ray)",
+                    "Carries multiple payloads like UVIT, LAXPC, and SXT",
+                    "Observes both near and distant cosmic sources",
+                    "Helps study high-energy astrophysical phenomena",
+                    "Provides simultaneous observations in different wavelengths"
+                ]
+            },
+            {
+                "heading": "Objectives of ASTROSAT",
+                "points": [
+                    "Study neutron stars, black holes, and pulsars",
+                    "Understand high-energy processes in the universe",
+                    "Observe star formation and galaxy evolution",
+                    "Study cosmic X-ray and UV sources",
+                    "Provide simultaneous multi-wavelength data"
+                ]
+            },
+            {
+                "heading": "Significance of ASTROSAT",
+                "points": [
+                    "First Indian mission to perform multi-wavelength astronomy",
+                    "Strengthens India’s position in space astrophysics",
+                    "Provides unique simultaneous cosmic observations",
+                    "Supports international scientific research",
+                    "Enhances understanding of extreme cosmic objects"
+                ]
+            },
+            {
+                "heading": "Sunspots – Overview",
+                "points": [
+                    "Sunspots are temporary dark regions on the Sun’s surface",
+                    "Caused by intense magnetic activity",
+                    "Appear darker because they are cooler than surrounding areas",
+                    "Part of solar activity cycle (~11 years)",
+                    "Indicate solar magnetic field variations"
+                ]
+            },
+            {
+                "heading": "Characteristics of Sunspots",
+                "points": [
+                    "Lower temperature than surrounding photosphere",
+                    "Strong magnetic fields",
+                    "Often occur in pairs or groups",
+                    "Appear and disappear over days or weeks",
+                    "More frequent during solar maximum"
+                ]
+            },
+            {
+                "heading": "Importance of Sunspots",
+                "points": [
+                    "Indicate solar activity cycle",
+                    "Influence space weather and geomagnetic storms",
+                    "Affect satellite communication and navigation systems",
+                    "Impact Earth’s climate patterns (indirectly)",
+                    "Help study solar magnetic field dynamics"
+                ]
+            },
+            {
+                "heading": "Magnetars – Overview",
+                "points": [
+                    "Magnetars are a type of neutron star with extremely strong magnetic fields",
+                    "Formed after the collapse of massive stars in supernova explosions",
+                    "Have the strongest known magnetic fields in the universe",
+                    "Emit high-energy radiation like X-rays and gamma rays",
+                    "Highly dense and compact celestial objects"
+                ]
+            },
+            {
+                "heading": "Features of Magnetars",
+                "points": [
+                    "Magnetic field trillions of times stronger than Earth’s",
+                    "Small size but extremely high mass density",
+                    "Short-lived bursts of gamma rays",
+                    "Rapid rotation and intense energy emissions",
+                    "Believed to be a rare type of neutron star"
+                ]
+            },
+            {
+                "heading": "Importance of Magnetars",
+                "points": [
+                    "Help study extreme physics and magnetic fields",
+                    "Explain gamma-ray bursts in space",
+                    "Provide insight into stellar evolution",
+                    "Test theories of quantum physics and relativity",
+                    "Important for high-energy astrophysics research"
+                ]
+            },
+            {
+                "heading": "Neutron Stars – Overview",
+                "points": [
+                    "Neutron stars are dense remnants of massive stars after supernova explosion",
+                    "Composed mostly of neutrons",
+                    "Extremely small in size but very massive",
+                    "One teaspoon of neutron star material would weigh billions of tons",
+                    "Include pulsars and magnetars as special types"
+                ]
+            },
+            {
+                "heading": "Features of Neutron Stars",
+                "points": [
+                    "Very high density and gravity",
+                    "Strong magnetic fields",
+                    "Rapid rotation (pulsars rotate very fast)",
+                    "Emit beams of radiation",
+                    "Formed from collapsed stellar cores"
+                ]
+            },
+            {
+                "heading": "Importance of Neutron Stars",
+                "points": [
+                    "Help understand stellar life cycle",
+                    "Used to test laws of physics under extreme conditions",
+                    "Source of gravitational wave events (neutron star collisions)",
+                    "Important for astrophysical research",
+                    "Contribute to understanding of universe evolution"
+                ]
+            },
+            {
+                "heading": "Air-breathing Propulsion System – Overview",
+                "points": [
+                    "Air-breathing propulsion uses atmospheric oxygen for combustion instead of carrying oxidizer",
+                    "Reduces weight of spacecraft by using air during initial flight phase",
+                    "ISRO is developing this technology for reusable and efficient launch systems",
+                    "Known as Air Breathing Propulsion System (ABPS) or scramjet technology",
+                    "Important for future reusable space vehicles"
+                ]
+            },
+            {
+                "heading": "Working Principle of Air-breathing Engines",
+                "points": [
+                    "Takes oxygen from the atmosphere during flight",
+                    "Mixes air with onboard fuel for combustion",
+                    "Eliminates need for carrying large oxidizer tanks",
+                    "Operates efficiently at hypersonic speeds",
+                    "Suitable for lower atmosphere propulsion phase"
+                ]
+            },
+            {
+                "heading": "Advantages of Air-breathing Propulsion",
+                "points": [
+                    "Reduces launch weight significantly",
+                    "Improves fuel efficiency",
+                    "Increases payload capacity",
+                    "Cost-effective space launches",
+                    "Supports reusable launch vehicle development"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "ASTROSAT is India’s:",
+                    "options": [
+                        "Navigation satellite",
+                        "Multi-wavelength space observatory",
+                        "Communication satellite",
+                        "Weather satellite"
+                    ],
+                    "answer": "Multi-wavelength space observatory"
+                },
+                {
+                    "question": "Sunspots are caused by:",
+                    "options": [
+                        "Water vapor",
+                        "Magnetic activity",
+                        "Cloud formation",
+                        "Gravity waves"
+                    ],
+                    "answer": "Magnetic activity"
+                },
+                {
+                    "question": "Magnetars are a type of:",
+                    "options": [
+                        "Planet",
+                        "Neutron star",
+                        "Comet",
+                        "Galaxy"
+                    ],
+                    "answer": "Neutron star"
+                },
+                {
+                    "question": "Neutron stars are formed after:",
+                    "options": [
+                        "Birth of stars",
+                        "Supernova explosion",
+                        "Solar eclipse",
+                        "Planet formation"
+                    ],
+                    "answer": "Supernova explosion"
+                },
+                {
+                    "question": "Air-breathing propulsion uses:",
+                    "options": [
+                        "Water",
+                        "Atmospheric oxygen",
+                        "Helium",
+                        "Hydrogen only"
+                    ],
+                    "answer": "Atmospheric oxygen"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "ASTROSAT was launched in:",
+                    "options": [
+                        "2010",
+                        "2015",
+                        "2018",
+                        "2020"
+                    ],
+                    "answer": "2015"
+                },
+                {
+                    "question": "Sunspot cycle is approximately:",
+                    "options": [
+                        "5 years",
+                        "11 years",
+                        "20 years",
+                        "50 years"
+                    ],
+                    "answer": "11 years"
+                },
+                {
+                    "question": "Magnetars are known for:",
+                    "options": [
+                        "Weak magnetic fields",
+                        "Strong magnetic fields",
+                        "No radiation",
+                        "Slow rotation only"
+                    ],
+                    "answer": "Strong magnetic fields"
+                },
+                {
+                    "question": "Neutron stars are mainly composed of:",
+                    "options": [
+                        "Electrons",
+                        "Neutrons",
+                        "Protons",
+                        "Hydrogen"
+                    ],
+                    "answer": "Neutrons"
+                },
+                {
+                    "question": "Air-breathing engines improve:",
+                    "options": [
+                        "Fuel consumption efficiency",
+                        "Gravity strength",
+                        "Ocean tides",
+                        "Cloud formation"
+                    ],
+                    "answer": "Fuel consumption efficiency"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. ASTROSAT observes multiple wavelengths\n2. Magnetars have weak magnetic fields\n3. Sunspots indicate solar activity",
+                    "options": [
+                        "1 and 3 only",
+                        "2 and 3 only",
+                        "1 and 2 only",
+                        "All"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                        "ASTROSAT – space observatory",
+                        "Sunspots – lunar features",
+                        "Magnetars – planets",
+                        "Neutron stars – comets"
+                    ],
+                    "answer": "ASTROSAT – space observatory"
+                },
+                {
+                    "question": "Main advantage of air-breathing propulsion is:",
+                    "options": [
+                        "Increases rocket weight",
+                        "Reduces need for onboard oxidizer",
+                        "Stops combustion",
+                        "Eliminates fuel requirement"
+                    ],
+                    "answer": "Reduces need for onboard oxidizer"
+                },
+                {
+                    "question": "Neutron stars are important for studying:",
+                    "options": [
+                        "Extreme physics conditions",
+                        "Ocean currents",
+                        "Weather systems",
+                        "Plant growth"
+                    ],
+                    "answer": "Extreme physics conditions"
+                },
+                {
+                    "question": "Sunspots affect:",
+                    "options": [
+                        "Space weather and communication systems",
+                        "Ocean salinity",
+                        "Earth’s core rotation",
+                        "Rain formation directly"
+                    ],
+                    "answer": "Space weather and communication systems"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Space Technology – Space Junk, Graveyard Orbit, ISRO–NASA Collaboration, Astrobiology Mission, Neutrino Observatory & Space Vision 2025",
+        "notes": [
+            {
+                "heading": "Introduction",
+                "points": [
+                    "Space activities are expanding rapidly with increasing satellite launches and deep space exploration",
+                    "This has created challenges like space debris management and orbital congestion",
+                    "International collaborations like ISRO–NASA missions are strengthening scientific research",
+                    "India is also focusing on advanced areas like astrobiology, neutrino physics, and long-term space planning",
+                    "These topics are highly relevant for UPSC GS Paper 3 and current space affairs"
+                ]
+            },
+            {
+                "heading": "Space Junk (Space Debris) – Overview",
+                "points": [
+                    "Space junk refers to non-functional human-made objects orbiting Earth",
+                    "Includes defunct satellites, rocket stages, fragments, and collision debris",
+                    "Most debris is concentrated in Low Earth Orbit (LEO)",
+                    "Increasing due to rise in satellite launches and mega-constellations",
+                    "Presents a serious threat to active satellites and space missions"
+                ]
+            },
+            {
+                "heading": "Causes of Space Junk",
+                "points": [
+                    "Abandoned satellites after mission completion",
+                    "Upper stages of rockets left in orbit",
+                    "Collisions between satellites and debris",
+                    "Anti-satellite weapon (ASAT) tests",
+                    "Accidental explosions in space"
+                ]
+            },
+            {
+                "heading": "Impacts of Space Junk",
+                "points": [
+                    "Risk of collision with operational satellites",
+                    "Threat to International Space Station (ISS)",
+                    "Damage to communication and navigation systems",
+                    "Increased cost of space missions due to shielding needs",
+                    "Possibility of Kessler Syndrome (chain reaction collisions)"
+                ]
+            },
+            {
+                "heading": "Solutions to Space Junk",
+                "points": [
+                    "Active debris removal technologies (capture and deorbit)",
+                    "Designing satellites for controlled re-entry",
+                    "Space traffic management systems",
+                    "International guidelines for space sustainability",
+                    "Reusable launch vehicles reducing debris generation"
+                ]
+            },
+            {
+                "heading": "Graveyard Orbit – Overview",
+                "points": [
+                    "Graveyard orbit is a disposal orbit used for defunct satellites",
+                    "Located above geostationary orbit (~300 km higher)",
+                    "Used to move inactive satellites away from operational orbits",
+                    "Prevents interference with active communication satellites",
+                    "Important part of space debris management strategy"
+                ]
+            },
+            {
+                "heading": "Importance of Graveyard Orbit",
+                "points": [
+                    "Reduces congestion in geostationary orbit",
+                    "Minimizes collision risk with active satellites",
+                    "Ensures long-term sustainability of satellite operations",
+                    "Provides safe disposal method for space assets",
+                    "Widely used for communication satellites"
+                ]
+            },
+            {
+                "heading": "ISRO–NASA Collaboration – Overview",
+                "points": [
+                    "India and USA collaborate in multiple space science and exploration missions",
+                    "Focus areas include Earth observation, planetary science, and human spaceflight support",
+                    "Strengthens global scientific cooperation",
+                    "Examples include joint satellite missions and data sharing",
+                    "Enhances India’s global space presence"
+                ]
+            },
+            {
+                "heading": "Key Areas of Collaboration",
+                "points": [
+                    "Earth observation and climate monitoring",
+                    "Satellite data sharing for disaster management",
+                    "Human spaceflight safety research",
+                    "Deep space and planetary science missions",
+                    "Joint development of advanced space technologies"
+                ]
+            },
+            {
+                "heading": "Significance of ISRO–NASA Cooperation",
+                "points": [
+                    "Enhances scientific research capabilities",
+                    "Promotes peaceful use of outer space",
+                    "Improves disaster forecasting and response systems",
+                    "Encourages technology transfer and innovation",
+                    "Strengthens India–US strategic partnership"
+                ]
+            },
+            {
+                "heading": "Astrobiology Mission – Overview",
+                "points": [
+                    "Astrobiology is the study of life in the universe beyond Earth",
+                    "Focuses on origin, evolution, and possibility of extraterrestrial life",
+                    "Involves study of planets, moons, and exoplanets",
+                    "ISRO and global agencies are exploring astrobiological research",
+                    "Linked to missions like Mars and lunar exploration"
+                ]
+            },
+            {
+                "heading": "Objectives of Astrobiology Research",
+                "points": [
+                    "Search for signs of life beyond Earth",
+                    "Study conditions suitable for life on other planets",
+                    "Understand origin of life on Earth",
+                    "Analyze organic compounds in space",
+                    "Investigate Mars and icy moons like Europa and Enceladus"
+                ]
+            },
+            {
+                "heading": "Importance of Astrobiology",
+                "points": [
+                    "Helps understand whether life exists outside Earth",
+                    "Expands knowledge of planetary habitability",
+                    "Supports planetary protection policies",
+                    "Enhances scientific curiosity and exploration",
+                    "Drives future interplanetary missions"
+                ]
+            },
+            {
+                "heading": "Neutrino Observatory – Overview",
+                "points": [
+                    "Neutrino observatory studies subatomic particles called neutrinos",
+                    "India proposed India-based Neutrino Observatory (INO)",
+                    "Neutrinos are nearly massless and weakly interacting particles",
+                    "They help in understanding fundamental physics and universe evolution",
+                    "Requires underground facilities for detection"
+                ]
+            },
+            {
+                "heading": "Importance of Neutrino Observatory",
+                "points": [
+                    "Studies neutrino oscillations and mass hierarchy",
+                    "Helps understand matter-antimatter imbalance",
+                    "Contributes to particle physics research",
+                    "Explores cosmic phenomena like supernovae",
+                    "Enhances India’s position in fundamental science"
+                ]
+            },
+            {
+                "heading": "Indian Space Vision – 2025",
+                "points": [
+                    "Strategic roadmap for India’s space sector development",
+                    "Focus on increasing satellite launches and applications",
+                    "Encourages private sector participation in space industry",
+                    "Strengthens human spaceflight program (Gaganyaan)",
+                    "Expands deep space and interplanetary missions"
+                ]
+            },
+            {
+                "heading": "Key Goals of Space Vision 2025",
+                "points": [
+                    "Develop indigenous launch vehicle technologies",
+                    "Enhance Earth observation and communication satellites",
+                    "Promote commercial space sector growth",
+                    "Strengthen space research and innovation ecosystem",
+                    "Increase international collaboration in space science"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Space junk refers to:",
+                    "options": [
+                        "Active satellites",
+                        "Orbital debris",
+                        "Rocket fuel",
+                        "Asteroids"
+                    ],
+                    "answer": "Orbital debris"
+                },
+                {
+                    "question": "Graveyard orbit is used for:",
+                    "options": [
+                        "Launching satellites",
+                        "Disposing defunct satellites",
+                        "Weather forecasting",
+                        "Moon landing"
+                    ],
+                    "answer": "Disposing defunct satellites"
+                },
+                {
+                    "question": "Astrobiology studies:",
+                    "options": [
+                        "Earth’s oceans",
+                        "Life in the universe",
+                        "Weather patterns",
+                        "Rocket engines"
+                    ],
+                    "answer": "Life in the universe"
+                },
+                {
+                    "question": "Neutrinos are:",
+                    "options": [
+                        "Heavy atoms",
+                        "Weakly interacting particles",
+                        "Planets",
+                        "Stars"
+                    ],
+                    "answer": "Weakly interacting particles"
+                },
+                {
+                    "question": "Space Vision 2025 focuses on:",
+                    "options": [
+                        "Only Moon missions",
+                        "Overall space sector development",
+                        "Only weather satellites",
+                        "Only military satellites"
+                    ],
+                    "answer": "Overall space sector development"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Most space debris is found in:",
+                    "options": [
+                        "Deep space",
+                        "Low Earth Orbit",
+                        "Sun surface",
+                        "Moon surface"
+                    ],
+                    "answer": "Low Earth Orbit"
+                },
+                {
+                    "question": "Graveyard orbit is located:",
+                    "options": [
+                        "Below LEO",
+                        "Above geostationary orbit",
+                        "On Moon",
+                        "Inside Earth"
+                    ],
+                    "answer": "Above geostationary orbit"
+                },
+                {
+                    "question": "INO stands for:",
+                    "options": [
+                        "Indian Nuclear Observatory",
+                        "India-based Neutrino Observatory",
+                        "International Neutrino Orbit",
+                        "Indian Navigation Orbit"
+                    ],
+                    "answer": "India-based Neutrino Observatory"
+                },
+                {
+                    "question": "Astrobiology is related to:",
+                    "options": [
+                        "Space law",
+                        "Search for extraterrestrial life",
+                        "Rocket propulsion",
+                        "Communication satellites"
+                    ],
+                    "answer": "Search for extraterrestrial life"
+                },
+                {
+                    "question": "Space Vision 2025 includes:",
+                    "options": [
+                        "Reducing satellites",
+                        "Expanding space sector",
+                        "Stopping space missions",
+                        "Ending ISRO programs"
+                    ],
+                    "answer": "Expanding space sector"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. Space junk is increasing in LEO\n2. Graveyard orbit is used for disposal\n3. Neutrinos are strongly interacting particles",
+                    "options": [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "All"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                        "Graveyard orbit – satellite disposal",
+                        "Astrobiology – rocket design",
+                        "Neutrino – communication system",
+                        "Space junk – fuel source"
+                    ],
+                    "answer": "Graveyard orbit – satellite disposal"
+                },
+                {
+                    "question": "Main risk of space debris is:",
+                    "options": [
+                        "Better communication",
+                        "Collision with satellites",
+                        "Increase in gravity",
+                        "Weather change"
+                    ],
+                    "answer": "Collision with satellites"
+                },
+                {
+                    "question": "Astrobiology focuses on:",
+                    "options": [
+                        "Only Earth life",
+                        "Possibility of life beyond Earth",
+                        "Rocket fuel",
+                        "Satellite orbits"
+                    ],
+                    "answer": "Possibility of life beyond Earth"
+                },
+                {
+                    "question": "Space Vision 2025 aims to:",
+                    "options": [
+                        "Strengthen space ecosystem",
+                        "Stop satellite launches",
+                        "Reduce research",
+                        "Eliminate ISRO"
+                    ],
+                    "answer": "Strengthen space ecosystem"
+                }
+            ]
+        }
+    }
+]

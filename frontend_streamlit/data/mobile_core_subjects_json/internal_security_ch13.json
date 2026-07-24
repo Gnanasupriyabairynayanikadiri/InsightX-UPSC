@@ -1,0 +1,636 @@
+[
+    {
+        "name": "Various Security Forces and Their Mandate",
+        "notes": [
+            {
+                "heading": "Security Forces in India – Overview",
+                "points": [
+                    "India has multiple central security forces to handle different internal and border security roles",
+                    "Each force has a specific mandate based on geography and type of threat",
+                    "They operate under the Ministry of Home Affairs (MHA), except a few under Ministry of Defence",
+                    "Key forces include Assam Rifles, BSF, ITBP, CRPF, CISF, and others",
+                    "They play a crucial role in border management, counter-insurgency, and internal security"
+                ]
+            },
+            {
+                "heading": "Assam Rifles – Overview",
+                "points": [
+                    "Oldest paramilitary force in India, raised in 1835",
+                    "Operates under dual control of Ministry of Home Affairs and Indian Army",
+                    "Headquarters: Shillong, Meghalaya",
+                    "Known as the 'Sentinels of the North-East'",
+                    "Primary role in counter-insurgency and border security in North-East India"
+                ]
+            },
+            {
+                "heading": "Assam Rifles – Mandate and Functions",
+                "points": [
+                    "Counter-insurgency operations in North-Eastern states",
+                    "Maintenance of law and order in sensitive areas",
+                    "Border security along India-Myanmar border",
+                    "Assisting civil administration during emergencies",
+                    "Facilitating development activities in remote regions",
+                    "Supporting Army during wartime operations"
+                ]
+            },
+            {
+                "heading": "Assam Rifles – Key Features",
+                "points": [
+                    "Unique dual control structure (MHA and Army)",
+                    "Operates in difficult terrain of North-East India",
+                    "Focus on insurgency-prone regions",
+                    "Acts as a bridge between civil administration and armed forces",
+                    "Highly experienced in jungle warfare and counter-insurgency"
+                ]
+            },
+            {
+                "heading": "Border Security Force (BSF) – Overview",
+                "points": [
+                    "Largest border guarding force in the world",
+                    "Established in 1965 after Indo-Pak war of 1965",
+                    "Under Ministry of Home Affairs",
+                    "Responsible for safeguarding India’s land borders during peace time",
+                    "Headquarters: New Delhi"
+                ]
+            },
+            {
+                "heading": "BSF – Mandate and Functions",
+                "points": [
+                    "Guarding India-Pakistan and India-Bangladesh borders",
+                    "Preventing cross-border infiltration and smuggling",
+                    "Checking illegal immigration and trans-border crimes",
+                    "Assisting Army during war situations",
+                    "Maintaining border peace and security",
+                    "Supporting internal security duties when required"
+                ]
+            },
+            {
+                "heading": "BSF – Key Features",
+                "points": [
+                    "Operates in desert, riverine, and difficult border terrains",
+                    "High role in anti-smuggling operations",
+                    "Uses advanced surveillance technologies",
+                    "Deploys along sensitive international borders",
+                    "Plays important role in disaster relief during emergencies"
+                ]
+            },
+            {
+                "heading": "Indo-Tibetan Border Police (ITBP) – Overview",
+                "points": [
+                    "Raised in 1962 after Indo-China war",
+                    "Specialized mountain force under Ministry of Home Affairs",
+                    "Headquarters: New Delhi",
+                    "Known as 'Himveers'",
+                    "Primarily deployed along India-China border"
+                ]
+            },
+            {
+                "heading": "ITBP – Mandate and Functions",
+                "points": [
+                    "Guarding India-China border (Line of Actual Control)",
+                    "Preventing illegal infiltration from China side",
+                    "Border surveillance in high-altitude areas",
+                    "Counter-insurgency operations in select regions",
+                    "Disaster management in Himalayan regions",
+                    "Assisting local administration in remote areas"
+                ]
+            },
+            {
+                "heading": "ITBP – Key Features",
+                "points": [
+                    "Specialized in high-altitude warfare and mountain operations",
+                    "Operates in extreme cold and difficult terrain",
+                    "Highly trained in mountaineering and rescue operations",
+                    "Maintains posts at very high altitudes in Himalayas",
+                    "Provides medical and humanitarian assistance in border areas"
+                ]
+            },
+            {
+                "heading": "Comparison of Assam Rifles, BSF, and ITBP",
+                "points": [
+                    "Assam Rifles – North-East focus, counter-insurgency and border management",
+                    "BSF – Western and Eastern borders, large-scale border guarding",
+                    "ITBP – Northern borders, high-altitude mountain security",
+                    "All three operate under Ministry of Home Affairs",
+                    "Each force is specialized for different terrain and threats"
+                ]
+            },
+            {
+                "heading": "Role in Internal Security",
+                "points": [
+                    "Prevent infiltration and illegal cross-border activities",
+                    "Support state police in law and order situations",
+                    "Counter insurgency and terrorism operations",
+                    "Assist in disaster relief and emergency response",
+                    "Maintain territorial integrity of India"
+                ]
+            },
+            {
+                "heading": "Challenges Faced by Security Forces",
+                "points": [
+                    "Harsh geographical and climatic conditions",
+                    "High operational stress and risk to personnel",
+                    "Modernization and technological gaps in some areas",
+                    "Coordination issues between multiple forces",
+                    "Insurgency and asymmetric warfare challenges",
+                    "Long and difficult border management requirements"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Assam Rifles mainly operates in:",
+                    "options": [
+                        "Western India",
+                        "North-East India",
+                        "South India",
+                        "Central India"
+                    ],
+                    "answer": "North-East India"
+                },
+                {
+                    "question": "BSF was established in:",
+                    "options": [
+                        "1947",
+                        "1965",
+                        "1975",
+                        "1985"
+                    ],
+                    "answer": "1965"
+                },
+                {
+                    "question": "ITBP primarily guards:",
+                    "options": [
+                        "India-Pakistan border",
+                        "India-China border",
+                        "Coastal areas",
+                        "Airport security"
+                    ],
+                    "answer": "India-China border"
+                },
+                {
+                    "question": "Assam Rifles is under:",
+                    "options": [
+                        "Ministry of Defence only",
+                        "Ministry of Home Affairs and Indian Army",
+                        "Ministry of External Affairs",
+                        "State Governments only"
+                    ],
+                    "answer": "Ministry of Home Affairs and Indian Army"
+                },
+                {
+                    "question": "BSF stands for:",
+                    "options": [
+                        "Border Security Force",
+                        "Basic Security Force",
+                        "Border Safety Federation",
+                        "Border Service Force"
+                    ],
+                    "answer": "Border Security Force"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "ITBP is also known as:",
+                    "options": [
+                        "Desert Warriors",
+                        "Himveers",
+                        "Sea Guards",
+                        "Jungle Commandos"
+                    ],
+                    "answer": "Himveers"
+                },
+                {
+                    "question": "One function of BSF is:",
+                    "options": [
+                        "Space research",
+                        "Border guarding",
+                        "Tax collection",
+                        "Banking regulation"
+                    ],
+                    "answer": "Border guarding"
+                },
+                {
+                    "question": "Assam Rifles is called:",
+                    "options": [
+                        "Sentinels of North-East",
+                        "Guardians of Coast",
+                        "Desert Protectors",
+                        "Cyber Force"
+                    ],
+                    "answer": "Sentinels of North-East"
+                },
+                {
+                    "question": "ITBP specializes in:",
+                    "options": [
+                        "Desert warfare",
+                        "High-altitude operations",
+                        "Naval warfare",
+                        "Urban policing"
+                    ],
+                    "answer": "High-altitude operations"
+                },
+                {
+                    "question": "BSF is responsible for:",
+                    "options": [
+                        "Space security",
+                        "Land border security",
+                        "Air traffic control",
+                        "Railway management"
+                    ],
+                    "answer": "Land border security"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Assam Rifles works in North-East India\n2. BSF guards India-China border\n3. ITBP works in high-altitude regions",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "1 and 3"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                        "BSF – India-Pakistan border",
+                        "ITBP – coastal security",
+                        "Assam Rifles – airport security",
+                        "CRPF – space security"
+                    ],
+                    "answer": "BSF – India-Pakistan border"
+                },
+                {
+                    "question": "One unique feature of Assam Rifles is:",
+                    "options": [
+                        "Dual control structure",
+                        "Only naval operations",
+                        "No armed role",
+                        "Purely civil agency"
+                    ],
+                    "answer": "Dual control structure"
+                },
+                {
+                    "question": "ITBP is mainly deployed in:",
+                    "options": [
+                        "Himalayan border regions",
+                        "Coastal areas",
+                        "Urban cities",
+                        "Island territories"
+                    ],
+                    "answer": "Himalayan border regions"
+                },
+                {
+                    "question": "Security forces help internal security by:",
+                    "options": [
+                        "Increasing crime",
+                        "Border management and counter-insurgency",
+                        "Reducing governance",
+                        "Stopping trade"
+                    ],
+                    "answer": "Border management and counter-insurgency"
+                }
+            ]
+        }
+    },
+    {
+        "name": "CISF, CRPF, NSG & Issues in Paramilitary Forces",
+        "notes": [
+            {
+                "heading": "Central Armed Police Forces (CAPFs) – Overview",
+                "points": [
+                    "CAPFs are central forces under the Ministry of Home Affairs",
+                    "They support states in internal security and border management",
+                    "They are deployed in counter-insurgency, terrorism, and critical infrastructure protection",
+                    "Major CAPFs include CISF, CRPF, BSF, ITBP, SSB, and NSG",
+                    "Each force has a specialized operational mandate"
+                ]
+            },
+            {
+                "heading": "Central Industrial Security Force (CISF) – Overview",
+                "points": [
+                    "Established in 1969 under CISF Act",
+                    "Under Ministry of Home Affairs",
+                    "Responsible for security of critical infrastructure",
+                    "Known for protecting India's economic and industrial assets",
+                    "Headquarters: New Delhi"
+                ]
+            },
+            {
+                "heading": "CISF – Mandate and Functions",
+                "points": [
+                    "Security of airports across India",
+                    "Protection of metro rail systems and major urban transport",
+                    "Security of nuclear installations and space facilities",
+                    "Guarding major PSUs and industrial units",
+                    "Port and seaport security",
+                    "Disaster management support in industrial accidents"
+                ]
+            },
+            {
+                "heading": "CISF – Key Features",
+                "points": [
+                    "Specialized in industrial and infrastructure security",
+                    "Highly trained in anti-sabotage and fire safety",
+                    "Uses advanced surveillance and screening technologies",
+                    "Operates in high-security sensitive installations",
+                    "Provides VIP and event security when required"
+                ]
+            },
+            {
+                "heading": "Central Reserve Police Force (CRPF) – Overview",
+                "points": [
+                    "Largest Central Armed Police Force in India",
+                    "Established in 1939 as Crown Representative Police",
+                    "Under Ministry of Home Affairs",
+                    "Main internal security force of India",
+                    "Headquarters: New Delhi"
+                ]
+            },
+            {
+                "heading": "CRPF – Mandate and Functions",
+                "points": [
+                    "Counter-insurgency operations in Naxal-affected areas",
+                    "Maintaining law and order during riots and unrest",
+                    "Assisting state police in internal security situations",
+                    "VIP security duties when required",
+                    "Election security duties across states",
+                    "Disaster relief and humanitarian assistance"
+                ]
+            },
+            {
+                "heading": "CRPF – Key Features",
+                "points": [
+                    "Highly deployed in conflict zones like Jammu & Kashmir and Left-Wing Extremism areas",
+                    "Special units like COBRA for jungle warfare",
+                    "Largest deployment force in internal security operations",
+                    "Highly flexible for multi-role operations",
+                    "Significant role in maintaining internal stability"
+                ]
+            },
+            {
+                "heading": "National Security Guard (NSG) – Overview",
+                "points": [
+                    "Established in 1984 after Operation Blue Star",
+                    "Elite counter-terrorism force of India",
+                    "Under Ministry of Home Affairs",
+                    "Also known as 'Black Cats'",
+                    "Headquarters: Manesar, Haryana"
+                ]
+            },
+            {
+                "heading": "NSG – Mandate and Functions",
+                "points": [
+                    "Counter-terrorism operations and hostage rescue",
+                    "Neutralizing high-risk terrorist threats",
+                    "Handling hijacking and urban terror incidents",
+                    "VIP protection of high-risk individuals",
+                    "Anti-sabotage and bomb disposal operations",
+                    "Rapid deployment during national emergencies"
+                ]
+            },
+            {
+                "heading": "NSG – Key Features",
+                "points": [
+                    "Elite force selected from Army and CAPFs",
+                    "Highly specialized training in anti-terror operations",
+                    "Rapid reaction capability",
+                    "Operates in highly sensitive and urban environments",
+                    "Limited but high-impact deployment role"
+                ]
+            },
+            {
+                "heading": "Comparison of CISF, CRPF, and NSG",
+                "points": [
+                    "CISF – Infrastructure and industrial security",
+                    "CRPF – Internal security and law & order maintenance",
+                    "NSG – Elite counter-terrorism and special operations",
+                    "CRPF is largest; NSG is most elite; CISF is infrastructure-focused",
+                    "All operate under Ministry of Home Affairs"
+                ]
+            },
+            {
+                "heading": "Issues with Paramilitary Forces – Overview",
+                "points": [
+                    "CAPFs face structural, operational, and welfare challenges",
+                    "High operational stress due to frequent deployment",
+                    "Limited career progression compared to civil services",
+                    "Lack of adequate infrastructure in field locations",
+                    "Coordination challenges with state police forces"
+                ]
+            },
+            {
+                "heading": "Operational Issues",
+                "points": [
+                    "Extended deployment in conflict zones like LWE and J&K",
+                    "High casualty rates in insurgency operations",
+                    "Inadequate rest and rotation policies",
+                    "Lack of modern equipment in some units",
+                    "Difficulty in terrain-specific operations"
+                ]
+            },
+            {
+                "heading": "Administrative Issues",
+                "points": [
+                    "Dual control issues between Centre and field commanders",
+                    "Delayed promotions and career stagnation",
+                    "Lack of unified command structure",
+                    "Bureaucratic delays in decision-making",
+                    "Inter-force coordination gaps"
+                ]
+            },
+            {
+                "heading": "Welfare Issues",
+                "points": [
+                    "High stress and mental health challenges",
+                    "Frequent long-term postings away from families",
+                    "Inadequate housing and medical facilities",
+                    "Work-life imbalance",
+                    "Suicide and burnout cases among personnel"
+                ]
+            },
+            {
+                "heading": "Modernization Issues",
+                "points": [
+                    "Slow technological upgradation in some CAPFs",
+                    "Need for advanced weapons and surveillance systems",
+                    "Cyber and drone warfare preparedness gaps",
+                    "Training gaps in emerging security threats",
+                    "Dependence on outdated communication systems in some areas"
+                ]
+            },
+            {
+                "heading": "Way Forward",
+                "points": [
+                    "Improved coordination between CAPFs and state police",
+                    "Better rotation and leave policies for personnel",
+                    "Modernization of weapons and technology",
+                    "Unified command structure for better efficiency",
+                    "Enhanced mental health and welfare support",
+                    "Regular training in cyber and hybrid warfare"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "CISF mainly protects:",
+                    "options": [
+                        "Borders",
+                        "Industrial and infrastructure facilities",
+                        "Parliament only",
+                        "Space missions only"
+                    ],
+                    "answer": "Industrial and infrastructure facilities"
+                },
+                {
+                    "question": "CRPF is:",
+                    "options": [
+                        "Smallest CAPF",
+                        "Largest CAPF in India",
+                        "Naval force",
+                        "Air force unit"
+                    ],
+                    "answer": "Largest CAPF in India"
+                },
+                {
+                    "question": "NSG is also known as:",
+                    "options": [
+                        "Blue Tigers",
+                        "Black Cats",
+                        "White Guards",
+                        "Desert Force"
+                    ],
+                    "answer": "Black Cats"
+                },
+                {
+                    "question": "CISF was established in:",
+                    "options": [
+                        "1969",
+                        "1984",
+                        "1950",
+                        "1947"
+                    ],
+                    "answer": "1969"
+                },
+                {
+                    "question": "CRPF mainly deals with:",
+                    "options": [
+                        "Space security",
+                        "Internal security and law & order",
+                        "Naval operations",
+                        "Trade regulation"
+                    ],
+                    "answer": "Internal security and law & order"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "NSG was formed after:",
+                    "options": [
+                        "Kargil War",
+                        "Operation Blue Star",
+                        "Emergency 1975",
+                        "Indo-China War"
+                    ],
+                    "answer": "Operation Blue Star"
+                },
+                {
+                    "question": "CISF is under:",
+                    "options": [
+                        "Ministry of Defence",
+                        "Ministry of Home Affairs",
+                        "Ministry of External Affairs",
+                        "Prime Minister's Office"
+                    ],
+                    "answer": "Ministry of Home Affairs"
+                },
+                {
+                    "question": "CRPF includes specialized unit:",
+                    "options": [
+                        "COBRA",
+                        "RAW",
+                        "SPG",
+                        "DRDO"
+                    ],
+                    "answer": "COBRA"
+                },
+                {
+                    "question": "One role of NSG is:",
+                    "options": [
+                        "Agriculture support",
+                        "Counter-terrorism operations",
+                        "Tax collection",
+                        "Space research"
+                    ],
+                    "answer": "Counter-terrorism operations"
+                },
+                {
+                    "question": "CISF protects:",
+                    "options": [
+                        "Only borders",
+                        "Critical infrastructure",
+                        "Only forests",
+                        "Only villages"
+                    ],
+                    "answer": "Critical infrastructure"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. CISF protects industrial infrastructure\n2. CRPF is the largest CAPF\n3. NSG is a border guarding force",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                        "NSG – counter-terrorism",
+                        "CISF – border guarding",
+                        "CRPF – space security",
+                        "BSF – cybercrime only"
+                    ],
+                    "answer": "NSG – counter-terrorism"
+                },
+                {
+                    "question": "One major issue in CAPFs is:",
+                    "options": [
+                        "No deployment",
+                        "Work stress and welfare concerns",
+                        "No recruitment",
+                        "No operations"
+                    ],
+                    "answer": "Work stress and welfare concerns"
+                },
+                {
+                    "question": "COBRA unit is part of:",
+                    "options": [
+                        "CRPF",
+                        "CISF",
+                        "BSF",
+                        "NSG"
+                    ],
+                    "answer": "CRPF"
+                },
+                {
+                    "question": "Effective CAPF functioning requires:",
+                    "options": [
+                        "Weak training",
+                        "Modernization and welfare reforms",
+                        "No coordination",
+                        "Reduced deployment"
+                    ],
+                    "answer": "Modernization and welfare reforms"
+                }
+            ]
+        }
+    }
+]

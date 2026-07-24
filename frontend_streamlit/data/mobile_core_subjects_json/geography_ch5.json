@@ -1,0 +1,886 @@
+[
+    {
+        "name": "Tides",
+        "notes": [
+            {
+                "heading": "Tides – Overview",
+                "points": [
+                    "Tides are periodic rise and fall of sea level",
+                    "Caused mainly by gravitational forces of Moon and Sun",
+                    "Also influenced by Earth’s rotation",
+                    "Very predictable oceanic movement",
+                    "Important for coastal navigation and ecosystems"
+                ]
+            },
+            {
+                "heading": "Gravitational Forces and Tides – Relation",
+                "points": [
+                    "Moon is the primary cause of tides (strongest influence)",
+                    "Sun also contributes but is weaker due to distance",
+                    "Gravitational pull creates tidal bulges on Earth",
+                    "Earth’s rotation causes movement of these bulges",
+                    "Results in periodic rise and fall of sea level"
+                ]
+            },
+            {
+                "heading": "Mechanism of Tides",
+                "points": [
+                    "Water is pulled toward the Moon → high tide",
+                    "Opposite side also experiences high tide due to centrifugal force",
+                    "Areas in between experience low tide",
+                    "Earth rotates through these tidal bulges",
+                    "Creates regular tidal cycles"
+                ]
+            },
+            {
+                "heading": "Role of Sun in Tides",
+                "points": [
+                    "Sun’s gravity affects tides but is less than Moon",
+                    "When Sun, Moon, Earth align → stronger tides",
+                    "When at right angles → weaker tides",
+                    "Influences spring and neap tides",
+                    "Important seasonal variation factor"
+                ]
+            },
+            {
+                "heading": "Tidal Currents – Overview",
+                "points": [
+                    "Horizontal movement of water caused by tides",
+                    "Occurs during rise and fall of sea level",
+                    "Strong in narrow coastal areas and straits",
+                    "Can be very fast and powerful",
+                    "Important for navigation and sediment transport"
+                ]
+            },
+            {
+                "heading": "Types of Tidal Currents",
+                "points": [
+                    "Flood current: incoming tide (towards land)",
+                    "Ebb current: outgoing tide (towards sea)",
+                    "Slack water: period of no movement",
+                    "Reversing currents: change direction with tides",
+                    "Strongest in estuaries and bays"
+                ]
+            },
+            {
+                "heading": "Types of Tides – Overview",
+                "points": [
+                    "Spring tides",
+                    "Neap tides",
+                    "Diurnal tides",
+                    "Semi-diurnal tides",
+                    "Mixed tides"
+                ]
+            },
+            {
+                "heading": "1. Spring Tides",
+                "points": [
+                    "Occur when Sun, Moon, Earth are aligned",
+                    "Gravitational forces act in same direction",
+                    "Result in highest high tides and lowest low tides",
+                    "Occurs during full moon and new moon",
+                    "Very strong tidal range"
+                ]
+            },
+            {
+                "heading": "2. Neap Tides",
+                "points": [
+                    "Occur when Sun and Moon are at right angles",
+                    "Gravitational forces partially cancel each other",
+                    "Result in weaker tides",
+                    "Smaller difference between high and low tide",
+                    "Occurs during first and third quarter moon"
+                ]
+            },
+            {
+                "heading": "3. Diurnal Tides",
+                "points": [
+                    "One high tide and one low tide per day",
+                    "Common in Gulf of Mexico region",
+                    "24-hour tidal cycle",
+                    "Simple tidal pattern",
+                    "Less common globally"
+                ]
+            },
+            {
+                "heading": "4. Semi-Diurnal Tides",
+                "points": [
+                    "Two high tides and two low tides daily",
+                    "Most common tidal pattern globally",
+                    "Nearly equal tidal heights",
+                    "12-hour cycle",
+                    "Observed in Atlantic Ocean regions"
+                ]
+            },
+            {
+                "heading": "5. Mixed Tides",
+                "points": [
+                    "Two high and two low tides daily",
+                    "Unequal heights of tides",
+                    "Irregular pattern",
+                    "Common in Pacific Ocean",
+                    "Complex tidal behavior"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Main cause of tides is:",
+                    "options": [
+                        "Wind",
+                        "Moon’s gravity",
+                        "Earthquakes",
+                        "Rivers"
+                    ],
+                    "answer": "Moon’s gravity"
+                },
+                {
+                    "question": "Spring tides occur during:",
+                    "options": [
+                        "Full moon and new moon",
+                        "Quarter moon",
+                        "Solar eclipse only",
+                        "Winter season"
+                    ],
+                    "answer": "Full moon and new moon"
+                },
+                {
+                    "question": "Neap tides occur when:",
+                    "options": [
+                        "Sun and Moon align",
+                        "Sun and Moon are at right angles",
+                        "Earth stops rotating",
+                        "Moon disappears"
+                    ],
+                    "answer": "Sun and Moon are at right angles"
+                },
+                {
+                    "question": "Flood current means:",
+                    "options": [
+                        "Outgoing tide",
+                        "Incoming tide",
+                        "No movement",
+                        "Storm surge"
+                    ],
+                    "answer": "Incoming tide"
+                },
+                {
+                    "question": "Most common type of tide is:",
+                    "options": [
+                        "Diurnal",
+                        "Semi-diurnal",
+                        "Mixed",
+                        "Irregular"
+                    ],
+                    "answer": "Semi-diurnal"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Spring tides are:",
+                    "options": [
+                        "Weak tides",
+                        "Strong tides",
+                        "No tides",
+                        "Random tides"
+                    ],
+                    "answer": "Strong tides"
+                },
+                {
+                    "question": "Ebb current is:",
+                    "options": [
+                        "Incoming water",
+                        "Outgoing water",
+                        "Still water",
+                        "Rainwater flow"
+                    ],
+                    "answer": "Outgoing water"
+                },
+                {
+                    "question": "Tidal currents are strongest in:",
+                    "options": [
+                        "Deserts",
+                        "Narrow straits",
+                        "Mountains",
+                        "Plains"
+                    ],
+                    "answer": "Narrow straits"
+                },
+                {
+                    "question": "Diurnal tide has:",
+                    "options": [
+                        "Two high tides",
+                        "One high tide",
+                        "Three tides",
+                        "No tides"
+                    ],
+                    "answer": "One high tide"
+                },
+                {
+                    "question": "Mixed tides are common in:",
+                    "options": [
+                        "Atlantic Ocean",
+                        "Pacific Ocean",
+                        "Arctic Ocean",
+                        "Rivers"
+                    ],
+                    "answer": "Pacific Ocean"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Moon is main cause of tides\n2. Spring tides occur during alignment\n3. Neap tides are strongest tides",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                        "Flood current – incoming tide",
+                        "Ebb current – incoming tide",
+                        "Neap tide – strongest tide",
+                        "Spring tide – weakest tide"
+                    ],
+                    "answer": "Flood current – incoming tide"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Sun has no effect on tides",
+                        "Moon has strongest influence on tides",
+                        "Tides are random",
+                        "Rivers cause tides"
+                    ],
+                    "answer": "Moon has strongest influence on tides"
+                },
+                {
+                    "question": "Semi-diurnal tides have:",
+                    "options": [
+                        "One tide per day",
+                        "Two tides per day",
+                        "Three tides per day",
+                        "No tides"
+                    ],
+                    "answer": "Two tides per day"
+                },
+                {
+                    "question": "Tidal currents are important because they:",
+                    "options": [
+                        "Form mountains",
+                        "Transport sediments",
+                        "Stop winds",
+                        "Create earthquakes"
+                    ],
+                    "answer": "Transport sediments"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Types of Tides and Importance of Tides",
+        "notes": [
+            {
+                "heading": "Tides – Overview",
+                "points": [
+                    "Tides are periodic rise and fall of sea level",
+                    "Caused mainly by gravitational pull of Moon and Sun",
+                    "Earth’s rotation influences tidal cycles",
+                    "Highly predictable oceanic phenomenon",
+                    "Important for coastal and marine systems"
+                ]
+            },
+            {
+                "heading": "Based on Frequency – Types of Tides",
+                "points": [
+                    "Semi-diurnal tides",
+                    "Diurnal tides",
+                    "Mixed tides"
+                ]
+            },
+            {
+                "heading": "1. Semi-Diurnal Tides",
+                "points": [
+                    "Two high tides and two low tides in a day",
+                    "Each tide approximately equal in height",
+                    "Most common type globally",
+                    "Occurs every ~12 hours cycle",
+                    "Example: Atlantic Ocean regions"
+                ]
+            },
+            {
+                "heading": "2. Diurnal Tides",
+                "points": [
+                    "One high tide and one low tide per day",
+                    "Tidal cycle of about 24 hours",
+                    "Less common globally",
+                    "Observed in Gulf of Mexico region",
+                    "Simple tidal pattern"
+                ]
+            },
+            {
+                "heading": "3. Mixed Tides",
+                "points": [
+                    "Two high tides and two low tides daily",
+                    "Unequal height of tides",
+                    "Irregular tidal pattern",
+                    "Common in Pacific Ocean",
+                    "Complex tidal behavior"
+                ]
+            },
+            {
+                "heading": "Based on Sun-Moon-Earth Position (SME Position)",
+                "points": [
+                    "Spring tides",
+                    "Neap tides"
+                ]
+            },
+            {
+                "heading": "1. Spring Tides",
+                "points": [
+                    "Occurs when Sun, Moon, Earth are in a straight line",
+                    "Gravitational forces act in same direction",
+                    "Results in highest high tides and lowest low tides",
+                    "Occurs during full moon and new moon",
+                    "Very strong tidal range"
+                ]
+            },
+            {
+                "heading": "2. Neap Tides",
+                "points": [
+                    "Occurs when Sun and Moon are at right angles",
+                    "Gravitational forces partially cancel each other",
+                    "Results in weak tidal range",
+                    "Smaller difference between high and low tide",
+                    "Occurs during first and third quarter moon"
+                ]
+            },
+            {
+                "heading": "Difference: Spring vs Neap Tides",
+                "points": [
+                    "Spring tides → strongest tides",
+                    "Neap tides → weakest tides",
+                    "Spring → alignment of Sun & Moon",
+                    "Neap → right angle position",
+                    "Spring has maximum tidal range"
+                ]
+            },
+            {
+                "heading": "Importance of Tides – Overview",
+                "points": [
+                    "Navigation and shipping",
+                    "Fishing activities",
+                    "Sediment transport",
+                    "Coastal ecosystem balance",
+                    "Renewable energy potential",
+                    "Port and harbor management"
+                ]
+            },
+            {
+                "heading": "1. Navigation and Shipping",
+                "points": [
+                    "Helps ships enter and exit harbors safely",
+                    "High tide allows larger vessels",
+                    "Reduces risk of grounding",
+                    "Important for port timing schedules",
+                    "Critical for maritime trade"
+                ]
+            },
+            {
+                "heading": "2. Fishing Activities",
+                "points": [
+                    "Fish movement influenced by tides",
+                    "High tide brings nutrients closer to shore",
+                    "Supports coastal fishing communities",
+                    "Improves catch efficiency",
+                    "Important traditional knowledge"
+                ]
+            },
+            {
+                "heading": "3. Sediment Transport",
+                "points": [
+                    "Tidal currents move sediments along coasts",
+                    "Shapes beaches and estuaries",
+                    "Helps in delta formation",
+                    "Prevents stagnation of coastal waters",
+                    "Important in coastal geomorphology"
+                ]
+            },
+            {
+                "heading": "4. Coastal Ecosystems",
+                "points": [
+                    "Controls nutrient exchange in estuaries",
+                    "Supports mangroves and wetlands",
+                    "Regulates salinity levels",
+                    "Maintains biodiversity",
+                    "Critical for marine ecosystems"
+                ]
+            },
+            {
+                "heading": "5. Renewable Energy",
+                "points": [
+                    "Tidal energy can be harnessed for electricity",
+                    "Predictable and sustainable energy source",
+                    "Tidal barrages used in some regions",
+                    "Low environmental pollution",
+                    "Emerging clean energy source"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Semi-diurnal tides have:",
+                    "options": [
+                        "One tide per day",
+                        "Two tides per day",
+                        "Three tides per day",
+                        "No tides"
+                    ],
+                    "answer": "Two tides per day"
+                },
+                {
+                    "question": "Diurnal tides have:",
+                    "options": [
+                        "One high tide",
+                        "Two high tides",
+                        "Three tides",
+                        "No tides"
+                    ],
+                    "answer": "One high tide"
+                },
+                {
+                    "question": "Mixed tides are characterized by:",
+                    "options": [
+                        "Equal tidal heights",
+                        "Unequal tidal heights",
+                        "No tides",
+                        "Frozen tides"
+                    ],
+                    "answer": "Unequal tidal heights"
+                },
+                {
+                    "question": "Spring tides occur when:",
+                    "options": [
+                        "Sun and Moon are at right angles",
+                        "Sun, Moon, Earth are aligned",
+                        "Earth stops rotating",
+                        "Moon disappears"
+                    ],
+                    "answer": "Sun, Moon, Earth are aligned"
+                },
+                {
+                    "question": "Neap tides are:",
+                    "options": [
+                        "Strong tides",
+                        "Weak tides",
+                        "No tides",
+                        "Storm tides"
+                    ],
+                    "answer": "Weak tides"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Spring tides occur during:",
+                    "options": [
+                        "Full moon and new moon",
+                        "Quarter moon",
+                        "Solar eclipse only",
+                        "Summer season"
+                    ],
+                    "answer": "Full moon and new moon"
+                },
+                {
+                    "question": "Neap tides occur when:",
+                    "options": [
+                        "Alignment occurs",
+                        "Right angle position occurs",
+                        "No moon is present",
+                        "Earth stops rotating"
+                    ],
+                    "answer": "Right angle position occurs"
+                },
+                {
+                    "question": "Tides are important for:",
+                    "options": [
+                        "Agriculture only",
+                        "Navigation and fishing",
+                        "Earthquakes",
+                        "Volcano formation"
+                    ],
+                    "answer": "Navigation and fishing"
+                },
+                {
+                    "question": "Most common tide type globally is:",
+                    "options": [
+                        "Diurnal",
+                        "Semi-diurnal",
+                        "Mixed",
+                        "Irregular"
+                    ],
+                    "answer": "Semi-diurnal"
+                },
+                {
+                    "question": "Tidal currents help in:",
+                    "options": [
+                        "Rock formation",
+                        "Sediment transport",
+                        "Mountain building",
+                        "Rainfall"
+                    ],
+                    "answer": "Sediment transport"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Semi-diurnal tides occur twice daily\n2. Spring tides are strongest tides\n3. Neap tides occur during alignment",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                        "Spring tide – strongest tide",
+                        "Neap tide – strongest tide",
+                        "Diurnal tide – two tides daily",
+                        "Mixed tide – equal tides"
+                    ],
+                    "answer": "Spring tide – strongest tide"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Tides are random",
+                        "Moon has strongest influence on tides",
+                        "Sun has no effect",
+                        "Tides are caused by winds only"
+                    ],
+                    "answer": "Moon has strongest influence on tides"
+                },
+                {
+                    "question": "Tidal energy is:",
+                    "options": [
+                        "Unpredictable",
+                        "Renewable and predictable",
+                        "Non-renewable",
+                        "Dangerous always"
+                    ],
+                    "answer": "Renewable and predictable"
+                },
+                {
+                    "question": "Mixed tides are mainly found in:",
+                    "options": [
+                        "Atlantic Ocean",
+                        "Pacific Ocean",
+                        "Arctic Ocean",
+                        "Rivers"
+                    ],
+                    "answer": "Pacific Ocean"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Ocean Currents (Warm, Cold, Distribution, Effects & Marine Resources)",
+        "notes": [
+            {
+                "heading": "Ocean Currents – Overview",
+                "points": [
+                    "Ocean currents are continuous, directed movement of ocean water",
+                    "They are classified based on temperature: warm and cold currents",
+                    "They play a major role in global heat balance",
+                    "Influence climate, fisheries, and marine ecosystems"
+                ]
+            },
+            {
+                "heading": "Warm Ocean Currents – Definition",
+                "points": [
+                    "Warm currents flow from equatorial regions towards poles",
+                    "Carry warm water to higher latitudes",
+                    "Increase temperature of coastal regions",
+                    "Help in keeping western coasts of continents warmer",
+                    "Important for moderating climate"
+                ]
+            },
+            {
+                "heading": "Examples of Warm Currents",
+                "points": [
+                    "Gulf Stream (North Atlantic)",
+                    "Kuroshio Current (North Pacific)",
+                    "Brazil Current (South Atlantic)",
+                    "East Australian Current",
+                    "Agulhas Current (Indian Ocean)"
+                ]
+            },
+            {
+                "heading": "Cold Ocean Currents – Definition",
+                "points": [
+                    "Cold currents flow from polar regions towards equator",
+                    "Bring cold water to lower latitudes",
+                    "Lower coastal temperatures",
+                    "Often flow along western coasts of continents",
+                    "Enhance fog formation in some regions"
+                ]
+            },
+            {
+                "heading": "Examples of Cold Currents",
+                "points": [
+                    "California Current (North Pacific)",
+                    "Peru/Humboldt Current (South Pacific)",
+                    "Canary Current (North Atlantic)",
+                    "Benguela Current (South Atlantic)",
+                    "West Australian Current"
+                ]
+            },
+            {
+                "heading": "Major Ocean Currents of the World",
+                "points": [
+                    "Atlantic Ocean currents: Gulf Stream, Canary, Brazil, Labrador",
+                    "Pacific Ocean currents: Kuroshio, California, Peru, East Australian",
+                    "Indian Ocean currents: Agulhas, West Australian, Somali Current",
+                    "Currents form circular gyres in each ocean basin",
+                    "Deflected by Coriolis force and driven by wind"
+                ]
+            },
+            {
+                "heading": "Ocean Gyres – Basic Idea",
+                "points": [
+                    "Large circular systems of ocean currents",
+                    "Clockwise in Northern Hemisphere",
+                    "Anticlockwise in Southern Hemisphere",
+                    "Formed by wind + Coriolis force",
+                    "Control global heat redistribution"
+                ]
+            },
+            {
+                "heading": "Effects of Ocean Currents – Climate",
+                "points": [
+                    "Warm currents raise coastal temperatures",
+                    "Cold currents lower coastal temperatures",
+                    "Help regulate global climate system",
+                    "Influence rainfall patterns",
+                    "Create coastal deserts in some regions"
+                ]
+            },
+            {
+                "heading": "Effects on Marine Life",
+                "points": [
+                    "Cold currents cause upwelling → nutrient-rich waters",
+                    "Increase fish productivity and fisheries",
+                    "Support marine biodiversity hotspots",
+                    "Warm currents support coral reef growth",
+                    "Critical for ocean ecosystems"
+                ]
+            },
+            {
+                "heading": "Effects on Navigation & Economy",
+                "points": [
+                    "Warm currents reduce ice hazards in some regions",
+                    "Cold currents can create fog affecting navigation",
+                    "Currents influence shipping routes",
+                    "Impact port accessibility and trade efficiency",
+                    "Reduce fuel consumption in favorable currents"
+                ]
+            },
+            {
+                "heading": "Effects on Coastal Regions",
+                "points": [
+                    "Warm currents → mild and humid coastal climates",
+                    "Cold currents → dry and arid coastal conditions",
+                    "Influence formation of deserts (e.g., Atacama Desert)",
+                    "Affect agriculture near coasts",
+                    "Shape human settlement patterns"
+                ]
+            },
+            {
+                "heading": "Marine Resources – Overview",
+                "points": [
+                    "Ocean currents enrich marine resources",
+                    "Support fisheries and aquaculture",
+                    "Provide minerals and energy resources",
+                    "Important for food security and economy",
+                    "Linked to productivity of oceans"
+                ]
+            },
+            {
+                "heading": "Types of Marine Resources",
+                "points": [
+                    "Biological resources (fish, plankton, marine mammals)",
+                    "Mineral resources (oil, gas, manganese nodules)",
+                    "Energy resources (tidal, wave, offshore wind)",
+                    "Chemical resources (salt, magnesium)",
+                    "Genetic resources (marine biotechnology)"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Warm currents generally flow from:",
+                    "options": [
+                        "Poles to equator",
+                        "Equator to poles",
+                        "East to west only",
+                        "Deep sea to surface"
+                    ],
+                    "answer": "Equator to poles"
+                },
+                {
+                    "question": "Cold currents generally flow from:",
+                    "options": [
+                        "Equator to poles",
+                        "Poles to equator",
+                        "West to east only",
+                        "Rivers to oceans"
+                    ],
+                    "answer": "Poles to equator"
+                },
+                {
+                    "question": "Gulf Stream is a:",
+                    "options": [
+                        "Cold current",
+                        "Warm current",
+                        "Tidal current",
+                        "River current"
+                    ],
+                    "answer": "Warm current"
+                },
+                {
+                    "question": "Peru Current is a:",
+                    "options": [
+                        "Warm current",
+                        "Cold current",
+                        "Tidal wave",
+                        "River flow"
+                    ],
+                    "answer": "Cold current"
+                },
+                {
+                    "question": "Ocean currents help in:",
+                    "options": [
+                        "Heat distribution",
+                        "Earthquakes",
+                        "Volcano formation",
+                        "Rock formation"
+                    ],
+                    "answer": "Heat distribution"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Cold currents are associated with:",
+                    "options": [
+                        "Heavy rainfall",
+                        "Fog formation",
+                        "High temperature",
+                        "Tropical cyclones only"
+                    ],
+                    "answer": "Fog formation"
+                },
+                {
+                    "question": "Warm currents make coastal climate:",
+                    "options": [
+                        "Cold and dry",
+                        "Warm and humid",
+                        "Freezing",
+                        "Desert-like always"
+                    ],
+                    "answer": "Warm and humid"
+                },
+                {
+                    "question": "Upwelling caused by cold currents leads to:",
+                    "options": [
+                        "Low fish productivity",
+                        "High fish productivity",
+                        "Earthquakes",
+                        "Rainfall decrease only"
+                    ],
+                    "answer": "High fish productivity"
+                },
+                {
+                    "question": "Ocean gyres are formed due to:",
+                    "options": [
+                        "Wind and Coriolis force",
+                        "Rivers",
+                        "Rainfall",
+                        "Volcanoes"
+                    ],
+                    "answer": "Wind and Coriolis force"
+                },
+                {
+                    "question": "Cold currents are generally found along:",
+                    "options": [
+                        "Eastern coasts",
+                        "Western coasts",
+                        "River mouths",
+                        "Mountain regions"
+                    ],
+                    "answer": "Western coasts"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Warm currents flow from equator to poles\n2. Cold currents increase coastal temperatures\n3. Currents affect global climate",
+                    "options": [
+                        "1 and 3",
+                        "2 and 3",
+                        "1 and 2",
+                        "All"
+                    ],
+                    "answer": "1 and 3"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                        "Gulf Stream – warm current",
+                        "Peru Current – warm current",
+                        "Canary Current – warm current",
+                        "Kuroshio – cold current"
+                    ],
+                    "answer": "Gulf Stream – warm current"
+                },
+                {
+                    "question": "Cold currents contribute to desert formation by:",
+                    "options": [
+                        "Increasing rainfall",
+                        "Reducing moisture in air",
+                        "Increasing humidity",
+                        "Stopping winds"
+                    ],
+                    "answer": "Reducing moisture in air"
+                },
+                {
+                    "question": "Marine resources are enhanced by:",
+                    "options": [
+                        "Ocean stagnation",
+                        "Upwelling of nutrients",
+                        "Earthquakes",
+                        "Low salinity only"
+                    ],
+                    "answer": "Upwelling of nutrients"
+                },
+                {
+                    "question": "Ocean currents are important because they:",
+                    "options": [
+                        "Stop climate change",
+                        "Regulate global heat distribution",
+                        "Create mountains",
+                        "Cause earthquakes"
+                    ],
+                    "answer": "Regulate global heat distribution"
+                }
+            ]
+        }
+    }
+]

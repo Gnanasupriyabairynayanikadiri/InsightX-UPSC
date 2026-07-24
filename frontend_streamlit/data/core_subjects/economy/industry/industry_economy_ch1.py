@@ -1,0 +1,962 @@
+TOPICS = [
+    {
+        "name": "Industrial Policy & Industrial Development in India – Main Issues",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Industrial policy refers to government strategies to promote industrial growth and structural transformation",
+                    "Industrial development is crucial for GDP growth, employment generation, and economic diversification",
+                    "India has evolved from a regulated economy to a liberalized industrial system post-1991 reforms",
+                    "Still faces structural, infrastructural, and policy-related challenges"
+                ]
+            },
+            {
+                "heading": "Evolution of Industrial Policy in India",
+                "points": [
+                    "1948 Industrial Policy Resolution: Mixed economy model with public sector dominance",
+                    "1956 Industrial Policy Resolution: Expansion of public sector and licensing system",
+                    "1960s–1980s: License Raj and heavy regulation",
+                    "1991 New Industrial Policy: Liberalization, Privatization, Globalization (LPG reforms)",
+                    "Post-1991: Shift towards market-oriented industrial growth"
+                ]
+            },
+            {
+                "heading": "Objectives of Industrial Policy",
+                "points": [
+                    "Increase industrial production and productivity",
+                    "Promote balanced regional development",
+                    "Generate employment opportunities",
+                    "Encourage private and foreign investment",
+                    "Enhance technological development and innovation",
+                    "Improve export competitiveness"
+                ]
+            },
+            {
+                "heading": "Main Issues in Industrial Development in India",
+                "points": [
+                    "Slow pace of industrial growth compared to global peers",
+                    "Regional imbalance in industrial development",
+                    "Inadequate infrastructure (power, transport, logistics)",
+                    "Complex regulatory and compliance environment",
+                    "Low labor productivity in many sectors",
+                    "High cost of credit and financing challenges",
+                    "Technological backwardness in MSMEs",
+                    "Environmental sustainability concerns"
+                ]
+            },
+            {
+                "heading": "Infrastructure Bottlenecks",
+                "points": [
+                    "Unreliable power supply in some regions",
+                    "Poor logistics and transport connectivity",
+                    "High logistics cost compared to global standards",
+                    "Limited industrial clusters in backward regions",
+                    "Insufficient industrial land availability"
+                ]
+            },
+            {
+                "heading": "MSME Sector Issues",
+                "points": [
+                    "Lack of access to formal credit",
+                    "Technology gap and low modernization",
+                    "High dependence on informal sector",
+                    "Delayed payments from large buyers",
+                    "Limited export capacity",
+                    "Regulatory burden and compliance costs"
+                ]
+            },
+            {
+                "heading": "Regulatory and Policy Issues",
+                "points": [
+                    "Multiplicity of approvals and clearances",
+                    "State-wise policy variation",
+                    "Frequent policy changes causing uncertainty",
+                    "Labor law complexities (though reforms underway)",
+                    "Land acquisition challenges for industries"
+                ]
+            },
+            {
+                "heading": "Investment and Financial Issues",
+                "points": [
+                    "Low private capital formation in manufacturing",
+                    "High cost of borrowing in India",
+                    "Stress in banking sector affecting industrial credit",
+                    "Limited venture capital for manufacturing startups",
+                    "Dependence on imports for high-tech industries"
+                ]
+            },
+            {
+                "heading": "Technological Challenges",
+                "points": [
+                    "Low R&D expenditure compared to global standards",
+                    "Limited innovation ecosystem in manufacturing",
+                    "Slow adoption of Industry 4.0 technologies",
+                    "Dependence on imported technology",
+                    "Skill gap in advanced manufacturing sectors"
+                ]
+            },
+            {
+                "heading": "Environmental and Sustainability Issues",
+                "points": [
+                    "High pollution from traditional industries",
+                    "Compliance with environmental regulations increases costs",
+                    "Pressure to shift towards green manufacturing",
+                    "Waste management challenges",
+                    "Carbon emission reduction commitments"
+                ]
+            },
+            {
+                "heading": "Global Competitiveness Issues",
+                "points": [
+                    "India’s share in global manufacturing exports remains low",
+                    "Competition from China, Vietnam, and other Asian economies",
+                    "Supply chain disruptions",
+                    "Need for integration into global value chains",
+                    "Quality standards and certification issues"
+                ]
+            },
+            {
+                "heading": "Government Initiatives to Address Issues",
+                "points": [
+                    "Make in India initiative to boost manufacturing",
+                    "Production Linked Incentive (PLI) schemes",
+                    "National Industrial Corridor Development Programme",
+                    "Ease of Doing Business reforms",
+                    "Startup India for innovation-driven growth",
+                    "Labor codes simplification",
+                    "Digitalization of industrial approvals"
+                ]
+            },
+            {
+                "heading": "Way Forward",
+                "points": [
+                    "Strengthen industrial infrastructure and logistics",
+                    "Improve access to affordable credit for industries",
+                    "Promote R&D and innovation ecosystems",
+                    "Focus on MSME modernization and integration",
+                    "Enhance skill development for industrial workforce",
+                    "Encourage green and sustainable manufacturing",
+                    "Stabilize policy environment to attract investment"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Industrial policy refers to:",
+                    "options": [
+                    "Monetary policy",
+                    "Government strategy for industrial development",
+                    "Foreign policy",
+                    "Agricultural policy"
+                    ],
+                    "answer": "Government strategy for industrial development"
+                },
+                {
+                    "question": "Liberalization in India started in:",
+                    "options": [
+                    "1947",
+                    "1991",
+                    "2000",
+                    "2010"
+                    ],
+                    "answer": "1991"
+                },
+                {
+                    "question": "Make in India aims at:",
+                    "options": [
+                    "Reducing agriculture",
+                    "Boosting manufacturing",
+                    "Increasing imports",
+                    "Reducing exports"
+                    ],
+                    "answer": "Boosting manufacturing"
+                },
+                {
+                    "question": "MSME stands for:",
+                    "options": [
+                    "Medium Scale Market Enterprises",
+                    "Micro, Small and Medium Enterprises",
+                    "Manufacturing Service Market Economy",
+                    "Main Sector Manufacturing Entity"
+                    ],
+                    "answer": "Micro, Small and Medium Enterprises"
+                },
+                {
+                    "question": "One major issue in industrial development:",
+                    "options": [
+                    "Excess exports",
+                    "Infrastructure bottlenecks",
+                    "No industries",
+                    "No demand"
+                    ],
+                    "answer": "Infrastructure bottlenecks"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "License Raj refers to:",
+                    "options": [
+                    "Free market economy",
+                    "Heavy industrial regulation",
+                    "Agricultural system",
+                    "Tax system"
+                    ],
+                    "answer": "Heavy industrial regulation"
+                },
+                {
+                    "question": "PLI scheme is related to:",
+                    "options": [
+                    "Production incentives",
+                    "Import restriction",
+                    "Tax abolition",
+                    "Banking reform"
+                    ],
+                    "answer": "Production incentives"
+                },
+                {
+                    "question": "One major MSME issue:",
+                    "options": [
+                    "Excess credit",
+                    "Lack of formal credit",
+                    "Overproduction",
+                    "High exports"
+                    ],
+                    "answer": "Lack of formal credit"
+                },
+                {
+                    "question": "Industrial development helps in:",
+                    "options": [
+                    "Employment generation",
+                    "Reducing GDP",
+                    "Increasing imports only",
+                    "Stopping growth"
+                    ],
+                    "answer": "Employment generation"
+                },
+                {
+                    "question": "Make in India promotes:",
+                    "options": [
+                    "Manufacturing sector",
+                    "Defense only",
+                    "Banking only",
+                    "Agriculture only"
+                    ],
+                    "answer": "Manufacturing sector"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Industrial policy supports manufacturing growth\n2. MSMEs face credit constraints\n3. India has no infrastructure issues in industry",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Main challenge in industrial development:",
+                    "options": [
+                    "Excess production",
+                    "Infrastructure and regulatory bottlenecks",
+                    "No demand",
+                    "No labor force"
+                    ],
+                    "answer": "Infrastructure and regulatory bottlenecks"
+                },
+                {
+                    "question": "Best reform direction:",
+                    "options": [
+                    "Increase regulation",
+                    "Ease of doing business and infrastructure push",
+                    "Stop industrial growth",
+                    "Reduce investment"
+                    ],
+                    "answer": "Ease of doing business and infrastructure push"
+                },
+                {
+                    "question": "Industrialization contributes to:",
+                    "options": [
+                    "GDP growth and employment",
+                    "Only imports",
+                    "Only inflation",
+                    "No economic change"
+                    ],
+                    "answer": "GDP growth and employment"
+                },
+                {
+                    "question": "Global competitiveness depends on:",
+                    "options": [
+                    "Low productivity",
+                    "Technology and innovation",
+                    "No exports",
+                    "High regulation only"
+                    ],
+                    "answer": "Technology and innovation"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Mahalanobis Strategy & Industrial Policy Resolutions (1948 & 1956) – Critical Analysis",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Post-independence India adopted a planned industrialization strategy to achieve rapid economic development",
+                    "P.C. Mahalanobis provided the statistical foundation for India’s Second Five-Year Plan",
+                    "Industrial Policy Resolutions of 1948 and 1956 laid the foundation of India’s mixed economy model",
+                    "Focus was on public sector-led industrialization and import substitution"
+                ]
+            },
+            {
+                "heading": "Mahalanobis Strategy – Concept",
+                "points": [
+                    "Developed by P.C. Mahalanobis, a statistician and planner",
+                    "Formulated the growth model used in Second Five-Year Plan (1956–61)",
+                    "Emphasized investment in capital goods sector (heavy industries)",
+                    "Based on idea that long-term growth depends on building strong industrial base",
+                    "Promoted import substitution industrialization (ISI)"
+                ]
+            },
+            {
+                "heading": "Key Features of Mahalanobis Model",
+                "points": [
+                    "Priority to capital goods industries over consumer goods",
+                    "Heavy investment in public sector enterprises",
+                    "Limited role for private sector in strategic industries",
+                    "Focus on self-reliance and industrial self-sufficiency",
+                    "Two-sector model: capital goods and consumer goods",
+                    "Emphasis on long-term structural transformation"
+                ]
+            },
+            {
+                "heading": "Criticism of Mahalanobis Strategy",
+                "points": [
+                    "Neglected agriculture in initial planning stages",
+                    "Overemphasis on heavy industries led to consumer goods shortage",
+                    "Capital-intensive approach led to unemployment issues",
+                    "Inefficient public sector enterprises",
+                    "Slow growth in short-term consumption and living standards",
+                    "Limited focus on market signals and efficiency"
+                ]
+            },
+            {
+                "heading": "Industrial Policy Resolution (IPR) 1948 – Overview",
+                "points": [
+                    "First industrial policy of independent India",
+                    "Adopted mixed economy model",
+                    "Divided industries into public sector, private sector, and joint sector",
+                    "Recognized strategic importance of state control in key industries",
+                    "Allowed private sector participation in non-strategic industries"
+                ]
+            },
+            {
+                "heading": "Key Features of IPR 1948",
+                "points": [
+                    "Reserved sectors like arms, atomic energy, and railways for public sector",
+                    "Mixed economy approach with coexistence of public and private sectors",
+                    "State intervention in industrial development",
+                    "Regulation of private sector through licensing",
+                    "Focus on planned industrialization"
+                ]
+            },
+            {
+                "heading": "Critical Analysis of IPR 1948",
+                "points": [
+                    "Positive: Established framework for industrial development",
+                    "Positive: Recognized need for state intervention in key sectors",
+                    "Limitation: Ambiguity in role of private sector",
+                    "Limitation: Excessive regulation in later years (license raj roots)",
+                    "Limitation: Limited clarity on implementation mechanisms"
+                ]
+            },
+            {
+                "heading": "Industrial Policy Resolution (IPR) 1956 – Overview",
+                "points": [
+                    "Considered the ‘Economic Constitution of India’",
+                    "Strengthened role of public sector in industrial development",
+                    "Based on Mahalanobis model of heavy industrialization",
+                    "Expanded state control over industries significantly",
+                    "Aligned with Second Five-Year Plan"
+                ]
+            },
+            {
+                "heading": "Classification of Industries in IPR 1956",
+                "points": [
+                    "Schedule A: Exclusively state-owned industries (17 industries)",
+                    "Schedule B: State with private participation",
+                    "Schedule C: Private sector with state regulation",
+                    "Clear dominance of public sector in strategic industries"
+                ]
+            },
+            {
+                "heading": "Key Features of IPR 1956",
+                "points": [
+                    "Expansion of public sector industries",
+                    "Focus on heavy industries and capital goods",
+                    "Industrial licensing system introduced",
+                    "Protection of small-scale industries",
+                    "Import substitution strategy",
+                    "Regulated private sector growth"
+                ]
+            },
+            {
+                "heading": "Critical Analysis of IPR 1956",
+                "points": [
+                    "Positive: Built strong industrial base in heavy industries",
+                    "Positive: Promoted self-reliance and reduced import dependence",
+                    "Positive: Strengthened public sector in strategic areas",
+                    "Limitation: Led to inefficiencies in public sector enterprises",
+                    "Limitation: Created license raj and bureaucratic delays",
+                    "Limitation: Neglected competition and market efficiency",
+                    "Limitation: Consumer goods sector underdeveloped",
+                    "Limitation: Reduced private sector dynamism"
+                ]
+            },
+            {
+                "heading": "Comparison: IPR 1948 vs IPR 1956",
+                "points": [
+                    "1948: Mixed economy with balanced role of public and private sector",
+                    "1956: Strong dominance of public sector",
+                    "1948: Broad framework for industrial development",
+                    "1956: Detailed classification and stronger state control",
+                    "1956 aligned more closely with Mahalanobis heavy industry strategy"
+                ]
+            },
+            {
+                "heading": "Impact of Mahalanobis Strategy and IPR 1956",
+                "points": [
+                    "Creation of strong public sector base (steel, energy, heavy machinery)",
+                    "Industrial diversification in early planning phase",
+                    "Foundation for self-reliant industrial economy",
+                    "However, inefficiencies led to later reforms in 1991",
+                    "Set stage for import substitution industrialization model"
+                ]
+            },
+            {
+                "heading": "Relevance after 1991 Reforms",
+                "points": [
+                    "1991 LPG reforms dismantled License Raj",
+                    "Reduced role of public sector monopoly",
+                    "Shift towards market-driven industrial growth",
+                    "Increased FDI and private sector participation",
+                    "Focus shifted from heavy industry bias to balanced growth"
+                ]
+            },
+            {
+                "heading": "Way Forward / Lessons",
+                "points": [
+                    "Balanced role of public and private sector is essential",
+                    "Need for efficiency in public sector enterprises",
+                    "Avoid excessive regulation and licensing",
+                    "Focus on innovation and technology-driven growth",
+                    "Encourage competition and global integration",
+                    "Ensure inclusive industrial development with job creation"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Mahalanobis strategy is associated with:",
+                    "options": [
+                    "First Five-Year Plan",
+                    "Second Five-Year Plan",
+                    "Third Five-Year Plan",
+                    "Tenth Five-Year Plan"
+                    ],
+                    "answer": "Second Five-Year Plan"
+                },
+                {
+                    "question": "Industrial Policy Resolution 1948 introduced:",
+                    "options": [
+                    "License Raj",
+                    "Mixed economy model",
+                    "Privatization",
+                    "Demonetization"
+                    ],
+                    "answer": "Mixed economy model"
+                },
+                {
+                    "question": "IPR 1956 is known as:",
+                    "options": [
+                    "Fiscal Policy",
+                    "Economic Constitution of India",
+                    "Monetary Policy",
+                    "Trade Policy"
+                    ],
+                    "answer": "Economic Constitution of India"
+                },
+                {
+                    "question": "Mahalanobis model focused on:",
+                    "options": [
+                    "Consumer goods",
+                    "Capital goods industries",
+                    "Agriculture only",
+                    "Service sector"
+                    ],
+                    "answer": "Capital goods industries"
+                },
+                {
+                    "question": "IPR 1956 promoted:",
+                    "options": [
+                    "Laissez-faire economy",
+                    "Public sector dominance",
+                    "Complete privatization",
+                    "No planning"
+                    ],
+                    "answer": "Public sector dominance"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "License Raj originated from:",
+                    "options": [
+                    "IPR 1956 framework",
+                    "1991 reforms",
+                    "Green Revolution",
+                    "Bank nationalization"
+                    ],
+                    "answer": "IPR 1956 framework"
+                },
+                {
+                    "question": "Mahalanobis model emphasized:",
+                    "options": [
+                    "Short-term consumption",
+                    "Heavy industry development",
+                    "Import liberalization",
+                    "Service economy"
+                    ],
+                    "answer": "Heavy industry development"
+                },
+                {
+                    "question": "IPR 1948 allowed:",
+                    "options": [
+                    "Only public sector",
+                    "Mixed economy approach",
+                    "Only private sector",
+                    "No industry policy"
+                    ],
+                    "answer": "Mixed economy approach"
+                },
+                {
+                    "question": "One criticism of IPR 1956:",
+                    "options": [
+                    "Excess competition",
+                    "License Raj and inefficiency",
+                    "No public sector",
+                    "No planning"
+                    ],
+                    "answer": "License Raj and inefficiency"
+                },
+                {
+                    "question": "Import substitution means:",
+                    "options": [
+                    "Increasing imports",
+                    "Replacing imports with domestic production",
+                    "Stopping production",
+                    "Export only economy"
+                    ],
+                    "answer": "Replacing imports with domestic production"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Mahalanobis model focused on capital goods\n2. IPR 1956 expanded public sector role\n3. IPR 1948 fully eliminated private sector",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Main limitation of Mahalanobis strategy:",
+                    "options": [
+                    "Excess focus on agriculture",
+                    "Neglect of consumer goods sector",
+                    "Excess exports",
+                    "No industrialization"
+                    ],
+                    "answer": "Neglect of consumer goods sector"
+                },
+                {
+                    "question": "IPR 1956 led to:",
+                    "options": [
+                    "License free economy",
+                    "License Raj system",
+                    "Complete deregulation",
+                    "No state role"
+                    ],
+                    "answer": "License Raj system"
+                },
+                {
+                    "question": "Best description of Indian early industrial policy:",
+                    "options": [
+                    "Laissez-faire",
+                    "Mixed economy with planning bias",
+                    "Free market capitalism",
+                    "No planning system"
+                    ],
+                    "answer": "Mixed economy with planning bias"
+                },
+                {
+                    "question": "Post-1991 reforms aimed to:",
+                    "options": [
+                    "Strengthen License Raj",
+                    "Dismantle excessive regulation",
+                    "Increase public monopoly",
+                    "Reduce exports"
+                    ],
+                    "answer": "Dismantle excessive regulation"
+                }
+            ]
+        }
+    },
+    {
+        "name": "New Economic Policy (1991), LPG Reforms & Phases of Industrial Development",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "The New Economic Policy (NEP) of 1991 marked a structural shift in India’s economic and industrial strategy",
+                    "It introduced Liberalization, Privatization, and Globalization (LPG)",
+                    "It moved India from a regulated mixed economy to a market-oriented economy",
+                    "Industrial policy was redesigned to promote efficiency, competition, and global integration"
+                ]
+            },
+            {
+                "heading": "Background of New Economic Policy (1991)",
+                "points": [
+                    "Severe balance of payments crisis in 1991",
+                    "High fiscal deficit and inflation",
+                    "Low foreign exchange reserves (barely enough for a few weeks of imports)",
+                    "IMF and World Bank assistance linked to structural reforms",
+                    "Need to improve industrial productivity and global competitiveness"
+                ]
+            },
+            {
+                "heading": "Three Pillars of LPG Reforms",
+                "points": [
+                    "Liberalization: Reducing government control and licensing",
+                    "Privatization: Reducing role of public sector and encouraging private participation",
+                    "Globalization: Integrating Indian economy with world markets"
+                ]
+            },
+            {
+                "heading": "Liberalization in Industrial Policy",
+                "points": [
+                    "Abolition of industrial licensing (except few sectors)",
+                    "Reduction in government interference in business decisions",
+                    "Freedom for expansion and diversification of industries",
+                    "Relaxation of MRTP Act restrictions",
+                    "Simplification of approval procedures"
+                ]
+            },
+            {
+                "heading": "Privatization in Industrial Policy",
+                "points": [
+                    "Disinvestment of public sector enterprises (PSEs)",
+                    "Reduction of government ownership in non-strategic sectors",
+                    "Encouragement of private sector participation in industries",
+                    "Introduction of strategic sales and PSU restructuring",
+                    "Focus on efficiency and profitability of enterprises"
+                ]
+            },
+            {
+                "heading": "Globalization in Industrial Policy",
+                "points": [
+                    "Opening up of economy to foreign trade and investment",
+                    "Reduction in import tariffs and export restrictions",
+                    "Encouragement of Foreign Direct Investment (FDI)",
+                    "Integration with global value chains",
+                    "Adoption of WTO-compatible trade policies"
+                ]
+            },
+            {
+                "heading": "Industrial Policy Changes under NEP 1991",
+                "points": [
+                    "Industrial licensing abolished except for select sectors (security, environment, etc.)",
+                    "Public sector reserved areas reduced significantly",
+                    "MRTP Act replaced by Competition Act later",
+                    "Automatic approval route for FDI in many sectors",
+                    "Encouragement of private investment in core industries",
+                    "Focus shifted to efficiency, productivity, and competitiveness"
+                ]
+            },
+            {
+                "heading": "Impact of New Economic Policy on Industry",
+                "points": [
+                    "Increased industrial growth and diversification",
+                    "Rise of private sector dominance",
+                    "Influx of foreign investment and technology",
+                    "Growth of IT, telecom, and service-linked industries",
+                    "Improved productivity and competitiveness",
+                    "However, increased regional inequalities"
+                ]
+            },
+            {
+                "heading": "Limitations of LPG Reforms",
+                "points": [
+                    "Uneven industrial development across regions",
+                    "Jobless growth in some sectors",
+                    "Decline in public sector dominance led to employment concerns",
+                    "MSMEs faced competition pressure from large firms",
+                    "Dependence on global markets increased vulnerability",
+                    "Infrastructure bottlenecks still persisted"
+                ]
+            },
+            {
+                "heading": "Phases of Industrial Development in India",
+                "points": [
+                    "India’s industrial development can be broadly divided into pre-1991 and post-1991 phases",
+                    "Each phase reflects different policy approaches and economic priorities"
+                ]
+            },
+            {
+                "heading": "Phase 1: Pre-Independence Industrial Phase",
+                "points": [
+                    "Colonial industrial structure focused on raw material export",
+                    "Limited industrial base and deindustrialization of traditional sectors",
+                    "Infrastructure developed mainly for British interests",
+                    "No major domestic industrial policy"
+                ]
+            },
+            {
+                "heading": "Phase 2: 1950–1965 (Planning & Heavy Industry Focus)",
+                "points": [
+                    "Adoption of mixed economy model",
+                    "Mahalanobis strategy emphasized heavy industries",
+                    "Strong role of public sector (IPR 1956)",
+                    "Import substitution industrialization strategy",
+                    "Foundation of basic industries like steel, power, machinery"
+                ]
+            },
+            {
+                "heading": "Phase 3: 1965–1980 (Regulation & Protection Phase)",
+                "points": [
+                    "License Raj system strengthened",
+                    "Focus on self-reliance and protection of domestic industries",
+                    "Expansion of public sector enterprises",
+                    "Limited competition and low efficiency in industries",
+                    "Slow industrial growth rate"
+                ]
+            },
+            {
+                "heading": "Phase 4: 1980–1991 (Pre-Reform Liberalization Phase)",
+                "points": [
+                    "Partial relaxation of industrial controls",
+                    "Industrial Policy of 1980 and 1986 introduced reforms",
+                    "Encouragement of modernization and technology adoption",
+                    "Still dominated by state controls",
+                    "Preparation stage for major reforms"
+                ]
+            },
+            {
+                "heading": "Phase 5: Post-1991 LPG Phase",
+                "points": [
+                    "Liberalization of industrial licensing",
+                    "Privatization and disinvestment of PSUs",
+                    "Global integration of Indian economy",
+                    "Growth of private sector-led industrialization",
+                    "Rise of IT, telecom, automobile, and service industries",
+                    "Shift towards export-oriented industrial growth"
+                ]
+            },
+            {
+                "heading": "Comparative Analysis of Industrial Phases",
+                "points": [
+                    "Pre-1991: State-led, regulated, import substitution model",
+                    "Post-1991: Market-led, competitive, globalized model",
+                    "Earlier phases focused on self-reliance",
+                    "Later phases focused on efficiency and global integration",
+                    "Shift from protectionism to competitiveness"
+                ]
+            },
+            {
+                "heading": "Current Challenges in Industrial Development",
+                "points": [
+                    "Slow manufacturing growth compared to services sector",
+                    "Dependence on imports for critical inputs",
+                    "Infrastructure gaps in logistics and power",
+                    "Skill mismatch in industrial workforce",
+                    "Need for deeper integration into global value chains"
+                ]
+            },
+            {
+                "heading": "Way Forward",
+                "points": [
+                    "Strengthen Make in India and PLI schemes",
+                    "Boost MSME competitiveness and credit access",
+                    "Improve infrastructure and logistics efficiency",
+                    "Promote innovation and R&D in manufacturing",
+                    "Focus on balanced regional industrial development",
+                    "Encourage sustainable and green industrialization"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "New Economic Policy in India was introduced in:",
+                    "options": [
+                    "1985",
+                    "1991",
+                    "2000",
+                    "2010"
+                    ],
+                    "answer": "1991"
+                },
+                {
+                    "question": "LPG stands for:",
+                    "options": [
+                    "Liberalization, Privatization, Globalization",
+                    "Land, Production, Growth",
+                    "Loan, Policy, Growth",
+                    "Liberal Policy Growth"
+                    ],
+                    "answer": "Liberalization, Privatization, Globalization"
+                },
+                {
+                    "question": "Industrial licensing was abolished in:",
+                    "options": [
+                    "1991",
+                    "1956",
+                    "2005",
+                    "1980"
+                    ],
+                    "answer": "1991"
+                },
+                {
+                    "question": "Privatization mainly means:",
+                    "options": [
+                    "Increasing public sector",
+                    "Reducing government ownership",
+                    "Stopping industries",
+                    "Increasing subsidies"
+                    ],
+                    "answer": "Reducing government ownership"
+                },
+                {
+                    "question": "Globalization refers to:",
+                    "options": [
+                    "Isolation of economy",
+                    "Integration with world economy",
+                    "Reduction in trade",
+                    "Ban on exports"
+                    ],
+                    "answer": "Integration with world economy"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "One major cause of 1991 reforms:",
+                    "options": [
+                    "Agricultural surplus",
+                    "Balance of payments crisis",
+                    "High exports",
+                    "Low population"
+                    ],
+                    "answer": "Balance of payments crisis"
+                },
+                {
+                    "question": "MRTP Act was related to:",
+                    "options": [
+                    "Monopolies and restrictions",
+                    "Taxation",
+                    "Agriculture",
+                    "Banking"
+                    ],
+                    "answer": "Monopolies and restrictions"
+                },
+                {
+                    "question": "Post-1991 economy shifted towards:",
+                    "options": [
+                    "Command economy",
+                    "Market economy",
+                    "Feudal economy",
+                    "Barter system"
+                    ],
+                    "answer": "Market economy"
+                },
+                {
+                    "question": "Disinvestment refers to:",
+                    "options": [
+                    "Increase in subsidies",
+                    "Sale of PSU shares",
+                    "Tax increase",
+                    "Import control"
+                    ],
+                    "answer": "Sale of PSU shares"
+                },
+                {
+                    "question": "One benefit of LPG reforms:",
+                    "options": [
+                    "Decline in growth",
+                    "Increase in competition and efficiency",
+                    "No investment",
+                    "Isolation from world"
+                    ],
+                    "answer": "Increase in competition and efficiency"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. LPG reforms started in 1991\n2. Industrial licensing was completely removed after 1991\n3. Globalization increased foreign investment",
+                    "options": [
+                    "1 and 3 only",
+                    "2 and 3 only",
+                    "1 and 2 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "Main objective of 1991 industrial policy:",
+                    "options": [
+                    "Increase regulation",
+                    "Improve efficiency and competitiveness",
+                    "Reduce trade",
+                    "Increase subsidies only"
+                    ],
+                    "answer": "Improve efficiency and competitiveness"
+                },
+                {
+                    "question": "Post-1991 industrial growth is characterized by:",
+                    "options": [
+                    "Public sector dominance",
+                    "Private sector-led expansion",
+                    "No industrial growth",
+                    "Only agriculture focus"
+                    ],
+                    "answer": "Private sector-led expansion"
+                },
+                {
+                    "question": "One limitation of LPG reforms:",
+                    "options": [
+                    "Excess employment",
+                    "Regional imbalance",
+                    "No investment",
+                    "No trade"
+                    ],
+                    "answer": "Regional imbalance"
+                },
+                {
+                    "question": "Best description of industrial evolution:",
+                    "options": [
+                    "Static system",
+                    "Shift from state-led to market-led economy",
+                    "No change",
+                    "Decline in industry"
+                    ],
+                    "answer": "Shift from state-led to market-led economy"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,699 @@
+[
+    {
+        "name": "Introduction",
+        "notes": [
+            {
+                "heading": "What is a Disaster?",
+                "points": [
+                    "A disaster is a serious disruption of the functioning of a society or community",
+                    "It causes human, material, economic, or environmental losses",
+                    "It exceeds the ability of the affected community to cope using its own resources",
+                    "Disasters can be natural or man-made",
+                    "They lead to loss of life, property damage, and environmental degradation"
+                ]
+            },
+            {
+                "heading": "Types of Disasters",
+                "points": [
+                    "Natural disasters – earthquakes, floods, cyclones, droughts, landslides",
+                    "Man-made disasters – industrial accidents, oil spills, nuclear accidents, wars",
+                    "Biological disasters – epidemics, pandemics, pest attacks",
+                    "Climate-related disasters – heatwaves, cold waves, extreme rainfall events"
+                ]
+            },
+            {
+                "heading": "Characteristics of Disasters",
+                "points": [
+                    "Sudden or slow onset depending on type",
+                    "Cause large-scale damage to life and property",
+                    "Disrupt normal functioning of society",
+                    "Require external assistance for recovery in severe cases",
+                    "Can be predictable or unpredictable"
+                ]
+            },
+            {
+                "heading": "Difference between Hazard and Disaster",
+                "points": [
+                    "Hazard – a potential source of danger (e.g., earthquake zone)",
+                    "Disaster – actual occurrence causing damage (e.g., earthquake event)",
+                    "Not all hazards become disasters",
+                    "Disaster occurs when vulnerability and hazard interact"
+                ]
+            },
+            {
+                "heading": "Vulnerability and Risk",
+                "points": [
+                    "Vulnerability – degree to which a system is exposed to harm",
+                    "Risk – probability of loss due to hazard and vulnerability",
+                    "Higher vulnerability increases disaster risk",
+                    "Poor infrastructure increases vulnerability",
+                    "Preparedness reduces disaster risk"
+                ]
+            },
+            {
+                "heading": "Importance of Disaster Management",
+                "points": [
+                    "Reduces loss of life and property",
+                    "Improves preparedness and response systems",
+                    "Ensures sustainable development",
+                    "Strengthens community resilience",
+                    "Minimizes economic losses"
+                ]
+            },
+            {
+                "heading": "Disaster Management Cycle",
+                "points": [
+                    "Pre-disaster phase – mitigation and preparedness",
+                    "During disaster – response and relief",
+                    "Post-disaster – rehabilitation and reconstruction",
+                    "Focus on reducing future risk",
+                    "Continuous and cyclical process"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "A disaster is mainly defined as:",
+                    "options": [
+                        "A normal environmental event",
+                        "A minor disturbance",
+                        "A serious disruption causing loss",
+                        "A planned activity"
+                    ],
+                    "answer": "A serious disruption causing loss"
+                },
+                {
+                    "question": "Which of the following is a natural disaster?",
+                    "options": [
+                        "Industrial accident",
+                        "Earthquake",
+                        "War",
+                        "Oil spill"
+                    ],
+                    "answer": "Earthquake"
+                },
+                {
+                    "question": "Disasters can be:",
+                    "options": [
+                        "Only natural",
+                        "Only man-made",
+                        "Natural and man-made",
+                        "Only biological"
+                    ],
+                    "answer": "Natural and man-made"
+                },
+                {
+                    "question": "Hazard means:",
+                    "options": [
+                        "Actual damage event",
+                        "Potential danger",
+                        "Recovery phase",
+                        "Relief process"
+                    ],
+                    "answer": "Potential danger"
+                },
+                {
+                    "question": "Which is a man-made disaster?",
+                    "options": [
+                        "Cyclone",
+                        "Flood",
+                        "Nuclear accident",
+                        "Drought"
+                    ],
+                    "answer": "Nuclear accident"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Disaster occurs when:",
+                    "options": [
+                        "Hazard + Vulnerability interact",
+                        "Only hazard exists",
+                        "Only population exists",
+                        "Only government acts"
+                    ],
+                    "answer": "Hazard + Vulnerability interact"
+                },
+                {
+                    "question": "Vulnerability refers to:",
+                    "options": [
+                        "Strength of infrastructure",
+                        "Exposure to harm",
+                        "Weather conditions",
+                        "Government policies only"
+                    ],
+                    "answer": "Exposure to harm"
+                },
+                {
+                    "question": "Which is NOT a phase of disaster management?",
+                    "options": [
+                        "Preparedness",
+                        "Response",
+                        "Development ignoring risk",
+                        "Recovery"
+                    ],
+                    "answer": "Development ignoring risk"
+                },
+                {
+                    "question": "Biological disaster includes:",
+                    "options": [
+                        "Earthquake",
+                        "Pandemic",
+                        "Cyclone",
+                        "Landslide"
+                    ],
+                    "answer": "Pandemic"
+                },
+                {
+                    "question": "Risk is best defined as:",
+                    "options": [
+                        "Probability of loss",
+                        "Weather condition",
+                        "Economic growth",
+                        "Population density"
+                    ],
+                    "answer": "Probability of loss"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. All hazards become disasters\n2. Vulnerability increases disaster risk\n3. Disaster management includes mitigation",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "2 and 3"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                        "Hazard – potential danger",
+                        "Disaster – always man-made",
+                        "Risk – absence of damage",
+                        "Vulnerability – protection level"
+                    ],
+                    "answer": "Hazard – potential danger"
+                },
+                {
+                    "question": "Disaster management cycle includes:",
+                    "options": [
+                        "Only response",
+                        "Only mitigation",
+                        "Pre, during, and post disaster phases",
+                        "Only recovery"
+                    ],
+                    "answer": "Pre, during, and post disaster phases"
+                },
+                {
+                    "question": "Which increases disaster risk?",
+                    "options": [
+                        "Strong infrastructure",
+                        "Preparedness",
+                        "High vulnerability",
+                        "Awareness"
+                    ],
+                    "answer": "High vulnerability"
+                },
+                {
+                    "question": "Disaster management aims to:",
+                    "options": [
+                        "Increase losses",
+                        "Ignore hazards",
+                        "Reduce impact of disasters",
+                        "Stop all natural events"
+                    ],
+                    "answer": "Reduce impact of disasters"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Hazard, Vulnerability & Risk",
+        "notes": [
+            {
+                "heading": "What is a Hazard?",
+                "points": [
+                    "A hazard is a potential source of harm or danger",
+                    "It can cause injury, loss of life, property damage, or environmental degradation",
+                    "Hazards may or may not turn into disasters depending on vulnerability",
+                    "They can be natural (earthquakes, floods) or man-made (chemical leaks, accidents)",
+                    "Hazards are conditions that increase the likelihood of a disaster"
+                ]
+            },
+            {
+                "heading": "Types of Hazards",
+                "points": [
+                    "Natural hazards – earthquakes, tsunamis, cyclones, volcanic eruptions",
+                    "Hydro-meteorological hazards – floods, droughts, storms, heatwaves",
+                    "Biological hazards – epidemics, pandemics, pest attacks",
+                    "Technological hazards – industrial accidents, nuclear leaks",
+                    "Environmental hazards – deforestation, land degradation, pollution"
+                ]
+            },
+            {
+                "heading": "What is Vulnerability?",
+                "points": [
+                    "Vulnerability is the degree to which people or systems are exposed to harm",
+                    "It reflects the inability to resist or recover from a hazard",
+                    "It depends on social, economic, physical, and environmental factors",
+                    "Poor infrastructure and poverty increase vulnerability",
+                    "Stronger preparedness and resources reduce vulnerability"
+                ]
+            },
+            {
+                "heading": "Types of Vulnerability",
+                "points": [
+                    "Physical vulnerability – weak buildings, unsafe infrastructure",
+                    "Social vulnerability – poverty, illiteracy, population density",
+                    "Economic vulnerability – lack of resources and income stability",
+                    "Environmental vulnerability – degraded ecosystems",
+                    "Institutional vulnerability – weak governance and disaster systems"
+                ]
+            },
+            {
+                "heading": "What is Risk?",
+                "points": [
+                    "Risk is the probability of loss or damage due to a hazard",
+                    "It depends on the interaction between hazard and vulnerability",
+                    "Higher vulnerability increases risk even if hazard is constant",
+                    "Risk can be reduced through preparedness and mitigation",
+                    "It is a measurable concept used in disaster planning"
+                ]
+            },
+            {
+                "heading": "Relationship between Hazard, Vulnerability and Risk",
+                "points": [
+                    "Hazard is the potential event causing harm",
+                    "Vulnerability determines how exposed a system is",
+                    "Risk = Hazard × Vulnerability (conceptual relation)",
+                    "If vulnerability is zero, risk is also very low",
+                    "Disaster occurs when high hazard meets high vulnerability"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "A hazard is best defined as:",
+                    "options": [
+                        "Actual damage event",
+                        "Potential source of danger",
+                        "Recovery process",
+                        "Relief activity"
+                    ],
+                    "answer": "Potential source of danger"
+                },
+                {
+                    "question": "Which is a natural hazard?",
+                    "options": [
+                        "Industrial explosion",
+                        "Earthquake",
+                        "Nuclear leak",
+                        "Road accident"
+                    ],
+                    "answer": "Earthquake"
+                },
+                {
+                    "question": "Vulnerability refers to:",
+                    "options": [
+                        "Strength of system",
+                        "Exposure to harm",
+                        "Weather conditions",
+                        "Economic growth"
+                    ],
+                    "answer": "Exposure to harm"
+                },
+                {
+                    "question": "Risk depends on:",
+                    "options": [
+                        "Hazard only",
+                        "Vulnerability only",
+                        "Hazard and vulnerability",
+                        "Population only"
+                    ],
+                    "answer": "Hazard and vulnerability"
+                },
+                {
+                    "question": "Which is a man-made hazard?",
+                    "options": [
+                        "Cyclone",
+                        "Flood",
+                        "Chemical spill",
+                        "Earthquake"
+                    ],
+                    "answer": "Chemical spill"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Risk increases when:",
+                    "options": [
+                        "Hazard decreases",
+                        "Vulnerability decreases",
+                        "Both hazard and vulnerability are high",
+                        "Population decreases"
+                    ],
+                    "answer": "Both hazard and vulnerability are high"
+                },
+                {
+                    "question": "Physical vulnerability includes:",
+                    "options": [
+                        "Strong governance",
+                        "Weak infrastructure",
+                        "High income",
+                        "Low population"
+                    ],
+                    "answer": "Weak infrastructure"
+                },
+                {
+                    "question": "Which reduces vulnerability?",
+                    "options": [
+                        "Poor planning",
+                        "Preparedness",
+                        "Deforestation",
+                        "Urban congestion"
+                    ],
+                    "answer": "Preparedness"
+                },
+                {
+                    "question": "Biological hazard is:",
+                    "options": [
+                        "Flood",
+                        "Earthquake",
+                        "Pandemic",
+                        "Landslide"
+                    ],
+                    "answer": "Pandemic"
+                },
+                {
+                    "question": "Risk is:",
+                    "options": [
+                        "Certain damage",
+                        "Probability of loss",
+                        "Type of hazard",
+                        "Recovery phase"
+                    ],
+                    "answer": "Probability of loss"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Hazard alone creates disaster\n2. Vulnerability influences risk\n3. Risk is a measurable concept",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "2 and 3"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                        "Hazard – potential danger",
+                        "Vulnerability – strength of system",
+                        "Risk – absence of hazard",
+                        "Disaster – planned event"
+                    ],
+                    "answer": "Hazard – potential danger"
+                },
+                {
+                    "question": "Risk can be reduced by:",
+                    "options": [
+                        "Increasing vulnerability",
+                        "Ignoring hazards",
+                        "Preparedness and mitigation",
+                        "Population growth"
+                    ],
+                    "answer": "Preparedness and mitigation"
+                },
+                {
+                    "question": "Institutional vulnerability refers to:",
+                    "options": [
+                        "Strong governance",
+                        "Weak disaster management systems",
+                        "High technology use",
+                        "Low hazard zones"
+                    ],
+                    "answer": "Weak disaster management systems"
+                },
+                {
+                    "question": "Disaster occurs when:",
+                    "options": [
+                        "Hazard exists alone",
+                        "Vulnerability exists alone",
+                        "Hazard and vulnerability interact strongly",
+                        "No population exists"
+                    ],
+                    "answer": "Hazard and vulnerability interact strongly"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Capacity, Classification & Disaster Management Cycle",
+        "notes": [
+            {
+                "heading": "What is Capacity?",
+                "points": [
+                    "Capacity refers to the strengths, resources, and abilities of individuals, communities, and systems to cope with disasters",
+                    "It includes physical, economic, social, and institutional resources",
+                    "Higher capacity reduces disaster impact and risk",
+                    "It helps in prevention, preparedness, response, and recovery",
+                    "Capacity building is a key part of disaster risk reduction"
+                ]
+            },
+            {
+                "heading": "Types of Capacity",
+                "points": [
+                    "Physical capacity – infrastructure, buildings, shelters, equipment",
+                    "Economic capacity – financial resources, insurance, savings",
+                    "Social capacity – awareness, education, community networks",
+                    "Institutional capacity – government systems, disaster agencies, policies",
+                    "Human capacity – skills, knowledge, training, leadership"
+                ]
+            },
+            {
+                "heading": "Capacity vs Vulnerability",
+                "points": [
+                    "Capacity reduces the impact of hazards",
+                    "Vulnerability increases exposure to damage",
+                    "Higher capacity means lower risk",
+                    "They are inversely related concepts",
+                    "Strong capacity helps communities recover faster"
+                ]
+            },
+            {
+                "heading": "Classification of Disasters",
+                "points": [
+                    "Disasters are broadly classified into Natural and Man-made disasters",
+                    "Natural disasters are caused by environmental processes",
+                    "Man-made disasters are caused by human activities",
+                    "Some disasters are slow-onset while others are rapid-onset",
+                    "Classification helps in better planning and response"
+                ]
+            },
+            {
+                "heading": "Natural Disasters",
+                "points": [
+                    "Geological – earthquakes, volcanic eruptions, landslides",
+                    "Hydrological – floods, tsunamis",
+                    "Meteorological – cyclones, storms, heatwaves",
+                    "Climatological – droughts, cold waves",
+                    "Biological – epidemics, pandemics"
+                ]
+            },
+            {
+                "heading": "Man-made Disasters",
+                "points": [
+                    "Industrial accidents – gas leaks, chemical explosions",
+                    "Nuclear disasters – radiation leaks",
+                    "Transport accidents – road, rail, air crashes",
+                    "War and conflicts",
+                    "Environmental degradation – deforestation, pollution"
+                ]
+            },
+            {
+                "heading": "Disaster Management Cycle",
+                "points": [
+                    "A continuous process to manage disasters effectively",
+                    "It includes activities before, during, and after disasters",
+                    "Aims to reduce risk and build resilience",
+                    "Focuses on long-term preparedness",
+                    "It is a cyclical and ongoing framework"
+                ]
+            },
+            {
+                "heading": "Phases of Disaster Management Cycle",
+                "points": [
+                    "Pre-disaster phase – mitigation and preparedness",
+                    "During disaster – response and emergency relief",
+                    "Post-disaster phase – rehabilitation and reconstruction",
+                    "Recovery phase – restoring normal conditions",
+                    "Mitigation reduces future disaster risks"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Capacity in disaster management refers to:",
+                    "options": [
+                        "Level of hazard",
+                        "Ability to cope with disasters",
+                        "Type of disaster",
+                        "Weather conditions"
+                    ],
+                    "answer": "Ability to cope with disasters"
+                },
+                {
+                    "question": "Which is a natural disaster?",
+                    "options": [
+                        "Industrial explosion",
+                        "Earthquake",
+                        "Nuclear leak",
+                        "Road accident"
+                    ],
+                    "answer": "Earthquake"
+                },
+                {
+                    "question": "Man-made disaster includes:",
+                    "options": [
+                        "Cyclone",
+                        "Flood",
+                        "Chemical spill",
+                        "Drought"
+                    ],
+                    "answer": "Chemical spill"
+                },
+                {
+                    "question": "Disaster management cycle is:",
+                    "options": [
+                        "One-time process",
+                        "Continuous process",
+                        "Only post-disaster activity",
+                        "Only planning stage"
+                    ],
+                    "answer": "Continuous process"
+                },
+                {
+                    "question": "Which increases capacity?",
+                    "options": [
+                        "Poor infrastructure",
+                        "Education and training",
+                        "Lack of awareness",
+                        "Poverty"
+                    ],
+                    "answer": "Education and training"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Capacity and vulnerability are:",
+                    "options": [
+                        "Same concepts",
+                        "Unrelated",
+                        "Inversely related",
+                        "Always equal"
+                    ],
+                    "answer": "Inversely related"
+                },
+                {
+                    "question": "Which is a geological disaster?",
+                    "options": [
+                        "Cyclone",
+                        "Earthquake",
+                        "Pandemic",
+                        "Flood"
+                    ],
+                    "answer": "Earthquake"
+                },
+                {
+                    "question": "Pre-disaster phase includes:",
+                    "options": [
+                        "Reconstruction",
+                        "Mitigation",
+                        "Damage assessment",
+                        "Relief distribution"
+                    ],
+                    "answer": "Mitigation"
+                },
+                {
+                    "question": "Biological disaster includes:",
+                    "options": [
+                        "Earthquake",
+                        "Pandemic",
+                        "Volcano",
+                        "Landslide"
+                    ],
+                    "answer": "Pandemic"
+                },
+                {
+                    "question": "High capacity leads to:",
+                    "options": [
+                        "Higher risk",
+                        "Lower risk",
+                        "No change in risk",
+                        "More disasters"
+                    ],
+                    "answer": "Lower risk"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Capacity reduces disaster impact\n2. Vulnerability increases risk\n3. Disaster management is a linear process",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                        "Capacity – ability to cope",
+                        "Vulnerability – strength of system",
+                        "Hazard – actual damage",
+                        "Risk – certainty of disaster"
+                    ],
+                    "answer": "Capacity – ability to cope"
+                },
+                {
+                    "question": "Disaster management cycle includes:",
+                    "options": [
+                        "Only response",
+                        "Only recovery",
+                        "Pre, during, and post disaster phases",
+                        "Only mitigation"
+                    ],
+                    "answer": "Pre, during, and post disaster phases"
+                },
+                {
+                    "question": "Which is NOT a man-made disaster?",
+                    "options": [
+                        "War",
+                        "Chemical spill",
+                        "Earthquake",
+                        "Nuclear accident"
+                    ],
+                    "answer": "Earthquake"
+                },
+                {
+                    "question": "Mitigation in disaster management means:",
+                    "options": [
+                        "Ignoring hazards",
+                        "Reducing future risk",
+                        "Only rescue operations",
+                        "Post-disaster recovery"
+                    ],
+                    "answer": "Reducing future risk"
+                }
+            ]
+        }
+    }
+]

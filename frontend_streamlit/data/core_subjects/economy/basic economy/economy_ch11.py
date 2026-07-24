@@ -1,0 +1,990 @@
+TOPICS = [
+    {
+        "name": "Foreign Trade, Trade Policy & Balance of Payments",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Foreign trade plays a crucial role in economic growth and globalization",
+                    "Trade policy governs exports and imports of a country",
+                    "Balance of Payments (BoP) records all international transactions"
+                ]
+            },
+            {
+                "heading": "International Trade – Meaning",
+                "points": [
+                    "Exchange of goods and services across countries",
+                    "Includes exports (selling abroad) and imports (buying from abroad)",
+                    "Driven by comparative advantage and specialization",
+                    "Promotes global economic integration"
+                ]
+            },
+            {
+                "heading": "Types of International Trade",
+                "points": [
+                    "Bilateral Trade – Between two countries",
+                    "Multilateral Trade – Among multiple countries",
+                    "Regional Trade – Within a specific region (e.g., trade blocs)",
+                    "Intra-industry Trade – Similar goods exchange"
+                ]
+            },
+            {
+                "heading": "Advantages of International Trade",
+                "points": [
+                    "Efficient allocation of resources",
+                    "Access to wider markets",
+                    "Availability of diverse goods",
+                    "Promotes economic growth",
+                    "Encourages technological advancement"
+                ]
+            },
+            {
+                "heading": "Disadvantages of International Trade",
+                "points": [
+                    "Dependence on foreign countries",
+                    "Trade imbalances",
+                    "Impact on domestic industries",
+                    "Exposure to global economic shocks",
+                    "Possibility of dumping"
+                ]
+            },
+            {
+                "heading": "Trade Policy – Meaning",
+                "points": [
+                    "Government policy regulating foreign trade",
+                    "Includes measures to promote exports and regulate imports",
+                    "Aims to achieve economic growth and stability",
+                    "Also known as Foreign Trade Policy (FTP)"
+                ]
+            },
+            {
+                "heading": "Types of Trade Policy",
+                "points": [
+                    "Free Trade Policy – Minimal restrictions",
+                    "Protectionist Policy – Tariffs and quotas to protect domestic industry",
+                    "Mixed Policy – Combination of both approaches",
+                    "Export Promotion Policy – Incentives for exports"
+                ]
+            },
+            {
+                "heading": "Instruments of Trade Policy",
+                "points": [
+                    "Tariffs – Taxes on imports",
+                    "Quotas – Limits on quantity of imports",
+                    "Subsidies – Support to domestic producers",
+                    "Import licensing",
+                    "Export incentives",
+                    "Exchange rate policy"
+                ]
+            },
+            {
+                "heading": "India’s Trade Policy",
+                "points": [
+                    "Shift from protectionism to liberalization post-1991",
+                    "Focus on export promotion",
+                    "Make in India and Atmanirbhar Bharat initiatives",
+                    "Integration with global value chains",
+                    "Promotion of ease of doing business"
+                ]
+            },
+            {
+                "heading": "Balance of Payments (BoP) – Meaning",
+                "points": [
+                    "Record of all economic transactions between residents of a country and rest of the world",
+                    "Maintained for a specific period (usually one year)",
+                    "Shows inflow and outflow of foreign exchange",
+                    "Helps assess external sector health"
+                ]
+            },
+            {
+                "heading": "Components of BoP",
+                "points": [
+                    "Current Account – Trade in goods and services, income, transfers",
+                    "Capital Account – Capital transfers and acquisition of assets",
+                    "Financial Account – Foreign investments and loans",
+                    "Errors and Omissions – Statistical discrepancies"
+                ]
+            },
+            {
+                "heading": "Current Account",
+                "points": [
+                    "Includes exports and imports of goods and services",
+                    "Trade balance (exports – imports)",
+                    "Remittances and income from abroad",
+                    "Current Account Deficit (CAD) when imports exceed exports"
+                ]
+            },
+            {
+                "heading": "Capital/Financial Account",
+                "points": [
+                    "Includes FDI, FPI, external borrowings",
+                    "Capital inflows and outflows",
+                    "Helps finance current account deficit",
+                    "Reflects investment flows"
+                ]
+            },
+            {
+                "heading": "BoP Disequilibrium",
+                "points": [
+                    "Occurs when inflows ≠ outflows",
+                    "Persistent deficit leads to foreign exchange crisis",
+                    "Surplus indicates excess inflows",
+                    "Requires policy intervention"
+                ]
+            },
+            {
+                "heading": "Measures to Correct BoP Deficit",
+                "points": [
+                    "Devaluation of currency",
+                    "Export promotion",
+                    "Import substitution",
+                    "Foreign investment inflows",
+                    "Control on imports",
+                    "Monetary and fiscal measures"
+                ]
+            },
+            {
+                "heading": "Importance of BoP",
+                "points": [
+                    "Indicates economic health",
+                    "Helps in policy formulation",
+                    "Tracks foreign exchange reserves",
+                    "Guides trade and investment decisions",
+                    "Important for macroeconomic stability"
+                ]
+            },
+            {
+                "heading": "Challenges in Foreign Trade",
+                "points": [
+                    "Global trade tensions",
+                    "Protectionism",
+                    "Exchange rate volatility",
+                    "Supply chain disruptions",
+                    "Dependence on imports (e.g., oil)"
+                ]
+            },
+            {
+                "heading": "Way Forward",
+                "points": [
+                    "Diversify export markets",
+                    "Enhance competitiveness",
+                    "Promote manufacturing",
+                    "Strengthen trade agreements",
+                    "Improve infrastructure and logistics",
+                    "Boost foreign investments"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "International trade involves:",
+                    "options": [
+                    "Domestic trade",
+                    "Trade between countries",
+                    "Tax collection",
+                    "Budgeting"
+                    ],
+                    "answer": "Trade between countries"
+                },
+                {
+                    "question": "Exports mean:",
+                    "options": [
+                    "Buying goods",
+                    "Selling goods abroad",
+                    "Tax collection",
+                    "Imports"
+                    ],
+                    "answer": "Selling goods abroad"
+                },
+                {
+                    "question": "BoP records:",
+                    "options": [
+                    "Only imports",
+                    "Only exports",
+                    "All international transactions",
+                    "Only taxes"
+                    ],
+                    "answer": "All international transactions"
+                },
+                {
+                    "question": "Tariff is:",
+                    "options": [
+                    "Subsidy",
+                    "Tax on imports",
+                    "Loan",
+                    "Investment"
+                    ],
+                    "answer": "Tax on imports"
+                },
+                {
+                    "question": "CAD occurs when:",
+                    "options": [
+                    "Exports > Imports",
+                    "Imports > Exports",
+                    "No trade",
+                    "Balanced trade"
+                    ],
+                    "answer": "Imports > Exports"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Free trade means:",
+                    "options": [
+                    "High restrictions",
+                    "No restrictions",
+                    "High taxes",
+                    "No trade"
+                    ],
+                    "answer": "No restrictions"
+                },
+                {
+                    "question": "FDI is part of:",
+                    "options": [
+                    "Current account",
+                    "Capital/Financial account",
+                    "Budget",
+                    "Tax system"
+                    ],
+                    "answer": "Capital/Financial account"
+                },
+                {
+                    "question": "Trade balance is:",
+                    "options": [
+                    "Exports + Imports",
+                    "Exports - Imports",
+                    "Imports - Exports",
+                    "Exports × Imports"
+                    ],
+                    "answer": "Exports - Imports"
+                },
+                {
+                    "question": "Quota means:",
+                    "options": [
+                    "Tax",
+                    "Quantity limit",
+                    "Loan",
+                    "Subsidy"
+                    ],
+                    "answer": "Quantity limit"
+                },
+                {
+                    "question": "BoP deficit leads to:",
+                    "options": [
+                    "Surplus",
+                    "Forex crisis",
+                    "Growth",
+                    "Savings"
+                    ],
+                    "answer": "Forex crisis"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. BoP includes all transactions\n2. CAD means imports exceed exports\n3. FDI is part of current account",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Main aim of trade policy:",
+                    "options": [
+                    "Tax collection",
+                    "Regulate trade",
+                    "Increase imports",
+                    "Reduce exports"
+                    ],
+                    "answer": "Regulate trade"
+                },
+                {
+                    "question": "Devaluation helps:",
+                    "options": [
+                    "Imports",
+                    "Exports",
+                    "Taxes",
+                    "Loans"
+                    ],
+                    "answer": "Exports"
+                },
+                {
+                    "question": "Protectionism uses:",
+                    "options": [
+                    "Free trade",
+                    "Tariffs and quotas",
+                    "No policy",
+                    "Loans"
+                    ],
+                    "answer": "Tariffs and quotas"
+                },
+                {
+                    "question": "BoP surplus means:",
+                    "options": [
+                    "Outflows > Inflows",
+                    "Inflows > Outflows",
+                    "No trade",
+                    "Equal flows"
+                    ],
+                    "answer": "Inflows > Outflows"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Foreign Capital, Globalization & IMF",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Foreign capital plays a key role in economic development and globalization",
+                    "Globalization integrates economies through trade, investment, and technology",
+                    "International Monetary Fund (IMF) supports global financial stability"
+                ]
+            },
+            {
+                "heading": "Foreign Capital – Meaning",
+                "points": [
+                    "Capital inflows from foreign countries into domestic economy",
+                    "Includes investments, loans, and aid",
+                    "Helps bridge savings-investment gap",
+                    "Promotes economic growth and development"
+                ]
+            },
+            {
+                "heading": "Types of Foreign Capital",
+                "points": [
+                    "Foreign Direct Investment (FDI) – Long-term investment with control",
+                    "Foreign Portfolio Investment (FPI) – Investment in financial assets",
+                    "External Commercial Borrowings (ECB)",
+                    "Official Development Assistance (ODA)",
+                    "Non-Resident Indian (NRI) investments"
+                ]
+            },
+            {
+                "heading": "Advantages of Foreign Capital",
+                "points": [
+                    "Brings capital and technology",
+                    "Generates employment",
+                    "Improves infrastructure",
+                    "Enhances productivity",
+                    "Boosts exports and growth"
+                ]
+            },
+            {
+                "heading": "Disadvantages of Foreign Capital",
+                "points": [
+                    "Risk of capital flight",
+                    "Dependence on foreign investors",
+                    "Impact on domestic industries",
+                    "Exchange rate volatility",
+                    "Profit repatriation"
+                ]
+            },
+            {
+                "heading": "Impact of Globalization on Indian Economy – Overview",
+                "points": [
+                    "Globalization refers to integration of world economies",
+                    "India adopted globalization policies post-1991 reforms",
+                    "Led to increased trade, investment, and technology transfer",
+                    "Transformed Indian economy significantly"
+                ]
+            },
+            {
+                "heading": "Positive Impacts of Globalization",
+                "points": [
+                    "Increase in GDP growth",
+                    "Expansion of export markets",
+                    "Rise in foreign investments",
+                    "Technology transfer and innovation",
+                    "Growth of service sector (IT, BPO)"
+                ]
+            },
+            {
+                "heading": "Negative Impacts of Globalization",
+                "points": [
+                    "Income inequality",
+                    "Impact on small-scale industries",
+                    "Job insecurity in some sectors",
+                    "Cultural homogenization",
+                    "Environmental degradation"
+                ]
+            },
+            {
+                "heading": "India’s Experience with Globalization",
+                "points": [
+                    "Shift from closed to open economy",
+                    "Integration with global markets",
+                    "Growth in IT and services sector",
+                    "Increased competition in domestic markets",
+                    "Improved standard of living"
+                ]
+            },
+            {
+                "heading": "International Monetary Fund (IMF) – Overview",
+                "points": [
+                    "Established in 1944 at Bretton Woods Conference",
+                    "Headquarters: Washington, D.C., USA",
+                    "Global financial institution with 190+ member countries",
+                    "Promotes international monetary cooperation"
+                ]
+            },
+            {
+                "heading": "Objectives of IMF",
+                "points": [
+                    "Ensure global financial stability",
+                    "Promote international trade",
+                    "Facilitate balanced economic growth",
+                    "Provide financial assistance to member countries",
+                    "Maintain exchange rate stability"
+                ]
+            },
+            {
+                "heading": "Functions of IMF",
+                "points": [
+                    "Lending to countries facing balance of payments crisis",
+                    "Surveillance of global economy",
+                    "Technical assistance and capacity building",
+                    "Policy advice to member countries",
+                    "Monitoring exchange rates"
+                ]
+            },
+            {
+                "heading": "IMF Lending Instruments",
+                "points": [
+                    "Stand-By Arrangements (SBA)",
+                    "Extended Fund Facility (EFF)",
+                    "Poverty Reduction and Growth Trust (PRGT)",
+                    "Rapid Financing Instrument (RFI)"
+                ]
+            },
+            {
+                "heading": "Criticisms of IMF",
+                "points": [
+                    "Conditionalities on loans",
+                    "Bias towards developed countries",
+                    "Limited representation of developing nations",
+                    "Impact on sovereignty of borrowing countries",
+                    "Austerity measures affecting growth"
+                ]
+            },
+            {
+                "heading": "India and IMF",
+                "points": [
+                    "Founding member of IMF",
+                    "Borrowed during 1991 BoP crisis",
+                    "Currently not a major borrower",
+                    "Participates in IMF decision-making",
+                    "Supports reforms in global financial system"
+                ]
+            },
+            {
+                "heading": "Way Forward",
+                "points": [
+                    "Balanced approach to globalization",
+                    "Strengthen domestic industries",
+                    "Promote sustainable development",
+                    "Reform global financial institutions",
+                    "Enhance role of developing countries",
+                    "Ensure inclusive growth"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "FDI stands for:",
+                    "options": [
+                    "Foreign Direct Investment",
+                    "Foreign Development Index",
+                    "Financial Direct Income",
+                    "Foreign Debt Investment"
+                    ],
+                    "answer": "Foreign Direct Investment"
+                },
+                {
+                    "question": "IMF was established in:",
+                    "options": [
+                    "1944",
+                    "1950",
+                    "1991",
+                    "2000"
+                    ],
+                    "answer": "1944"
+                },
+                {
+                    "question": "IMF headquarters is in:",
+                    "options": [
+                    "New York",
+                    "Washington D.C.",
+                    "London",
+                    "Paris"
+                    ],
+                    "answer": "Washington D.C."
+                },
+                {
+                    "question": "Globalization means:",
+                    "options": [
+                    "Isolation",
+                    "Integration of economies",
+                    "Taxation",
+                    "Imports only"
+                    ],
+                    "answer": "Integration of economies"
+                },
+                {
+                    "question": "FPI is:",
+                    "options": [
+                    "Long-term investment",
+                    "Short-term financial investment",
+                    "Loan",
+                    "Tax"
+                    ],
+                    "answer": "Short-term financial investment"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "IMF provides:",
+                    "options": [
+                    "Loans",
+                    "Taxes",
+                    "Exports",
+                    "Imports"
+                    ],
+                    "answer": "Loans"
+                },
+                {
+                    "question": "Globalization increases:",
+                    "options": [
+                    "Isolation",
+                    "Trade",
+                    "Taxes",
+                    "Deficit"
+                    ],
+                    "answer": "Trade"
+                },
+                {
+                    "question": "ECB refers to:",
+                    "options": [
+                    "External Commercial Borrowing",
+                    "European Central Bank",
+                    "Export Credit Balance",
+                    "Economic Control Board"
+                    ],
+                    "answer": "External Commercial Borrowing"
+                },
+                {
+                    "question": "IMF deals with:",
+                    "options": [
+                    "Military",
+                    "Finance",
+                    "Health",
+                    "Education"
+                    ],
+                    "answer": "Finance"
+                },
+                {
+                    "question": "Main issue of globalization:",
+                    "options": [
+                    "Growth",
+                    "Inequality",
+                    "Exports",
+                    "Imports"
+                    ],
+                    "answer": "Inequality"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. FDI brings control\n2. IMF helps in BoP crisis\n3. Globalization increases trade",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1, 2 and 3",
+                    "1 and 3 only"
+                    ],
+                    "answer": "1, 2 and 3"
+                },
+                {
+                    "question": "Main criticism of IMF:",
+                    "options": [
+                    "Growth",
+                    "Conditionalities",
+                    "Loans",
+                    "Trade"
+                    ],
+                    "answer": "Conditionalities"
+                },
+                {
+                    "question": "Capital flight means:",
+                    "options": [
+                    "Inflow",
+                    "Outflow",
+                    "Trade",
+                    "Tax"
+                    ],
+                    "answer": "Outflow"
+                },
+                {
+                    "question": "Globalization leads to:",
+                    "options": [
+                    "Closed economy",
+                    "Open economy",
+                    "No trade",
+                    "Isolation"
+                    ],
+                    "answer": "Open economy"
+                },
+                {
+                    "question": "IMF surveillance means:",
+                    "options": [
+                    "Military watch",
+                    "Economic monitoring",
+                    "Tax audit",
+                    "Trade policy"
+                    ],
+                    "answer": "Economic monitoring"
+                }
+            ]
+        }
+    },
+    {
+        "name": "WTO, World Bank Group, AIIB & NDB",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "These are major international economic organizations shaping global trade and development",
+                    "They provide financial assistance, policy support, and promote economic cooperation",
+                    "Important for understanding global governance and India's role"
+                ]
+            },
+            {
+                "heading": "World Trade Organization (WTO) – Overview",
+                "points": [
+                    "Established in 1995 as successor to GATT (1947)",
+                    "Headquarters: Geneva, Switzerland",
+                    "Global organization dealing with rules of international trade",
+                    "Promotes free and fair trade among member countries"
+                ]
+            },
+            {
+                "heading": "Objectives of WTO",
+                "points": [
+                    "Promote free trade by reducing tariffs and barriers",
+                    "Ensure fair competition",
+                    "Resolve trade disputes",
+                    "Encourage economic growth and development",
+                    "Integrate developing countries into global trade"
+                ]
+            },
+            {
+                "heading": "Functions of WTO",
+                "points": [
+                    "Administer trade agreements",
+                    "Provide forum for trade negotiations",
+                    "Settle disputes through Dispute Settlement Body",
+                    "Monitor national trade policies",
+                    "Provide technical assistance to developing countries"
+                ]
+            },
+            {
+                "heading": "Key Agreements under WTO",
+                "points": [
+                    "GATT – Trade in goods",
+                    "GATS – Trade in services",
+                    "TRIPS – Intellectual property rights",
+                    "Agreement on Agriculture (AoA)",
+                    "Trade Facilitation Agreement (TFA)"
+                ]
+            },
+            {
+                "heading": "Issues with WTO",
+                "points": [
+                    "Dispute settlement crisis",
+                    "Developed vs developing country conflicts",
+                    "Agricultural subsidy issues",
+                    "Slow decision-making process",
+                    "Rise of protectionism"
+                ]
+            },
+            {
+                "heading": "World Bank Group – Overview",
+                "points": [
+                    "Established in 1944 at Bretton Woods",
+                    "Headquarters: Washington, D.C., USA",
+                    "Provides financial and technical assistance for development",
+                    "Focus on poverty reduction and infrastructure"
+                ]
+            },
+            {
+                "heading": "Institutions under World Bank Group",
+                "points": [
+                    "IBRD – Loans to middle-income countries",
+                    "IDA – Concessional loans to poor countries",
+                    "IFC – Private sector financing",
+                    "MIGA – Investment guarantees",
+                    "ICSID – Dispute settlement"
+                ]
+            },
+            {
+                "heading": "Functions of World Bank",
+                "points": [
+                    "Provide development loans",
+                    "Support infrastructure projects",
+                    "Promote poverty reduction",
+                    "Offer technical expertise",
+                    "Encourage sustainable development"
+                ]
+            },
+            {
+                "heading": "Criticisms of World Bank",
+                "points": [
+                    "Conditionalities on loans",
+                    "Dominance of developed countries",
+                    "Environmental concerns",
+                    "Slow project implementation",
+                    "Limited focus on local needs"
+                ]
+            },
+            {
+                "heading": "Asian Infrastructure Investment Bank (AIIB) – Overview",
+                "points": [
+                    "Established in 2016",
+                    "Headquarters: Beijing, China",
+                    "Focus on infrastructure development in Asia",
+                    "India is a founding member and major shareholder"
+                ]
+            },
+            {
+                "heading": "Functions of AIIB",
+                "points": [
+                    "Finance infrastructure projects",
+                    "Promote sustainable development",
+                    "Enhance regional connectivity",
+                    "Support energy, transport, and urban projects"
+                ]
+            },
+            {
+                "heading": "New Development Bank (NDB) – Overview",
+                "points": [
+                    "Established in 2015 by BRICS nations",
+                    "Headquarters: Shanghai, China",
+                    "Also known as BRICS Bank",
+                    "Focus on infrastructure and sustainable development"
+                ]
+            },
+            {
+                "heading": "Functions of NDB",
+                "points": [
+                    "Provide loans for infrastructure projects",
+                    "Support sustainable development",
+                    "Promote South-South cooperation",
+                    "Offer alternative to traditional institutions"
+                ]
+            },
+            {
+                "heading": "Significance of AIIB & NDB",
+                "points": [
+                    "Provide alternative financing sources",
+                    "Reduce dependence on IMF and World Bank",
+                    "Promote regional cooperation",
+                    "Support emerging economies",
+                    "Enhance infrastructure development"
+                ]
+            },
+            {
+                "heading": "India and These Institutions",
+                "points": [
+                    "Active member of WTO",
+                    "Beneficiary of World Bank loans",
+                    "Major shareholder in AIIB",
+                    "Founding member of NDB",
+                    "Advocates reforms in global institutions"
+                ]
+            },
+            {
+                "heading": "Challenges",
+                "points": [
+                    "Geopolitical tensions",
+                    "Coordination among institutions",
+                    "Ensuring fair representation",
+                    "Balancing development and sustainability",
+                    "Global economic uncertainties"
+                ]
+            },
+            {
+                "heading": "Way Forward",
+                "points": [
+                    "Reform global institutions",
+                    "Enhance role of developing countries",
+                    "Promote inclusive growth",
+                    "Strengthen multilateral cooperation",
+                    "Focus on sustainable development"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "WTO was established in:",
+                    "options": [
+                    "1947",
+                    "1995",
+                    "2000",
+                    "2010"
+                    ],
+                    "answer": "1995"
+                },
+                {
+                    "question": "WTO headquarters is in:",
+                    "options": [
+                    "New York",
+                    "Geneva",
+                    "London",
+                    "Paris"
+                    ],
+                    "answer": "Geneva"
+                },
+                {
+                    "question": "World Bank was established in:",
+                    "options": [
+                    "1944",
+                    "1950",
+                    "1991",
+                    "2000"
+                    ],
+                    "answer": "1944"
+                },
+                {
+                    "question": "AIIB headquarters:",
+                    "options": [
+                    "India",
+                    "China",
+                    "USA",
+                    "UK"
+                    ],
+                    "answer": "China"
+                },
+                {
+                    "question": "NDB is also called:",
+                    "options": [
+                    "World Bank",
+                    "BRICS Bank",
+                    "Asian Bank",
+                    "Trade Bank"
+                    ],
+                    "answer": "BRICS Bank"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "TRIPS relates to:",
+                    "options": [
+                    "Trade",
+                    "Intellectual property",
+                    "Agriculture",
+                    "Services"
+                    ],
+                    "answer": "Intellectual property"
+                },
+                {
+                    "question": "IDA helps:",
+                    "options": [
+                    "Rich countries",
+                    "Poor countries",
+                    "Companies",
+                    "Exports"
+                    ],
+                    "answer": "Poor countries"
+                },
+                {
+                    "question": "AIIB focuses on:",
+                    "options": [
+                    "Trade",
+                    "Infrastructure",
+                    "Military",
+                    "Health"
+                    ],
+                    "answer": "Infrastructure"
+                },
+                {
+                    "question": "NDB was formed by:",
+                    "options": [
+                    "G7",
+                    "BRICS",
+                    "EU",
+                    "ASEAN"
+                    ],
+                    "answer": "BRICS"
+                },
+                {
+                    "question": "WTO dispute body:",
+                    "options": [
+                    "IMF",
+                    "DSB",
+                    "UN",
+                    "World Bank"
+                    ],
+                    "answer": "DSB"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. WTO promotes free trade\n2. AIIB funds infrastructure\n3. NDB is by BRICS",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1, 2 and 3",
+                    "1 and 3 only"
+                    ],
+                    "answer": "1, 2 and 3"
+                },
+                {
+                    "question": "Main issue with WTO:",
+                    "options": [
+                    "Growth",
+                    "Dispute crisis",
+                    "Trade",
+                    "Exports"
+                    ],
+                    "answer": "Dispute crisis"
+                },
+                {
+                    "question": "IBRD lends to:",
+                    "options": [
+                    "Poor countries",
+                    "Middle-income countries",
+                    "Companies",
+                    "Individuals"
+                    ],
+                    "answer": "Middle-income countries"
+                },
+                {
+                    "question": "AIIB significance:",
+                    "options": [
+                    "Military",
+                    "Infrastructure funding",
+                    "Tax",
+                    "Trade"
+                    ],
+                    "answer": "Infrastructure funding"
+                },
+                {
+                    "question": "NDB promotes:",
+                    "options": [
+                    "Isolation",
+                    "South-South cooperation",
+                    "Tax",
+                    "Imports"
+                    ],
+                    "answer": "South-South cooperation"
+                }
+            ]
+        }
+    }
+]

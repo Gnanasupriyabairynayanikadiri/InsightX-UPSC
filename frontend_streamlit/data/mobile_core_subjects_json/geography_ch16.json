@@ -1,0 +1,1284 @@
+[
+    {
+        "name": "Major Weathering Processes (Chemical, Physical, Biological)",
+        "notes": [
+            {
+                "heading": "Weathering Processes – Overview",
+                "points": [
+                    "Weathering breaks rocks in-situ without transport",
+                    "Occurs through three main processes",
+                    "Chemical, Physical (Mechanical), and Biological",
+                    "All three often act together",
+                    "Core concept in geomorphology"
+                ]
+            },
+            {
+                "heading": "Physical (Mechanical) Weathering – Overview",
+                "points": [
+                    "Breakdown of rocks without chemical change",
+                    "Caused by physical forces like temperature and pressure",
+                    "Common in deserts and cold regions",
+                    "Produces smaller rock fragments",
+                    "Important for soil formation"
+                ]
+            },
+            {
+                "heading": "Physical Weathering Processes",
+                "points": [
+                    "Freeze-thaw action (frost wedging)",
+                    "Thermal expansion and contraction",
+                    "Pressure release (unloading)",
+                    "Exfoliation (sheeting)",
+                    "Salt crystallization",
+                    "All lead to rock disintegration"
+                ]
+            },
+            {
+                "heading": "Chemical Weathering – Overview",
+                "points": [
+                    "Involves decomposition of rocks through chemical reactions",
+                    "Changes mineral composition of rocks",
+                    "Requires water and heat",
+                    "Most active in hot and humid climates"
+                ]
+            },
+            {
+                "heading": "Chemical Weathering Processes",
+                "points": [
+                    "Oxidation – reaction with oxygen",
+                    "Hydration – absorption of water",
+                    "Carbonation – carbonic acid action",
+                    "Hydrolysis – reaction with water",
+                    "Solution – minerals dissolve in water"
+                ]
+            },
+            {
+                "heading": "Chemical Weathering Effects",
+                "points": [
+                    "Weakens rock structure",
+                    "Forms clay minerals",
+                    "Leads to soil formation",
+                    "Alters original rock composition",
+                    "Most effective in tropical regions"
+                ]
+            },
+            {
+                "heading": "Biological Weathering – Overview",
+                "points": [
+                    "Caused by living organisms",
+                    "Combines physical and chemical processes",
+                    "Includes plants, animals, and microbes",
+                    "Often enhances other weathering types",
+                    "Important eco-geomorphic process"
+                ]
+            },
+            {
+                "heading": "Biological Weathering Processes",
+                "points": [
+                    "Root wedging – plant roots expand cracks",
+                    "Burrowing animals loosen soil and rocks",
+                    "Microbial activity produces acids",
+                    "Human activities accelerate breakdown",
+                    "Vegetation decay produces humic acids"
+                ]
+            },
+            {
+                "heading": "Comparison of Weathering Types",
+                "points": [
+                    "Physical → breaks rock without change in composition",
+                    "Chemical → changes mineral composition",
+                    "Biological → caused by living organisms",
+                    "All act together in natural environments",
+                    "Climate controls dominance of type"
+                ]
+            },
+            {
+                "heading": "Climate Control on Processes",
+                "points": [
+                    "Hot dry → physical weathering dominant",
+                    "Hot wet → chemical weathering dominant",
+                    "Cold regions → freeze-thaw (physical)",
+                    "Vegetated areas → biological + chemical",
+                    "Climate is key controlling factor"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Physical weathering involves:",
+                    "options": [
+                        "Change in chemical composition",
+                        "Breakdown without chemical change",
+                        "Formation of minerals",
+                        "Dissolution only"
+                    ],
+                    "answer": "Breakdown without chemical change"
+                },
+                {
+                    "question": "Chemical weathering involves:",
+                    "options": [
+                        "No change in rock",
+                        "Change in mineral composition",
+                        "Only wind erosion",
+                        "Only ice melting"
+                    ],
+                    "answer": "Change in mineral composition"
+                },
+                {
+                    "question": "Biological weathering is caused by:",
+                    "options": [
+                        "Rocks",
+                        "Living organisms",
+                        "Wind only",
+                        "Sunlight only"
+                    ],
+                    "answer": "Living organisms"
+                },
+                {
+                    "question": "Freeze-thaw action is:",
+                    "options": [
+                        "Chemical weathering",
+                        "Physical weathering",
+                        "Biological weathering",
+                        "Volcanic action"
+                    ],
+                    "answer": "Physical weathering"
+                },
+                {
+                    "question": "Oxidation is a type of:",
+                    "options": [
+                        "Physical weathering",
+                        "Chemical weathering",
+                        "Biological weathering",
+                        "Erosion"
+                    ],
+                    "answer": "Chemical weathering"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Hydrolysis involves:",
+                    "options": [
+                        "Wind action",
+                        "Reaction with water",
+                        "Ice melting",
+                        "Heat expansion"
+                    ],
+                    "answer": "Reaction with water"
+                },
+                {
+                    "question": "Root wedging is an example of:",
+                    "options": [
+                        "Chemical weathering",
+                        "Biological weathering",
+                        "Wind erosion",
+                        "Glacial erosion"
+                    ],
+                    "answer": "Biological weathering"
+                },
+                {
+                    "question": "Salt crystallization is common in:",
+                    "options": [
+                        "Rainforests",
+                        "Deserts",
+                        "Oceans",
+                        "Mountains"
+                    ],
+                    "answer": "Deserts"
+                },
+                {
+                    "question": "Carbonation is caused by:",
+                    "options": [
+                        "Oxygen",
+                        "Carbon dioxide",
+                        "Nitrogen",
+                        "Hydrogen"
+                    ],
+                    "answer": "Carbon dioxide"
+                },
+                {
+                    "question": "Physical weathering is dominant in:",
+                    "options": [
+                        "Humid tropics",
+                        "Cold deserts",
+                        "Hot humid regions",
+                        "Tropical forests"
+                    ],
+                    "answer": "Cold deserts"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Physical weathering changes rock composition\n2. Chemical weathering alters minerals\n3. Biological weathering involves living organisms",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "2 and 3"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                        "Oxidation – chemical weathering",
+                        "Root wedging – chemical weathering",
+                        "Freeze-thaw – chemical weathering",
+                        "Hydrolysis – physical weathering"
+                    ],
+                    "answer": "Oxidation – chemical weathering"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Weathering always involves transport",
+                        "Climate has no role in weathering",
+                        "Hydration is chemical weathering",
+                        "Biological weathering is rare"
+                    ],
+                    "answer": "Hydration is chemical weathering"
+                },
+                {
+                    "question": "Carbonation mainly affects:",
+                    "options": [
+                        "Granite",
+                        "Limestone",
+                        "Basalt",
+                        "Quartzite"
+                    ],
+                    "answer": "Limestone"
+                },
+                {
+                    "question": "Which process produces clay minerals?",
+                    "options": [
+                        "Oxidation",
+                        "Hydrolysis",
+                        "Wind erosion",
+                        "Ice erosion"
+                    ],
+                    "answer": "Hydrolysis"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Chemical Weathering Forces",
+        "notes": [
+            {
+                "heading": "Chemical Weathering – Overview",
+                "points": [
+                    "Breakdown of rocks through chemical reactions",
+                    "Alters mineral composition of rocks",
+                    "Requires water and often heat",
+                    "Most effective in humid tropical climates",
+                    "Key process in soil formation"
+                ]
+            },
+            {
+                "heading": "Solution (Dissolution)",
+                "points": [
+                    "Minerals dissolve directly in water",
+                    "No chemical change in structure required initially",
+                    "Most effective in soluble rocks",
+                    "Example: Rock salt, gypsum, limestone",
+                    "Creates underground voids and karst features"
+                ]
+            },
+            {
+                "heading": "Carbonation",
+                "points": [
+                    "Reaction of carbon dioxide with water forms carbonic acid",
+                    "Carbonic acid dissolves carbonate rocks",
+                    "Highly effective in limestone regions",
+                    "Leads to caves, sinkholes, and karst topography"
+                ]
+            },
+            {
+                "heading": "Hydration",
+                "points": [
+                    "Minerals absorb water and expand",
+                    "Leads to swelling and weakening of rocks",
+                    "Changes physical and chemical structure",
+                    "Example: Feldspar → clay minerals",
+                    "Common in clay-rich soils"
+                ]
+            },
+            {
+                "heading": "Oxidation",
+                "points": [
+                    "Reaction of minerals with oxygen",
+                    "Common in iron-rich rocks",
+                    "Forms iron oxides (rusting effect)",
+                    "Red color in soils and rocks",
+                    "Weaken rock structure significantly"
+                ]
+            },
+            {
+                "heading": "Reduction",
+                "points": [
+                    "Opposite of oxidation (loss of oxygen)",
+                    "Occurs in waterlogged or oxygen-deficient areas",
+                    "Common in swampy regions",
+                    "Changes mineral composition",
+                    "Often associated with gley soils"
+                ]
+            },
+            {
+                "heading": "Combined Chemical Processes",
+                "points": [
+                    "Often multiple processes act together",
+                    "Hydrolysis + oxidation common in humid regions",
+                    "Solution + carbonation dominate limestone areas",
+                    "Hydration weakens rock for further breakdown",
+                    "Chemical weathering is continuous process"
+                ]
+            },
+            {
+                "heading": "Climatic Control",
+                "points": [
+                    "Hot humid climate → strongest chemical weathering",
+                    "Water availability is crucial",
+                    "Temperature accelerates chemical reactions",
+                    "Arid regions show weak chemical weathering"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Solution process mainly involves:",
+                    "options": [
+                        "Melting of rocks",
+                        "Dissolving of minerals in water",
+                        "Wind erosion",
+                        "Ice movement"
+                    ],
+                    "answer": "Dissolving of minerals in water"
+                },
+                {
+                    "question": "Carbonation is caused by:",
+                    "options": [
+                        "Oxygen",
+                        "Carbon dioxide",
+                        "Nitrogen",
+                        "Hydrogen"
+                    ],
+                    "answer": "Carbon dioxide"
+                },
+                {
+                    "question": "Hydration involves:",
+                    "options": [
+                        "Loss of water",
+                        "Absorption of water",
+                        "Wind action",
+                        "Heat increase"
+                    ],
+                    "answer": "Absorption of water"
+                },
+                {
+                    "question": "Oxidation mainly affects:",
+                    "options": [
+                        "Iron-rich rocks",
+                        "Sandstones only",
+                        "Ice sheets",
+                        "Volcanoes"
+                    ],
+                    "answer": "Iron-rich rocks"
+                },
+                {
+                    "question": "Reduction occurs in:",
+                    "options": [
+                        "Dry deserts",
+                        "Waterlogged areas",
+                        "Mountains",
+                        "Cliffs"
+                    ],
+                    "answer": "Waterlogged areas"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Carbonic acid is formed when:",
+                    "options": [
+                        "Oxygen mixes with water",
+                        "Carbon dioxide dissolves in water",
+                        "Nitrogen reacts with water",
+                        "Iron reacts with oxygen"
+                    ],
+                    "answer": "Carbon dioxide dissolves in water"
+                },
+                {
+                    "question": "Hydration commonly forms:",
+                    "options": [
+                        "Quartz",
+                        "Clay minerals",
+                        "Limestone",
+                        "Granite"
+                    ],
+                    "answer": "Clay minerals"
+                },
+                {
+                    "question": "Oxidation results in:",
+                    "options": [
+                        "Blue rocks",
+                        "Red or brown coloration",
+                        "White rocks",
+                        "Black ice"
+                    ],
+                    "answer": "Red or brown coloration"
+                },
+                {
+                    "question": "Solution weathering is strongest in:",
+                    "options": [
+                        "Granite",
+                        "Limestone",
+                        "Basalt",
+                        "Quartzite"
+                    ],
+                    "answer": "Limestone"
+                },
+                {
+                    "question": "Reduction is common in:",
+                    "options": [
+                        "Dry uplands",
+                        "Swamps",
+                        "Mountains",
+                        "Deserts"
+                    ],
+                    "answer": "Swamps"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Solution dissolves minerals in water\n2. Carbonation forms caves in limestone\n3. Oxidation is common in iron-rich rocks",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "All"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                        "Carbonation – limestone dissolution",
+                        "Oxidation – water absorption",
+                        "Hydration – oxygen loss",
+                        "Solution – wind erosion"
+                    ],
+                    "answer": "Carbonation – limestone dissolution"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Chemical weathering is absent in humid regions",
+                        "Oxidation requires carbon dioxide",
+                        "Hydration involves water absorption",
+                        "Solution involves wind action"
+                    ],
+                    "answer": "Hydration involves water absorption"
+                },
+                {
+                    "question": "Karst landscapes are mainly formed by:",
+                    "options": [
+                        "Oxidation",
+                        "Carbonation",
+                        "Hydration",
+                        "Reduction"
+                    ],
+                    "answer": "Carbonation"
+                },
+                {
+                    "question": "Red soils are mainly due to:",
+                    "options": [
+                        "Hydration",
+                        "Oxidation",
+                        "Solution",
+                        "Carbonation"
+                    ],
+                    "answer": "Oxidation"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Physical Forces of Weathering",
+        "notes": [
+            {
+                "heading": "Physical Weathering – Overview",
+                "points": [
+                    "Breakdown of rocks without chemical change",
+                    "Driven by mechanical forces acting on rocks",
+                    "Common in deserts, mountains, and cold regions",
+                    "Produces fragments of original rock",
+                    "Important in preparing material for erosion"
+                ]
+            },
+            {
+                "heading": "Gravitational Forces",
+                "points": [
+                    "Gravity pulls rock material downward",
+                    "Causes rockfalls, landslides, and mass wasting",
+                    "Weakens unstable slopes and cliffs",
+                    "Works continuously on all landforms",
+                    "Major force in slope failure processes"
+                ]
+            },
+            {
+                "heading": "Expansion and Contraction",
+                "points": [
+                    "Rocks expand when heated and contract when cooled",
+                    "Repeated cycles cause cracking",
+                    "Common in deserts due to extreme temperature variation",
+                    "Outer layers peel off (exfoliation)",
+                    "Weakens rock structure over time"
+                ]
+            },
+            {
+                "heading": "Water Pressure",
+                "points": [
+                    "Water enters cracks in rocks",
+                    "Expansion of water increases pressure",
+                    "Weakens and widens rock fractures",
+                    "Important in coastal and humid areas",
+                    "Contributes to mechanical breakdown"
+                ]
+            },
+            {
+                "heading": "Unloading and Expansion",
+                "points": [
+                    "Removal of overlying rock pressure",
+                    "Deep rocks expand when pressure decreases",
+                    "Causes formation of sheet joints",
+                    "Leads to exfoliation domes (e.g., granite domes)",
+                    "Important in intrusive igneous rocks"
+                ]
+            },
+            {
+                "heading": "Temperature Changes",
+                "points": [
+                    "Daily and seasonal temperature variations stress rocks",
+                    "Different minerals expand at different rates",
+                    "Creates internal stress and cracking",
+                    "Strong in arid desert climates",
+                    "Enhances physical disintegration"
+                ]
+            },
+            {
+                "heading": "Freezing and Thawing (Frost Action)",
+                "points": [
+                    "Water enters cracks and freezes",
+                    "Ice expands by ~9%, widening cracks",
+                    "Repeated cycles break rocks apart",
+                    "Most active in cold mountainous regions",
+                    "Also called frost wedging"
+                ]
+            },
+            {
+                "heading": "Frost Wedging Process",
+                "points": [
+                    "Step 1: Water enters rock cracks",
+                    "Step 2: Freezing causes expansion",
+                    "Step 3: Crack widens",
+                    "Step 4: Repeated cycles break rock",
+                    "Leads to scree and talus formation"
+                ]
+            },
+            {
+                "heading": "Salt Weathering",
+                "points": [
+                    "Saltwater enters rock pores",
+                    "Evaporation leaves salt crystals behind",
+                    "Crystals expand and exert pressure",
+                    "Breaks rock from inside",
+                    "Common in coastal and desert areas"
+                ]
+            },
+            {
+                "heading": "Salt Weathering Types",
+                "points": [
+                    "Haloclasty – crystal growth pressure",
+                    "Salt hydration – expansion of hydrated salts",
+                    "Thermal salt expansion – heat-driven stress",
+                    "Very effective in arid climates",
+                    "Important in sandstone regions"
+                ]
+            },
+            {
+                "heading": "Combined Effects",
+                "points": [
+                    "Multiple physical forces often act together",
+                    "Expansion + freezing accelerates cracking",
+                    "Gravity removes weakened material",
+                    "Water enhances pressure-based weathering",
+                    "Integrated process of rock breakdown"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Physical weathering involves:",
+                    "options": [
+                        "Chemical change in rocks",
+                        "Mechanical breakdown of rocks",
+                        "Formation of minerals",
+                        "Dissolution of rocks"
+                    ],
+                    "answer": "Mechanical breakdown of rocks"
+                },
+                {
+                    "question": "Gravity mainly causes:",
+                    "options": [
+                        "Chemical reactions",
+                        "Mass movement of rocks",
+                        "Ocean currents",
+                        "Wind formation"
+                    ],
+                    "answer": "Mass movement of rocks"
+                },
+                {
+                    "question": "Freeze-thaw action occurs when:",
+                    "options": [
+                        "Water evaporates",
+                        "Water freezes in cracks",
+                        "Rocks melt",
+                        "Wind blows"
+                    ],
+                    "answer": "Water freezes in cracks"
+                },
+                {
+                    "question": "Salt weathering is common in:",
+                    "options": [
+                        "Rainforests",
+                        "Deserts and coasts",
+                        "Mountains only",
+                        "Glaciers"
+                    ],
+                    "answer": "Deserts and coasts"
+                },
+                {
+                    "question": "Unloading leads to:",
+                    "options": [
+                        "Rock melting",
+                        "Expansion of rocks",
+                        "Wind erosion",
+                        "River formation"
+                    ],
+                    "answer": "Expansion of rocks"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Exfoliation is caused by:",
+                    "options": [
+                        "Water deposition",
+                        "Pressure release",
+                        "Wind erosion",
+                        "Chemical reaction"
+                    ],
+                    "answer": "Pressure release"
+                },
+                {
+                    "question": "Thermal expansion is strongest in:",
+                    "options": [
+                        "Deserts",
+                        "Tropical forests",
+                        "Polar regions",
+                        "Ocean beds"
+                    ],
+                    "answer": "Deserts"
+                },
+                {
+                    "question": "Salt crystals break rocks by:",
+                    "options": [
+                        "Melting rocks",
+                        "Expanding inside pores",
+                        "Cooling rocks",
+                        "Chemical dissolution"
+                    ],
+                    "answer": "Expanding inside pores"
+                },
+                {
+                    "question": "Frost wedging is effective in:",
+                    "options": [
+                        "Hot deserts",
+                        "Cold mountainous regions",
+                        "Rainforests",
+                        "Coasts only"
+                    ],
+                    "answer": "Cold mountainous regions"
+                },
+                {
+                    "question": "Water pressure weathering occurs when:",
+                    "options": [
+                        "Air enters rocks",
+                        "Water enters cracks and expands pressure",
+                        "Rocks dry out",
+                        "Wind increases speed"
+                    ],
+                    "answer": "Water enters cracks and expands pressure"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Gravity causes mass movements\n2. Freeze-thaw is a physical weathering process\n3. Salt weathering is chemical in nature",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                        "Frost wedging – physical weathering",
+                        "Carbonation – physical weathering",
+                        "Oxidation – physical weathering",
+                        "Solution – physical weathering"
+                    ],
+                    "answer": "Frost wedging – physical weathering"
+                },
+                {
+                    "question": "Exfoliation is mainly caused by:",
+                    "options": [
+                        "Wind erosion",
+                        "Pressure release",
+                        "River action",
+                        "Chemical reaction"
+                    ],
+                    "answer": "Pressure release"
+                },
+                {
+                    "question": "Salt weathering is most effective in:",
+                    "options": [
+                        "Humid regions",
+                        "Arid and coastal regions",
+                        "Polar ice caps",
+                        "Mountain glaciers"
+                    ],
+                    "answer": "Arid and coastal regions"
+                },
+                {
+                    "question": "Temperature variation affects rocks by:",
+                    "options": [
+                        "Chemical dissolution",
+                        "Expansion and contraction",
+                        "Melting only",
+                        "Sedimentation"
+                    ],
+                    "answer": "Expansion and contraction"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Biological Weathering",
+        "notes": [
+            {
+                "heading": "Biological Weathering – Overview",
+                "points": [
+                    "Breakdown of rocks due to living organisms",
+                    "Combines physical and chemical processes",
+                    "Acts slowly but continuously",
+                    "Common in vegetated and soil-covered areas",
+                    "Important for soil formation and landscape evolution"
+                ]
+            },
+            {
+                "heading": "Burrowing Activity",
+                "points": [
+                    "Animals dig and move soil/rock material",
+                    "Examples: earthworms, rodents, ants",
+                    "Loosens soil and exposes fresh rock surfaces",
+                    "Enhances aeration and water infiltration",
+                    "Accelerates both erosion and weathering"
+                ]
+            },
+            {
+                "heading": "Effects of Burrowing",
+                "points": [
+                    "Breaks compact rock and soil structure",
+                    "Increases permeability of ground",
+                    "Facilitates chemical weathering",
+                    "Mixes organic and mineral material",
+                    "Important in soil development"
+                ]
+            },
+            {
+                "heading": "Wedging (Biological Wedging)",
+                "points": [
+                    "Plant roots or organisms enter rock cracks",
+                    "Gradual widening of cracks over time",
+                    "Acts like mechanical force",
+                    "Similar to frost wedging but biological in origin",
+                    "Leads to rock disintegration"
+                ]
+            },
+            {
+                "heading": "Plant Root Action",
+                "points": [
+                    "Roots grow into joints and fractures",
+                    "As roots expand, they exert pressure",
+                    "Causes physical breaking of rocks",
+                    "Trees on cliffs often accelerate breakdown",
+                    "Very important in tropical regions"
+                ]
+            },
+            {
+                "heading": "Chemical Role of Plants",
+                "points": [
+                    "Decomposition of leaves produces organic acids",
+                    "Acids enhance chemical weathering",
+                    "Humus formation increases soil acidity",
+                    "Speeds up rock decomposition",
+                    "Strong interaction with chemical weathering"
+                ]
+            },
+            {
+                "heading": "Combined Biological Effects",
+                "points": [
+                    "Burrowing loosens soil structure",
+                    "Roots mechanically break rocks",
+                    "Organic acids chemically weaken minerals",
+                    "Organisms enhance water penetration",
+                    "Biological + chemical + physical interaction"
+                ]
+            },
+            {
+                "heading": "Climatic Influence",
+                "points": [
+                    "Most effective in warm and humid regions",
+                    "Dense vegetation increases biological activity",
+                    "Less effective in deserts and polar regions",
+                    "Soil-rich areas show strong biological weathering",
+                    "Climate strongly controls intensity"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Biological weathering is caused by:",
+                    "options": [
+                        "Wind and water",
+                        "Living organisms",
+                        "Earthquakes",
+                        "Volcanoes"
+                    ],
+                    "answer": "Living organisms"
+                },
+                {
+                    "question": "Burrowing is done by:",
+                    "options": [
+                        "Only plants",
+                        "Animals like earthworms and rodents",
+                        "Rocks",
+                        "Wind"
+                    ],
+                    "answer": "Animals like earthworms and rodents"
+                },
+                {
+                    "question": "Plant roots mainly cause:",
+                    "options": [
+                        "Chemical deposition",
+                        "Mechanical weathering",
+                        "Volcanism",
+                        "Sedimentation"
+                    ],
+                    "answer": "Mechanical weathering"
+                },
+                {
+                    "question": "Wedging in biological weathering is caused by:",
+                    "options": [
+                        "Wind pressure",
+                        "Root growth in cracks",
+                        "Ice melting",
+                        "Ocean waves"
+                    ],
+                    "answer": "Root growth in cracks"
+                },
+                {
+                    "question": "Biological weathering is strongest in:",
+                    "options": [
+                        "Deserts",
+                        "Humid regions",
+                        "Polar regions",
+                        "Oceans"
+                    ],
+                    "answer": "Humid regions"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Burrowing activity helps in:",
+                    "options": [
+                        "Increasing rock hardness",
+                        "Loosening soil structure",
+                        "Stopping weathering",
+                        "Forming volcanoes"
+                    ],
+                    "answer": "Loosening soil structure"
+                },
+                {
+                    "question": "Organic acids are produced by:",
+                    "options": [
+                        "Rocks",
+                        "Decomposing vegetation",
+                        "Wind",
+                        "Ice"
+                    ],
+                    "answer": "Decomposing vegetation"
+                },
+                {
+                    "question": "Root wedging is similar to:",
+                    "options": [
+                        "Chemical dissolution",
+                        "Frost wedging",
+                        "Oxidation",
+                        "Carbonation"
+                    ],
+                    "answer": "Frost wedging"
+                },
+                {
+                    "question": "Biological weathering enhances:",
+                    "options": [
+                        "Soil formation",
+                        "Volcanic eruptions",
+                        "Ocean currents",
+                        "Earthquakes"
+                    ],
+                    "answer": "Soil formation"
+                },
+                {
+                    "question": "Humus increases:",
+                    "options": [
+                        "Rock hardness",
+                        "Soil acidity",
+                        "Wind speed",
+                        "Ice formation"
+                    ],
+                    "answer": "Soil acidity"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Burrowing loosens soil and rock material\n2. Plant roots can mechanically break rocks\n3. Biological weathering is fastest in deserts",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                        "Root wedging – biological weathering",
+                        "Oxidation – biological weathering",
+                        "Carbonation – biological weathering",
+                        "Freeze-thaw – biological weathering"
+                    ],
+                    "answer": "Root wedging – biological weathering"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Biological weathering involves only animals",
+                        "Plants have no role in weathering",
+                        "Organisms contribute to rock breakdown",
+                        "Weathering occurs only without life"
+                    ],
+                    "answer": "Organisms contribute to rock breakdown"
+                },
+                {
+                    "question": "Organic acids in soil come from:",
+                    "options": [
+                        "Mineral rocks",
+                        "Plant decay",
+                        "Wind action",
+                        "Ice melting"
+                    ],
+                    "answer": "Plant decay"
+                },
+                {
+                    "question": "Biological weathering is best described as:",
+                    "options": [
+                        "Pure chemical process",
+                        "Pure physical process",
+                        "Combined physical and chemical influence of organisms",
+                        "Volcanic process"
+                    ],
+                    "answer": "Combined physical and chemical influence of organisms"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Effects of Weathering",
+        "notes": [
+            {
+                "heading": "Effects of Weathering – Overview",
+                "points": [
+                    "Weathering breaks down rocks in-situ",
+                    "Produces distinct landforms and surface features",
+                    "Prepares material for erosion and soil formation",
+                    "Leads to weakening and disintegration of rocks",
+                    "Very important in landscape evolution"
+                ]
+            },
+            {
+                "heading": "Exfoliation (Flaking)",
+                "points": [
+                    "Removal of outer rock layers in sheets or flakes",
+                    "Also called onion-skin weathering",
+                    "Caused mainly by pressure release and temperature changes",
+                    "Common in massive igneous rocks like granite",
+                    "Leads to smooth rounded rock surfaces"
+                ]
+            },
+            {
+                "heading": "Process of Exfoliation",
+                "points": [
+                    "Outer layers expand and contract faster than inner core",
+                    "Differential stress develops between layers",
+                    "Outer layers peel off like onion skins",
+                    "Repeated cycles expose fresh rock",
+                    "Slow but continuous process"
+                ]
+            },
+            {
+                "heading": "Exfoliation Domes",
+                "points": [
+                    "Large rounded rock formations",
+                    "Formed due to extensive exfoliation",
+                    "Common in granite terrains",
+                    "Example: Yosemite Dome (USA), Bornhardt-type structures",
+                    "Symbol of deep weathering and unloading"
+                ]
+            },
+            {
+                "heading": "Formation of Exfoliation Domes",
+                "points": [
+                    "Deep burial under pressure",
+                    "Uplift and removal of overlying material",
+                    "Pressure release causes expansion",
+                    "Outer layers peel off gradually",
+                    "Results in dome-shaped landforms"
+                ]
+            },
+            {
+                "heading": "Significance of Weathering – Overview",
+                "points": [
+                    "Weathering is the foundation of all geomorphic processes",
+                    "Prepares material for erosion and transport",
+                    "Essential for soil formation",
+                    "Controls landscape development"
+                ]
+            },
+            {
+                "heading": "Geological Significance",
+                "points": [
+                    "Breaks rocks into smaller fragments",
+                    "Exposes fresh mineral surfaces",
+                    "Leads to rock decomposition",
+                    "Forms regolith (loose material layer)",
+                    "Aids in rock cycle process"
+                ]
+            },
+            {
+                "heading": "Geomorphological Significance",
+                "points": [
+                    "Shapes landforms over time",
+                    "Controls slope development",
+                    "Influences erosion rates",
+                    "Creates features like domes and cliffs",
+                    "Foundation of landscape evolution"
+                ]
+            },
+            {
+                "heading": "Soil Formation Significance",
+                "points": [
+                    "Weathering produces parent material for soils",
+                    "Adds minerals and nutrients to soil",
+                    "Helps in development of fertile land",
+                    "Combines with organic matter",
+                    "Critical for agriculture"
+                ]
+            },
+            {
+                "heading": "Environmental Significance",
+                "points": [
+                    "Influences ecosystem development",
+                    "Supports vegetation growth",
+                    "Controls water infiltration in soil",
+                    "Regulates nutrient cycles",
+                    "Important for ecological balance"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Exfoliation is also called:",
+                    "options": [
+                        "Chemical weathering",
+                        "Onion-skin weathering",
+                        "Freeze-thaw action",
+                        "Carbonation"
+                    ],
+                    "answer": "Onion-skin weathering"
+                },
+                {
+                    "question": "Exfoliation mainly occurs in:",
+                    "options": [
+                        "Granite rocks",
+                        "Clay soils",
+                        "Sand dunes",
+                        "Limestone caves"
+                    ],
+                    "answer": "Granite rocks"
+                },
+                {
+                    "question": "Exfoliation domes are:",
+                    "options": [
+                        "Flat plains",
+                        "Rounded rock formations",
+                        "River deltas",
+                        "Volcanic cones"
+                    ],
+                    "answer": "Rounded rock formations"
+                },
+                {
+                    "question": "Weathering is important for:",
+                    "options": [
+                        "Soil formation",
+                        "Earthquake formation",
+                        "Ocean currents",
+                        "Wind generation"
+                    ],
+                    "answer": "Soil formation"
+                },
+                {
+                    "question": "Exfoliation is mainly caused by:",
+                    "options": [
+                        "Wind erosion",
+                        "Pressure release and temperature changes",
+                        "River deposition",
+                        "Glacial melting"
+                    ],
+                    "answer": "Pressure release and temperature changes"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Exfoliation occurs in which form?",
+                    "options": [
+                        "Chemical reaction",
+                        "Sheet-like peeling",
+                        "Ice formation",
+                        "Sediment layering"
+                    ],
+                    "answer": "Sheet-like peeling"
+                },
+                {
+                    "question": "Bornhardt type landforms are related to:",
+                    "options": [
+                        "Glaciers",
+                        "Exfoliation domes",
+                        "River erosion",
+                        "Volcanism"
+                    ],
+                    "answer": "Exfoliation domes"
+                },
+                {
+                    "question": "Weathering produces:",
+                    "options": [
+                        "Solid lava",
+                        "Regolith",
+                        "Ocean basins",
+                        "Atmosphere"
+                    ],
+                    "answer": "Regolith"
+                },
+                {
+                    "question": "Weathering helps in:",
+                    "options": [
+                        "Stopping erosion",
+                        "Soil formation",
+                        "Plate movement",
+                        "Volcanic eruptions"
+                    ],
+                    "answer": "Soil formation"
+                },
+                {
+                    "question": "Outer layers peel off in exfoliation due to:",
+                    "options": [
+                        "Uniform pressure",
+                        "Differential expansion",
+                        "Ocean currents",
+                        "Wind deposition"
+                    ],
+                    "answer": "Differential expansion"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Exfoliation is common in granite rocks\n2. Weathering contributes to soil formation\n3. Exfoliation domes are erosional features",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "All"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                        "Exfoliation – sheet-like peeling",
+                        "Carbonation – physical weathering",
+                        "Freeze-thaw – chemical weathering",
+                        "Oxidation – mechanical weathering"
+                    ],
+                    "answer": "Exfoliation – sheet-like peeling"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Weathering is important only for erosion",
+                        "Exfoliation is caused by biological activity",
+                        "Weathering helps in soil formation",
+                        "Domes are formed by wind deposition"
+                    ],
+                    "answer": "Weathering helps in soil formation"
+                },
+                {
+                    "question": "Exfoliation domes are mainly formed due to:",
+                    "options": [
+                        "River deposition",
+                        "Pressure release in igneous rocks",
+                        "Volcanic eruption",
+                        "Glacial movement"
+                    ],
+                    "answer": "Pressure release in igneous rocks"
+                },
+                {
+                    "question": "Regolith refers to:",
+                    "options": [
+                        "Solid rock layer",
+                        "Loose weathered material",
+                        "Ocean sediment",
+                        "Volcanic lava"
+                    ],
+                    "answer": "Loose weathered material"
+                }
+            ]
+        }
+    }
+]

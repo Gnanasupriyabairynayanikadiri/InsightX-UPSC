@@ -1,0 +1,840 @@
+TOPICS = [
+    {
+        "name": "Ancient History – Later Vedic Period: Sources for Reconstructing Vedic Society and Culture",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Later Vedic Period is generally dated around 1000 BCE – 600 BCE",
+                    "It marks transition from pastoral to agricultural and semi-urban society",
+                    "Society becomes more complex with rise of kingdoms and varna system",
+                    "Knowledge is derived from Vedic texts, archaeology, and linguistic studies"
+                ]
+            },
+            {
+                "heading": "Sources of Later Vedic Period",
+                "points": [
+                    "Vedic literature (Brahmanas, Aranyakas, Upanishads)",
+                    "Later portions of Rig Veda and Sama, Yajur, Atharva Vedas",
+                    "Archaeological evidence (Painted Grey Ware culture)",
+                    "Linguistic and philological analysis of Sanskrit texts",
+                    "Comparison with early historical traditions (epics and Puranas)"
+                ]
+            },
+            {
+                "heading": "Vedic Literature as Source",
+                "points": [
+                    "Brahmanas – explain rituals and sacrifices in detail",
+                    "Aranyakas – forest texts focusing on meditation and philosophy",
+                    "Upanishads – philosophical ideas (karma, atman, moksha)",
+                    "Sama, Yajur, Atharva Vedas – rituals, chants, and daily life aspects",
+                    "Shows shift from ritualism to philosophical thinking"
+                ]
+            },
+            {
+                "heading": "Limitations of Literary Sources",
+                "points": [
+                    "Religious and philosophical bias",
+                    "Not chronological historical records",
+                    "Mythological elements present",
+                    "Regional variations in texts",
+                    "Need archaeological correlation for accuracy"
+                ]
+            },
+            {
+                "heading": "Archaeological Source – Painted Grey Ware (PGW)",
+                "points": [
+                    "Main archaeological culture linked with Later Vedic period",
+                    "Found in Indo-Gangetic plains",
+                    "Sites include Hastinapur, Atranjikhera, Kaushambi",
+                    "Indicates early iron use and agriculture",
+                    "Helps trace transition to urbanization"
+                ]
+            },
+            {
+                "heading": "Features of PGW Culture",
+                "points": [
+                    "Grey pottery with painted designs",
+                    "Use of iron tools in later phase",
+                    "Small village settlements",
+                    "Agricultural economy based on rice and wheat",
+                    "Association with Mahabharata era traditions"
+                ]
+            },
+            {
+                "heading": "Geographical Expansion (Contextual Source Evidence)",
+                "points": [
+                    "Shift from Sapta-Sindhu to Ganga-Yamuna Doab",
+                    "Expansion into eastern Uttar Pradesh and Bihar",
+                    "Greater territorial kingdoms emerge",
+                    "Dense forest clearing for agriculture",
+                    "Indicates eastward movement of Vedic culture"
+                ]
+            },
+            {
+                "heading": "Importance of Combined Sources",
+                "points": [
+                    "Vedic texts provide ideological framework",
+                    "Archaeology provides material evidence",
+                    "Linguistics helps trace cultural diffusion",
+                    "PGW culture bridges textual and material evidence",
+                    "Helps reconstruct socio-political evolution"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Later Vedic period is generally associated with:",
+                    "options": [
+                    "1500–1000 BCE",
+                    "1000–600 BCE",
+                    "600–300 BCE",
+                    "300 BCE–300 CE"
+                    ],
+                    "answer": "1000–600 BCE"
+                },
+                {
+                    "question": "Main archaeological culture of Later Vedic period is:",
+                    "options": [
+                    "Harappan Culture",
+                    "Painted Grey Ware culture",
+                    "Black and Red Ware culture",
+                    "Ochre Coloured Pottery"
+                    ],
+                    "answer": "Painted Grey Ware culture"
+                },
+                {
+                    "question": "Upanishads are mainly concerned with:",
+                    "options": [
+                    "Warfare",
+                    "Philosophy",
+                    "Trade",
+                    "Agriculture"
+                    ],
+                    "answer": "Philosophy"
+                },
+                {
+                    "question": "PGW sites are mostly found in:",
+                    "options": [
+                    "Deccan Plateau",
+                    "Indo-Gangetic plains",
+                    "Coastal India",
+                    "Himalayan region"
+                    ],
+                    "answer": "Indo-Gangetic plains"
+                },
+                {
+                    "question": "Which text explains rituals in Later Vedic period?",
+                    "options": [
+                    "Upanishads",
+                    "Brahmanas",
+                    "Sutras",
+                    "Puranas"
+                    ],
+                    "answer": "Brahmanas"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Later Vedic society shows:",
+                    "options": [
+                    "Pastoral economy",
+                    "Agricultural expansion",
+                    "Industrial economy",
+                    "Marine economy"
+                    ],
+                    "answer": "Agricultural expansion"
+                },
+                {
+                    "question": "Hastinapur is associated with:",
+                    "options": [
+                    "Harappan culture",
+                    "PGW culture",
+                    "Megalithic culture",
+                    "Neolithic culture"
+                    ],
+                    "answer": "PGW culture"
+                },
+                {
+                    "question": "Aranyakas are also known as:",
+                    "options": [
+                    "Village texts",
+                    "Forest texts",
+                    "War texts",
+                    "Trade manuals"
+                    ],
+                    "answer": "Forest texts"
+                },
+                {
+                    "question": "Later Vedic expansion moved towards:",
+                    "options": [
+                    "Northwest India",
+                    "Ganga-Yamuna region",
+                    "South India",
+                    "Coastal Gujarat"
+                    ],
+                    "answer": "Ganga-Yamuna region"
+                },
+                {
+                    "question": "PGW culture is important because it:",
+                    "options": [
+                    "Replaced Harappan culture",
+                    "Links archaeology with Vedic texts",
+                    "Introduced coins",
+                    "Started Iron Age in South India"
+                    ],
+                    "answer": "Links archaeology with Vedic texts"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Upanishads focus on rituals\n2. PGW culture is linked with Later Vedic period\n3. Later Vedic period shows eastward expansion",
+                    "options": [
+                    "2 and 3 only",
+                    "1 and 2 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "2 and 3 only"
+                },
+                {
+                    "question": "Which of the following is NOT a Later Vedic source?",
+                    "options": [
+                    "Brahmanas",
+                    "Upanishads",
+                    "Aranyakas",
+                    "Rig Veda hymns (earliest core)"
+                    ],
+                    "answer": "Rig Veda hymns (earliest core)"
+                },
+                {
+                    "question": "PGW culture indicates:",
+                    "options": [
+                    "Urban Harappan life",
+                    "Early agricultural and iron use phase",
+                    "Industrial revolution",
+                    "Maritime empire"
+                    ],
+                    "answer": "Early agricultural and iron use phase"
+                },
+                {
+                    "question": "A key limitation of Vedic sources is:",
+                    "options": [
+                    "Excess archaeological data",
+                    "Non-chronological nature",
+                    "Too many coins",
+                    "Over-reliance on inscriptions"
+                    ],
+                    "answer": "Non-chronological nature"
+                },
+                {
+                    "question": "Later Vedic period is best understood through:",
+                    "options": [
+                    "Only literary sources",
+                    "Only coins",
+                    "Combined literary and archaeological sources",
+                    "Only foreign accounts"
+                    ],
+                    "answer": "Combined literary and archaeological sources"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Ancient History – Rig Vedic Geography, Area of Settlement & Political Organization (Evolution of Monarchy)",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Rig Vedic Period (c. 1500–1000 BCE) represents early phase of Vedic civilization",
+                    "Society was mainly pastoral with tribal political organization",
+                    "Settlements were concentrated in northwestern India",
+                    "Political structure evolved gradually towards stronger monarchy"
+                ]
+            },
+            {
+                "heading": "Geography of Rig Vedic Period",
+                "points": [
+                    "Core region was Sapta-Sindhu (land of seven rivers)",
+                    "Included northwestern Indian subcontinent",
+                    "Modern regions: Punjab, Haryana, western Uttar Pradesh, parts of Afghanistan",
+                    "Rivers played central role in settlement and economy",
+                    "Forested and semi-arid regions gradually cleared for settlement"
+                ]
+            },
+            {
+                "heading": "Important Rivers of Rig Vedic Geography",
+                "points": [
+                    "Sindhu (Indus) – central river of civilization",
+                    "Sutudri (Sutlej)",
+                    "Vipasha (Beas)",
+                    "Parushni (Ravi)",
+                    "Asikni (Chenab)",
+                    "Vitasta (Jhelum)",
+                    "Saraswati (Ghaggar-Hakra – debated identification)"
+                ]
+            },
+            {
+                "heading": "Area of Settlement",
+                "points": [
+                    "Primarily northwestern India in early phase",
+                    "Settlements were along river valleys",
+                    "Small villages and tribal habitations",
+                    "No large urban centers",
+                    "Gradual eastward expansion towards Ganga plains in later phase"
+                ]
+            },
+            {
+                "heading": "Nature of Settlements",
+                "points": [
+                    "Semi-nomadic pastoral settlements",
+                    "Houses made of mud, wood, and reeds",
+                    "Clan-based village units (Grama)",
+                    "Temporary settlements depending on grazing needs",
+                    "No planned urban architecture"
+                ]
+            },
+            {
+                "heading": "Political Organization in Rig Vedic Period",
+                "points": [
+                    "Tribal polity based on kinship (Jana system)",
+                    "King known as Rajan (tribal chief)",
+                    "No centralized state structure",
+                    "Political authority was limited and collective",
+                    "Wars mainly for cattle and resources"
+                ]
+            },
+            {
+                "heading": "Important Political Units",
+                "points": [
+                    "Jana – tribe (largest unit)",
+                    "Vish – clan grouping",
+                    "Grama – village unit",
+                    "Kula – family unit",
+                    "Tribal identity more important than territorial state"
+                ]
+            },
+            {
+                "heading": "Political Institutions",
+                "points": [
+                    "Sabha – council of elders (elite group)",
+                    "Samiti – general tribal assembly",
+                    "Vidatha – earliest assembly for rituals and economy",
+                    "Purohita – priest advising the king",
+                    "Senani – military commander"
+                ]
+            },
+            {
+                "heading": "Evolution of Monarchy",
+                "points": [
+                    "Rajan initially chosen by tribe (not fully hereditary)",
+                    "King was a protector, not absolute ruler",
+                    "Gradual increase in king’s powers due to warfare",
+                    "Collection of tributes (bali) began",
+                    "Transition towards hereditary monarchy in later Vedic period"
+                ]
+            },
+            {
+                "heading": "Nature of Kingship",
+                "points": [
+                    "King dependent on tribal assemblies in early phase",
+                    "Limited taxation system",
+                    "No standing army; militia-based warfare",
+                    "Religious legitimacy gained through yajnas",
+                    "Kingship strengthened with expansion of territory"
+                ]
+            },
+            {
+                "heading": "Factors Leading to Stronger Monarchy",
+                "points": [
+                    "Frequent inter-tribal wars",
+                    "Need for centralized leadership",
+                    "Agricultural expansion in later phase",
+                    "Control over resources and cattle",
+                    "Rise of territorial kingdoms in later Vedic period"
+                ]
+            },
+            {
+                "heading": "Significance of Political Evolution",
+                "points": [
+                    "Transition from tribal to territorial polity",
+                    "Foundation for later Mahajanapadas",
+                    "Emergence of hereditary monarchy system",
+                    "Decline of tribal assemblies over time",
+                    "Important shift in Indian political history"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Sapta-Sindhu refers to:",
+                    "options": [
+                    "Seven mountains",
+                    "Seven rivers region",
+                    "Seven kingdoms",
+                    "Seven cities"
+                    ],
+                    "answer": "Seven rivers region"
+                },
+                {
+                    "question": "Rig Vedic settlements were mainly located in:",
+                    "options": [
+                    "Deccan Plateau",
+                    "Northwestern India",
+                    "Eastern India",
+                    "Southern India"
+                    ],
+                    "answer": "Northwestern India"
+                },
+                {
+                    "question": "Rajan in Rig Vedic period was:",
+                    "options": [
+                    "Absolute monarch",
+                    "Tribal chief",
+                    "Governor",
+                    "Priest"
+                    ],
+                    "answer": "Tribal chief"
+                },
+                {
+                    "question": "Main political unit in Rig Vedic society was:",
+                    "options": [
+                    "Janapada",
+                    "Jana",
+                    "Mahajanapada",
+                    "State"
+                    ],
+                    "answer": "Jana"
+                },
+                {
+                    "question": "Sabha and Samiti were:",
+                    "options": [
+                    "Religious texts",
+                    "Political assemblies",
+                    "Taxes",
+                    "Weapons"
+                    ],
+                    "answer": "Political assemblies"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which river is identified with Saraswati?",
+                    "options": [
+                    "Ganga",
+                    "Ghaggar-Hakra",
+                    "Yamuna",
+                    "Narmada"
+                    ],
+                    "answer": "Ghaggar-Hakra"
+                },
+                {
+                    "question": "Rig Vedic economy was mainly:",
+                    "options": [
+                    "Urban trade based",
+                    "Pastoral",
+                    "Industrial",
+                    "Maritime"
+                    ],
+                    "answer": "Pastoral"
+                },
+                {
+                    "question": "Vidatha was mainly related to:",
+                    "options": [
+                    "War only",
+                    "Economic and ritual matters",
+                    "Tax collection",
+                    "Judiciary"
+                    ],
+                    "answer": "Economic and ritual matters"
+                },
+                {
+                    "question": "King’s power in Rig Vedic period was:",
+                    "options": [
+                    "Absolute",
+                    "Limited by assemblies",
+                    "Military dictatorship",
+                    "Colonial administration"
+                    ],
+                    "answer": "Limited by assemblies"
+                },
+                {
+                    "question": "Main reason for wars in Rig Vedic period was:",
+                    "options": [
+                    "Territory expansion",
+                    "Cattle raids",
+                    "Religious conversion",
+                    "Industrial control"
+                    ],
+                    "answer": "Cattle raids"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Rig Vedic polity was territorial in nature\n2. Sabha was a smaller elite assembly\n3. Rajan was initially elected by tribe",
+                    "options": [
+                    "2 and 3 only",
+                    "1 and 2 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "2 and 3 only"
+                },
+                {
+                    "question": "Correct statement about Rig Vedic settlements:",
+                    "options": [
+                    "Urban cities existed",
+                    "Mostly river-based villages",
+                    "Industrial towns existed",
+                    "Coin-based economy existed"
+                    ],
+                    "answer": "Mostly river-based villages"
+                },
+                {
+                    "question": "Evolution of monarchy in Rig Vedic period was due to:",
+                    "options": [
+                    "Foreign invasion",
+                    "Increase in warfare and resource control",
+                    "Industrial revolution",
+                    "Colonial influence"
+                    ],
+                    "answer": "Increase in warfare and resource control"
+                },
+                {
+                    "question": "Which statement is NOT correct?",
+                    "options": [
+                    "Rajan was a tribal chief",
+                    "Sabha and Samiti existed",
+                    "Rig Vedic society was fully urban",
+                    "Cattle was a major wealth"
+                    ],
+                    "answer": "Rig Vedic society was fully urban"
+                },
+                {
+                    "question": "A key feature of Rig Vedic polity is:",
+                    "options": [
+                    "Centralized empire",
+                    "Tribal assembly-based system",
+                    "Feudal monarchy",
+                    "Colonial governance"
+                    ],
+                    "answer": "Tribal assembly-based system"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Ancient History – Later Vedic Period: Social Organization, Economy, Religion & Culture",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Later Vedic Period (c. 1000–600 BCE) shows major transformation from Rig Vedic society",
+                    "Shift from pastoral economy to settled agricultural economy",
+                    "Society becomes more complex and hierarchical",
+                    "Rise of ritualism and dominance of priestly class"
+                ]
+            },
+            {
+                "heading": "Social Organization – Key Features",
+                "points": [
+                    "Emergence of rigid varna system",
+                    "Brahmins and Kshatriyas gained higher status",
+                    "Social mobility became restricted",
+                    "Family remained patriarchal but more rigid",
+                    "Status increasingly based on birth rather than merit"
+                ]
+            },
+            {
+                "heading": "Varna System in Later Vedic Period",
+                "points": [
+                    "Four-fold division: Brahmana, Kshatriya, Vaishya, Shudra",
+                    "Brahmins dominated rituals and knowledge",
+                    "Kshatriyas controlled political power",
+                    "Vaishyas engaged in agriculture and trade",
+                    "Shudras faced social restrictions and service roles"
+                ]
+            },
+            {
+                "heading": "Position of Women",
+                "points": [
+                    "Decline in social status compared to Early Vedic period",
+                    "Reduced participation in public assemblies",
+                    "Limited access to Vedic education",
+                    "Early marriages became common",
+                    "Some women still composed hymns but fewer references exist"
+                ]
+            },
+            {
+                "heading": "Social Changes",
+                "points": [
+                    "Kinship ties weakened due to territorial expansion",
+                    "Rise of social inequality",
+                    "Complex rituals increased dependence on priests",
+                    "Emergence of caste rigidity",
+                    "Shift from tribal to territorial society"
+                ]
+            },
+            {
+                "heading": "Economy – General Features",
+                "points": [
+                    "Agriculture became primary occupation",
+                    "Use of iron tools improved productivity",
+                    "Expansion of settled villages",
+                    "Barley, rice, wheat, and other crops cultivated",
+                    "Surplus production supported emerging kingdoms"
+                ]
+            },
+            {
+                "heading": "Agricultural Economy",
+                "points": [
+                    "Iron ploughs enabled deeper cultivation",
+                    "Use of irrigation systems increased",
+                    "Forest clearing for agriculture expanded",
+                    "Land became an important economic asset",
+                    "Surplus led to taxation systems"
+                ]
+            },
+            {
+                "heading": "Trade and Crafts",
+                "points": [
+                    "Internal trade increased between villages and towns",
+                    "Emergence of specialized artisans",
+                    "Barter system still dominant (coins not yet used widely)",
+                    "Pottery, textiles, and metalwork developed",
+                    "Guild-like organizations started emerging"
+                ]
+            },
+            {
+                "heading": "Taxation and Economy",
+                "points": [
+                    "Bali evolved into regular tribute/tax",
+                    "King began to collect taxes systematically",
+                    "Land revenue became important source of income",
+                    "Economic inequality increased",
+                    "State control over resources expanded"
+                ]
+            },
+            {
+                "heading": "Religious Practices – General Features",
+                "points": [
+                    "Rise of elaborate rituals and sacrifices (Yajnas)",
+                    "Dominance of Brahmin priestly class",
+                    "Religion became more complex and formalized",
+                    "Shift from nature worship to ritualism",
+                    "Emergence of philosophical ideas in Upanishads"
+                ]
+            },
+            {
+                "heading": "Important Religious Texts",
+                "points": [
+                    "Brahmanas – ritual explanations",
+                    "Aranyakas – meditative forest texts",
+                    "Upanishads – philosophical foundations (Atman, Brahman)",
+                    "Vedas continued to be central authority",
+                    "Ritual interpretation became highly systematized"
+                ]
+            },
+            {
+                "heading": "Deities and Religious Shift",
+                "points": [
+                    "Indra lost dominance compared to Early Vedic period",
+                    "Prajapati became important creator deity",
+                    "Vishnu and Rudra gained importance",
+                    "Soma rituals continued but became formalized",
+                    "Rise of philosophical interpretation of gods"
+                ]
+            },
+            {
+                "heading": "Yajna System",
+                "points": [
+                    "Highly elaborate sacrificial rituals",
+                    "Performed by Brahmins for kings and elites",
+                    "Believed to maintain cosmic order (Rta/Dharma)",
+                    "Expensive and time-consuming rituals",
+                    "Strengthened Brahminical dominance"
+                ]
+            },
+            {
+                "heading": "Philosophical Developments",
+                "points": [
+                    "Concept of Atman (self) introduced in Upanishads",
+                    "Brahman seen as ultimate reality",
+                    "Ideas of karma and rebirth began emerging",
+                    "Focus shifted from rituals to knowledge (jnana)",
+                    "Foundation for later Indian philosophies"
+                ]
+            },
+            {
+                "heading": "Cultural Developments",
+                "points": [
+                    "Sanskrit became more standardized",
+                    "Oral tradition of knowledge transmission continued",
+                    "Growth of ritual and scholarly culture",
+                    "Education controlled by Brahmins",
+                    "Formation of gurukul system beginnings"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Main occupation in Later Vedic period was:",
+                    "options": [
+                    "Hunting",
+                    "Agriculture",
+                    "Fishing",
+                    "Trade only"
+                    ],
+                    "answer": "Agriculture"
+                },
+                {
+                    "question": "Later Vedic society saw rise of:",
+                    "options": [
+                    "Egalitarian system",
+                    "Rigid varna system",
+                    "Classless society",
+                    "Nomadic system"
+                    ],
+                    "answer": "Rigid varna system"
+                },
+                {
+                    "question": "Upanishads are mainly related to:",
+                    "options": [
+                    "Rituals",
+                    "Philosophy",
+                    "Warfare",
+                    "Trade"
+                    ],
+                    "answer": "Philosophy"
+                },
+                {
+                    "question": "Main tool that improved agriculture in Later Vedic period:",
+                    "options": [
+                    "Stone tools",
+                    "Iron ploughs",
+                    "Bronze weapons",
+                    "Wooden sticks only"
+                    ],
+                    "answer": "Iron ploughs"
+                },
+                {
+                    "question": "Bali in Later Vedic period refers to:",
+                    "options": [
+                    "Temple tax",
+                    "Tribute/tax",
+                    "Trade profit",
+                    "Gift system only"
+                    ],
+                    "answer": "Tribute/tax"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "In Later Vedic period, women’s status:",
+                    "options": [
+                    "Improved significantly",
+                    "Declined",
+                    "Remained same",
+                    "Was dominant"
+                    ],
+                    "answer": "Declined"
+                },
+                {
+                    "question": "Brahmanas are mainly concerned with:",
+                    "options": [
+                    "Trade",
+                    "Rituals",
+                    "War strategies",
+                    "Agriculture"
+                    ],
+                    "answer": "Rituals"
+                },
+                {
+                    "question": "Prajapati is associated with:",
+                    "options": [
+                    "Rain god",
+                    "Creator god",
+                    "War god",
+                    "Fire god"
+                    ],
+                    "answer": "Creator god"
+                },
+                {
+                    "question": "Economy of Later Vedic period became:",
+                    "options": [
+                    "Nomadic",
+                    "Agrarian",
+                    "Industrial",
+                    "Maritime"
+                    ],
+                    "answer": "Agrarian"
+                },
+                {
+                    "question": "Religion in Later Vedic period became:",
+                    "options": [
+                    "Simpler",
+                    "More ritualistic",
+                    "Non-existent",
+                    "Buddhist"
+                    ],
+                    "answer": "More ritualistic"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Later Vedic period saw rise of iron tools\n2. Varna system became more rigid\n3. Women gained higher status",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Which of the following is NOT a feature of Later Vedic economy?",
+                    "options": [
+                    "Agriculture dominance",
+                    "Iron technology use",
+                    "Coin-based economy",
+                    "Taxation system"
+                    ],
+                    "answer": "Coin-based economy"
+                },
+                {
+                    "question": "Upanishads primarily emphasize:",
+                    "options": [
+                    "Ritual sacrifices",
+                    "Philosophical knowledge",
+                    "Warfare",
+                    "Trade systems"
+                    ],
+                    "answer": "Philosophical knowledge"
+                },
+                {
+                    "question": "Correct statement about Later Vedic religion:",
+                    "options": [
+                    "Nature worship increased",
+                    "Ritual complexity increased",
+                    "Temples existed widely",
+                    "Buddhism was dominant"
+                    ],
+                    "answer": "Ritual complexity increased"
+                },
+                {
+                    "question": "A key transformation in Later Vedic society is:",
+                    "options": [
+                    "Tribal to urban shift",
+                    "Pastoral to agrarian shift",
+                    "Industrial revolution",
+                    "Maritime expansion"
+                    ],
+                    "answer": "Pastoral to agrarian shift"
+                }
+            ]
+        }
+    }
+]

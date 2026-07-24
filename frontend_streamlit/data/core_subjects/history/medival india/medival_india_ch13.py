@@ -1,0 +1,1326 @@
+TOPICS = [
+    {
+        "name": "Modern Transition – Marathas & Indian States in 18th Century: Expansion Policy, Conflict with Nizam-ul-Mulk, Gujarat & Malwa Advance",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "18th century marked fragmentation of Mughal authority and rise of regional powers",
+                    "Marathas emerged as the most significant successor state in India",
+                    "They adopted an aggressive policy of territorial expansion and tribute collection (chauth and sardeshmukhi)",
+                    "Conflicts with Nizam-ul-Mulk shaped Deccan politics",
+                    "Expansion into Gujarat and Malwa made Marathas an अखिल-Indian power"
+                ]
+            },
+            {
+                "heading": "Background: 18th Century Indian Political Scenario",
+                "points": [
+                    "Decline of centralized Mughal authority after Aurangzeb’s death (1707)",
+                    "Rise of autonomous provincial governors",
+                    "Emergence of successor states like Marathas, Hyderabad, Bengal, Awadh",
+                    "Continuous warfare among regional powers",
+                    "Power vacuum enabled Maratha expansion"
+                ]
+            },
+            {
+                "heading": "Maratha Policy of Expansion – Overview",
+                "points": [
+                    "Marathas moved from regional resistance to imperial expansion",
+                    "Adopted system of chauth (25% tribute) and sardeshmukhi (additional levy)",
+                    "Expansion driven by need for revenue and political dominance",
+                    "Use of cavalry-based mobile warfare",
+                    "Creation of a loose confederacy of Maratha chiefs"
+                ]
+            },
+            {
+                "heading": "Features of Maratha Expansion Policy",
+                "points": [
+                    "Emphasis on rapid cavalry raids",
+                    "Collection of tribute rather than direct administration in early phase",
+                    "Strategic alliances with local rulers",
+                    "Flexible political structure under Peshwas",
+                    "Gradual territorial consolidation over time"
+                ]
+            },
+            {
+                "heading": "Marathas and Nizam-ul-Mulk – Background",
+                "points": [
+                    "Nizam-ul-Mulk founded independent Hyderabad state in Deccan",
+                    "Initially Mughal governor, later autonomous ruler",
+                    "Conflict with Marathas over Deccan territories",
+                    "Both powers competed for revenue-rich regions",
+                    "Frequent wars and shifting alliances"
+                ]
+            },
+            {
+                "heading": "Conflict between Marathas and Nizam-ul-Mulk",
+                "points": [
+                    "Struggle for control over Deccan and surrounding areas",
+                    "Battle of Palkhed (1728) was significant Maratha victory",
+                    "Nizam forced to recognize Maratha rights of chauth and sardeshmukhi",
+                    "Temporary peace agreements followed conflicts",
+                    "Balance of power established in Deccan"
+                ]
+            },
+            {
+                "heading": "Significance of Battle of Palkhed",
+                "points": [
+                    "Demonstrated Maratha military superiority in Deccan",
+                    "Weakened Nizam’s control over revenue regions",
+                    "Strengthened Peshwa leadership under Baji Rao I",
+                    "Marked shift in regional power balance",
+                    "Established Marathas as dominant force in Deccan politics"
+                ]
+            },
+            {
+                "heading": "Maratha Advance into Gujarat",
+                "points": [
+                    "Gujarat was economically rich due to trade and ports",
+                    "Marathas extracted tribute from local rulers and merchants",
+                    "Conflicts with Mughal governors weakened central control",
+                    "Gradual establishment of Maratha influence",
+                    "Important revenue source for Maratha expansion"
+                ]
+            },
+            {
+                "heading": "Significance of Gujarat Expansion",
+                "points": [
+                    "Access to maritime trade routes",
+                    "Increased financial resources for Marathas",
+                    "Weakening of Mughal authority in western India",
+                    "Strengthened Maratha naval and coastal influence",
+                    "Integration into wider Maratha confederacy system"
+                ]
+            },
+            {
+                "heading": "Maratha Advance into Malwa",
+                "points": [
+                    "Malwa was strategically located between north and south India",
+                    "Frequent Maratha raids converted into political control",
+                    "Resistance from Mughal governors gradually weakened",
+                    "Malwa became key transit and revenue region",
+                    "Maratha influence expanded into North India gateway"
+                ]
+            },
+            {
+                "heading": "Importance of Malwa Region",
+                "points": [
+                    "Strategic link between Deccan and North India",
+                    "Control over trade and military routes",
+                    "Gateway for further northern expansion",
+                    "Revenue-rich agricultural region",
+                    "Strengthened Maratha presence in central India"
+                ]
+            },
+            {
+                "heading": "Role of Peshwas in Expansion",
+                "points": [
+                    "Peshwas became real power behind Maratha state",
+                    "Baji Rao I led aggressive expansion policy",
+                    "Centralized coordination of Maratha confederacy",
+                    "Diplomatic and military leadership combined",
+                    "Shift from Shivaji’s kingdom to confederacy system"
+                ]
+            },
+            {
+                "heading": "Nature of Maratha Confederacy",
+                "points": [
+                    "Semi-autonomous chiefs like Holkars, Scindias, Gaekwads",
+                    "Loose political structure under symbolic central authority",
+                    "Shared revenue and military obligations",
+                    "Internal rivalries sometimes weakened unity",
+                    "Flexible but unstable political system"
+                ]
+            },
+            {
+                "heading": "Historical Significance",
+                "points": [
+                    "Marathas became dominant power in 18th century India",
+                    "Decline of Mughal Empire accelerated regional state formation",
+                    "Establishment of Maratha influence across western and central India",
+                    "Foundation for later Anglo-Maratha conflicts",
+                    "Transition from imperial to regional political order"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Chauth was a tax system introduced by:",
+                    "options": [
+                    "Mughals",
+                    "Marathas",
+                    "British",
+                    "Rajputs"
+                    ],
+                    "answer": "Marathas"
+                },
+                {
+                    "question": "Nizam-ul-Mulk founded the state of:",
+                    "options": [
+                    "Bengal",
+                    "Awadh",
+                    "Hyderabad",
+                    "Punjab"
+                    ],
+                    "answer": "Hyderabad"
+                },
+                {
+                    "question": "Battle of Palkhed was fought in:",
+                    "options": [
+                    "1526",
+                    "1728",
+                    "1707",
+                    "1761"
+                    ],
+                    "answer": "1728"
+                },
+                {
+                    "question": "Malwa is located in:",
+                    "options": [
+                    "Eastern India",
+                    "Central India",
+                    "Southern India",
+                    "North-East India"
+                    ],
+                    "answer": "Central India"
+                },
+                {
+                    "question": "Main leader of early Maratha expansion in 18th century was:",
+                    "options": [
+                    "Shivaji",
+                    "Baji Rao I",
+                    "Akbar",
+                    "Aurangzeb"
+                    ],
+                    "answer": "Baji Rao I"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Sardeshmukhi was:",
+                    "options": [
+                    "Religious tax",
+                    "Additional levy by Marathas",
+                    "British tax",
+                    "Mughal land reform"
+                    ],
+                    "answer": "Additional levy by Marathas"
+                },
+                {
+                    "question": "Main objective of Maratha expansion was:",
+                    "options": [
+                    "Religious conversion",
+                    "Revenue and political dominance",
+                    "Naval supremacy only",
+                    "Colonial trade control"
+                    ],
+                    "answer": "Revenue and political dominance"
+                },
+                {
+                    "question": "Gujarat was important for Marathas because of:",
+                    "options": [
+                    "Desert resources",
+                    "Trade and revenue",
+                    "Religious centers",
+                    "Mountain forts only"
+                    ],
+                    "answer": "Trade and revenue"
+                },
+                {
+                    "question": "Malwa region acted as:",
+                    "options": [
+                    "Sea port",
+                    "Gateway between north and south India",
+                    "Island region",
+                    "Desert frontier"
+                    ],
+                    "answer": "Gateway between north and south India"
+                },
+                {
+                    "question": "Maratha political structure in 18th century was:",
+                    "options": [
+                    "Centralized monarchy",
+                    "Confederacy system",
+                    "Colonial administration",
+                    "Republic system"
+                    ],
+                    "answer": "Confederacy system"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Marathas collected chauth as a form of tribute\n2. Nizam-ul-Mulk was completely independent of Mughal influence from beginning\n3. Battle of Palkhed strengthened Maratha position in Deccan",
+                    "options": [
+                    "1 and 3 only",
+                    "2 and 3 only",
+                    "1 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "Main reason for Maratha expansion in 18th century was:",
+                    "options": [
+                    "Religious mission",
+                    "Economic and political dominance",
+                    "European alliance",
+                    "Naval conquest"
+                    ],
+                    "answer": "Economic and political dominance"
+                },
+                {
+                    "question": "Peshwa system led to:",
+                    "options": [
+                    "Weakening of Marathas",
+                    "Central coordination of confederacy",
+                    "End of taxation",
+                    "British rule"
+                    ],
+                    "answer": "Central coordination of confederacy"
+                },
+                {
+                    "question": "Malwa was strategically important because it:",
+                    "options": [
+                    "Was a coastal port",
+                    "Linked north and south India",
+                    "Was desert region",
+                    "Was island territory"
+                    ],
+                    "answer": "Linked north and south India"
+                },
+                {
+                    "question": "18th century Indian polity is best described as:",
+                    "options": [
+                    "Centralized empire",
+                    "Fragmented regional powers",
+                    "Colonial state",
+                    "Religious monarchy only"
+                    ],
+                    "answer": "Fragmented regional powers"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Medieval to Early Modern India – Maratha Advance into Doab & Punjab, Phases (1741–1761), Third Battle of Panipat & Shivaji Revision",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "18th century marked peak expansion of Maratha power into North India",
+                    "Marathas attempted to fill the political vacuum left by declining Mughal authority",
+                    "Expansion into Doab and Punjab created conflict with Afghan and Rohilla powers",
+                    "Series of phases (1741–1761) show rise and overreach of Maratha power",
+                    "Third Battle of Panipat (1761) became turning point in Indian history"
+                ]
+            },
+            {
+                "heading": "Background: Maratha Expansion into North India",
+                "points": [
+                    "Decline of Mughal control after Aurangzeb created power vacuum",
+                    "Marathas under Peshwas became dominant force in Indian politics",
+                    "Aim was collection of chauth and sardeshmukhi from northern regions",
+                    "North India (Doab and Punjab) was rich in revenue and strategic importance",
+                    "Expansion brought Marathas into conflict with Afghans and Rohillas"
+                ]
+            },
+            {
+                "heading": "First Phase of Expansion (1741–1752)",
+                "points": [
+                    "Marathas entered Malwa and Bundelkhand regions",
+                    "Gradual extension of influence into Doab area",
+                    "Weak Mughal governors unable to resist Maratha advances",
+                    "Establishment of tribute collection system",
+                    "Foundation laid for deeper northern penetration"
+                ]
+            },
+            {
+                "heading": "Characteristics of First Phase",
+                "points": [
+                    "Indirect control through tribute collection",
+                    "Avoidance of full-scale occupation",
+                    "Diplomatic agreements with local rulers",
+                    "Expansion under leadership of Peshwa Bajirao I and successors",
+                    "Consolidation of central India dominance"
+                ]
+            },
+            {
+                "heading": "Second Phase of Expansion (1752–1761)",
+                "points": [
+                    "More aggressive expansion into North India",
+                    "Direct intervention in Delhi politics",
+                    "Marathas became kingmakers in Mughal court",
+                    "Conflict with Afghan ruler Ahmad Shah Abdali",
+                    "Increased military presence in Punjab and Doab"
+                ]
+            },
+            {
+                "heading": "Maratha Presence in Delhi and Punjab",
+                "points": [
+                    "Influence over Mughal emperor in Delhi increased",
+                    "Attempted control of Punjab region",
+                    "Conflict with Rohillas and Afghans intensified",
+                    "Overextension of Maratha military resources",
+                    "Fragile alliances in North India"
+                ]
+            },
+            {
+                "heading": "Rise of Ahmad Shah Abdali",
+                "points": [
+                    "Founder of Durrani Empire in Afghanistan",
+                    "Repeated invasions into North India",
+                    "Conflict with Marathas over Punjab and Delhi region",
+                    "Alliance with Rohillas against Marathas",
+                    "Major rival in North Indian politics"
+                ]
+            },
+            {
+                "heading": "Third Battle of Panipat (1761)",
+                "points": [
+                    "Fought between Marathas and Ahmad Shah Abdali",
+                    "Alliance of Afghans, Rohillas, and Shuja-ud-Daula vs Marathas",
+                    "Marathas suffered heavy defeat",
+                    "One of largest battles of 18th century India",
+                    "Marked end of Maratha ambition for pan-Indian empire (temporarily)"
+                ]
+            },
+            {
+                "heading": "Causes of Maratha Defeat at Panipat",
+                "points": [
+                    "Overextended supply lines in North India",
+                    "Lack of strong alliances in the region",
+                    "Internal divisions among Maratha commanders",
+                    "Superior coordination of Afghan-Rohilla alliance",
+                    "Isolation of Maratha army in hostile territory"
+                ]
+            },
+            {
+                "heading": "Consequences of Third Battle of Panipat",
+                "points": [
+                    "Massive loss of life and military leadership for Marathas",
+                    "Temporary setback to Maratha expansion",
+                    "Weakening of Maratha influence in North India",
+                    "Decline of Afghan dominance over time",
+                    "Eventual recovery of Maratha power later in century"
+                ]
+            },
+            {
+                "heading": "Shivaji (1627–1680) – Overview",
+                "points": [
+                    "Founder of Maratha state",
+                    "Built strong foundation of guerrilla warfare system",
+                    "Established independent Maratha kingdom against Bijapur and Mughals",
+                    "Promoted efficient administration and military organization",
+                    "Symbol of resistance against imperial domination"
+                ]
+            },
+            {
+                "heading": "Shivaji’s Administrative System",
+                "points": [
+                    "Centralized monarchy with strong local control",
+                    "Revenue system based on assessment of land productivity",
+                    "Ashtapradhan council for administration",
+                    "Promotion of Marathi language in governance",
+                    "Strong emphasis on forts and defense system"
+                ]
+            },
+            {
+                "heading": "Shivaji’s Military Strategy",
+                "points": [
+                    "Guerrilla warfare in Western Ghats",
+                    "Strong network of hill forts",
+                    "Fast-moving cavalry units",
+                    "Avoidance of pitched battles with larger armies",
+                    "Effective intelligence and espionage system"
+                ]
+            },
+            {
+                "heading": "Significance of Shivaji",
+                "points": [
+                    "Founder of independent Maratha identity",
+                    "Challenged Mughal and Deccan Sultanate dominance",
+                    "Created model for later Maratha expansion",
+                    "Symbol of regional resistance in Indian history",
+                    "Foundation for 18th-century Maratha Empire"
+                ]
+            },
+            {
+                "heading": "Historical Significance of Entire Phase",
+                "points": [
+                    "Demonstrates shift from regional power to pan-Indian ambitions of Marathas",
+                    "Exposure of limitations of decentralized military expansion",
+                    "Panipat marked turning point in 18th-century Indian politics",
+                    "Rise of Afghan and later British influence",
+                    "Transition phase in Indian political fragmentation"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Third Battle of Panipat was fought in:",
+                    "options": [
+                    "1526",
+                    "1761",
+                    "1707",
+                    "1857"
+                    ],
+                    "answer": "1761"
+                },
+                {
+                    "question": "Maratha expansion into North India was mainly under:",
+                    "options": [
+                    "Shivaji",
+                    "Peshwas",
+                    "Akbar",
+                    "Aurangzeb"
+                    ],
+                    "answer": "Peshwas"
+                },
+                {
+                    "question": "Ahmad Shah Abdali belonged to:",
+                    "options": [
+                    "Mughal Empire",
+                    "Afghanistan (Durrani Empire)",
+                    "British Empire",
+                    "Safavid Empire"
+                    ],
+                    "answer": "Afghanistan (Durrani Empire)"
+                },
+                {
+                    "question": "Shivaji belonged to:",
+                    "options": [
+                    "Mughal dynasty",
+                    "Maratha dynasty",
+                    "Rajput dynasty",
+                    "Afghan dynasty"
+                    ],
+                    "answer": "Maratha dynasty"
+                },
+                {
+                    "question": "Battle of Panipat (1761) was mainly fought for control over:",
+                    "options": [
+                    "South India",
+                    "North India (Delhi region)",
+                    "Bengal",
+                    "Coastal trade"
+                    ],
+                    "answer": "North India (Delhi region)"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "First phase of Maratha expansion (1741–1752) focused on:",
+                    "options": [
+                    "Complete occupation of Delhi",
+                    "Tribute collection in central India",
+                    "Colonization of Europe",
+                    "Naval warfare only"
+                    ],
+                    "answer": "Tribute collection in central India"
+                },
+                {
+                    "question": "Main reason for Maratha defeat at Panipat was:",
+                    "options": [
+                    "Strong navy",
+                    "Overextension and isolation",
+                    "British intervention",
+                    "Religious conflict"
+                    ],
+                    "answer": "Overextension and isolation"
+                },
+                {
+                    "question": "Doab region is located between:",
+                    "options": [
+                    "Two seas",
+                    "Two rivers",
+                    "Two mountains",
+                    "Two deserts"
+                    ],
+                    "answer": "Two rivers"
+                },
+                {
+                    "question": "Shivaji is known for introducing:",
+                    "options": [
+                    "Guerrilla warfare",
+                    "Air warfare",
+                    "Naval trade monopoly",
+                    "Colonial governance"
+                    ],
+                    "answer": "Guerrilla warfare"
+                },
+                {
+                    "question": "Second phase of Maratha expansion involved:",
+                    "options": [
+                    "Withdrawal from North India",
+                    "Direct involvement in Delhi politics",
+                    "End of military campaigns",
+                    "European alliance"
+                    ],
+                    "answer": "Direct involvement in Delhi politics"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Third Battle of Panipat resulted in Maratha victory\n2. Ahmad Shah Abdali invaded North India from Afghanistan\n3. Shivaji founded the Maratha state",
+                    "options": [
+                    "2 and 3 only",
+                    "1 and 2 only",
+                    "1 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "2 and 3 only"
+                },
+                {
+                    "question": "Main significance of Panipat (1761) was:",
+                    "options": [
+                    "End of British rule",
+                    "Temporary setback to Maratha expansion",
+                    "Mughal revival",
+                    "European colonization"
+                    ],
+                    "answer": "Temporary setback to Maratha expansion"
+                },
+                {
+                    "question": "Shivaji’s importance lies in:",
+                    "options": [
+                    "Foundation of Maratha state",
+                    "Establishment of British Empire",
+                    "Mughal administration reform",
+                    "Afghan conquest of India"
+                    ],
+                    "answer": "Foundation of Maratha state"
+                },
+                {
+                    "question": "Maratha expansion into Punjab failed mainly due to:",
+                    "options": [
+                    "Strong naval resistance",
+                    "Afghan resistance and overextension",
+                    "European invasion",
+                    "Religious conflict"
+                    ],
+                    "answer": "Afghan resistance and overextension"
+                },
+                {
+                    "question": "18th-century Indian politics was characterized by:",
+                    "options": [
+                    "Strong centralized empire",
+                    "Regional fragmentation and power struggle",
+                    "Colonial unity",
+                    "Religious unity"
+                    ],
+                    "answer": "Regional fragmentation and power struggle"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Maratha History – Shivaji’s Administration, Successors, Peshwas (1713–1818) & Maratha Confederacy (Bhonsles, Gaikwads, Holkars, Scindias)",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Maratha polity evolved from Shivaji’s centralized kingdom to a decentralized confederacy",
+                    "Shivaji laid strong administrative foundations based on efficient governance and military strength",
+                    "After Shivaji, succession struggles weakened central authority",
+                    "Peshwas became real power holders from 1713 onwards",
+                    "Maratha Confederacy emerged with powerful semi-independent houses"
+                ]
+            },
+            {
+                "heading": "Shivaji’s Administration – Overview",
+                "points": [
+                    "Centralized administrative system with strong monarchic authority",
+                    "Inspired by indigenous traditions and practical governance needs",
+                    "Emphasis on efficient revenue system and strong military organization",
+                    "Use of Marathi language in administration",
+                    "Strong focus on fort-based defense system"
+                ]
+            },
+            {
+                "heading": "Central Administration under Shivaji",
+                "points": [
+                    "King was supreme authority in state",
+                    "Ashtapradhan (Council of Eight Ministers) assisted administration",
+                    "Ministers were responsible but not autonomous",
+                    "Strong supervision over administration",
+                    "Efficient coordination between civil and military functions"
+                ]
+            },
+            {
+                "heading": "Ashtapradhan Council",
+                "points": [
+                    "Peshwa – Prime Minister",
+                    "Amatya – Finance Minister",
+                    "Sachiv – Correspondence Secretary",
+                    "Sumant – Foreign Minister",
+                    "Senapati – Commander-in-Chief",
+                    "Mantri – Intelligence",
+                    "Nyayadhish – Justice",
+                    "Pandit Rao – Religious affairs"
+                ]
+            },
+            {
+                "heading": "Revenue Administration",
+                "points": [
+                    "Land revenue system based on measurement and productivity",
+                    "Elimination of exploitative intermediaries where possible",
+                    "Direct collection in many areas",
+                    "Encouragement of agriculture in newly conquered regions",
+                    "Efficient fiscal administration ensured state stability"
+                ]
+            },
+            {
+                "heading": "Military System under Shivaji",
+                "points": [
+                    "Strong cavalry-based army",
+                    "Fort system as backbone of defense",
+                    "Guerrilla warfare tactics",
+                    "Strict discipline and regular salaries",
+                    "Well-organized intelligence network"
+                ]
+            },
+            {
+                "heading": "Successors of Shivaji",
+                "points": [
+                    "Shivaji was succeeded by Sambhaji (1680–1689)",
+                    "Followed by Rajaram and later Shahu",
+                    "Period marked by Mughal pressure under Aurangzeb",
+                    "Internal divisions weakened central authority",
+                    "Shift from centralized monarchy to Peshwa dominance"
+                ]
+            },
+            {
+                "heading": "Sambhaji’s Rule",
+                "points": [
+                    "Faced continuous Mughal attacks under Aurangzeb",
+                    "Tried to maintain Maratha resistance",
+                    "Executed by Mughals in 1689",
+                    "His death intensified Maratha resistance",
+                    "Marked turning point in Mughal-Maratha conflict"
+                ]
+            },
+            {
+                "heading": "Rajaram and Continuity",
+                "points": [
+                    "Shifted capital to Jinji for safety",
+                    "Continued resistance against Mughals",
+                    "Encouraged decentralized guerrilla warfare",
+                    "Maintained Maratha identity during crisis period",
+                    "Helped preserve Maratha state structure"
+                ]
+            },
+            {
+                "heading": "Rise of the Peshwas (1713–1818)",
+                "points": [
+                    "Peshwas initially were prime ministers under Maratha kings",
+                    "Became de facto rulers under Shahu",
+                    "Baji Rao I was most influential Peshwa",
+                    "Expanded Maratha influence across India",
+                    "System transformed into confederacy structure"
+                ]
+            },
+            {
+                "heading": "Role of Peshwas",
+                "points": [
+                    "Controlled administration and military expansion",
+                    "Led aggressive northward expansion policy",
+                    "Managed relations with other Maratha chiefs",
+                    "Centralized decision-making in Pune",
+                    "Reduced power of nominal Maratha kings"
+                ]
+            },
+            {
+                "heading": "Baji Rao I and Expansion Policy",
+                "points": [
+                    "Advocated rapid northward expansion",
+                    "Strengthened Maratha presence in Malwa and Gujarat",
+                    "Defeated several regional powers",
+                    "Promoted mobility and cavalry warfare",
+                    "Made Marathas dominant Indian power in 18th century"
+                ]
+            },
+            {
+                "heading": "Maratha Confederacy – Overview",
+                "points": [
+                    "Loose political structure under symbolic central authority",
+                    "Semi-independent regional chiefs",
+                    "Shared ideology of Maratha supremacy",
+                    "Frequent internal rivalries",
+                    "Flexible but unstable political system"
+                ]
+            },
+            {
+                "heading": "Major Maratha Houses",
+                "points": [
+                    "Bhonsles – Nagpur branch of Shivaji’s family",
+                    "Gaikwads – Baroda (Gujarat region)",
+                    "Holkars – Indore (Malwa region)",
+                    "Scindias (Shindes) – Gwalior region"
+                ]
+            },
+            {
+                "heading": "Bhonsles (Nagpur)",
+                "points": [
+                    "Branch of Shivaji’s lineage",
+                    "Controlled eastern Deccan region",
+                    "Played role in Bengal-Orissa politics",
+                    "Semi-independent but part of Maratha confederacy",
+                    "Maintained regional dominance in Central India"
+                ]
+            },
+            {
+                "heading": "Gaikwads (Baroda)",
+                "points": [
+                    "Established control over Gujarat region",
+                    "Developed strong administrative base",
+                    "Controlled important trade routes",
+                    "Often engaged with British East India Company",
+                    "Maintained semi-autonomous status"
+                ]
+            },
+            {
+                "heading": "Holkars (Indore)",
+                "points": [
+                    "Originated from Malwa region",
+                    "Strong military tradition",
+                    "Played key role in Maratha expansion in North India",
+                    "Frequently rivaled Scindias",
+                    "Important power center in central India"
+                ]
+            },
+            {
+                "heading": "Scindias (Gwalior)",
+                "points": [
+                    "Powerful Maratha house in North-Central India",
+                    "Strong diplomatic and military influence",
+                    "Controlled strategic trade routes",
+                    "Major player in Anglo-Maratha wars",
+                    "One of the last major Maratha powers to resist British"
+                ]
+            },
+            {
+                "heading": "Decline of Maratha Confederacy",
+                "points": [
+                    "Internal rivalry among houses weakened unity",
+                    "British expansion through diplomacy and war",
+                    "Third Anglo-Maratha War (1817–1818) ended Peshwa power",
+                    "End of centralized Maratha authority",
+                    "Transition to British colonial rule"
+                ]
+            },
+            {
+                "heading": "Historical Significance",
+                "points": [
+                    "Shivaji’s administration formed base of Maratha polity",
+                    "Peshwas transformed Marathas into pan-Indian power",
+                    "Confederacy system showed both flexibility and weakness",
+                    "Marathas were last major indigenous challenge to Mughal successor states",
+                    "Eventually replaced by British colonial dominance"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Shivaji’s council of ministers was called:",
+                    "options": [
+                    "Sabha",
+                    "Ashtapradhan",
+                    "Mantriparishad",
+                    "Rajya Sabha"
+                    ],
+                    "answer": "Ashtapradhan"
+                },
+                {
+                    "question": "The real power in Maratha Confederacy was held by:",
+                    "options": [
+                    "Shivaji",
+                    "Peshwas",
+                    "Mughals",
+                    "British"
+                    ],
+                    "answer": "Peshwas"
+                },
+                {
+                    "question": "Holkars were associated with:",
+                    "options": [
+                    "Baroda",
+                    "Indore",
+                    "Gwalior",
+                    "Nagpur"
+                    ],
+                    "answer": "Indore"
+                },
+                {
+                    "question": "Scindias ruled from:",
+                    "options": [
+                    "Gwalior",
+                    "Pune",
+                    "Delhi",
+                    "Surat"
+                    ],
+                    "answer": "Gwalior"
+                },
+                {
+                    "question": "Shivaji’s successor was:",
+                    "options": [
+                    "Akbar",
+                    "Sambhaji",
+                    "Aurangzeb",
+                    "Baji Rao"
+                    ],
+                    "answer": "Sambhaji"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Maratha Confederacy refers to:",
+                    "options": [
+                    "Centralized empire",
+                    "Group of semi-independent Maratha states",
+                    "British province",
+                    "Religious organization"
+                    ],
+                    "answer": "Group of semi-independent Maratha states"
+                },
+                {
+                    "question": "Gaikwads were based in:",
+                    "options": [
+                    "Punjab",
+                    "Gujarat",
+                    "Bengal",
+                    "Mysore"
+                    ],
+                    "answer": "Gujarat"
+                },
+                {
+                    "question": "Main feature of Shivaji’s administration was:",
+                    "options": [
+                    "Decentralization",
+                    "Centralized monarchy",
+                    "Colonial rule",
+                    "Feudal fragmentation"
+                    ],
+                    "answer": "Centralized monarchy"
+                },
+                {
+                    "question": "Baji Rao I is known for:",
+                    "options": [
+                    "Defensive policy",
+                    "Aggressive expansion",
+                    "Naval dominance",
+                    "Religious reform"
+                    ],
+                    "answer": "Aggressive expansion"
+                },
+                {
+                    "question": "Ashtapradhan system refers to:",
+                    "options": [
+                    "Eight ministers",
+                    "Eight forts",
+                    "Eight provinces",
+                    "Eight taxes"
+                    ],
+                    "answer": "Eight ministers"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Peshwas became de facto rulers of Marathas\n2. Maratha Confederacy was fully centralized\n3. Scindias were based in Gwalior",
+                    "options": [
+                    "1 and 3 only",
+                    "2 and 3 only",
+                    "1 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "Main weakness of Maratha Confederacy was:",
+                    "options": [
+                    "Strong centralization",
+                    "Internal rivalry among chiefs",
+                    "Foreign domination from start",
+                    "Religious unity"
+                    ],
+                    "answer": "Internal rivalry among chiefs"
+                },
+                {
+                    "question": "Shivaji’s administration was based on:",
+                    "options": [
+                    "Guerrilla warfare and decentralization",
+                    "Centralized monarchy with efficient governance",
+                    "Colonial system",
+                    "Feudal European model"
+                    ],
+                    "answer": "Centralized monarchy with efficient governance"
+                },
+                {
+                    "question": "Decline of Peshwa system was finalized in:",
+                    "options": [
+                    "1707",
+                    "1818",
+                    "1761",
+                    "1857"
+                    ],
+                    "answer": "1818"
+                },
+                {
+                    "question": "Maratha Confederacy was important because it:",
+                    "options": [
+                    "Strengthened Mughal Empire",
+                    "Created regional power balance in 18th century India",
+                    "Established British rule",
+                    "Ended all wars"
+                    ],
+                    "answer": "Created regional power balance in 18th century India"
+                }
+            ]
+        }
+    },
+    {
+        "name": "18th Century India – Economic Condition, Social & Cultural Life",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "The 18th century in India was marked by political fragmentation and economic transition",
+                    "Decline of Mughal central authority led to regional economies and autonomous states",
+                    "Despite political instability, trade and urban life continued in many regions",
+                    "Social structure remained largely hierarchical with gradual changes in elites",
+                    "Cultural life showed continuity with Mughal and regional traditions"
+                ]
+            },
+            {
+                "heading": "Economic Condition in 18th Century – Overview",
+                "points": [
+                    "Economy remained primarily agrarian with land revenue as main source of income",
+                    "Decline of centralized Mughal revenue system led to regional variations",
+                    "Rise of autonomous states (Marathas, Bengal, Awadh, Hyderabad)",
+                    "Increasing role of European trading companies",
+                    "Coexistence of decline in some areas and growth in others"
+                ]
+            },
+            {
+                "heading": "Agrarian Economy",
+                "points": [
+                    "Agriculture remained backbone of Indian economy",
+                    "Land revenue systems varied across regions",
+                    "Peasantry faced increasing burden of taxation",
+                    "Frequent wars disrupted agricultural productivity",
+                    "Some regions like Bengal remained highly fertile and productive"
+                ]
+            },
+            {
+                "heading": "Land Revenue Systems",
+                "points": [
+                    "Mughal jagirdari system weakened in 18th century",
+                    "Regional rulers developed independent revenue systems",
+                    "Revenue farming became common practice",
+                    "Exploitation of peasants increased in many areas",
+                    "Instability in revenue collection affected administration"
+                ]
+            },
+            {
+                "heading": "Trade and Commerce",
+                "points": [
+                    "Internal trade continued despite political instability",
+                    "Important trade centers: Surat, Masulipatnam, Dhaka, Murshidabad",
+                    "European companies expanded coastal trade",
+                    "Textiles were major export commodity",
+                    "Indian merchants played key role in inland trade networks"
+                ]
+            },
+            {
+                "heading": "Decline and Continuity in Economy",
+                "points": [
+                    "Some regions experienced economic decline due to wars",
+                    "Others like Bengal and parts of South India remained prosperous",
+                    "Artisan production continued in urban centers",
+                    "Village economy remained largely self-sufficient",
+                    "European demand influenced production patterns"
+                ]
+            },
+            {
+                "heading": "Urban Economy",
+                "points": [
+                    "Decline of some Mughal cities like Delhi and Agra",
+                    "Rise of regional capitals like Lucknow, Hyderabad, Pune",
+                    "Urban centers remained hubs of administration and trade",
+                    "Artisan and craft production continued in cities",
+                    "Markets linked regional economies with international trade"
+                ]
+            },
+            {
+                "heading": "Role of European Trading Companies",
+                "points": [
+                    "English East India Company expanded influence",
+                    "French, Dutch, and Portuguese also active",
+                    "Control over coastal trade increased gradually",
+                    "Competition among European powers affected Indian trade",
+                    "Foundation for colonial economic dominance"
+                ]
+            },
+            {
+                "heading": "Social Structure in 18th Century",
+                "points": [
+                    "Highly hierarchical society based on caste and class",
+                    "Zamindars and nobles formed dominant elite group",
+                    "Peasants and artisans formed lower strata",
+                    "Social mobility was limited but not absent",
+                    "Regional variations in social structure existed"
+                ]
+            },
+            {
+                "heading": "Role of Zamindars and Local Elites",
+                "points": [
+                    "Zamindars gained greater autonomy in many regions",
+                    "Controlled land revenue collection",
+                    "Often acted as intermediaries between rulers and peasants",
+                    "Some became semi-independent local rulers",
+                    "Increased social and political influence"
+                ]
+            },
+            {
+                "heading": "Peasantry and Rural Society",
+                "points": [
+                    "Majority of population lived in villages",
+                    "Agricultural labor formed backbone of economy",
+                    "Burden of taxation increased in many regions",
+                    "Frequent famines and wars affected rural life",
+                    "Community-based rural structure remained strong"
+                ]
+            },
+            {
+                "heading": "Urban Society",
+                "points": [
+                    "Urban centers had diverse populations",
+                    "Merchants, artisans, administrators, and soldiers lived in cities",
+                    "Social stratification existed within urban society",
+                    "Cultural interactions increased in cities",
+                    "Rise of new regional elites"
+                ]
+            },
+            {
+                "heading": "Cultural Life in 18th Century – Overview",
+                "points": [
+                    "Continuation of Mughal cultural traditions",
+                    "Regional styles of art, architecture, and literature developed",
+                    "Persian and local languages coexisted",
+                    "Religious and cultural synthesis continued",
+                    "Growth of regional cultural identities"
+                ]
+            },
+            {
+                "heading": "Art and Architecture",
+                "points": [
+                    "Decline of imperial Mughal architecture after Aurangzeb",
+                    "Rise of regional architectural styles in Lucknow, Jaipur, Hyderabad",
+                    "Blend of Mughal, Persian, and local traditions",
+                    "Temples, mosques, and forts built by regional rulers",
+                    "European influence began to appear in later phase"
+                ]
+            },
+            {
+                "heading": "Literature",
+                "points": [
+                    "Persian remained language of administration and elite culture",
+                    "Regional languages like Hindi, Marathi, Bengali flourished",
+                    "Devotional Bhakti and Sufi literature continued",
+                    "Court patronage supported poets and scholars",
+                    "Literature reflected social and political changes"
+                ]
+            },
+            {
+                "heading": "Religion and Society",
+                "points": [
+                    "Bhakti and Sufi traditions remained influential",
+                    "Hindu and Islamic cultural synthesis continued",
+                    "Regional religious movements gained popularity",
+                    "Religious tolerance varied by region and ruler",
+                    "Society remained deeply influenced by religion"
+                ]
+            },
+            {
+                "heading": "Education and Knowledge Systems",
+                "points": [
+                    "Traditional pathshalas and madrasas continued",
+                    "Focus on religious and classical education",
+                    "Centers of learning existed in major cities",
+                    "Limited exposure to modern scientific education",
+                    "Knowledge transmission remained traditional"
+                ]
+            },
+            {
+                "heading": "Historical Significance",
+                "points": [
+                    "18th century was a transitional phase between Mughal and colonial India",
+                    "Economic fragmentation coexisted with regional prosperity",
+                    "Social structure remained stable but regionally diverse",
+                    "Cultural continuity despite political instability",
+                    "Foundation laid for colonial economic transformation"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Main occupation of people in 18th century India was:",
+                    "options": [
+                    "Industry",
+                    "Agriculture",
+                    "Banking",
+                    "Mining"
+                    ],
+                    "answer": "Agriculture"
+                },
+                {
+                    "question": "Major export commodity of 18th century India was:",
+                    "options": [
+                    "Steel",
+                    "Textiles",
+                    "Oil",
+                    "Machinery"
+                    ],
+                    "answer": "Textiles"
+                },
+                {
+                    "question": "Main language of administration in 18th century was:",
+                    "options": [
+                    "Sanskrit",
+                    "Persian",
+                    "English",
+                    "Tamil"
+                    ],
+                    "answer": "Persian"
+                },
+                {
+                    "question": "Village economy in 18th century India was mainly:",
+                    "options": [
+                    "Industrial",
+                    "Self-sufficient",
+                    "Export-oriented",
+                    "Colonial"
+                    ],
+                    "answer": "Self-sufficient"
+                },
+                {
+                    "question": "Major trading company in India during 18th century was:",
+                    "options": [
+                    "Dutch East India Company",
+                    "English East India Company",
+                    "French East India Company",
+                    "All of the above"
+                    ],
+                    "answer": "All of the above"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Urban decline in 18th century affected mainly:",
+                    "options": [
+                    "Delhi and Agra",
+                    "London and Paris",
+                    "Rome and Athens",
+                    "Beijing and Tokyo"
+                    ],
+                    "answer": "Delhi and Agra"
+                },
+                {
+                    "question": "Zamindars in 18th century acted as:",
+                    "options": [
+                    "Foreign rulers",
+                    "Revenue intermediaries",
+                    "Merchants only",
+                    "Religious leaders"
+                    ],
+                    "answer": "Revenue intermediaries"
+                },
+                {
+                    "question": "Major feature of 18th century economy was:",
+                    "options": [
+                    "Industrial revolution",
+                    "Regional economic fragmentation",
+                    "Complete collapse",
+                    "Globalization"
+                    ],
+                    "answer": "Regional economic fragmentation"
+                },
+                {
+                    "question": "Bhakti literature mainly focused on:",
+                    "options": [
+                    "Trade laws",
+                    "Devotional themes",
+                    "Military strategy",
+                    "Science"
+                    ],
+                    "answer": "Devotional themes"
+                },
+                {
+                    "question": "European companies influenced Indian economy through:",
+                    "options": [
+                    "Agriculture only",
+                    "Coastal trade control",
+                    "Temple administration",
+                    "Village governance"
+                    ],
+                    "answer": "Coastal trade control"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. 18th century India saw complete economic collapse\n2. Regional states developed independent revenue systems\n3. Textiles were important export commodity",
+                    "options": [
+                    "2 and 3 only",
+                    "1 and 2 only",
+                    "1 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "2 and 3 only"
+                },
+                {
+                    "question": "Main feature of 18th century society was:",
+                    "options": [
+                    "Classless system",
+                    "Hierarchical structure with regional variations",
+                    "Equal distribution of wealth",
+                    "Industrial society"
+                    ],
+                    "answer": "Hierarchical structure with regional variations"
+                },
+                {
+                    "question": "European trading companies initially focused on:",
+                    "options": [
+                    "Inland agriculture",
+                    "Coastal trade",
+                    "Religious conversion",
+                    "Military administration"
+                    ],
+                    "answer": "Coastal trade"
+                },
+                {
+                    "question": "Regional cultural development in 18th century was due to:",
+                    "options": [
+                    "Centralized Mughal control",
+                    "Decline of imperial authority",
+                    "Foreign domination",
+                    "Industrial growth"
+                    ],
+                    "answer": "Decline of imperial authority"
+                },
+                {
+                    "question": "18th century India is best described as:",
+                    "options": [
+                    "Industrial economy",
+                    "Transition from Mughal to colonial phase",
+                    "Modern republic",
+                    "Feudal Europe type system"
+                    ],
+                    "answer": "Transition from Mughal to colonial phase"
+                }
+            ]
+        }
+    }
+]

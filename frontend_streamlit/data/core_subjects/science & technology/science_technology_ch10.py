@@ -1,0 +1,579 @@
+TOPICS = [
+    {
+        "name": "Biology: Respiration (External, Internal & Plant Respiration)",
+        "notes": [
+            {
+                "heading": "Introduction to Respiration",
+                "points": [
+                    "Respiration is the process of releasing energy from food molecules (mainly glucose)",
+                    "It occurs in all living organisms",
+                    "Energy is released in the form of ATP (adenosine triphosphate)",
+                    "Respiration can be aerobic (with oxygen) or anaerobic (without oxygen)",
+                    "It is essential for survival and cellular activities"
+                ]
+            },
+            {
+                "heading": "Types of Respiration",
+                "points": [
+                    "External respiration: exchange of gases between organism and environment",
+                    "Internal (cellular) respiration: breakdown of glucose inside cells to release energy",
+                    "Aerobic respiration: uses oxygen, produces more energy",
+                    "Anaerobic respiration: does not use oxygen, produces less energy",
+                    "Both processes are interconnected in living systems"
+                ]
+            },
+            {
+                "heading": "External Respiration – Overview",
+                "points": [
+                    "Involves exchange of oxygen and carbon dioxide with the environment",
+                    "Occurs through respiratory organs like lungs, gills, or skin",
+                    "Oxygen enters the body, carbon dioxide is released",
+                    "Depends on diffusion process",
+                    "Essential for maintaining oxygen supply"
+                ]
+            },
+            {
+                "heading": "External Respiration in Humans",
+                "points": [
+                    "Occurs in lungs (alveoli)",
+                    "Oxygen diffuses from alveoli into blood",
+                    "Carbon dioxide diffuses from blood into alveoli",
+                    "Blood carries gases to and from tissues",
+                    "Efficient due to large surface area of alveoli"
+                ]
+            },
+            {
+                "heading": "Internal (Cellular) Respiration – Overview",
+                "points": [
+                    "Occurs inside cells, mainly in mitochondria",
+                    "Glucose is broken down to release energy",
+                    "Produces ATP, carbon dioxide, and water",
+                    "Can be aerobic or anaerobic",
+                    "Fundamental for cellular activities"
+                ]
+            },
+            {
+                "heading": "Aerobic Respiration",
+                "points": [
+                    "Uses oxygen for energy production",
+                    "Complete breakdown of glucose",
+                    "Produces large amount of ATP",
+                    "Produces carbon dioxide and water",
+                    "Occurs in mitochondria"
+                ]
+            },
+            {
+                "heading": "Anaerobic Respiration",
+                "points": [
+                    "Occurs without oxygen",
+                    "Partial breakdown of glucose",
+                    "Produces less energy",
+                    "Produces lactic acid (in muscles) or alcohol (in yeast)",
+                    "Occurs in low oxygen conditions"
+                ]
+            },
+            {
+                "heading": "Respiratory System in Plants – Overview",
+                "points": [
+                    "Plants do not have specialized respiratory organs",
+                    "Gas exchange occurs through stomata, lenticels, and root surfaces",
+                    "Respiration occurs in all plant cells",
+                    "Oxygen is used and carbon dioxide is released",
+                    "Diffusion is the main mechanism"
+                ]
+            },
+            {
+                "heading": "Stomata in Plants",
+                "points": [
+                    "Tiny pores present on leaves",
+                    "Allow exchange of gases (O2 and CO2)",
+                    "Controlled by guard cells",
+                    "Open during day and close at night in many plants",
+                    "Also involved in transpiration"
+                ]
+            },
+            {
+                "heading": "Lenticels",
+                "points": [
+                    "Found in woody stems and bark",
+                    "Allow gas exchange in older plant parts",
+                    "Remain open continuously",
+                    "Help in respiration of stems",
+                    "Visible as small pores on bark"
+                ]
+            },
+            {
+                "heading": "Root Respiration",
+                "points": [
+                    "Roots take oxygen from air spaces in soil",
+                    "Used for cellular respiration in root cells",
+                    "Important for nutrient absorption",
+                    "Waterlogged soil reduces oxygen availability",
+                    "Affects plant health if oxygen is low"
+                ]
+            },
+            {
+                "heading": "Importance of Respiration",
+                "points": [
+                    "Provides energy for all life processes",
+                    "Supports growth, repair, and movement",
+                    "Maintains metabolic activities",
+                    "Essential for survival of organisms",
+                    "Links food intake with energy production"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Main purpose of respiration is:",
+                    "options": [
+                    "Digestion",
+                    "Energy release",
+                    "Reproduction",
+                    "Excretion"
+                    ],
+                    "answer": "Energy release"
+                },
+                {
+                    "question": "External respiration involves:",
+                    "options": [
+                    "Cell division",
+                    "Gas exchange with environment",
+                    "Protein synthesis",
+                    "DNA replication"
+                    ],
+                    "answer": "Gas exchange with environment"
+                },
+                {
+                    "question": "Cellular respiration occurs in:",
+                    "options": [
+                    "Nucleus",
+                    "Mitochondria",
+                    "Ribosome",
+                    "Golgi body"
+                    ],
+                    "answer": "Mitochondria"
+                },
+                {
+                    "question": "Stomata are found in:",
+                    "options": [
+                    "Roots",
+                    "Leaves",
+                    "Stem only",
+                    "Flowers only"
+                    ],
+                    "answer": "Leaves"
+                },
+                {
+                    "question": "Anaerobic respiration occurs in absence of:",
+                    "options": [
+                    "Water",
+                    "Oxygen",
+                    "Carbon dioxide",
+                    "Nitrogen"
+                    ],
+                    "answer": "Oxygen"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Aerobic respiration produces:",
+                    "options": [
+                    "Less energy",
+                    "More energy",
+                    "No energy",
+                    "Only heat"
+                    ],
+                    "answer": "More energy"
+                },
+                {
+                    "question": "Lenticels are found in:",
+                    "options": [
+                    "Leaves",
+                    "Woody stems",
+                    "Roots only",
+                    "Flowers"
+                    ],
+                    "answer": "Woody stems"
+                },
+                {
+                    "question": "Guard cells control:",
+                    "options": [
+                    "Root growth",
+                    "Stomatal opening and closing",
+                    "Seed formation",
+                    "Flowering"
+                    ],
+                    "answer": "Stomatal opening and closing"
+                },
+                {
+                    "question": "Anaerobic respiration in yeast produces:",
+                    "options": [
+                    "Oxygen",
+                    "Alcohol",
+                    "Glucose",
+                    "Protein"
+                    ],
+                    "answer": "Alcohol"
+                },
+                {
+                    "question": "Roots absorb oxygen from:",
+                    "options": [
+                    "Leaves",
+                    "Soil air spaces",
+                    "Flowers",
+                    "Stem bark"
+                    ],
+                    "answer": "Soil air spaces"
+                }
+                ],
+
+                "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. Respiration releases energy\n2. Plants do not respire\n3. Mitochondria are site of respiration",
+                    "options": [
+                    "1 and 3 only",
+                    "2 and 3 only",
+                    "1 and 2 only",
+                    "All"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                    "Stomata – roots",
+                    "Lenticels – woody stems",
+                    "Alveoli – digestion",
+                    "Mitochondria – photosynthesis"
+                    ],
+                    "answer": "Lenticels – woody stems"
+                },
+                {
+                    "question": "Anaerobic respiration produces:",
+                    "options": [
+                    "More energy than aerobic",
+                    "Less energy than aerobic",
+                    "No energy",
+                    "Only oxygen"
+                    ],
+                    "answer": "Less energy than aerobic"
+                },
+                {
+                    "question": "Gas exchange in plants occurs mainly by:",
+                    "options": [
+                    "Diffusion",
+                    "Active transport",
+                    "Osmosis only",
+                    "Filtration"
+                    ],
+                    "answer": "Diffusion"
+                },
+                {
+                    "question": "Waterlogged soil affects plants by:",
+                    "options": [
+                    "Increasing oxygen supply",
+                    "Reducing oxygen availability",
+                    "Increasing photosynthesis",
+                    "Increasing nitrogen fixation only"
+                    ],
+                    "answer": "Reducing oxygen availability"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Biology: Respiratory System in Insects, Humans and Animals",
+        "notes": [
+            {
+                "heading": "Introduction to Respiratory Systems",
+                "points": [
+                    "Respiration is the process of gas exchange and energy release in organisms",
+                    "Different organisms have different respiratory systems based on their structure and habitat",
+                    "Insects use tracheal system, humans use lungs, and aquatic animals may use gills",
+                    "Efficient oxygen supply is essential for survival",
+                    "Respiratory systems are adapted to environmental conditions"
+                ]
+            },
+            {
+                "heading": "Respiratory System in Insects – Overview",
+                "points": [
+                    "Insects do not use lungs for respiration",
+                    "They use a tracheal system for gas exchange",
+                    "Air enters through spiracles and travels through tracheae",
+                    "Oxygen is delivered directly to tissues",
+                    "Blood (hemolymph) is not involved in oxygen transport"
+                ]
+            },
+            {
+                "heading": "Structure of Tracheal System",
+                "points": [
+                    "Spiracles: small openings on body surface",
+                    "Tracheae: network of air tubes",
+                    "Tracheoles: fine branches reaching cells",
+                    "Air moves through diffusion",
+                    "Direct oxygen supply to cells ensures efficiency"
+                ]
+            },
+            {
+                "heading": "Respiration Process in Insects",
+                "points": [
+                    "Air enters through spiracles",
+                    "Travels through tracheae and tracheoles",
+                    "Oxygen diffuses directly into cells",
+                    "Carbon dioxide exits through same route",
+                    "Muscle movement helps air circulation in some insects"
+                ]
+            },
+            {
+                "heading": "Advantages of Insect Respiratory System",
+                "points": [
+                    "Direct oxygen supply to tissues",
+                    "No need for oxygen-carrying blood pigments",
+                    "Efficient for small body size",
+                    "Simple and effective system",
+                    "Works well in terrestrial habitats"
+                ]
+            },
+            {
+                "heading": "Limitations of Insect Respiratory System",
+                "points": [
+                    "Cannot support large body size",
+                    "Limited oxygen diffusion distance",
+                    "Dependence on open spiracles",
+                    "Sensitive to water loss",
+                    "Not suitable for high metabolic demands of large organisms"
+                ]
+            },
+            {
+                "heading": "Respiratory System in Humans – Overview",
+                "points": [
+                    "Humans use lungs for respiration",
+                    "Respiratory system includes nose, trachea, bronchi, and lungs",
+                    "Gas exchange occurs in alveoli",
+                    "Blood transports oxygen and carbon dioxide",
+                    "Highly efficient system for large body size"
+                ]
+            },
+            {
+                "heading": "Human Respiratory Tract",
+                "points": [
+                    "Nose: filters and moistens air",
+                    "Trachea: windpipe carrying air to lungs",
+                    "Bronchi: branches into each lung",
+                    "Bronchioles: smaller air passages",
+                    "Alveoli: site of gas exchange"
+                ]
+            },
+            {
+                "heading": "Alveoli – Structure and Function",
+                "points": [
+                    "Tiny air sacs in lungs",
+                    "Surrounded by capillaries",
+                    "Thin walls for rapid diffusion",
+                    "Large surface area for gas exchange",
+                    "Oxygen enters blood, carbon dioxide exits"
+                ]
+            },
+            {
+                "heading": "Mechanism of Breathing in Humans",
+                "points": [
+                    "Inhalation: diaphragm contracts, air enters lungs",
+                    "Exhalation: diaphragm relaxes, air exits lungs",
+                    "Lung volume changes with rib cage movement",
+                    "Pressure differences drive air flow",
+                    "Controlled by respiratory muscles"
+                ]
+            },
+            {
+                "heading": "Respiratory System in Other Animals",
+                "points": [
+                    "Fish use gills for respiration",
+                    "Amphibians use skin and lungs",
+                    "Birds have air sacs for efficient respiration",
+                    "Mammals use lungs like humans",
+                    "Respiratory adaptation depends on habitat"
+                ]
+            },
+            {
+                "heading": "Respiration in Aquatic Animals",
+                "points": [
+                    "Fish extract oxygen from water using gills",
+                    "Water flows over gill filaments",
+                    "Oxygen diffuses into blood",
+                    "Carbon dioxide is released into water",
+                    "Counter-current exchange increases efficiency"
+                ]
+            },
+            {
+                "heading": "Comparison: Insects vs Humans",
+                "points": [
+                    "Insects use tracheal system; humans use lungs",
+                    "Insects do not use blood for oxygen transport",
+                    "Humans use hemoglobin in blood",
+                    "Insects rely on diffusion through spiracles",
+                    "Humans have complex respiratory organs"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Insects breathe through:",
+                    "options": [
+                    "Lungs",
+                    "Tracheal system",
+                    "Gills",
+                    "Skin only"
+                    ],
+                    "answer": "Tracheal system"
+                },
+                {
+                    "question": "Gas exchange in humans occurs in:",
+                    "options": [
+                    "Trachea",
+                    "Alveoli",
+                    "Bronchi",
+                    "Nose"
+                    ],
+                    "answer": "Alveoli"
+                },
+                {
+                    "question": "Spiracles are found in:",
+                    "options": [
+                    "Humans",
+                    "Insects",
+                    "Fish",
+                    "Birds"
+                    ],
+                    "answer": "Insects"
+                },
+                {
+                    "question": "Fish use which organ for respiration?",
+                    "options": [
+                    "Lungs",
+                    "Gills",
+                    "Skin",
+                    "Trachea"
+                    ],
+                    "answer": "Gills"
+                },
+                {
+                    "question": "Main function of alveoli is:",
+                    "options": [
+                    "Digestion",
+                    "Gas exchange",
+                    "Blood clotting",
+                    "Excretion"
+                    ],
+                    "answer": "Gas exchange"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "In insects, oxygen is transported by:",
+                    "options": [
+                    "Blood",
+                    "Tracheal system directly",
+                    "Heart only",
+                    "Nerves"
+                    ],
+                    "answer": "Tracheal system directly"
+                },
+                {
+                    "question": "Diaphragm is involved in:",
+                    "options": [
+                    "Digestion",
+                    "Breathing",
+                    "Excretion",
+                    "Circulation"
+                    ],
+                    "answer": "Breathing"
+                },
+                {
+                    "question": "Counter-current exchange is found in:",
+                    "options": [
+                    "Humans",
+                    "Fish gills",
+                    "Insects",
+                    "Plants"
+                    ],
+                    "answer": "Fish gills"
+                },
+                {
+                    "question": "Bronchi divide into:",
+                    "options": [
+                    "Alveoli",
+                    "Bronchioles",
+                    "Tracheae",
+                    "Capillaries"
+                    ],
+                    "answer": "Bronchioles"
+                },
+                {
+                    "question": "In insects, respiration occurs by:",
+                    "options": [
+                    "Active transport",
+                    "Diffusion",
+                    "Osmosis",
+                    "Filtration"
+                    ],
+                    "answer": "Diffusion"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. Insects use tracheal system\n2. Humans use lungs for respiration\n3. Fish use lungs for breathing",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "All"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                    "Insects – lungs",
+                    "Humans – tracheal system",
+                    "Fish – gills",
+                    "Plants – alveoli"
+                    ],
+                    "answer": "Fish – gills"
+                },
+                {
+                    "question": "Alveoli are adapted for:",
+                    "options": [
+                    "Low surface area",
+                    "Efficient gas exchange",
+                    "Digestion",
+                    "Filtration of blood only"
+                    ],
+                    "answer": "Efficient gas exchange"
+                },
+                {
+                    "question": "Spiracles help in:",
+                    "options": [
+                    "Photosynthesis",
+                    "Breathing in insects",
+                    "Blood circulation",
+                    "Digestion"
+                    ],
+                    "answer": "Breathing in insects"
+                },
+                {
+                    "question": "Human respiratory system is more efficient than insects because:",
+                    "options": [
+                    "It uses tracheae",
+                    "It uses blood for oxygen transport",
+                    "It has spiracles",
+                    "It lacks alveoli"
+                    ],
+                    "answer": "It uses blood for oxygen transport"
+                }
+            ]
+        }
+    }
+]

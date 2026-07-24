@@ -1,0 +1,1022 @@
+TOPICS = [
+    {
+        "name": "Indian Society – Unity in Diversity",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Unity in Diversity is the core feature of Indian society",
+                    "India is characterized by diversity in religion, language, culture, caste, and ethnicity",
+                    "Despite diversity, there exists a strong sense of unity and national integration",
+                    "Promotes social harmony, tolerance, and coexistence"
+                ]
+            },
+            {
+                "heading": "Concept of Diversity",
+                "points": [
+                    "Refers to the existence of differences within society",
+                    "India has multiple religions such as Hinduism, Islam, Christianity, Sikhism, Buddhism, Jainism",
+                    "Linguistic diversity with 22 scheduled languages and hundreds of dialects",
+                    "Cultural diversity in traditions, customs, dress, and festivals",
+                    "Geographical diversity – mountains, plains, deserts, coastal regions",
+                    "Ethnic diversity with various tribes and communities"
+                ]
+            },
+            {
+                "heading": "Concept of Unity",
+                "points": [
+                    "Refers to a sense of oneness and belongingness",
+                    "Common national identity despite differences",
+                    "Shared values like democracy, secularism, and constitutional ideals",
+                    "Unity is strengthened by freedom struggle and collective history",
+                    "National symbols like flag, anthem, and Constitution promote unity"
+                ]
+            },
+            {
+                "heading": "Factors Promoting Unity in Diversity",
+                "points": [
+                    "Constitutional values like secularism, equality, and fraternity",
+                    "Democratic political system ensuring participation",
+                    "Cultural exchange and interdependence among communities",
+                    "Economic interdependence across regions",
+                    "Role of media, education, and communication",
+                    "National movements and shared historical experiences"
+                ]
+            },
+            {
+                "heading": "Challenges to Unity in Diversity",
+                "points": [
+                    "Communalism and religious conflicts",
+                    "Regionalism and sub-nationalism",
+                    "Casteism and social inequalities",
+                    "Linguistic conflicts",
+                    "Economic disparities and uneven development",
+                    "Identity politics and vote bank politics"
+                ]
+            },
+            {
+                "heading": "Importance of Unity in Diversity",
+                "points": [
+                    "Ensures national integration and stability",
+                    "Promotes peaceful coexistence",
+                    "Strengthens democracy",
+                    "Enhances cultural richness and pluralism",
+                    "Supports inclusive growth and development"
+                ]
+            },
+            {
+                "heading": "Role of Constitution in Promoting Unity",
+                "points": [
+                    "Provides fundamental rights ensuring equality and freedom",
+                    "Directive Principles promote social justice",
+                    "Secularism ensures equal respect to all religions",
+                    "Federal structure balances unity and regional autonomy",
+                    "Promotes fraternity among citizens"
+                ]
+            },
+            {
+                "heading": "Issues in Maintaining Unity",
+                "points": [
+                    "Rise of intolerance and hate speech",
+                    "Social media-driven polarization",
+                    "Marginalization of minorities",
+                    "Inadequate implementation of laws",
+                    "Political exploitation of divisions"
+                ]
+            },
+            {
+                "heading": "Reforms Needed",
+                "points": [
+                    "Promote inclusive and equitable development",
+                    "Strengthen secular and democratic values",
+                    "Encourage intercultural dialogue",
+                    "Improve education on constitutional values",
+                    "Ensure strict action against hate crimes",
+                    "Promote national integration programs"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Unity in Diversity refers to:",
+                    "options": [
+                    "Uniformity in culture",
+                    "Coexistence of differences with unity",
+                    "Elimination of diversity",
+                    "Regional dominance"
+                    ],
+                    "answer": "Coexistence of differences with unity"
+                },
+                {
+                    "question": "India is an example of:",
+                    "options": [
+                    "Homogeneous society",
+                    "Diverse society",
+                    "Closed society",
+                    "Isolated society"
+                    ],
+                    "answer": "Diverse society"
+                },
+                {
+                    "question": "Number of scheduled languages in India:",
+                    "options": [
+                    "18",
+                    "20",
+                    "22",
+                    "25"
+                    ],
+                    "answer": "22"
+                },
+                {
+                    "question": "Unity is promoted by:",
+                    "options": [
+                    "Division",
+                    "Fraternity",
+                    "Conflict",
+                    "Isolation"
+                    ],
+                    "answer": "Fraternity"
+                },
+                {
+                    "question": "Unity in Diversity is related to:",
+                    "options": [
+                    "Social harmony",
+                    "Conflict",
+                    "Isolation",
+                    "Inequality"
+                    ],
+                    "answer": "Social harmony"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which of the following promotes unity in India?",
+                    "options": [
+                    "Communalism",
+                    "Secularism",
+                    "Regionalism",
+                    "Casteism"
+                    ],
+                    "answer": "Secularism"
+                },
+                {
+                    "question": "A major challenge to unity is:",
+                    "options": [
+                    "Education",
+                    "Communalism",
+                    "Democracy",
+                    "Development"
+                    ],
+                    "answer": "Communalism"
+                },
+                {
+                    "question": "Unity in diversity strengthens:",
+                    "options": [
+                    "Autocracy",
+                    "Democracy",
+                    "Dictatorship",
+                    "Colonialism"
+                    ],
+                    "answer": "Democracy"
+                },
+                {
+                    "question": "Fraternity means:",
+                    "options": [
+                    "Division",
+                    "Brotherhood",
+                    "Conflict",
+                    "Inequality"
+                    ],
+                    "answer": "Brotherhood"
+                },
+                {
+                    "question": "Cultural diversity includes:",
+                    "options": [
+                    "Uniform traditions",
+                    "Variety of customs",
+                    "Single language",
+                    "One religion"
+                    ],
+                    "answer": "Variety of customs"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. India has linguistic diversity\n2. Unity in diversity promotes national integration\n3. Communalism strengthens unity",
+                    "options": [
+                    "1 only",
+                    "1 and 2 only",
+                    "1, 2 and 3",
+                    "2 only"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Unity in diversity is essential for:",
+                    "options": [
+                    "National integration",
+                    "Division",
+                    "Isolation",
+                    "Conflict"
+                    ],
+                    "answer": "National integration"
+                },
+                {
+                    "question": "Which is a constitutional value supporting unity?",
+                    "options": [
+                    "Inequality",
+                    "Fraternity",
+                    "Discrimination",
+                    "Isolation"
+                    ],
+                    "answer": "Fraternity"
+                },
+                {
+                    "question": "Economic disparities lead to:",
+                    "options": [
+                    "Unity",
+                    "Social harmony",
+                    "Discontent",
+                    "Equality"
+                    ],
+                    "answer": "Discontent"
+                },
+                {
+                    "question": "Key reform for unity is:",
+                    "options": [
+                    "Promoting divisions",
+                    "Inclusive development",
+                    "Reducing education",
+                    "Encouraging conflict"
+                    ],
+                    "answer": "Inclusive development"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Indian Society – Forms of Diversity, Reasons & Bonds of Unity",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "India is one of the most diverse societies in the world",
+                    "Diversity exists across social, cultural, religious, linguistic, and geographical dimensions",
+                    "Despite diversity, strong integrative forces ensure unity"
+                ]
+            },
+            {
+                "heading": "Forms of Diversity in India",
+                "points": [
+                    "Religious Diversity – Presence of multiple religions like Hinduism, Islam, Christianity, Sikhism, Buddhism, Jainism",
+                    "Linguistic Diversity – 22 scheduled languages and hundreds of regional dialects",
+                    "Caste and Social Diversity – Varied caste groups and social hierarchies",
+                    "Cultural Diversity – Differences in traditions, festivals, dress, food habits",
+                    "Ethnic Diversity – Tribal groups and different racial elements",
+                    "Geographical Diversity – Mountains (Himalayas), plains, deserts, plateaus, coastal regions",
+                    "Economic Diversity – Variation in income levels and development across regions"
+                ]
+            },
+            {
+                "heading": "Reasons for Diversity in India",
+                "points": [
+                    "Historical factors – Invasions, migrations, and cultural assimilation over centuries",
+                    "Geographical isolation – Natural barriers like mountains and rivers led to distinct cultures",
+                    "Colonial influence – British policies created administrative and economic differences",
+                    "Large population and vast area",
+                    "Social structure like caste system",
+                    "Regional variations in resources and climate",
+                    "Religious and philosophical developments over time"
+                ]
+            },
+            {
+                "heading": "Bonds of Unity in India",
+                "points": [
+                    "Constitutional values – Justice, liberty, equality, fraternity",
+                    "National movement and shared history of freedom struggle",
+                    "Democratic political system",
+                    "Cultural interdependence and shared traditions",
+                    "Economic linkages and internal trade",
+                    "Common national symbols like flag, anthem",
+                    "Role of education, media, and communication"
+                ]
+            },
+            {
+                "heading": "Geo-Political Unity",
+                "points": [
+                    "India as a single political entity under one Constitution",
+                    "Strong central government with federal structure",
+                    "Uniform administrative and legal framework",
+                    "Integrated defense and foreign policy",
+                    "Election system conducted by Election Commission across the country",
+                    "Common citizenship ensures unity",
+                    "National integration through institutions like Parliament, Judiciary, and All India Services"
+                ]
+            },
+            {
+                "heading": "Importance of Managing Diversity",
+                "points": [
+                    "Ensures peaceful coexistence",
+                    "Prevents conflicts and social tensions",
+                    "Promotes inclusive development",
+                    "Strengthens national integration",
+                    "Enhances cultural richness"
+                ]
+            },
+            {
+                "heading": "Challenges Related to Diversity",
+                "points": [
+                    "Communalism and religious conflicts",
+                    "Regionalism and separatist tendencies",
+                    "Caste-based discrimination",
+                    "Linguistic conflicts",
+                    "Economic inequalities",
+                    "Identity politics"
+                ]
+            },
+            {
+                "heading": "Reforms Needed",
+                "points": [
+                    "Promote inclusive and balanced regional development",
+                    "Strengthen national integration programs",
+                    "Encourage intercultural dialogue",
+                    "Improve governance and reduce inequalities",
+                    "Promote constitutional values through education",
+                    "Ensure strict law enforcement against discrimination"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Which of the following is a form of diversity in India?",
+                    "options": [
+                    "Linguistic diversity",
+                    "Uniform culture",
+                    "Single religion",
+                    "One language"
+                    ],
+                    "answer": "Linguistic diversity"
+                },
+                {
+                    "question": "India has how many scheduled languages?",
+                    "options": [
+                    "18",
+                    "20",
+                    "22",
+                    "25"
+                    ],
+                    "answer": "22"
+                },
+                {
+                    "question": "Geographical diversity includes:",
+                    "options": [
+                    "Only plains",
+                    "Mountains, plains, deserts",
+                    "Only forests",
+                    "Only rivers"
+                    ],
+                    "answer": "Mountains, plains, deserts"
+                },
+                {
+                    "question": "One major reason for diversity is:",
+                    "options": [
+                    "Uniform climate",
+                    "Geographical isolation",
+                    "Single religion",
+                    "Centralized rule"
+                    ],
+                    "answer": "Geographical isolation"
+                },
+                {
+                    "question": "Geo-political unity means:",
+                    "options": [
+                    "Multiple constitutions",
+                    "Single political system",
+                    "No government",
+                    "Regional independence"
+                    ],
+                    "answer": "Single political system"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which factor contributed to diversity in India?",
+                    "options": [
+                    "Isolation from the world",
+                    "Migrations and invasions",
+                    "Uniform population",
+                    "Single culture"
+                    ],
+                    "answer": "Migrations and invasions"
+                },
+                {
+                    "question": "Bond of unity includes:",
+                    "options": [
+                    "Communalism",
+                    "Constitutional values",
+                    "Regionalism",
+                    "Casteism"
+                    ],
+                    "answer": "Constitutional values"
+                },
+                {
+                    "question": "Geo-political unity is ensured by:",
+                    "options": [
+                    "Multiple laws",
+                    "Single Constitution",
+                    "No elections",
+                    "Regional armies"
+                    ],
+                    "answer": "Single Constitution"
+                },
+                {
+                    "question": "Economic diversity leads to:",
+                    "options": [
+                    "Uniform development",
+                    "Income disparities",
+                    "Equality",
+                    "No growth"
+                    ],
+                    "answer": "Income disparities"
+                },
+                {
+                    "question": "Cultural diversity includes:",
+                    "options": [
+                    "Same traditions",
+                    "Different festivals and customs",
+                    "Single dress code",
+                    "Uniform food habits"
+                    ],
+                    "answer": "Different festivals and customs"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. India has ethnic diversity\n2. Constitution promotes unity\n3. Geographical isolation reduces diversity",
+                    "options": [
+                    "1 only",
+                    "1 and 2 only",
+                    "1, 2 and 3",
+                    "2 only"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Geo-political unity is reflected in:",
+                    "options": [
+                    "Separate citizenship",
+                    "Common citizenship",
+                    "Regional constitutions",
+                    "Multiple armies"
+                    ],
+                    "answer": "Common citizenship"
+                },
+                {
+                    "question": "Major challenge to diversity is:",
+                    "options": [
+                    "Fraternity",
+                    "Communalism",
+                    "Democracy",
+                    "Unity"
+                    ],
+                    "answer": "Communalism"
+                },
+                {
+                    "question": "Historical reason for diversity includes:",
+                    "options": [
+                    "Uniform rule",
+                    "Invasions and assimilation",
+                    "Single culture",
+                    "No migration"
+                    ],
+                    "answer": "Invasions and assimilation"
+                },
+                {
+                    "question": "Key reform is:",
+                    "options": [
+                    "Promote division",
+                    "Inclusive development",
+                    "Reduce diversity",
+                    "Centralize culture"
+                    ],
+                    "answer": "Inclusive development"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Indian Society – Institution of Pilgrimage, Accommodation & Interdependence",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Pilgrimage is an important socio-cultural institution in India",
+                    "It reflects religious diversity, unity, and cultural continuity",
+                    "Traditions of accommodation and interdependence strengthen social harmony",
+                    "Acts as a unifying force across regions, castes, and communities"
+                ]
+            },
+            {
+                "heading": "Institution of Pilgrimage",
+                "points": [
+                    "Refers to travel to sacred places for religious and spiritual purposes",
+                    "Common across religions – Hindu (Char Dham), Islam (Hajj), Sikhism (Golden Temple), Buddhism (Bodh Gaya)",
+                    "Promotes cultural exchange and national integration",
+                    "Pilgrimage centers act as hubs of economy, culture, and social interaction",
+                    "Encourages mobility and interaction among diverse communities",
+                    "Strengthens shared heritage and spiritual unity"
+                ]
+            },
+            {
+                "heading": "Social Significance of Pilgrimage",
+                "points": [
+                    "Promotes unity among different regions and communities",
+                    "Acts as a medium of cultural transmission",
+                    "Encourages values of tolerance and coexistence",
+                    "Supports local economies and livelihoods",
+                    "Reduces social barriers like caste and class (to some extent)"
+                ]
+            },
+            {
+                "heading": "Tradition of Accommodation",
+                "points": [
+                    "Refers to acceptance and adjustment among diverse groups",
+                    "India has historically accommodated different religions, cultures, and traditions",
+                    "Syncretic traditions (e.g., Sufi-Bhakti movements) promote harmony",
+                    "Religious tolerance is deeply embedded in Indian society",
+                    "Coexistence of multiple belief systems without conflict",
+                    "Adaptation of cultural practices across communities"
+                ]
+            },
+            {
+                "heading": "Examples of Accommodation",
+                "points": [
+                    "Shared pilgrimage sites visited by multiple communities",
+                    "Fusion of cultural practices in festivals and rituals",
+                    "Influence of different religions on art, architecture, and music",
+                    "Local traditions blending with mainstream practices"
+                ]
+            },
+            {
+                "heading": "Tradition of Interdependence",
+                "points": [
+                    "Different communities depend on each other for economic and social needs",
+                    "Village economy based on mutual dependence among castes and occupations",
+                    "Pilgrimage centers involve multiple service providers (priests, vendors, transporters)",
+                    "Strengthens social cohesion and cooperation",
+                    "Encourages division of labor and specialization"
+                ]
+            },
+            {
+                "heading": "Importance of Interdependence",
+                "points": [
+                    "Ensures social stability and harmony",
+                    "Promotes economic cooperation",
+                    "Reduces isolation among communities",
+                    "Enhances inclusive development",
+                    "Builds mutual trust and understanding"
+                ]
+            },
+            {
+                "heading": "Challenges",
+                "points": [
+                    "Commercialization of pilgrimage sites",
+                    "Overcrowding and environmental degradation",
+                    "Communal tensions affecting shared spaces",
+                    "Decline in traditional values of tolerance",
+                    "Inequality in benefits from pilgrimage economy"
+                ]
+            },
+            {
+                "heading": "Reforms Needed",
+                "points": [
+                    "Promote sustainable pilgrimage practices",
+                    "Strengthen communal harmony initiatives",
+                    "Improve infrastructure and management of pilgrimage sites",
+                    "Encourage inclusive participation of local communities",
+                    "Preserve cultural and spiritual essence",
+                    "Enhance awareness about shared heritage"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Pilgrimage refers to:",
+                    "options": [
+                    "Trade activity",
+                    "Travel to sacred places",
+                    "Political movement",
+                    "Military expedition"
+                    ],
+                    "answer": "Travel to sacred places"
+                },
+                {
+                    "question": "Pilgrimage promotes:",
+                    "options": [
+                    "Isolation",
+                    "Unity",
+                    "Conflict",
+                    "Division"
+                    ],
+                    "answer": "Unity"
+                },
+                {
+                    "question": "Accommodation means:",
+                    "options": [
+                    "Conflict",
+                    "Adjustment and acceptance",
+                    "Isolation",
+                    "Domination"
+                    ],
+                    "answer": "Adjustment and acceptance"
+                },
+                {
+                    "question": "Interdependence refers to:",
+                    "options": [
+                    "Independence",
+                    "Mutual dependence",
+                    "Isolation",
+                    "Competition"
+                    ],
+                    "answer": "Mutual dependence"
+                },
+                {
+                    "question": "Pilgrimage sites support:",
+                    "options": [
+                    "Only religion",
+                    "Local economy",
+                    "Only politics",
+                    "Military activities"
+                    ],
+                    "answer": "Local economy"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which of the following reflects accommodation?",
+                    "options": [
+                    "Communal conflict",
+                    "Religious tolerance",
+                    "Isolation",
+                    "Discrimination"
+                    ],
+                    "answer": "Religious tolerance"
+                },
+                {
+                    "question": "Interdependence is seen in:",
+                    "options": [
+                    "Village economy",
+                    "Isolation",
+                    "Conflict",
+                    "Uniform society"
+                    ],
+                    "answer": "Village economy"
+                },
+                {
+                    "question": "Pilgrimage contributes to:",
+                    "options": [
+                    "Regional isolation",
+                    "Cultural exchange",
+                    "Conflict",
+                    "Uniformity"
+                    ],
+                    "answer": "Cultural exchange"
+                },
+                {
+                    "question": "A challenge to pilgrimage is:",
+                    "options": [
+                    "Unity",
+                    "Commercialization",
+                    "Cooperation",
+                    "Harmony"
+                    ],
+                    "answer": "Commercialization"
+                },
+                {
+                    "question": "Accommodation promotes:",
+                    "options": [
+                    "Conflict",
+                    "Coexistence",
+                    "Isolation",
+                    "Division"
+                    ],
+                    "answer": "Coexistence"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Pilgrimage promotes cultural exchange\n2. Accommodation ensures coexistence\n3. Interdependence weakens society",
+                    "options": [
+                    "1 only",
+                    "1 and 2 only",
+                    "1, 2 and 3",
+                    "2 only"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Tradition of interdependence leads to:",
+                    "options": [
+                    "Isolation",
+                    "Social cohesion",
+                    "Conflict",
+                    "Inequality"
+                    ],
+                    "answer": "Social cohesion"
+                },
+                {
+                    "question": "Syncretic culture is an example of:",
+                    "options": [
+                    "Conflict",
+                    "Accommodation",
+                    "Isolation",
+                    "Division"
+                    ],
+                    "answer": "Accommodation"
+                },
+                {
+                    "question": "Pilgrimage economy involves:",
+                    "options": [
+                    "Single occupation",
+                    "Multiple service providers",
+                    "Only priests",
+                    "No economic activity"
+                    ],
+                    "answer": "Multiple service providers"
+                },
+                {
+                    "question": "Key reform needed is:",
+                    "options": [
+                    "Promote commercialization",
+                    "Sustainable pilgrimage",
+                    "Reduce participation",
+                    "Encourage division"
+                    ],
+                    "answer": "Sustainable pilgrimage"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Indian Society – Role of Sensitive Leaders & Constitutional Safeguards",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Sensitive leadership and constitutional safeguards are crucial for maintaining unity in a diverse society",
+                    "Leaders play a key role in promoting inclusiveness, justice, and social harmony",
+                    "The Constitution of India provides safeguards for marginalized and vulnerable sections",
+                    "Constitution framers envisioned a just, equitable, and inclusive society"
+                ]
+            },
+            {
+                "heading": "Role of Sensitive Leaders",
+                "points": [
+                    "Promote inclusiveness and social justice",
+                    "Address grievances of marginalized communities",
+                    "Encourage dialogue and conflict resolution",
+                    "Ensure fair and equitable policy implementation",
+                    "Prevent misuse of identity politics",
+                    "Promote national integration and unity",
+                    "Uphold constitutional values like equality, liberty, and fraternity"
+                ]
+            },
+            {
+                "heading": "Qualities of Sensitive Leadership",
+                "points": [
+                    "Empathy towards weaker sections",
+                    "Commitment to justice and equality",
+                    "Transparency and accountability",
+                    "Responsiveness to public needs",
+                    "Secular and unbiased approach",
+                    "Strong ethical and moral values"
+                ]
+            },
+            {
+                "heading": "Importance of Sensitive Leadership",
+                "points": [
+                    "Reduces social conflicts and tensions",
+                    "Promotes inclusive development",
+                    "Builds trust between government and citizens",
+                    "Ensures effective governance",
+                    "Strengthens democracy"
+                ]
+            },
+            {
+                "heading": "Constitutional Safeguards",
+                "points": [
+                    "Fundamental Rights ensure equality and protection against discrimination",
+                    "Article 14 – Equality before law",
+                    "Article 15 – Prohibition of discrimination",
+                    "Article 17 – Abolition of untouchability",
+                    "Article 21 – Protection of life and personal liberty",
+                    "Reservations for SCs, STs, and OBCs in education and employment",
+                    "Special provisions for women, children, and minorities",
+                    "Fifth and Sixth Schedule protections for tribal areas"
+                ]
+            },
+            {
+                "heading": "Role of Constitution Framers",
+                "points": [
+                    "Vision of social justice and equality",
+                    "Incorporated Fundamental Rights and Directive Principles",
+                    "Ensured protection of minorities and backward classes",
+                    "Promoted secularism and democracy",
+                    "Balanced unity with diversity through federal structure",
+                    "Established independent institutions like judiciary for safeguarding rights"
+                ]
+            },
+            {
+                "heading": "Key Personalities and Contributions",
+                "points": [
+                    "Dr. B.R. Ambedkar – Architect of Constitution, champion of social justice",
+                    "Jawaharlal Nehru – Promoted secularism and democratic values",
+                    "Sardar Patel – Ensured political integration of India",
+                    "Rajendra Prasad – Guided Constituent Assembly as President"
+                ]
+            },
+            {
+                "heading": "Challenges",
+                "points": [
+                    "Political polarization and identity politics",
+                    "Weak implementation of safeguards",
+                    "Corruption and lack of accountability",
+                    "Social inequalities and discrimination",
+                    "Lack of awareness among citizens"
+                ]
+            },
+            {
+                "heading": "Reforms Needed",
+                "points": [
+                    "Strengthen ethical leadership and accountability",
+                    "Improve awareness about constitutional rights",
+                    "Ensure effective implementation of safeguards",
+                    "Promote inclusive and participatory governance",
+                    "Encourage civic education and values",
+                    "Strengthen institutions protecting rights"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Sensitive leaders promote:",
+                    "options": [
+                    "Conflict",
+                    "Inclusion",
+                    "Division",
+                    "Isolation"
+                    ],
+                    "answer": "Inclusion"
+                },
+                {
+                    "question": "Article 14 deals with:",
+                    "options": [
+                    "Freedom",
+                    "Equality",
+                    "Religion",
+                    "Education"
+                    ],
+                    "answer": "Equality"
+                },
+                {
+                    "question": "Untouchability is abolished under:",
+                    "options": [
+                    "Article 15",
+                    "Article 17",
+                    "Article 21",
+                    "Article 19"
+                    ],
+                    "answer": "Article 17"
+                },
+                {
+                    "question": "Father of Indian Constitution:",
+                    "options": [
+                    "Nehru",
+                    "Ambedkar",
+                    "Gandhi",
+                    "Patel"
+                    ],
+                    "answer": "Ambedkar"
+                },
+                {
+                    "question": "Constitution framers aimed at:",
+                    "options": [
+                    "Inequality",
+                    "Social justice",
+                    "Division",
+                    "Colonial rule"
+                    ],
+                    "answer": "Social justice"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Sensitive leadership helps in:",
+                    "options": [
+                    "Conflict escalation",
+                    "Conflict resolution",
+                    "Isolation",
+                    "Division"
+                    ],
+                    "answer": "Conflict resolution"
+                },
+                {
+                    "question": "Reservation policy is for:",
+                    "options": [
+                    "Rich people",
+                    "Marginalized sections",
+                    "Foreigners",
+                    "Only politicians"
+                    ],
+                    "answer": "Marginalized sections"
+                },
+                {
+                    "question": "Directive Principles aim at:",
+                    "options": [
+                    "Political justice",
+                    "Social and economic justice",
+                    "Military strength",
+                    "Trade expansion"
+                    ],
+                    "answer": "Social and economic justice"
+                },
+                {
+                    "question": "Secularism means:",
+                    "options": [
+                    "One religion",
+                    "Equal respect to all religions",
+                    "No religion allowed",
+                    "Religious domination"
+                    ],
+                    "answer": "Equal respect to all religions"
+                },
+                {
+                    "question": "A challenge to safeguards is:",
+                    "options": [
+                    "Awareness",
+                    "Weak implementation",
+                    "Equality",
+                    "Justice"
+                    ],
+                    "answer": "Weak implementation"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Constitution ensures equality\n2. Sensitive leaders promote harmony\n3. Safeguards eliminate all inequality",
+                    "options": [
+                    "1 only",
+                    "1 and 2 only",
+                    "1, 2 and 3",
+                    "2 only"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Which leader is known as the architect of Constitution?",
+                    "options": [
+                    "Nehru",
+                    "Patel",
+                    "Ambedkar",
+                    "Prasad"
+                    ],
+                    "answer": "Ambedkar"
+                },
+                {
+                    "question": "Federal structure helps in:",
+                    "options": [
+                    "Centralization",
+                    "Balancing unity and diversity",
+                    "Division",
+                    "Isolation"
+                    ],
+                    "answer": "Balancing unity and diversity"
+                },
+                {
+                    "question": "Key reform needed is:",
+                    "options": [
+                    "Reduce rights",
+                    "Strengthen implementation",
+                    "Increase inequality",
+                    "Centralize power"
+                    ],
+                    "answer": "Strengthen implementation"
+                },
+                {
+                    "question": "Sensitive leaders must uphold:",
+                    "options": [
+                    "Bias",
+                    "Constitutional values",
+                    "Division",
+                    "Conflict"
+                    ],
+                    "answer": "Constitutional values"
+                }
+            ]
+        }
+    }
+]

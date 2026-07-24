@@ -1,0 +1,552 @@
+[
+    {
+        "name": "Indian Society – Poverty: Dimensions, Development Linkage & Rangarajan Committee",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Poverty is a major socio-economic challenge affecting development in India",
+                    "It is multidimensional, going beyond income to include health, education, and living standards",
+                    "Closely linked with economic development and inequality",
+                    "Rangarajan Committee provided revised methodology for poverty estimation"
+                ]
+            },
+            {
+                "heading": "Concept of Poverty",
+                "points": [
+                    "Poverty refers to the inability to meet basic needs like food, clothing, and shelter",
+                    "Includes absolute poverty (minimum subsistence) and relative poverty (comparison with others)",
+                    "Measured using poverty line based on income or consumption",
+                    "Also includes social and human deprivation"
+                ]
+            },
+            {
+                "heading": "Dimensions of Poverty",
+                "points": [
+                    "Economic – low income and unemployment",
+                    "Social – lack of education and social exclusion",
+                    "Health – poor nutrition and healthcare access",
+                    "Living standards – lack of housing, sanitation, clean water",
+                    "Multidimensional Poverty Index (MPI) captures these aspects",
+                    "Reflects deprivation in multiple areas of life"
+                ]
+            },
+            {
+                "heading": "Linkage between Poverty and Development",
+                "points": [
+                    "Poverty hinders economic growth and productivity",
+                    "Low income leads to low investment in human capital",
+                    "High poverty reduces demand and slows economic development",
+                    "Development reduces poverty through job creation and income growth",
+                    "Inclusive growth is essential to break poverty cycle",
+                    "Strong correlation between human development and poverty reduction"
+                ]
+            },
+            {
+                "heading": "Vicious Cycle of Poverty",
+                "points": [
+                    "Low income → low savings → low investment → low productivity → low income",
+                    "Leads to intergenerational poverty",
+                    "Requires targeted interventions to break the cycle"
+                ]
+            },
+            {
+                "heading": "Rangarajan Committee (2014)",
+                "points": [
+                    "Set up to review poverty estimation methodology",
+                    "Suggested new poverty line based on higher consumption levels",
+                    "Urban poverty line: ₹47 per day; Rural poverty line: ₹32 per day (approx.)",
+                    "Used broader consumption basket including food, education, health, rent",
+                    "Estimated higher poverty ratio compared to earlier Tendulkar Committee"
+                ]
+            },
+            {
+                "heading": "Key Recommendations of Rangarajan Committee",
+                "points": [
+                    "Revised poverty line to reflect realistic consumption needs",
+                    "Inclusion of non-food expenditures (health, education)",
+                    "Separate poverty lines for rural and urban areas",
+                    "Improved data collection and methodology",
+                    "Focus on multidimensional aspects of poverty",
+                    "Better targeting of welfare schemes"
+                ]
+            },
+            {
+                "heading": "Criticism of Rangarajan Methodology",
+                "points": [
+                    "Poverty line still considered too low",
+                    "Over-reliance on consumption expenditure",
+                    "Does not fully capture multidimensional deprivation",
+                    "Debate over accuracy and relevance"
+                ]
+            },
+            {
+                "heading": "Measures to Reduce Poverty",
+                "points": [
+                    "Promote inclusive economic growth",
+                    "Employment generation programs (MGNREGA)",
+                    "Improve access to education and healthcare",
+                    "Strengthen social security systems",
+                    "Skill development and financial inclusion",
+                    "Targeted welfare schemes"
+                ]
+            },
+            {
+                "heading": "Reforms Needed",
+                "points": [
+                    "Adopt multidimensional approach to poverty",
+                    "Improve data and measurement techniques",
+                    "Ensure effective implementation of schemes",
+                    "Focus on human development",
+                    "Reduce regional disparities",
+                    "Strengthen governance and accountability"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Poverty refers to:",
+                    "options": [
+                        "High income",
+                        "Lack of basic needs",
+                        "Wealth accumulation",
+                        "Economic growth"
+                    ],
+                    "answer": "Lack of basic needs"
+                },
+                {
+                    "question": "MPI stands for:",
+                    "options": [
+                        "Minimum Poverty Index",
+                        "Multidimensional Poverty Index",
+                        "Maximum Poverty Index",
+                        "Medium Poverty Index"
+                    ],
+                    "answer": "Multidimensional Poverty Index"
+                },
+                {
+                    "question": "Rangarajan Committee was set up in:",
+                    "options": [
+                        "2005",
+                        "2010",
+                        "2014",
+                        "2018"
+                    ],
+                    "answer": "2014"
+                },
+                {
+                    "question": "Poverty affects:",
+                    "options": [
+                        "Only economy",
+                        "Only society",
+                        "Multiple dimensions",
+                        "None"
+                    ],
+                    "answer": "Multiple dimensions"
+                },
+                {
+                    "question": "Development helps in:",
+                    "options": [
+                        "Increasing poverty",
+                        "Reducing poverty",
+                        "Creating inequality",
+                        "Reducing growth"
+                    ],
+                    "answer": "Reducing poverty"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "A dimension of poverty is:",
+                    "options": [
+                        "Wealth",
+                        "Health",
+                        "Luxury",
+                        "Trade"
+                    ],
+                    "answer": "Health"
+                },
+                {
+                    "question": "Vicious cycle of poverty includes:",
+                    "options": [
+                        "High income",
+                        "Low investment",
+                        "High savings",
+                        "Growth"
+                    ],
+                    "answer": "Low investment"
+                },
+                {
+                    "question": "Rangarajan Committee included:",
+                    "options": [
+                        "Only food",
+                        "Food and non-food items",
+                        "Only income",
+                        "Only savings"
+                    ],
+                    "answer": "Food and non-food items"
+                },
+                {
+                    "question": "Inclusive growth means:",
+                    "options": [
+                        "Growth for few",
+                        "Growth for all",
+                        "No growth",
+                        "Unequal growth"
+                    ],
+                    "answer": "Growth for all"
+                },
+                {
+                    "question": "Poverty reduces:",
+                    "options": [
+                        "Productivity",
+                        "Growth",
+                        "Development",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Poverty is multidimensional\n2. Development reduces poverty\n3. Rangarajan Committee ignored non-food items",
+                    "options": [
+                        "1 only",
+                        "1 and 2 only",
+                        "1, 2 and 3",
+                        "2 only"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Which approach is best for poverty measurement?",
+                    "options": [
+                        "Single dimension",
+                        "Multidimensional",
+                        "Only income",
+                        "Only consumption"
+                    ],
+                    "answer": "Multidimensional"
+                },
+                {
+                    "question": "Key reform needed is:",
+                    "options": [
+                        "Ignore poverty",
+                        "Adopt multidimensional approach",
+                        "Reduce schemes",
+                        "Increase inequality"
+                    ],
+                    "answer": "Adopt multidimensional approach"
+                },
+                {
+                    "question": "Poverty cycle leads to:",
+                    "options": [
+                        "Growth",
+                        "Stagnation",
+                        "Development",
+                        "Equality"
+                    ],
+                    "answer": "Stagnation"
+                },
+                {
+                    "question": "Human development is linked to:",
+                    "options": [
+                        "Poverty reduction",
+                        "Inequality",
+                        "Conflict",
+                        "Division"
+                    ],
+                    "answer": "Poverty reduction"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Indian Society – Poverty Alleviation Strategy, Programmes & Inequality",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Poverty alleviation has been a central goal of India’s development strategy since Independence",
+                    "Approach has evolved from growth-focused to inclusive development",
+                    "Multiple programmes have been launched to reduce poverty and inequality",
+                    "Closely linked with concept of social and economic inequality"
+                ]
+            },
+            {
+                "heading": "Poverty Alleviation Strategy Since Independence",
+                "points": [
+                    "Initial focus (1950s–60s): Growth-oriented planning and industrialization",
+                    "1970s–80s: Direct poverty alleviation programmes introduced",
+                    "1990s: Economic reforms with focus on liberalization and targeted welfare",
+                    "2000s onwards: Inclusive growth and rights-based approach",
+                    "Shift from trickle-down to bottom-up development strategy"
+                ]
+            },
+            {
+                "heading": "Major Phases of Strategy",
+                "points": [
+                    "First Phase – Planned economic development",
+                    "Second Phase – Direct poverty eradication programmes",
+                    "Third Phase – Employment generation and self-employment schemes",
+                    "Fourth Phase – Rights-based welfare approach (MGNREGA, NFSA)"
+                ]
+            },
+            {
+                "heading": "Programmes for Poverty Alleviation",
+                "points": [
+                    "Integrated Rural Development Programme (IRDP)",
+                    "Jawahar Rozgar Yojana (JRY)",
+                    "Swarnajayanti Gram Swarozgar Yojana (SGSY)",
+                    "Pradhan Mantri Gram Sadak Yojana (PMGSY)",
+                    "MGNREGA – Employment guarantee scheme",
+                    "National Food Security Act (NFSA)",
+                    "Pradhan Mantri Awas Yojana (PMAY)"
+                ]
+            },
+            {
+                "heading": "Characteristics of Poverty Alleviation Programmes",
+                "points": [
+                    "Targeted approach for rural and urban poor",
+                    "Focus on employment generation",
+                    "Provision of basic amenities",
+                    "Skill development and self-employment",
+                    "Direct benefit transfer mechanisms",
+                    "Decentralized implementation"
+                ]
+            },
+            {
+                "heading": "Limitations of Poverty Alleviation Programmes",
+                "points": [
+                    "Leakages and corruption",
+                    "Poor targeting of beneficiaries",
+                    "Regional disparities in implementation",
+                    "Lack of awareness among beneficiaries",
+                    "Overlapping and fragmented schemes",
+                    "Limited impact in reducing structural poverty"
+                ]
+            },
+            {
+                "heading": "Concept of Inequality",
+                "points": [
+                    "Inequality refers to uneven distribution of resources, income, and opportunities",
+                    "Includes economic, social, and political inequality",
+                    "Can be measured in terms of income, wealth, education, and health access",
+                    "Closely linked with poverty and development",
+                    "Affects social cohesion and economic growth"
+                ]
+            },
+            {
+                "heading": "Types of Inequality",
+                "points": [
+                    "Income inequality – unequal distribution of income",
+                    "Wealth inequality – unequal ownership of assets",
+                    "Social inequality – based on caste, gender, religion",
+                    "Regional inequality – uneven development across regions",
+                    "Educational inequality – unequal access to education"
+                ]
+            },
+            {
+                "heading": "Causes of Inequality",
+                "points": [
+                    "Historical and structural factors",
+                    "Unequal access to education and skills",
+                    "Globalization and market forces",
+                    "Social discrimination",
+                    "Policy and governance gaps"
+                ]
+            },
+            {
+                "heading": "Impacts of Inequality",
+                "points": [
+                    "Slows down economic growth",
+                    "Creates social unrest and conflict",
+                    "Reduces social mobility",
+                    "Weakens democratic institutions",
+                    "Increases poverty persistence"
+                ]
+            },
+            {
+                "heading": "Measures to Reduce Inequality",
+                "points": [
+                    "Progressive taxation policies",
+                    "Inclusive growth strategies",
+                    "Education and skill development",
+                    "Social welfare schemes",
+                    "Regional development programs",
+                    "Strengthening labor rights and protections"
+                ]
+            },
+            {
+                "heading": "Reforms Needed",
+                "points": [
+                    "Improve targeting of welfare schemes",
+                    "Focus on human capital development",
+                    "Reduce regional disparities",
+                    "Strengthen redistribution mechanisms",
+                    "Enhance transparency and governance",
+                    "Promote equitable growth"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Poverty alleviation means:",
+                    "options": [
+                        "Increasing poverty",
+                        "Reducing poverty",
+                        "Maintaining poverty",
+                        "Ignoring poverty"
+                    ],
+                    "answer": "Reducing poverty"
+                },
+                {
+                    "question": "MGNREGA provides:",
+                    "options": [
+                        "Food security",
+                        "Employment guarantee",
+                        "Education",
+                        "Healthcare"
+                    ],
+                    "answer": "Employment guarantee"
+                },
+                {
+                    "question": "Inequality refers to:",
+                    "options": [
+                        "Equal distribution",
+                        "Unequal distribution",
+                        "No distribution",
+                        "Balanced growth"
+                    ],
+                    "answer": "Unequal distribution"
+                },
+                {
+                    "question": "PMAY is related to:",
+                    "options": [
+                        "Housing",
+                        "Health",
+                        "Education",
+                        "Employment"
+                    ],
+                    "answer": "Housing"
+                },
+                {
+                    "question": "Inclusive growth focuses on:",
+                    "options": [
+                        "Few people",
+                        "All sections of society",
+                        "Only rich",
+                        "Only poor"
+                    ],
+                    "answer": "All sections of society"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "A type of inequality is:",
+                    "options": [
+                        "Income inequality",
+                        "Trade equality",
+                        "Industrial equality",
+                        "Agricultural equality"
+                    ],
+                    "answer": "Income inequality"
+                },
+                {
+                    "question": "IRDP was aimed at:",
+                    "options": [
+                        "Urban development",
+                        "Rural poverty alleviation",
+                        "Industrial growth",
+                        "Foreign trade"
+                    ],
+                    "answer": "Rural poverty alleviation"
+                },
+                {
+                    "question": "A cause of inequality is:",
+                    "options": [
+                        "Equal education",
+                        "Social discrimination",
+                        "Balanced growth",
+                        "Fair policies"
+                    ],
+                    "answer": "Social discrimination"
+                },
+                {
+                    "question": "Regional inequality means:",
+                    "options": [
+                        "Equal development",
+                        "Uneven development",
+                        "No development",
+                        "Balanced economy"
+                    ],
+                    "answer": "Uneven development"
+                },
+                {
+                    "question": "SGSY is related to:",
+                    "options": [
+                        "Self-employment",
+                        "Defense",
+                        "Foreign policy",
+                        "Health"
+                    ],
+                    "answer": "Self-employment"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Poverty alleviation shifted from growth to inclusive approach\n2. Inequality affects economic growth\n3. MGNREGA is a self-employment scheme",
+                    "options": [
+                        "1 only",
+                        "1 and 2 only",
+                        "1, 2 and 3",
+                        "2 only"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Which of the following reduces inequality?",
+                    "options": [
+                        "Exclusion",
+                        "Progressive taxation",
+                        "Discrimination",
+                        "Fragmentation"
+                    ],
+                    "answer": "Progressive taxation"
+                },
+                {
+                    "question": "Key reform needed is:",
+                    "options": [
+                        "Increase inequality",
+                        "Promote inclusive growth",
+                        "Reduce welfare",
+                        "Encourage exclusion"
+                    ],
+                    "answer": "Promote inclusive growth"
+                },
+                {
+                    "question": "Structural poverty is linked to:",
+                    "options": [
+                        "Temporary issues",
+                        "Systemic inequality",
+                        "Short-term shocks",
+                        "Weather changes"
+                    ],
+                    "answer": "Systemic inequality"
+                },
+                {
+                    "question": "Economic inequality affects:",
+                    "options": [
+                        "Only income",
+                        "Growth and stability",
+                        "Only trade",
+                        "Only education"
+                    ],
+                    "answer": "Growth and stability"
+                }
+            ]
+        }
+    }
+]

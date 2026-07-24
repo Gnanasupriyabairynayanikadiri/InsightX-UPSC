@@ -1,0 +1,1821 @@
+TOPICS = [
+    {
+        "name": "Institutions & Policy (India’s S&T Policy: 1958, 1983, 2003)",
+        "notes": [
+            {
+                "heading": "Introduction to Science & Technology Policy in India",
+                "points": [
+                    "Science & Technology (S&T) policy guides national scientific development",
+                    "Focus is on innovation, research, and technological self-reliance",
+                    "Policies aim to integrate science with national development goals",
+                    "India has evolved its S&T policy through major reforms since independence",
+                    "Key policies: 1958, 1983, and 2003 resolutions"
+                ]
+            },
+            {
+                "heading": "Objectives of India’s S&T Policy",
+                "points": [
+                    "Promote scientific temper in society",
+                    "Achieve self-reliance in science and technology",
+                    "Develop indigenous technology",
+                    "Strengthen research and development (R&D)",
+                    "Use science for socio-economic development"
+                ]
+            },
+            {
+                "heading": "S&T Policy Resolution 1958 – Overview",
+                "points": [
+                    "First comprehensive S&T policy after independence",
+                    "Adopted under Prime Minister Jawaharlal Nehru",
+                    "Emphasized building scientific infrastructure",
+                    "Focused on basic scientific research",
+                    "Laid foundation for institutions like CSIR and DRDO expansion"
+                ]
+            },
+            {
+                "heading": "S&T Policy 1958 – Key Features",
+                "points": [
+                    "Promotion of scientific research in universities and institutes",
+                    "Development of nuclear and space research programs",
+                    "Strengthening of CSIR laboratories",
+                    "Focus on industrial and agricultural development",
+                    "Encouragement of trained scientific manpower"
+                ]
+            },
+            {
+                "heading": "S&T Policy 1958 – Significance",
+                "points": [
+                    "Established foundation of modern scientific institutions in India",
+                    "Encouraged scientific temper in nation-building",
+                    "Supported heavy industries and public sector development",
+                    "Created base for future space and nuclear programs",
+                    "Linked science with planning process"
+                ]
+            },
+            {
+                "heading": "S&T Policy 1983 – Overview",
+                "points": [
+                    "Adopted during Indira Gandhi government",
+                    "Focused on technological self-reliance",
+                    "Shift from basic research to application-oriented science",
+                    "Emphasis on using technology for development",
+                    "Strengthening of innovation ecosystem"
+                ]
+            },
+            {
+                "heading": "S&T Policy 1983 – Key Features",
+                "points": [
+                    "Focus on indigenous technology development",
+                    "Promotion of rural and small-scale technologies",
+                    "Encouragement of public-private collaboration",
+                    "Strengthening of biotechnology and electronics sectors",
+                    "Technology transfer and commercialization of research"
+                ]
+            },
+            {
+                "heading": "S&T Policy 1983 – Significance",
+                "points": [
+                    "Shifted focus from research to application",
+                    "Improved industrial competitiveness",
+                    "Encouraged technology adaptation for rural development",
+                    "Boosted electronics and IT sectors",
+                    "Strengthened link between science and economy"
+                ]
+            },
+            {
+                "heading": "S&T Policy 2003 – Overview",
+                "points": [
+                    "Adopted to meet global technological challenges",
+                    "Focus on innovation and knowledge economy",
+                    "Emphasis on globalization and competitiveness",
+                    "Encouragement of private sector participation",
+                    "Integration of science with global research networks"
+                ]
+            },
+            {
+                "heading": "S&T Policy 2003 – Key Features",
+                "points": [
+                    "Promotion of innovation-driven economy",
+                    "Strengthening of intellectual property rights (IPR)",
+                    "Encouragement of public-private partnerships",
+                    "Focus on information technology and biotechnology",
+                    "Integration of Indian science with global research"
+                ]
+            },
+            {
+                "heading": "S&T Policy 2003 – Significance",
+                "points": [
+                    "Aligned India with global knowledge economy",
+                    "Boosted IT and biotech industries",
+                    "Encouraged startups and innovation culture",
+                    "Improved international scientific collaboration",
+                    "Strengthened R&D funding and infrastructure"
+                ]
+            },
+            {
+                "heading": "Comparison of S&T Policies (1958 vs 1983 vs 2003)",
+                "points": [
+                    "1958: Focus on building scientific base",
+                    "1983: Focus on self-reliance and application",
+                    "2003: Focus on innovation and globalization",
+                    "Shift from state-driven to mixed economy model",
+                    "Increasing role of private sector over time"
+                ]
+            },
+            {
+                "heading": "Key Institutions in Indian S&T System",
+                "points": [
+                    "CSIR: Council of Scientific and Industrial Research",
+                    "ISRO: Indian Space Research Organisation",
+                    "DRDO: Defence Research and Development Organisation",
+                    "DBT: Department of Biotechnology",
+                    "DST: Department of Science and Technology"
+                ]
+            },
+            {
+                "heading": "Importance of S&T Policy in India",
+                "points": [
+                    "Drives national innovation and development",
+                    "Supports strategic sectors like defence and space",
+                    "Enhances global competitiveness",
+                    "Promotes scientific research culture",
+                    "Helps solve socio-economic challenges"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "First S&T policy in India was adopted in:",
+                    "options": [
+                    "1958",
+                    "1983",
+                    "2003",
+                    "1947"
+                    ],
+                    "answer": "1958"
+                },
+                {
+                    "question": "S&T policy of 1958 was introduced under:",
+                    "options": [
+                    "Indira Gandhi",
+                    "Jawaharlal Nehru",
+                    "Rajiv Gandhi",
+                    "Narendra Modi"
+                    ],
+                    "answer": "Jawaharlal Nehru"
+                },
+                {
+                    "question": "ISRO is related to:",
+                    "options": [
+                    "Defense research",
+                    "Space research",
+                    "Agriculture",
+                    "Education"
+                    ],
+                    "answer": "Space research"
+                },
+                {
+                    "question": "S&T policy of 2003 focuses on:",
+                    "options": [
+                    "Isolation",
+                    "Innovation and globalization",
+                    "Only agriculture",
+                    "Only defense"
+                    ],
+                    "answer": "Innovation and globalization"
+                },
+                {
+                    "question": "CSIR stands for:",
+                    "options": [
+                    "Central Science and Industrial Research",
+                    "Council of Scientific and Industrial Research",
+                    "Centre for Space Innovation Research",
+                    "Chemical Science Institute of Research"
+                    ],
+                    "answer": "Council of Scientific and Industrial Research"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "S&T policy 1983 emphasized:",
+                    "options": [
+                    "Import dependence",
+                    "Technological self-reliance",
+                    "No research",
+                    "Only defense science"
+                    ],
+                    "answer": "Technological self-reliance"
+                },
+                {
+                    "question": "DRDO is mainly related to:",
+                    "options": [
+                    "Space research",
+                    "Defense research",
+                    "Medical research",
+                    "Agriculture research"
+                    ],
+                    "answer": "Defense research"
+                },
+                {
+                    "question": "S&T policy 2003 promoted:",
+                    "options": [
+                    "Private sector participation",
+                    "Only government monopoly",
+                    "No innovation",
+                    "Import restrictions only"
+                    ],
+                    "answer": "Private sector participation"
+                },
+                {
+                    "question": "Biotechnology is promoted under:",
+                    "options": [
+                    "Only 1958 policy",
+                    "1983 and 2003 policies",
+                    "Only 2003 policy",
+                    "No policy"
+                    ],
+                    "answer": "1983 and 2003 policies"
+                },
+                {
+                    "question": "DST stands for:",
+                    "options": [
+                    "Department of Science and Technology",
+                    "Division of Space Technology",
+                    "Defense Science Team",
+                    "Department of Scientific Trade"
+                    ],
+                    "answer": "Department of Science and Technology"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. 1958 policy focused on building scientific base\n2. 1983 policy focused on application of technology\n3. 2003 policy focused on isolation",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "All"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                    "1958 – globalization focus",
+                    "1983 – self-reliance focus",
+                    "2003 – basic research only",
+                    "None of the above"
+                    ],
+                    "answer": "1983 – self-reliance focus"
+                },
+                {
+                    "question": "S&T policy 2003 is most associated with:",
+                    "options": [
+                    "Closed economy",
+                    "Knowledge economy",
+                    "Agrarian economy",
+                    "Colonial system"
+                    ],
+                    "answer": "Knowledge economy"
+                },
+                {
+                    "question": "CSIR mainly works in:",
+                    "options": [
+                    "Scientific and industrial research",
+                    "Military training",
+                    "Space missions",
+                    "Law enforcement"
+                    ],
+                    "answer": "Scientific and industrial research"
+                },
+                {
+                    "question": "Major shift across S&T policies is:",
+                    "options": [
+                    "Science to superstition",
+                    "Basic research → application → innovation",
+                    "Industry to agriculture only",
+                    "Decline in research"
+                    ],
+                    "answer": "Basic research → application → innovation"
+                }
+            ]
+        }
+    },
+    {
+        "name": "S&T Policy 2013 & Institutional Structure (DST, CSIR, Survey of India)",
+        "notes": [
+            {
+                "heading": "Introduction to S&T Policy 2013",
+                "points": [
+                    "The Science, Technology and Innovation Policy (STIP) 2013 was adopted to strengthen India’s innovation ecosystem",
+                    "Focus shifted from 'science and technology' to 'science, technology and innovation'",
+                    "Aimed at making India a global leader in science and knowledge economy",
+                    "Emphasized inclusive growth and societal development",
+                    "Promoted R&D investment and private sector participation"
+                ]
+            },
+            {
+                "heading": "Objectives of S&T Policy 2013",
+                "points": [
+                    "Increase Gross Expenditure on R&D (GERD) to 2% of GDP",
+                    "Promote innovation-driven economy",
+                    "Strengthen scientific infrastructure",
+                    "Encourage public-private partnerships",
+                    "Ensure science benefits all sections of society"
+                ]
+            },
+            {
+                "heading": "Key Features of S&T Policy 2013",
+                "points": [
+                    "Shift from knowledge generation to knowledge application",
+                    "Focus on innovation and entrepreneurship",
+                    "Strengthening of human resource development in science",
+                    "Promotion of intellectual property rights (IPR)",
+                    "Integration of science with industry and society"
+                ]
+            },
+            {
+                "heading": "Significance of S&T Policy 2013",
+                "points": [
+                    "Encouraged innovation-led economic growth",
+                    "Boosted startup ecosystem in science and technology",
+                    "Enhanced India’s global scientific competitiveness",
+                    "Improved research collaboration (national and international)",
+                    "Focused on solving societal challenges using science"
+                ]
+            },
+            {
+                "heading": "Institutional Structure of S&T in India – Overview",
+                "points": [
+                    "India has a multi-layered institutional framework for science and technology",
+                    "Includes central government departments, research bodies, and autonomous institutions",
+                    "Key bodies: DST, CSIR, ISRO, DRDO, Survey of India, etc.",
+                    "Each institution has specialized roles in research and development",
+                    "Works under Ministry of Science and Technology or related ministries"
+                ]
+            },
+            {
+                "heading": "Department of Science and Technology (DST)",
+                "points": [
+                    "Established in 1971 under Government of India",
+                    "Nodal agency for science and technology development",
+                    "Under Ministry of Science and Technology",
+                    "Supports R&D and innovation in various sectors",
+                    "Coordinates scientific activities across institutions"
+                ]
+            },
+            {
+                "heading": "Functions of DST",
+                "points": [
+                    "Formulation and implementation of S&T policies",
+                    "Funding research projects and institutions",
+                    "Promotion of scientific research and innovation",
+                    "Support for startups and technology incubation",
+                    "Development of scientific manpower and infrastructure"
+                ]
+            },
+            {
+                "heading": "Major Programs under DST",
+                "points": [
+                    "INSPIRE (Innovation in Science Pursuit for Inspired Research)",
+                    "SERB (Science and Engineering Research Board)",
+                    "National Mission on Interdisciplinary Cyber-Physical Systems",
+                    "Technology Development Programmes",
+                    "Support for Women in Science initiatives"
+                ]
+            },
+            {
+                "heading": "CSIR (Council of Scientific and Industrial Research)",
+                "points": [
+                    "Established in 1942",
+                    "One of the largest R&D organizations in India",
+                    "Autonomous body under Ministry of Science and Technology",
+                    "Network of national laboratories across India",
+                    "Focus on industrial and applied research"
+                ]
+            },
+            {
+                "heading": "Functions of CSIR",
+                "points": [
+                    "Conducts scientific and industrial research",
+                    "Develops technologies for industries",
+                    "Provides solutions to national problems",
+                    "Promotes innovation and patents",
+                    "Collaborates with industries and universities"
+                ]
+            },
+            {
+                "heading": "Major Areas of CSIR Research",
+                "points": [
+                    "Biotechnology and pharmaceuticals",
+                    "Chemicals and materials science",
+                    "Environmental science",
+                    "Food and agriculture technology",
+                    "Energy and engineering sciences"
+                ]
+            },
+            {
+                "heading": "Significance of CSIR",
+                "points": [
+                    "Bridges gap between science and industry",
+                    "Major contributor to patents in India",
+                    "Supports Make in India initiative",
+                    "Enhances technological self-reliance",
+                    "Provides solutions for societal challenges"
+                ]
+            },
+            {
+                "heading": "Survey of India – Overview",
+                "points": [
+                    "Oldest scientific department in India (established in 1767)",
+                    "National mapping agency of India",
+                    "Functions under Department of Science and Technology",
+                    "Responsible for topographical surveys and mapping",
+                    "Headquarters in Dehradun"
+                ]
+            },
+            {
+                "heading": "Functions of Survey of India",
+                "points": [
+                    "Preparation of topographical maps of India",
+                    "Geodetic and cartographic surveys",
+                    "Border mapping and boundary demarcation",
+                    "Supports defense and infrastructure planning",
+                    "Provides geospatial data for governance"
+                ]
+            },
+            {
+                "heading": "Importance of Survey of India",
+                "points": [
+                    "Provides accurate geographical data for planning",
+                    "Critical for defense and security operations",
+                    "Supports disaster management and urban planning",
+                    "Helps in infrastructure development projects",
+                    "Key role in national mapping and GIS systems"
+                ]
+            },
+            {
+                "heading": "Comparison of Key Institutions",
+                "points": [
+                    "DST: Policy formulation and funding of S&T",
+                    "CSIR: Applied and industrial research",
+                    "Survey of India: Mapping and geospatial data",
+                    "All contribute to national scientific development",
+                    "Each has distinct but complementary roles"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "S&T Policy 2013 focuses on:",
+                    "options": [
+                    "Only agriculture",
+                    "Innovation and knowledge economy",
+                    "Only defense research",
+                    "No research development"
+                    ],
+                    "answer": "Innovation and knowledge economy"
+                },
+                {
+                    "question": "DST stands for:",
+                    "options": [
+                    "Department of Science and Technology",
+                    "Division of Space Technology",
+                    "Defense Science Team",
+                    "Development Science Trust"
+                    ],
+                    "answer": "Department of Science and Technology"
+                },
+                {
+                    "question": "CSIR was established in:",
+                    "options": [
+                    "1942",
+                    "1958",
+                    "1971",
+                    "2003"
+                    ],
+                    "answer": "1942"
+                },
+                {
+                    "question": "Survey of India is responsible for:",
+                    "options": [
+                    "Space missions",
+                    "Mapping and surveying",
+                    "Defense manufacturing",
+                    "Medical research"
+                    ],
+                    "answer": "Mapping and surveying"
+                },
+                {
+                    "question": "CSIR works under:",
+                    "options": [
+                    "Ministry of Defence",
+                    "Ministry of Science and Technology",
+                    "Ministry of Home Affairs",
+                    "NITI Aayog"
+                    ],
+                    "answer": "Ministry of Science and Technology"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "S&T Policy 2013 introduced emphasis on:",
+                    "options": [
+                    "Isolation",
+                    "Innovation",
+                    "Import dependency",
+                    "Agriculture only"
+                    ],
+                    "answer": "Innovation"
+                },
+                {
+                    "question": "Main role of DST is:",
+                    "options": [
+                    "Military operations",
+                    "Policy and funding of science",
+                    "Law enforcement",
+                    "Trade regulation"
+                    ],
+                    "answer": "Policy and funding of science"
+                },
+                {
+                    "question": "CSIR primarily focuses on:",
+                    "options": [
+                    "Basic education",
+                    "Industrial research",
+                    "Political science",
+                    "Judiciary reforms"
+                    ],
+                    "answer": "Industrial research"
+                },
+                {
+                    "question": "Survey of India headquarters is in:",
+                    "options": [
+                    "New Delhi",
+                    "Mumbai",
+                    "Dehradun",
+                    "Kolkata"
+                    ],
+                    "answer": "Dehradun"
+                },
+                {
+                    "question": "INSPIRE program is associated with:",
+                    "options": [
+                    "ISRO",
+                    "DST",
+                    "DRDO",
+                    "CSIR only"
+                    ],
+                    "answer": "DST"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. CSIR is involved in industrial research\n2. DST formulates science policies\n3. Survey of India conducts space missions",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "All"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                    "DST – mapping agency",
+                    "CSIR – industrial research",
+                    "Survey of India – biotechnology research",
+                    "ISRO – chemical research"
+                    ],
+                    "answer": "CSIR – industrial research"
+                },
+                {
+                    "question": "S&T Policy 2013 added focus on:",
+                    "options": [
+                    "Knowledge destruction",
+                    "Innovation and entrepreneurship",
+                    "Agrarian economy only",
+                    "Import restrictions"
+                    ],
+                    "answer": "Innovation and entrepreneurship"
+                },
+                {
+                    "question": "Survey of India is important for:",
+                    "options": [
+                    "Space travel",
+                    "Geospatial mapping",
+                    "Pharmaceutical production",
+                    "Banking regulation"
+                    ],
+                    "answer": "Geospatial mapping"
+                },
+                {
+                    "question": "CSIR contributes significantly to:",
+                    "options": [
+                    "Patents and innovation",
+                    "Military operations only",
+                    "Judicial reforms",
+                    "Foreign policy"
+                    ],
+                    "answer": "Patents and innovation"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Institutions: SERC, TDB, NABL & Human Resource Development",
+        "notes": [
+            {
+                "heading": "Introduction to S&T Institutional Support System",
+                "points": [
+                    "India’s S&T ecosystem is supported by multiple funding and regulatory bodies",
+                    "These institutions promote research, innovation, and quality standards",
+                    "They bridge science, industry, and academia",
+                    "Key bodies include SERC, TDB, NABL, and DST-linked programs",
+                    "They also contribute to human resource development in science"
+                ]
+            },
+            {
+                "heading": "Science and Engineering Research Council (SERC) – Overview",
+                "points": [
+                    "SERC is a core funding body under the Department of Science and Technology (DST)",
+                    "Established to promote basic research in science and engineering",
+                    "Supports individual researchers and institutions",
+                    "Focus on high-quality scientific research projects",
+                    "Encourages innovation and advanced scientific studies"
+                ]
+            },
+            {
+                "heading": "Functions of SERC",
+                "points": [
+                    "Provides financial support for research projects",
+                    "Encourages interdisciplinary research",
+                    "Supports young scientists and fellowships",
+                    "Funds national research initiatives",
+                    "Promotes excellence in basic and applied sciences"
+                ]
+            },
+            {
+                "heading": "Significance of SERC",
+                "points": [
+                    "Strengthens India’s basic research ecosystem",
+                    "Encourages scientific innovation",
+                    "Supports academic institutions and universities",
+                    "Develops scientific talent pool",
+                    "Contributes to long-term technological advancement"
+                ]
+            },
+            {
+                "heading": "Technology Development Board (TDB) – Overview",
+                "points": [
+                    "Established in 1996 under the Department of Science and Technology",
+                    "Promotes commercialization of indigenous technology",
+                    "Provides financial assistance for technology development",
+                    "Supports industry and research institutions",
+                    "Focus on bridging lab-to-market gap"
+                ]
+            },
+            {
+                "heading": "Functions of TDB",
+                "points": [
+                    "Funds technology development projects",
+                    "Encourages public-private partnerships",
+                    "Promotes commercialization of research outputs",
+                    "Supports startups and innovation-driven enterprises",
+                    "Facilitates transfer of technology from labs to industry"
+                ]
+            },
+            {
+                "heading": "Significance of TDB",
+                "points": [
+                    "Helps convert research into marketable products",
+                    "Boosts indigenous technology development",
+                    "Supports Make in India initiative",
+                    "Encourages innovation ecosystem",
+                    "Reduces dependency on foreign technology"
+                ]
+            },
+            {
+                "heading": "National Accreditation Board for Testing and Calibration Laboratories (NABL) – Overview",
+                "points": [
+                    "NABL is an autonomous body under Quality Council of India (QCI)",
+                    "Provides accreditation to testing and calibration laboratories",
+                    "Ensures reliability and accuracy of lab results",
+                    "Operates under internationally accepted standards",
+                    "Promotes quality assurance in scientific testing"
+                ]
+            },
+            {
+                "heading": "Functions of NABL",
+                "points": [
+                    "Accredits laboratories for testing and calibration",
+                    "Ensures compliance with international standards (ISO/IEC)",
+                    "Improves credibility of test results",
+                    "Facilitates trade and exports through quality assurance",
+                    "Supports healthcare, industry, and environmental testing"
+                ]
+            },
+            {
+                "heading": "Significance of NABL",
+                "points": [
+                    "Ensures quality control in scientific measurements",
+                    "Builds trust in lab results nationally and internationally",
+                    "Supports industries in global trade compliance",
+                    "Improves healthcare diagnostics reliability",
+                    "Strengthens India’s quality infrastructure"
+                ]
+            },
+            {
+                "heading": "Science and Technology as a Source of Human Resource Development – Overview",
+                "points": [
+                    "S&T plays a key role in developing skilled human capital",
+                    "Education and research institutions produce scientific manpower",
+                    "Training programs enhance technical skills",
+                    "Innovation culture improves employability",
+                    "Supports knowledge-based economy"
+                ]
+            },
+            {
+                "heading": "Role of S&T in Human Resource Development",
+                "points": [
+                    "Development of scientists, engineers, and researchers",
+                    "STEM education promotion in schools and universities",
+                    "Fellowships and scholarships for students",
+                    "Skill development in emerging technologies",
+                    "Encouragement of research-oriented careers"
+                ]
+            },
+            {
+                "heading": "Government Initiatives for S&T Human Resource Development",
+                "points": [
+                    "INSPIRE program (DST) for young scientists",
+                    "CSIR scholarships and fellowships",
+                    "Atal Innovation Mission for startups",
+                    "Skill India initiatives in technical fields",
+                    "Research internships and training programs"
+                ]
+            },
+            {
+                "heading": "Importance of Human Resource Development in S&T",
+                "points": [
+                    "Creates skilled scientific workforce",
+                    "Drives innovation and economic growth",
+                    "Enhances global competitiveness",
+                    "Supports industrial and technological advancement",
+                    "Reduces brain drain through opportunities in India"
+                ]
+            },
+            {
+                "heading": "Comparison of Institutions",
+                "points": [
+                    "SERC: Basic research funding",
+                    "TDB: Technology commercialization",
+                    "NABL: Quality assurance and accreditation",
+                    "All contribute to strengthening S&T ecosystem",
+                    "Together support innovation and development cycle"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "SERC is associated with:",
+                    "options": [
+                    "Space research",
+                    "Basic science research funding",
+                    "Defense manufacturing",
+                    "Agriculture only"
+                    ],
+                    "answer": "Basic science research funding"
+                },
+                {
+                    "question": "TDB was established in:",
+                    "options": [
+                    "1958",
+                    "1983",
+                    "1996",
+                    "2003"
+                    ],
+                    "answer": "1996"
+                },
+                {
+                    "question": "NABL is related to:",
+                    "options": [
+                    "Space exploration",
+                    "Laboratory accreditation",
+                    "Military training",
+                    "Tax collection"
+                    ],
+                    "answer": "Laboratory accreditation"
+                },
+                {
+                    "question": "TDB mainly promotes:",
+                    "options": [
+                    "Import dependence",
+                    "Commercialization of technology",
+                    "Only basic research",
+                    "Military operations"
+                    ],
+                    "answer": "Commercialization of technology"
+                },
+                {
+                    "question": "S&T contributes to human resource development by:",
+                    "options": [
+                    "Reducing education",
+                    "Developing skilled manpower",
+                    "Stopping research",
+                    "Limiting innovation"
+                    ],
+                    "answer": "Developing skilled manpower"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "SERC is under:",
+                    "options": [
+                    "ISRO",
+                    "DST",
+                    "DRDO",
+                    "CSIR"
+                    ],
+                    "answer": "DST"
+                },
+                {
+                    "question": "NABL operates under:",
+                    "options": [
+                    "Ministry of Defence",
+                    "Quality Council of India",
+                    "DST",
+                    "CSIR"
+                    ],
+                    "answer": "Quality Council of India"
+                },
+                {
+                    "question": "TDB supports:",
+                    "options": [
+                    "Lab-to-market technology transfer",
+                    "Only academic research",
+                    "Military warfare",
+                    "Judicial reforms"
+                    ],
+                    "answer": "Lab-to-market technology transfer"
+                },
+                {
+                    "question": "INSPIRE program is linked to:",
+                    "options": [
+                    "DRDO",
+                    "DST",
+                    "ISRO",
+                    "NABL"
+                    ],
+                    "answer": "DST"
+                },
+                {
+                    "question": "NABL ensures:",
+                    "options": [
+                    "Scientific fraud",
+                    "Accurate laboratory testing",
+                    "Military security",
+                    "Space missions"
+                    ],
+                    "answer": "Accurate laboratory testing"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. SERC funds basic research\n2. TDB promotes commercialization\n3. NABL conducts space missions",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "All"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                    "SERC – lab accreditation",
+                    "TDB – technology commercialization",
+                    "NABL – space research",
+                    "DST – defense production"
+                    ],
+                    "answer": "TDB – technology commercialization"
+                },
+                {
+                    "question": "Human resource development in S&T includes:",
+                    "options": [
+                    "Only military training",
+                    "Skill development and research training",
+                    "No education programs",
+                    "Import of scientists only"
+                    ],
+                    "answer": "Skill development and research training"
+                },
+                {
+                    "question": "NABL accreditation ensures:",
+                    "options": [
+                    "Political stability",
+                    "Quality assurance in labs",
+                    "Agricultural production",
+                    "Space launches"
+                    ],
+                    "answer": "Quality assurance in labs"
+                },
+                {
+                    "question": "TDB mainly bridges gap between:",
+                    "options": [
+                    "Government and judiciary",
+                    "Laboratory research and industry",
+                    "Schools and colleges",
+                    "Army and police"
+                    ],
+                    "answer": "Laboratory research and industry"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Awards, National Initiatives & Global Collaboration in Science",
+        "notes": [
+            {
+                "heading": "Introduction to Science Awards and Initiatives",
+                "points": [
+                    "Science awards recognize excellence in research and innovation",
+                    "National initiatives align science with development goals",
+                    "International collaboration strengthens India’s scientific ecosystem",
+                    "Together they promote innovation, knowledge sharing, and capacity building",
+                    "Important for India’s position in global science landscape"
+                ]
+            },
+            {
+                "heading": "Major Science Awards in India",
+                "points": [
+                    "Shanti Swarup Bhatnagar Prize: highest science award in India",
+                    "Given by CSIR for excellence in science and technology research",
+                    "Kalam Innovation in Governance Award: promotes innovation in public systems",
+                    "Vigyan Ratna/Vigyan Shri awards (proposed under science recognition framework)",
+                    "INSPIRE Awards: for young innovators in school education"
+                ]
+            },
+            {
+                "heading": "Shanti Swarup Bhatnagar Prize – Overview",
+                "points": [
+                    "Instituted in 1958 by CSIR",
+                    "Named after first Director-General of CSIR",
+                    "Awarded for outstanding research in science and technology",
+                    "Given in multiple disciplines like physics, chemistry, biology, engineering",
+                    "Highly prestigious for Indian scientists"
+                ]
+            },
+            {
+                "heading": "Significance of Science Awards",
+                "points": [
+                    "Encourage scientific research and innovation",
+                    "Recognize talent and excellence",
+                    "Motivate young researchers",
+                    "Enhance India’s global scientific reputation",
+                    "Support culture of innovation"
+                ]
+            },
+            {
+                "heading": "New Initiatives Aligned with National Agenda – Overview",
+                "points": [
+                    "India’s science policy aligns with national development goals",
+                    "Focus on Atmanirbhar Bharat (self-reliant India)",
+                    "Emphasis on innovation, digital economy, and sustainability",
+                    "Encourages integration of science with governance",
+                    "Promotes public-private and academic collaboration"
+                ]
+            },
+            {
+                "heading": "Key National Science Initiatives",
+                "points": [
+                    "Make in India: promotes indigenous technology and manufacturing",
+                    "Digital India: focuses on IT infrastructure and digital innovation",
+                    "Atal Innovation Mission: supports startups and innovation hubs",
+                    "National Mission on Interdisciplinary Cyber-Physical Systems",
+                    "Startup India: encourages entrepreneurship in science and tech"
+                ]
+            },
+            {
+                "heading": "Science for Sustainable Development",
+                "points": [
+                    "Focus on clean energy and climate change solutions",
+                    "Development of renewable energy technologies",
+                    "Sustainable agriculture innovations",
+                    "Water conservation technologies",
+                    "Green technology adoption in industries"
+                ]
+            },
+            {
+                "heading": "Role of Government in S&T Initiatives",
+                "points": [
+                    "Funding research and innovation programs",
+                    "Creating incubation centers and startup ecosystems",
+                    "Encouraging private sector participation",
+                    "Strengthening scientific education and skill development",
+                    "Supporting interdisciplinary research"
+                ]
+            },
+            {
+                "heading": "India and World Collaboration in Science Projects – Overview",
+                "points": [
+                    "India collaborates with multiple countries and global institutions",
+                    "Focus on space, climate change, health, and nuclear energy",
+                    "Enhances knowledge exchange and technology transfer",
+                    "Strengthens India’s global scientific presence",
+                    "Supports joint research and innovation"
+                ]
+            },
+            {
+                "heading": "Major International Collaborations",
+                "points": [
+                    "ISRO-NASA collaboration on satellite missions",
+                    "India-European Union cooperation in climate research",
+                    "India-Russia partnership in nuclear energy and space",
+                    "ITER project (International Thermonuclear Experimental Reactor)",
+                    "WHO collaborations in health and biotechnology"
+                ]
+            },
+            {
+                "heading": "India in Global Research Programs",
+                "points": [
+                    "Member of International Space collaborations",
+                    "Participates in CERN (nuclear research)",
+                    "Contributor to global climate change studies",
+                    "Engaged in Arctic and Antarctic research missions",
+                    "Active in WHO and UN science programs"
+                ]
+            },
+            {
+                "heading": "Significance of Global Collaboration",
+                "points": [
+                    "Access to advanced technologies",
+                    "Shared research and development costs",
+                    "Improved scientific capacity building",
+                    "Faster innovation and discovery",
+                    "Strengthens diplomatic relations through science diplomacy"
+                ]
+            },
+            {
+                "heading": "Science Diplomacy",
+                "points": [
+                    "Use of science cooperation to strengthen international relations",
+                    "Promotes peaceful collaboration between countries",
+                    "Enhances India’s soft power globally",
+                    "Supports global problem-solving (climate, health, energy)",
+                    "Important tool in foreign policy"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Highest science award in India is:",
+                    "options": [
+                    "Bharat Ratna",
+                    "Shanti Swarup Bhatnagar Prize",
+                    "Padma Shri",
+                    "Nobel Prize"
+                    ],
+                    "answer": "Shanti Swarup Bhatnagar Prize"
+                },
+                {
+                    "question": "Shanti Swarup Bhatnagar Prize is given by:",
+                    "options": [
+                    "ISRO",
+                    "CSIR",
+                    "DST",
+                    "DRDO"
+                    ],
+                    "answer": "CSIR"
+                },
+                {
+                    "question": "Make in India focuses on:",
+                    "options": [
+                    "Import dependency",
+                    "Indigenous manufacturing",
+                    "Only agriculture",
+                    "Space exploration only"
+                    ],
+                    "answer": "Indigenous manufacturing"
+                },
+                {
+                    "question": "ITER project is related to:",
+                    "options": [
+                    "Nuclear fusion research",
+                    "Space tourism",
+                    "AI development",
+                    "Agriculture"
+                    ],
+                    "answer": "Nuclear fusion research"
+                },
+                {
+                    "question": "Atal Innovation Mission promotes:",
+                    "options": [
+                    "War technology",
+                    "Startups and innovation",
+                    "Tax collection",
+                    "Judicial reforms"
+                    ],
+                    "answer": "Startups and innovation"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Science diplomacy refers to:",
+                    "options": [
+                    "Military science",
+                    "Using science cooperation for international relations",
+                    "Trade restrictions",
+                    "Space warfare"
+                    ],
+                    "answer": "Using science cooperation for international relations"
+                },
+                {
+                    "question": "India collaborates with NASA in:",
+                    "options": [
+                    "Defense production",
+                    "Satellite missions",
+                    "Agriculture only",
+                    "Railways"
+                    ],
+                    "answer": "Satellite missions"
+                },
+                {
+                    "question": "Startup India is linked to:",
+                    "options": [
+                    "Innovation and entrepreneurship",
+                    "Military operations",
+                    "Tax reforms only",
+                    "Judicial system"
+                    ],
+                    "answer": "Innovation and entrepreneurship"
+                },
+                {
+                    "question": "CERN is related to:",
+                    "options": [
+                    "Space research",
+                    "Nuclear research",
+                    "Agriculture",
+                    "Meteorology"
+                    ],
+                    "answer": "Nuclear research"
+                },
+                {
+                    "question": "INSPIRE awards are meant for:",
+                    "options": [
+                    "Scientists only",
+                    "School students",
+                    "Army officers",
+                    "Politicians"
+                    ],
+                    "answer": "School students"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. ITER is related to nuclear fusion\n2. CSIR gives Bhatnagar Prize\n3. Make in India promotes import substitution",
+                    "options": [
+                    "1 and 3 only",
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "All"
+                    ],
+                    "answer": "All"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                    "NASA – agriculture research",
+                    "CERN – nuclear research",
+                    "ISRO – judicial reforms",
+                    "WHO – space exploration"
+                    ],
+                    "answer": "CERN – nuclear research"
+                },
+                {
+                    "question": "Science diplomacy helps in:",
+                    "options": [
+                    "Increasing wars",
+                    "International cooperation",
+                    "Reducing education",
+                    "Stopping innovation"
+                    ],
+                    "answer": "International cooperation"
+                },
+                {
+                    "question": "Atal Innovation Mission is part of:",
+                    "options": [
+                    "NITI Aayog",
+                    "DRDO",
+                    "ISRO",
+                    "CSIR"
+                    ],
+                    "answer": "NITI Aayog"
+                },
+                {
+                    "question": "Global scientific collaboration helps in:",
+                    "options": [
+                    "Isolation",
+                    "Faster innovation",
+                    "Reducing knowledge",
+                    "Blocking research"
+                    ],
+                    "answer": "Faster innovation"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Technology Vision 2035 & National Biotechnology Development Strategy (2015–2020)",
+        "notes": [
+            {
+                "heading": "Introduction to Long-Term Science & Technology Planning",
+                "points": [
+                    "India uses long-term vision documents to guide scientific development",
+                    "These plans align technology with national security and socio-economic goals",
+                    "Focus areas include health, energy, agriculture, and defence",
+                    "Vision documents help anticipate future technological needs",
+                    "They guide research institutions and policy frameworks"
+                ]
+            },
+            {
+                "heading": "Technology Vision Document 2035 – Overview",
+                "points": [
+                    "Prepared by the Office of the Principal Scientific Adviser to Government of India",
+                    "Provides a roadmap for India’s technological development up to 2035",
+                    "Focuses on improving quality of life and national security",
+                    "Emphasizes inclusive and sustainable development",
+                    "Integrates science, technology, and innovation with governance"
+                ]
+            },
+            {
+                "heading": "Objectives of Technology Vision 2035",
+                "points": [
+                    "Ensure safety, security, and well-being of citizens",
+                    "Strengthen national defence and strategic capabilities",
+                    "Promote sustainable development and environmental protection",
+                    "Improve healthcare, education, and agriculture through technology",
+                    "Enhance India’s global technological leadership"
+                ]
+            },
+            {
+                "heading": "Key Focus Areas of Technology Vision 2035",
+                "points": [
+                    "National security and defence technologies",
+                    "Health and biotechnology innovations",
+                    "Food security and sustainable agriculture",
+                    "Energy security and renewable energy",
+                    "Urban infrastructure and smart cities",
+                    "Environmental sustainability and climate resilience"
+                ]
+            },
+            {
+                "heading": "Significance of Technology Vision 2035",
+                "points": [
+                    "Provides long-term strategic direction for R&D",
+                    "Aligns technology with national priorities",
+                    "Encourages innovation ecosystem development",
+                    "Strengthens India’s self-reliance in critical technologies",
+                    "Supports policy-making in emerging technologies"
+                ]
+            },
+            {
+                "heading": "Institutional Support for Technology Vision 2035",
+                "points": [
+                    "Office of Principal Scientific Adviser (PSA) coordinates implementation",
+                    "DST, CSIR, DRDO, ISRO contribute to sectoral goals",
+                    "Collaboration with academic institutions and industry",
+                    "Encouragement of public-private partnerships",
+                    "Integration with national missions and policies"
+                ]
+            },
+            {
+                "heading": "National Biotechnology Development Strategy 2015–2020 – Overview",
+                "points": [
+                    "Launched by Department of Biotechnology (DBT)",
+                    "Aimed at making India a global biotech hub",
+                    "Focus on innovation, research, and commercialization",
+                    "Strengthens biotech ecosystem in agriculture, health, and industry",
+                    "Encourages startup culture in biotechnology"
+                ]
+            },
+            {
+                "heading": "Objectives of Biotechnology Strategy 2015–2020",
+                "points": [
+                    "Promote biotechnology innovation and research",
+                    "Enhance human resource development in biotech",
+                    "Increase industrial applications of biotechnology",
+                    "Strengthen biotech infrastructure and funding",
+                    "Encourage global collaboration in biotechnology"
+                ]
+            },
+            {
+                "heading": "Key Features of Biotechnology Strategy",
+                "points": [
+                    "Establishment of biotech parks and incubators",
+                    "Promotion of bio-pharmaceuticals and vaccines",
+                    "Focus on agricultural biotechnology and GM crops",
+                    "Support for bioinformatics and industrial biotechnology",
+                    "Encouragement of startups and entrepreneurship in biotech"
+                ]
+            },
+            {
+                "heading": "Major Areas Covered in Biotechnology Strategy",
+                "points": [
+                    "Healthcare biotechnology (vaccines, diagnostics, drugs)",
+                    "Agricultural biotechnology (crop improvement, GM crops)",
+                    "Industrial biotechnology (biofuels, enzymes)",
+                    "Environmental biotechnology (waste management, pollution control)",
+                    "Marine and animal biotechnology"
+                ]
+            },
+            {
+                "heading": "Significance of Biotechnology Strategy",
+                "points": [
+                    "Improves healthcare and disease management",
+                    "Enhances agricultural productivity and food security",
+                    "Promotes green and sustainable technologies",
+                    "Reduces dependence on chemical-based industries",
+                    "Creates employment and startup opportunities"
+                ]
+            },
+            {
+                "heading": "Comparison: Technology Vision 2035 vs Biotechnology Strategy 2015–2020",
+                "points": [
+                    "Vision 2035: broad national technological roadmap",
+                    "Biotech Strategy: sector-specific policy for biotechnology",
+                    "Vision 2035 includes defence, energy, and infrastructure",
+                    "Biotech strategy focuses on life sciences and biology-based technologies",
+                    "Both emphasize innovation and global competitiveness"
+                ]
+            },
+            {
+                "heading": "Role of Government in Implementation",
+                "points": [
+                    "Funding research and innovation programs",
+                    "Creating biotech and tech incubators",
+                    "Encouraging private sector participation",
+                    "Supporting international collaborations",
+                    "Promoting skill development in science and technology"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Technology Vision 2035 focuses on:",
+                    "options": [
+                    "Only agriculture",
+                    "National development through technology",
+                    "Only space missions",
+                    "Only defense production"
+                    ],
+                    "answer": "National development through technology"
+                },
+                {
+                    "question": "Biotechnology Development Strategy 2015–2020 is launched by:",
+                    "options": [
+                    "ISRO",
+                    "Department of Biotechnology (DBT)",
+                    "DRDO",
+                    "NITI Aayog"
+                    ],
+                    "answer": "Department of Biotechnology (DBT)"
+                },
+                {
+                    "question": "Technology Vision 2035 is coordinated by:",
+                    "options": [
+                    "Prime Minister Office only",
+                    "Office of Principal Scientific Adviser",
+                    "CSIR only",
+                    "ISRO"
+                    ],
+                    "answer": "Office of Principal Scientific Adviser"
+                },
+                {
+                    "question": "Biotechnology strategy focuses on:",
+                    "options": [
+                    "Only defense",
+                    "Life sciences and bio-based technologies",
+                    "Space research",
+                    "Tax reforms"
+                    ],
+                    "answer": "Life sciences and bio-based technologies"
+                },
+                {
+                    "question": "One aim of biotech strategy is:",
+                    "options": [
+                    "Reduce innovation",
+                    "Promote biotech startups",
+                    "Stop research",
+                    "Limit agriculture"
+                    ],
+                    "answer": "Promote biotech startups"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Technology Vision 2035 includes focus on:",
+                    "options": [
+                    "Only industries",
+                    "Security, health, and sustainability",
+                    "Only agriculture",
+                    "Only education"
+                    ],
+                    "answer": "Security, health, and sustainability"
+                },
+                {
+                    "question": "Biotechnology strategy promotes:",
+                    "options": [
+                    "Import dependency",
+                    "Bio-pharmaceuticals and vaccines",
+                    "Only chemical industry",
+                    "Military expansion"
+                    ],
+                    "answer": "Bio-pharmaceuticals and vaccines"
+                },
+                {
+                    "question": "Biotech parks are meant for:",
+                    "options": [
+                    "Military training",
+                    "Biotech innovation and incubation",
+                    "Space exploration",
+                    "Law enforcement"
+                    ],
+                    "answer": "Biotech innovation and incubation"
+                },
+                {
+                    "question": "Technology Vision 2035 is primarily:",
+                    "options": [
+                    "Short-term plan",
+                    "Long-term strategic roadmap",
+                    "State-level policy",
+                    "Private company strategy"
+                    ],
+                    "answer": "Long-term strategic roadmap"
+                },
+                {
+                    "question": "Industrial biotechnology includes:",
+                    "options": [
+                    "Vaccines only",
+                    "Biofuels and enzymes",
+                    "Space satellites",
+                    "Judicial reforms"
+                    ],
+                    "answer": "Biofuels and enzymes"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. Technology Vision 2035 includes national security\n2. Biotech strategy focuses on life sciences\n3. Both are unrelated to innovation",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "All"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                    "Vision 2035 – only agriculture",
+                    "Biotech Strategy – life sciences",
+                    "Vision 2035 – only defense manufacturing",
+                    "Biotech Strategy – space exploration"
+                    ],
+                    "answer": "Biotech Strategy – life sciences"
+                },
+                {
+                    "question": "Biotechnology strategy aims to:",
+                    "options": [
+                    "Reduce research",
+                    "Promote innovation ecosystem",
+                    "Stop startups",
+                    "Increase imports"
+                    ],
+                    "answer": "Promote innovation ecosystem"
+                },
+                {
+                    "question": "Vision 2035 includes:",
+                    "options": [
+                    "Only rural development",
+                    "Multi-sectoral technological development",
+                    "Only IT sector",
+                    "Only education reforms"
+                    ],
+                    "answer": "Multi-sectoral technological development"
+                },
+                {
+                    "question": "Bioinformatics is related to:",
+                    "options": [
+                    "Physics",
+                    "Biotechnology and data analysis",
+                    "Space science only",
+                    "Law"
+                    ],
+                    "answer": "Biotechnology and data analysis"
+                }
+            ]
+        }
+    },
+    {
+        "name": "IPR Policy, Organ Donation Rules & Synthetic Biology Policy",
+        "notes": [
+            {
+                "heading": "Introduction to Science, Law & Ethics in S&T Policy",
+                "points": [
+                    "Modern science policy includes legal and ethical frameworks",
+                    "Key areas: intellectual property, bioethics, and emerging technologies",
+                    "India balances innovation with public welfare and ethical safeguards",
+                    "IPR, organ donation, and synthetic biology are highly relevant for UPSC",
+                    "These policies ensure responsible use of science and technology"
+                ]
+            },
+            {
+                "heading": "National Intellectual Property Rights (IPR) Policy – Overview",
+                "points": [
+                    "Launched in 2016 by Government of India",
+                    "Aims to create a strong IPR ecosystem in India",
+                    "Promotes innovation, creativity, and knowledge economy",
+                    "Brings all IP rights under one umbrella policy",
+                    "Focus on awareness, commercialization, and enforcement"
+                ]
+            },
+            {
+                "heading": "Objectives of National IPR Policy",
+                "points": [
+                    "Stimulate generation of IP assets",
+                    "Strengthen enforcement of IP laws",
+                    "Modernize and strengthen IP administration",
+                    "Increase awareness about IPR in society",
+                    "Promote commercialization of IP"
+                ]
+            },
+            {
+                "heading": "Key Features of IPR Policy",
+                "points": [
+                    "Focus on 'Creative India, Innovative India'",
+                    "Simplification of IP registration process",
+                    "Strengthening patent filing system",
+                    "Encouragement of startups and MSMEs in innovation",
+                    "Integration of IP education in academic institutions"
+                ]
+            },
+            {
+                "heading": "Importance of IPR Policy",
+                "points": [
+                    "Protects inventions and innovations",
+                    "Encourages foreign investment in R&D",
+                    "Boosts startup ecosystem",
+                    "Supports Make in India initiative",
+                    "Enhances global competitiveness of India"
+                ]
+            },
+            {
+                "heading": "Organ Donation Rules in India – Overview",
+                "points": [
+                    "Regulated under Transplantation of Human Organs and Tissues Act (THOTA), 1994",
+                    "Amended in 2011 and updated guidelines issued periodically",
+                    "Governed by National Organ and Tissue Transplant Organisation (NOTTO)",
+                    "Ensures ethical organ donation and transplantation",
+                    "Prevents illegal organ trade"
+                ]
+            },
+            {
+                "heading": "Key Features of Organ Donation Rules",
+                "points": [
+                    "Brain death recognized as legal death",
+                    "Consent of donor or family is mandatory",
+                    "Living donation allowed within close relatives",
+                    "Cadaveric (deceased) donation encouraged",
+                    "Strict regulation of organ transplantation centers"
+                ]
+            },
+            {
+                "heading": "Organ Allocation System",
+                "points": [
+                    "Based on medical urgency and compatibility",
+                    "Managed through state and national waiting lists",
+                    "NOTTO coordinates allocation at national level",
+                    "Transparency in organ distribution is ensured",
+                    "Priority given to emergency cases"
+                ]
+            },
+            {
+                "heading": "Challenges in Organ Donation in India",
+                "points": [
+                    "Low awareness among public",
+                    "Cultural and religious hesitations",
+                    "Shortage of organ donors",
+                    "Illegal organ trade concerns",
+                    "Infrastructure limitations in hospitals"
+                ]
+            },
+            {
+                "heading": "Importance of Organ Donation Policy",
+                "points": [
+                    "Saves lives of patients with organ failure",
+                    "Ensures ethical medical practice",
+                    "Promotes voluntary donation culture",
+                    "Reduces illegal trafficking",
+                    "Strengthens healthcare system"
+                ]
+            },
+            {
+                "heading": "Policy on Synthetic Biology – Overview",
+                "points": [
+                    "Synthetic biology involves designing and constructing new biological systems",
+                    "It combines biology, engineering, and computer science",
+                    "India is developing regulatory frameworks for it",
+                    "Focus on safe, ethical, and beneficial applications",
+                    "Important for biotechnology and bioeconomy growth"
+                ]
+            },
+            {
+                "heading": "Applications of Synthetic Biology",
+                "points": [
+                    "Development of new medicines and vaccines",
+                    "Biofuel production and sustainable energy",
+                    "Agricultural improvements and crop engineering",
+                    "Environmental solutions like pollution control",
+                    "Industrial biotechnology and enzyme production"
+                ]
+            },
+            {
+                "heading": "Regulatory and Ethical Concerns",
+                "points": [
+                    "Risk of misuse in biological weapons",
+                    "Ethical concerns about altering life forms",
+                    "Need for biosafety and biosecurity regulations",
+                    "Environmental impact assessment required",
+                    "Need for strict research guidelines"
+                ]
+            },
+            {
+                "heading": "India’s Approach to Synthetic Biology",
+                "points": [
+                    "Promotes research under DBT and DST",
+                    "Encourages biosafety and ethical oversight",
+                    "Focus on healthcare and agriculture applications",
+                    "Collaboration with international scientific bodies",
+                    "Development of regulatory frameworks for emerging biotech"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "National IPR Policy was launched in:",
+                    "options": ["2013", "2015", "2016", "2020"],
+                    "answer": "2016"
+                },
+                {
+                    "question": "IPR stands for:",
+                    "options": [
+                    "International Patent Rights",
+                    "Intellectual Property Rights",
+                    "Industrial Production Rules",
+                    "Internal Policy Regulation"
+                    ],
+                    "answer": "Intellectual Property Rights"
+                },
+                {
+                    "question": "Organ donation in India is regulated under:",
+                    "options": [
+                    "IT Act",
+                    "THOTA 1994",
+                    "RTI Act",
+                    "Companies Act"
+                    ],
+                    "answer": "THOTA 1994"
+                },
+                {
+                    "question": "NOTTO deals with:",
+                    "options": [
+                    "Space research",
+                    "Organ donation and transplantation",
+                    "Tax collection",
+                    "Defense production"
+                    ],
+                    "answer": "Organ donation and transplantation"
+                },
+                {
+                    "question": "Synthetic biology is mainly related to:",
+                    "options": [
+                    "Engineering and designing biological systems",
+                    "Space exploration",
+                    "Law making",
+                    "Economics"
+                    ],
+                    "answer": "Engineering and designing biological systems"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Main objective of IPR policy is:",
+                    "options": [
+                    "Reduce innovation",
+                    "Promote creativity and innovation",
+                    "Stop patents",
+                    "Limit research"
+                    ],
+                    "answer": "Promote creativity and innovation"
+                },
+                {
+                    "question": "Brain death is considered:",
+                    "options": [
+                    "Temporary condition",
+                    "Legal death for organ donation",
+                    "Recovery stage",
+                    "Non-medical condition"
+                    ],
+                    "answer": "Legal death for organ donation"
+                },
+                {
+                    "question": "Synthetic biology combines:",
+                    "options": [
+                    "Physics and chemistry",
+                    "Biology, engineering, and computer science",
+                    "Law and politics",
+                    "Economics and history"
+                    ],
+                    "answer": "Biology, engineering, and computer science"
+                },
+                {
+                    "question": "IPR policy supports:",
+                    "options": [
+                    "Illegal copying",
+                    "Startups and innovation",
+                    "Tax evasion",
+                    "Import restrictions"
+                    ],
+                    "answer": "Startups and innovation"
+                },
+                {
+                    "question": "Organ allocation is managed by:",
+                    "options": [
+                    "WHO",
+                    "NOTTO",
+                    "ISRO",
+                    "DRDO"
+                    ],
+                    "answer": "NOTTO"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. IPR policy promotes innovation\n2. THOTA regulates organ donation\n3. Synthetic biology has no ethical issues",
+                    "options": ["1 and 2 only", "2 and 3 only", "1 and 3 only", "All"],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                    "IPR Policy – organ transplantation",
+                    "THOTA – organ donation regulation",
+                    "NOTTO – patent registration",
+                    "Synthetic biology – space research"
+                    ],
+                    "answer": "THOTA – organ donation regulation"
+                },
+                {
+                    "question": "Synthetic biology requires regulation due to:",
+                    "options": [
+                    "No risks",
+                    "Ethical and biosafety concerns",
+                    "Only economic issues",
+                    "No applications"
+                    ],
+                    "answer": "Ethical and biosafety concerns"
+                },
+                {
+                    "question": "IPR policy helps in:",
+                    "options": [
+                    "Discouraging innovation",
+                    "Protecting inventions and creativity",
+                    "Stopping startups",
+                    "Reducing patents"
+                    ],
+                    "answer": "Protecting inventions and creativity"
+                },
+                {
+                    "question": "One major challenge in organ donation is:",
+                    "options": [
+                    "Excess donors",
+                    "Low awareness",
+                    "Too many hospitals",
+                    "No legal system"
+                    ],
+                    "answer": "Low awareness"
+                }
+            ]
+        }
+    }
+]

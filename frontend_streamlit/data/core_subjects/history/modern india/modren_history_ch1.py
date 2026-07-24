@@ -1,0 +1,1199 @@
+TOPICS = [
+    {
+        "name": "The Advent of Europeans in India – Portuguese Entry, Almeida & Albuquerque",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "The arrival of Europeans marked the beginning of a new phase in Indian history",
+                    "Portuguese were the first Europeans to establish direct sea trade links with India",
+                    "They aimed to control the spice trade by dominating the Indian Ocean routes",
+                    "Their arrival introduced European maritime power into Indian trade system",
+                    "Goa became the main Portuguese base in India"
+                ]
+            },
+            {
+                "heading": "Background of European Arrival",
+                "points": [
+                    "Europeans sought direct trade routes to India after fall of Constantinople (1453)",
+                    "High demand for Indian spices in Europe",
+                    "Maritime exploration led by Portugal and Spain",
+                    "Portuguese pioneered sea route around Africa to India",
+                    "Vasco da Gama reached Calicut in 1498"
+                ]
+            },
+            {
+                "heading": "Portuguese in India – Overview",
+                "points": [
+                    "Portuguese were the first European power to establish a foothold in India",
+                    "Established trading posts along western coast",
+                    "Focused mainly on spice trade and coastal control",
+                    "Used naval superiority to dominate sea routes",
+                    "Introduced cartaz system (license for trading ships)"
+                ]
+            },
+            {
+                "heading": "Administrative System of Portuguese",
+                "points": [
+                    "Led by Viceroy appointed by Portuguese king",
+                    "Goa became capital of Portuguese India",
+                    "Strong military and naval organization",
+                    "Religious missionaries accompanied trade expansion",
+                    "Used forceful conversion policies in some regions"
+                ]
+            },
+            {
+                "heading": "Francisco de Almeida (De Almeida)",
+                "points": [
+                    "First Portuguese Governor in India (1505–1509)",
+                    "Introduced Blue Water Policy (Domination of Indian Ocean rather than land control)",
+                    "Focused on naval supremacy over territorial expansion",
+                    "Built forts and strengthened coastal defenses",
+                    "Defeated local rulers and Arab traders in naval battles"
+                ]
+            },
+            {
+                "heading": "Blue Water Policy",
+                "points": [
+                    "Main strategy of Almeida",
+                    "Focus on controlling sea routes instead of inland territories",
+                    "Ensured Portuguese monopoly over maritime trade",
+                    "Avoided over-expansion on land",
+                    "Formed basis of Portuguese naval dominance in Indian Ocean"
+                ]
+            },
+            {
+                "heading": "Afonso de Albuquerque (Albuquerque)",
+                "points": [
+                    "Second major Portuguese governor (1509–1515)",
+                    "Considered real founder of Portuguese power in India",
+                    "Captured Goa in 1510 and made it capital",
+                    "Expanded Portuguese influence in Malacca and Hormuz",
+                    "Established strong fortress-based control system"
+                ]
+            },
+            {
+                "heading": "Contributions of Albuquerque",
+                "points": [
+                    "Established Goa as administrative center",
+                    "Encouraged intermarriage with local population",
+                    "Strengthened Portuguese monopoly over spice trade",
+                    "Introduced system of fortifications along coasts",
+                    "Expanded Portuguese influence in Asia beyond India"
+                ]
+            },
+            {
+                "heading": "Portuguese Trade System",
+                "points": [
+                    "Controlled spice trade routes from India to Europe",
+                    "Issued cartaz (naval pass) for merchant ships",
+                    "Collected taxes from ships passing through controlled waters",
+                    "Established trading posts (factories) at key ports",
+                    "Monopolistic trade practices created resentment among Indian traders"
+                ]
+            },
+            {
+                "heading": "Decline of Portuguese Power",
+                "points": [
+                    "Rise of Dutch and English competition in 17th century",
+                    "Weak administration and corruption",
+                    "Limited manpower and resources",
+                    "Resistance from Mughal and local rulers",
+                    "Restricted mainly to Goa, Daman, and Diu"
+                ]
+            },
+            {
+                "heading": "Impact of Portuguese Arrival",
+                "points": [
+                    "Introduced European maritime power in Indian Ocean",
+                    "Disrupted traditional Arab-Indian trade network",
+                    "Encouraged later European colonization",
+                    "Spread Christianity through missionary activities",
+                    "Marked beginning of colonial era in India"
+                ]
+            },
+            {
+                "heading": "Historical Significance",
+                "points": [
+                    "Portuguese were first Europeans to arrive and settle in India",
+                    "Established sea-based trade dominance",
+                    "Introduced new naval warfare techniques",
+                    "Laid foundation for later European colonial expansion",
+                    "Changed dynamics of Indian Ocean trade system"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Who was the first European to reach India by sea?",
+                    "options": [
+                    "Columbus",
+                    "Vasco da Gama",
+                    "Albuquerque",
+                    "Almeida"
+                    ],
+                    "answer": "Vasco da Gama"
+                },
+                {
+                    "question": "Portuguese capital in India was:",
+                    "options": [
+                    "Surat",
+                    "Goa",
+                    "Calicut",
+                    "Madras"
+                    ],
+                    "answer": "Goa"
+                },
+                {
+                    "question": "Francisco de Almeida is associated with:",
+                    "options": [
+                    "Blue Water Policy",
+                    "Doctrine of Lapse",
+                    "Subsidiary Alliance",
+                    "Permanent Settlement"
+                    ],
+                    "answer": "Blue Water Policy"
+                },
+                {
+                    "question": "Albuquerque captured Goa in:",
+                    "options": [
+                    "1498",
+                    "1505",
+                    "1510",
+                    "1600"
+                    ],
+                    "answer": "1510"
+                },
+                {
+                    "question": "Portuguese came to India mainly for:",
+                    "options": [
+                    "Agriculture",
+                    "Trade in spices",
+                    "Religious wars",
+                    "Industrial development"
+                    ],
+                    "answer": "Trade in spices"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Cartaz system was related to:",
+                    "options": [
+                    "Land revenue",
+                    "Naval trade license",
+                    "Military recruitment",
+                    "Religious conversion"
+                    ],
+                    "answer": "Naval trade license"
+                },
+                {
+                    "question": "Blue Water Policy focused on:",
+                    "options": [
+                    "Inland expansion",
+                    "Sea control",
+                    "Agriculture",
+                    "Railways"
+                    ],
+                    "answer": "Sea control"
+                },
+                {
+                    "question": "Portuguese decline was mainly due to:",
+                    "options": [
+                    "British and Dutch competition",
+                    "Industrial revolution",
+                    "Indian independence",
+                    "Agricultural failure"
+                    ],
+                    "answer": "British and Dutch competition"
+                },
+                {
+                    "question": "Albuquerque is known as:",
+                    "options": [
+                    "Founder of Mughal Empire",
+                    "Real founder of Portuguese power in India",
+                    "First British Governor",
+                    "Maratha leader"
+                    ],
+                    "answer": "Real founder of Portuguese power in India"
+                },
+                {
+                    "question": "Portuguese influence was mainly restricted to:",
+                    "options": [
+                    "Northern India",
+                    "Goa and coastal areas",
+                    "Central India",
+                    "Eastern Himalayas"
+                    ],
+                    "answer": "Goa and coastal areas"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Portuguese were first Europeans in India\n2. Albuquerque captured Goa\n3. Almeida focused on land expansion policy",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Main objective of Portuguese in India was:",
+                    "options": [
+                    "Agricultural reform",
+                    "Control of spice trade",
+                    "Religious unity",
+                    "Industrial development"
+                    ],
+                    "answer": "Control of spice trade"
+                },
+                {
+                    "question": "Blue Water Policy implies:",
+                    "options": [
+                    "Land conquest strategy",
+                    "Sea dominance strategy",
+                    "Religious expansion",
+                    "Agricultural reform"
+                    ],
+                    "answer": "Sea dominance strategy"
+                },
+                {
+                    "question": "Portuguese system of trade was mainly:",
+                    "options": [
+                    "Free trade",
+                    "Monopolistic control",
+                    "Barter system",
+                    "Agrarian system"
+                    ],
+                    "answer": "Monopolistic control"
+                },
+                {
+                    "question": "Portuguese arrival is significant because it:",
+                    "options": [
+                    "Ended Mughal Empire",
+                    "Marked beginning of European colonialism in India",
+                    "Introduced democracy",
+                    "Ended trade in India"
+                    ],
+                    "answer": "Marked beginning of European colonialism in India"
+                }
+            ]
+        }
+    },
+    {
+        "name": "European Powers in India – Decline of Portuguese & Rise of Dutch, Danes and English",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Portuguese were the first European power in India but gradually declined",
+                    "Other European powers like Dutch, Danes, and English entered India in 17th century",
+                    "Competition among European trading companies intensified control over Indian trade",
+                    "English East India Company eventually emerged as dominant power",
+                    "Shift marked beginning of European colonial dominance in India"
+                ]
+            },
+            {
+                "heading": "Causes of Failure of Portuguese Empire in India",
+                "points": [
+                    "Limited territorial expansion confined mainly to coastal regions",
+                    "Lack of adequate manpower and administrative efficiency",
+                    "Corruption and inefficiency in Portuguese administration",
+                    "Religious intolerance created local resentment",
+                    "Rise of stronger European competitors like Dutch and English",
+                    "Weak naval and military resources compared to rivals",
+                    "Over-dependence on monopoly of spice trade"
+                ]
+            },
+            {
+                "heading": "Decline of Portuguese Power – Key Factors",
+                "points": [
+                    "Failure to expand inland political control",
+                    "Loss of monopoly over Eastern trade routes",
+                    "Attacks and competition from Marathas, Mughals, and others",
+                    "Dutch capture of key trade centers in Southeast Asia",
+                    "English naval superiority in later period",
+                    "Restricted to Goa, Daman, and Diu by 18th century"
+                ]
+            },
+            {
+                "heading": "The Dutch in India – Overview",
+                "points": [
+                    "Dutch East India Company (VOC) established in 1602",
+                    "Main aim was control over spice trade in Southeast Asia",
+                    "Established trading posts in India, especially on eastern coast",
+                    "Focused on trade rather than territorial expansion initially",
+                    "Eventually replaced Portuguese dominance in many regions"
+                ]
+            },
+            {
+                "heading": "Dutch Settlements in India",
+                "points": [
+                    "Masulipatnam (Andhra Pradesh)",
+                    "Pulicat (Tamil Nadu)",
+                    "Surat (Gujarat)",
+                    "Chinsura (Bengal)",
+                    "Controlled key textile and spice trade centers"
+                ]
+            },
+            {
+                "heading": "Decline of Dutch in India",
+                "points": [
+                    "Focused more on Southeast Asia than India",
+                    "Lost naval supremacy to British Royal Navy",
+                    "Defeated in Anglo-Dutch conflicts in 17th century",
+                    "Limited political ambitions in India",
+                    "Gradually replaced by English East India Company"
+                ]
+            },
+            {
+                "heading": "The Danes in India – Overview",
+                "points": [
+                    "Danish East India Company established trading presence in early 17th century",
+                    "Arrived later compared to Portuguese and Dutch",
+                    "Focused mainly on peaceful trade activities",
+                    "Did not develop major territorial ambitions",
+                    "Limited impact compared to other European powers"
+                ]
+            },
+            {
+                "heading": "Danish Settlements in India",
+                "points": [
+                    "Tranquebar (Tamil Nadu) – main settlement",
+                    "Serampore (Bengal) – important trading and missionary center",
+                    "Engaged in textile and spice trade",
+                    "Promoted Christian missionary activities",
+                    "Maintained small but stable trading presence"
+                ]
+            },
+            {
+                "heading": "Decline of Danes in India",
+                "points": [
+                    "Limited military and naval power",
+                    "Could not compete with British and French companies",
+                    "Small scale trade operations",
+                    "Sold settlements to British in 19th century",
+                    "Had minimal political influence in India"
+                ]
+            },
+            {
+                "heading": "The English East India Company – Overview",
+                "points": [
+                    "Founded in 1600 under charter of Queen Elizabeth I",
+                    "Initially focused on trade with India and East Asia",
+                    "Gradually expanded influence through factories and forts",
+                    "Adopted both commercial and political strategies",
+                    "Eventually became dominant European power in India"
+                ]
+            },
+            {
+                "heading": "English Settlements in India",
+                "points": [
+                    "Surat – first factory (1613)",
+                    "Madras (Fort St. George) – major base in South India",
+                    "Bombay – received from Portuguese as dowry of Catherine of Braganza",
+                    "Calcutta (Fort William) – key center in Bengal",
+                    "These became future centers of British power"
+                ]
+            },
+            {
+                "heading": "Rise of English Power",
+                "points": [
+                    "Strong naval power compared to rivals",
+                    "Efficient organization of East India Company",
+                    "Ability to interfere in Indian politics",
+                    "Exploited rivalries among Indian rulers",
+                    "Victory in Anglo-French and Anglo-Dutch conflicts"
+                ]
+            },
+            {
+                "heading": "Comparison of European Powers",
+                "points": [
+                    "Portuguese: First arrivals, declined early due to limited resources",
+                    "Dutch: Strong in trade, weak in political control in India",
+                    "Danes: Small-scale peaceful traders with minimal impact",
+                    "English: Combined trade with political expansion leading to dominance",
+                    "Shift from trade dominance to colonial rule"
+                ]
+            },
+            {
+                "heading": "Historical Significance",
+                "points": [
+                    "Marked beginning of European rivalry in Indian subcontinent",
+                    "Transition from Portuguese monopoly to multi-European competition",
+                    "English emergence laid foundation for British colonial rule",
+                    "Indian Ocean trade became central to global economy",
+                    "Political fragmentation of India facilitated European expansion"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Which European company established the Dutch presence in India?",
+                    "options": [
+                    "British East India Company",
+                    "Dutch East India Company",
+                    "French East India Company",
+                    "Portuguese Company"
+                    ],
+                    "answer": "Dutch East India Company"
+                },
+                {
+                    "question": "Tranquebar in India was a settlement of:",
+                    "options": [
+                    "Portuguese",
+                    "Danes",
+                    "Dutch",
+                    "English"
+                    ],
+                    "answer": "Danes"
+                },
+                {
+                    "question": "English East India Company was established in:",
+                    "options": [
+                    "1498",
+                    "1600",
+                    "1610",
+                    "1707"
+                    ],
+                    "answer": "1600"
+                },
+                {
+                    "question": "First English factory in India was at:",
+                    "options": [
+                    "Bombay",
+                    "Surat",
+                    "Madras",
+                    "Calcutta"
+                    ],
+                    "answer": "Surat"
+                },
+                {
+                    "question": "Portuguese main weakness in India was:",
+                    "options": [
+                    "Strong inland control",
+                    "Limited resources and manpower",
+                    "Industrial development",
+                    "Railway system"
+                    ],
+                    "answer": "Limited resources and manpower"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Dutch focus in India was mainly on:",
+                    "options": [
+                    "Religious conversion",
+                    "Spice and trade monopoly",
+                    "Agriculture",
+                    "Railway expansion"
+                    ],
+                    "answer": "Spice and trade monopoly"
+                },
+                {
+                    "question": "Danes were mainly known for:",
+                    "options": [
+                    "Large empire building",
+                    "Small-scale peaceful trade",
+                    "Military expansion",
+                    "Agrarian reforms"
+                    ],
+                    "answer": "Small-scale peaceful trade"
+                },
+                {
+                    "question": "Bombay was given to English as:",
+                    "options": [
+                    "War compensation",
+                    "Dowry of Catherine of Braganza",
+                    "Trade purchase",
+                    "Religious gift"
+                    ],
+                    "answer": "Dowry of Catherine of Braganza"
+                },
+                {
+                    "question": "Portuguese declined mainly due to competition from:",
+                    "options": [
+                    "Mughals only",
+                    "Dutch and English",
+                    "Marathas only",
+                    "Sikhs"
+                    ],
+                    "answer": "Dutch and English"
+                },
+                {
+                    "question": "Serampore was associated with:",
+                    "options": [
+                    "Dutch",
+                    "Danes",
+                    "Portuguese",
+                    "French"
+                    ],
+                    "answer": "Danes"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Portuguese were first Europeans in India\n2. Dutch focused mainly on trade\n3. Danes established large empire in India",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Main reason for English success in India was:",
+                    "options": [
+                    "Religious unity",
+                    "Strong naval and organizational power",
+                    "Agricultural superiority",
+                    "Isolation from Europe"
+                    ],
+                    "answer": "Strong naval and organizational power"
+                },
+                {
+                    "question": "Portuguese decline in India was due to:",
+                    "options": [
+                    "Industrial revolution",
+                    "Limited resources and competition",
+                    "Indian independence",
+                    "Railway development"
+                    ],
+                    "answer": "Limited resources and competition"
+                },
+                {
+                    "question": "Dutch East India Company was mainly active in:",
+                    "options": [
+                    "North America",
+                    "Spice trade regions",
+                    "African agriculture",
+                    "European politics"
+                    ],
+                    "answer": "Spice trade regions"
+                },
+                {
+                    "question": "Early European presence in India is best described as:",
+                    "options": [
+                    "Colonial from start",
+                    "Trade-based competition leading to colonialism",
+                    "Agricultural reform movement",
+                    "Religious unity mission"
+                    ],
+                    "answer": "Trade-based competition leading to colonialism"
+                }
+            ]
+        }
+    },
+    {
+        "name": "The French in India – Anglo-French Rivalry, Carnatic Wars & Rise of Hyderabad State",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "French were the last major European power to enter India for trade",
+                    "They established the French East India Company in 1664",
+                    "Main centers were Pondicherry, Chandernagore, Mahe, Karaikal, and Yanam",
+                    "Their main rival in India was the English East India Company",
+                    "Anglo-French rivalry led to Carnatic Wars which shaped colonial power in India"
+                ]
+            },
+            {
+                "heading": "The French in India – Entry and Expansion",
+                "points": [
+                    "French East India Company established under Colbert in 1664",
+                    "First factory set up at Surat in 1668",
+                    "Pondicherry became the most important French settlement",
+                    "French focused on trade in textiles and spices",
+                    "They tried to combine trade with political influence in India"
+                ]
+            },
+            {
+                "heading": "Important French Settlements",
+                "points": [
+                    "Pondicherry (Puducherry) – main headquarters",
+                    "Chandernagore (West Bengal)",
+                    "Mahe (Kerala)",
+                    "Karaikal (Tamil Nadu)",
+                    "Yanam (Andhra Pradesh)"
+                ]
+            },
+            {
+                "heading": "Anglo-French Rivalry – Overview",
+                "points": [
+                    "Competition between British and French East India Companies",
+                    "Both aimed to dominate trade and political influence in India",
+                    "Rivalry extended into Indian regional politics",
+                    "European conflicts (like Austrian War of Succession) influenced India",
+                    "Resulted in three Carnatic Wars (1746–1763)"
+                ]
+            },
+            {
+                "heading": "Causes of Anglo-French Rivalry",
+                "points": [
+                    "Competition for trade supremacy in India",
+                    "Desire to control Indian political states",
+                    "Weakening Mughal authority created opportunities",
+                    "European wars spilling into India",
+                    "Strategic importance of Deccan and Carnatic regions"
+                ]
+            },
+            {
+                "heading": "First Carnatic War (1746–1748)",
+                "points": [
+                    "Extension of War of Austrian Succession in India",
+                    "Fought between British and French in South India",
+                    "French under Dupleix gained early success",
+                    "Capture of Madras by French (1746)",
+                    "Ended by Treaty of Aix-la-Chapelle (1748)"
+                ]
+            },
+            {
+                "heading": "Key Features of First Carnatic War",
+                "points": [
+                    "First direct military conflict between British and French in India",
+                    "Showed importance of naval power in Indian politics",
+                    "European wars influenced Indian territorial control",
+                    "Madras returned to British as part of peace settlement",
+                    "Set stage for further Anglo-French rivalry"
+                ]
+            },
+            {
+                "heading": "Second Carnatic War (Brief Context)",
+                "points": [
+                    "Not directly asked but important for understanding",
+                    "Involved rivalry between Dupleix and Robert Clive",
+                    "Intervention in Hyderabad and Carnatic succession disputes",
+                    "British victory weakened French influence",
+                    "Marked rise of British political dominance"
+                ]
+            },
+            {
+                "heading": "Third Carnatic War (Brief Context)",
+                "points": [
+                    "Part of Seven Years’ War (1756–1763)",
+                    "Decisive British victory over French",
+                    "Battle of Wandiwash (1760) – turning point",
+                    "Led by Sir Eyre Coote against French commander Lally",
+                    "Ended French political ambitions in India"
+                ]
+            },
+            {
+                "heading": "Rise of Hyderabad State – Background",
+                "points": [
+                    "Hyderabad state emerged in early 18th century after weakening Mughal authority",
+                    "Founded by Nizam-ul-Mulk Asaf Jah I in 1724",
+                    "Initially part of Mughal empire but became autonomous",
+                    "Region became important in Anglo-French rivalry",
+                    "French and British supported rival claimants in Deccan politics"
+                ]
+            },
+            {
+                "heading": "Nizam-ul-Mulk and Hyderabad",
+                "points": [
+                    "Powerful Mughal noble and former Wazir",
+                    "Established independent rule in Deccan region",
+                    "Maintained nominal loyalty to Mughal emperor",
+                    "Balanced relations between European powers",
+                    "Created stable administrative structure in Hyderabad"
+                ]
+            },
+            {
+                "heading": "French Role in Hyderabad Politics",
+                "points": [
+                    "French supported Muzaffar Jang in succession disputes",
+                    "Dupleix aimed to expand French influence through alliances",
+                    "French trained local forces using European military methods",
+                    "Interference increased Anglo-French rivalry in Deccan",
+                    "Eventually British influence became dominant"
+                ]
+            },
+            {
+                "heading": "Significance of Carnatic Wars",
+                "points": [
+                    "Decided supremacy between British and French in India",
+                    "Marked shift from trade rivalry to territorial control",
+                    "Established British political dominance in South India",
+                    "Weakened French colonial ambitions in India",
+                    "Integrated Indian politics into European power conflicts"
+                ]
+            },
+            {
+                "heading": "Historical Significance",
+                "points": [
+                    "French presence remained limited after defeat",
+                    "British emerged as dominant European power in India",
+                    "Hyderabad became major princely state under Nizam rule",
+                    "Carnatic Wars shaped foundation of British colonial empire",
+                    "Marked beginning of British political control in India"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "French East India Company was established in:",
+                    "options": [
+                    "1600",
+                    "1664",
+                    "1707",
+                    "1757"
+                    ],
+                    "answer": "1664"
+                },
+                {
+                    "question": "Main French settlement in India was:",
+                    "options": [
+                    "Surat",
+                    "Pondicherry",
+                    "Bombay",
+                    "Madras"
+                    ],
+                    "answer": "Pondicherry"
+                },
+                {
+                    "question": "First Carnatic War ended with Treaty of:",
+                    "options": [
+                    "Paris",
+                    "Aix-la-Chapelle",
+                    "Versailles",
+                    "Allahabad"
+                    ],
+                    "answer": "Aix-la-Chapelle"
+                },
+                {
+                    "question": "Founder of Hyderabad state was:",
+                    "options": [
+                    "Tipu Sultan",
+                    "Nizam-ul-Mulk",
+                    "Robert Clive",
+                    "Dupleix"
+                    ],
+                    "answer": "Nizam-ul-Mulk"
+                },
+                {
+                    "question": "French rival in India was mainly:",
+                    "options": [
+                    "Dutch",
+                    "British",
+                    "Portuguese",
+                    "Danes"
+                    ],
+                    "answer": "British"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Battle of Wandiwash was fought during:",
+                    "options": [
+                    "First Carnatic War",
+                    "Third Carnatic War",
+                    "Second Anglo-Mysore War",
+                    "Plassey War"
+                    ],
+                    "answer": "Third Carnatic War"
+                },
+                {
+                    "question": "Dupleix was associated with:",
+                    "options": [
+                    "British East India Company",
+                    "French East India Company",
+                    "Mughal Empire",
+                    "Marathas"
+                    ],
+                    "answer": "French East India Company"
+                },
+                {
+                    "question": "Carnatic Wars were mainly fought in:",
+                    "options": [
+                    "North India",
+                    "South India",
+                    "Bengal only",
+                    "Punjab"
+                    ],
+                    "answer": "South India"
+                },
+                {
+                    "question": "Hyderabad state was initially part of:",
+                    "options": [
+                    "British Empire",
+                    "Mughal Empire",
+                    "Maratha Empire",
+                    "Sikh Empire"
+                    ],
+                    "answer": "Mughal Empire"
+                },
+                {
+                    "question": "French success in India declined mainly after:",
+                    "options": [
+                    "First Carnatic War",
+                    "Third Carnatic War",
+                    "Sepoy Mutiny",
+                    "Plassey War"
+                    ],
+                    "answer": "Third Carnatic War"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. French were the last Europeans to enter India\n2. Carnatic Wars were part of European conflicts\n3. British lost all Carnatic Wars",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Main reason for British victory over French was:",
+                    "options": [
+                    "Better agriculture",
+                    "Superior naval and military organization",
+                    "Religious unity",
+                    "Geographical advantage only"
+                    ],
+                    "answer": "Superior naval and military organization"
+                },
+                {
+                    "question": "Hyderabad state emerged due to:",
+                    "options": [
+                    "British annexation",
+                    "Decline of Mughal authority",
+                    "French colonization",
+                    "Sikh expansion"
+                    ],
+                    "answer": "Decline of Mughal authority"
+                },
+                {
+                    "question": "Battle of Wandiwash is significant because:",
+                    "options": [
+                    "It ended Maratha power",
+                    "It ended French political influence in India",
+                    "It established Mughal Empire",
+                    "It started British rule in America"
+                    ],
+                    "answer": "It ended French political influence in India"
+                },
+                {
+                    "question": "Anglo-French rivalry in India was mainly an extension of:",
+                    "options": [
+                    "Industrial Revolution",
+                    "European wars",
+                    "Indian independence movement",
+                    "Agrarian reforms"
+                    ],
+                    "answer": "European wars"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Second & Third Carnatic Wars and Causes of English Success in India",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Carnatic Wars were decisive conflicts between British and French in India",
+                    "They were influenced by European wars and Indian succession disputes",
+                    "Second and Third Carnatic Wars established British dominance in India",
+                    "French political influence declined after their defeat",
+                    "English East India Company emerged as dominant colonial power"
+                ]
+            },
+            {
+                "heading": "Background of Carnatic Wars",
+                "points": [
+                    "Triggered by Anglo-French rivalry for trade and political control",
+                    "Indian regional politics provided opportunities for intervention",
+                    "Weakening Mughal authority created power vacuum",
+                    "Both companies used Indian rulers as allies",
+                    "Wars were extensions of European conflicts in India"
+                ]
+            },
+            {
+                "heading": "Second Carnatic War (1749–1754)",
+                "points": [
+                    "Fought between British and French in South India",
+                    "Triggered by succession disputes in Hyderabad and Carnatic",
+                    "French supported Muzaffar Jang in Hyderabad",
+                    "British supported Muhammad Ali in Carnatic",
+                    "Robert Clive played key role in British success"
+                ]
+            },
+            {
+                "heading": "Key Events of Second Carnatic War",
+                "points": [
+                    "Dupleix initially successful in establishing French influence",
+                    "British captured Arcot under Robert Clive",
+                    "French suffered financial and military setbacks",
+                    "Treaty of Pondicherry (1754) ended war",
+                    "French influence weakened significantly"
+                ]
+            },
+            {
+                "heading": "Significance of Second Carnatic War",
+                "points": [
+                    "Established British political influence in Carnatic region",
+                    "Marked decline of French ambitions in South India",
+                    "Demonstrated importance of Indian alliances in European wars",
+                    "Enhanced prestige of Robert Clive",
+                    "Shifted balance of power towards British"
+                ]
+            },
+            {
+                "heading": "Third Carnatic War (1756–1763)",
+                "points": [
+                    "Part of global Seven Years’ War",
+                    "Decisive conflict between British and French in India",
+                    "Fought across Bengal, Carnatic, and other regions",
+                    "British led by Sir Eyre Coote",
+                    "French led by Count de Lally"
+                ]
+            },
+            {
+                "heading": "Key Events of Third Carnatic War",
+                "points": [
+                    "Battle of Wandiwash (1760) – decisive British victory",
+                    "French forces defeated and weakened permanently",
+                    "British captured Pondicherry (1761)",
+                    "Treaty of Paris (1763) formally ended war",
+                    "French retained only small settlements in India"
+                ]
+            },
+            {
+                "heading": "Significance of Third Carnatic War",
+                "points": [
+                    "Ended French political and military ambitions in India",
+                    "Established British supremacy in Indian subcontinent",
+                    "Strengthened British East India Company’s control",
+                    "Opened path for British territorial expansion",
+                    "Made British a dominant colonial power in India"
+                ]
+            },
+            {
+                "heading": "Causes of English Success in India",
+                "points": [
+                    "Superior naval power and control over sea routes",
+                    "Better financial resources compared to French",
+                    "Efficient administrative structure of East India Company",
+                    "Use of Indian soldiers (sepoys) in large numbers",
+                    "Strong leadership like Robert Clive and others",
+                    "Support from Indian allies and rulers",
+                    "French limited focus on European wars"
+                ]
+            },
+            {
+                "heading": "Military Factors Behind English Success",
+                "points": [
+                    "Discipline and training of British forces",
+                    "Effective use of artillery and firearms",
+                    "Better coordination between army and navy",
+                    "Strategic use of fortifications (Fort William, Fort St. George)",
+                    "Ability to adapt European warfare to Indian conditions"
+                ]
+            },
+            {
+                "heading": "Political Factors Behind English Success",
+                "points": [
+                    "Exploited internal conflicts among Indian rulers",
+                    "Supported weak claimants to gain influence",
+                    "Interference in succession disputes",
+                    "Use of diplomacy along with warfare",
+                    "Gradual expansion from trade to political control"
+                ]
+            },
+            {
+                "heading": "Economic Factors Behind English Success",
+                "points": [
+                    "Strong backing from British investors and Crown",
+                    "Profits from Bengal and other rich provinces",
+                    "Efficient taxation and revenue collection systems",
+                    "Control over coastal trade routes",
+                    "Better commercial organization than French"
+                ]
+            },
+            {
+                "heading": "Weaknesses of French in India",
+                "points": [
+                    "Limited financial resources",
+                    "Focus divided between Europe and India",
+                    "Weak naval support compared to British",
+                    "Over-reliance on Dupleix’s leadership",
+                    "Poor coordination between military and administration"
+                ]
+            },
+            {
+                "heading": "Historical Significance",
+                "points": [
+                    "Carnatic Wars marked turning point in Indian colonial history",
+                    "British became dominant European power in India",
+                    "French influence reduced to minor settlements",
+                    "Foundation laid for British colonial empire in India",
+                    "Shift from trade rivalry to territorial conquest"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Second Carnatic War was fought between:",
+                    "options": [
+                    "British and Portuguese",
+                    "British and French",
+                    "French and Dutch",
+                    "Mughals and British"
+                    ],
+                    "answer": "British and French"
+                },
+                {
+                    "question": "Robert Clive is associated with:",
+                    "options": [
+                    "First Carnatic War",
+                    "Second Carnatic War",
+                    "Third Carnatic War",
+                    "Anglo-Mysore War"
+                    ],
+                    "answer": "Second Carnatic War"
+                },
+                {
+                    "question": "Battle of Wandiwash was fought during:",
+                    "options": [
+                    "First Carnatic War",
+                    "Second Carnatic War",
+                    "Third Carnatic War",
+                    "Plassey War"
+                    ],
+                    "answer": "Third Carnatic War"
+                },
+                {
+                    "question": "French East India Company’s main rival was:",
+                    "options": [
+                    "Dutch",
+                    "British",
+                    "Portuguese",
+                    "Danes"
+                    ],
+                    "answer": "British"
+                },
+                {
+                    "question": "Treaty of Paris (1763) ended:",
+                    "options": [
+                    "First Carnatic War",
+                    "Third Carnatic War",
+                    "Battle of Plassey",
+                    "Sepoy Mutiny"
+                    ],
+                    "answer": "Third Carnatic War"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Arcot was captured by Robert Clive during:",
+                    "options": [
+                    "First Carnatic War",
+                    "Second Carnatic War",
+                    "Third Carnatic War",
+                    "Bengal campaign"
+                    ],
+                    "answer": "Second Carnatic War"
+                },
+                {
+                    "question": "French commander in Third Carnatic War was:",
+                    "options": [
+                    "Dupleix",
+                    "Count de Lally",
+                    "Albuquerque",
+                    "Almeida"
+                    ],
+                    "answer": "Count de Lally"
+                },
+                {
+                    "question": "Main cause of English success was:",
+                    "options": [
+                    "Religious unity",
+                    "Superior naval and military organization",
+                    "Agrarian reforms",
+                    "Geographical isolation"
+                    ],
+                    "answer": "Superior naval and military organization"
+                },
+                {
+                    "question": "Treaty of Pondicherry ended:",
+                    "options": [
+                    "First Carnatic War",
+                    "Second Carnatic War",
+                    "Third Carnatic War",
+                    "Mysore War"
+                    ],
+                    "answer": "Second Carnatic War"
+                },
+                {
+                    "question": "French decline in India was mainly due to:",
+                    "options": [
+                    "Strong Mughal support",
+                    "British superiority",
+                    "Indian independence",
+                    "Dutch invasion"
+                    ],
+                    "answer": "British superiority"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Carnatic Wars were influenced by European conflicts\n2. British and French used Indian rulers as allies\n3. French won all Carnatic Wars",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Main turning point of Third Carnatic War was:",
+                    "options": [
+                    "Battle of Plassey",
+                    "Battle of Wandiwash",
+                    "Battle of Panipat",
+                    "Battle of Buxar"
+                    ],
+                    "answer": "Battle of Wandiwash"
+                },
+                {
+                    "question": "English success in India was due to:",
+                    "options": [
+                    "Only military strength",
+                    "Combination of military, political, and economic factors",
+                    "Religious influence",
+                    "Geographical advantage only"
+                    ],
+                    "answer": "Combination of military, political, and economic factors"
+                },
+                {
+                    "question": "French failure in India was due to:",
+                    "options": [
+                    "Strong leadership",
+                    "Financial and strategic weaknesses",
+                    "Indian support",
+                    "Industrial superiority"
+                    ],
+                    "answer": "Financial and strategic weaknesses"
+                },
+                {
+                    "question": "Carnatic Wars marked:",
+                    "options": [
+                    "End of Mughal Empire",
+                    "Beginning of British supremacy in India",
+                    "Rise of Marathas",
+                    "Decline of agriculture"
+                    ],
+                    "answer": "Beginning of British supremacy in India"
+                }
+            ]
+        }
+    }
+]

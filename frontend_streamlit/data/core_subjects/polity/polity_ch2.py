@@ -1,0 +1,1045 @@
+TOPICS = [
+    {
+        "name": "Making of the Constitution – Constituent Assembly",
+        "notes": [
+            {
+                "heading": "Background (Why Constituent Assembly?)",
+                "points": [
+                    "Demand for a Constituent Assembly was first made by M.N. Roy (1934)",
+                    "Indian National Congress officially demanded it in 1935",
+                    "British Government accepted the idea in the August Offer (1940)",
+                    "Cripps Mission (1942) also proposed a Constituent Assembly",
+                    "Finally, Cabinet Mission Plan (1946) provided for its formation"
+                ]
+            },
+            {
+                "heading": "Composition of Constituent Assembly",
+                "points": [
+                    "Total strength: 389 members",
+                    "292 from British Provinces",
+                    "93 from Princely States",
+                    "4 from Chief Commissioner’s Provinces",
+                    "Members were indirectly elected",
+                    "Election based on proportional representation"
+                ]
+            },
+            {
+                "heading": "Changes after Partition",
+                "points": [
+                    "Muslim League withdrew from Assembly",
+                    "Total strength reduced to 299",
+                    "229 from Provinces",
+                    "70 from Princely States"
+                ]
+            },
+            {
+                "heading": "Working of Constituent Assembly",
+                "points": [
+                    "First meeting held on December 9, 1946",
+                    "Dr. Sachchidananda Sinha was temporary President",
+                    "Dr. Rajendra Prasad elected as permanent President",
+                    "H.C. Mukherjee became Vice-President",
+                    "B.N. Rau appointed as Constitutional Advisor"
+                ]
+            },
+            {
+                "heading": "Committees of Constituent Assembly",
+                "points": [
+                    "Several committees were formed for drafting",
+                    "Major Committees:",
+                    "Drafting Committee – Chairman: Dr. B.R. Ambedkar",
+                    "Union Powers Committee – Chairman: Jawaharlal Nehru",
+                    "Fundamental Rights Committee – Chairman: Jawaharlal Nehru",
+                    "Provincial Constitution Committee – Chairman: Sardar Patel"
+                ]
+            },
+            {
+                "heading": "Drafting of Constitution",
+                "points": [
+                    "Drafting Committee formed on August 29, 1947",
+                    "Prepared draft of Constitution",
+                    "Draft Constitution published in February 1948",
+                    "Final Constitution adopted on November 26, 1949"
+                ]
+            },
+            {
+                "heading": "Enactment and Enforcement",
+                "points": [
+                    "Constitution adopted on November 26, 1949",
+                    "Came into force on January 26, 1950",
+                    "January 26 chosen to honor Purna Swaraj Day (1930)"
+                ]
+            },
+            {
+                "heading": "Time Taken",
+                "points": [
+                    "Took 2 years, 11 months, 18 days",
+                    "Total sittings: 11 sessions",
+                    "Total working days: 165 days"
+                ]
+            },
+            {
+                "heading": "Significance",
+                "points": [
+                    "Largest written Constitution in the world",
+                    "Represents will of the people",
+                    "Foundation of Indian democracy",
+                    "Blend of rigidity and flexibility"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Who first proposed the idea of a Constituent Assembly?",
+                    "options": [
+                        "Mahatma Gandhi",
+                        "M.N. Roy",
+                        "Jawaharlal Nehru",
+                        "B.R. Ambedkar"
+                    ],
+                    "answer": "M.N. Roy"
+                },
+                {
+                    "question": "Constituent Assembly was formed under:",
+                    "options": [
+                        "August Offer",
+                        "Cripps Mission",
+                        "Cabinet Mission Plan",
+                        "Indian Councils Act"
+                    ],
+                    "answer": "Cabinet Mission Plan"
+                },
+                {
+                    "question": "Permanent President of Constituent Assembly:",
+                    "options": [
+                        "Jawaharlal Nehru",
+                        "Dr. Rajendra Prasad",
+                        "Ambedkar",
+                        "Sardar Patel"
+                    ],
+                    "answer": "Dr. Rajendra Prasad"
+                },
+                {
+                    "question": "Chairman of Drafting Committee:",
+                    "options": [
+                        "Nehru",
+                        "Patel",
+                        "Ambedkar",
+                        "Rajendra Prasad"
+                    ],
+                    "answer": "Ambedkar"
+                },
+                {
+                    "question": "Constitution came into force on:",
+                    "options": [
+                        "15 August 1947",
+                        "26 November 1949",
+                        "26 January 1950",
+                        "1 January 1950"
+                    ],
+                    "answer": "26 January 1950"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Total strength of Constituent Assembly initially:",
+                    "options": [
+                        "299",
+                        "389",
+                        "350",
+                        "400"
+                    ],
+                    "answer": "389"
+                },
+                {
+                    "question": "Temporary President of Constituent Assembly:",
+                    "options": [
+                        "Rajendra Prasad",
+                        "Sachchidananda Sinha",
+                        "Ambedkar",
+                        "Nehru"
+                    ],
+                    "answer": "Sachchidananda Sinha"
+                },
+                {
+                    "question": "Constitution adopted on:",
+                    "options": [
+                        "26 Jan 1950",
+                        "15 Aug 1947",
+                        "26 Nov 1949",
+                        "1 Jan 1950"
+                    ],
+                    "answer": "26 Nov 1949"
+                },
+                {
+                    "question": "Draft Constitution published in:",
+                    "options": [
+                        "1946",
+                        "1947",
+                        "1948",
+                        "1949"
+                    ],
+                    "answer": "1948"
+                },
+                {
+                    "question": "Constitutional Advisor was:",
+                    "options": [
+                        "Ambedkar",
+                        "B.N. Rau",
+                        "Nehru",
+                        "Patel"
+                    ],
+                    "answer": "B.N. Rau"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1.Constituent Assembly was directly elected\n2.It was based on proportional representation\n3.Princely States had representation",
+                    "options": [
+                        "1 only",
+                        "2 and 3 only",
+                        "1 and 2",
+                        "All"
+                    ],
+                    "answer": "2 and 3 only"
+                },
+                {
+                    "question": "Which committee was headed by Sardar Patel?",
+                    "options": [
+                        "Drafting Committee",
+                        "Union Powers Committee",
+                        "Provincial Constitution Committee",
+                        "Fundamental Rights Committee"
+                    ],
+                    "answer": "Provincial Constitution Committee"
+                },
+                {
+                    "question": "Time taken to frame Constitution:",
+                    "options": [
+                        "2 years",
+                        "3 years",
+                        "2 years 11 months 18 days",
+                        "4 years"
+                    ],
+                    "answer": "2 years 11 months 18 days"
+                },
+                {
+                    "question": "After partition, total strength became:",
+                    "options": [
+                        "389",
+                        "350",
+                        "299",
+                        "250"
+                    ],
+                    "answer": "299"
+                },
+                {
+                    "question": "Which of the following is correct?\n1.Drafting Committee formed in 1947\n2.Final Constitution adopted in 1950\n3.Enforcement in 1950",
+                    "options": [
+                        "1 and 3 only",
+                        "2 and 3 only",
+                        "1 only",
+                        "All"
+                    ],
+                    "answer": "1 and 3 only"
+                }
+            ]
+        }
+    },
+
+    {
+        "name": "Making of the Constitution – Objectives Resolution (1946)",
+        "notes": [
+            {
+                "heading": "Background",
+                "points": [
+                    "Moved by Jawaharlal Nehru on 13 December 1946 in the Constituent Assembly",
+                    "Adopted on 22 January 1947",
+                    "Served as the philosophical base of the Indian Constitution",
+                    "Reflected India's aspirations for independence and governance structure"
+                ]
+            },
+            {
+                "heading": "Key Features of Objectives Resolution",
+                "points": [
+                    "Declared India as an independent sovereign republic",
+                    "Proposed that all powers and authority of government are derived from the people",
+                    "Guaranteed justice, social, economic and political equality",
+                    "Ensured freedom of thought, expression, belief, faith, worship, vocation, association",
+                    "Promised protection of minorities, backward and tribal areas",
+                    "Committed to maintaining integrity and territorial sovereignty of India"
+                ]
+            },
+            {
+                "heading": "Importance in Constitution Making",
+                "points": [
+                    "Provided ideological framework for drafting the Constitution",
+                    "Later influenced the Preamble of the Constitution",
+                    "Reflected democratic and secular values",
+                    "Guided Constituent Assembly debates"
+                ]
+            },
+            {
+                "heading": "Relation with Preamble",
+                "points": [
+                    "Many ideas directly reflected in the Preamble of 1950 Constitution",
+                    "Sovereign, Socialist, Secular, Democratic Republic concept evolved from it",
+                    "Justice, Liberty, Equality, and Fraternity trace roots here"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Who moved the Objectives Resolution in the Constituent Assembly?",
+                    "options": [
+                        "B.R. Ambedkar",
+                        "Jawaharlal Nehru",
+                        "Sardar Patel",
+                        "Rajendra Prasad"
+                    ],
+                    "answer": "Jawaharlal Nehru"
+                },
+                {
+                    "question": "Objectives Resolution was adopted on:",
+                    "options": [
+                        "26 January 1950",
+                        "22 January 1947",
+                        "15 August 1947",
+                        "9 December 1946"
+                    ],
+                    "answer": "22 January 1947"
+                },
+                {
+                    "question": "Objectives Resolution mainly provides:",
+                    "options": [
+                        "Judicial structure",
+                        "Philosophical foundation",
+                        "Economic policy",
+                        "Administrative structure"
+                    ],
+                    "answer": "Philosophical foundation"
+                },
+                {
+                    "question": "Which document was influenced by Objectives Resolution?",
+                    "options": [
+                        "Government of India Act 1935",
+                        "Preamble of Constitution",
+                        "Indian Penal Code",
+                        "Cabinet Mission Plan"
+                    ],
+                    "answer": "Preamble of Constitution"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Objectives Resolution declared India as:",
+                    "options": [
+                        "Dominion State",
+                        "Independent Sovereign Republic",
+                        "Federal Monarchy",
+                        "Confederation"
+                    ],
+                    "answer": "Independent Sovereign Republic"
+                },
+                {
+                    "question": "Which of the following were included in Objectives Resolution?",
+                    "options": [
+                        "Justice and Equality",
+                        "Freedom of thought and expression",
+                        "Protection of minorities",
+                        "All of the above"
+                    ],
+                    "answer": "All of the above"
+                },
+                {
+                    "question": "The ideas of Objectives Resolution are reflected in:",
+                    "options": [
+                        "Fundamental Rights only",
+                        "Directive Principles only",
+                        "Preamble",
+                        "Emergency provisions"
+                    ],
+                    "answer": "Preamble"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1.Objectives Resolution was moved before independence\n2.It was adopted by Constituent Assembly\n3.It has no relevance to Preamble",
+                    "options": [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 only",
+                        "All"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Which of the following best describes Objectives Resolution?",
+                    "options": [
+                        "Legal document",
+                        "Administrative guideline",
+                        "Constitutional philosophy blueprint",
+                        "Judicial precedent"
+                    ],
+                    "answer": "Constitutional philosophy blueprint"
+                },
+                {
+                    "question": "Which idea was NOT part of Objectives Resolution?",
+                    "options": [
+                        "Sovereignty of people",
+                        "Equality and justice",
+                        "Hereditary monarchy",
+                        "Protection of minorities"
+                    ],
+                    "answer": "Hereditary monarchy"
+                }
+            ]
+        }
+    },
+
+    {
+        "name": "Making of the Constitution – Criticism and Evaluation of Constituent Assembly",
+        "notes": [
+            {
+                "heading": "Non-Representative Nature",
+                "points": [
+                    "Members were indirectly elected, not directly by the people",
+                    "Based on limited franchise under 1935 Government of India Act",
+                    "Muslim League initially boycotted the Assembly after Partition",
+                    "Princely States’ representatives were nominated, not elected"
+                ]
+            },
+            {
+                "heading": "Dominance of Congress",
+                "points": [
+                    "Indian National Congress had overwhelming majority",
+                    "Other political groups had very limited representation",
+                    "Leaders like Nehru, Patel, and Ambedkar shaped major decisions",
+                    "Led to criticism of lack of political diversity"
+                ]
+            },
+            {
+                "heading": "Time Taken and Efficiency",
+                "points": [
+                    "Took nearly 3 years to complete Constitution drafting",
+                    "Critics argue it was slow and time-consuming",
+                    "However, detailed debates ensured quality Constitution",
+                    "165 days of actual sittings show limited working days"
+                ]
+            },
+            {
+                "heading": "British Influence",
+                "points": [
+                    "Critics argue it borrowed heavily from Government of India Act, 1935",
+                    "Federal structure, Governor's role influenced by British model",
+                    "However, adapted to Indian conditions with major modifications"
+                ]
+            },
+            {
+                "heading": "Elite Dominance",
+                "points": [
+                    "Members were mostly lawyers, politicians, and educated elites",
+                    "Lack of representation of women, workers, and rural masses",
+                    "But leaders claimed they acted as trustees of people’s will"
+                ]
+            },
+            {
+                "heading": "Positive Evaluation",
+                "points": [
+                    "Created the largest written Constitution in the world",
+                    "Successfully integrated diverse interests of India",
+                    "Established democratic framework after independence",
+                    "Despite criticisms, widely respected for depth and vision"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Constituent Assembly was criticized mainly for being:",
+                    "options": [
+                        "Directly elected",
+                        "Non-representative",
+                        "Overly large",
+                        "Foreign controlled"
+                    ],
+                    "answer": "Non-representative"
+                },
+                {
+                    "question": "Which party had dominance in Constituent Assembly?",
+                    "options": [
+                        "Muslim League",
+                        "Congress",
+                        "Communist Party",
+                        "Liberal Party"
+                    ],
+                    "answer": "Congress"
+                },
+                {
+                    "question": "Constituent Assembly is criticized for taking:",
+                    "options": [
+                        "Few months",
+                        "Nearly 3 years",
+                        "10 years",
+                        "5 years"
+                    ],
+                    "answer": "Nearly 3 years"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which of the following was a criticism of Constituent Assembly?",
+                    "options": [
+                        "It was directly elected",
+                        "It had too much foreign influence",
+                        "Elite dominance",
+                        "It had too many regional parties"
+                    ],
+                    "answer": "Elite dominance"
+                },
+                {
+                    "question": "Which Act influenced composition indirectly?",
+                    "options": [
+                        "Indian Councils Act 1909",
+                        "Government of India Act 1935",
+                        "Regulating Act 1773",
+                        "Pitt’s India Act 1784"
+                    ],
+                    "answer": "Government of India Act 1935"
+                },
+                {
+                    "question": "Which of the following is a positive evaluation?",
+                    "options": [
+                        "Lack of debate",
+                        "Large participation of masses",
+                        "Strong constitutional framework",
+                        "Foreign control"
+                    ],
+                    "answer": "Strong constitutional framework"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1.Constituent Assembly was directly elected by universal suffrage\n2.It was dominated by Congress members\n3.It completed Constitution in less than 3 years",
+                    "options": [
+                        "2 and 3 only",
+                        "1 and 2 only",
+                        "1 and 3 only",
+                        "All"
+                    ],
+                    "answer": "2 and 3 only"
+                },
+                {
+                    "question": "Which of the following best describes criticism of Constituent Assembly?",
+                    "options": [
+                        "Over-representation of minorities",
+                        "Lack of diversity and elite dominance",
+                        "Excess foreign intervention",
+                        "Military control"
+                    ],
+                    "answer": "Lack of diversity and elite dominance"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Muslim League actively participated till end",
+                        "It was fully representative of Indian population",
+                        "It was indirectly elected body",
+                        "It was formed after Constitution enforcement"
+                    ],
+                    "answer": "It was indirectly elected body"
+                }
+            ]
+        }
+    },
+
+    {
+        "name": "Making of the Constitution – Sources of the Indian Constitution",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Indian Constitution borrowed features from multiple countries and historical acts",
+                    "Adapted ideas to Indian socio-political conditions",
+                    "Government of India Act 1935 was the most influential source"
+                ]
+            },
+            {
+                "heading": "British Sources",
+                "points": [
+                    "Government of India Act 1935: Federal structure, Governor, Public Service Commissions",
+                    "Parliamentary system: UK model",
+                    "Rule of Law concept",
+                    "Legislative procedures and law-making system"
+                ]
+            },
+            {
+                "heading": "USA (United States)",
+                "points": [
+                    "Fundamental Rights",
+                    "Judicial Review",
+                    "Preamble ideals (Liberty, Equality)",
+                    "Independence of Judiciary",
+                    "Impeachment of President"
+                ]
+            },
+            {
+                "heading": "Ireland",
+                "points": [
+                    "Directive Principles of State Policy (DPSP)",
+                    "Method of Presidential election",
+                    "Nomination of members to Rajya Sabha concept (inspiration)"
+                ]
+            },
+            {
+                "heading": "Canada",
+                "points": [
+                    "Quasi-federal structure",
+                    "Strong Centre with federal features",
+                    "Residuary powers with Centre"
+                ]
+            },
+            {
+                "heading": "Australia",
+                "points": [
+                    "Concurrent List idea",
+                    "Freedom of trade and commerce",
+                    "Joint sitting of Parliament"
+                ]
+            },
+            {
+                "heading": "USSR (Soviet Union)",
+                "points": [
+                    "Fundamental Duties (inspired later)",
+                    "Planning Commission concept",
+                    "Socio-economic justice orientation"
+                ]
+            },
+            {
+                "heading": "Weimar Constitution (Germany)",
+                "points": [
+                    "Emergency provisions (Article 352–360)",
+                    "Suspension of Fundamental Rights during emergency"
+                ]
+            },
+            {
+                "heading": "South Africa",
+                "points": [
+                    "Procedure of Constitutional Amendment",
+                    "Election of Rajya Sabha members"
+                ]
+            },
+            {
+                "heading": "Japan",
+                "points": [
+                    "Procedure established by law (Rule of Law in strict sense influence)"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Which country influenced Fundamental Rights in Indian Constitution?",
+                    "options": [
+                        "UK",
+                        "USA",
+                        "Canada",
+                        "Japan"
+                    ],
+                    "answer": "USA"
+                },
+                {
+                    "question": "Directive Principles are borrowed from:",
+                    "options": [
+                        "USA",
+                        "Ireland",
+                        "UK",
+                        "Canada"
+                    ],
+                    "answer": "Ireland"
+                },
+                {
+                    "question": "Most influential source of Indian Constitution:",
+                    "options": [
+                        "USA Constitution",
+                        "Government of India Act 1935",
+                        "Irish Constitution",
+                        "French Constitution"
+                    ],
+                    "answer": "Government of India Act 1935"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which of the following is NOT borrowed from USA?",
+                    "options": [
+                        "Judicial Review",
+                        "Fundamental Rights",
+                        "Directive Principles",
+                        "Preamble ideals"
+                    ],
+                    "answer": "Directive Principles"
+                },
+                {
+                    "question": "Concurrent List concept is borrowed from:",
+                    "options": [
+                        "Canada",
+                        "Australia",
+                        "UK",
+                        "USA"
+                    ],
+                    "answer": "Australia"
+                },
+                {
+                    "question": "Emergency provisions in India are inspired from:",
+                    "options": [
+                        "USA",
+                        "Germany",
+                        "UK",
+                        "Canada"
+                    ],
+                    "answer": "Germany"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1.India borrowed Fundamental Rights from USA\n2.Directive Principles are from Ireland\n3.Federal structure is inspired only from Canada",
+                    "options": [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "All"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Which of the following pairs is correctly matched?",
+                    "options": [
+                        "Australia – Fundamental Rights",
+                        "USA – Directive Principles",
+                        "Canada – Strong Centre",
+                        "UK – Written Constitution"
+                    ],
+                    "answer": "Canada – Strong Centre"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Indian Constitution is completely original",
+                        "Most provisions are borrowed and adapted",
+                        "No foreign influence exists",
+                        "Only British model was used"
+                    ],
+                    "answer": "Most provisions are borrowed and adapted"
+                }
+            ]
+        }
+    },
+
+    {
+        "name": "Making of the Constitution – Enactment, Adoption & Enforcement",
+        "notes": [
+            {
+                "heading": "Adoption of Constitution",
+                "points": [
+                    "Constitution was formally adopted on 26 November 1949",
+                    "On this date, the Constituent Assembly completed its work",
+                    "Some provisions came into effect immediately (like citizenship, elections etc.)",
+                    "This date is mentioned in the Preamble as the date of adoption"
+                ]
+            },
+            {
+                "heading": "Enforcement of Constitution",
+                "points": [
+                    "Entire Constitution came into force on 26 January 1950",
+                    "India became a Sovereign Democratic Republic on this day",
+                    "First President of India, Dr. Rajendra Prasad, took office later in 1950"
+                ]
+            },
+            {
+                "heading": "Why 26 January?",
+                "points": [
+                    "Chosen to honor the Lahore Session of Congress (1930)",
+                    "In 1930, Purna Swaraj (complete independence) was declared on this day",
+                    "Symbolic connection to India's freedom struggle"
+                ]
+            },
+            {
+                "heading": "Transitional Provisions",
+                "points": [
+                    "Constitution allowed smooth transition from colonial rule",
+                    "Government of India Act 1935 continued temporarily in certain aspects",
+                    "Existing laws were adapted until replaced by new constitutional provisions"
+                ]
+            },
+            {
+                "heading": "Significance",
+                "points": [
+                    "Marked beginning of constitutional democracy in India",
+                    "Shifted India from colonial governance to republic status",
+                    "Established rule of law and constitutional supremacy"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "When was the Constitution of India adopted?",
+                    "options": [
+                        "15 August 1947",
+                        "26 November 1949",
+                        "26 January 1950",
+                        "9 December 1946"
+                    ],
+                    "answer": "26 November 1949"
+                },
+                {
+                    "question": "Constitution came into force on:",
+                    "options": [
+                        "26 November 1949",
+                        "26 January 1950",
+                        "15 August 1947",
+                        "1 January 1950"
+                    ],
+                    "answer": "26 January 1950"
+                },
+                {
+                    "question": "26 January is celebrated as Republic Day because:",
+                    "options": [
+                        "Independence achieved",
+                        "Constitution adopted",
+                        "Purna Swaraj Day (1930)",
+                        "First Parliament session"
+                    ],
+                    "answer": "Purna Swaraj Day (1930)"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which of the following is correct?",
+                    "options": [
+                        "Adoption and enforcement happened on same day",
+                        "Adoption in 1947 and enforcement in 1950",
+                        "Adoption in 1949 and enforcement in 1950",
+                        "Both in 1950"
+                    ],
+                    "answer": "Adoption in 1949 and enforcement in 1950"
+                },
+                {
+                    "question": "Transitional provisions were needed because:",
+                    "options": [
+                        "Sudden change to monarchy",
+                        "Immediate abolition of Constitution",
+                        "Smooth shift from British rule",
+                        "Economic emergency"
+                    ],
+                    "answer": "Smooth shift from British rule"
+                },
+                {
+                    "question": "Who became the first President of India?",
+                    "options": [
+                        "Jawaharlal Nehru",
+                        "B.R. Ambedkar",
+                        "Dr. Rajendra Prasad",
+                        "Sardar Patel"
+                    ],
+                    "answer": "Dr. Rajendra Prasad"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1.Constitution was adopted on 26 November 1949\n2.It came into force on 26 January 1950\n3.26 January was chosen randomly",
+                    "options": [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "All"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Which of the following best explains enforcement delay?",
+                    "options": [
+                        "Administrative delay",
+                        "Need for political consensus",
+                        "Symbolic significance of date selection",
+                        "Judicial review process"
+                    ],
+                    "answer": "Symbolic significance of date selection"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Constitution became effective immediately after drafting",
+                        "It required enforcement on a later symbolic date",
+                        "It was enforced in 1947",
+                        "It was enforced before adoption"
+                    ],
+                    "answer": "It required enforcement on a later symbolic date"
+                }
+            ]
+        }
+    },
+
+    {
+        "name": "Making of the Constitution – Preamble of the Indian Constitution",
+        "notes": [
+            {
+                "heading": "Introduction",
+                "points": [
+                    "Preamble is the introduction or preface to the Constitution",
+                    "It reflects the philosophy and objectives of the Constitution",
+                    "Based on the Objectives Resolution of Jawaharlal Nehru (1946)",
+                    "Adopted on 26 November 1949 along with Constitution"
+                ]
+            },
+            {
+                "heading": "Key Words in Preamble",
+                "points": [
+                    "We, the People of India – Sovereignty lies with people",
+                    "Sovereign – Independent nation, no external control",
+                    "Socialist – Social and economic equality (added via 42nd Amendment)",
+                    "Secular – Equal respect for all religions (added via 42nd Amendment)",
+                    "Democratic – Government elected by people",
+                    "Republic – Head of state is elected, not hereditary"
+                ]
+            },
+            {
+                "heading": "Objectives of Preamble",
+                "points": [
+                    "Justice – Social, economic and political",
+                    "Liberty – Thought, expression, belief, faith and worship",
+                    "Equality – Status and opportunity",
+                    "Fraternity – Ensures dignity of individual and unity of nation"
+                ]
+            },
+            {
+                "heading": "Legal Status of Preamble",
+                "points": [
+                    "Initially considered non-justiciable (not enforceable in court)",
+                    "Kesavananda Bharati Case (1973): Preamble is part of Constitution",
+                    "Cannot be amended in a way that destroys its basic structure",
+                    "It is used as an interpretative tool for Constitution"
+                ]
+            },
+            {
+                "heading": "Amendment of Preamble",
+                "points": [
+                    "Amended only once so far",
+                    "42nd Constitutional Amendment Act (1976)",
+                    "Added words: Socialist, Secular, Integrity",
+                    "Changed description of India to 'Sovereign Socialist Secular Democratic Republic'"
+                ]
+            },
+            {
+                "heading": "Importance",
+                "points": [
+                    "Acts as guiding light for Constitution interpretation",
+                    "Reflects ideals of freedom struggle",
+                    "Foundation of Indian democratic system",
+                    "Helps courts in constitutional interpretation"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Preamble of Indian Constitution is based on:",
+                    "options": [
+                        "Government of India Act 1935",
+                        "Objectives Resolution",
+                        "Cabinet Mission Plan",
+                        "Cripps Mission"
+                    ],
+                    "answer": "Objectives Resolution"
+                },
+                {
+                    "question": "Which word was NOT originally in the Preamble?",
+                    "options": [
+                        "Sovereign",
+                        "Democratic",
+                        "Secular",
+                        "Republic"
+                    ],
+                    "answer": "Secular"
+                },
+                {
+                    "question": "Preamble was adopted on:",
+                    "options": [
+                        "26 January 1950",
+                        "26 November 1949",
+                        "15 August 1947",
+                        "9 December 1946"
+                    ],
+                    "answer": "26 November 1949"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which of the following words were added by 42nd Amendment?",
+                    "options": [
+                        "Sovereign and Democratic",
+                        "Socialist and Secular",
+                        "Republic and Justice",
+                        "Liberty and Equality"
+                    ],
+                    "answer": "Socialist and Secular"
+                },
+                {
+                    "question": "Which case held that Preamble is part of Constitution?",
+                    "options": [
+                        "Golaknath Case",
+                        "Kesavananda Bharati Case",
+                        "Minerva Mills Case",
+                        "Berubari Case"
+                    ],
+                    "answer": "Kesavananda Bharati Case"
+                },
+                {
+                    "question": "Preamble is:",
+                    "options": [
+                        "Justiciable",
+                        "Non-justiciable",
+                        "Law-making body",
+                        "Emergency provision"
+                    ],
+                    "answer": "Non-justiciable"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1.Preamble is part of Constitution\n2.It can be amended without limitation\n3.It reflects Objectives Resolution",
+                    "options": [
+                        "1 and 3 only",
+                        "2 and 3 only",
+                        "1 and 2 only",
+                        "All"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "Which of the following best describes Preamble?",
+                    "options": [
+                        "Legal code of India",
+                        "Political manifesto",
+                        "Philosophy of Constitution",
+                        "Administrative guideline"
+                    ],
+                    "answer": "Philosophy of Constitution"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Preamble can destroy basic structure",
+                        "Preamble cannot be amended at all",
+                        "Preamble is part of Constitution and helps interpretation",
+                        "Preamble has no constitutional value"
+                    ],
+                    "answer": "Preamble is part of Constitution and helps interpretation"
+                }
+            ]
+        }
+    }
+]

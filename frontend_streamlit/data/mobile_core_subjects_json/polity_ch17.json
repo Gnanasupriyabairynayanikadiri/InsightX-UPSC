@@ -1,0 +1,1795 @@
+[
+    {
+        "name": "Governor (State Executive)",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Governor is the constitutional head of a State",
+                    "Acts as the nominal executive, while real power lies with the Council of Ministers",
+                    "Functions similar to the President at the state level",
+                    "Provided under Part VI of the Constitution (Articles 153–167)"
+                ]
+            },
+            {
+                "heading": "Constitutional Position",
+                "points": [
+                    "Governor is the head of the state executive",
+                    "All executive actions are taken in his/her name",
+                    "Acts on aid and advice of Council of Ministers",
+                    "Important link between Centre and State"
+                ]
+            },
+            {
+                "heading": "Appointment of Governor",
+                "points": [
+                    "Appointed by the President of India",
+                    "Not elected directly or indirectly",
+                    "Holds office during the pleasure of the President",
+                    "Usually appointed from outside the state"
+                ]
+            },
+            {
+                "heading": "Qualifications",
+                "points": [
+                    "Citizen of India",
+                    "Minimum age of 35 years",
+                    "Must not be a member of Parliament or State Legislature",
+                    "Must not hold any office of profit"
+                ]
+            },
+            {
+                "heading": "Conditions of Office",
+                "points": [
+                    "Cannot be a member of legislature",
+                    "Entitled to official residence (Raj Bhavan)",
+                    "Receives salary and allowances",
+                    "Emoluments cannot be reduced during tenure"
+                ]
+            },
+            {
+                "heading": "Term of Office",
+                "points": [
+                    "Normal term is 5 years",
+                    "Holds office at the pleasure of the President",
+                    "Can resign anytime",
+                    "Can be removed before completion of term"
+                ]
+            },
+            {
+                "heading": "Oath or Affirmation",
+                "points": [
+                    "Administered by Chief Justice of High Court",
+                    "Swears to preserve, protect, and defend the Constitution",
+                    "Ensures faithful discharge of duties",
+                    "Mandatory before assuming office"
+                ]
+            },
+            {
+                "heading": "Powers of the Governor",
+                "points": [
+                    "Executive Powers",
+                    "Legislative Powers",
+                    "Financial Powers",
+                    "Judicial Powers",
+                    "Discretionary Powers"
+                ]
+            },
+            {
+                "heading": "Executive Powers",
+                "points": [
+                    "Appoints Chief Minister and Council of Ministers",
+                    "Allocates portfolios",
+                    "Appoints Advocate General, State Election Commissioner",
+                    "Administers state affairs in his/her name"
+                ]
+            },
+            {
+                "heading": "Legislative Powers",
+                "points": [
+                    "Summons, prorogues, and dissolves State Legislature",
+                    "Addresses the legislature",
+                    "Gives assent to bills",
+                    "Can reserve bills for President",
+                    "Promulgates ordinances when legislature not in session"
+                ]
+            },
+            {
+                "heading": "Financial Powers",
+                "points": [
+                    "No money bill can be introduced without Governor’s recommendation",
+                    "Ensures annual budget is laid before legislature",
+                    "Controls state finances indirectly",
+                    "Ensures financial discipline"
+                ]
+            },
+            {
+                "heading": "Judicial Powers",
+                "points": [
+                    "Can grant pardons, reprieves, respites, or remissions",
+                    "Applies to state laws",
+                    "Appoints district judges (in consultation with High Court)",
+                    "Ensures justice system support"
+                ]
+            },
+            {
+                "heading": "Discretionary Powers",
+                "points": [
+                    "Can act without advice of Council of Ministers in certain situations",
+                    "Reservation of bills for President",
+                    "Appointment of CM in hung assembly",
+                    "Report to President for President’s Rule (Article 356)"
+                ]
+            },
+            {
+                "heading": "Role as Agent of Centre",
+                "points": [
+                    "Acts as a link between Union and State",
+                    "Reports to President about state affairs",
+                    "Implements central directives",
+                    "Important in maintaining federal balance"
+                ]
+            },
+            {
+                "heading": "Criticism of Office of Governor",
+                "points": [
+                    "Allegations of political bias",
+                    "Misuse of discretionary powers",
+                    "Seen as agent of Centre rather than neutral authority",
+                    "Controversies in appointment and removal"
+                ]
+            },
+            {
+                "heading": "Conclusion (UPSC Perspective)",
+                "points": [
+                    "Governor is a key constitutional authority at state level",
+                    "Plays dual role: constitutional head and Centre’s agent",
+                    "Balance between neutrality and political reality is crucial",
+                    "Reforms needed for impartial functioning"
+                ]
+            },
+            {
+                "heading": "Important Constitutional Articles",
+                "points": [
+                    "Article 153: Governor of States",
+                    "Article 154: Executive power",
+                    "Article 163: Council of Ministers to aid and advise",
+                    "Article 164: Appointment of CM",
+                    "Article 200: Assent to bills",
+                    "Article 356: President’s Rule"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Governor = nominal executive head",
+                    "Appointed by President",
+                    "Has discretionary powers",
+                    "Important link between Centre and State",
+                    "Controversial role in politics"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Governor is appointed by:",
+                    "options": [
+                        "Prime Minister",
+                        "President",
+                        "Parliament",
+                        "Chief Minister"
+                    ],
+                    "answer": "President"
+                },
+                {
+                    "question": "Minimum age is:",
+                    "options": [
+                        "30",
+                        "35",
+                        "40",
+                        "45"
+                    ],
+                    "answer": "35"
+                },
+                {
+                    "question": "Governor is:",
+                    "options": [
+                        "Real executive",
+                        "Nominal executive",
+                        "Judicial head",
+                        "Legislative head"
+                    ],
+                    "answer": "Nominal executive"
+                },
+                {
+                    "question": "Term is:",
+                    "options": [
+                        "3 years",
+                        "5 years",
+                        "6 years",
+                        "10 years"
+                    ],
+                    "answer": "5 years"
+                },
+                {
+                    "question": "Oath is given by:",
+                    "options": [
+                        "President",
+                        "Chief Justice of High Court",
+                        "Prime Minister",
+                        "Speaker"
+                    ],
+                    "answer": "Chief Justice of High Court"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Discretionary power includes:",
+                    "options": [
+                        "Budget preparation",
+                        "Reservation of bills",
+                        "Judicial review",
+                        "Military control"
+                    ],
+                    "answer": "Reservation of bills"
+                },
+                {
+                    "question": "Governor can promulgate:",
+                    "options": [
+                        "Bills",
+                        "Ordinances",
+                        "Judgments",
+                        "Rules"
+                    ],
+                    "answer": "Ordinances"
+                },
+                {
+                    "question": "Money Bill needs:",
+                    "options": [
+                        "Judicial approval",
+                        "Governor’s recommendation",
+                        "President’s approval",
+                        "Speaker’s approval"
+                    ],
+                    "answer": "Governor’s recommendation"
+                },
+                {
+                    "question": "Governor acts as:",
+                    "options": [
+                        "Judicial authority",
+                        "Agent of Centre",
+                        "Military head",
+                        "Election authority"
+                    ],
+                    "answer": "Agent of Centre"
+                },
+                {
+                    "question": "Article 356 relates to:",
+                    "options": [
+                        "Budget",
+                        "Emergency",
+                        "President’s Rule",
+                        "Election"
+                    ],
+                    "answer": "President’s Rule"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Governor is nominal head\n2. Appointed by President\n3. Has discretionary powers",
+                    "options": [
+                        "All",
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3"
+                    ],
+                    "answer": "All"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Governor is elected",
+                        "Governor is appointed",
+                        "Governor is real executive",
+                        "Governor is judicial head"
+                    ],
+                    "answer": "Governor is appointed"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Governor has executive powers",
+                        "Governor has legislative powers",
+                        "Governor has no powers",
+                        "Governor has financial powers"
+                    ],
+                    "answer": "Governor has no powers"
+                },
+                {
+                    "question": "Main criticism is:",
+                    "options": [
+                        "Judicial review",
+                        "Political bias",
+                        "Military control",
+                        "Election process"
+                    ],
+                    "answer": "Political bias"
+                },
+                {
+                    "question": "Final role of Governor is:",
+                    "options": [
+                        "Executive dominance",
+                        "Constitutional head",
+                        "Military authority",
+                        "Judicial authority"
+                    ],
+                    "answer": "Constitutional head"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Appointment of Governor",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Governor is not elected but appointed",
+                    "Represents the Union at the State level",
+                    "Ensures smooth functioning of constitutional machinery",
+                    "Important aspect of Indian federal structure"
+                ]
+            },
+            {
+                "heading": "Constitutional Provision",
+                "points": [
+                    "Article 155: Governor shall be appointed by the President",
+                    "Article 156: Holds office during the pleasure of the President",
+                    "No direct or indirect election involved",
+                    "Part of parliamentary system"
+                ]
+            },
+            {
+                "heading": "Mode of Appointment",
+                "points": [
+                    "Appointed by the President by warrant under his hand and seal",
+                    "In practice, President acts on advice of Union Council of Ministers",
+                    "Central government plays key role",
+                    "Ensures coordination between Centre and State"
+                ]
+            },
+            {
+                "heading": "Qualifications (Recalled)",
+                "points": [
+                    "Citizen of India",
+                    "Minimum age of 35 years",
+                    "Must not hold office of profit",
+                    "Must not be a member of Parliament or State Legislature"
+                ]
+            },
+            {
+                "heading": "Oath Before Appointment",
+                "points": [
+                    "Administered by Chief Justice of High Court",
+                    "Or senior-most judge in absence",
+                    "Ensures commitment to Constitution",
+                    "Mandatory before assuming office"
+                ]
+            },
+            {
+                "heading": "Conventions Followed in Appointment",
+                "points": [
+                    "Governor is usually from outside the state",
+                    "Not actively involved in local politics",
+                    "Consultation with Chief Minister (not mandatory)",
+                    "Aimed at neutrality and impartiality"
+                ]
+            },
+            {
+                "heading": "Why Appointment (Not Election)?",
+                "points": [
+                    "Avoids conflict between Governor and elected State Government",
+                    "Ensures unity and integrity of nation",
+                    "Maintains parliamentary system",
+                    "Prevents dual political authority"
+                ]
+            },
+            {
+                "heading": "Term Related to Appointment",
+                "points": [
+                    "Nominal term of 5 years",
+                    "But serves at pleasure of President",
+                    "Can be removed anytime",
+                    "No fixed security like judges"
+                ]
+            },
+            {
+                "heading": "Removal of Governor",
+                "points": [
+                    "No impeachment process",
+                    "Can be removed by President anytime",
+                    "Based on advice of Union Government",
+                    "Leads to criticism regarding independence"
+                ]
+            },
+            {
+                "heading": "Issues & Criticism",
+                "points": [
+                    "Political appointments common",
+                    "Lack of transparency in selection",
+                    "Removal without reason",
+                    "Seen as agent of Centre",
+                    "Misuse in state politics"
+                ]
+            },
+            {
+                "heading": "Recommendations (Reforms)",
+                "points": [
+                    "Sarkaria Commission: consultation with CM",
+                    "Punchhi Commission: fixed tenure security",
+                    "Avoid active politicians",
+                    "Ensure neutrality and independence"
+                ]
+            },
+            {
+                "heading": "Conclusion (UPSC Perspective)",
+                "points": [
+                    "Appointment ensures strong Centre-State linkage",
+                    "However, political misuse raises concerns",
+                    "Reforms needed for impartial functioning",
+                    "Balance between control and autonomy is essential"
+                ]
+            },
+            {
+                "heading": "Important Constitutional Articles",
+                "points": [
+                    "Article 155: Appointment",
+                    "Article 156: Term and pleasure",
+                    "Article 157: Qualifications",
+                    "Article 158: Conditions of office"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Governor appointed by President",
+                    "Serves at pleasure of President",
+                    "No election process",
+                    "Political controversy important topic",
+                    "Sarkaria & Punchhi recommendations important"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Governor is appointed by:",
+                    "options": [
+                        "Prime Minister",
+                        "President",
+                        "Parliament",
+                        "Chief Minister"
+                    ],
+                    "answer": "President"
+                },
+                {
+                    "question": "Article for appointment:",
+                    "options": [
+                        "155",
+                        "156",
+                        "157",
+                        "158"
+                    ],
+                    "answer": "155"
+                },
+                {
+                    "question": "Minimum age is:",
+                    "options": [
+                        "30",
+                        "35",
+                        "40",
+                        "45"
+                    ],
+                    "answer": "35"
+                },
+                {
+                    "question": "Governor is:",
+                    "options": [
+                        "Elected",
+                        "Appointed",
+                        "Nominated by CM",
+                        "Selected by judiciary"
+                    ],
+                    "answer": "Appointed"
+                },
+                {
+                    "question": "Governor serves at:",
+                    "options": [
+                        "Fixed term only",
+                        "Pleasure of President",
+                        "Parliament’s will",
+                        "Judiciary’s order"
+                    ],
+                    "answer": "Pleasure of President"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Removal of Governor:",
+                    "options": [
+                        "Impeachment",
+                        "President’s decision",
+                        "Judicial review",
+                        "Election"
+                    ],
+                    "answer": "President’s decision"
+                },
+                {
+                    "question": "Convention is Governor from:",
+                    "options": [
+                        "Same state",
+                        "Outside state",
+                        "Same district",
+                        "Foreign country"
+                    ],
+                    "answer": "Outside state"
+                },
+                {
+                    "question": "Sarkaria Commission suggested:",
+                    "options": [
+                        "Election of Governor",
+                        "Consultation with CM",
+                        "Removal of post",
+                        "Judicial appointment"
+                    ],
+                    "answer": "Consultation with CM"
+                },
+                {
+                    "question": "Why not elected?",
+                    "options": [
+                        "Increase conflict",
+                        "Avoid conflict",
+                        "Reduce power",
+                        "Increase judiciary role"
+                    ],
+                    "answer": "Avoid conflict"
+                },
+                {
+                    "question": "Main criticism is:",
+                    "options": [
+                        "Judicial review",
+                        "Political bias",
+                        "Military control",
+                        "Election process"
+                    ],
+                    "answer": "Political bias"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Governor appointed by President\n2. No election involved\n3. Fixed secure tenure",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Governor elected",
+                        "Governor appointed",
+                        "Governor judicial officer",
+                        "Governor military head"
+                    ],
+                    "answer": "Governor appointed"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Article 155 exists",
+                        "Governor serves at pleasure",
+                        "Governor elected",
+                        "No impeachment"
+                    ],
+                    "answer": "Governor elected"
+                },
+                {
+                    "question": "Main issue in appointment is:",
+                    "options": [
+                        "Transparency",
+                        "Judicial review",
+                        "Military control",
+                        "Election system"
+                    ],
+                    "answer": "Transparency"
+                },
+                {
+                    "question": "Final nature of appointment is:",
+                    "options": [
+                        "Political + constitutional",
+                        "Judicial",
+                        "Military",
+                        "Election-based"
+                    ],
+                    "answer": "Political + constitutional"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Conditions of Governor’s Office",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Conditions of office define the rules and restrictions applicable to the Governor",
+                    "Ensure independence, neutrality, and proper functioning",
+                    "Provided mainly under Article 158 of the Constitution",
+                    "Prevent conflict of interest and misuse of position"
+                ]
+            },
+            {
+                "heading": "Constitutional Provision",
+                "points": [
+                    "Article 158 deals with conditions of Governor’s office",
+                    "Specifies restrictions, salary, and privileges",
+                    "Ensures dignity and independence of office",
+                    "Important for maintaining constitutional morality"
+                ]
+            },
+            {
+                "heading": "No Membership of Legislature",
+                "points": [
+                    "Governor cannot be a member of Parliament or State Legislature",
+                    "If a member is appointed, he/she must resign",
+                    "Ensures separation from legislative functions",
+                    "Prevents political influence"
+                ]
+            },
+            {
+                "heading": "No Office of Profit",
+                "points": [
+                    "Governor cannot hold any other office of profit",
+                    "Avoids conflict of interest",
+                    "Ensures full-time commitment",
+                    "Maintains neutrality"
+                ]
+            },
+            {
+                "heading": "Emoluments (Salary and Allowances)",
+                "points": [
+                    "Governor is entitled to salary, allowances, and privileges",
+                    "Determined by Parliament",
+                    "Paid from Consolidated Fund of the State",
+                    "Ensures financial independence"
+                ]
+            },
+            {
+                "heading": "No Reduction During Tenure",
+                "points": [
+                    "Salary and allowances cannot be reduced during term",
+                    "Except during financial emergency",
+                    "Ensures independence from executive pressure",
+                    "Protects dignity of office"
+                ]
+            },
+            {
+                "heading": "Official Residence",
+                "points": [
+                    "Governor is entitled to official residence (Raj Bhavan)",
+                    "Provided without rent",
+                    "Symbolizes constitutional authority",
+                    "Ensures convenience in functioning"
+                ]
+            },
+            {
+                "heading": "Immunities and Privileges",
+                "points": [
+                    "Governor enjoys legal immunity for official acts",
+                    "Cannot be answerable to any court for official actions",
+                    "No criminal proceedings during tenure",
+                    "Civil proceedings require prior notice"
+                ]
+            },
+            {
+                "heading": "Multiple States Governor",
+                "points": [
+                    "Same person can be appointed Governor of two or more states",
+                    "Allowed under Constitution",
+                    "Ensures administrative convenience",
+                    "Seen in practice in several instances"
+                ]
+            },
+            {
+                "heading": "Restrictions on Conduct",
+                "points": [
+                    "Expected to remain politically neutral",
+                    "Should not engage in active politics",
+                    "Must act on aid and advice of Council of Ministers",
+                    "Maintain constitutional propriety"
+                ]
+            },
+            {
+                "heading": "Purpose of Conditions",
+                "points": [
+                    "Ensure independence of office",
+                    "Maintain neutrality and impartiality",
+                    "Avoid misuse of power",
+                    "Promote effective governance"
+                ]
+            },
+            {
+                "heading": "Conclusion (UPSC Perspective)",
+                "points": [
+                    "Conditions of office safeguard dignity and neutrality",
+                    "Essential for maintaining federal balance",
+                    "However, practical challenges remain",
+                    "Proper adherence ensures constitutional governance"
+                ]
+            },
+            {
+                "heading": "Important Constitutional Article",
+                "points": [
+                    "Article 158: Conditions of Governor’s office",
+                    "Related to salary, restrictions, and privileges",
+                    "Ensures independence and neutrality",
+                    "Key static topic for UPSC"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Cannot be MP/MLA",
+                    "No office of profit",
+                    "Salary from Consolidated Fund",
+                    "Immunity during tenure",
+                    "Article 158 is key"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Conditions are under:",
+                    "options": [
+                        "Article 158",
+                        "Article 155",
+                        "Article 156",
+                        "Article 153"
+                    ],
+                    "answer": "Article 158"
+                },
+                {
+                    "question": "Governor can be MP?",
+                    "options": [
+                        "Yes",
+                        "No",
+                        "Only Rajya Sabha",
+                        "Only Lok Sabha"
+                    ],
+                    "answer": "No"
+                },
+                {
+                    "question": "Salary is from:",
+                    "options": [
+                        "Public Account",
+                        "Consolidated Fund of State",
+                        "Contingency Fund",
+                        "Reserve Fund"
+                    ],
+                    "answer": "Consolidated Fund of State"
+                },
+                {
+                    "question": "Office of profit:",
+                    "options": [
+                        "Allowed",
+                        "Not allowed",
+                        "Optional",
+                        "Temporary"
+                    ],
+                    "answer": "Not allowed"
+                },
+                {
+                    "question": "Residence is:",
+                    "options": [
+                        "Private house",
+                        "Raj Bhavan",
+                        "Parliament",
+                        "Court"
+                    ],
+                    "answer": "Raj Bhavan"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Salary reduction allowed during:",
+                    "options": [
+                        "Normal time",
+                        "Financial emergency",
+                        "Election",
+                        "Budget session"
+                    ],
+                    "answer": "Financial emergency"
+                },
+                {
+                    "question": "Governor immunity relates to:",
+                    "options": [
+                        "Private acts",
+                        "Official acts",
+                        "Political acts",
+                        "Election acts"
+                    ],
+                    "answer": "Official acts"
+                },
+                {
+                    "question": "Civil proceedings require:",
+                    "options": [
+                        "Immediate action",
+                        "Prior notice",
+                        "Court order",
+                        "President approval"
+                    ],
+                    "answer": "Prior notice"
+                },
+                {
+                    "question": "Governor of multiple states:",
+                    "options": [
+                        "Not allowed",
+                        "Allowed",
+                        "Only temporary",
+                        "Only emergency"
+                    ],
+                    "answer": "Allowed"
+                },
+                {
+                    "question": "Main aim of conditions:",
+                    "options": [
+                        "Political control",
+                        "Neutrality",
+                        "Military control",
+                        "Election control"
+                    ],
+                    "answer": "Neutrality"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Cannot be MP/MLA\n2. Salary secured\n3. Can hold office of profit",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Governor can hold office of profit",
+                        "Governor is neutral",
+                        "Governor salary reduces anytime",
+                        "Governor is MP"
+                    ],
+                    "answer": "Governor is neutral"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Article 158 exists",
+                        "Governor gets salary",
+                        "Governor can be MLA",
+                        "Immunity exists"
+                    ],
+                    "answer": "Governor can be MLA"
+                },
+                {
+                    "question": "Main feature is:",
+                    "options": [
+                        "Executive control",
+                        "Independence",
+                        "Military control",
+                        "Election system"
+                    ],
+                    "answer": "Independence"
+                },
+                {
+                    "question": "Final purpose is:",
+                    "options": [
+                        "Political dominance",
+                        "Constitutional functioning",
+                        "Military power",
+                        "Judicial control"
+                    ],
+                    "answer": "Constitutional functioning"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Term of Governor’s Office",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "The term of the Governor defines the duration for which he/she holds office",
+                    "It reflects both constitutional provisions and practical political realities",
+                    "Ensures continuity in state administration",
+                    "Important topic for understanding Centre-State relations"
+                ]
+            },
+            {
+                "heading": "Constitutional Provision",
+                "points": [
+                    "Article 156 deals with the term of the Governor",
+                    "Provides both fixed term and flexibility",
+                    "Governor holds office during the pleasure of the President",
+                    "Creates a dual nature of tenure"
+                ]
+            },
+            {
+                "heading": "Normal Term",
+                "points": [
+                    "Governor holds office for a term of 5 years",
+                    "Term begins from the date of entering office",
+                    "However, not an absolute or guaranteed tenure",
+                    "Subject to pleasure of the President"
+                ]
+            },
+            {
+                "heading": "Doctrine of Pleasure",
+                "points": [
+                    "Governor holds office at the pleasure of the President",
+                    "Can be removed at any time without assigning reasons",
+                    "Based on advice of Union Council of Ministers",
+                    "Limits security of tenure"
+                ]
+            },
+            {
+                "heading": "Continuation Beyond Term",
+                "points": [
+                    "Governor continues in office even after 5 years until successor takes charge",
+                    "Prevents vacancy in constitutional office",
+                    "Ensures continuity in governance",
+                    "Important practical provision"
+                ]
+            },
+            {
+                "heading": "Resignation",
+                "points": [
+                    "Governor can resign anytime",
+                    "Addressed to the President",
+                    "Vacancy arises immediately upon acceptance",
+                    "Voluntary exit from office"
+                ]
+            },
+            {
+                "heading": "Removal of Governor",
+                "points": [
+                    "No impeachment process like President",
+                    "Removed by President anytime",
+                    "No need to prove misconduct",
+                    "Often criticized for political misuse"
+                ]
+            },
+            {
+                "heading": "Transfer of Governor",
+                "points": [
+                    "Governor can be transferred from one state to another",
+                    "Done by President",
+                    "Common administrative practice",
+                    "Ensures flexibility in governance"
+                ]
+            },
+            {
+                "heading": "Issues and Criticism",
+                "points": [
+                    "Lack of security of tenure",
+                    "Frequent removals for political reasons",
+                    "Violation of federal principles",
+                    "Governor seen as agent of Centre",
+                    "Controversies during regime changes"
+                ]
+            },
+            {
+                "heading": "Supreme Court View",
+                "points": [
+                    "Removal cannot be arbitrary or capricious",
+                    "Must follow constitutional principles",
+                    "Judicial review possible in limited cases",
+                    "Ensures some level of accountability"
+                ]
+            },
+            {
+                "heading": "Reform Suggestions",
+                "points": [
+                    "Sarkaria Commission: fixed tenure of 5 years",
+                    "Removal only for valid reasons",
+                    "Consultation with Chief Minister",
+                    "Improve neutrality of office"
+                ]
+            },
+            {
+                "heading": "Conclusion (UPSC Perspective)",
+                "points": [
+                    "Term is nominally 5 years but practically flexible",
+                    "Doctrine of pleasure dominates tenure",
+                    "Balance between flexibility and stability is needed",
+                    "Reforms essential to strengthen federalism"
+                ]
+            },
+            {
+                "heading": "Important Constitutional Article",
+                "points": [
+                    "Article 156: Term of Governor",
+                    "Pleasure of President is key concept",
+                    "Allows removal, resignation, continuation",
+                    "Important static concept"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Term = 5 years (nominal)",
+                    "Serves at pleasure of President",
+                    "Can be removed anytime",
+                    "Continues till successor joins",
+                    "Highly controversial topic"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Term of Governor is:",
+                    "options": [
+                        "3 years",
+                        "5 years",
+                        "6 years",
+                        "10 years"
+                    ],
+                    "answer": "5 years"
+                },
+                {
+                    "question": "Article related to term:",
+                    "options": [
+                        "155",
+                        "156",
+                        "157",
+                        "158"
+                    ],
+                    "answer": "156"
+                },
+                {
+                    "question": "Governor serves at:",
+                    "options": [
+                        "Fixed term",
+                        "Pleasure of President",
+                        "Parliament’s will",
+                        "Judiciary’s order"
+                    ],
+                    "answer": "Pleasure of President"
+                },
+                {
+                    "question": "Resignation is given to:",
+                    "options": [
+                        "Prime Minister",
+                        "President",
+                        "Chief Minister",
+                        "Speaker"
+                    ],
+                    "answer": "President"
+                },
+                {
+                    "question": "Governor continues till:",
+                    "options": [
+                        "End of 5 years",
+                        "Successor joins",
+                        "Election",
+                        "Budget session"
+                    ],
+                    "answer": "Successor joins"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Removal requires:",
+                    "options": [
+                        "Impeachment",
+                        "President’s decision",
+                        "Judicial order",
+                        "Election"
+                    ],
+                    "answer": "President’s decision"
+                },
+                {
+                    "question": "Transfer of Governor is:",
+                    "options": [
+                        "Not allowed",
+                        "Allowed",
+                        "Only emergency",
+                        "Only judicial decision"
+                    ],
+                    "answer": "Allowed"
+                },
+                {
+                    "question": "Main criticism is:",
+                    "options": [
+                        "Judicial review",
+                        "Political misuse",
+                        "Military control",
+                        "Election process"
+                    ],
+                    "answer": "Political misuse"
+                },
+                {
+                    "question": "Doctrine of pleasure means:",
+                    "options": [
+                        "Fixed tenure",
+                        "Removal anytime",
+                        "Election-based tenure",
+                        "Judicial control"
+                    ],
+                    "answer": "Removal anytime"
+                },
+                {
+                    "question": "Continuation ensures:",
+                    "options": [
+                        "Vacuum",
+                        "Continuity",
+                        "Election",
+                        "Delay"
+                    ],
+                    "answer": "Continuity"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Term is 5 years\n2. Governor can be removed anytime\n3. Fixed secure tenure",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Governor has fixed tenure",
+                        "Governor serves at pleasure",
+                        "Governor elected",
+                        "Governor judicial officer"
+                    ],
+                    "answer": "Governor serves at pleasure"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Article 156 exists",
+                        "Governor removable anytime",
+                        "Governor elected",
+                        "Term is 5 years"
+                    ],
+                    "answer": "Governor elected"
+                },
+                {
+                    "question": "Main issue with term is:",
+                    "options": [
+                        "Judicial review",
+                        "Security of tenure",
+                        "Military control",
+                        "Election system"
+                    ],
+                    "answer": "Security of tenure"
+                },
+                {
+                    "question": "Final nature of tenure is:",
+                    "options": [
+                        "Rigid",
+                        "Flexible",
+                        "Permanent",
+                        "Temporary"
+                    ],
+                    "answer": "Flexible"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Powers and Features of the Governor",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Governor is the constitutional head of the State",
+                    "Exercises various powers similar to the President at the Union level",
+                    "Works on aid and advice of Council of Ministers except in certain cases",
+                    "Combines constitutional authority with limited discretionary role"
+                ]
+            },
+            {
+                "heading": "Classification of Powers",
+                "points": [
+                    "Executive Powers",
+                    "Legislative Powers",
+                    "Financial Powers",
+                    "Judicial Powers",
+                    "Discretionary Powers"
+                ]
+            },
+            {
+                "heading": "Executive Powers",
+                "points": [
+                    "Appoints Chief Minister and other ministers",
+                    "Allocates portfolios among ministers",
+                    "Appoints Advocate General and State Election Commissioner",
+                    "All executive actions taken in his/her name",
+                    "Administers state governance"
+                ]
+            },
+            {
+                "heading": "Legislative Powers",
+                "points": [
+                    "Summons, prorogues, and dissolves State Legislature",
+                    "Addresses first session after elections and each year",
+                    "Gives assent to bills",
+                    "Can withhold or reserve bills for President",
+                    "Promulgates ordinances when legislature is not in session"
+                ]
+            },
+            {
+                "heading": "Financial Powers",
+                "points": [
+                    "No Money Bill can be introduced without Governor’s recommendation",
+                    "Ensures state budget is presented",
+                    "Controls contingency fund of the state",
+                    "Supervises financial functioning indirectly"
+                ]
+            },
+            {
+                "heading": "Judicial Powers",
+                "points": [
+                    "Can grant pardons, reprieves, respites, or remissions",
+                    "Applies to offences against state laws",
+                    "Appoints district judges in consultation with High Court",
+                    "Supports justice administration"
+                ]
+            },
+            {
+                "heading": "Discretionary Powers",
+                "points": [
+                    "Acts without advice of Council of Ministers in certain cases",
+                    "Appointment of CM in hung assembly",
+                    "Reservation of bills for President",
+                    "Recommendation for President’s Rule (Article 356)",
+                    "Special responsibilities in some states"
+                ]
+            },
+            {
+                "heading": "Key Features of the Office",
+                "points": [
+                    "Nominal executive (real power with CM)",
+                    "Acts as constitutional head",
+                    "Dual role: State head + Agent of Centre",
+                    "Works within parliamentary system",
+                    "Ensures constitutional governance"
+                ]
+            },
+            {
+                "heading": "Governor as Agent of Centre",
+                "points": [
+                    "Reports to President regarding state affairs",
+                    "Implements central directives",
+                    "Ensures compliance with Constitution",
+                    "Important link in federal structure"
+                ]
+            },
+            {
+                "heading": "Limitations on Powers",
+                "points": [
+                    "Bound by aid and advice of Council of Ministers",
+                    "Discretionary powers are limited",
+                    "Cannot act arbitrarily",
+                    "Subject to judicial review in some cases"
+                ]
+            },
+            {
+                "heading": "Issues and Criticism",
+                "points": [
+                    "Misuse of discretionary powers",
+                    "Political bias in decisions",
+                    "Controversies in government formation",
+                    "Seen as instrument of central government",
+                    "Debates on reform of office"
+                ]
+            },
+            {
+                "heading": "Conclusion (UPSC Perspective)",
+                "points": [
+                    "Governor holds significant constitutional powers",
+                    "However, role is mostly ceremonial in normal circumstances",
+                    "Discretionary powers make the office important in crises",
+                    "Balance between neutrality and political reality is crucial"
+                ]
+            },
+            {
+                "heading": "Important Constitutional Articles",
+                "points": [
+                    "Article 153: Governor",
+                    "Article 154: Executive power",
+                    "Article 163: Aid and advice",
+                    "Article 164: Appointment of CM",
+                    "Article 200: Assent to bills",
+                    "Article 356: President’s Rule"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Governor = nominal executive",
+                    "Discretionary powers are key for prelims",
+                    "Agent of Centre concept important",
+                    "Ordinance power similar to President",
+                    "Frequently asked topic"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Governor is:",
+                    "options": [
+                        "Real executive",
+                        "Nominal executive",
+                        "Judicial head",
+                        "Legislative head"
+                    ],
+                    "answer": "Nominal executive"
+                },
+                {
+                    "question": "Governor appoints:",
+                    "options": [
+                        "President",
+                        "Chief Minister",
+                        "Prime Minister",
+                        "Speaker"
+                    ],
+                    "answer": "Chief Minister"
+                },
+                {
+                    "question": "Money Bill requires:",
+                    "options": [
+                        "Judicial approval",
+                        "Governor’s recommendation",
+                        "President’s approval",
+                        "Speaker’s approval"
+                    ],
+                    "answer": "Governor’s recommendation"
+                },
+                {
+                    "question": "Governor can issue:",
+                    "options": [
+                        "Judgments",
+                        "Ordinances",
+                        "Acts",
+                        "Orders"
+                    ],
+                    "answer": "Ordinances"
+                },
+                {
+                    "question": "Governor acts on advice of:",
+                    "options": [
+                        "President",
+                        "Council of Ministers",
+                        "Parliament",
+                        "Judiciary"
+                    ],
+                    "answer": "Council of Ministers"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Discretionary power includes:",
+                    "options": [
+                        "Budget preparation",
+                        "Reservation of bills",
+                        "Judicial review",
+                        "Military control"
+                    ],
+                    "answer": "Reservation of bills"
+                },
+                {
+                    "question": "Judicial power includes:",
+                    "options": [
+                        "Law making",
+                        "Pardon",
+                        "Budget",
+                        "Election"
+                    ],
+                    "answer": "Pardon"
+                },
+                {
+                    "question": "Governor’s dual role is:",
+                    "options": [
+                        "Executive + Judiciary",
+                        "State head + Centre agent",
+                        "Military + Police",
+                        "Election + Budget"
+                    ],
+                    "answer": "State head + Centre agent"
+                },
+                {
+                    "question": "Ordinance is issued when:",
+                    "options": [
+                        "Court closed",
+                        "Legislature not in session",
+                        "Election",
+                        "Budget session"
+                    ],
+                    "answer": "Legislature not in session"
+                },
+                {
+                    "question": "Main criticism is:",
+                    "options": [
+                        "Judicial review",
+                        "Political misuse",
+                        "Military control",
+                        "Election process"
+                    ],
+                    "answer": "Political misuse"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Governor has executive powers\n2. Governor issues ordinances\n3. Governor is real executive",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Governor has no powers",
+                        "Governor has multiple powers",
+                        "Governor only ceremonial",
+                        "Governor judicial officer"
+                    ],
+                    "answer": "Governor has multiple powers"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Governor appoints CM",
+                        "Governor issues ordinances",
+                        "Governor is real executive",
+                        "Governor has judicial powers"
+                    ],
+                    "answer": "Governor is real executive"
+                },
+                {
+                    "question": "Main role in crisis is:",
+                    "options": [
+                        "Ceremonial",
+                        "Discretionary",
+                        "Judicial",
+                        "Military"
+                    ],
+                    "answer": "Discretionary"
+                },
+                {
+                    "question": "Final purpose of powers is:",
+                    "options": [
+                        "Political control",
+                        "Constitutional governance",
+                        "Military power",
+                        "Election control"
+                    ],
+                    "answer": "Constitutional governance"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Constitutional Position of the Governor",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Governor is the constitutional head of the State",
+                    "Occupies a position similar to the President at the Union level",
+                    "Acts as a nominal executive while real power lies with the Council of Ministers",
+                    "Key figure in maintaining constitutional governance in the State"
+                ]
+            },
+            {
+                "heading": "Nominal vs Real Executive",
+                "points": [
+                    "Governor is the nominal (de jure) executive",
+                    "Chief Minister is the real (de facto) executive",
+                    "All executive actions are taken in the name of the Governor",
+                    "Actual decisions are made by Council of Ministers"
+                ]
+            },
+            {
+                "heading": "Aid and Advice Principle",
+                "points": [
+                    "Governor acts on aid and advice of Council of Ministers",
+                    "Provided under Article 163",
+                    "Binding in most cases",
+                    "Ensures parliamentary system at state level"
+                ]
+            },
+            {
+                "heading": "Discretionary Powers Exception",
+                "points": [
+                    "Governor can act independently in certain situations",
+                    "Examples: appointment of CM in hung assembly",
+                    "Reservation of bills for President",
+                    "Report for President’s Rule (Article 356)",
+                    "These powers create practical importance of office"
+                ]
+            },
+            {
+                "heading": "Governor as Agent of Centre",
+                "points": [
+                    "Acts as representative of the Union government",
+                    "Reports to the President on state affairs",
+                    "Ensures implementation of central policies",
+                    "Acts as a link between Centre and State"
+                ]
+            },
+            {
+                "heading": "Dual Role of Governor",
+                "points": [
+                    "Constitutional head of the State",
+                    "Agent of the Centre",
+                    "This dual role creates both importance and controversy",
+                    "Balancing both roles is crucial"
+                ]
+            },
+            {
+                "heading": "Position in State Executive",
+                "points": [
+                    "Executive power of the State vested in Governor (Article 154)",
+                    "Exercised through Council of Ministers",
+                    "Governor is head of state administration",
+                    "Works within constitutional framework"
+                ]
+            },
+            {
+                "heading": "Comparison with President",
+                "points": [
+                    "Both are nominal executives",
+                    "Both act on aid and advice",
+                    "President has more defined discretionary limits",
+                    "Governor has relatively wider discretionary role in practice"
+                ]
+            },
+            {
+                "heading": "Limitations of Position",
+                "points": [
+                    "Bound by advice in most matters",
+                    "Cannot act arbitrarily",
+                    "Discretionary powers limited and situational",
+                    "Subject to judicial review in some cases"
+                ]
+            },
+            {
+                "heading": "Issues and Controversies",
+                "points": [
+                    "Allegations of political bias",
+                    "Misuse of discretionary powers",
+                    "Conflict with elected state governments",
+                    "Seen as agent of central government",
+                    "Frequent debates on role in federalism"
+                ]
+            },
+            {
+                "heading": "Supreme Court View",
+                "points": [
+                    "Governor must act within constitutional limits",
+                    "Cannot act arbitrarily or politically",
+                    "Discretion must be exercised judiciously",
+                    "Judicial review possible in certain cases"
+                ]
+            },
+            {
+                "heading": "Conclusion (UPSC Perspective)",
+                "points": [
+                    "Governor is a nominal head but constitutionally significant",
+                    "Dual role makes the office unique in Indian federalism",
+                    "Real power lies with elected government",
+                    "Proper use of discretion is key to maintaining balance"
+                ]
+            },
+            {
+                "heading": "Important Constitutional Articles",
+                "points": [
+                    "Article 153: Governor",
+                    "Article 154: Executive power",
+                    "Article 163: Aid and advice",
+                    "Article 164: Council of Ministers",
+                    "Article 356: President’s Rule"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Nominal executive vs real executive",
+                    "Article 163 is key",
+                    "Dual role = very important concept",
+                    "Discretionary powers frequently asked",
+                    "Controversial topic in polity"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Governor is:",
+                    "options": [
+                        "Real executive",
+                        "Nominal executive",
+                        "Judicial head",
+                        "Legislative head"
+                    ],
+                    "answer": "Nominal executive"
+                },
+                {
+                    "question": "Real executive is:",
+                    "options": [
+                        "Governor",
+                        "Chief Minister",
+                        "President",
+                        "Speaker"
+                    ],
+                    "answer": "Chief Minister"
+                },
+                {
+                    "question": "Aid and advice is under:",
+                    "options": [
+                        "Article 163",
+                        "Article 154",
+                        "Article 155",
+                        "Article 356"
+                    ],
+                    "answer": "Article 163"
+                },
+                {
+                    "question": "Governor acts on advice of:",
+                    "options": [
+                        "President",
+                        "Council of Ministers",
+                        "Parliament",
+                        "Judiciary"
+                    ],
+                    "answer": "Council of Ministers"
+                },
+                {
+                    "question": "Governor is agent of:",
+                    "options": [
+                        "Judiciary",
+                        "Centre",
+                        "Military",
+                        "Election Commission"
+                    ],
+                    "answer": "Centre"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Dual role includes:",
+                    "options": [
+                        "Executive + Judiciary",
+                        "State head + Centre agent",
+                        "Military + Police",
+                        "Election + Budget"
+                    ],
+                    "answer": "State head + Centre agent"
+                },
+                {
+                    "question": "Discretionary power example:",
+                    "options": [
+                        "Budget preparation",
+                        "Appointment of CM in hung assembly",
+                        "Judicial review",
+                        "Military control"
+                    ],
+                    "answer": "Appointment of CM in hung assembly"
+                },
+                {
+                    "question": "Executive power vested under:",
+                    "options": [
+                        "Article 154",
+                        "Article 163",
+                        "Article 356",
+                        "Article 200"
+                    ],
+                    "answer": "Article 154"
+                },
+                {
+                    "question": "Governor mainly acts:",
+                    "options": [
+                        "Independently",
+                        "On advice",
+                        "As judge",
+                        "As legislator"
+                    ],
+                    "answer": "On advice"
+                },
+                {
+                    "question": "Main criticism is:",
+                    "options": [
+                        "Judicial review",
+                        "Political bias",
+                        "Military control",
+                        "Election process"
+                    ],
+                    "answer": "Political bias"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Governor is nominal head\n2. CM is real executive\n3. Governor always acts independently",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Governor is real executive",
+                        "Governor is nominal head",
+                        "Governor has no powers",
+                        "Governor is judicial officer"
+                    ],
+                    "answer": "Governor is nominal head"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Article 163 exists",
+                        "Governor acts on advice",
+                        "Governor always independent",
+                        "Dual role exists"
+                    ],
+                    "answer": "Governor always independent"
+                },
+                {
+                    "question": "Main issue with position is:",
+                    "options": [
+                        "Judicial review",
+                        "Political misuse",
+                        "Military control",
+                        "Election system"
+                    ],
+                    "answer": "Political misuse"
+                },
+                {
+                    "question": "Final role is:",
+                    "options": [
+                        "Executive dominance",
+                        "Constitutional balance",
+                        "Military power",
+                        "Judicial control"
+                    ],
+                    "answer": "Constitutional balance"
+                }
+            ]
+        }
+    }
+]

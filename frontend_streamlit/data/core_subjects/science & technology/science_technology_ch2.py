@@ -1,0 +1,245 @@
+TOPICS = [
+    {
+        "name": "Biology: History and Origin of Life",
+        "notes": [
+            {
+                "heading": "Introduction to Origin of Life",
+                "points": [
+                    "Origin of life refers to how living organisms first appeared on Earth",
+                    "Life is believed to have originated around 3.5 to 4 billion years ago",
+                    "Early Earth had a harsh environment with no free oxygen",
+                    "Primitive life forms evolved gradually from non-living chemical substances",
+                    "Study of origin of life is part of evolutionary biology and astrobiology"
+                ]
+            },
+            {
+                "heading": "Early Theories of Origin of Life",
+                "points": [
+                    "Spontaneous Generation Theory: Life arises from non-living matter (now rejected)",
+                    "Biogenesis Theory: Life arises only from pre-existing life (Louis Pasteur supported it)",
+                    "Panspermia Theory: Life came from outer space via comets or meteorites",
+                    "Oparin-Haldane Theory: Life originated through chemical evolution",
+                    "Modern science supports chemical evolution theory"
+                ]
+            },
+            {
+                "heading": "Chemical Evolution Theory (Oparin-Haldane)",
+                "points": [
+                    "Proposed independently by Oparin (Russia) and Haldane (England)",
+                    "Early Earth had reducing atmosphere (methane, ammonia, hydrogen, water vapor)",
+                    "Energy sources like lightning and UV radiation triggered chemical reactions",
+                    "Simple molecules formed complex organic compounds over time",
+                    "This led to formation of first primitive life forms"
+                ]
+            },
+            {
+                "heading": "Miller-Urey Experiment",
+                "points": [
+                    "Conducted in 1953 by Stanley Miller and Harold Urey",
+                    "Simulated early Earth atmosphere in laboratory conditions",
+                    "Used methane, ammonia, hydrogen, and water vapor",
+                    "Electric sparks simulated lightning energy",
+                    "Resulted in formation of amino acids, proving chemical evolution possible"
+                ]
+            },
+            {
+                "heading": "Formation of First Life Forms",
+                "points": [
+                    "First life forms were simple unicellular organisms",
+                    "They were anaerobic (did not require oxygen)",
+                    "Likely similar to modern-day bacteria",
+                    "Early life existed in oceans (primordial soup concept)",
+                    "Photosynthetic organisms later released oxygen into atmosphere"
+                ]
+            },
+            {
+                "heading": "Evolution of Atmosphere and Life",
+                "points": [
+                    "Early atmosphere lacked oxygen and was reducing in nature",
+                    "Cyanobacteria introduced oxygen through photosynthesis",
+                    "Oxygen led to formation of ozone layer",
+                    "Ozone layer protected life from harmful UV radiation",
+                    "This allowed evolution of complex multicellular organisms"
+                ]
+            },
+            {
+                "heading": "Major Stages in Evolution of Life",
+                "points": [
+                    "Chemical evolution – formation of organic molecules",
+                    "Pre-biological evolution – formation of protocells",
+                    "Biological evolution – development of living organisms",
+                    "Unicellular to multicellular evolution",
+                    "Development of plants, animals, and humans over time"
+                ]
+            },
+            {
+                "heading": "Fossil Evidence of Life",
+                "points": [
+                    "Fossils provide evidence of past life forms",
+                    "Found in sedimentary rocks",
+                    "Help in understanding evolutionary history",
+                    "Dating methods include radiocarbon dating and stratigraphy",
+                    "Transitional fossils show evolution between species"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Origin of life on Earth is estimated to have occurred about:",
+                    "options": [
+                    "500 million years ago",
+                    "1 billion years ago",
+                    "3.5 to 4 billion years ago",
+                    "10 billion years ago"
+                    ],
+                    "answer": "3.5 to 4 billion years ago"
+                },
+                {
+                    "question": "Theory of Spontaneous Generation states that:",
+                    "options": [
+                    "Life comes from space",
+                    "Life comes from pre-existing life",
+                    "Life arises from non-living matter",
+                    "Life is created by God only"
+                    ],
+                    "answer": "Life arises from non-living matter"
+                },
+                {
+                    "question": "Miller-Urey experiment proved the formation of:",
+                    "options": [
+                    "DNA",
+                    "Amino acids",
+                    "Cells",
+                    "Proteins only"
+                    ],
+                    "answer": "Amino acids"
+                },
+                {
+                    "question": "First life forms on Earth were likely:",
+                    "options": [
+                    "Multicellular plants",
+                    "Aerobic animals",
+                    "Unicellular anaerobic organisms",
+                    "Insects"
+                    ],
+                    "answer": "Unicellular anaerobic organisms"
+                },
+                {
+                    "question": "Fossils are mainly found in:",
+                    "options": [
+                    "Igneous rocks",
+                    "Sedimentary rocks",
+                    "Metamorphic rocks",
+                    "Volcanic lava"
+                    ],
+                    "answer": "Sedimentary rocks"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Who proposed the chemical evolution theory of life origin?",
+                    "options": [
+                    "Darwin and Wallace",
+                    "Oparin and Haldane",
+                    "Miller and Urey",
+                    "Lamarck and Mendel"
+                    ],
+                    "answer": "Oparin and Haldane"
+                },
+                {
+                    "question": "Early Earth atmosphere was:",
+                    "options": [
+                    "Oxidizing",
+                    "Reducing",
+                    "Neutral",
+                    "Ozone-rich"
+                    ],
+                    "answer": "Reducing"
+                },
+                {
+                    "question": "Cyanobacteria contributed to:",
+                    "options": [
+                    "Nitrogen fixation only",
+                    "Oxygen release in atmosphere",
+                    "Protein synthesis",
+                    "Soil formation"
+                    ],
+                    "answer": "Oxygen release in atmosphere"
+                },
+                {
+                    "question": "Panspermia theory suggests life originated from:",
+                    "options": [
+                    "Ocean floor",
+                    "Deep Earth crust",
+                    "Outer space",
+                    "Volcanoes"
+                    ],
+                    "answer": "Outer space"
+                },
+                {
+                    "question": "Primordial soup refers to:",
+                    "options": [
+                    "Modern oceans",
+                    "Early Earth organic-rich water",
+                    "Volcanic lava",
+                    "Atmospheric clouds"
+                    ],
+                    "answer": "Early Earth organic-rich water"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. Early Earth had no free oxygen\n2. Miller-Urey experiment used reducing gases\n3. First life forms were multicellular",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "All"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Oparin – Evolution theory of natural selection",
+                    "Haldane – Chemical evolution theory",
+                    "Darwin – Chemical evolution theory",
+                    "Miller – Fossil formation theory"
+                    ],
+                    "answer": "Haldane – Chemical evolution theory"
+                },
+                {
+                    "question": "Ozone layer is important because it:",
+                    "options": [
+                    "Increases temperature",
+                    "Blocks UV radiation",
+                    "Produces oxygen",
+                    "Forms clouds"
+                    ],
+                    "answer": "Blocks UV radiation"
+                },
+                {
+                    "question": "Fossils help in studying:",
+                    "options": [
+                    "Future climate only",
+                    "Evolutionary history of life",
+                    "Current diseases",
+                    "Space weather"
+                    ],
+                    "answer": "Evolutionary history of life"
+                },
+                {
+                    "question": "Chemical evolution leads to:",
+                    "options": [
+                    "Formation of mountains",
+                    "Formation of organic molecules",
+                    "Formation of stars",
+                    "Formation of planets"
+                    ],
+                    "answer": "Formation of organic molecules"
+                }
+            ]
+        }
+    }
+]

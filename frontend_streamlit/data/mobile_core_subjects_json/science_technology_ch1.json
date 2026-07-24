@@ -1,0 +1,235 @@
+[
+    {
+        "name": "Biology: Chemical Building Blocks of Life",
+        "notes": [
+            {
+                "heading": "Introduction to Chemical Building Blocks of Life",
+                "points": [
+                    "All living organisms are composed of chemical substances that form the basis of life",
+                    "These substances are mainly organic and inorganic molecules",
+                    "Carbon is the central element of life due to its ability to form stable bonds",
+                    "Biomolecules include carbohydrates, proteins, lipids, and nucleic acids",
+                    "Water and minerals act as essential inorganic components"
+                ]
+            },
+            {
+                "heading": "Carbohydrates",
+                "points": [
+                    "Carbohydrates are primary energy sources for living organisms",
+                    "Composed of carbon, hydrogen, and oxygen in the ratio 1:2:1",
+                    "Examples include glucose, starch, glycogen, and cellulose",
+                    "Monosaccharides are simple sugars like glucose and fructose",
+                    "Polysaccharides like starch and glycogen store energy in plants and animals respectively"
+                ]
+            },
+            {
+                "heading": "Proteins",
+                "points": [
+                    "Proteins are made up of amino acids linked by peptide bonds",
+                    "They perform structural, enzymatic, and regulatory functions",
+                    "Examples include enzymes, hemoglobin, and antibodies",
+                    "There are 20 standard amino acids forming various proteins",
+                    "Protein structure has primary, secondary, tertiary, and quaternary levels"
+                ]
+            },
+            {
+                "heading": "Lipids",
+                "points": [
+                    "Lipids are hydrophobic molecules including fats, oils, and waxes",
+                    "They serve as long-term energy storage molecules",
+                    "Phospholipids are key components of cell membranes",
+                    "Steroids like cholesterol play regulatory roles in hormones",
+                    "Lipids provide insulation and protection to organs"
+                ]
+            },
+            {
+                "heading": "Nucleic Acids",
+                "points": [
+                    "Nucleic acids store and transmit genetic information",
+                    "Two main types are DNA (Deoxyribonucleic acid) and RNA (Ribonucleic acid)",
+                    "Made up of nucleotides containing sugar, phosphate, and nitrogenous base",
+                    "DNA is double-stranded while RNA is usually single-stranded",
+                    "Bases include Adenine, Thymine, Guanine, Cytosine, and Uracil (in RNA)"
+                ]
+            },
+            {
+                "heading": "Water and Inorganic Ions",
+                "points": [
+                    "Water is the most abundant component of living cells",
+                    "Acts as a universal solvent for biochemical reactions",
+                    "Maintains temperature regulation in organisms",
+                    "Minerals like calcium, potassium, sodium, and iron are essential",
+                    "Ions help in nerve transmission, muscle contraction, and enzyme function"
+                ]
+            },
+            {
+                "heading": "Enzymes",
+                "points": [
+                    "Enzymes are biological catalysts made of proteins",
+                    "They speed up biochemical reactions without being consumed",
+                    "Highly specific to substrates",
+                    "Function depends on temperature and pH conditions",
+                    "Examples include amylase, pepsin, and lipase"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Which element is considered the backbone of life molecules?",
+                    "options": [
+                        "Oxygen",
+                        "Carbon",
+                        "Hydrogen",
+                        "Nitrogen"
+                    ],
+                    "answer": "Carbon"
+                },
+                {
+                    "question": "Carbohydrates mainly function as:",
+                    "options": [
+                        "Genetic material",
+                        "Energy source",
+                        "Hormones",
+                        "Enzymes"
+                    ],
+                    "answer": "Energy source"
+                },
+                {
+                    "question": "DNA is composed of:",
+                    "options": [
+                        "Amino acids",
+                        "Nucleotides",
+                        "Fatty acids",
+                        "Glucose units"
+                    ],
+                    "answer": "Nucleotides"
+                },
+                {
+                    "question": "Proteins are made up of:",
+                    "options": [
+                        "Fatty acids",
+                        "Amino acids",
+                        "Sugars",
+                        "Nucleotides"
+                    ],
+                    "answer": "Amino acids"
+                },
+                {
+                    "question": "Water acts as:",
+                    "options": [
+                        "Enzyme",
+                        "Solvent",
+                        "Hormone",
+                        "Vitamin"
+                    ],
+                    "answer": "Solvent"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which of the following is a polysaccharide?",
+                    "options": [
+                        "Glucose",
+                        "Fructose",
+                        "Starch",
+                        "Amino acid"
+                    ],
+                    "answer": "Starch"
+                },
+                {
+                    "question": "Phospholipids are mainly found in:",
+                    "options": [
+                        "Cell wall",
+                        "Cell membrane",
+                        "Nucleus",
+                        "Cytoplasm only"
+                    ],
+                    "answer": "Cell membrane"
+                },
+                {
+                    "question": "RNA differs from DNA because RNA contains:",
+                    "options": [
+                        "Thymine",
+                        "Uracil",
+                        "Adenine",
+                        "Guanine"
+                    ],
+                    "answer": "Uracil"
+                },
+                {
+                    "question": "Enzymes are generally:",
+                    "options": [
+                        "Carbohydrates",
+                        "Lipids",
+                        "Proteins",
+                        "Vitamins"
+                    ],
+                    "answer": "Proteins"
+                },
+                {
+                    "question": "Cholesterol belongs to which class of biomolecules?",
+                    "options": [
+                        "Carbohydrates",
+                        "Lipids",
+                        "Proteins",
+                        "Nucleic acids"
+                    ],
+                    "answer": "Lipids"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. DNA is double-stranded\n2. RNA contains thymine\n3. Enzymes are biological catalysts",
+                    "options": [
+                        "1 and 3 only",
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "All"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "Which biomolecule is correctly matched with its function?",
+                    "options": [
+                        "Lipids – energy storage",
+                        "Proteins – genetic storage",
+                        "DNA – enzyme action",
+                        "Carbohydrates – hormone regulation"
+                    ],
+                    "answer": "Lipids – energy storage"
+                },
+                {
+                    "question": "Enzyme activity is affected by:",
+                    "options": [
+                        "Temperature and pH",
+                        "Color and taste",
+                        "Weight and density",
+                        "Magnetism only"
+                    ],
+                    "answer": "Temperature and pH"
+                },
+                {
+                    "question": "Which is NOT a nucleotide base in DNA?",
+                    "options": [
+                        "Adenine",
+                        "Thymine",
+                        "Uracil",
+                        "Guanine"
+                    ],
+                    "answer": "Uracil"
+                },
+                {
+                    "question": "A major function of lipids is:",
+                    "options": [
+                        "Genetic coding",
+                        "Energy storage and insulation",
+                        "Enzyme formation",
+                        "Oxygen transport"
+                    ],
+                    "answer": "Energy storage and insulation"
+                }
+            ]
+        }
+    }
+]

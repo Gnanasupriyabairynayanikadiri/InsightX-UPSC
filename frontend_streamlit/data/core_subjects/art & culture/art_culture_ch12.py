@@ -1,0 +1,539 @@
+TOPICS = [
+    {
+        "name": "Indian Art & Culture – Martial Arts in India",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Martial arts in India are traditional combat and self-defense systems",
+                    "They developed as both warfare techniques and cultural practices",
+                    "Closely linked with religion, rituals, and physical discipline",
+                    "Many forms combine dance, weapon training, and acrobatics",
+                    "Strong regional and tribal diversity"
+                ]
+            },
+            {
+                "heading": "Key Features of Indian Martial Arts",
+                "points": [
+                    "Focus on self-defense, agility, and discipline",
+                    "Use of weapons like swords, sticks, spears, and shields",
+                    "Influenced by spiritual traditions (Hinduism, Buddhism, tribal beliefs)",
+                    "Often performed in festivals and cultural events",
+                    "Some forms are also dance-like in presentation"
+                ]
+            },
+            {
+                "heading": "Kalaripayattu (Kerala)",
+                "points": [
+                    "One of the oldest martial arts in the world",
+                    "Originated in Kerala",
+                    "Includes weapon training, strikes, and healing techniques",
+                    "Influenced Indian classical dance forms",
+                    "Associated with Shaiva and martial traditions"
+                ]
+            },
+            {
+                "heading": "Silambam (Tamil Nadu)",
+                "points": [
+                    "Ancient stick fighting martial art",
+                    "Originated in Tamil Nadu",
+                    "Uses bamboo sticks, swords, and weapons",
+                    "Developed during Sangam period",
+                    "Also practiced for physical fitness and agility"
+                ]
+            },
+            {
+                "heading": "Thang-Ta (Manipur)",
+                "points": [
+                    "Traditional martial art of Manipur",
+                    "Meaning: Sword (Thang) and Spear (Ta)",
+                    "Combines combat techniques with spiritual rituals",
+                    "Includes armed and unarmed combat",
+                    "Closely linked with Manipuri culture"
+                ]
+            },
+            {
+                "heading": "Sikh Martial Arts (Gatka)",
+                "points": [
+                    "Developed by Sikh warriors",
+                    "Uses swords, sticks, and shields",
+                    "Associated with martial tradition of Punjab",
+                    "Performed during religious and cultural events",
+                    "Emphasizes discipline and courage"
+                ]
+            },
+            {
+                "heading": "Mardani Khel (Maharashtra)",
+                "points": [
+                    "Traditional Maratha martial art",
+                    "Developed during Maratha empire",
+                    "Focus on sword fighting and guerrilla warfare",
+                    "Uses weapons like swords, spears, and lathis",
+                    "Known for agility and speed"
+                ]
+            },
+            {
+                "heading": "Sqay (Kashmir)",
+                "points": [
+                    "Ancient martial art of Kashmir",
+                    "Uses sword and shield techniques",
+                    "Includes both offensive and defensive moves",
+                    "Modern competitive martial art form",
+                    "Practiced in South Asia competitions"
+                ]
+            },
+            {
+                "heading": "Kathi Samu (Andhra Pradesh)",
+                "points": [
+                    "Sword fighting martial art",
+                    "Practiced in temple festivals",
+                    "Focus on agility and weapon control",
+                    "Includes mock combat performances",
+                    "Historically linked to warrior traditions"
+                ]
+            },
+            {
+                "heading": "Pari-Khanda (Bihar & Jharkhand)",
+                "points": [
+                    "Martial dance form using sword and shield",
+                    "Combines combat and dance movements",
+                    "Performed during Chhau dance traditions",
+                    "Linked with tribal warrior culture",
+                    "Highly rhythmic and dynamic"
+                ]
+            },
+            {
+                "heading": "Musti Yuddha (Uttar Pradesh)",
+                "points": [
+                    "Ancient Indian boxing form",
+                    "Bare-knuckle fighting technique",
+                    "Uses punches, kicks, and grappling",
+                    "Practiced in Varanasi region",
+                    "One of the oldest combat sports in India"
+                ]
+            },
+            {
+                "heading": "Mallakhamb",
+                "points": [
+                    "Gymnastic martial art using pole or rope",
+                    "Developed in Maharashtra",
+                    "Enhances strength, flexibility, and balance",
+                    "Used in wrestling training",
+                    "Combines yoga-like postures with acrobatics"
+                ]
+            },
+            {
+                "heading": "Tribal Martial Traditions",
+                "points": [
+                    "Nagaland – Naga martial practices (tribal warfare traditions)",
+                    "Mizoram – Traditional combat dances and rituals",
+                    "Chhattisgarh – Tribal stick fighting forms",
+                    "Odisha – Tribal archery traditions",
+                    "Strong link with hunting and survival skills"
+                ]
+            },
+            {
+                "heading": "Cultural Importance",
+                "points": [
+                    "Preserve ancient warfare traditions",
+                    "Promote physical fitness and discipline",
+                    "Linked with festivals and rituals",
+                    "Influence Indian dance and performing arts",
+                    "Symbol of regional identity and heritage"
+                ]
+            },
+            {
+                "heading": "UPSC Importance",
+                "points": [
+                    "Kalaripayattu – Kerala (frequently asked)",
+                    "Thang-Ta – Manipur martial art",
+                    "Silambam – Tamil Nadu stick fighting",
+                    "Gatka – Sikh martial tradition",
+                    "Pari-Khanda – Bihar/Jharkhand dance-martial art",
+                    "Often asked in matching and regional questions"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Kalaripayattu is associated with:",
+                    "options": ["Kerala", "Punjab", "Bihar", "Assam"],
+                    "answer": "Kerala"
+                },
+                {
+                    "question": "Silambam is a martial art of:",
+                    "options": ["Tamil Nadu", "Kerala", "Punjab", "Gujarat"],
+                    "answer": "Tamil Nadu"
+                },
+                {
+                    "question": "Thang-Ta is practiced in:",
+                    "options": ["Manipur", "Assam", "Odisha", "Rajasthan"],
+                    "answer": "Manipur"
+                },
+                {
+                    "question": "Gatka is associated with:",
+                    "options": ["Sikh martial tradition", "Buddhist monks", "Tribal dances", "Temple rituals only"],
+                    "answer": "Sikh martial tradition"
+                },
+                {
+                    "question": "Mallakhamb originated in:",
+                    "options": ["Maharashtra", "Kerala", "Bihar", "Assam"],
+                    "answer": "Maharashtra"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Pari-Khanda is associated with:",
+                    "options": ["Bihar and Jharkhand", "Punjab", "Kerala", "Assam"],
+                    "answer": "Bihar and Jharkhand"
+                },
+                {
+                    "question": "Sqay martial art belongs to:",
+                    "options": ["Kashmir", "Goa", "Karnataka", "Odisha"],
+                    "answer": "Kashmir"
+                },
+                {
+                    "question": "Musti Yuddha is:",
+                    "options": [
+                    "Ancient Indian boxing",
+                    "Sword dance",
+                    "Stick dance",
+                    "Temple ritual"
+                    ],
+                    "answer": "Ancient Indian boxing"
+                },
+                {
+                    "question": "Kalaripayattu includes:",
+                    "options": [
+                    "Weapon training and healing techniques",
+                    "Only dance movements",
+                    "Only meditation",
+                    "Only wrestling"
+                    ],
+                    "answer": "Weapon training and healing techniques"
+                },
+                {
+                    "question": "Martial arts are important because they:",
+                    "options": [
+                    "Preserve cultural heritage",
+                    "Only provide entertainment",
+                    "Are modern sports only",
+                    "Have no cultural value"
+                    ],
+                    "answer": "Preserve cultural heritage"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Kalaripayattu is one of the oldest martial arts\n2. Thang-Ta is from Manipur\n3. Silambam is from Kerala",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Gatka – Sikh tradition",
+                    "Silambam – Punjab",
+                    "Thang-Ta – Rajasthan",
+                    "Kalaripayattu – Assam"
+                    ],
+                    "answer": "Gatka – Sikh tradition"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                    "Martial arts are linked to culture and rituals",
+                    "They are only modern sports",
+                    "They have no historical background",
+                    "They are only Western imports"
+                    ],
+                    "answer": "Martial arts are linked to culture and rituals"
+                },
+                {
+                    "question": "Mallakhamb is associated with:",
+                    "options": [
+                    "Gymnastic martial training",
+                    "Sword fighting",
+                    "Archery only",
+                    "Water combat"
+                    ],
+                    "answer": "Gymnastic martial training"
+                },
+                {
+                    "question": "Pari-Khanda combines:",
+                    "options": [
+                    "Dance and martial arts",
+                    "Painting and sculpture",
+                    "Music and writing",
+                    "Architecture and dance"
+                    ],
+                    "answer": "Dance and martial arts"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Indian Art & Culture – History of Martial Arts in India",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Martial arts in India have ancient origins linked to warfare, self-defense, and spirituality",
+                    "They evolved through Vedic, epic, classical, medieval, and modern periods",
+                    "Influenced by regional cultures, religions, and royal patronage",
+                    "Many martial traditions are preserved in dance and ritual forms today"
+                ]
+            },
+            {
+                "heading": "Vedic Period Origins",
+                "points": [
+                    "Early references to warfare and physical training in Rigveda",
+                    "Emphasis on archery, chariot warfare, and hand-to-hand combat",
+                    "Warriors (Kshatriyas) were trained in weapon skills",
+                    "No formal martial systems but early foundation of combat traditions"
+                ]
+            },
+            {
+                "heading": "Epic Period (Ramayana & Mahabharata)",
+                "points": [
+                    "Detailed descriptions of warfare techniques and weapons",
+                    "Arjuna and Karna represent expert archers in Mahabharata",
+                    "Hanuman symbolizes strength and combat skills",
+                    "Use of divine weapons (Astras) reflects advanced warfare imagination",
+                    "Training in Dhanurveda (science of warfare) mentioned"
+                ]
+            },
+            {
+                "heading": "Classical Period (Maurya to Gupta)",
+                "points": [
+                    "Kautilya’s Arthashastra describes military organization",
+                    "Systematic training of soldiers in weapons and strategy",
+                    "Gupta period known as 'Golden Age' with refined martial systems",
+                    "Dhanurveda (science of archery and combat) developed",
+                    "Integration of martial arts with discipline and ethics"
+                ]
+            },
+            {
+                "heading": "Medieval Period Development",
+                "points": [
+                    "Rise of regional kingdoms led to specialized martial traditions",
+                    "Rajputs developed swordsmanship and valor traditions",
+                    "Marathas developed guerrilla warfare techniques",
+                    "South Indian kingdoms refined Kalaripayattu and Silambam",
+                    "Assam and Manipur developed unique tribal martial systems"
+                ]
+            },
+            {
+                "heading": "Kalaripayattu Evolution (Kerala)",
+                "points": [
+                    "One of the oldest structured martial systems in India",
+                    "Includes weapon training, strikes, and healing techniques",
+                    "Influenced temple rituals and performing arts",
+                    "Spread across South India historically",
+                    "Later declined under colonial restrictions"
+                ]
+            },
+            {
+                "heading": "Silambam Evolution (Tamil Nadu)",
+                "points": [
+                    "Ancient stick fighting martial art from Sangam period",
+                    "Used for warfare and self-defense",
+                    "Practiced by Tamil warriors",
+                    "Declined during colonial rule due to weapon bans",
+                    "Revived as cultural sport in modern India"
+                ]
+            },
+            {
+                "heading": "Thang-Ta Development (Manipur)",
+                "points": [
+                    "Traditional martial art combining sword and spear techniques",
+                    "Developed by Meitei warriors",
+                    "Linked with religious rituals and spiritual discipline",
+                    "Includes both armed and unarmed combat",
+                    "Preserved through cultural performances today"
+                ]
+            },
+            {
+                "heading": "Medieval Warrior Traditions",
+                "points": [
+                    "Rajput martial code of honor and bravery (Kshatra Dharma)",
+                    "Maratha guerrilla warfare under Shivaji",
+                    "Sikh martial tradition (Khalsa formation by Guru Gobind Singh)",
+                    "Mughal military influenced Persian and Central Asian techniques",
+                    "Integration of cavalry, archery, and swordsmanship"
+                ]
+            },
+            {
+                "heading": "Colonial Period Decline",
+                "points": [
+                    "British restrictions on arms and native martial training",
+                    "Decline of traditional warrior classes",
+                    "Suppression of indigenous combat systems",
+                    "Martial arts preserved secretly in some regions",
+                    "Shift toward modern military training systems"
+                ]
+            },
+            {
+                "heading": "Revival in Modern Period",
+                "points": [
+                    "Post-independence revival of traditional martial arts",
+                    "Recognition of Kalaripayattu, Silambam, and Gatka",
+                    "Inclusion in cultural festivals and sports events",
+                    "Government and cultural organizations support preservation",
+                    "Global recognition of Indian martial traditions"
+                ]
+            },
+            {
+                "heading": "Cultural Integration",
+                "points": [
+                    "Martial arts influenced classical dances (Kathakali, Chhau)",
+                    "Linked with temple rituals and festivals",
+                    "Fusion with folk traditions in rural India",
+                    "Symbol of discipline, spirituality, and identity",
+                    "Represents India’s intangible cultural heritage"
+                ]
+            },
+            {
+                "heading": "UPSC Importance",
+                "points": [
+                    "Kalaripayattu – Kerala (most important ancient martial art)",
+                    "Silambam – Tamil Nadu stick fighting tradition",
+                    "Thang-Ta – Manipur martial tradition",
+                    "Gatka – Sikh martial tradition",
+                    "Rajput and Maratha warfare traditions",
+                    "Frequently asked in chronological and cultural evolution questions"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Martial arts in India originated during:",
+                    "options": ["Vedic period", "Gupta period", "Mughal period", "British period"],
+                    "answer": "Vedic period"
+                },
+                {
+                    "question": "Kalaripayattu is associated with:",
+                    "options": ["Kerala", "Punjab", "Bihar", "Assam"],
+                    "answer": "Kerala"
+                },
+                {
+                    "question": "Silambam originated in:",
+                    "options": ["Tamil Nadu", "Kerala", "Karnataka", "Gujarat"],
+                    "answer": "Tamil Nadu"
+                },
+                {
+                    "question": "Thang-Ta is a martial art of:",
+                    "options": ["Manipur", "Assam", "Odisha", "Rajasthan"],
+                    "answer": "Manipur"
+                },
+                {
+                    "question": "Gatka is associated with:",
+                    "options": ["Sikh tradition", "Buddhist monks", "Temple dancers", "Tribal rituals"],
+                    "answer": "Sikh tradition"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Arthashastra is related to:",
+                    "options": [
+                    "Military organization and governance",
+                    "Dance theory",
+                    "Music system",
+                    "Painting techniques"
+                    ],
+                    "answer": "Military organization and governance"
+                },
+                {
+                    "question": "Maratha warfare is known for:",
+                    "options": [
+                    "Guerrilla tactics",
+                    "Naval dominance only",
+                    "Peaceful diplomacy",
+                    "Temple construction"
+                    ],
+                    "answer": "Guerrilla tactics"
+                },
+                {
+                    "question": "Kalaripayattu was suppressed during:",
+                    "options": [
+                    "British colonial period",
+                    "Gupta period",
+                    "Mauryan period",
+                    "Vedic period"
+                    ],
+                    "answer": "British colonial period"
+                },
+                {
+                    "question": "Dhanurveda refers to:",
+                    "options": [
+                    "Science of warfare",
+                    "Grammar rules",
+                    "Music theory",
+                    "Architecture design"
+                    ],
+                    "answer": "Science of warfare"
+                },
+                {
+                    "question": "Rajput martial tradition is based on:",
+                    "options": [
+                    "Valor and honor",
+                    "Trade and commerce",
+                    "Agriculture",
+                    "Religious chanting"
+                    ],
+                    "answer": "Valor and honor"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Kalaripayattu influenced Indian dance forms\n2. Martial arts declined during colonial rule\n3. Dhanurveda is related to medicine",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Silambam – Tamil Nadu",
+                    "Thang-Ta – Kerala",
+                    "Gatka – Rajasthan",
+                    "Kalaripayattu – Assam"
+                    ],
+                    "answer": "Silambam – Tamil Nadu"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                    "Martial arts evolved with cultural and religious influences",
+                    "They originated in Europe",
+                    "They have no link with Indian history",
+                    "They are purely modern sports"
+                    ],
+                    "answer": "Martial arts evolved with cultural and religious influences"
+                },
+                {
+                    "question": "Guerrilla warfare was strongly associated with:",
+                    "options": [
+                    "Marathas",
+                    "Guptas",
+                    "Mughals only",
+                    "British army"
+                    ],
+                    "answer": "Marathas"
+                },
+                {
+                    "question": "Kalaripayattu includes:",
+                    "options": [
+                    "Weapon training and healing practices",
+                    "Only dance movements",
+                    "Only meditation",
+                    "Only wrestling"
+                    ],
+                    "answer": "Weapon training and healing practices"
+                }
+            ]
+        }
+    },
+    
+]

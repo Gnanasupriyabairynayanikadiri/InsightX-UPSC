@@ -1,0 +1,651 @@
+[
+    {
+        "name": "Indian Art & Culture – Indian Classical Dance Forms",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "India officially recognizes 8 classical dance forms",
+                    "All are based on Natya Shastra by Bharata Muni",
+                    "Combine Nritta (pure dance), Nritya (expression), Natya (drama)",
+                    "Strong links with temples, mythology, and Bhakti tradition",
+                    "Each dance reflects regional culture and spirituality"
+                ]
+            },
+            {
+                "heading": "Bharatanatyam (Tamil Nadu)",
+                "points": [
+                    "One of the oldest classical dance forms of India",
+                    "Originated in temple traditions of Tamil Nadu",
+                    "Associated with Devadasi tradition (historically)",
+                    "Highly structured and geometric movements",
+                    "Themes based on Hindu mythology (Shiva, Vishnu, Krishna)"
+                ]
+            },
+            {
+                "heading": "Kuchipudi (Andhra Pradesh)",
+                "points": [
+                    "Originated in Kuchipudi village, Andhra Pradesh",
+                    "Dance-drama tradition combining speech and movement",
+                    "Originally performed by male Brahmin performers",
+                    "Fast rhythmic movements with expressive storytelling",
+                    "Based on Hindu mythological themes"
+                ]
+            },
+            {
+                "heading": "Kathakali (Kerala)",
+                "points": [
+                    "Classical dance-drama of Kerala",
+                    "Highly stylized facial makeup and costumes",
+                    "No spoken dialogue, only expressions and gestures",
+                    "Themes from Ramayana and Mahabharata",
+                    "Traditionally performed by male artists"
+                ]
+            },
+            {
+                "heading": "Mohiniyattam (Kerala)",
+                "points": [
+                    "Known as the dance of the enchantress",
+                    "Soft, graceful and feminine style (Lasya)",
+                    "Performed mainly by women",
+                    "White-gold costume (Kasavu saree)",
+                    "Themes of love and devotion"
+                ]
+            },
+            {
+                "heading": "Odissi (Odisha)",
+                "points": [
+                    "One of the oldest surviving dance forms of India",
+                    "Originated in temples of Odisha (Jagannath tradition)",
+                    "Sculptural poses inspired by temple carvings",
+                    "Uses Tribhangi posture (three bends)",
+                    "Devotional and lyrical dance style"
+                ]
+            },
+            {
+                "heading": "Manipuri (Manipur)",
+                "points": [
+                    "Classical dance of Manipur",
+                    "Strong Vaishnav Bhakti tradition influence",
+                    "Soft, flowing and circular movements",
+                    "No aggressive footwork or sharp expressions",
+                    "Focus on Radha-Krishna devotion"
+                ]
+            },
+            {
+                "heading": "Kathak (North India)",
+                "points": [
+                    "Derived from Kathakar (storyteller)",
+                    "Evolved in temples and Mughal courts",
+                    "Known for fast spins (Chakkars) and footwork",
+                    "Blend of Hindu and Persian influences",
+                    "Three major gharanas: Jaipur, Lucknow, Banaras"
+                ]
+            },
+            {
+                "heading": "Sattriya (Assam)",
+                "points": [
+                    "Introduced by Srimanta Sankardev",
+                    "Originated in Vaishnav monasteries (Satras)",
+                    "Based on Bhakti movement traditions",
+                    "Originally performed by monks",
+                    "Themes centered on Krishna devotion"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Kathak – North India",
+                    "Bharatanatyam – Tamil Nadu",
+                    "Kathakali – Kerala",
+                    "Mohiniyattam – Kerala",
+                    "Odissi – Odisha",
+                    "Manipuri – Manipur",
+                    "Kuchipudi – Andhra Pradesh",
+                    "Sattriya – Assam"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Bharatanatyam originates from:",
+                    "options": [
+                        "Kerala",
+                        "Tamil Nadu",
+                        "Odisha",
+                        "Assam"
+                    ],
+                    "answer": "Tamil Nadu"
+                },
+                {
+                    "question": "Kathak is associated with:",
+                    "options": [
+                        "North India",
+                        "South India",
+                        "East India",
+                        "West India"
+                    ],
+                    "answer": "North India"
+                },
+                {
+                    "question": "Kathakali belongs to:",
+                    "options": [
+                        "Kerala",
+                        "Karnataka",
+                        "Gujarat",
+                        "Punjab"
+                    ],
+                    "answer": "Kerala"
+                },
+                {
+                    "question": "Odissi is linked with:",
+                    "options": [
+                        "Jagannath tradition",
+                        "Shiva worship",
+                        "Buddhism",
+                        "Jainism"
+                    ],
+                    "answer": "Jagannath tradition"
+                },
+                {
+                    "question": "Sattriya was recognized as classical dance in:",
+                    "options": [
+                        "1950",
+                        "1985",
+                        "2000",
+                        "2015"
+                    ],
+                    "answer": "2000"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Manipuri dance is mainly associated with:",
+                    "options": [
+                        "Shaivism",
+                        "Vaishnavism",
+                        "Buddhism",
+                        "Jainism"
+                    ],
+                    "answer": "Vaishnavism"
+                },
+                {
+                    "question": "Mohiniyattam is mainly performed in:",
+                    "options": [
+                        "Kerala",
+                        "Odisha",
+                        "Assam",
+                        "Bihar"
+                    ],
+                    "answer": "Kerala"
+                },
+                {
+                    "question": "Kathak has how many major gharanas?",
+                    "options": [
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "answer": "3"
+                },
+                {
+                    "question": "Kuchipudi originated in:",
+                    "options": [
+                        "Tamil Nadu",
+                        "Andhra Pradesh",
+                        "Kerala",
+                        "Karnataka"
+                    ],
+                    "answer": "Andhra Pradesh"
+                },
+                {
+                    "question": "Natya Shastra is related to:",
+                    "options": [
+                        "Dance and theatre",
+                        "Economy",
+                        "Polity",
+                        "Science"
+                    ],
+                    "answer": "Dance and theatre"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Bharatanatyam originated in temples\n2. Kathak evolved in Mughal courts\n3. Manipuri is fast and energetic",
+                    "options": [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "All"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Which of the following is correctly matched?",
+                    "options": [
+                        "Odissi – Odisha",
+                        "Kathakali – Rajasthan",
+                        "Manipuri – Gujarat",
+                        "Kathak – Kerala"
+                    ],
+                    "answer": "Odissi – Odisha"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Sattriya is linked to Vaishnav tradition",
+                        "Mohiniyattam is male-dominated",
+                        "Kathakali uses spoken dialogue",
+                        "Kathak is from South India"
+                    ],
+                    "answer": "Sattriya is linked to Vaishnav tradition"
+                },
+                {
+                    "question": "Main feature of Kathakali is:",
+                    "options": [
+                        "Fast spins",
+                        "Elaborate facial makeup",
+                        "Soft movements",
+                        "No music"
+                    ],
+                    "answer": "Elaborate facial makeup"
+                },
+                {
+                    "question": "Indian classical dances are based on:",
+                    "options": [
+                        "Natya Shastra",
+                        "Arthashastra",
+                        "Rigveda",
+                        "Manusmriti"
+                    ],
+                    "answer": "Natya Shastra"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Indian Art & Culture – Folk Dances of India",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Folk dances are traditional community-based performances",
+                    "Linked with festivals, agriculture, rituals, and tribal life",
+                    "Not codified like classical dances",
+                    "Reflect regional identity and cultural diversity",
+                    "Usually performed with local music and simple costumes"
+                ]
+            },
+            {
+                "heading": "Andhra Pradesh",
+                "points": [
+                    "Kolattam – Stick dance in groups",
+                    "Butta Bommalu – Basket costume dance",
+                    "Lambadi – Tribal Banjara dance"
+                ]
+            },
+            {
+                "heading": "Assam",
+                "points": [
+                    "Bagurumba – Bodo tribal graceful dance",
+                    "Bihu – Harvest festival energetic dance"
+                ]
+            },
+            {
+                "heading": "Bihar",
+                "points": [
+                    "Biraha – Expression of pain and separation",
+                    "Jat-Jatin – Husband-wife relationship theme"
+                ]
+            },
+            {
+                "heading": "Chhattisgarh",
+                "points": [
+                    "Gaur Muria (Bison Horn Dance) – Tribal war/hunting dance",
+                    "Raut Nacha – Krishna devotion dance"
+                ]
+            },
+            {
+                "heading": "Goa",
+                "points": [
+                    "Tarangamel – Youth festival energetic dance"
+                ]
+            },
+            {
+                "heading": "Goa",
+                "points": [
+                    "Tarangamel – Youth festival energetic dance"
+                ]
+            },
+            {
+                "heading": "Himachal Pradesh",
+                "points": [
+                    "Charba – Women circle dance",
+                    "Phag – Spring harvest dance"
+                ]
+            },
+            {
+                "heading": "Jharkhand & West Bengal",
+                "points": [
+                    "Alkap – Folk drama with song and dance",
+                    "Jhumair – Harvest group dance"
+                ]
+            },
+            {
+                "heading": "Jammu & Kashmir",
+                "points": [
+                    "Dumhal – Wattal tribe ritual dance"
+                ]
+            },
+            {
+                "heading": "Mizoram",
+                "points": [
+                    "Cheraw – Bamboo dance"
+                ]
+            },
+            {
+                "heading": "Karnataka",
+                "points": [
+                    "Hulivesha – Tiger dance",
+                    "Pata Kunitha – Stick dance",
+                    "Nagaradhane – Serpent worship ritual",
+                    "Buta Kola – Spirit worship dance",
+                    "Aati Kalenja – Monsoon ritual dance"
+                ]
+            },
+            {
+                "heading": "Kerala",
+                "points": [
+                    "Kaikottikali – Women group dance (Onam)",
+                    "Padayani – Temple mask dance",
+                    "Chakyar Koothu – Solo satire storytelling",
+                    "Kolkali-Parichakali – Stick and shield dance"
+                ]
+            },
+            {
+                "heading": "Konkan Region",
+                "points": [
+                    "Fugdi – Women group dance"
+                ]
+            },
+            {
+                "heading": "Madhya Pradesh",
+                "points": [
+                    "Rai Nritya – Bundelkhand folk dance",
+                    "Jawara – Harvest fertility dance",
+                    "Matki – Pot balancing dance"
+                ]
+            },
+            {
+                "heading": "Maharashtra",
+                "points": [
+                    "Lavani – Fast rhythm expressive dance"
+                ]
+            },
+            {
+                "heading": "Manipur",
+                "points": [
+                    "Thang-Ta – Martial folk dance"
+                ]
+            },
+            {
+                "heading": "Nagaland",
+                "points": [
+                    "Rangma – Warrior tribal dance"
+                ]
+            },
+            {
+                "heading": "Odisha",
+                "points": [
+                    "Paika – Martial dance",
+                    "Ghanta Mrudangam – Temple percussion dance",
+                    "Danda Jatra – Ritual penance procession",
+                    "Dalkhai – Tribal women festival dance",
+                    "Chhau – Masked martial dance (shared with WB & Jharkhand)"
+                ]
+            },
+            {
+                "heading": "Puducherry",
+                "points": [
+                    "Garadi – Mythological storytelling dance"
+                ]
+            },
+            {
+                "heading": "Punjab",
+                "points": [
+                    "Bhangra – Harvest energetic dance",
+                    "Giddha – Women expressive dance",
+                    "Jhoomar – Gentle celebratory dance"
+                ]
+            },
+            {
+                "heading": "Rajasthan",
+                "points": [
+                    "Ghoomar/Gangore – Women circle dance",
+                    "Kalbelia – Snake charmer dance",
+                    "Tera Tali – Sword and cymbal dance"
+                ]
+            },
+            {
+                "heading": "Sikkim",
+                "points": [
+                    "Singhi Chham – Snow lion dance (Buddhist tradition)"
+                ]
+            },
+            {
+                "heading": "Tamil Nadu & Kerala",
+                "points": [
+                    "Kummi – Circle folk dance",
+                    "Mayilattam – Peacock dance"
+                ]
+            },
+            {
+                "heading": "Telangana",
+                "points": [
+                    "Perini – Warrior Shiva dance"
+                ]
+            },
+            {
+                "heading": "Tripura",
+                "points": [
+                    "Hojagiri – Balancing objects dance",
+                    "Garia – Tribal festival dance",
+                    "Legang Boomani – Harvest dance",
+                    "Meladom – Community festive dance",
+                    "Mosak Sumani – Tribal ritual dance"
+                ]
+            },
+            {
+                "heading": "Uttar Pradesh",
+                "points": [
+                    "Dadra – Semi-classical folk expressive dance"
+                ]
+            },
+            {
+                "heading": "West Bengal, Odisha & Jharkhand",
+                "points": [
+                    "Chhau – Masked martial dance"
+                ]
+            },
+            {
+                "heading": "West Bengal",
+                "points": [
+                    "Gambhira – Social-religious satire dance",
+                    "Karma Naach – Harvest festival dance"
+                ]
+            }
+        ],
+        "upsc_focus": {
+            "high_yield_pairs": [
+                "Cheraw → Mizoram (Bamboo dance)",
+                "Chhau → WB/Odisha/Jharkhand (Masked martial dance)",
+                "Garba/Dandiya → Gujarat (Navratri)",
+                "Bihu → Assam (Harvest dance)",
+                "Kalbelia → Rajasthan (UNESCO folk dance)",
+                "Bhangra → Punjab (Harvest)",
+                "Hojagiri → Tripura (Balancing dance)",
+                "Gaur Muria → Chhattisgarh (Bison horn dance)"
+            ]
+        },
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Cheraw dance is associated with:",
+                    "options": [
+                        "Mizoram",
+                        "Assam",
+                        "Manipur",
+                        "Tripura"
+                    ],
+                    "answer": "Mizoram"
+                },
+                {
+                    "question": "Garba is linked with:",
+                    "options": [
+                        "Gujarat",
+                        "Punjab",
+                        "Kerala",
+                        "Assam"
+                    ],
+                    "answer": "Gujarat"
+                },
+                {
+                    "question": "Bhangra is a folk dance of:",
+                    "options": [
+                        "Punjab",
+                        "Bihar",
+                        "Goa",
+                        "Odisha"
+                    ],
+                    "answer": "Punjab"
+                },
+                {
+                    "question": "Bihu dance belongs to:",
+                    "options": [
+                        "Assam",
+                        "Kerala",
+                        "Karnataka",
+                        "Rajasthan"
+                    ],
+                    "answer": "Assam"
+                },
+                {
+                    "question": "Kalbelia dance is from:",
+                    "options": [
+                        "Rajasthan",
+                        "Gujarat",
+                        "Punjab",
+                        "Madhya Pradesh"
+                    ],
+                    "answer": "Rajasthan"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Chhau dance is performed in:",
+                    "options": [
+                        "Kerala",
+                        "West Bengal, Odisha, Jharkhand",
+                        "Assam",
+                        "Punjab"
+                    ],
+                    "answer": "West Bengal, Odisha, Jharkhand"
+                },
+                {
+                    "question": "Lavani belongs to:",
+                    "options": [
+                        "Maharashtra",
+                        "Gujarat",
+                        "Karnataka",
+                        "Kerala"
+                    ],
+                    "answer": "Maharashtra"
+                },
+                {
+                    "question": "Hulivesha is known as:",
+                    "options": [
+                        "Tiger dance",
+                        "Snake dance",
+                        "Peacock dance",
+                        "Lion dance"
+                    ],
+                    "answer": "Tiger dance"
+                },
+                {
+                    "question": "Hojagiri involves:",
+                    "options": [
+                        "Fire dance",
+                        "Balancing acts",
+                        "Stick fighting",
+                        "Water dance"
+                    ],
+                    "answer": "Balancing acts"
+                },
+                {
+                    "question": "Dumhal is associated with:",
+                    "options": [
+                        "Jammu & Kashmir",
+                        "Himachal Pradesh",
+                        "Punjab",
+                        "Sikkim"
+                    ],
+                    "answer": "Jammu & Kashmir"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                        "Cheraw – Bamboo dance – Mizoram",
+                        "Garadi – Assam",
+                        "Bihu – Kerala",
+                        "Lavani – Punjab"
+                    ],
+                    "answer": "Cheraw – Bamboo dance – Mizoram"
+                },
+                {
+                    "question": "Consider the following:\n1. Kalbelia is UNESCO recognized\n2. Chhau uses masks\n3. Lavani is from Gujarat",
+                    "options": [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "All"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Hojagiri is balancing dance",
+                        "Bhangra is ritual temple dance",
+                        "Gambhira is from Kerala",
+                        "Paika is from Assam"
+                    ],
+                    "answer": "Hojagiri is balancing dance"
+                },
+                {
+                    "question": "Gaur Muria dance is known for:",
+                    "options": [
+                        "Snake costume",
+                        "Bison horn headgear",
+                        "Fire rituals",
+                        "Water rituals"
+                    ],
+                    "answer": "Bison horn headgear"
+                },
+                {
+                    "question": "Folk dances are mainly:",
+                    "options": [
+                        "Codified classical systems",
+                        "Community cultural expressions",
+                        "Temple rituals only",
+                        "Written literature forms"
+                    ],
+                    "answer": "Community cultural expressions"
+                }
+            ]
+        }
+    }
+]

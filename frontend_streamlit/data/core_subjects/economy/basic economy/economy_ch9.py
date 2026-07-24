@@ -1,0 +1,630 @@
+TOPICS = [
+    {
+        "name": "Financial System, Money Market & Capital Market in India",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Financial system facilitates flow of funds from savers to investors",
+                    "Includes financial institutions, markets, instruments, and services",
+                    "Money market and capital market are two major components"
+                ]
+            },
+            {
+                "heading": "Financial System – Meaning",
+                "points": [
+                    "A network of institutions, markets, and instruments that mobilize savings and allocate capital",
+                    "Acts as an intermediary between savers and borrowers",
+                    "Ensures efficient allocation of financial resources",
+                    "Promotes economic growth and stability"
+                ]
+            },
+            {
+                "heading": "Components of Financial System",
+                "points": [
+                    "Financial Institutions – Banks, NBFCs, insurance companies",
+                    "Financial Markets – Money market and capital market",
+                    "Financial Instruments – Shares, bonds, derivatives",
+                    "Financial Services – Banking, insurance, mutual funds"
+                ]
+            },
+            {
+                "heading": "Money Market in India – Meaning",
+                "points": [
+                    "Market for short-term funds (maturity up to 1 year)",
+                    "Deals with highly liquid and low-risk instruments",
+                    "Used for managing short-term liquidity",
+                    "Regulated mainly by RBI"
+                ]
+            },
+            {
+                "heading": "Features of Money Market",
+                "points": [
+                    "Short-term maturity instruments",
+                    "High liquidity",
+                    "Low risk and returns",
+                    "No formal physical location (OTC market)",
+                    "Important for monetary policy transmission"
+                ]
+            },
+            {
+                "heading": "Instruments of Money Market",
+                "points": [
+                    "Treasury Bills (T-Bills)",
+                    "Commercial Paper (CP)",
+                    "Certificates of Deposit (CD)",
+                    "Call/Notice Money",
+                    "Repurchase Agreements (Repo)"
+                ]
+            },
+            {
+                "heading": "Participants in Money Market",
+                "points": [
+                    "Reserve Bank of India (RBI)",
+                    "Commercial banks",
+                    "Financial institutions",
+                    "Mutual funds",
+                    "Corporates"
+                ]
+            },
+            {
+                "heading": "Functions of Money Market",
+                "points": [
+                    "Provide liquidity to financial system",
+                    "Facilitate short-term borrowing and lending",
+                    "Support monetary policy implementation",
+                    "Ensure smooth functioning of financial markets"
+                ]
+            },
+            {
+                "heading": "Capital Market in India – Meaning",
+                "points": [
+                    "Market for long-term funds (maturity more than 1 year)",
+                    "Deals with shares, bonds, and long-term securities",
+                    "Facilitates capital formation",
+                    "Regulated by SEBI"
+                ]
+            },
+            {
+                "heading": "Features of Capital Market",
+                "points": [
+                    "Long-term investment",
+                    "Higher risk and return",
+                    "Encourages savings and investment",
+                    "Provides funds for economic development",
+                    "Includes primary and secondary markets"
+                ]
+            },
+            {
+                "heading": "Types of Capital Market",
+                "points": [
+                    "Primary Market – New issue of securities (IPO)",
+                    "Secondary Market – Trading of existing securities (stock exchanges)",
+                    "Equity Market – Shares",
+                    "Debt Market – Bonds and debentures"
+                ]
+            },
+            {
+                "heading": "Instruments of Capital Market",
+                "points": [
+                    "Equity shares",
+                    "Preference shares",
+                    "Debentures and bonds",
+                    "Government securities",
+                    "Mutual fund units"
+                ]
+            },
+            {
+                "heading": "Participants in Capital Market",
+                "points": [
+                    "Investors (individual and institutional)",
+                    "Companies",
+                    "Stock exchanges",
+                    "Brokers and intermediaries",
+                    "Regulators like SEBI"
+                ]
+            },
+            {
+                "heading": "Functions of Capital Market",
+                "points": [
+                    "Mobilizes long-term savings",
+                    "Facilitates capital formation",
+                    "Provides investment opportunities",
+                    "Enhances economic growth",
+                    "Ensures efficient allocation of resources"
+                ]
+            },
+            {
+                "heading": "Difference: Money Market vs Capital Market",
+                "points": [
+                    "Money Market – Short-term funds; Capital Market – Long-term funds",
+                    "Money Market – Low risk; Capital Market – Higher risk",
+                    "Money Market – High liquidity; Capital Market – Relatively less liquidity",
+                    "Money Market – Regulated by RBI; Capital Market – Regulated by SEBI"
+                ]
+            },
+            {
+                "heading": "Challenges in Financial Markets",
+                "points": [
+                    "Market volatility",
+                    "Regulatory challenges",
+                    "Financial frauds",
+                    "Low financial literacy",
+                    "Global economic uncertainties"
+                ]
+            },
+            {
+                "heading": "Way Forward",
+                "points": [
+                    "Strengthen regulatory framework",
+                    "Promote financial inclusion",
+                    "Enhance transparency",
+                    "Develop financial markets",
+                    "Increase investor awareness",
+                    "Leverage technology in finance"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Financial system connects:",
+                    "options": [
+                    "Exports and imports",
+                    "Savers and borrowers",
+                    "Only banks",
+                    "Only government"
+                    ],
+                    "answer": "Savers and borrowers"
+                },
+                {
+                    "question": "Money market deals with:",
+                    "options": [
+                    "Long-term funds",
+                    "Short-term funds",
+                    "Exports",
+                    "Imports"
+                    ],
+                    "answer": "Short-term funds"
+                },
+                {
+                    "question": "Capital market deals with:",
+                    "options": [
+                    "Short-term funds",
+                    "Long-term funds",
+                    "Taxes",
+                    "Subsidies"
+                    ],
+                    "answer": "Long-term funds"
+                },
+                {
+                    "question": "Regulator of capital market:",
+                    "options": [
+                    "RBI",
+                    "SEBI",
+                    "Finance Ministry",
+                    "NITI Aayog"
+                    ],
+                    "answer": "SEBI"
+                },
+                {
+                    "question": "T-Bills are part of:",
+                    "options": [
+                    "Capital market",
+                    "Money market",
+                    "Tax system",
+                    "Budget"
+                    ],
+                    "answer": "Money market"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "IPO is issued in:",
+                    "options": [
+                    "Secondary market",
+                    "Primary market",
+                    "Money market",
+                    "Foreign market"
+                    ],
+                    "answer": "Primary market"
+                },
+                {
+                    "question": "Commercial paper is:",
+                    "options": [
+                    "Long-term instrument",
+                    "Short-term instrument",
+                    "Equity share",
+                    "Bond"
+                    ],
+                    "answer": "Short-term instrument"
+                },
+                {
+                    "question": "SEBI regulates:",
+                    "options": [
+                    "Banks",
+                    "Capital markets",
+                    "Taxes",
+                    "Subsidies"
+                    ],
+                    "answer": "Capital markets"
+                },
+                {
+                    "question": "Money market is known for:",
+                    "options": [
+                    "High risk",
+                    "High liquidity",
+                    "Low liquidity",
+                    "High cost"
+                    ],
+                    "answer": "High liquidity"
+                },
+                {
+                    "question": "Debt market deals with:",
+                    "options": [
+                    "Shares",
+                    "Bonds",
+                    "Taxes",
+                    "Imports"
+                    ],
+                    "answer": "Bonds"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Money market is short-term\n2. Capital market is long-term\n3. RBI regulates capital market",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Call money refers to:",
+                    "options": [
+                    "Long-term loan",
+                    "Short-term loan",
+                    "Equity",
+                    "Bond"
+                    ],
+                    "answer": "Short-term loan"
+                },
+                {
+                    "question": "Secondary market is for:",
+                    "options": [
+                    "New issues",
+                    "Trading existing securities",
+                    "Taxes",
+                    "Subsidies"
+                    ],
+                    "answer": "Trading existing securities"
+                },
+                {
+                    "question": "Main function of financial system:",
+                    "options": [
+                    "Production",
+                    "Allocation of funds",
+                    "Exports",
+                    "Imports"
+                    ],
+                    "answer": "Allocation of funds"
+                },
+                {
+                    "question": "Liquidity means:",
+                    "options": [
+                    "Profit",
+                    "Ease of conversion to cash",
+                    "Loss",
+                    "Tax"
+                    ],
+                    "answer": "Ease of conversion to cash"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Indian Capital Market Regulatory Framework & Market Reforms",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Capital market regulation ensures transparency, investor protection, and orderly market functioning",
+                    "India has undertaken major reforms in both primary and secondary markets since 1991",
+                    "Regulatory framework is strengthened through institutions like SEBI"
+                ]
+            },
+            {
+                "heading": "Indian Capital Market Regulatory Framework – Overview",
+                "points": [
+                    "Framework governs functioning of capital markets in India",
+                    "Ensures fair practices, transparency, and investor protection",
+                    "Involves multiple regulators and laws",
+                    "Evolved significantly after economic reforms"
+                ]
+            },
+            {
+                "heading": "Key Regulatory Institutions",
+                "points": [
+                    "SEBI (Securities and Exchange Board of India) – Main regulator of capital markets",
+                    "RBI – Regulates government securities and money market",
+                    "Ministry of Finance – Policy formulation",
+                    "Stock Exchanges (NSE, BSE) – Self-regulatory organizations",
+                    "Depositories (NSDL, CDSL) – Hold securities in electronic form"
+                ]
+            },
+            {
+                "heading": "Functions of SEBI",
+                "points": [
+                    "Protect interests of investors",
+                    "Regulate stock exchanges and intermediaries",
+                    "Promote development of capital markets",
+                    "Prevent fraudulent practices and insider trading",
+                    "Ensure transparency in transactions"
+                ]
+            },
+            {
+                "heading": "Legal Framework",
+                "points": [
+                    "SEBI Act, 1992",
+                    "Securities Contracts (Regulation) Act, 1956",
+                    "Companies Act, 2013",
+                    "Depositories Act, 1996",
+                    "Various SEBI regulations and guidelines"
+                ]
+            },
+            {
+                "heading": "Primary Market – Meaning",
+                "points": [
+                    "Market for new issue of securities",
+                    "Companies raise capital through IPOs, FPOs",
+                    "Also called new issue market",
+                    "Direct link between investors and companies"
+                ]
+            },
+            {
+                "heading": "Primary Market Reforms in India",
+                "points": [
+                    "Introduction of SEBI regulations for IPOs",
+                    "Disclosure and transparency norms",
+                    "Book building process for price discovery",
+                    "Online application system (ASBA)",
+                    "Reduction in time for listing",
+                    "Entry of private and foreign investors",
+                    "Dematerialization of shares"
+                ]
+            },
+            {
+                "heading": "Impact of Primary Market Reforms",
+                "points": [
+                    "Improved investor confidence",
+                    "Greater transparency",
+                    "Efficient capital raising",
+                    "Increased participation",
+                    "Reduced malpractices"
+                ]
+            },
+            {
+                "heading": "Secondary Market – Meaning",
+                "points": [
+                    "Market for trading existing securities",
+                    "Provides liquidity to investors",
+                    "Operates through stock exchanges",
+                    "Determines market prices of securities"
+                ]
+            },
+            {
+                "heading": "Secondary Market Reforms in India",
+                "points": [
+                    "Screen-based electronic trading",
+                    "Introduction of derivatives trading",
+                    "Dematerialization of securities (Demat)",
+                    "Rolling settlement system (T+2/T+1)",
+                    "Strengthening of risk management systems",
+                    "Introduction of circuit breakers",
+                    "Improved surveillance mechanisms"
+                ]
+            },
+            {
+                "heading": "Impact of Secondary Market Reforms",
+                "points": [
+                    "Increased market efficiency",
+                    "Reduced transaction costs",
+                    "Improved transparency",
+                    "Enhanced liquidity",
+                    "Better investor protection"
+                ]
+            },
+            {
+                "heading": "Role of Technology in Capital Markets",
+                "points": [
+                    "Online trading platforms",
+                    "Electronic settlement systems",
+                    "Algorithmic trading",
+                    "Digital KYC and compliance",
+                    "Improved market access"
+                ]
+            },
+            {
+                "heading": "Challenges in Capital Market Regulation",
+                "points": [
+                    "Market volatility",
+                    "Fraud and insider trading",
+                    "Regulatory coordination issues",
+                    "Cybersecurity risks",
+                    "Low retail participation in some segments"
+                ]
+            },
+            {
+                "heading": "Way Forward",
+                "points": [
+                    "Strengthen regulatory oversight",
+                    "Enhance investor awareness",
+                    "Promote financial inclusion",
+                    "Leverage technology for transparency",
+                    "Improve coordination among regulators",
+                    "Ensure robust risk management systems"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Main regulator of capital market in India:",
+                    "options": [
+                    "RBI",
+                    "SEBI",
+                    "Finance Ministry",
+                    "NITI Aayog"
+                    ],
+                    "answer": "SEBI"
+                },
+                {
+                    "question": "Primary market deals with:",
+                    "options": [
+                    "Old securities",
+                    "New securities",
+                    "Taxes",
+                    "Imports"
+                    ],
+                    "answer": "New securities"
+                },
+                {
+                    "question": "Secondary market deals with:",
+                    "options": [
+                    "New issues",
+                    "Existing securities",
+                    "Taxes",
+                    "Exports"
+                    ],
+                    "answer": "Existing securities"
+                },
+                {
+                    "question": "Demat means:",
+                    "options": [
+                    "Paper shares",
+                    "Electronic shares",
+                    "Gold",
+                    "Cash"
+                    ],
+                    "answer": "Electronic shares"
+                },
+                {
+                    "question": "IPO stands for:",
+                    "options": [
+                    "Initial Public Offer",
+                    "Internal Public Offer",
+                    "Investment Public Option",
+                    "Initial Private Offer"
+                    ],
+                    "answer": "Initial Public Offer"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "ASBA is used in:",
+                    "options": [
+                    "Secondary market",
+                    "Primary market",
+                    "Money market",
+                    "Tax system"
+                    ],
+                    "answer": "Primary market"
+                },
+                {
+                    "question": "Rolling settlement means:",
+                    "options": [
+                    "Delayed settlement",
+                    "Continuous settlement",
+                    "No settlement",
+                    "Weekly settlement"
+                    ],
+                    "answer": "Continuous settlement"
+                },
+                {
+                    "question": "Circuit breakers are used to:",
+                    "options": [
+                    "Increase prices",
+                    "Control volatility",
+                    "Increase taxes",
+                    "Reduce liquidity"
+                    ],
+                    "answer": "Control volatility"
+                },
+                {
+                    "question": "Book building is for:",
+                    "options": [
+                    "Tax calculation",
+                    "Price discovery",
+                    "Trading",
+                    "Settlement"
+                    ],
+                    "answer": "Price discovery"
+                },
+                {
+                    "question": "Depositories hold:",
+                    "options": [
+                    "Cash",
+                    "Securities",
+                    "Gold",
+                    "Taxes"
+                    ],
+                    "answer": "Securities"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. SEBI regulates capital market\n2. Primary market deals with new issues\n3. Secondary market provides liquidity",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1, 2 and 3",
+                    "1 and 3 only"
+                    ],
+                    "answer": "1, 2 and 3"
+                },
+                {
+                    "question": "Dematerialization helps in:",
+                    "options": [
+                    "Fraud",
+                    "Transparency",
+                    "Delay",
+                    "Paperwork"
+                    ],
+                    "answer": "Transparency"
+                },
+                {
+                    "question": "Derivatives trading is part of:",
+                    "options": [
+                    "Primary market",
+                    "Secondary market",
+                    "Tax system",
+                    "Budget"
+                    ],
+                    "answer": "Secondary market"
+                },
+                {
+                    "question": "Main aim of SEBI:",
+                    "options": [
+                    "Tax collection",
+                    "Investor protection",
+                    "Exports",
+                    "Imports"
+                    ],
+                    "answer": "Investor protection"
+                },
+                {
+                    "question": "Technology in markets improves:",
+                    "options": [
+                    "Inefficiency",
+                    "Transparency",
+                    "Fraud",
+                    "Delay"
+                    ],
+                    "answer": "Transparency"
+                }
+            ]
+        }
+    }
+]

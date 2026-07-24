@@ -1,0 +1,1041 @@
+TOPICS = [
+    {
+        "name": "Indian National Movement – II (1918–1929): WWI Aftermath, Early Gandhian Satyagrahas, Rowlatt Act & Jallianwala Bagh",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "1918–1929 marks the beginning of Gandhian mass politics in India",
+                    "World War I created economic distress and political expectations",
+                    "Gandhi emerged as a mass leader through local satyagrahas",
+                    "British reforms failed to satisfy nationalist aspirations",
+                    "Repressive laws led to nationwide protests and radicalization"
+                ]
+            },
+            {
+                "heading": "World War I – Impact on India",
+                "points": [
+                    "Increased taxation and inflation in India",
+                    "Forced recruitment of Indian soldiers",
+                    "Economic hardship and rural distress",
+                    "Expectation of political reforms after war",
+                    "Rise in nationalist consciousness"
+                ]
+            },
+            {
+                "heading": "Reforms and Agitation after World War I",
+                "points": [
+                    "British promised reforms for Indian cooperation during WWI",
+                    "Montagu Declaration (1917) raised expectations",
+                    "But reforms were limited and disappointing",
+                    "Nationalist dissatisfaction increased",
+                    "Led to rise of Gandhian mass movements"
+                ]
+            },
+            {
+                "heading": "Champaran Satyagraha (1917)",
+                "points": [
+                    "First major Gandhian movement in India",
+                    "Occurred in Champaran, Bihar",
+                    "Indigo farmers forced under exploitative tinkathia system",
+                    "Led by Mahatma Gandhi",
+                    "British appointed inquiry commission and partial relief was granted"
+                ]
+            },
+            {
+                "heading": "Significance of Champaran Satyagraha",
+                "points": [
+                    "Marked entry of Gandhi into Indian mass politics",
+                    "First successful application of satyagraha",
+                    "Improved condition of indigo peasants",
+                    "Strengthened rural political awareness",
+                    "Established Gandhi as national leader"
+                ]
+            },
+            {
+                "heading": "Ahmedabad Mill Strike (1918)",
+                "points": [
+                    "Industrial dispute between mill workers and mill owners",
+                    "Workers demanded wage increase due to wartime inflation",
+                    "Gandhi mediated strike using hunger strike (fast unto death)",
+                    "Resulted in wage increase for workers",
+                    "Demonstrated effectiveness of non-violent protest"
+                ]
+            },
+            {
+                "heading": "Significance of Ahmedabad Mill Strike",
+                "points": [
+                    "First labor movement led by Gandhi",
+                    "Showed power of non-violent pressure",
+                    "Strengthened worker consciousness",
+                    "Established Gandhi’s leadership in urban issues",
+                    "Expanded satyagraha to industrial sector"
+                ]
+            },
+            {
+                "heading": "Kheda Satyagraha (1918)",
+                "points": [
+                    "Occurred in Kheda district, Gujarat",
+                    "Peasants demanded tax remission due to crop failure",
+                    "Led by Gandhi, Sardar Patel, and others",
+                    "British government initially refused relief",
+                    "Partial suspension of revenue collection was achieved"
+                ]
+            },
+            {
+                "heading": "Significance of Kheda Satyagraha",
+                "points": [
+                    "Strengthened peasant participation in nationalism",
+                    "Boosted leadership of Sardar Patel",
+                    "Expanded Gandhian movement in rural areas",
+                    "Highlighted economic exploitation",
+                    "Successful non-violent resistance model"
+                ]
+            },
+            {
+                "heading": "Government of India Act (1919) – Background",
+                "points": [
+                    "Based on Montagu-Chelmsford Report",
+                    "Introduced after August Declaration (1917)",
+                    "Aimed to provide limited self-government",
+                    "Response to rising nationalist pressure",
+                    "Failed to satisfy Indian aspirations"
+                ]
+            },
+            {
+                "heading": "Key Features of Government of India Act (1919)",
+                "points": [
+                    "Introduction of dyarchy in provinces",
+                    "Division of subjects into reserved and transferred",
+                    "Expansion of legislative councils",
+                    "Limited franchise based on property and tax",
+                    "No real transfer of power to Indians"
+                ]
+            },
+            {
+                "heading": "Limitations of 1919 Act",
+                "points": [
+                    "Dyarchy system was complex and ineffective",
+                    "No responsible government at central level",
+                    "Very limited voting rights",
+                    "Executive power remained with British",
+                    "Discontent among nationalists"
+                ]
+            },
+            {
+                "heading": "Rowlatt Act (1919) – Background",
+                "points": [
+                    "Based on Rowlatt Committee recommendations",
+                    "Also known as 'Black Act'",
+                    "Passed to suppress revolutionary activities",
+                    "Allowed detention without trial",
+                    "Extended wartime emergency powers"
+                ]
+            },
+            {
+                "heading": "Key Features of Rowlatt Act",
+                "points": [
+                    "Arrest without warrant",
+                    "Trial without jury",
+                    "Restriction of press freedom",
+                    "Preventive detention powers",
+                    "No judicial review"
+                ]
+            },
+            {
+                "heading": "Jallianwala Bagh Massacre (1919)",
+                "points": [
+                    "Occurred on 13 April 1919 in Amritsar",
+                    "General Dyer ordered firing on peaceful gathering",
+                    "People assembled for protest against Rowlatt Act",
+                    "Hundreds killed and many injured",
+                    "One of the darkest events in colonial history"
+                ]
+            },
+            {
+                "heading": "Significance of Jallianwala Bagh Massacre",
+                "points": [
+                    "Turned Indian nationalism into mass movement",
+                    "Destroyed faith in British justice system",
+                    "Led to rise of Non-Cooperation Movement",
+                    "Unified Indians against colonial rule",
+                    "Marked turning point in freedom struggle"
+                ]
+            },
+            {
+                "heading": "Overall Significance (1918–1920 Phase)",
+                "points": [
+                    "Rise of Gandhi as national leader",
+                    "Beginning of mass-based nationalism",
+                    "Failure of British reforms increased resentment",
+                    "Repressive laws triggered nationwide protests",
+                    "Foundation of Non-Cooperation Movement"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Champaran Satyagraha took place in:",
+                    "options": [
+                    "1915",
+                    "1917",
+                    "1919",
+                    "1920"
+                    ],
+                    "answer": "1917"
+                },
+                {
+                    "question": "Ahmedabad Mill Strike was related to:",
+                    "options": [
+                    "Farmers",
+                    "Industrial workers",
+                    "Students",
+                    "Soldiers"
+                    ],
+                    "answer": "Industrial workers"
+                },
+                {
+                    "question": "Kheda Satyagraha took place in:",
+                    "options": [
+                    "Punjab",
+                    "Gujarat",
+                    "Bengal",
+                    "Bihar"
+                    ],
+                    "answer": "Gujarat"
+                },
+                {
+                    "question": "Rowlatt Act is also known as:",
+                    "options": [
+                    "White Act",
+                    "Black Act",
+                    "Green Act",
+                    "Emergency Act"
+                    ],
+                    "answer": "Black Act"
+                },
+                {
+                    "question": "Jallianwala Bagh massacre occurred in:",
+                    "options": [
+                    "Delhi",
+                    "Amritsar",
+                    "Lahore",
+                    "Lucknow"
+                    ],
+                    "answer": "Amritsar"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Champaran movement was related to:",
+                    "options": [
+                    "Salt tax",
+                    "Indigo cultivation",
+                    "Textile industry",
+                    "Forest laws"
+                    ],
+                    "answer": "Indigo cultivation"
+                },
+                {
+                    "question": "Government of India Act 1919 introduced:",
+                    "options": [
+                    "Dyarchy",
+                    "Republic system",
+                    "Complete independence",
+                    "Federal system"
+                    ],
+                    "answer": "Dyarchy"
+                },
+                {
+                    "question": "Rowlatt Act allowed:",
+                    "options": [
+                    "Freedom of speech",
+                    "Detention without trial",
+                    "Universal voting",
+                    "Local governance"
+                    ],
+                    "answer": "Detention without trial"
+                },
+                {
+                    "question": "Jallianwala Bagh massacre was ordered by:",
+                    "options": [
+                    "Lord Curzon",
+                    "General Dyer",
+                    "Lord Mountbatten",
+                    "Lord Wavell"
+                    ],
+                    "answer": "General Dyer"
+                },
+                {
+                    "question": "Ahmedabad Mill Strike was mediated by:",
+                    "options": [
+                    "Nehru",
+                    "Gandhi",
+                    "Tilak",
+                    "Patel only"
+                    ],
+                    "answer": "Gandhi"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Champaran was first Gandhian movement\n2. Rowlatt Act restricted civil liberties\n3. Jallianwala Bagh led to Non-Cooperation Movement",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1, 2 and 3",
+                    "1 and 3 only"
+                    ],
+                    "answer": "1, 2 and 3"
+                },
+                {
+                    "question": "Main significance of 1918–1920 phase was:",
+                    "options": [
+                    "Rise of revolutionary terrorism",
+                    "Beginning of Gandhian mass politics",
+                    "End of British rule",
+                    "Economic prosperity"
+                    ],
+                    "answer": "Beginning of Gandhian mass politics"
+                },
+                {
+                    "question": "Dyarchy system introduced in:",
+                    "options": [
+                    "1909",
+                    "1919",
+                    "1935",
+                    "1947"
+                    ],
+                    "answer": "1919"
+                },
+                {
+                    "question": "Jallianwala Bagh massacre resulted in:",
+                    "options": [
+                    "British victory sentiment",
+                    "National outrage and mass nationalism",
+                    "End of Congress",
+                    "Economic reforms"
+                    ],
+                    "answer": "National outrage and mass nationalism"
+                },
+                {
+                    "question": "Overall impact of Rowlatt Act was:",
+                    "options": [
+                    "Strengthened British rule",
+                    "Triggered nationwide protests",
+                    "Ended reforms",
+                    "Improved relations"
+                    ],
+                    "answer": "Triggered nationwide protests"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Indian National Movement – II (1919–1922): Jallianwala Bagh Aftermath, Khilafat Movement, Non-Cooperation Movement, Nagpur Session & Swaraj Party",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "1919–1922 marks the first nationwide mass movement under Gandhi",
+                    "It combined political, economic, and religious grievances",
+                    "Hindu-Muslim unity reached a peak through Khilafat-Non-Cooperation alliance",
+                    "Congress adopted mass boycott strategy",
+                    "Movement ended abruptly after Chauri Chaura incident (1922)"
+                ]
+            },
+            {
+                "heading": "Aftermath of Jallianwala Bagh (1919)",
+                "points": [
+                    "Massacre led to national outrage across India",
+                    "Rabindranath Tagore renounced knighthood",
+                    "Gandhi returned British medals and titles",
+                    "Trust in British justice system collapsed",
+                    "Radicalization of nationalist politics"
+                ]
+            },
+            {
+                "heading": "Khilafat Movement – Background",
+                "points": [
+                    "Started after World War I (1919)",
+                    "Concerned with protection of Ottoman Caliph (Khalifa)",
+                    "Indian Muslims feared abolition of Caliphate by Britain",
+                    "Led by Ali brothers – Shaukat Ali and Mohammad Ali",
+                    "Gandhi supported Khilafat to build Hindu-Muslim unity"
+                ]
+            },
+            {
+                "heading": "Objectives of Khilafat Movement",
+                "points": [
+                    "Protect Ottoman Caliphate",
+                    "Oppose harsh terms of Treaty of Sèvres (1920)",
+                    "Pressurize British government through mass agitation",
+                    "Strengthen Hindu-Muslim unity",
+                    "Link religious issue with Indian nationalism"
+                ]
+            },
+            {
+                "heading": "Significance of Khilafat Movement",
+                "points": [
+                    "Created unprecedented Hindu-Muslim unity",
+                    "Brought Muslims into national movement",
+                    "Strengthened Gandhian leadership",
+                    "Linked international Islamic issue with Indian politics",
+                    "Merged with Non-Cooperation Movement"
+                ]
+            },
+            {
+                "heading": "Non-Cooperation Movement (1920–1922) – Introduction",
+                "points": [
+                    "Launched by Mahatma Gandhi in 1920",
+                    "Formal approval at Nagpur Congress Session",
+                    "Response to Jallianwala Bagh and Rowlatt Act",
+                    "Combined Khilafat and nationalist grievances",
+                    "First nationwide mass movement in India"
+                ]
+            },
+            {
+                "heading": "Program of Non-Cooperation Movement",
+                "points": [
+                    "Boycott of foreign goods",
+                    "Boycott of government schools and colleges",
+                    "Boycott of courts and law courts",
+                    "Renunciation of British titles and honors",
+                    "Promotion of Swadeshi goods and khadi"
+                ]
+            },
+            {
+                "heading": "Features of Non-Cooperation Movement",
+                "points": [
+                    "Mass participation from students, lawyers, peasants",
+                    "Nationwide spread across urban and rural areas",
+                    "Peaceful and non-violent approach",
+                    "Strong participation of women",
+                    "First all-India political movement"
+                ]
+            },
+            {
+                "heading": "Chauri Chaura Incident (1922)",
+                "points": [
+                    "Occurred in Gorakhpur, Uttar Pradesh",
+                    "Violence broke out during police confrontation",
+                    "Mob burnt police station killing policemen",
+                    "Gandhi suspended Non-Cooperation Movement",
+                    "Marked abrupt end of movement"
+                ]
+            },
+            {
+                "heading": "Nagpur Session of Congress (1920)",
+                "points": [
+                    "Held in December 1920",
+                    "Official approval of Non-Cooperation Movement",
+                    "Adoption of Swaraj as goal",
+                    "Reorganization of Congress structure",
+                    "Open membership for all Indians"
+                ]
+            },
+            {
+                "heading": "Significance of Nagpur Session",
+                "points": [
+                    "Transformation of Congress into mass organization",
+                    "Acceptance of Gandhian ideology",
+                    "Shift from elite to mass politics",
+                    "Formal launch of Non-Cooperation Movement",
+                    "Strengthened national unity"
+                ]
+            },
+            {
+                "heading": "Bardoli Resolution",
+                "points": [
+                    "Passed by Congress in 1922",
+                    "Called off Non-Cooperation Movement after Chauri Chaura",
+                    "Emphasized non-violence as core principle",
+                    "Supported Gandhi’s decision to suspend movement",
+                    "Reflected Congress discipline and Gandhian leadership"
+                ]
+            },
+            {
+                "heading": "Swaraj Party – Background",
+                "points": [
+                    "Formed in 1923 after suspension of Non-Cooperation Movement",
+                    "Led by Motilal Nehru and C.R. Das",
+                    "Also known as Congress-Khilafat Swaraj Party",
+                    "Result of differences within Congress",
+                    "Believed in entering legislative councils"
+                ]
+            },
+            {
+                "heading": "Objectives of Swaraj Party",
+                "points": [
+                    "Enter legislative councils and obstruct British policies",
+                    "Expose limitations of constitutional reforms",
+                    "Demand self-government (Swaraj)",
+                    "Continue political struggle within councils",
+                    "Represent nationalist voice in legislature"
+                ]
+            },
+            {
+                "heading": "Methods of Swaraj Party",
+                "points": [
+                    "Council entry and obstructionist politics",
+                    "Opposition to government policies in assemblies",
+                    "Use of debates and resolutions",
+                    "Criticism of colonial administration",
+                    "Coordinated political opposition"
+                ]
+            },
+            {
+                "heading": "Significance of Swaraj Party",
+                "points": [
+                    "Kept nationalist movement alive after 1922",
+                    "Exposed weaknesses of legislative reforms",
+                    "Provided political platform for leaders",
+                    "Maintained pressure on British government",
+                    "Bridged gap between movements"
+                ]
+            },
+            {
+                "heading": "Limitations of Swaraj Party",
+                "points": [
+                    "Internal divisions among leaders",
+                    "Limited mass participation",
+                    "Dependence on constitutional methods",
+                    "Unable to achieve immediate Swaraj",
+                    "Gradual decline by late 1920s"
+                ]
+            },
+            {
+                "heading": "Overall Significance (1919–1922)",
+                "points": [
+                    "First mass national movement under Gandhi",
+                    "Peak of Hindu-Muslim unity",
+                    "Rise of civil disobedience ideology",
+                    "Transformation of Congress into mass party",
+                    "Foundation for future struggles like Civil Disobedience Movement"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Non-Cooperation Movement was launched in:",
+                    "options": [
+                    "1919",
+                    "1920",
+                    "1922",
+                    "1925"
+                    ],
+                    "answer": "1920"
+                },
+                {
+                    "question": "Khilafat Movement was related to:",
+                    "options": [
+                    "Indian kings",
+                    "Ottoman Caliphate",
+                    "British Parliament",
+                    "French Revolution"
+                    ],
+                    "answer": "Ottoman Caliphate"
+                },
+                {
+                    "question": "Nagpur Congress Session was held in:",
+                    "options": [
+                    "1919",
+                    "1920",
+                    "1922",
+                    "1924"
+                    ],
+                    "answer": "1920"
+                },
+                {
+                    "question": "Swaraj Party was formed in:",
+                    "options": [
+                    "1920",
+                    "1922",
+                    "1923",
+                    "1925"
+                    ],
+                    "answer": "1923"
+                },
+                {
+                    "question": "Chauri Chaura incident led to:",
+                    "options": [
+                    "Start of movement",
+                    "Suspension of Non-Cooperation Movement",
+                    "Partition of India",
+                    "Formation of Muslim League"
+                    ],
+                    "answer": "Suspension of Non-Cooperation Movement"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Khilafat Movement leaders were known as:",
+                    "options": [
+                    "Ali brothers",
+                    "Nehru brothers",
+                    "Tagore brothers",
+                    "Patel brothers"
+                    ],
+                    "answer": "Ali brothers"
+                },
+                {
+                    "question": "Non-Cooperation Movement was called off by:",
+                    "options": [
+                    "Tilak",
+                    "Gandhi",
+                    "Bose",
+                    "Jinnah"
+                    ],
+                    "answer": "Gandhi"
+                },
+                {
+                    "question": "Swaraj Party was led by:",
+                    "options": [
+                    "Gandhi and Nehru",
+                    "Motilal Nehru and C.R. Das",
+                    "Tilak and Lajpat Rai",
+                    "Ambedkar and Phule"
+                    ],
+                    "answer": "Motilal Nehru and C.R. Das"
+                },
+                {
+                    "question": "Nagpur Session made Congress:",
+                    "options": [
+                    "Elite organization",
+                    "Mass organization",
+                    "British party",
+                    "Revolutionary group"
+                    ],
+                    "answer": "Mass organization"
+                },
+                {
+                    "question": "Bardoli Resolution supported:",
+                    "options": [
+                    "Violence",
+                    "Suspension of movement",
+                    "Partition of India",
+                    "British reforms"
+                    ],
+                    "answer": "Suspension of movement"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Non-Cooperation Movement included boycott of courts\n2. Khilafat Movement was linked to Muslim Caliphate\n3. Swaraj Party supported complete non-cooperation",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Main reason for suspension of Non-Cooperation Movement was:",
+                    "options": [
+                    "British reforms",
+                    "Chauri Chaura violence",
+                    "World War",
+                    "Partition of Bengal"
+                    ],
+                    "answer": "Chauri Chaura violence"
+                },
+                {
+                    "question": "Swaraj Party was formed to:",
+                    "options": [
+                    "Support British rule",
+                    "Enter councils and oppose government policies",
+                    "Start armed revolution",
+                    "Promote trade"
+                    ],
+                    "answer": "Enter councils and oppose government policies"
+                },
+                {
+                    "question": "Nagpur Session is important because it:",
+                    "options": [
+                    "Ended Congress",
+                    "Launched mass movement",
+                    "Started partition",
+                    "Formed Muslim League"
+                    ],
+                    "answer": "Launched mass movement"
+                },
+                {
+                    "question": "Overall significance of 1919–1922 phase was:",
+                    "options": [
+                    "Decline of nationalism",
+                    "Rise of mass nationalism under Gandhi",
+                    "End of Congress",
+                    "British consolidation"
+                    ],
+                    "answer": "Rise of mass nationalism under Gandhi"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Indian National Movement – 1924–1930: Muddiman Committee, Simon Commission, Bardoli Satyagraha, Nehru Report, Jinnah’s 14 Points, Lahore Session & Allahabad Address",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "1924–1930 marks a critical constitutional and mass mobilization phase in Indian freedom struggle",
+                    "Congress moved toward demand for Poorna Swaraj (Complete Independence)",
+                    "British constitutional reforms failed to satisfy Indian aspirations",
+                    "Rise of both constitutional proposals and mass agrarian movements",
+                    "Increasing communal and political polarization emerged"
+                ]
+            },
+            {
+                "heading": "Muddiman Committee (1924) – Background",
+                "points": [
+                    "Appointed to review working of Dyarchy (Government of India Act 1919)",
+                    "Named after its chairman Sir Alexander Muddiman",
+                    "Evaluated Montagu-Chelmsford reforms",
+                    "Division within committee between official and non-official members",
+                    "No major structural reforms recommended"
+                ]
+            },
+            {
+                "heading": "Significance of Muddiman Committee",
+                "points": [
+                    "Exposed failure of Dyarchy system",
+                    "Highlighted dissatisfaction of Indian leaders",
+                    "Strengthened demand for constitutional reforms",
+                    "Revealed limited British commitment to self-government",
+                    "Prepared ground for Simon Commission"
+                ]
+            },
+            {
+                "heading": "Simon Commission (1927) – Background",
+                "points": [
+                    "Appointed in 1927 under John Simon",
+                    "No Indian member included (main reason for protest)",
+                    "Task: review constitutional reforms of 1919 Act",
+                    "Arrived in India in 1928",
+                    "Faced nationwide boycott slogans: 'Simon Go Back'"
+                ]
+            },
+            {
+                "heading": "Protests against Simon Commission",
+                "points": [
+                    "Mass demonstrations across India",
+                    "Lathi charge on Lala Lajpat Rai in Lahore",
+                    "Death of Lala Lajpat Rai became nationalist symbol",
+                    "Congress and Muslim League boycotted Commission",
+                    "Unified opposition from Indian political groups"
+                ]
+            },
+            {
+                "heading": "Significance of Simon Commission",
+                "points": [
+                    "Exposed racial discrimination of British policy",
+                    "United Indian political parties temporarily",
+                    "Triggered constitutional proposals by Indians",
+                    "Strengthened demand for Dominion Status",
+                    "Accelerated move towards Poorna Swaraj"
+                ]
+            },
+            {
+                "heading": "Bardoli Satyagraha (1928) – Background",
+                "points": [
+                    "Peasant movement in Bardoli, Gujarat",
+                    "Led by Sardar Vallabhbhai Patel",
+                    "Protest against increased land revenue",
+                    "British imposed 30% tax hike",
+                    "Part of agrarian resistance movement"
+                ]
+            },
+            {
+                "heading": "Features of Bardoli Satyagraha",
+                "points": [
+                    "Non-violent resistance by peasants",
+                    "Refusal to pay increased revenue",
+                    "Strong organizational discipline",
+                    "Support from women and local leaders",
+                    "Boycott of government officials"
+                ]
+            },
+            {
+                "heading": "Significance of Bardoli Satyagraha",
+                "points": [
+                    "Successful peasant movement under Gandhi’s guidance",
+                    "Established Sardar Patel as leader of peasants",
+                    "Forced British to rollback revenue hike",
+                    "Strengthened rural nationalism",
+                    "Boosted Gandhian method of Satyagraha"
+                ]
+            },
+            {
+                "heading": "Nehru Report (1928) – Background",
+                "points": [
+                    "Drafted by Motilal Nehru Committee",
+                    "Response to Simon Commission boycott",
+                    "First Indian attempt to frame constitutional proposal",
+                    "Aimed at Dominion Status for India",
+                    "Included suggestions for fundamental rights"
+                ]
+            },
+            {
+                "heading": "Key Features of Nehru Report",
+                "points": [
+                    "Demand for Dominion Status",
+                    "Joint electorates (no separate electorates)",
+                    "Fundamental rights for citizens",
+                    "Parliamentary system of government",
+                    "Rejection of communal representation"
+                ]
+            },
+            {
+                "heading": "Significance of Nehru Report",
+                "points": [
+                    "First major Indian constitutional framework",
+                    "Exposed Hindu-Muslim differences",
+                    "Rejected by Muslim League",
+                    "Strengthened demand for separate Muslim identity",
+                    "Led to Jinnah’s 14 Points"
+                ]
+            },
+            {
+                "heading": "Jinnah’s Fourteen Points (1929) – Background",
+                "points": [
+                    "Response to Nehru Report rejection by Muslims",
+                    "Drafted by Muhammad Ali Jinnah",
+                    "Aimed to protect Muslim political rights",
+                    "Demanded constitutional safeguards",
+                    "Strengthened Muslim League position"
+                ]
+            },
+            {
+                "heading": "Key Features of Jinnah’s 14 Points",
+                "points": [
+                    "Federal system with provincial autonomy",
+                    "Separate electorates for Muslims",
+                    "Adequate Muslim representation in government",
+                    "Protection of minority rights",
+                    "No constitutional changes without Muslim consent"
+                ]
+            },
+            {
+                "heading": "Significance of Jinnah’s 14 Points",
+                "points": [
+                    "Marked clear ideological divide between Congress and Muslim League",
+                    "Strengthened communal politics",
+                    "Rejected Nehru Report framework",
+                    "Laid foundation for Pakistan demand later",
+                    "Increased political polarization"
+                ]
+            },
+            {
+                "heading": "Lahore Session of Congress (1929)",
+                "points": [
+                    "Presided by Jawaharlal Nehru",
+                    "Held in December 1929",
+                    "Historic declaration of Poorna Swaraj (Complete Independence)",
+                    "Decision to launch Civil Disobedience Movement",
+                    "January 26, 1930 declared Independence Day"
+                ]
+            },
+            {
+                "heading": "Significance of Lahore Session",
+                "points": [
+                    "Official demand for complete independence",
+                    "End of Dominion Status demand phase",
+                    "Radicalization of Congress ideology",
+                    "Launchpad for Civil Disobedience Movement",
+                    "National unity around independence goal"
+                ]
+            },
+            {
+                "heading": "Allahabad Address (1930) – Background",
+                "points": [
+                    "Delivered by Allama Muhammad Iqbal",
+                    "Addressed Muslim League session in 1930",
+                    "Outlined idea of separate Muslim state",
+                    "Considered intellectual foundation of Pakistan idea",
+                    "Focused on Muslim identity in India"
+                ]
+            },
+            {
+                "heading": "Significance of Allahabad Address",
+                "points": [
+                    "First clear articulation of Muslim state idea",
+                    "Shift in Muslim political thinking",
+                    "Influenced later Pakistan movement",
+                    "Strengthened Two-Nation Theory foundations",
+                    "Marked ideological divergence in nationalism"
+                ]
+            },
+            {
+                "heading": "Overall Significance (1924–1930 Phase)",
+                "points": [
+                    "Transition from constitutional demands to Poorna Swaraj",
+                    "Rise of agrarian mass movements",
+                    "Failure of British reforms increased nationalism",
+                    "Emergence of communal political identity",
+                    "Prepared ground for Civil Disobedience Movement (1930)"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Simon Commission was appointed in:",
+                    "options": [
+                    "1924",
+                    "1927",
+                    "1929",
+                    "1935"
+                    ],
+                    "answer": "1927"
+                },
+                {
+                    "question": "Slogan 'Simon Go Back' was raised because:",
+                    "options": [
+                    "No Indian member in Commission",
+                    "High taxes",
+                    "Partition of Bengal",
+                    "World War I"
+                    ],
+                    "answer": "No Indian member in Commission"
+                },
+                {
+                    "question": "Bardoli Satyagraha was led by:",
+                    "options": [
+                    "Gandhi",
+                    "Sardar Patel",
+                    "Nehru",
+                    "Tilak"
+                    ],
+                    "answer": "Sardar Patel"
+                },
+                {
+                    "question": "Nehru Report demanded:",
+                    "options": [
+                    "Complete independence",
+                    "Dominion status",
+                    "Partition of India",
+                    "Military rule"
+                    ],
+                    "answer": "Dominion status"
+                },
+                {
+                    "question": "Lahore Session of Congress was held in:",
+                    "options": [
+                    "1927",
+                    "1928",
+                    "1929",
+                    "1930"
+                    ],
+                    "answer": "1929"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Muddiman Committee reviewed:",
+                    "options": [
+                    "Partition of Bengal",
+                    "Dyarchy system",
+                    "Non-Cooperation Movement",
+                    "Rowlatt Act"
+                    ],
+                    "answer": "Dyarchy system"
+                },
+                {
+                    "question": "Simon Commission was chaired by:",
+                    "options": [
+                    "John Simon",
+                    "Montagu",
+                    "Chelmsford",
+                    "Curzon"
+                    ],
+                    "answer": "John Simon"
+                },
+                {
+                    "question": "Jinnah’s 14 Points were a response to:",
+                    "options": [
+                    "Rowlatt Act",
+                    "Nehru Report",
+                    "Simon Commission",
+                    "Khilafat Movement"
+                    ],
+                    "answer": "Nehru Report"
+                },
+                {
+                    "question": "Bardoli Satyagraha was related to:",
+                    "options": [
+                    "Salt tax",
+                    "Land revenue increase",
+                    "Industrial strike",
+                    "Education reform"
+                    ],
+                    "answer": "Land revenue increase"
+                },
+                {
+                    "question": "Lahore Session declared goal of:",
+                    "options": [
+                    "Dominion Status",
+                    "Poorna Swaraj",
+                    "Home Rule",
+                    "Reforms Act"
+                    ],
+                    "answer": "Poorna Swaraj"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Simon Commission had no Indian member\n2. Nehru Report demanded Dominion Status\n3. Bardoli Satyagraha was a peasant movement",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1, 2 and 3",
+                    "1 and 3 only"
+                    ],
+                    "answer": "1, 2 and 3"
+                },
+                {
+                    "question": "Main outcome of Simon Commission was:",
+                    "options": [
+                    "Immediate independence",
+                    "Nationwide protests",
+                    "End of Congress",
+                    "British victory"
+                    ],
+                    "answer": "Nationwide protests"
+                },
+                {
+                    "question": "Jinnah’s 14 Points mainly focused on:",
+                    "options": [
+                    "Agrarian reforms",
+                    "Muslim political safeguards",
+                    "Industrial growth",
+                    "Education system"
+                    ],
+                    "answer": "Muslim political safeguards"
+                },
+                {
+                    "question": "Lahore Session is important because it:",
+                    "options": [
+                    "Started revolution",
+                    "Declared Poorna Swaraj",
+                    "Ended Congress",
+                    "Supported British"
+                    ],
+                    "answer": "Declared Poorna Swaraj"
+                },
+                {
+                    "question": "Overall significance of 1924–1930 phase was:",
+                    "options": [
+                    "Decline of nationalism",
+                    "Shift to complete independence demand",
+                    "End of British rule",
+                    "Economic collapse only"
+                    ],
+                    "answer": "Shift to complete independence demand"
+                }
+            ]
+        }
+    }
+]

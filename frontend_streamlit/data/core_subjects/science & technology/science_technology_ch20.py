@@ -1,0 +1,629 @@
+TOPICS = [
+    {
+        "name": "Biotechnology – Plant Biotechnology & Forest Biotechnology",
+        "notes": [
+            {
+                "heading": "Introduction to Plant and Forest Biotechnology",
+                "points": [
+                    "Plant biotechnology applies biological techniques to improve plant traits",
+                    "Forest biotechnology focuses on improving forest species and ecosystem productivity",
+                    "Both use tissue culture, genetic engineering, and molecular tools",
+                    "Aim: higher yield, disease resistance, and environmental sustainability",
+                    "Important for agriculture, forestry, and climate resilience"
+                ]
+            },
+            {
+                "heading": "Plant Biotechnology – Overview",
+                "points": [
+                    "Plant biotechnology involves manipulation of plants using scientific techniques",
+                    "Includes genetic modification and plant tissue culture",
+                    "Helps develop improved crop varieties",
+                    "Enhances resistance to pests, diseases, and stress",
+                    "Supports food security and sustainable agriculture"
+                ]
+            },
+            {
+                "heading": "Key Techniques in Plant Biotechnology",
+                "points": [
+                    "Plant tissue culture (in vitro plant growth)",
+                    "Genetic engineering (gene transfer into plants)",
+                    "Micropropagation (rapid cloning of plants)",
+                    "Somatic hybridization (cell fusion of plant cells)",
+                    "Marker-assisted selection (molecular breeding)"
+                ]
+            },
+            {
+                "heading": "Plant Tissue Culture – Overview",
+                "points": [
+                    "Technique of growing plant cells or tissues in sterile conditions",
+                    "Used for mass multiplication of plants",
+                    "Produces disease-free plant material",
+                    "Requires nutrient media and controlled environment",
+                    "Important for horticulture and agriculture"
+                ]
+            },
+            {
+                "heading": "Applications of Plant Tissue Culture",
+                "points": [
+                    "Rapid propagation of elite plant varieties",
+                    "Conservation of rare and endangered plants",
+                    "Production of disease-free crops",
+                    "Genetic improvement of plants",
+                    "Production of secondary metabolites (medicinal compounds)"
+                ]
+            },
+            {
+                "heading": "Genetic Engineering in Plants",
+                "points": [
+                    "Transfer of useful genes into plant genomes",
+                    "Creation of genetically modified (GM) crops",
+                    "Improves yield and resistance traits",
+                    "Uses Agrobacterium tumefaciens or gene gun methods",
+                    "Supports agricultural innovation"
+                ]
+            },
+            {
+                "heading": "Examples of GM Crops",
+                "points": [
+                    "Bt cotton (insect resistance)",
+                    "Golden rice (Vitamin A enrichment)",
+                    "Herbicide-resistant soybean",
+                    "Virus-resistant papaya",
+                    "Drought-tolerant maize",
+                    "Salt-tolerant rice varieties"
+                ]
+            },
+            {
+                "heading": "Advantages of Plant Biotechnology",
+                "points": [
+                    "Increased crop yield",
+                    "Resistance to pests and diseases",
+                    "Improved nutritional quality",
+                    "Reduced use of chemical pesticides",
+                    "Adaptation to climate change"
+                ]
+            },
+            {
+                "heading": "Limitations and Concerns",
+                "points": [
+                    "Biosafety and environmental risks",
+                    "Gene flow to wild species",
+                    "Ethical concerns about GM crops",
+                    "High development cost",
+                    "Public acceptance issues"
+                ]
+            },
+            {
+                "heading": "Forest Biotechnology – Overview",
+                "points": [
+                    "Application of biotechnology to forest species",
+                    "Focuses on improving tree growth and wood quality",
+                    "Helps in forest conservation and reforestation",
+                    "Uses genetic and tissue culture methods",
+                    "Important for climate change mitigation"
+                ]
+            },
+            {
+                "heading": "Applications of Forest Biotechnology",
+                "points": [
+                    "Clonal propagation of superior tree species",
+                    "Improved timber yield and quality",
+                    "Disease and pest-resistant forest trees",
+                    "Restoration of degraded forests",
+                    "Conservation of endangered tree species"
+                ]
+            },
+            {
+                "heading": "Micropropagation in Forestry",
+                "points": [
+                    "Rapid cloning of elite tree species",
+                    "Produces uniform and high-quality saplings",
+                    "Used for eucalyptus, teak, and bamboo",
+                    "Helps in large-scale afforestation",
+                    "Reduces dependence on natural seed sources"
+                ]
+            },
+            {
+                "heading": "Genetic Improvement of Forest Trees",
+                "points": [
+                    "Selection of high-yielding tree varieties",
+                    "Genetic modification for fast growth",
+                    "Improved wood density and quality",
+                    "Resistance to pests and diseases",
+                    "Adaptation to environmental stress"
+                ]
+            },
+            {
+                "heading": "Biotechnology and Forest Conservation",
+                "points": [
+                    "Supports conservation of endangered species",
+                    "Helps in restoring degraded ecosystems",
+                    "Assists in biodiversity preservation",
+                    "Reduces pressure on natural forests",
+                    "Promotes sustainable forest management"
+                ]
+            },
+            {
+                "heading": "Importance of Plant and Forest Biotechnology",
+                "points": [
+                    "Enhances agricultural productivity",
+                    "Supports sustainable forestry",
+                    "Contributes to food and environmental security",
+                    "Helps in climate change adaptation",
+                    "Promotes green economy development"
+                ]
+            },
+            {
+                "heading": "Challenges in Plant and Forest Biotechnology",
+                "points": [
+                    "Ethical and regulatory issues",
+                    "Ecological risks of GM organisms",
+                    "High cost of research and development",
+                    "Public awareness and acceptance",
+                    "Need for strict biosafety measures"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Plant biotechnology mainly deals with:",
+                    "options": [
+                    "Rock formation",
+                    "Improvement of plant traits",
+                    "Space research",
+                    "Ocean currents"
+                    ],
+                    "answer": "Improvement of plant traits"
+                },
+                {
+                    "question": "Plant tissue culture is used for:",
+                    "options": [
+                    "Metal extraction",
+                    "Rapid plant multiplication",
+                    "Water purification",
+                    "Electricity generation"
+                    ],
+                    "answer": "Rapid plant multiplication"
+                },
+                {
+                    "question": "Bt cotton is resistant to:",
+                    "options": [
+                    "Drought",
+                    "Insects",
+                    "Salinity",
+                    "Cold"
+                    ],
+                    "answer": "Insects"
+                },
+                {
+                    "question": "Genetic engineering in plants uses:",
+                    "options": [
+                    "Only chemicals",
+                    "Gene transfer techniques",
+                    "Only heat",
+                    "Only water"
+                    ],
+                    "answer": "Gene transfer techniques"
+                },
+                {
+                    "question": "Forest biotechnology helps in:",
+                    "options": [
+                    "Deforestation",
+                    "Tree improvement",
+                    "Air pollution increase",
+                    "Soil erosion"
+                    ],
+                    "answer": "Tree improvement"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Golden rice is enriched with:",
+                    "options": [
+                    "Iron",
+                    "Vitamin A",
+                    "Protein",
+                    "Calcium"
+                    ],
+                    "answer": "Vitamin A"
+                },
+                {
+                    "question": "Micropropagation means:",
+                    "options": [
+                    "Plant cloning in labs",
+                    "Water filtration",
+                    "Soil erosion",
+                    "Seed burning"
+                    ],
+                    "answer": "Plant cloning in labs"
+                },
+                {
+                    "question": "Agrobacterium is used for:",
+                    "options": [
+                    "Soil fertilization",
+                    "Gene transfer in plants",
+                    "Water purification",
+                    "Animal cloning"
+                    ],
+                    "answer": "Gene transfer in plants"
+                },
+                {
+                    "question": "Forest biotechnology helps in:",
+                    "options": [
+                    "Increasing deforestation",
+                    "Forest conservation",
+                    "Air pollution",
+                    "Plastic production"
+                    ],
+                    "answer": "Forest conservation"
+                },
+                {
+                    "question": "Marker-assisted selection is used in:",
+                    "options": [
+                    "Plant breeding",
+                    "Electric systems",
+                    "Water treatment",
+                    "Mining"
+                    ],
+                    "answer": "Plant breeding"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. Plant tissue culture produces disease-free plants\n2. GM crops always harm biodiversity\n3. Forest biotechnology helps conservation",
+                    "options": [
+                    "1 and 3 only",
+                    "2 and 3 only",
+                    "1 and 2 only",
+                    "All"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                    "Bt cotton – drought resistance",
+                    "Golden rice – vitamin A enrichment",
+                    "Agrobacterium – water purification",
+                    "Tissue culture – fossil formation"
+                    ],
+                    "answer": "Golden rice – vitamin A enrichment"
+                },
+                {
+                    "question": "Main advantage of micropropagation is:",
+                    "options": [
+                    "Slow plant growth",
+                    "Rapid cloning of plants",
+                    "Increased pollution",
+                    "Reduced yield"
+                    ],
+                    "answer": "Rapid cloning of plants"
+                },
+                {
+                    "question": "Forest biotechnology is mainly used for:",
+                    "options": [
+                    "Industrial waste treatment",
+                    "Tree improvement and conservation",
+                    "Space exploration",
+                    "Energy storage"
+                    ],
+                    "answer": "Tree improvement and conservation"
+                },
+                {
+                    "question": "A major concern in GM crops is:",
+                    "options": [
+                    "No production",
+                    "Gene flow to wild species",
+                    "No growth",
+                    "No benefits"
+                    ],
+                    "answer": "Gene flow to wild species"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Biotechnology – Forest Biotechnology",
+        "notes": [
+            {
+                "heading": "Introduction to Forest Biotechnology",
+                "points": [
+                    "Forest biotechnology applies biotechnological tools to improve forest trees and ecosystems",
+                    "It combines forestry science with genetics, tissue culture, and molecular biology",
+                    "Aim: improve productivity, sustainability, and conservation of forests",
+                    "Helps in addressing deforestation and climate change impacts",
+                    "Important for biodiversity conservation and green economy"
+                ]
+            },
+            {
+                "heading": "Objectives of Forest Biotechnology",
+                "points": [
+                    "Increase growth rate and productivity of forest trees",
+                    "Improve wood quality and yield",
+                    "Develop disease and pest-resistant tree species",
+                    "Conserve endangered and rare forest species",
+                    "Support sustainable forest management"
+                ]
+            },
+            {
+                "heading": "Techniques Used in Forest Biotechnology",
+                "points": [
+                    "Plant tissue culture and micropropagation",
+                    "Genetic engineering of tree species",
+                    "Somatic embryogenesis",
+                    "Molecular markers for selection",
+                    "In vitro conservation of germplasm"
+                ]
+            },
+            {
+                "heading": "Micropropagation in Forestry",
+                "points": [
+                    "Rapid cloning of superior forest trees under lab conditions",
+                    "Produces genetically identical and disease-free plants",
+                    "Used for mass production of saplings",
+                    "Commonly applied to teak, eucalyptus, and bamboo",
+                    "Helps in large-scale afforestation programs"
+                ]
+            },
+            {
+                "heading": "Somatic Embryogenesis – Overview",
+                "points": [
+                    "Process of developing embryos from somatic (non-reproductive) cells",
+                    "Used for mass propagation of trees",
+                    "Produces uniform and high-quality plants",
+                    "Important for long-term storage of genetic material",
+                    "Useful in commercial forestry"
+                ]
+            },
+            {
+                "heading": "Genetic Engineering in Forest Trees",
+                "points": [
+                    "Insertion of desirable genes into tree genomes",
+                    "Improves growth rate and biomass production",
+                    "Enhances resistance to pests and diseases",
+                    "Improves tolerance to drought and salinity",
+                    "Supports adaptation to climate change"
+                ]
+            },
+            {
+                "heading": "Applications of Forest Biotechnology",
+                "points": [
+                    "Reforestation and afforestation programs",
+                    "Production of high-quality timber species",
+                    "Restoration of degraded ecosystems",
+                    "Conservation of endangered tree species",
+                    "Carbon sequestration and climate mitigation"
+                ]
+            },
+            {
+                "heading": "Disease and Pest Resistance in Trees",
+                "points": [
+                    "Development of resistant tree varieties using genetic tools",
+                    "Reduces loss of forest resources",
+                    "Minimizes use of chemical pesticides",
+                    "Improves forest survival rates",
+                    "Important for sustainable forestry"
+                ]
+            },
+            {
+                "heading": "Germplasm Conservation",
+                "points": [
+                    "Preservation of genetic material of forest species",
+                    "Done through seed banks and tissue culture",
+                    "Helps protect biodiversity",
+                    "Ensures availability of genetic diversity for future use",
+                    "Supports restoration of rare species"
+                ]
+            },
+            {
+                "heading": "Biotechnology in Forest Conservation",
+                "points": [
+                    "Helps in restoration of degraded forests",
+                    "Supports protection of endangered species",
+                    "Improves ecosystem stability",
+                    "Reduces pressure on natural forests",
+                    "Enhances ecological balance"
+                ]
+            },
+            {
+                "heading": "Environmental Benefits of Forest Biotechnology",
+                "points": [
+                    "Increases carbon sequestration capacity",
+                    "Improves air quality",
+                    "Prevents soil erosion",
+                    "Enhances biodiversity conservation",
+                    "Supports climate change mitigation"
+                ]
+            },
+            {
+                "heading": "Economic Benefits",
+                "points": [
+                    "Increases timber production efficiency",
+                    "Reduces time required for tree growth",
+                    "Supports forest-based industries",
+                    "Creates green job opportunities",
+                    "Improves rural livelihoods"
+                ]
+            },
+            {
+                "heading": "Limitations of Forest Biotechnology",
+                "points": [
+                    "High cost of research and implementation",
+                    "Long generation time of trees slows results",
+                    "Ecological risks of genetically modified trees",
+                    "Limited field testing data",
+                    "Regulatory and ethical concerns"
+                ]
+            },
+            {
+                "heading": "Challenges in Forest Biotechnology",
+                "points": [
+                    "Public acceptance of GM trees",
+                    "Risk of gene flow to wild forests",
+                    "Maintaining genetic diversity",
+                    "Technical complexity of tree genetics",
+                    "Need for long-term monitoring"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Forest biotechnology mainly focuses on:",
+                    "options": [
+                    "Space exploration",
+                    "Improvement of forest trees",
+                    "Water purification",
+                    "Electricity generation"
+                    ],
+                    "answer": "Improvement of forest trees"
+                },
+                {
+                    "question": "Micropropagation in forestry is used for:",
+                    "options": [
+                    "Metal extraction",
+                    "Mass cloning of trees",
+                    "Air pollution control",
+                    "Soil erosion"
+                    ],
+                    "answer": "Mass cloning of trees"
+                },
+                {
+                    "question": "Somatic embryogenesis refers to:",
+                    "options": [
+                    "Seed germination in soil",
+                    "Embryo formation from somatic cells",
+                    "Animal reproduction",
+                    "Water formation"
+                    ],
+                    "answer": "Embryo formation from somatic cells"
+                },
+                {
+                    "question": "Forest biotechnology helps in:",
+                    "options": [
+                    "Deforestation",
+                    "Forest conservation",
+                    "Air pollution increase",
+                    "Noise pollution"
+                    ],
+                    "answer": "Forest conservation"
+                },
+                {
+                    "question": "Germplasm conservation means:",
+                    "options": [
+                    "Destroying seeds",
+                    "Preserving genetic material",
+                    "Burning forests",
+                    "Cutting trees"
+                    ],
+                    "answer": "Preserving genetic material"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which tree is commonly used in micropropagation?",
+                    "options": [
+                    "Teak",
+                    "Cactus",
+                    "Seaweed",
+                    "Algae"
+                    ],
+                    "answer": "Teak"
+                },
+                {
+                    "question": "Genetic engineering in forest trees improves:",
+                    "options": [
+                    "Growth and resistance",
+                    "Water salinity",
+                    "Air pressure",
+                    "Soil color"
+                    ],
+                    "answer": "Growth and resistance"
+                },
+                {
+                    "question": "Forest biotechnology helps in:",
+                    "options": [
+                    "Climate change mitigation",
+                    "Increasing pollution",
+                    "Soil destruction",
+                    "Water contamination"
+                    ],
+                    "answer": "Climate change mitigation"
+                },
+                {
+                    "question": "In vitro conservation is done using:",
+                    "options": [
+                    "Field burning",
+                    "Tissue culture",
+                    "Mining",
+                    "Electric grids"
+                    ],
+                    "answer": "Tissue culture"
+                },
+                {
+                    "question": "One major concern of GM trees is:",
+                    "options": [
+                    "No growth",
+                    "Gene flow to wild forests",
+                    "No oxygen production",
+                    "No reproduction"
+                    ],
+                    "answer": "Gene flow to wild forests"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. Forest biotechnology supports carbon sequestration\n2. Micropropagation produces genetically identical trees\n3. It always eliminates biodiversity risks",
+                    "options": [
+                    "1 and 2 only",
+                    "2 and 3 only",
+                    "1 and 3 only",
+                    "All"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                    "Somatic embryogenesis – animal cloning",
+                    "Micropropagation – mass tree production",
+                    "Germplasm – fossil fuel",
+                    "Forest biotech – water purification"
+                    ],
+                    "answer": "Micropropagation – mass tree production"
+                },
+                {
+                    "question": "Main advantage of forest biotechnology is:",
+                    "options": [
+                    "Deforestation increase",
+                    "Improved forest productivity",
+                    "Reduced tree growth",
+                    "Soil degradation"
+                    ],
+                    "answer": "Improved forest productivity"
+                },
+                {
+                    "question": "Forest biotechnology contributes to:",
+                    "options": [
+                    "Climate change mitigation",
+                    "Ozone depletion",
+                    "Air pollution increase",
+                    "Soil salinization"
+                    ],
+                    "answer": "Climate change mitigation"
+                },
+                {
+                    "question": "A limitation of forest biotechnology is:",
+                    "options": [
+                    "Instant results",
+                    "Long generation time of trees",
+                    "No scientific tools",
+                    "No applications"
+                    ],
+                    "answer": "Long generation time of trees"
+                }
+            ]
+        }
+    }
+]

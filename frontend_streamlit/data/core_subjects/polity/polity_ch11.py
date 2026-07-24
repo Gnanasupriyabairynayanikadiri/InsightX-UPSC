@@ -1,0 +1,745 @@
+TOPICS = [
+    {
+        "name": "Basic Structure of the Constitution",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Basic Structure Doctrine is a judicial principle developed by the Supreme Court of India",
+                    "It restricts Parliament’s power to amend the Constitution under Article 368",
+                    "It ensures that the core identity of the Constitution remains intact",
+                    "It is not explicitly mentioned in the Constitution"
+                ]
+            },
+            {
+                "heading": "Origin of the Doctrine",
+                "points": [
+                    "Evolved through judicial interpretation over time",
+                    "First hinted in earlier cases like Shankari Prasad Case (1951) and Sajjan Singh Case (1965)",
+                    "Firmly established in Kesavananda Bharati Case (1973)",
+                    "Later strengthened in Minerva Mills Case (1980)"
+                ]
+            },
+            {
+                "heading": "Kesavananda Bharati Case (1973)",
+                "points": [
+                    "Landmark judgment by a 13-judge Constitution Bench",
+                    "Held that Parliament can amend the Constitution but cannot destroy its basic structure",
+                    "Introduced the Basic Structure Doctrine",
+                    "Major turning point in constitutional law"
+                ]
+            },
+            {
+                "heading": "Elements of Basic Structure (Illustrative, not exhaustive)",
+                "points": [
+                    "Supremacy of the Constitution",
+                    "Rule of law",
+                    "Judicial review",
+                    "Separation of powers",
+                    "Federalism",
+                    "Secularism",
+                    "Democracy and republican form of government",
+                    "Free and fair elections",
+                    "Unity and integrity of India",
+                    "Independence of judiciary"
+                ]
+            },
+            {
+                "heading": "Nature of the Doctrine",
+                "points": [
+                    "Not defined exhaustively in the Constitution",
+                    "Determined by Supreme Court on case-to-case basis",
+                    "Dynamic and evolving concept",
+                    "Acts as a limitation on Parliament’s amending power"
+                ]
+            },
+            {
+                "heading": "Judicial Review Role",
+                "points": [
+                    "Supreme Court has power to review constitutional amendments",
+                    "Can strike down amendments violating basic structure",
+                    "Ensures constitutional supremacy over Parliament",
+                    "Strengthens checks and balances"
+                ]
+            },
+            {
+                "heading": "Significance of Basic Structure",
+                "points": [
+                    "Prevents misuse of constitutional amendment power",
+                    "Protects core values of Constitution",
+                    "Maintains stability and continuity",
+                    "Preserves democratic framework"
+                ]
+            },
+            {
+                "heading": "Criticism of the Doctrine",
+                "points": [
+                    "Not explicitly mentioned in the Constitution",
+                    "Gives wide power to judiciary",
+                    "Creates uncertainty due to undefined nature",
+                    "May conflict with parliamentary sovereignty"
+                ]
+            },
+            {
+                "heading": "Important Cases After Kesavananda Bharati",
+                "points": [
+                    "Indira Nehru Gandhi Case (1975): reaffirmed doctrine",
+                    "Minerva Mills Case (1980): strengthened judicial review and balance",
+                    "Waman Rao Case (1981): clarified applicability of doctrine",
+                    "I.R. Coelho Case (2007): included laws in Ninth Schedule under review"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Basic Structure Doctrine originated in Kesavananda Bharati Case (1973)",
+                    "Parliament cannot destroy basic structure of Constitution",
+                    "Not explicitly written in Constitution",
+                    "Judiciary plays key role in defining it"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Basic Structure Doctrine was laid down in:",
+                    "options": [
+                        "Golaknath Case",
+                        "Kesavananda Bharati Case",
+                        "Minerva Mills Case",
+                        "Shankari Prasad Case"
+                    ],
+                    "answer": "Kesavananda Bharati Case"
+                },
+                {
+                    "question": "Basic Structure Doctrine limits:",
+                    "options": [
+                        "Judiciary",
+                        "Parliament",
+                        "President",
+                        "Election Commission"
+                    ],
+                    "answer": "Parliament"
+                },
+                {
+                    "question": "Basic Structure Doctrine is:",
+                    "options": [
+                        "Written in Constitution",
+                        "Judicially evolved",
+                        "Parliament law",
+                        "Executive order"
+                    ],
+                    "answer": "Judicially evolved"
+                },
+                {
+                    "question": "Article dealing with amendment is:",
+                    "options": ["Article 14", "Article 19", "Article 21", "Article 368"],
+                    "answer": "Article 368"
+                },
+                {
+                    "question": "Which case strengthened Basic Structure Doctrine after 1973?",
+                    "options": [
+                        "Kesavananda Bharati Case",
+                        "Minerva Mills Case",
+                        "Maneka Gandhi Case",
+                        "SR Bommai Case"
+                    ],
+                    "answer": "Minerva Mills Case"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which is NOT part of Basic Structure?",
+                    "options": [
+                        "Rule of law",
+                        "Judicial review",
+                        "Parliamentary supremacy",
+                        "Federalism"
+                    ],
+                    "answer": "Parliamentary supremacy"
+                },
+                {
+                    "question": "Basic Structure Doctrine ensures:",
+                    "options": [
+                        "Unlimited Parliament power",
+                        "Constitutional identity protection",
+                        "Abolition of judiciary",
+                        "Executive dominance"
+                    ],
+                    "answer": "Constitutional identity protection"
+                },
+                {
+                    "question": "Which of the following is correct?",
+                    "options": [
+                        "Basic Structure is defined in Constitution",
+                        "Basic Structure is flexible and judicially interpreted",
+                        "Basic Structure can be amended freely",
+                        "Basic Structure is irrelevant"
+                    ],
+                    "answer": "Basic Structure is flexible and judicially interpreted"
+                },
+                {
+                    "question": "Basic Structure Doctrine is related to:",
+                    "options": [
+                        "Article 14",
+                        "Article 19",
+                        "Article 21",
+                        "Article 368"
+                    ],
+                    "answer": "Article 368"
+                },
+                {
+                    "question": "Who has final authority to decide Basic Structure?",
+                    "options": [
+                        "Parliament",
+                        "President",
+                        "Supreme Court",
+                        "Prime Minister"
+                    ],
+                    "answer": "Supreme Court"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Basic Structure is written in Constitution\n2. Parliament cannot destroy it\n3. It is judicially evolved",
+                    "options": ["2 and 3", "1 and 2", "3 only", "All"],
+                    "answer": "2 and 3"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Parliament has unlimited amending power",
+                        "Basic Structure limits Parliament",
+                        "Judiciary cannot review amendments",
+                        "President defines Basic Structure"
+                    ],
+                    "answer": "Basic Structure limits Parliament"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Kesavananda Bharati Case established doctrine",
+                        "Minerva Mills strengthened it",
+                        "It is explicitly written in Constitution",
+                        "Judiciary interprets it"
+                    ],
+                    "answer": "It is explicitly written in Constitution"
+                },
+                {
+                    "question": "Main significance of Basic Structure is:",
+                    "options": [
+                        "Strengthening Parliament",
+                        "Protecting constitutional identity",
+                        "Weakening judiciary",
+                        "Removing amendments"
+                    ],
+                    "answer": "Protecting constitutional identity"
+                },
+                {
+                    "question": "Basic Structure Doctrine is best described as:",
+                    "options": [
+                        "Political rule",
+                        "Judicial limitation on amendment power",
+                        "Executive guideline",
+                        "Statutory law"
+                    ],
+                    "answer": "Judicial limitation on amendment power"
+                }
+            ]
+        }
+    },
+
+    {
+        "name": "Emergence of the Basic Structure Doctrine",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "The Basic Structure Doctrine emerged through judicial interpretation of Article 368",
+                    "It was developed to limit Parliament’s power to amend the Constitution",
+                    "It ensures that the core identity of the Constitution remains intact",
+                    "It evolved gradually through several landmark Supreme Court judgments"
+                ]
+            },
+            {
+                "heading": "Early Phase: Absolute Parliament Supremacy",
+                "points": [
+                    "Initially, Parliament was considered to have wide power to amend the Constitution",
+                    "Supreme Court upheld this view in early cases",
+                    "No clear limitation on constitutional amendment power existed",
+                    "Focus was on parliamentary sovereignty"
+                ]
+            },
+            {
+                "heading": "Shankari Prasad Case (1951)",
+                "points": [
+                    "Supreme Court held that Parliament can amend Fundamental Rights",
+                    "Amendment power was considered constituent power, not ordinary legislative power",
+                    "Upheld validity of First Constitutional Amendment",
+                    "Strengthened Parliament’s amending authority"
+                ]
+            },
+            {
+                "heading": "Sajjan Singh Case (1965)",
+                "points": [
+                    "Reaffirmed Shankari Prasad judgment",
+                    "Held that Parliament can amend any part of the Constitution",
+                    "However, some judges expressed concerns about unlimited power",
+                    "Dissenting opinions hinted at future limitation doctrine"
+                ]
+            },
+            {
+                "heading": "Golaknath Case (1967)",
+                "points": [
+                    "Major shift in judicial thinking",
+                    "Supreme Court held that Parliament cannot amend Fundamental Rights",
+                    "Amendment was treated as a legislative process, not constituent power",
+                    "Created conflict between Parliament and Judiciary"
+                ]
+            },
+            {
+                "heading": "24th Constitutional Amendment (1971)",
+                "points": [
+                    "Parliament responded to Golaknath judgment",
+                    "Restored Parliament’s power to amend Fundamental Rights",
+                    "Added explicit power under Article 368",
+                    "Increased tension between Judiciary and Parliament"
+                ]
+            },
+            {
+                "heading": "Kesavananda Bharati Case (1973)",
+                "points": [
+                    "Landmark judgment that established Basic Structure Doctrine",
+                    "Held that Parliament can amend Constitution but cannot destroy its basic structure",
+                    "Balanced Parliament’s power and constitutional supremacy",
+                    "Most important turning point in constitutional law"
+                ]
+            },
+            {
+                "heading": "Elements of Basic Structure (Evolved Later)",
+                "points": [
+                    "Supremacy of Constitution",
+                    "Rule of law",
+                    "Judicial review",
+                    "Federalism",
+                    "Secularism",
+                    "Democracy",
+                    "Separation of powers"
+                ]
+            },
+            {
+                "heading": "Minerva Mills Case (1980)",
+                "points": [
+                    "Reinforced Basic Structure Doctrine",
+                    "Struck down parts of 42nd Amendment",
+                    "Held that limited amending power itself is part of basic structure",
+                    "Balanced Fundamental Rights and DPSP"
+                ]
+            },
+            {
+                "heading": "Judicial Evolution Nature",
+                "points": [
+                    "Doctrine is not a single-event creation",
+                    "Evolved through continuous judicial interpretation",
+                    "Case-by-case development of principles",
+                    "Still evolving through Supreme Court judgments"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Basic Structure emerged through Kesavananda Bharati Case (1973)",
+                    "Initial phase supported Parliament’s unlimited power",
+                    "Golaknath case was a turning point",
+                    "Doctrine is judge-made and not written in Constitution"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Basic Structure Doctrine was established in:",
+                    "options": [
+                        "Shankari Prasad Case",
+                        "Sajjan Singh Case",
+                        "Kesavananda Bharati Case",
+                        "Golaknath Case"
+                    ],
+                    "answer": "Kesavananda Bharati Case"
+                },
+                {
+                    "question": "Initial view on amendment power was:",
+                    "options": [
+                        "Limited power",
+                        "Unlimited Parliament power",
+                        "Judicial control",
+                        "No amendment allowed"
+                    ],
+                    "answer": "Unlimited Parliament power"
+                },
+                {
+                    "question": "Golaknath Case dealt with:",
+                    "options": [
+                        "Judicial review",
+                        "Fundamental Rights amendment",
+                        "Emergency provisions",
+                        "Election system"
+                    ],
+                    "answer": "Fundamental Rights amendment"
+                },
+                {
+                    "question": "Article dealing with amendment is:",
+                    "options": ["Article 14", "Article 19", "Article 21", "Article 368"],
+                    "answer": "Article 368"
+                },
+                {
+                    "question": "Basic Structure Doctrine is:",
+                    "options": [
+                        "Written in Constitution",
+                        "Judicially evolved",
+                        "Parliament law",
+                        "Executive order"
+                    ],
+                    "answer": "Judicially evolved"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which case first limited Parliament’s power?",
+                    "options": [
+                        "Shankari Prasad Case",
+                        "Sajjan Singh Case",
+                        "Golaknath Case",
+                        "Minerva Mills Case"
+                    ],
+                    "answer": "Golaknath Case"
+                },
+                {
+                    "question": "24th Amendment Act was passed to:",
+                    "options": [
+                        "Remove Parliament power",
+                        "Restore Parliament power",
+                        "Abolish Constitution",
+                        "Strengthen Judiciary only"
+                    ],
+                    "answer": "Restore Parliament power"
+                },
+                {
+                    "question": "Which case established Basic Structure Doctrine?",
+                    "options": [
+                        "Golaknath Case",
+                        "Kesavananda Bharati Case",
+                        "Maneka Gandhi Case",
+                        "SR Bommai Case"
+                    ],
+                    "answer": "Kesavananda Bharati Case"
+                },
+                {
+                    "question": "Minerva Mills Case is important because:",
+                    "options": [
+                        "It abolished Constitution",
+                        "It strengthened Basic Structure",
+                        "It gave absolute Parliament power",
+                        "It removed Judiciary"
+                    ],
+                    "answer": "It strengthened Basic Structure"
+                },
+                {
+                    "question": "Basic Structure Doctrine is:",
+                    "options": [
+                        "Legislative doctrine",
+                        "Judicial doctrine",
+                        "Executive doctrine",
+                        "Political doctrine"
+                    ],
+                    "answer": "Judicial doctrine"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Shankari Prasad upheld Parliament’s power\n2. Golaknath allowed amendment of Fundamental Rights\n3. Kesavananda Bharati limited amendment power",
+                    "options": ["1 and 3", "2 and 3", "1 and 2", "All"],
+                    "answer": "1 and 3"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Basic Structure is explicitly written in Constitution",
+                        "Basic Structure evolved through case law",
+                        "Parliament has unlimited amendment power",
+                        "Judiciary cannot review amendments"
+                    ],
+                    "answer": "Basic Structure evolved through case law"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Golaknath case restricted Parliament",
+                        "Kesavananda Bharati case created doctrine",
+                        "Shankari Prasad limited Fundamental Rights amendments",
+                        "Minerva Mills reinforced doctrine"
+                    ],
+                    "answer": "Shankari Prasad limited Fundamental Rights amendments"
+                },
+                {
+                    "question": "Main turning point in doctrine evolution is:",
+                    "options": [
+                        "Shankari Prasad Case",
+                        "Sajjan Singh Case",
+                        "Golaknath Case",
+                        "Kesavananda Bharati Case"
+                    ],
+                    "answer": "Kesavananda Bharati Case"
+                },
+                {
+                    "question": "Final effect of doctrine is:",
+                    "options": [
+                        "Unlimited Parliament power",
+                        "Judicial supremacy over Constitution",
+                        "Restriction on Parliament to preserve Constitution",
+                        "Abolition of amendments"
+                    ],
+                    "answer": "Restriction on Parliament to preserve Constitution"
+                }
+            ]
+        }
+    },
+
+    {
+        "name": "Elements of the Basic Structure of the Constitution",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Basic Structure Doctrine was evolved by the Supreme Court in the Kesavananda Bharati Case (1973)",
+                    "It protects the core identity of the Constitution from being altered by Parliament",
+                    "Elements of basic structure are not explicitly defined in the Constitution",
+                    "They are identified by the judiciary on a case-by-case basis"
+                ]
+            },
+            {
+                "heading": "Nature of Basic Structure Elements",
+                "points": [
+                    "Not exhaustively listed in the Constitution",
+                    "Evolving and dynamic in nature",
+                    "Determined through Supreme Court judgments",
+                    "Cannot be destroyed even by constitutional amendment under Article 368"
+                ]
+            },
+            {
+                "heading": "Core Elements of Basic Structure",
+                "points": [
+                    "Supremacy of the Constitution",
+                    "Rule of law",
+                    "Judicial review",
+                    "Separation of powers between Legislature, Executive and Judiciary",
+                    "Federalism (division of powers between Centre and States)",
+                    "Secularism",
+                    "Democratic and republican form of government",
+                    "Free and fair elections",
+                    "Parliamentary system of government",
+                    "Unity and integrity of the nation",
+                    "Independence of the judiciary"
+                ]
+            },
+            {
+                "heading": "Important Judicial Additions",
+                "points": [
+                    "Judicial review strengthened in Minerva Mills Case (1980)",
+                    "Secularism and democracy reaffirmed in S.R. Bommai Case (1994)",
+                    "Independence of judiciary repeatedly upheld in multiple judgments",
+                    "Limited amending power itself is part of basic structure"
+                ]
+            },
+            {
+                "heading": "Evolving Nature of Elements",
+                "points": [
+                    "New elements can be added by Supreme Court over time",
+                    "No fixed or rigid list exists",
+                    "Depends on constitutional interpretation in cases",
+                    "Reflects changing needs of society and governance"
+                ]
+            },
+            {
+                "heading": "Significance of Elements",
+                "points": [
+                    "Protects constitutional identity and values",
+                    "Prevents authoritarian misuse of amendment power",
+                    "Maintains balance between Parliament and Judiciary",
+                    "Ensures stability of democratic system"
+                ]
+            },
+            {
+                "heading": "Important Case References",
+                "points": [
+                    "Kesavananda Bharati Case (1973): Introduced Basic Structure Doctrine",
+                    "Minerva Mills Case (1980): Strengthened judicial review and balance",
+                    "S.R. Bommai Case (1994): Emphasized secularism and federalism",
+                    "Indira Nehru Gandhi Case (1975): Supported limits on amendment power"
+                ]
+            },
+            {
+                "heading": "Important UPSC Points",
+                "points": [
+                    "Basic Structure elements are not explicitly listed in Constitution",
+                    "Determined by Supreme Court on case-by-case basis",
+                    "Includes democracy, rule of law, secularism, and judicial review",
+                    "Parliament cannot alter or destroy basic structure"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Basic Structure Doctrine was evolved in:",
+                    "options": [
+                        "Golaknath Case",
+                        "Kesavananda Bharati Case",
+                        "Minerva Mills Case",
+                        "S.R. Bommai Case"
+                    ],
+                    "answer": "Kesavananda Bharati Case"
+                },
+                {
+                    "question": "Basic Structure is:",
+                    "options": [
+                        "Explicitly written in Constitution",
+                        "Judicially evolved",
+                        "Parliament law",
+                        "Executive order"
+                    ],
+                    "answer": "Judicially evolved"
+                },
+                {
+                    "question": "Which of the following is part of Basic Structure?",
+                    "options": [
+                        "Parliament supremacy",
+                        "Judicial review",
+                        "Emergency rule",
+                        "Unlimited amendment power"
+                    ],
+                    "answer": "Judicial review"
+                },
+                {
+                    "question": "Basic Structure limits:",
+                    "options": [
+                        "Judiciary",
+                        "Parliament",
+                        "President",
+                        "Election Commission"
+                    ],
+                    "answer": "Parliament"
+                },
+                {
+                    "question": "Which case introduced Basic Structure Doctrine?",
+                    "options": [
+                        "Shankari Prasad Case",
+                        "Kesavananda Bharati Case",
+                        "Golaknath Case",
+                        "Minerva Mills Case"
+                    ],
+                    "answer": "Kesavananda Bharati Case"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Which is NOT part of Basic Structure?",
+                    "options": [
+                        "Rule of law",
+                        "Secularism",
+                        "Parliamentary supremacy",
+                        "Federalism"
+                    ],
+                    "answer": "Parliamentary supremacy"
+                },
+                {
+                    "question": "Which case emphasized secularism in Basic Structure?",
+                    "options": [
+                        "Kesavananda Bharati Case",
+                        "S.R. Bommai Case",
+                        "Shankari Prasad Case",
+                        "Golaknath Case"
+                    ],
+                    "answer": "S.R. Bommai Case"
+                },
+                {
+                    "question": "Basic Structure is:",
+                    "options": [
+                        "Fixed and rigid list",
+                        "Evolving judicial concept",
+                        "Parliament defined list",
+                        "Executive guideline"
+                    ],
+                    "answer": "Evolving judicial concept"
+                },
+                {
+                    "question": "Which of the following strengthens Basic Structure?",
+                    "options": [
+                        "Minerva Mills Case",
+                        "42nd Amendment",
+                        "24th Amendment",
+                        "Emergency provisions"
+                    ],
+                    "answer": "Minerva Mills Case"
+                },
+                {
+                    "question": "Basic Structure ensures:",
+                    "options": [
+                        "Unlimited Parliament power",
+                        "Constitutional identity protection",
+                        "Abolition of Judiciary",
+                        "Executive dominance"
+                    ],
+                    "answer": "Constitutional identity protection"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Basic Structure is explicitly listed in Constitution\n2. It includes rule of law and judicial review\n3. It is evolved by judiciary",
+                    "options": ["2 and 3", "1 and 2", "3 only", "All"],
+                    "answer": "2 and 3"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                        "Parliament defines Basic Structure",
+                        "Judiciary identifies Basic Structure",
+                        "President defines Basic Structure",
+                        "Election Commission defines it"
+                    ],
+                    "answer": "Judiciary identifies Basic Structure"
+                },
+                {
+                    "question": "Which of the following is NOT correct?",
+                    "options": [
+                        "Federalism is part of Basic Structure",
+                        "Secularism is part of Basic Structure",
+                        "Parliamentary supremacy is part of Basic Structure",
+                        "Judicial review is part of Basic Structure"
+                    ],
+                    "answer": "Parliamentary supremacy is part of Basic Structure"
+                },
+                {
+                    "question": "Main purpose of Basic Structure is:",
+                    "options": [
+                        "Strengthening Parliament power",
+                        "Protecting Constitution’s core values",
+                        "Removing Judiciary",
+                        "Weakening federalism"
+                    ],
+                    "answer": "Protecting Constitution’s core values"
+                },
+                {
+                    "question": "Basic Structure Doctrine is best described as:",
+                    "options": [
+                        "Political doctrine",
+                        "Judicial safeguard of Constitution",
+                        "Executive rule",
+                        "Statutory law"
+                    ],
+                    "answer": "Judicial safeguard of Constitution"
+                }
+            ]
+        }
+    }
+]

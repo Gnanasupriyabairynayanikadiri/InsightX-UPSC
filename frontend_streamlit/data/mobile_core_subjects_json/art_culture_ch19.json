@@ -1,0 +1,886 @@
+[
+    {
+        "name": "Indian Art & Culture – Buddhism and Jainism (Revision Chapter)",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Buddhism and Jainism are part of the Shramana traditions of ancient India",
+                    "Both emerged around the 6th century BCE",
+                    "They arose as reform movements against Vedic ritualism",
+                    "Both emphasize non-violence, ethics, and liberation",
+                    "They significantly influenced Indian philosophy, art, and society"
+                ]
+            },
+            {
+                "heading": "Historical Background",
+                "points": [
+                    "Period of Second Urbanisation (6th century BCE)",
+                    "Rise of trade, towns, and new social classes",
+                    "Discontent with Brahmanical rituals and caste rigidity",
+                    "Search for simpler spiritual paths",
+                    "Intellectual environment in Ganga valley region"
+                ]
+            },
+            {
+                "heading": "Common Features of Buddhism and Jainism",
+                "points": [
+                    "Both rejected Vedic authority and ritual sacrifices",
+                    "Both opposed caste discrimination",
+                    "Both emphasized karma, rebirth, and liberation",
+                    "Both followed ethical and moral discipline",
+                    "Both used Prakrit languages for teachings",
+                    "Both encouraged monastic life (monks and nuns)"
+                ]
+            },
+            {
+                "heading": "Differences Between Buddhism and Jainism",
+                "points": [
+                    "Buddhism follows Middle Path, Jainism follows strict asceticism",
+                    "Buddhism denies permanent soul (Anatta), Jainism believes in Jiva (soul)",
+                    "Jainism emphasizes extreme non-violence more strictly",
+                    "Buddhism spread outside India widely, Jainism remained mainly in India",
+                    "Buddhism later split into Mahayana and Hinayana sects"
+                ]
+            },
+            {
+                "heading": "Founder and Key Figures",
+                "points": [
+                    "Buddhism – founded by Gautama Buddha",
+                    "Jainism – revived by Mahavira (24th Tirthankara)",
+                    "Mahavira was contemporary of Buddha",
+                    "Both belonged to Kshatriya background",
+                    "Both renounced worldly life for spiritual search"
+                ]
+            },
+            {
+                "heading": "Core Teachings of Buddhism",
+                "points": [
+                    "Four Noble Truths",
+                    "Eightfold Path (Ashtangika Marga)",
+                    "Concept of Nirvana (liberation from suffering)",
+                    "Middle Path between extremes",
+                    "Emphasis on compassion and non-violence"
+                ]
+            },
+            {
+                "heading": "Core Teachings of Jainism",
+                "points": [
+                    "Ahimsa (non-violence) is supreme principle",
+                    "Anekantavada (multiple viewpoints of truth)",
+                    "Three jewels: Right Faith, Right Knowledge, Right Conduct",
+                    "Strict asceticism and self-discipline",
+                    "Liberation through purification of soul"
+                ]
+            },
+            {
+                "heading": "Spread of Religions",
+                "points": [
+                    "Buddhism spread through missionaries and royal patronage (Ashoka)",
+                    "Jainism spread in western and southern India",
+                    "Trade routes helped dissemination",
+                    "Monasteries (Viharas) and temples (Jain basadis) played role",
+                    "Both used simple language for communication"
+                ]
+            },
+            {
+                "heading": "Contribution to Art and Culture",
+                "points": [
+                    "Buddhism: Stupas, Chaityas, Viharas, Gandhara & Mathura art",
+                    "Jainism: Rock-cut caves, temples like Dilwara",
+                    "Development of iconography of Tirthankaras and Buddha",
+                    "Influence on Indian sculpture and painting",
+                    "Promotion of literacy and education"
+                ]
+            },
+            {
+                "heading": "Decline Factors",
+                "points": [
+                    "Loss of royal patronage",
+                    "Rise of devotional Hinduism (Bhakti movement)",
+                    "Internal divisions within Buddhism (Hinayana-Mahayana)",
+                    "Assimilation into Hindu traditions",
+                    "Foreign invasions (especially for Buddhism)"
+                ]
+            },
+            {
+                "heading": "UPSC Importance",
+                "points": [
+                    "Differences between Buddhism and Jainism frequently asked",
+                    "Concepts like Ahimsa, Nirvana, Anekantavada are important",
+                    "Ashoka’s role in Buddhism is crucial",
+                    "Mahavira and Buddha comparison is common",
+                    "Art and architecture questions often linked"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Buddhism and Jainism originated in:",
+                    "options": [
+                        "6th century BCE",
+                        "2nd century CE",
+                        "10th century BCE",
+                        "1st century CE"
+                    ],
+                    "answer": "6th century BCE"
+                },
+                {
+                    "question": "Founder of Buddhism:",
+                    "options": [
+                        "Gautama Buddha",
+                        "Mahavira",
+                        "Ashoka",
+                        "Chanakya"
+                    ],
+                    "answer": "Gautama Buddha"
+                },
+                {
+                    "question": "Jainism was revived by:",
+                    "options": [
+                        "Mahavira",
+                        "Buddha",
+                        "Ashoka",
+                        "Kanishka"
+                    ],
+                    "answer": "Mahavira"
+                },
+                {
+                    "question": "Buddhism denies:",
+                    "options": [
+                        "Permanent soul",
+                        "Karma",
+                        "Ethics",
+                        "Liberation"
+                    ],
+                    "answer": "Permanent soul"
+                },
+                {
+                    "question": "Main principle of Jainism:",
+                    "options": [
+                        "Ahimsa",
+                        "War",
+                        "Trade",
+                        "Rituals"
+                    ],
+                    "answer": "Ahimsa"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Middle Path is associated with:",
+                    "options": [
+                        "Buddhism",
+                        "Jainism",
+                        "Hinduism",
+                        "Sufism"
+                    ],
+                    "answer": "Buddhism"
+                },
+                {
+                    "question": "Anekantavada is a concept of:",
+                    "options": [
+                        "Jainism",
+                        "Buddhism",
+                        "Sikhism",
+                        "Islam"
+                    ],
+                    "answer": "Jainism"
+                },
+                {
+                    "question": "Ashoka promoted:",
+                    "options": [
+                        "Buddhism",
+                        "Jainism",
+                        "Hinduism",
+                        "Christianity"
+                    ],
+                    "answer": "Buddhism"
+                },
+                {
+                    "question": "Buddhist monasteries are called:",
+                    "options": [
+                        "Viharas",
+                        "Temples",
+                        "Masjids",
+                        "Churches"
+                    ],
+                    "answer": "Viharas"
+                },
+                {
+                    "question": "Jain monks follow:",
+                    "options": [
+                        "Strict asceticism",
+                        "Luxury life",
+                        "Trade",
+                        "War"
+                    ],
+                    "answer": "Strict asceticism"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Both Buddhism and Jainism rejected Vedas\n2. Both emphasize Ahimsa\n3. Both believe in permanent soul",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                        "Buddhism – Nirvana",
+                        "Jainism – Middle Path",
+                        "Buddhism – Anekantavada",
+                        "Jainism – Four Noble Truths"
+                    ],
+                    "answer": "Buddhism – Nirvana"
+                },
+                {
+                    "question": "Main reason for spread of Buddhism:",
+                    "options": [
+                        "Ashoka’s patronage",
+                        "Foreign invasion",
+                        "Trade monopoly",
+                        "Caste system"
+                    ],
+                    "answer": "Ashoka’s patronage"
+                },
+                {
+                    "question": "Jainism is more strict about:",
+                    "options": [
+                        "Non-violence",
+                        "Trade",
+                        "Politics",
+                        "Rituals"
+                    ],
+                    "answer": "Non-violence"
+                },
+                {
+                    "question": "Both religions contributed to:",
+                    "options": [
+                        "Indian philosophy and culture",
+                        "Industrial revolution",
+                        "Modern science",
+                        "Colonial rule"
+                    ],
+                    "answer": "Indian philosophy and culture"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Buddhism",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Buddhism is a major ancient Indian religion founded by Gautama Buddha",
+                    "It emerged in the 6th century BCE in the Ganga valley",
+                    "It is based on ethical living, non-violence, and liberation from suffering",
+                    "It became one of the most influential spiritual traditions in Asia",
+                    "It later spread to Sri Lanka, China, Japan, Tibet, and Southeast Asia"
+                ]
+            },
+            {
+                "heading": "Founder – Gautama Buddha",
+                "points": [
+                    "Born as Siddhartha Gautama in Lumbini (present-day Nepal)",
+                    "Belonged to Shakya clan (Kshatriya origin)",
+                    "Father: Suddhodana, Mother: Maya Devi",
+                    "Left palace life after witnessing suffering (Four Sights)",
+                    "Attained enlightenment under Bodhi tree at Bodh Gaya",
+                    "Delivered first sermon at Sarnath (Dharmachakra Pravartana)"
+                ]
+            },
+            {
+                "heading": "Four Noble Truths (Core Philosophy)",
+                "points": [
+                    "Life is full of suffering (Dukkha)",
+                    "Suffering is caused by desire (Samudaya)",
+                    "Suffering can be ended (Nirodha)",
+                    "Path to end suffering is Eightfold Path (Magga)"
+                ]
+            },
+            {
+                "heading": "Eightfold Path (Ashtangika Marga)",
+                "points": [
+                    "Right Understanding",
+                    "Right Thought",
+                    "Right Speech",
+                    "Right Action",
+                    "Right Livelihood",
+                    "Right Effort",
+                    "Right Mindfulness",
+                    "Right Concentration",
+                    "Leads to Nirvana (liberation)"
+                ]
+            },
+            {
+                "heading": "Concept of Nirvana",
+                "points": [
+                    "Ultimate goal of Buddhism",
+                    "Freedom from cycle of birth and rebirth (samsara)",
+                    "State of peace and liberation from suffering",
+                    "Achieved through ethical conduct and meditation",
+                    "Represents spiritual enlightenment"
+                ]
+            },
+            {
+                "heading": "Middle Path (Madhyam Marg)",
+                "points": [
+                    "Avoids extremes of luxury and severe austerity",
+                    "Promotes balanced and disciplined life",
+                    "Key principle of Buddhist ethics",
+                    "Practical approach to spiritual growth",
+                    "Foundation of Buddhist philosophy"
+                ]
+            },
+            {
+                "heading": "Buddhist Scriptures",
+                "points": [
+                    "Tripitaka (Three Baskets)",
+                    "Vinaya Pitaka – rules for monks",
+                    "Sutta Pitaka – teachings of Buddha",
+                    "Abhidhamma Pitaka – philosophical analysis",
+                    "Written in Pali language"
+                ]
+            },
+            {
+                "heading": "Sects of Buddhism",
+                "points": [
+                    "Hinayana (Theravada) – strict original teachings",
+                    "Mahayana – expanded form, worship of Bodhisattvas",
+                    "Vajrayana – tantric form (mainly Tibet)",
+                    "Hinayana focuses on individual liberation",
+                    "Mahayana focuses on universal salvation"
+                ]
+            },
+            {
+                "heading": "Spread of Buddhism",
+                "points": [
+                    "Spread through missionary activities",
+                    "Royal patronage by Ashoka (Mauryan Empire)",
+                    "Trade routes helped expansion",
+                    "Monasteries (Viharas) became learning centers",
+                    "Spread to Central Asia, China, Japan, Sri Lanka"
+                ]
+            },
+            {
+                "heading": "Important Buddhist Councils",
+                "points": [
+                    "First Council – Rajagriha (after Buddha’s death)",
+                    "Second Council – Vaishali (division begins)",
+                    "Third Council – Pataliputra (under Ashoka)",
+                    "Fourth Council – Kashmir (Kanishka period)",
+                    "Helped compile and preserve teachings"
+                ]
+            },
+            {
+                "heading": "Important Places Associated with Buddha",
+                "points": [
+                    "Lumbini – Birth",
+                    "Bodh Gaya – Enlightenment",
+                    "Sarnath – First sermon",
+                    "Kushinagar – Death (Mahaparinirvana)",
+                    "These are major pilgrimage sites"
+                ]
+            },
+            {
+                "heading": "Contribution to Art and Architecture",
+                "points": [
+                    "Stupas – dome-shaped relic structures (Sanchi Stupa)",
+                    "Chaityas – prayer halls",
+                    "Viharas – monasteries",
+                    "Gandhara art – Greco-Buddhist style",
+                    "Mathura art – indigenous style of Buddha images"
+                ]
+            },
+            {
+                "heading": "Decline of Buddhism in India",
+                "points": [
+                    "Loss of royal patronage after Gupta period",
+                    "Rise of Bhakti movement in Hinduism",
+                    "Absorption of Buddhist ideas into Hindu practices",
+                    "Internal divisions among sects",
+                    "Foreign invasions destroyed monasteries (Nalanda)"
+                ]
+            },
+            {
+                "heading": "UPSC Importance",
+                "points": [
+                    "Four Noble Truths and Eightfold Path are very important",
+                    "Buddhist councils are frequently asked",
+                    "Differences between Hinayana and Mahayana",
+                    "Important sites: Lumbini, Bodh Gaya, Sarnath, Kushinagar",
+                    "Ashoka’s role in spreading Buddhism is crucial"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Buddhism was founded by:",
+                    "options": [
+                        "Gautama Buddha",
+                        "Mahavira",
+                        "Ashoka",
+                        "Chanakya"
+                    ],
+                    "answer": "Gautama Buddha"
+                },
+                {
+                    "question": "Buddha attained enlightenment at:",
+                    "options": [
+                        "Bodh Gaya",
+                        "Sarnath",
+                        "Lumbini",
+                        "Kushinagar"
+                    ],
+                    "answer": "Bodh Gaya"
+                },
+                {
+                    "question": "First sermon was given at:",
+                    "options": [
+                        "Sarnath",
+                        "Bodh Gaya",
+                        "Lumbini",
+                        "Rajgir"
+                    ],
+                    "answer": "Sarnath"
+                },
+                {
+                    "question": "Buddhism emphasizes:",
+                    "options": [
+                        "Four Noble Truths",
+                        "Yajnas",
+                        "Caste system",
+                        "Animal sacrifice"
+                    ],
+                    "answer": "Four Noble Truths"
+                },
+                {
+                    "question": "Buddhist scriptures are called:",
+                    "options": [
+                        "Tripitaka",
+                        "Vedas",
+                        "Upanishads",
+                        "Puranas"
+                    ],
+                    "answer": "Tripitaka"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Middle Path means:",
+                    "options": [
+                        "Avoid extremes",
+                        "Follow rituals",
+                        "War strategy",
+                        "Trade policy"
+                    ],
+                    "answer": "Avoid extremes"
+                },
+                {
+                    "question": "Hinayana is also called:",
+                    "options": [
+                        "Theravada",
+                        "Mahayana",
+                        "Vajrayana",
+                        "Zen"
+                    ],
+                    "answer": "Theravada"
+                },
+                {
+                    "question": "Buddhism spread due to:",
+                    "options": [
+                        "Ashoka’s patronage",
+                        "British rule",
+                        "Trade monopoly",
+                        "Greek invasion"
+                    ],
+                    "answer": "Ashoka’s patronage"
+                },
+                {
+                    "question": "Stupa is related to:",
+                    "options": [
+                        "Buddhism",
+                        "Jainism",
+                        "Hinduism",
+                        "Islam"
+                    ],
+                    "answer": "Buddhism"
+                },
+                {
+                    "question": "Sarnath is associated with:",
+                    "options": [
+                        "First sermon",
+                        "Birth of Buddha",
+                        "Death of Buddha",
+                        "Meditation only"
+                    ],
+                    "answer": "First sermon"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Tripitaka is Buddhist scripture\n2. Buddha was born in Nepal\n3. Bodh Gaya is place of enlightenment",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "All"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                        "Hinayana – individual liberation",
+                        "Mahayana – strict asceticism",
+                        "Vajrayana – early Buddhism",
+                        "Tripitaka – Hindu text"
+                    ],
+                    "answer": "Hinayana – individual liberation"
+                },
+                {
+                    "question": "Fourth Buddhist Council was held during:",
+                    "options": [
+                        "Kanishka period",
+                        "Ashoka period",
+                        "Gupta period",
+                        "Mauryan period"
+                    ],
+                    "answer": "Kanishka period"
+                },
+                {
+                    "question": "Main cause of Buddhism decline:",
+                    "options": [
+                        "Loss of patronage and rise of Bhakti",
+                        "Industrial revolution",
+                        "Foreign trade boom",
+                        "Colonial support"
+                    ],
+                    "answer": "Loss of patronage and rise of Bhakti"
+                },
+                {
+                    "question": "Gandhara art is known for:",
+                    "options": [
+                        "Greco-Buddhist influence",
+                        "Pure Indian style",
+                        "Islamic architecture",
+                        "Dravidian style"
+                    ],
+                    "answer": "Greco-Buddhist influence"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Jainism",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Jainism is one of the oldest Shramana traditions of India",
+                    "It emphasizes strict non-violence (Ahimsa) and self-discipline",
+                    "It emerged around the 6th century BCE",
+                    "It was revived and reorganized by Mahavira (24th Tirthankara)",
+                    "It focuses on liberation of soul through ethical living"
+                ]
+            },
+            {
+                "heading": "Origin and Historical Background",
+                "points": [
+                    "Jainism existed even before Mahavira (earlier Tirthankaras)",
+                    "Mahavira was the 24th and last Tirthankara",
+                    "Contemporary of Gautama Buddha",
+                    "Belonged to Kshatriya clan (Jnatri clan)",
+                    "Developed during Second Urbanisation in Ganga valley"
+                ]
+            },
+            {
+                "heading": "Life of Mahavira",
+                "points": [
+                    "Born in Kundagrama (near Vaishali, Bihar)",
+                    "Father: Siddhartha, Mother: Trishala",
+                    "Renounced worldly life at age 30",
+                    "Attained Kevala Jnana (omniscience) after 12 years of penance",
+                    "Preached for 30 years across India"
+                ]
+            },
+            {
+                "heading": "Core Philosophy of Jainism",
+                "points": [
+                    "Belief in eternal soul (Jiva) and non-soul (Ajiva)",
+                    "Karma binds the soul to the cycle of rebirth",
+                    "Liberation (Moksha) is the ultimate goal",
+                    "Strict ethical discipline is required for liberation",
+                    "Non-violence is the highest virtue"
+                ]
+            },
+            {
+                "heading": "Three Jewels (Triratna)",
+                "points": [
+                    "Right Faith (Samyak Darshana)",
+                    "Right Knowledge (Samyak Jnana)",
+                    "Right Conduct (Samyak Charitra)",
+                    "These lead to liberation",
+                    "Core ethical foundation of Jainism"
+                ]
+            },
+            {
+                "heading": "Five Great Vows (Mahavratas)",
+                "points": [
+                    "Ahimsa – Non-violence",
+                    "Satya – Truthfulness",
+                    "Asteya – Non-stealing",
+                    "Brahmacharya – Celibacy",
+                    "Aparigraha – Non-possession"
+                ]
+            },
+            {
+                "heading": "Important Concepts in Jainism",
+                "points": [
+                    "Ahimsa – strict non-violence (core principle)",
+                    "Anekantavada – multiple viewpoints of truth",
+                    "Syadvada – conditional theory of knowledge",
+                    "Karma theory – binding of soul through actions",
+                    "Liberation achieved through self-purification"
+                ]
+            },
+            {
+                "heading": "Sects of Jainism",
+                "points": [
+                    "Digambara – sky-clad monks, strict asceticism",
+                    "Shvetambara – white-clad monks, more liberal",
+                    "Division occurred around 3rd century BCE",
+                    "Differences in practices and texts",
+                    "Both follow Mahavira’s teachings"
+                ]
+            },
+            {
+                "heading": "Jain Councils",
+                "points": [
+                    "First Council – Pataliputra (led to compilation of teachings)",
+                    "Second Council – Vallabhi (Gujarat)",
+                    "Helped preserve Jain scriptures",
+                    "Shvetambara canon compiled in second council",
+                    "Digambara tradition preserved orally"
+                ]
+            },
+            {
+                "heading": "Jain Literature",
+                "points": [
+                    "Written in Prakrit languages",
+                    "Sacred texts called Agamas",
+                    "Acharanga Sutra – rules of conduct",
+                    "Kalpasutra – life of Tirthankaras",
+                    "Rich philosophical and ethical literature"
+                ]
+            },
+            {
+                "heading": "Spread of Jainism",
+                "points": [
+                    "Spread mainly in western and southern India",
+                    "Royal patronage by kings like Chandragupta Maurya (later life)",
+                    "Strong support from merchant class",
+                    "Less spread outside India compared to Buddhism",
+                    "Still strong in Gujarat, Rajasthan, Karnataka"
+                ]
+            },
+            {
+                "heading": "Contribution to Art and Architecture",
+                "points": [
+                    "Rock-cut caves (Udayagiri-Khandagiri)",
+                    "Dilwara Temples (Mount Abu)",
+                    "Ranakpur Temple (Rajasthan)",
+                    "Intricate marble carvings and sculptures",
+                    "Tirthankara idols and iconography"
+                ]
+            },
+            {
+                "heading": "Decline Factors",
+                "points": [
+                    "Limited royal patronage",
+                    "Rise of Bhakti movement in Hinduism",
+                    "Strict practices limited mass appeal",
+                    "Absorption of ideas into Hindu traditions",
+                    "Competition from Buddhism and later religions"
+                ]
+            },
+            {
+                "heading": "UPSC Importance",
+                "points": [
+                    "Mahavira as 24th Tirthankara is key fact",
+                    "Difference between Digambara and Shvetambara is important",
+                    "Concepts like Anekantavada and Syadvada are frequently asked",
+                    "Triratna and Mahavratas are core concepts",
+                    "Art and architecture questions are common"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Jainism was revived by:",
+                    "options": [
+                        "Mahavira",
+                        "Buddha",
+                        "Ashoka",
+                        "Chanakya"
+                    ],
+                    "answer": "Mahavira"
+                },
+                {
+                    "question": "Mahavira was the:",
+                    "options": [
+                        "24th Tirthankara",
+                        "1st Tirthankara",
+                        "10th Tirthankara",
+                        "12th Tirthankara"
+                    ],
+                    "answer": "24th Tirthankara"
+                },
+                {
+                    "question": "Main principle of Jainism:",
+                    "options": [
+                        "Ahimsa",
+                        "War",
+                        "Trade",
+                        "Politics"
+                    ],
+                    "answer": "Ahimsa"
+                },
+                {
+                    "question": "Jainism believes in:",
+                    "options": [
+                        "Soul (Jiva)",
+                        "No soul",
+                        "Only matter",
+                        "Only God"
+                    ],
+                    "answer": "Soul (Jiva)"
+                },
+                {
+                    "question": "Jain scriptures are called:",
+                    "options": [
+                        "Agamas",
+                        "Vedas",
+                        "Tripitaka",
+                        "Puranas"
+                    ],
+                    "answer": "Agamas"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Digambara monks:",
+                    "options": [
+                        "Wear no clothes",
+                        "Wear white clothes",
+                        "Wear saffron clothes",
+                        "Wear royal robes"
+                    ],
+                    "answer": "Wear no clothes"
+                },
+                {
+                    "question": "Shvetambara monks wear:",
+                    "options": [
+                        "White clothes",
+                        "No clothes",
+                        "Black clothes",
+                        "Red clothes"
+                    ],
+                    "answer": "White clothes"
+                },
+                {
+                    "question": "Anekantavada means:",
+                    "options": [
+                        "Multiple viewpoints of truth",
+                        "Single truth",
+                        "No truth",
+                        "War ideology"
+                    ],
+                    "answer": "Multiple viewpoints of truth"
+                },
+                {
+                    "question": "Triratna includes:",
+                    "options": [
+                        "Faith, Knowledge, Conduct",
+                        "War, Peace, Trade",
+                        "Truth, Power, Wealth",
+                        "King, Priest, Merchant"
+                    ],
+                    "answer": "Faith, Knowledge, Conduct"
+                },
+                {
+                    "question": "Jainism was most supported by:",
+                    "options": [
+                        "Merchant class",
+                        "Warriors only",
+                        "Kings only",
+                        "Farmers only"
+                    ],
+                    "answer": "Merchant class"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Mahavira was 24th Tirthankara\n2. Jainism emphasizes Ahimsa\n3. Jainism denies existence of soul",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                        "Digambara – sky-clad monks",
+                        "Shvetambara – no belief in Ahimsa",
+                        "Mahavira – founder of Buddhism",
+                        "Agamas – Buddhist texts"
+                    ],
+                    "answer": "Digambara – sky-clad monks"
+                },
+                {
+                    "question": "Syadvada refers to:",
+                    "options": [
+                        "Conditional theory of knowledge",
+                        "War strategy",
+                        "Trade system",
+                        "Meditation technique"
+                    ],
+                    "answer": "Conditional theory of knowledge"
+                },
+                {
+                    "question": "Jainism declined due to:",
+                    "options": [
+                        "Limited patronage and rise of Bhakti",
+                        "Industrial revolution",
+                        "Foreign rule only",
+                        "Scientific discovery"
+                    ],
+                    "answer": "Limited patronage and rise of Bhakti"
+                },
+                {
+                    "question": "Important Jain temple architecture example:",
+                    "options": [
+                        "Dilwara Temples",
+                        "Konark Sun Temple",
+                        "Sanchi Stupa",
+                        "Ajanta Caves"
+                    ],
+                    "answer": "Dilwara Temples"
+                }
+            ]
+        }
+    }
+]

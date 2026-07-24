@@ -1,0 +1,539 @@
+[
+    {
+        "name": "Biology: Evolution (Evolution of Life)",
+        "notes": [
+            {
+                "heading": "Introduction to Evolution",
+                "points": [
+                    "Evolution is the gradual change in living organisms over long periods of time",
+                    "It explains the diversity of life on Earth",
+                    "Based on genetic variation and natural selection",
+                    "All living organisms share a common ancestor",
+                    "Study of evolution is called evolutionary biology",
+                    "It connects genetics, ecology, and paleontology"
+                ]
+            },
+            {
+                "heading": "Evidence for Evolution",
+                "points": [
+                    "Fossil records show progression of life forms over time",
+                    "Comparative anatomy shows structural similarities among species",
+                    "Embryological similarities suggest common ancestry",
+                    "Molecular biology (DNA comparison) supports evolution",
+                    "Biogeography shows distribution of species across regions"
+                ]
+            },
+            {
+                "heading": "Darwin’s Theory of Evolution",
+                "points": [
+                    "Proposed by Charles Darwin in 'On the Origin of Species'",
+                    "Based on natural selection as the mechanism of evolution",
+                    "Organisms produce more offspring than can survive",
+                    "Variation exists among individuals of a species",
+                    "Favorable traits are selected by nature"
+                ]
+            },
+            {
+                "heading": "Natural Selection",
+                "points": [
+                    "Survival of the fittest concept",
+                    "Individuals with advantageous traits survive and reproduce",
+                    "Unfavorable traits are eliminated over time",
+                    "Leads to adaptation of species",
+                    "Gradual process over many generations"
+                ]
+            },
+            {
+                "heading": "Lamarck’s Theory (Use and Disuse)",
+                "points": [
+                    "Proposed by Jean-Baptiste Lamarck",
+                    "Organisms acquire traits during their lifetime",
+                    "Used organs become stronger; unused organs degenerate",
+                    "Acquired traits are inherited (now disproved)",
+                    "Example: giraffe neck stretching theory"
+                ]
+            },
+            {
+                "heading": "Modern Theory of Evolution",
+                "points": [
+                    "Combines Darwin’s natural selection and genetics",
+                    "Based on mutations and genetic variation",
+                    "Explains evolution through gene frequency changes",
+                    "Also called Neo-Darwinism",
+                    "Supported by molecular biology and DNA studies"
+                ]
+            },
+            {
+                "heading": "Sources of Variation",
+                "points": [
+                    "Mutations in DNA",
+                    "Genetic recombination during reproduction",
+                    "Environmental factors",
+                    "Sexual reproduction increases variation",
+                    "Variation is raw material for evolution"
+                ]
+            },
+            {
+                "heading": "Speciation",
+                "points": [
+                    "Speciation is the formation of new species",
+                    "Occurs due to genetic isolation and variation",
+                    "Geographical isolation plays a key role",
+                    "Over time populations become reproductively isolated",
+                    "Leads to biodiversity"
+                ]
+            },
+            {
+                "heading": "Evolution of Humans",
+                "points": [
+                    "Humans evolved from primate ancestors",
+                    "Key stages: Australopithecus → Homo habilis → Homo erectus → Homo sapiens",
+                    "Increase in brain size over time",
+                    "Development of tool use and language",
+                    "Modern humans are Homo sapiens sapiens"
+                ]
+            },
+            {
+                "heading": "Fossils and Evolution",
+                "points": [
+                    "Fossils provide direct evidence of evolution",
+                    "Formed in sedimentary rocks over millions of years",
+                    "Help in determining age of organisms",
+                    "Transitional fossils show evolutionary links",
+                    "Radiometric dating used for age estimation"
+                ]
+            },
+            {
+                "heading": "Adaptive Radiation",
+                "points": [
+                    "Evolution of different species from a common ancestor",
+                    "Occurs when organisms spread into new environments",
+                    "Example: Darwin’s finches in Galapagos Islands",
+                    "Leads to diversity of species",
+                    "Driven by environmental changes and competition"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Theory of evolution by natural selection was proposed by:",
+                    "options": [
+                        "Mendel",
+                        "Darwin",
+                        "Lamarck",
+                        "Pasteur"
+                    ],
+                    "answer": "Darwin"
+                },
+                {
+                    "question": "Evolution refers to:",
+                    "options": [
+                        "Sudden changes in weather",
+                        "Gradual change in living organisms",
+                        "Cell division",
+                        "Photosynthesis"
+                    ],
+                    "answer": "Gradual change in living organisms"
+                },
+                {
+                    "question": "Fossils are mainly found in:",
+                    "options": [
+                        "Igneous rocks",
+                        "Sedimentary rocks",
+                        "Metamorphic rocks",
+                        "Lava flows"
+                    ],
+                    "answer": "Sedimentary rocks"
+                },
+                {
+                    "question": "Survival of the fittest is associated with:",
+                    "options": [
+                        "Lamarck",
+                        "Darwin",
+                        "Mendel",
+                        "Hooke"
+                    ],
+                    "answer": "Darwin"
+                },
+                {
+                    "question": "Human species is classified as:",
+                    "options": [
+                        "Homo erectus",
+                        "Homo sapiens",
+                        "Australopithecus",
+                        "Neanderthal only"
+                    ],
+                    "answer": "Homo sapiens"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Lamarck’s theory is also known as:",
+                    "options": [
+                        "Natural selection",
+                        "Use and disuse theory",
+                        "Mutation theory",
+                        "Genetic drift"
+                    ],
+                    "answer": "Use and disuse theory"
+                },
+                {
+                    "question": "Adaptive radiation is best example of:",
+                    "options": [
+                        "Extinction",
+                        "Speciation",
+                        "Photosynthesis",
+                        "Mutation only"
+                    ],
+                    "answer": "Speciation"
+                },
+                {
+                    "question": "Variation in organisms is mainly caused by:",
+                    "options": [
+                        "Climate only",
+                        "Mutations and recombination",
+                        "Soil type",
+                        "Gravity"
+                    ],
+                    "answer": "Mutations and recombination"
+                },
+                {
+                    "question": "Darwin’s finches are example of:",
+                    "options": [
+                        "Artificial selection",
+                        "Adaptive radiation",
+                        "Extinction",
+                        "Parasitism"
+                    ],
+                    "answer": "Adaptive radiation"
+                },
+                {
+                    "question": "Modern theory of evolution is also called:",
+                    "options": [
+                        "Neo-Darwinism",
+                        "Neo-Lamarckism",
+                        "Cell theory",
+                        "Mutation theory only"
+                    ],
+                    "answer": "Neo-Darwinism"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. Fossils provide evidence of evolution\n2. Lamarck’s theory is fully accepted today\n3. Mutation contributes to evolution",
+                    "options": [
+                        "1 and 3 only",
+                        "2 and 3 only",
+                        "1 and 2 only",
+                        "All"
+                    ],
+                    "answer": "1 and 3 only"
+                },
+                {
+                    "question": "Correct match is:",
+                    "options": [
+                        "Darwin – Use and disuse",
+                        "Lamarck – Natural selection",
+                        "Darwin – Natural selection",
+                        "Mendel – Evolution theory"
+                    ],
+                    "answer": "Darwin – Natural selection"
+                },
+                {
+                    "question": "Speciation occurs due to:",
+                    "options": [
+                        "No variation",
+                        "Genetic isolation",
+                        "No reproduction",
+                        "Photosynthesis"
+                    ],
+                    "answer": "Genetic isolation"
+                },
+                {
+                    "question": "Transitional fossils are important because they:",
+                    "options": [
+                        "Show sudden creation",
+                        "Show evolutionary links",
+                        "Stop evolution",
+                        "Prove extinction only"
+                    ],
+                    "answer": "Show evolutionary links"
+                },
+                {
+                    "question": "Evolution is driven mainly by:",
+                    "options": [
+                        "Natural selection and variation",
+                        "Only climate",
+                        "Only fossil formation",
+                        "Only reproduction"
+                    ],
+                    "answer": "Natural selection and variation"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Biology: Animal Evolution & Human Evolution",
+        "notes": [
+            {
+                "heading": "Introduction to Animal Evolution",
+                "points": [
+                    "Animal evolution explains how complex animals developed from simpler organisms",
+                    "It is driven by genetic variation, natural selection, and environmental adaptation",
+                    "Fossil records and comparative anatomy provide key evidence",
+                    "Evolution of animals shows increasing complexity over time",
+                    "Invertebrates appeared before vertebrates in evolutionary history"
+                ]
+            },
+            {
+                "heading": "Early Evolution of Animals",
+                "points": [
+                    "First animals were simple multicellular organisms",
+                    "Marine environment was the origin of early animal life",
+                    "Sponges are among the simplest multicellular animals",
+                    "Gradual development of tissues, organs, and organ systems occurred",
+                    "Evolution moved from radial symmetry to bilateral symmetry in many groups"
+                ]
+            },
+            {
+                "heading": "Evolutionary Trends in Animals",
+                "points": [
+                    "Increase in body complexity over time",
+                    "Development of specialized organs and systems",
+                    "Transition from aquatic to terrestrial life",
+                    "Development of vertebral column in vertebrates",
+                    "Improved nervous and sensory systems in higher animals"
+                ]
+            },
+            {
+                "heading": "Major Groups in Animal Evolution",
+                "points": [
+                    "Invertebrates: animals without backbone (insects, mollusks, worms)",
+                    "Vertebrates: animals with backbone (fish, amphibians, reptiles, birds, mammals)",
+                    "Fish were the earliest vertebrates",
+                    "Amphibians were first to move onto land",
+                    "Reptiles, birds, and mammals evolved later"
+                ]
+            },
+            {
+                "heading": "Fossil Evidence in Animal Evolution",
+                "points": [
+                    "Fossils show gradual changes in animal forms over time",
+                    "Transitional fossils link different groups of animals",
+                    "Archaeopteryx shows link between reptiles and birds",
+                    "Fossil dating helps determine evolutionary timeline",
+                    "Extinction events shaped evolution of new species"
+                ]
+            },
+            {
+                "heading": "Introduction to Human Evolution",
+                "points": [
+                    "Human evolution refers to development of modern humans from primate ancestors",
+                    "Humans belong to order Primates and genus Homo",
+                    "Evolution occurred over millions of years",
+                    "Major changes include brain development and bipedalism",
+                    "Evidence comes from fossils, genetics, and archaeology"
+                ]
+            },
+            {
+                "heading": "Stages of Human Evolution",
+                "points": [
+                    "Australopithecus: early hominins, bipedal but small brain",
+                    "Homo habilis: first tool users",
+                    "Homo erectus: used fire and more advanced tools",
+                    "Neanderthals: robust humans adapted to cold climates",
+                    "Homo sapiens: modern humans with advanced cognition"
+                ]
+            },
+            {
+                "heading": "Key Evolutionary Changes in Humans",
+                "points": [
+                    "Increase in brain size and intelligence",
+                    "Development of upright posture (bipedalism)",
+                    "Reduction in body hair",
+                    "Improved hand dexterity for tool use",
+                    "Development of language and social behavior"
+                ]
+            },
+            {
+                "heading": "Role of Genetics in Human Evolution",
+                "points": [
+                    "Genetic mutations contributed to variation in early humans",
+                    "Natural selection favored advantageous traits",
+                    "Genetic drift also influenced small populations",
+                    "DNA studies show close relation to chimpanzees",
+                    "Mitochondrial DNA helps trace human ancestry (Mitochondrial Eve theory)"
+                ]
+            },
+            {
+                "heading": "Out of Africa Theory",
+                "points": [
+                    "Modern humans originated in Africa",
+                    "Homo sapiens migrated to other parts of the world",
+                    "Replaced earlier human species in other regions",
+                    "Supported by fossil and genetic evidence",
+                    "Most widely accepted model of human evolution"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Earliest vertebrates were:",
+                    "options": [
+                        "Reptiles",
+                        "Fish",
+                        "Birds",
+                        "Mammals"
+                    ],
+                    "answer": "Fish"
+                },
+                {
+                    "question": "First animals evolved in:",
+                    "options": [
+                        "Deserts",
+                        "Aquatic environment",
+                        "Forests",
+                        "Mountains"
+                    ],
+                    "answer": "Aquatic environment"
+                },
+                {
+                    "question": "Human genus is:",
+                    "options": [
+                        "Pan",
+                        "Homo",
+                        "Canis",
+                        "Felis"
+                    ],
+                    "answer": "Homo"
+                },
+                {
+                    "question": "Homo habilis is known for:",
+                    "options": [
+                        "Fire use",
+                        "Tool making",
+                        "Flight",
+                        "Swimming"
+                    ],
+                    "answer": "Tool making"
+                },
+                {
+                    "question": "Bipedalism means:",
+                    "options": [
+                        "Walking on four legs",
+                        "Walking on two legs",
+                        "Flying ability",
+                        "Swimming ability"
+                    ],
+                    "answer": "Walking on two legs"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Archaeopteryx is a link between:",
+                    "options": [
+                        "Fish and amphibians",
+                        "Reptiles and birds",
+                        "Birds and mammals",
+                        "Insects and reptiles"
+                    ],
+                    "answer": "Reptiles and birds"
+                },
+                {
+                    "question": "Neanderthals are:",
+                    "options": [
+                        "Modern humans",
+                        "Extinct human species",
+                        "Bird ancestors",
+                        "Reptiles"
+                    ],
+                    "answer": "Extinct human species"
+                },
+                {
+                    "question": "Out of Africa theory suggests:",
+                    "options": [
+                        "Humans evolved in Asia",
+                        "Humans evolved in Africa",
+                        "Humans evolved in Europe",
+                        "Humans evolved in America"
+                    ],
+                    "answer": "Humans evolved in Africa"
+                },
+                {
+                    "question": "Increase in brain size occurred in:",
+                    "options": [
+                        "Fish",
+                        "Early reptiles",
+                        "Human evolution",
+                        "Plants"
+                    ],
+                    "answer": "Human evolution"
+                },
+                {
+                    "question": "First tool users among humans were:",
+                    "options": [
+                        "Homo erectus",
+                        "Homo habilis",
+                        "Neanderthals",
+                        "Australopithecus"
+                    ],
+                    "answer": "Homo habilis"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Which statements are correct?\n1. Humans evolved from primate ancestors\n2. Fish were earliest vertebrates\n3. Birds evolved before reptiles",
+                    "options": [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "All"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Correct evolutionary sequence of humans is:",
+                    "options": [
+                        "Homo sapiens → Homo erectus → Homo habilis",
+                        "Australopithecus → Homo habilis → Homo erectus → Homo sapiens",
+                        "Homo erectus → Australopithecus → Homo sapiens",
+                        "Neanderthal → Australopithecus → Homo sapiens"
+                    ],
+                    "answer": "Australopithecus → Homo habilis → Homo erectus → Homo sapiens"
+                },
+                {
+                    "question": "Mitochondrial DNA is used to study:",
+                    "options": [
+                        "Plant evolution",
+                        "Human ancestry",
+                        "Rock formation",
+                        "Animal digestion"
+                    ],
+                    "answer": "Human ancestry"
+                },
+                {
+                    "question": "Which is NOT a human evolutionary stage?",
+                    "options": [
+                        "Australopithecus",
+                        "Homo erectus",
+                        "Homo sapiens",
+                        "Pan troglodytes"
+                    ],
+                    "answer": "Pan troglodytes"
+                },
+                {
+                    "question": "Evolution of animals is mainly driven by:",
+                    "options": [
+                        "Photosynthesis",
+                        "Natural selection and variation",
+                        "Gravity",
+                        "Cell division only"
+                    ],
+                    "answer": "Natural selection and variation"
+                }
+            ]
+        }
+    }
+]

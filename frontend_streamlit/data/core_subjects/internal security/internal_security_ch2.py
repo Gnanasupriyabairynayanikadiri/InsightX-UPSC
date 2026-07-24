@@ -1,0 +1,601 @@
+TOPICS = [
+    {
+        "name": "Terrorism Threat to India & Changing Face of Terrorism",
+        "notes": [
+            {
+                "heading": "Terrorism Threat to India – Overview",
+                "points": [
+                    "Terrorism is the use of violence or threat of violence to create fear and achieve political, ideological, or religious goals",
+                    "India faces terrorism due to internal, cross-border, and global factors",
+                    "It affects national security, economic development, and social harmony",
+                    "Targets include civilians, security forces, infrastructure, and symbolic institutions",
+                    "It is one of the most persistent internal security challenges for India"
+                ]
+            },
+            {
+                "heading": "Major Sources of Terrorism Threat to India",
+                "points": [
+                    "Cross-border terrorism, especially in Jammu & Kashmir",
+                    "Insurgency-linked terrorism in North-East India",
+                    "Left Wing Extremism with guerrilla-style attacks",
+                    "Radicalization and home-grown terrorism in urban areas",
+                    "Global terrorist networks and ideological influence",
+                    "Cyber-enabled terrorism and online recruitment"
+                ]
+            },
+            {
+                "heading": "Causes of Terrorism in India",
+                "points": [
+                    "Political grievances and separatist movements",
+                    "Socio-economic inequality and unemployment",
+                    "Religious and ideological extremism",
+                    "Porous borders and external support",
+                    "Weak governance in conflict-prone regions",
+                    "Misuse of technology and social media platforms"
+                ]
+            },
+            {
+                "heading": "Impact of Terrorism on India",
+                "points": [
+                    "Loss of human lives and property damage",
+                    "Economic disruption and reduced investment",
+                    "Strain on security forces and resources",
+                    "Communal tension and social instability",
+                    "Damage to international image and tourism",
+                    "Psychological fear among citizens"
+                ]
+            },
+            {
+                "heading": "Government Measures to Counter Terrorism",
+                "points": [
+                    "Strengthening intelligence agencies (IB, RAW, NIA)",
+                    "Anti-terror laws and legal frameworks",
+                    "Border management and fencing systems",
+                    "Coastal and maritime security enhancement",
+                    "Counter-radicalization and deradicalization programs",
+                    "International cooperation and intelligence sharing"
+                ]
+            },
+            {
+                "heading": "Institutional Framework in India",
+                "points": [
+                    "National Investigation Agency (NIA) for terror-related investigations",
+                    "National Security Guard (NSG) for counter-terror operations",
+                    "Multi Agency Centre (MAC) for intelligence coordination",
+                    "State Anti-Terrorism Squads (ATS)",
+                    "Intelligence Bureau (IB) for internal intelligence",
+                    "Coordination between Centre and States"
+                ]
+            },
+            {
+                "heading": "Changing Face of Terrorism – Overview",
+                "points": [
+                    "Terrorism has evolved from traditional armed attacks to more complex and decentralized forms",
+                    "Modern terrorism is technology-driven and globally networked",
+                    "Shift from hierarchical organizations to small, independent cells",
+                    "Use of cyber space and encrypted communication",
+                    "Increasing role of ideology, propaganda, and online radicalization"
+                ]
+            },
+            {
+                "heading": "Key Changes in Terrorism Patterns",
+                "points": [
+                    "Rise of lone-wolf attacks instead of large organized groups",
+                    "Use of social media for recruitment and propaganda",
+                    "Cyber terrorism targeting infrastructure and data systems",
+                    "Use of drones and advanced technology for attacks",
+                    "Financial networks using cryptocurrency and informal channels",
+                    "Blurring line between crime, insurgency, and terrorism"
+                ]
+            },
+            {
+                "heading": "Cyber and Digital Terrorism",
+                "points": [
+                    "Hacking of government and financial systems",
+                    "Disruption of critical infrastructure (power grids, banking)",
+                    "Online radicalization and propaganda dissemination",
+                    "Use of dark web for communication and planning",
+                    "Challenges in attribution and tracking of perpetrators"
+                ]
+            },
+            {
+                "heading": "Lone Wolf Terrorism",
+                "points": [
+                    "Acts of terrorism carried out by individuals without direct group support",
+                    "Inspired by extremist ideology through online content",
+                    "Harder to detect due to lack of communication networks",
+                    "Increasingly common in urban and developed areas",
+                    "Requires intelligence-based preventive policing"
+                ]
+            },
+            {
+                "heading": "Globalization and Terrorism",
+                "points": [
+                    "Global connectivity helps spread extremist ideologies",
+                    "Financial flows cross borders easily",
+                    "Migration and travel facilitate movement of radicals",
+                    "International terrorist networks operate across countries",
+                    "Requires global cooperation to counter threats"
+                ]
+            },
+            {
+                "heading": "Challenges in Combating Modern Terrorism",
+                "points": [
+                    "Difficulty in identifying decentralized groups",
+                    "Encrypted communication channels",
+                    "Rapid radicalization through online platforms",
+                    "Legal and jurisdictional limitations",
+                    "Cross-border safe havens",
+                    "Balancing security with civil liberties"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Terrorism is mainly aimed at:",
+                    "options": [
+                    "Economic growth",
+                    "Creating fear and achieving political goals",
+                    "Weather control",
+                    "Scientific research"
+                    ],
+                    "answer": "Creating fear and achieving political goals"
+                },
+                {
+                    "question": "NIA stands for:",
+                    "options": [
+                    "National Intelligence Agency",
+                    "National Investigation Agency",
+                    "National Internal Agency",
+                    "New Intelligence Authority"
+                    ],
+                    "answer": "National Investigation Agency"
+                },
+                {
+                    "question": "One major source of terrorism in India is:",
+                    "options": [
+                    "Space exploration",
+                    "Cross-border infiltration",
+                    "Agriculture policy",
+                    "Education system"
+                    ],
+                    "answer": "Cross-border infiltration"
+                },
+                {
+                    "question": "Lone-wolf terrorism refers to:",
+                    "options": [
+                    "Group-based attacks",
+                    "Individual radicalized attacks",
+                    "Government operations",
+                    "Natural disasters"
+                    ],
+                    "answer": "Individual radicalized attacks"
+                },
+                {
+                    "question": "Cyber terrorism targets:",
+                    "options": [
+                    "Only farms",
+                    "Digital infrastructure and systems",
+                    "Only forests",
+                    "Only roads"
+                    ],
+                    "answer": "Digital infrastructure and systems"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Modern terrorism is increasingly:",
+                    "options": [
+                    "Traditional and localized",
+                    "Technology-driven and decentralized",
+                    "Completely state-controlled",
+                    "Non-violent"
+                    ],
+                    "answer": "Technology-driven and decentralized"
+                },
+                {
+                    "question": "One challenge in counter-terrorism is:",
+                    "options": [
+                    "Easy tracking of criminals",
+                    "Encrypted communication",
+                    "No internet use",
+                    "Strong borders everywhere"
+                    ],
+                    "answer": "Encrypted communication"
+                },
+                {
+                    "question": "NSG is primarily used for:",
+                    "options": [
+                    "Agriculture development",
+                    "Counter-terror operations",
+                    "Space missions",
+                    "Trade regulation"
+                    ],
+                    "answer": "Counter-terror operations"
+                },
+                {
+                    "question": "Social media is used in terrorism for:",
+                    "options": [
+                    "Only education",
+                    "Recruitment and propaganda",
+                    "Weather updates",
+                    "Tax filing"
+                    ],
+                    "answer": "Recruitment and propaganda"
+                },
+                {
+                    "question": "One impact of terrorism is:",
+                    "options": [
+                    "Economic growth",
+                    "Loss of investor confidence",
+                    "Improved tourism",
+                    "Better governance"
+                    ],
+                    "answer": "Loss of investor confidence"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Terrorism in India includes cyber threats\n2. Lone-wolf attacks are declining globally\n3. NIA investigates terror-related cases",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "1 and 3"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Cyber terrorism – digital infrastructure attack",
+                    "Lone wolf – group-based attack",
+                    "NSG – agriculture agency",
+                    "Terrorism – natural disaster"
+                    ],
+                    "answer": "Cyber terrorism – digital infrastructure attack"
+                },
+                {
+                    "question": "Changing face of terrorism includes:",
+                    "options": [
+                    "More centralized command structures",
+                    "Use of digital platforms and decentralization",
+                    "Elimination of technology",
+                    "No global influence"
+                    ],
+                    "answer": "Use of digital platforms and decentralization"
+                },
+                {
+                    "question": "Globalization affects terrorism by:",
+                    "options": [
+                    "Reducing communication",
+                    "Facilitating cross-border networks",
+                    "Stopping migration",
+                    "Eliminating ideology"
+                    ],
+                    "answer": "Facilitating cross-border networks"
+                },
+                {
+                    "question": "Effective counter-terrorism requires:",
+                    "options": [
+                    "Only military action",
+                    "Integrated intelligence, law enforcement, and cooperation",
+                    "Ignoring cyber threats",
+                    "Isolating countries"
+                    ],
+                    "answer": "Integrated intelligence, law enforcement, and cooperation"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Terror Threats, Counter-Terror Framework & Intelligence Drawbacks",
+        "notes": [
+            {
+                "heading": "Terror Threats Faced by India – Overview",
+                "points": [
+                    "India faces multi-dimensional terror threats due to geography, diversity, and geopolitics",
+                    "Threats originate from both external and internal sources",
+                    "Terrorism targets civilians, security forces, economic infrastructure, and symbolic institutions",
+                    "Evolving nature includes cyber, proxy, and lone-wolf attacks",
+                    "Requires continuous adaptation of security strategies"
+                ]
+            },
+            {
+                "heading": "Major Terror Threats Faced by India",
+                "points": [
+                    "Cross-border terrorism, especially in Jammu & Kashmir",
+                    "Left Wing Extremism (Maoist/Naxal violence)",
+                    "Insurgency-related terrorism in North-East India",
+                    "Urban terrorism and sleeper cells in cities",
+                    "Radicalization through online platforms",
+                    "Cyber terrorism targeting critical infrastructure",
+                    "Drug-terror nexus and organized crime linkages"
+                ]
+            },
+            {
+                "heading": "External Sources of Terror Threats",
+                "points": [
+                    "Support from hostile neighboring countries",
+                    "Training camps and safe havens across borders",
+                    "Smuggling of arms, explosives, and fake currency",
+                    "Use of proxy militant groups",
+                    "Radical ideological influence from global networks",
+                    "Maritime infiltration routes"
+                ]
+            },
+            {
+                "heading": "Internal Sources of Terror Threats",
+                "points": [
+                    "Home-grown radicalization",
+                    "Local recruitment through ideological influence",
+                    "Socio-economic grievances exploited by extremist groups",
+                    "Urban sleeper cells operating silently",
+                    "Misuse of social media and encrypted communication",
+                    "Local criminal-terror nexus"
+                ]
+            },
+            {
+                "heading": "Broader Framework to Deal with Terrorism – Overview",
+                "points": [
+                    "India adopts a multi-layered approach involving security, intelligence, legal, and diplomatic measures",
+                    "Focus is on prevention, detection, response, and rehabilitation",
+                    "Coordination between central and state agencies is critical",
+                    "International cooperation is increasingly important",
+                    "Emphasis on both hard security and soft measures like de-radicalization"
+                ]
+            },
+            {
+                "heading": "Security Framework (Hard Measures)",
+                "points": [
+                    "Deployment of specialized forces like NSG and CRPF",
+                    "Border management through fencing and surveillance",
+                    "Coastal security mechanisms with radar and patrol systems",
+                    "Counter-terror operations by state ATS and central forces",
+                    "Use of advanced technology like drones and AI-based surveillance"
+                ]
+            },
+            {
+                "heading": "Intelligence Framework",
+                "points": [
+                    "Multi Agency Centre (MAC) for intelligence sharing",
+                    "Intelligence Bureau (IB) for domestic intelligence",
+                    "Research and Analysis Wing (RAW) for external intelligence",
+                    "State Intelligence Units and Special Branches",
+                    "Fusion of data from multiple agencies for threat assessment"
+                ]
+            },
+            {
+                "heading": "Legal and Institutional Framework",
+                "points": [
+                    "Unlawful Activities (Prevention) Act (UAPA)",
+                    "National Investigation Agency (NIA) for terror cases",
+                    "Prevention of Money Laundering Act (PMLA) for terror financing",
+                    "Anti-terror provisions in Indian Penal Code (BNS framework evolving)",
+                    "Fast-track courts for terror-related cases"
+                ]
+            },
+            {
+                "heading": "Diplomatic and International Cooperation",
+                "points": [
+                    "Bilateral agreements for intelligence sharing",
+                    "Extradition treaties with multiple countries",
+                    "Participation in FATF to curb terror financing",
+                    "Cooperation with Interpol and global agencies",
+                    "Joint counter-terror exercises with friendly nations"
+                ]
+            },
+            {
+                "heading": "Soft Measures Against Terrorism",
+                "points": [
+                    "Counter-radicalization programs",
+                    "Community policing and awareness drives",
+                    "Educational and employment opportunities in vulnerable regions",
+                    "Rehabilitation of surrendered militants",
+                    "Promotion of inclusive governance"
+                ]
+            },
+            {
+                "heading": "Drawbacks in Intelligence Infrastructure – Overview",
+                "points": [
+                    "Despite improvements, India faces gaps in intelligence collection and coordination",
+                    "Failures often result in delayed or missed threat detection",
+                    "Fragmentation of intelligence agencies remains a key issue",
+                    "Rapid technological changes challenge traditional systems",
+                    "Need for modernization and real-time intelligence sharing"
+                ]
+            },
+            {
+                "heading": "Major Drawbacks in Intelligence System",
+                "points": [
+                    "Lack of coordination between agencies",
+                    "Information silos and poor data sharing",
+                    "Outdated surveillance technology in some regions",
+                    "Insufficient human intelligence (HUMINT) networks",
+                    "Overdependence on technical intelligence (TECHINT)",
+                    "Delayed response due to bureaucratic procedures"
+                ]
+            },
+            {
+                "heading": "Operational Challenges",
+                "points": [
+                    "Difficulty in tracking encrypted communication",
+                    "Limited manpower in remote and conflict areas",
+                    "Political interference in intelligence operations",
+                    "Cross-border intelligence limitations",
+                    "Fast-changing tactics of terrorist organizations"
+                ]
+            },
+            {
+                "heading": "Technological Challenges",
+                "points": [
+                    "Use of encryption and dark web by terror groups",
+                    "Drones used for surveillance and weapon delivery",
+                    "Cybersecurity gaps in critical infrastructure",
+                    "Difficulty in real-time monitoring of large data",
+                    "Need for AI-based predictive intelligence systems"
+                ]
+            },
+            {
+                "heading": "Reforms Needed in Intelligence Infrastructure",
+                "points": [
+                    "Integrated intelligence grid for real-time sharing",
+                    "Modernization of surveillance and cyber capabilities",
+                    "Strengthening HUMINT networks at grassroots level",
+                    "Greater autonomy and accountability of agencies",
+                    "Training in AI, cyber forensics, and data analytics",
+                    "Better coordination between Centre and States"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "India faces terrorism mainly due to:",
+                    "options": [
+                    "Only weather conditions",
+                    "Internal and external factors",
+                    "Only economic growth",
+                    "Only education system"
+                    ],
+                    "answer": "Internal and external factors"
+                },
+                {
+                    "question": "RAW is responsible for:",
+                    "options": [
+                    "Domestic policing",
+                    "External intelligence",
+                    "Traffic control",
+                    "Judicial decisions"
+                    ],
+                    "answer": "External intelligence"
+                },
+                {
+                    "question": "UAPA deals with:",
+                    "options": [
+                    "Agriculture laws",
+                    "Anti-terror activities",
+                    "Education policy",
+                    "Trade policy"
+                    ],
+                    "answer": "Anti-terror activities"
+                },
+                {
+                    "question": "One internal source of terrorism is:",
+                    "options": [
+                    "Home-grown radicalization",
+                    "Climate change",
+                    "Ocean currents",
+                    "Space research"
+                    ],
+                    "answer": "Home-grown radicalization"
+                },
+                {
+                    "question": "NSG is used for:",
+                    "options": [
+                    "Agriculture development",
+                    "Counter-terror operations",
+                    "Tax collection",
+                    "Education reforms"
+                    ],
+                    "answer": "Counter-terror operations"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "A major issue in intelligence is:",
+                    "options": [
+                    "Too much coordination",
+                    "Lack of coordination between agencies",
+                    "Excess manpower",
+                    "No data availability"
+                    ],
+                    "answer": "Lack of coordination between agencies"
+                },
+                {
+                    "question": "One external source of terror threat is:",
+                    "options": [
+                    "Space missions",
+                    "Cross-border support",
+                    "Weather systems",
+                    "Agriculture exports"
+                    ],
+                    "answer": "Cross-border support"
+                },
+                {
+                    "question": "Cyber terrorism involves:",
+                    "options": [
+                    "Only physical attacks",
+                    "Attacks on digital infrastructure",
+                    "Only farming systems",
+                    "Only road networks"
+                    ],
+                    "answer": "Attacks on digital infrastructure"
+                },
+                {
+                    "question": "Multi Agency Centre (MAC) is used for:",
+                    "options": [
+                    "Sports management",
+                    "Intelligence sharing",
+                    "Tax collection",
+                    "Education planning"
+                    ],
+                    "answer": "Intelligence sharing"
+                },
+                {
+                    "question": "One soft measure against terrorism is:",
+                    "options": [
+                    "Only military action",
+                    "Counter-radicalization programs",
+                    "Ignoring ideology",
+                    "Border closure only"
+                    ],
+                    "answer": "Counter-radicalization programs"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. India faces both internal and external terror threats\n2. RAW handles domestic intelligence\n3. Intelligence sharing is part of counter-terror framework",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "1 and 3"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "RAW – external intelligence",
+                    "IB – space research",
+                    "NIA – agriculture crimes",
+                    "NSG – education security"
+                    ],
+                    "answer": "RAW – external intelligence"
+                },
+                {
+                    "question": "One major drawback in intelligence system is:",
+                    "options": [
+                    "Excess automation",
+                    "Information silos",
+                    "Too much coordination",
+                    "No cyber threats"
+                    ],
+                    "answer": "Information silos"
+                },
+                {
+                    "question": "Modern terror threats are characterized by:",
+                    "options": [
+                    "Only traditional warfare",
+                    "Use of cyber tools and decentralization",
+                    "No use of technology",
+                    "State-only actors"
+                    ],
+                    "answer": "Use of cyber tools and decentralization"
+                },
+                {
+                    "question": "Effective counter-terrorism requires:",
+                    "options": [
+                    "Only border fencing",
+                    "Integrated intelligence and multi-layered response",
+                    "Ignoring cyber threats",
+                    "Reducing coordination"
+                    ],
+                    "answer": "Integrated intelligence and multi-layered response"
+                }
+            ]
+        }
+    }
+]

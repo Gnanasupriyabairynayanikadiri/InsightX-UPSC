@@ -1,0 +1,509 @@
+[
+    {
+        "name": "International Cooperation & Global Frameworks for DRR",
+        "notes": [
+            {
+                "heading": "International Cooperation in Disaster Management",
+                "points": [
+                    "Disasters often transcend national boundaries and require global cooperation",
+                    "Countries share knowledge, technology, and resources for disaster risk reduction (DRR)",
+                    "International cooperation helps in early warning systems and emergency response",
+                    "Developed countries support developing countries through funding and capacity building",
+                    "Global institutions coordinate disaster preparedness and recovery efforts"
+                ]
+            },
+            {
+                "heading": "Need for International Cooperation",
+                "points": [
+                    "Increasing frequency and intensity of climate-related disasters",
+                    "Transboundary nature of disasters like tsunamis and cyclones",
+                    "Resource and technology gaps in developing countries",
+                    "Need for coordinated early warning systems",
+                    "Global climate change impacts all nations collectively"
+                ]
+            },
+            {
+                "heading": "United Nations and Disaster Risk Reduction",
+                "points": [
+                    "United Nations plays a central role in global disaster management",
+                    "UNDRR (United Nations Office for Disaster Risk Reduction) coordinates DRR efforts",
+                    "Focus on reducing disaster losses globally",
+                    "Promotes international frameworks and agreements",
+                    "Encourages resilience-building in member countries"
+                ]
+            },
+            {
+                "heading": "Hyogo Framework for Action (2005–2015)",
+                "points": [
+                    "First major global framework for disaster risk reduction",
+                    "Adopted in Kobe, Japan in 2005",
+                    "Aim: Build resilience of nations and communities to disasters",
+                    "Focused on risk identification, preparedness, and capacity building",
+                    "Laid foundation for modern DRR strategies"
+                ]
+            },
+            {
+                "heading": "Sendai Framework for Disaster Risk Reduction (2015–2030)",
+                "points": [
+                    "Adopted in Sendai, Japan in 2015",
+                    "Successor to Hyogo Framework",
+                    "Focus on reducing disaster risk rather than managing disasters",
+                    "Four priorities: understanding risk, strengthening governance, investing in DRR, enhancing preparedness",
+                    "Aims to reduce disaster mortality, affected people, and economic losses"
+                ]
+            },
+            {
+                "heading": "Key Features of Sendai Framework",
+                "points": [
+                    "People-centered approach to disaster risk reduction",
+                    "Emphasis on risk-informed development planning",
+                    "Strong focus on early warning systems",
+                    "Integration of climate change adaptation and DRR",
+                    "Encourages international cooperation and technology sharing"
+                ]
+            },
+            {
+                "heading": "Sustainable Development Goals (SDGs) and DRR",
+                "points": [
+                    "DRR is integrated into SDGs, especially Goal 11 (Sustainable Cities and Communities)",
+                    "Focus on making cities inclusive, safe, and resilient",
+                    "Link between poverty reduction and disaster resilience",
+                    "Climate action (Goal 13) directly connected with DRR",
+                    "Promotes sustainable and risk-informed development"
+                ]
+            },
+            {
+                "heading": "Other Global Initiatives",
+                "points": [
+                    "UN Climate Change Framework (UNFCCC) – addresses climate-related disasters",
+                    "Paris Agreement – focuses on climate change mitigation and adaptation",
+                    "International Strategy for Disaster Reduction (ISDR)",
+                    "World Bank funding for disaster resilience projects",
+                    "Red Cross and Red Crescent Movement – humanitarian response"
+                ]
+            },
+            {
+                "heading": "Current Developments in Disaster Management",
+                "points": [
+                    "Increased focus on climate-resilient infrastructure",
+                    "Use of satellite technology and AI for early warning systems",
+                    "Community-based disaster risk reduction programs",
+                    "Strengthening of global early warning systems (UN initiatives)",
+                    "Integration of digital technology in disaster response"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Sendai Framework was adopted in:",
+                    "options": [
+                        "2005",
+                        "2010",
+                        "2015",
+                        "2020"
+                    ],
+                    "answer": "2015"
+                },
+                {
+                    "question": "Hyogo Framework was adopted in:",
+                    "options": [
+                        "2001",
+                        "2005",
+                        "2010",
+                        "2015"
+                    ],
+                    "answer": "2005"
+                },
+                {
+                    "question": "UNDRR stands for:",
+                    "options": [
+                        "United Nations Disaster Relief Resource",
+                        "United Nations Office for Disaster Risk Reduction",
+                        "Universal Network for Disaster Response",
+                        "United Nations Development Risk Registry"
+                    ],
+                    "answer": "United Nations Office for Disaster Risk Reduction"
+                },
+                {
+                    "question": "Sendai Framework is valid till:",
+                    "options": [
+                        "2025",
+                        "2030",
+                        "2040",
+                        "2050"
+                    ],
+                    "answer": "2030"
+                },
+                {
+                    "question": "DRR means:",
+                    "options": [
+                        "Disaster Relief Response",
+                        "Disaster Risk Reduction",
+                        "Development Risk Regulation",
+                        "Damage Recovery Response"
+                    ],
+                    "answer": "Disaster Risk Reduction"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Main focus of Sendai Framework is:",
+                    "options": [
+                        "Disaster relief only",
+                        "Risk reduction",
+                        "Military response",
+                        "Urban planning only"
+                    ],
+                    "answer": "Risk reduction"
+                },
+                {
+                    "question": "Hyogo Framework was succeeded by:",
+                    "options": [
+                        "Paris Agreement",
+                        "Sendai Framework",
+                        "Kyoto Protocol",
+                        "Agenda 21"
+                    ],
+                    "answer": "Sendai Framework"
+                },
+                {
+                    "question": "Which SDG is linked with disaster resilience?",
+                    "options": [
+                        "SDG 1",
+                        "SDG 11",
+                        "SDG 5",
+                        "SDG 2"
+                    ],
+                    "answer": "SDG 11"
+                },
+                {
+                    "question": "Early warning systems are part of:",
+                    "options": [
+                        "Only recovery",
+                        "Preparedness and mitigation",
+                        "Only relief",
+                        "Only reconstruction"
+                    ],
+                    "answer": "Preparedness and mitigation"
+                },
+                {
+                    "question": "UNDRR works under:",
+                    "options": [
+                        "World Bank",
+                        "United Nations",
+                        "IMF",
+                        "WHO only"
+                    ],
+                    "answer": "United Nations"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Sendai Framework focuses on risk reduction\n2. Hyogo Framework came after Sendai\n3. DRR is part of SDGs",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "1 and 3"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                        "Hyogo – 2005–2015",
+                        "Sendai – 2000–2010",
+                        "UNDRR – military agency",
+                        "SDG 11 – climate change only"
+                    ],
+                    "answer": "Hyogo – 2005–2015"
+                },
+                {
+                    "question": "Sendai Framework emphasizes:",
+                    "options": [
+                        "Disaster relief only",
+                        "Risk-informed development",
+                        "War preparedness",
+                        "Industrial expansion"
+                    ],
+                    "answer": "Risk-informed development"
+                },
+                {
+                    "question": "Which is NOT a global DRR initiative?",
+                    "options": [
+                        "Hyogo Framework",
+                        "Sendai Framework",
+                        "Paris Agreement",
+                        "Bretton Woods Agreement"
+                    ],
+                    "answer": "Bretton Woods Agreement"
+                },
+                {
+                    "question": "International cooperation in disaster management helps in:",
+                    "options": [
+                        "Increasing vulnerability",
+                        "Reducing risk through shared resources",
+                        "Ignoring disasters",
+                        "Limiting technology use"
+                    ],
+                    "answer": "Reducing risk through shared resources"
+                }
+            ]
+        }
+    },
+    {
+        "name": "International Partnerships, India’s Leadership & Bilateral Cooperation",
+        "notes": [
+            {
+                "heading": "Partnerships with International Agencies – Overview",
+                "points": [
+                    "India actively collaborates with international organizations for disaster risk reduction and response",
+                    "These partnerships focus on capacity building, technology transfer, and early warning systems",
+                    "Global cooperation helps India manage large-scale disasters more effectively",
+                    "Coordination occurs through UN bodies, regional platforms, and financial institutions",
+                    "Emphasis is on building resilience and sharing best practices"
+                ]
+            },
+            {
+                "heading": "Major International Agencies Involved",
+                "points": [
+                    "UNDRR (United Nations Office for Disaster Risk Reduction) – global DRR coordination",
+                    "UNDP (United Nations Development Programme) – capacity building and governance support",
+                    "UNOCHA (UN Office for Coordination of Humanitarian Affairs) – emergency response coordination",
+                    "World Bank – funding disaster resilience and recovery projects",
+                    "Asian Development Bank (ADB) – infrastructure and disaster risk financing",
+                    "International Red Cross and Red Crescent Movement – humanitarian relief operations"
+                ]
+            },
+            {
+                "heading": "Areas of Cooperation with International Agencies",
+                "points": [
+                    "Early warning systems for cyclones, floods, and tsunamis",
+                    "Climate change adaptation and mitigation strategies",
+                    "Training of disaster response teams",
+                    "Development of resilient infrastructure",
+                    "Disaster risk financing and insurance mechanisms"
+                ]
+            },
+            {
+                "heading": "India’s Leadership Initiatives in Disaster Management",
+                "points": [
+                    "India plays a proactive role in global disaster risk reduction platforms",
+                    "Initiated the Coalition for Disaster Resilient Infrastructure (CDRI)",
+                    "Promotes South-South cooperation in disaster management",
+                    "Hosts training programs for neighboring countries",
+                    "Provides rapid humanitarian assistance during regional disasters"
+                ]
+            },
+            {
+                "heading": "Coalition for Disaster Resilient Infrastructure (CDRI)",
+                "points": [
+                    "Launched by India in 2019",
+                    "A global partnership of countries and organizations",
+                    "Focuses on making infrastructure resilient to climate and disaster risks",
+                    "Works on knowledge sharing, technical support, and capacity building",
+                    "Supports sustainable development goals through resilient infrastructure"
+                ]
+            },
+            {
+                "heading": "India’s Role in Regional Cooperation",
+                "points": [
+                    "Active member of SAARC Disaster Management Centre initiatives",
+                    "Cooperation with BIMSTEC for disaster preparedness",
+                    "Indian Ocean Rim Association (IORA) focuses on maritime disaster response",
+                    "India provides cyclone warnings to neighboring countries",
+                    "Assistance during earthquakes, floods, and tsunamis in the region"
+                ]
+            },
+            {
+                "heading": "Bilateral Agreements with Countries",
+                "points": [
+                    "India signs MoUs for disaster management cooperation with various countries",
+                    "Focus on knowledge exchange and joint training programs",
+                    "Assistance in emergency response and relief operations",
+                    "Technology sharing in satellite-based monitoring and forecasting",
+                    "Mutual support during large-scale disasters"
+                ]
+            },
+            {
+                "heading": "Examples of Bilateral Cooperation",
+                "points": [
+                    "India–Japan cooperation in earthquake and tsunami preparedness",
+                    "India–USA collaboration on climate resilience and disaster response",
+                    "India–Australia cooperation on cyclone forecasting and maritime safety",
+                    "India–France partnership on climate and environmental risk reduction",
+                    "India–Nepal and India–Bhutan cooperation in Himalayan disaster management"
+                ]
+            },
+            {
+                "heading": "Significance of International Partnerships",
+                "points": [
+                    "Improves disaster preparedness and response capacity",
+                    "Enhances access to advanced technology and forecasting systems",
+                    "Strengthens regional and global coordination",
+                    "Reduces loss of lives and economic damage",
+                    "Supports sustainable and resilient development"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "CDRI stands for:",
+                    "options": [
+                        "Coalition for Disaster Relief Infrastructure",
+                        "Coalition for Disaster Resilient Infrastructure",
+                        "Centre for Disaster Risk Institute",
+                        "Committee for Disaster Response India"
+                    ],
+                    "answer": "Coalition for Disaster Resilient Infrastructure"
+                },
+                {
+                    "question": "Which UN body focuses on disaster risk reduction?",
+                    "options": [
+                        "UNESCO",
+                        "UNDRR",
+                        "WHO",
+                        "IMF"
+                    ],
+                    "answer": "UNDRR"
+                },
+                {
+                    "question": "UNOCHA is related to:",
+                    "options": [
+                        "Trade policy",
+                        "Humanitarian coordination",
+                        "Military operations",
+                        "Climate finance"
+                    ],
+                    "answer": "Humanitarian coordination"
+                },
+                {
+                    "question": "CDRI was launched in:",
+                    "options": [
+                        "2015",
+                        "2018",
+                        "2019",
+                        "2021"
+                    ],
+                    "answer": "2019"
+                },
+                {
+                    "question": "India shares cyclone warnings with:",
+                    "options": [
+                        "Only USA",
+                        "Neighboring countries",
+                        "Only Europe",
+                        "No country"
+                    ],
+                    "answer": "Neighboring countries"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "World Bank role in disaster management is mainly:",
+                    "options": [
+                        "Military support",
+                        "Funding resilience projects",
+                        "Space research",
+                        "Trade regulation"
+                    ],
+                    "answer": "Funding resilience projects"
+                },
+                {
+                    "question": "SAARC Disaster Management Centre focuses on:",
+                    "options": [
+                        "Economic trade",
+                        "Regional disaster cooperation",
+                        "Military alliances",
+                        "Agriculture exports"
+                    ],
+                    "answer": "Regional disaster cooperation"
+                },
+                {
+                    "question": "India–Japan cooperation mainly focuses on:",
+                    "options": [
+                        "Cybersecurity",
+                        "Earthquake and tsunami preparedness",
+                        "Oil trade",
+                        "Space exploration only"
+                    ],
+                    "answer": "Earthquake and tsunami preparedness"
+                },
+                {
+                    "question": "Bilateral agreements in disaster management help in:",
+                    "options": [
+                        "Increasing risk",
+                        "Technology sharing and cooperation",
+                        "Reducing awareness",
+                        "Limiting coordination"
+                    ],
+                    "answer": "Technology sharing and cooperation"
+                },
+                {
+                    "question": "IORA is related to:",
+                    "options": [
+                        "Landlocked countries",
+                        "Indian Ocean maritime cooperation",
+                        "Mountain ecology",
+                        "Arctic region"
+                    ],
+                    "answer": "Indian Ocean maritime cooperation"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. CDRI is an India-led global initiative\n2. UNDRR coordinates global disaster risk reduction\n3. Bilateral cooperation includes only financial aid",
+                    "options": [
+                        "1 and 2",
+                        "2 and 3",
+                        "1 and 3",
+                        "All"
+                    ],
+                    "answer": "1 and 2"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                        "UNDRR – disaster risk reduction",
+                        "UNOCHA – trade regulation",
+                        "World Bank – military coordination",
+                        "CDRI – climate taxation"
+                    ],
+                    "answer": "UNDRR – disaster risk reduction"
+                },
+                {
+                    "question": "India’s leadership in disaster management is shown through:",
+                    "options": [
+                        "Isolation from global systems",
+                        "CDRI and regional cooperation",
+                        "Only domestic policies",
+                        "No international engagement"
+                    ],
+                    "answer": "CDRI and regional cooperation"
+                },
+                {
+                    "question": "Which is NOT a disaster management partner organization?",
+                    "options": [
+                        "UNDP",
+                        "World Bank",
+                        "UNDRR",
+                        "WTO"
+                    ],
+                    "answer": "WTO"
+                },
+                {
+                    "question": "Bilateral agreements in disaster management mainly aim at:",
+                    "options": [
+                        "Trade restrictions",
+                        "Joint preparedness and response",
+                        "Military expansion",
+                        "Tax coordination"
+                    ],
+                    "answer": "Joint preparedness and response"
+                }
+            ]
+        }
+    }
+]

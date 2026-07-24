@@ -1,0 +1,4580 @@
+TOPICS = [
+    {
+        "name": "Agents and their Impacts (Wind & Running Water)",
+        "notes": [
+            {
+                "heading": "Geomorphic Agents – Overview",
+                "points": [
+                    "Agents like wind and running water shape landforms",
+                    "Operate through erosion, transportation, deposition",
+                    "Impact depends on climate, slope, and rock type",
+                    "Running water is the most dominant agent",
+                    "Wind is dominant in arid regions"
+                ]
+            },
+            {
+                "heading": "Running Water – Overview",
+                "points": [
+                    "Most powerful geomorphic agent",
+                    "Acts through rivers and streams",
+                    "Operates in all climatic regions",
+                    "Shapes major landforms on Earth",
+                    "Works through erosion, transport, deposition"
+                ]
+            },
+            {
+                "heading": "Erosional Landforms by Running Water",
+                "points": [
+                    "V-shaped valleys",
+                    "Gorges and canyons",
+                    "Waterfalls",
+                    "Potholes",
+                    "Dominant in upper course"
+                ]
+            },
+            {
+                "heading": "Depositional Landforms by Running Water",
+                "points": [
+                    "Floodplains",
+                    "Deltas",
+                    "Alluvial fans",
+                    "Natural levees",
+                    "Dominant in lower course"
+                ]
+            },
+            {
+                "heading": "Impact of Running Water",
+                "points": [
+                    "Shapes valleys and plains",
+                    "Forms fertile alluvial soil",
+                    "Causes floods and erosion",
+                    "Important for agriculture and settlement",
+                    "Controls drainage patterns"
+                ]
+            },
+            {
+                "heading": "Wind – Overview",
+                "points": [
+                    "Important agent in arid and semi-arid regions",
+                    "Works where vegetation is sparse",
+                    "Carries fine particles like sand and dust",
+                    "Less powerful than water",
+                    "Important in desert geomorphology"
+                ]
+            },
+            {
+                "heading": "Erosional Landforms by Wind",
+                "points": [
+                    "Deflation hollows",
+                    "Yardangs",
+                    "Mushroom rocks",
+                    "Rock pedestals",
+                    "Formed by abrasion and deflation"
+                ]
+            },
+            {
+                "heading": "Depositional Landforms by Wind",
+                "points": [
+                    "Sand dunes (barchans, longitudinal)",
+                    "Loess deposits",
+                    "Sand sheets",
+                    "Ripple marks",
+                    "Important desert features"
+                ]
+            },
+            {
+                "heading": "Impact of Wind",
+                "points": [
+                    "Causes desertification",
+                    "Shapes desert landscapes",
+                    "Transports dust over long distances",
+                    "Can affect agriculture",
+                    "Creates unique landforms"
+                ]
+            },
+            {
+                "heading": "Comparison: Wind vs Running Water",
+                "points": [
+                    "Water is more powerful than wind",
+                    "Water acts in all climates, wind mainly in deserts",
+                    "Water carries all sizes of sediments, wind mainly fine particles",
+                    "Water forms large-scale landforms",
+                    "Wind forms smaller but distinct features"
+                ]
+            }
+        ],
+
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Most dominant agent is:",
+                    "options": [
+                    "Wind",
+                    "River",
+                    "Ice",
+                    "Sun"
+                    ],
+                    "answer": "River"
+                },
+                {
+                    "question": "Wind is active in:",
+                    "options": [
+                    "Forests",
+                    "Deserts",
+                    "Mountains",
+                    "Oceans"
+                    ],
+                    "answer": "Deserts"
+                },
+                {
+                    "question": "River forms:",
+                    "options": [
+                    "Dunes",
+                    "Valleys",
+                    "Loess",
+                    "Yardangs"
+                    ],
+                    "answer": "Valleys"
+                },
+                {
+                    "question": "Wind forms:",
+                    "options": [
+                    "Floodplains",
+                    "Dunes",
+                    "Deltas",
+                    "Levees"
+                    ],
+                    "answer": "Dunes"
+                },
+                {
+                    "question": "Loess is deposited by:",
+                    "options": [
+                    "Water",
+                    "Wind",
+                    "Ice",
+                    "Fire"
+                    ],
+                    "answer": "Wind"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Upper river course shows:",
+                    "options": [
+                    "Deposition",
+                    "Erosion",
+                    "Cooling",
+                    "Heating"
+                    ],
+                    "answer": "Erosion"
+                },
+                {
+                    "question": "Lower river course shows:",
+                    "options": [
+                    "Erosion",
+                    "Deposition",
+                    "Heating",
+                    "Cooling"
+                    ],
+                    "answer": "Deposition"
+                },
+                {
+                    "question": "Yardangs are formed by:",
+                    "options": [
+                    "Water",
+                    "Wind",
+                    "Ice",
+                    "Fire"
+                    ],
+                    "answer": "Wind"
+                },
+                {
+                    "question": "Floodplains are formed by:",
+                    "options": [
+                    "Wind",
+                    "River",
+                    "Ice",
+                    "Sun"
+                    ],
+                    "answer": "River"
+                },
+                {
+                    "question": "Wind carries:",
+                    "options": [
+                    "Large rocks",
+                    "Fine particles",
+                    "Mountains",
+                    "Oceans"
+                    ],
+                    "answer": "Fine particles"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Rivers form deltas\n2. Wind forms dunes\n3. Water is more powerful than wind",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "All"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "River – Floodplain",
+                    "Wind – Delta",
+                    "Wind – Valley",
+                    "River – Dune"
+                    ],
+                    "answer": "River – Floodplain"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                    "Wind is strongest agent",
+                    "Water acts only in deserts",
+                    "Rivers shape major landforms",
+                    "Wind carries large rocks"
+                    ],
+                    "answer": "Rivers shape major landforms"
+                },
+                {
+                    "question": "Desert landforms mainly formed by:",
+                    "options": [
+                    "Water",
+                    "Wind",
+                    "Ice",
+                    "Rain"
+                    ],
+                    "answer": "Wind"
+                },
+                {
+                    "question": "Most fertile soils formed by:",
+                    "options": [
+                    "Wind",
+                    "River",
+                    "Ice",
+                    "Fire"
+                    ],
+                    "answer": "River"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Agents and their Impacts (Groundwater, Glaciers, Waves & Currents)",
+        "notes": [
+            {
+                "heading": "Geomorphic Agents – Extended Overview",
+                "points": [
+                    "Groundwater, glaciers, waves and currents are important geomorphic agents",
+                    "Operate through erosion, transportation and deposition",
+                    "Each agent is dominant in specific environments",
+                    "Shape distinct landforms"
+                ]
+            },
+            {
+                "heading": "Groundwater – Overview",
+                "points": [
+                    "Acts below Earth’s surface",
+                    "Important in limestone regions",
+                    "Works mainly through chemical dissolution",
+                    "Forms karst topography",
+                    "Slow but effective agent"
+                ]
+            },
+            {
+                "heading": "Erosional Landforms by Groundwater",
+                "points": [
+                    "Sinkholes (dolines)",
+                    "Caves and caverns",
+                    "Swallow holes",
+                    "Underground drainage systems",
+                    "Formed due to solution process"
+                ]
+            },
+            {
+                "heading": "Depositional Landforms by Groundwater",
+                "points": [
+                    "Stalactites (hanging from cave roof)",
+                    "Stalagmites (rising from floor)",
+                    "Pillars (when both join)",
+                    "Travertine deposits",
+                    "Important karst features"
+                ]
+            },
+            {
+                "heading": "Impact of Groundwater",
+                "points": [
+                    "Creates underground landscapes",
+                    "Affects water supply",
+                    "Causes land subsidence",
+                    "Important for agriculture",
+                    "Forms unique karst regions"
+                ]
+            },
+            {
+                "heading": "Glaciers – Overview",
+                "points": [
+                    "Masses of moving ice",
+                    "Dominant in polar and high mountain regions",
+                    "Powerful erosional agents",
+                    "Move slowly under gravity",
+                    "Shape cold region landscapes"
+                ]
+            },
+            {
+                "heading": "Erosional Landforms by Glaciers",
+                "points": [
+                    "U-shaped valleys",
+                    "Cirques",
+                    "Aretes",
+                    "Horns (sharp peaks)",
+                    "Strong erosional impact"
+                ]
+            },
+            {
+                "heading": "Depositional Landforms by Glaciers",
+                "points": [
+                    "Moraines (lateral, terminal, ground)",
+                    "Drumlins",
+                    "Eskers",
+                    "Outwash plains",
+                    "Important glacial features"
+                ]
+            },
+            {
+                "heading": "Impact of Glaciers",
+                "points": [
+                    "Carve landscapes in mountains",
+                    "Store freshwater",
+                    "Cause glacial erosion",
+                    "Influence sea levels",
+                    "Important in climate studies"
+                ]
+            },
+            {
+                "heading": "Waves & Currents – Overview",
+                "points": [
+                    "Important coastal geomorphic agents",
+                    "Driven by wind and ocean currents",
+                    "Cause erosion and deposition along coasts",
+                    "Continuously reshape coastlines"
+                ]
+            },
+            {
+                "heading": "Erosional Landforms by Waves",
+                "points": [
+                    "Sea cliffs",
+                    "Sea caves",
+                    "Sea arches",
+                    "Stacks",
+                    "Formed by wave erosion"
+                ]
+            },
+            {
+                "heading": "Depositional Landforms by Waves",
+                "points": [
+                    "Beaches",
+                    "Spits",
+                    "Bars",
+                    "Lagoons",
+                    "Important coastal features"
+                ]
+            },
+            {
+                "heading": "Impact of Waves & Currents",
+                "points": [
+                    "Shape coastal landforms",
+                    "Cause coastal erosion",
+                    "Influence marine ecosystems",
+                    "Affect human settlements",
+                    "Important for coastal management"
+                ]
+            }
+        ],
+
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Groundwater forms:",
+                    "options": [
+                    "Mountains",
+                    "Caves",
+                    "Deserts",
+                    "Oceans"
+                    ],
+                    "answer": "Caves"
+                },
+                {
+                    "question": "Glaciers are:",
+                    "options": [
+                    "Water",
+                    "Ice masses",
+                    "Wind",
+                    "Fire"
+                    ],
+                    "answer": "Ice masses"
+                },
+                {
+                    "question": "Waves act in:",
+                    "options": [
+                    "Deserts",
+                    "Coasts",
+                    "Mountains",
+                    "Forests"
+                    ],
+                    "answer": "Coasts"
+                },
+                {
+                    "question": "Stalactites hang from:",
+                    "options": [
+                    "Floor",
+                    "Roof",
+                    "Wall",
+                    "Ground"
+                    ],
+                    "answer": "Roof"
+                },
+                {
+                    "question": "Moraines are formed by:",
+                    "options": [
+                    "Wind",
+                    "River",
+                    "Glacier",
+                    "Sun"
+                    ],
+                    "answer": "Glacier"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "U-shaped valleys formed by:",
+                    "options": [
+                    "River",
+                    "Wind",
+                    "Glacier",
+                    "Wave"
+                    ],
+                    "answer": "Glacier"
+                },
+                {
+                    "question": "Sea arches are formed by:",
+                    "options": [
+                    "Wind",
+                    "Water waves",
+                    "Ice",
+                    "Heat"
+                    ],
+                    "answer": "Water waves"
+                },
+                {
+                    "question": "Karst topography is formed by:",
+                    "options": [
+                    "Wind",
+                    "Groundwater",
+                    "Ice",
+                    "Fire"
+                    ],
+                    "answer": "Groundwater"
+                },
+                {
+                    "question": "Spits are formed by:",
+                    "options": [
+                    "River",
+                    "Wind",
+                    "Waves",
+                    "Ice"
+                    ],
+                    "answer": "Waves"
+                },
+                {
+                    "question": "Cirques are formed by:",
+                    "options": [
+                    "River",
+                    "Glacier",
+                    "Wind",
+                    "Wave"
+                    ],
+                    "answer": "Glacier"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Groundwater forms caves\n2. Glaciers form moraines\n3. Waves form beaches",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "All"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Glacier – U-shaped valley",
+                    "River – Drumlin",
+                    "Wind – Cave",
+                    "Wave – Moraine"
+                    ],
+                    "answer": "Glacier – U-shaped valley"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                    "Groundwater acts mechanically",
+                    "Glaciers are weak agents",
+                    "Waves shape coasts",
+                    "No deposition occurs"
+                    ],
+                    "answer": "Waves shape coasts"
+                },
+                {
+                    "question": "Karst features include:",
+                    "options": [
+                    "Dunes",
+                    "Caves",
+                    "Moraines",
+                    "Cliffs"
+                    ],
+                    "answer": "Caves"
+                },
+                {
+                    "question": "Strongest cold region agent:",
+                    "options": [
+                    "Wind",
+                    "River",
+                    "Glacier",
+                    "Sun"
+                    ],
+                    "answer": "Glacier"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Winds as Agents in Hot Deserts (Deflation, Abrasion, Impact & Erosional Landforms)",
+        "notes": [
+            {
+                "heading": "Wind as a Geomorphic Agent (Hot Deserts)",
+                "points": [
+                    "Wind is the dominant geomorphic agent in hot desert regions",
+                    "Works effectively where vegetation is sparse",
+                    "Transports fine sand and dust particles",
+                    "Causes both erosion and deposition",
+                    "Important in desert landscape formation"
+                ]
+            },
+            {
+                "heading": "Conditions for Wind Action",
+                "points": [
+                    "Arid and semi-arid climate",
+                    "Loose, dry and fine sediments",
+                    "Sparse vegetation cover",
+                    "High wind velocity",
+                    "Large temperature variations"
+                ]
+            },
+            {
+                "heading": "Processes of Wind Erosion – Overview",
+                "points": [
+                    "Wind erodes surface through three main processes",
+                    "Deflation, abrasion and impact",
+                    "Responsible for shaping desert landforms",
+                    "Operate together",
+                    "Highly important UPSC concept"
+                ]
+            },
+            {
+                "heading": "Deflation",
+                "points": [
+                    "Removal of loose particles by wind",
+                    "Leaves behind coarse materials",
+                    "Lowers land surface",
+                    "Creates deflation hollows",
+                    "Important desert process"
+                ]
+            },
+            {
+                "heading": "Abrasion",
+                "points": [
+                    "Sand particles strike rock surfaces",
+                    "Acts like sandblasting",
+                    "Polishes and erodes rocks",
+                    "Forms grooves and smooth surfaces",
+                    "Strong erosional process"
+                ]
+            },
+            {
+                "heading": "Impact (Attrition)",
+                "points": [
+                    "Particles collide with each other",
+                    "Break into smaller fragments",
+                    "Leads to finer sediments",
+                    "Supports further transport",
+                    "Continuous process"
+                ]
+            },
+            {
+                "heading": "Erosional Landforms – Overview",
+                "points": [
+                    "Formed mainly by deflation and abrasion",
+                    "Characteristic of desert landscapes",
+                    "Unique shapes due to wind action",
+                    "Important for UPSC mapping",
+                    "Include pediments, playas, rocks"
+                ]
+            },
+            {
+                "heading": "Pediments and Pediplains",
+                "points": [
+                    "Pediment – gently sloping rock surface at mountain base",
+                    "Formed by erosion and retreat of slopes",
+                    "Pediplain – large plain formed by merging pediments",
+                    "Common in desert regions"
+                ]
+            },
+            {
+                "heading": "Playas",
+                "points": [
+                    "Shallow depressions in deserts",
+                    "Occasionally filled with water",
+                    "Dry lake beds most of the time",
+                    "Salty deposits may accumulate",
+                    "Also called inland basins"
+                ]
+            },
+            {
+                "heading": "Deflation Hollows and Caves",
+                "points": [
+                    "Depressions formed by removal of sand",
+                    "May go below sea level",
+                    "Wind erosion enlarges cavities",
+                    "Can form small caves",
+                    "Important desert features"
+                ]
+            },
+            {
+                "heading": "Mushroom, Table & Pedestal Rocks",
+                "points": [
+                    "Formed by differential erosion",
+                    "Lower part erodes faster due to sand impact",
+                    "Creates mushroom or pedestal shape",
+                    "Table rocks have flat tops",
+                    "Classic desert landforms"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Wind is dominant in:",
+                    "options": [
+                    "Forests",
+                    "Deserts",
+                    "Mountains",
+                    "Oceans"
+                    ],
+                    "answer": "Deserts"
+                },
+                {
+                    "question": "Deflation means:",
+                    "options": [
+                    "Deposition",
+                    "Removal of particles",
+                    "Heating",
+                    "Cooling"
+                    ],
+                    "answer": "Removal of particles"
+                },
+                {
+                    "question": "Abrasion is:",
+                    "options": [
+                    "Scraping action",
+                    "Cooling",
+                    "Heating",
+                    "Deposition"
+                    ],
+                    "answer": "Scraping action"
+                },
+                {
+                    "question": "Playas are:",
+                    "options": [
+                    "Mountains",
+                    "Dry lake beds",
+                    "Forests",
+                    "Rivers"
+                    ],
+                    "answer": "Dry lake beds"
+                },
+                {
+                    "question": "Mushroom rocks are formed by:",
+                    "options": [
+                    "Water",
+                    "Wind",
+                    "Ice",
+                    "Fire"
+                    ],
+                    "answer": "Wind"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Pediment is:",
+                    "options": [
+                    "Steep slope",
+                    "Gentle slope at mountain base",
+                    "River valley",
+                    "Lake"
+                    ],
+                    "answer": "Gentle slope at mountain base"
+                },
+                {
+                    "question": "Pediplain is:",
+                    "options": [
+                    "Single pediment",
+                    "Merged pediments",
+                    "Mountain",
+                    "Lake"
+                    ],
+                    "answer": "Merged pediments"
+                },
+                {
+                    "question": "Deflation hollows are:",
+                    "options": [
+                    "Raised areas",
+                    "Depressions",
+                    "Mountains",
+                    "Rivers"
+                    ],
+                    "answer": "Depressions"
+                },
+                {
+                    "question": "Impact process involves:",
+                    "options": [
+                    "Breaking particles",
+                    "Heating",
+                    "Cooling",
+                    "Building land"
+                    ],
+                    "answer": "Breaking particles"
+                },
+                {
+                    "question": "Abrasion acts like:",
+                    "options": [
+                    "Water flow",
+                    "Sandblasting",
+                    "Cooling",
+                    "Heating"
+                    ],
+                    "answer": "Sandblasting"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Deflation removes particles\n2. Abrasion polishes rocks\n3. Playas are dry lakes",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "All"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Pediplain – merged pediments",
+                    "Playas – mountains",
+                    "Deflation – deposition",
+                    "Abrasion – cooling"
+                    ],
+                    "answer": "Pediplain – merged pediments"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                    "Wind acts strongly in forests",
+                    "Deserts lack wind action",
+                    "Wind shapes desert landforms",
+                    "No erosion occurs in deserts"
+                    ],
+                    "answer": "Wind shapes desert landforms"
+                },
+                {
+                    "question": "Mushroom rocks formed due to:",
+                    "options": [
+                    "Uniform erosion",
+                    "Differential erosion",
+                    "Deposition",
+                    "Cooling"
+                    ],
+                    "answer": "Differential erosion"
+                },
+                {
+                    "question": "Main wind erosion processes:",
+                    "options": [
+                    "Deflation, abrasion, impact",
+                    "Cooling, heating",
+                    "Rainfall",
+                    "Glaciation"
+                    ],
+                    "answer": "Deflation, abrasion, impact"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Wind Depositional Landforms (Sand Dunes Types)",
+        "notes": [
+            {
+                "heading": "Wind Depositional Landforms – Overview",
+                "points": [
+                    "Formed when wind loses energy and deposits sand",
+                    "Common in deserts and semi-arid regions",
+                    "Main landforms: sand dunes",
+                    "Shape depends on wind direction and sand supply"
+                ]
+            },
+            {
+                "heading": "Barchans (Crescent Dunes)",
+                "points": [
+                    "Crescent-shaped sand dunes",
+                    "Form in areas with limited sand supply",
+                    "Single prevailing wind direction",
+                    "Horn-shaped ends point in wind direction",
+                    "Highly mobile dunes"
+                ]
+            },
+            {
+                "heading": "Seif Dunes (Longitudinal Dunes)",
+                "points": [
+                    "Long, narrow ridges of sand",
+                    "Form parallel to prevailing wind direction",
+                    "Develop in areas with two wind directions",
+                    "Crest is sharp and continuous",
+                    "Common in large deserts"
+                ]
+            },
+            {
+                "heading": "Parabolic Dunes",
+                "points": [
+                    "U-shaped dunes",
+                    "Horns point opposite to wind direction",
+                    "Anchored by vegetation",
+                    "Common in coastal deserts",
+                    "More stable than barchans"
+                ]
+            },
+            {
+                "heading": "Transverse Dunes",
+                "points": [
+                    "Ridges of sand perpendicular to wind direction",
+                    "Form in areas with abundant sand",
+                    "Single dominant wind direction",
+                    "Look like wave-like ridges",
+                    "Less mobile than barchans"
+                ]
+            },
+            {
+                "heading": "Longitudinal Dunes",
+                "points": [
+                    "Same as seif dunes",
+                    "Form parallel to wind direction",
+                    "Require strong, steady winds",
+                    "Alternating wind directions may occur",
+                    "Common in Sahara desert"
+                ]
+            },
+            {
+                "heading": "Factors Controlling Dune Formation",
+                "points": [
+                    "Wind direction and speed",
+                    "Availability of sand",
+                    "Vegetation cover",
+                    "Topography of region",
+                    "Climate conditions"
+                ]
+            },
+            {
+                "heading": "Comparison of Dune Types",
+                "points": [
+                    "Barchan → single wind + low sand",
+                    "Seif → bidirectional winds",
+                    "Parabolic → vegetation anchored",
+                    "Transverse → abundant sand + single wind",
+                    "Each type reflects wind regime"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Barchan dunes are:",
+                    "options": [
+                    "Linear",
+                    "Crescent-shaped",
+                    "Circular",
+                    "Flat"
+                    ],
+                    "answer": "Crescent-shaped"
+                },
+                {
+                    "question": "Seif dunes are also called:",
+                    "options": [
+                    "Transverse dunes",
+                    "Longitudinal dunes",
+                    "Parabolic dunes",
+                    "Star dunes"
+                    ],
+                    "answer": "Longitudinal dunes"
+                },
+                {
+                    "question": "Parabolic dunes are:",
+                    "options": [
+                    "U-shaped",
+                    "Circular",
+                    "Flat",
+                    "Triangular"
+                    ],
+                    "answer": "U-shaped"
+                },
+                {
+                    "question": "Transverse dunes form:",
+                    "options": [
+                    "Parallel to wind",
+                    "Perpendicular to wind",
+                    "No relation",
+                    "Random"
+                    ],
+                    "answer": "Perpendicular to wind"
+                },
+                {
+                    "question": "Dunes are formed by:",
+                    "options": [
+                    "Water",
+                    "Wind deposition",
+                    "Ice",
+                    "Volcanoes"
+                    ],
+                    "answer": "Wind deposition"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Barchan dunes require:",
+                    "options": [
+                    "Heavy rainfall",
+                    "Limited sand supply",
+                    "Dense forests",
+                    "Snow"
+                    ],
+                    "answer": "Limited sand supply"
+                },
+                {
+                    "question": "Seif dunes form due to:",
+                    "options": [
+                    "Single wind direction",
+                    "Two wind directions",
+                    "No wind",
+                    "Rain"
+                    ],
+                    "answer": "Two wind directions"
+                },
+                {
+                    "question": "Parabolic dunes are stabilized by:",
+                    "options": [
+                    "Water",
+                    "Vegetation",
+                    "Ice",
+                    "Heat"
+                    ],
+                    "answer": "Vegetation"
+                },
+                {
+                    "question": "Transverse dunes form in:",
+                    "options": [
+                    "Low sand areas",
+                    "High sand areas",
+                    "Forests",
+                    "Mountains"
+                    ],
+                    "answer": "High sand areas"
+                },
+                {
+                    "question": "Seif dunes are common in:",
+                    "options": [
+                    "Forests",
+                    "Sahara Desert",
+                    "Tundra",
+                    "Oceans"
+                    ],
+                    "answer": "Sahara Desert"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Barchans are crescent-shaped\n2. Seif dunes are longitudinal\n3. Parabolic dunes are vegetation anchored",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "All"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Barchan – Crescent",
+                    "Seif – Circular",
+                    "Transverse – Parallel",
+                    "Parabolic – Straight ridge"
+                    ],
+                    "answer": "Barchan – Crescent"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                    "Dunes are formed by water",
+                    "Wind deposits sand",
+                    "Ice forms dunes",
+                    "No deposition occurs"
+                    ],
+                    "answer": "Wind deposits sand"
+                },
+                {
+                    "question": "Parabolic dunes differ from barchans because:",
+                    "options": [
+                    "They are smaller",
+                    "They are vegetation anchored",
+                    "They are underwater",
+                    "They are linear"
+                    ],
+                    "answer": "They are vegetation anchored"
+                },
+                {
+                    "question": "Transverse dunes form due to:",
+                    "options": [
+                    "Strong winds + abundant sand",
+                    "Weak winds",
+                    "No sand",
+                    "Ice action"
+                    ],
+                    "answer": "Strong winds + abundant sand"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Running Water (Erosional Landforms)",
+        "notes": [
+            {
+                "heading": "Running Water – Overview",
+                "points": [
+                    "Most important geomorphic agent on Earth",
+                    "Works through rivers and streams",
+                    "Acts in all climatic regions",
+                    "Shapes valleys, plains, and drainage systems",
+                    "Operates via erosion, transportation, deposition"
+                ]
+            },
+            {
+                "heading": "Erosional Processes by Rivers",
+                "points": [
+                    "Hydraulic action – force of moving water",
+                    "Abrasion – scraping of bed and banks",
+                    "Attrition – collision of particles",
+                    "Solution – chemical dissolution of rocks",
+                    "Together carve river valleys"
+                ]
+            },
+            {
+                "heading": "Rills",
+                "points": [
+                    "Very small channels formed by running water",
+                    "First stage of erosion",
+                    "Develop on slopes after rainfall",
+                    "Can merge to form gullies",
+                    "Early stage of valley formation"
+                ]
+            },
+            {
+                "heading": "Gullies",
+                "points": [
+                    "Deeper and wider than rills",
+                    "Formed by concentrated water flow",
+                    "Sign of advanced soil erosion",
+                    "Can develop into badlands",
+                    "Important for soil degradation studies"
+                ]
+            },
+            {
+                "heading": "Valleys – Overview",
+                "points": [
+                    "Depressions carved by rivers",
+                    "Formed due to long-term erosion",
+                    "Shape depends on rock type and stage of river",
+                    "Important erosional landform"
+                ]
+            },
+            {
+                "heading": "V-Shaped Valleys",
+                "points": [
+                    "Formed in upper course of river",
+                    "Dominated by vertical erosion",
+                    "Steep slopes on both sides",
+                    "Narrow valley bottom",
+                    "Common in youthful stage"
+                ]
+            },
+            {
+                "heading": "Gorge",
+                "points": [
+                    "Deep, narrow valley with steep sides",
+                    "Formed in hard and resistant rocks",
+                    "Vertical erosion dominates",
+                    "Example: Himalayan rivers",
+                    "Very deep compared to V-shaped valley"
+                ]
+            },
+            {
+                "heading": "Canyon",
+                "points": [
+                    "Very deep and wide valley",
+                    "Formed in horizontal sedimentary rocks",
+                    "Often has step-like slopes",
+                    "Example: Grand Canyon (USA)",
+                    "Less steep than gorge but wider"
+                ]
+            },
+            {
+                "heading": "Comparison: Gorge vs Canyon",
+                "points": [
+                    "Gorge → hard rocks, narrow, steep",
+                    "Canyon → sedimentary rocks, wider",
+                    "Both formed by river erosion",
+                    "Depth is common feature"
+                ]
+            },
+            {
+                "heading": "Significance of River Erosion",
+                "points": [
+                    "Shapes Earth's surface continuously",
+                    "Forms fertile plains downstream",
+                    "Creates valleys and drainage systems",
+                    "Influences human settlement",
+                    "Key geomorphic process"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Running water is the most important:",
+                    "options": [
+                    "Wind agent",
+                    "Geomorphic agent",
+                    "Ice agent",
+                    "Heat agent"
+                    ],
+                    "answer": "Geomorphic agent"
+                },
+                {
+                    "question": "Rills are:",
+                    "options": [
+                    "Large rivers",
+                    "Small channels",
+                    "Mountains",
+                    "Lakes"
+                    ],
+                    "answer": "Small channels"
+                },
+                {
+                    "question": "Gullies are formed by:",
+                    "options": [
+                    "Wind",
+                    "Water erosion",
+                    "Ice",
+                    "Volcanoes"
+                    ],
+                    "answer": "Water erosion"
+                },
+                {
+                    "question": "V-shaped valleys are found in:",
+                    "options": [
+                    "Upper course",
+                    "Lower course",
+                    "Ocean",
+                    "Desert"
+                    ],
+                    "answer": "Upper course"
+                },
+                {
+                    "question": "Gorges are formed in:",
+                    "options": [
+                    "Soft rocks",
+                    "Hard rocks",
+                    "Sand",
+                    "Clay"
+                    ],
+                    "answer": "Hard rocks"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Canyon is formed in:",
+                    "options": [
+                    "Igneous rocks",
+                    "Sedimentary rocks",
+                    "Ice",
+                    "Wind"
+                    ],
+                    "answer": "Sedimentary rocks"
+                },
+                {
+                    "question": "Rills develop into:",
+                    "options": [
+                    "Gullies",
+                    "Lakes",
+                    "Mountains",
+                    "Dunes"
+                    ],
+                    "answer": "Gullies"
+                },
+                {
+                    "question": "Main process in upper course:",
+                    "options": [
+                    "Deposition",
+                    "Vertical erosion",
+                    "Wind action",
+                    "Cooling"
+                    ],
+                    "answer": "Vertical erosion"
+                },
+                {
+                    "question": "Gorges are:",
+                    "options": [
+                    "Wide valleys",
+                    "Deep narrow valleys",
+                    "Plains",
+                    "Lakes"
+                    ],
+                    "answer": "Deep narrow valleys"
+                },
+                {
+                    "question": "Grand Canyon is example of:",
+                    "options": [
+                    "Gorge",
+                    "Canyon",
+                    "Rift valley",
+                    "Delta"
+                    ],
+                    "answer": "Canyon"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Rills are smallest erosion features\n2. Gullies form from rills\n3. Valleys are final stage",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "All"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "V-shaped valley – upper course",
+                    "Canyon – hard rocks",
+                    "Gorge – sedimentary rocks",
+                    "Rill – large valley"
+                    ],
+                    "answer": "V-shaped valley – upper course"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                    "Rivers only deposit",
+                    "Rivers only erode",
+                    "Rivers both erode and deposit",
+                    "No erosion occurs"
+                    ],
+                    "answer": "Rivers both erode and deposit"
+                },
+                {
+                    "question": "Gorge differs from canyon because:",
+                    "options": [
+                    "Gorge is wider",
+                    "Canyon is narrow",
+                    "Gorge forms in hard rocks",
+                    "Canyon forms in ice"
+                    ],
+                    "answer": "Gorge forms in hard rocks"
+                },
+                {
+                    "question": "Main agent shaping valleys:",
+                    "options": [
+                    "Wind",
+                    "River",
+                    "Ice",
+                    "Sun"
+                    ],
+                    "answer": "River"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Potholes, Plunge Pools, Incised Meanders & River Terraces",
+        "notes": [
+            {
+                "heading": "River Erosional Landforms – Overview",
+                "points": [
+                    "Formed mainly in the upper and middle course of rivers",
+                    "Developed due to strong erosional activity",
+                    "Controlled by slope, velocity and rock type",
+                    "Important indicators of river evolution"
+                ]
+            },
+            {
+                "heading": "Potholes",
+                "points": [
+                    "Circular depressions formed on river bed",
+                    "Created by swirling pebbles and sediments",
+                    "Act like natural drilling tools",
+                    "Increase in size over time",
+                    "Common in rocky river beds"
+                ]
+            },
+            {
+                "heading": "Plunge Pools",
+                "points": [
+                    "Deep depressions at the base of waterfalls",
+                    "Form due to falling water impact",
+                    "High erosional energy zone",
+                    "Often circular or basin-shaped",
+                    "Associated with waterfalls and rapids"
+                ]
+            },
+            {
+                "heading": "Difference: Potholes vs Plunge Pools",
+                "points": [
+                    "Potholes → formed by swirling pebbles",
+                    "Plunge pools → formed by falling water impact",
+                    "Potholes are smaller and shallow initially",
+                    "Plunge pools are deeper and associated with waterfalls",
+                    "Both are erosional features"
+                ]
+            },
+            {
+                "heading": "Incised (Entrenched) Meanders – Overview",
+                "points": [
+                    "Deep meanders cut into bedrock",
+                    "Form due to vertical erosion of river",
+                    "River maintains meandering pattern",
+                    "Indicates uplift of land or rejuvenation",
+                    "Common in hilly regions"
+                ]
+            },
+            {
+                "heading": "Types of Incised Meanders",
+                "points": [
+                    "Entrenched meanders – symmetrical valleys",
+                    "Incised meanders – asymmetrical valleys",
+                    "Form due to change in base level",
+                    "Reflect tectonic uplift",
+                    "Important for geomorphic evolution"
+                ]
+            },
+            {
+                "heading": "River Terraces – Overview",
+                "points": [
+                    "Step-like landforms along river valley sides",
+                    "Represent former floodplains",
+                    "Form due to river incision",
+                    "Indicate stages of river development"
+                ]
+            },
+            {
+                "heading": "Paired River Terraces",
+                "points": [
+                    "Occur at same level on both sides of river",
+                    "Form when river downcuts uniformly",
+                    "Indicates stable tectonic conditions",
+                    "Symmetrical appearance",
+                    "Common in mature river valleys"
+                ]
+            },
+            {
+                "heading": "Unpaired River Terraces",
+                "points": [
+                    "Occur at different levels on opposite sides",
+                    "Form due to lateral erosion or uneven uplift",
+                    "Asymmetrical terraces",
+                    "Indicates tectonic disturbance",
+                    "Important for structural geology analysis"
+                ]
+            },
+            {
+                "heading": "Significance of River Landforms",
+                "points": [
+                    "Indicate past river activity",
+                    "Help understand tectonic movements",
+                    "Useful in floodplain studies",
+                    "Important for agriculture and settlement"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Potholes are formed by:",
+                    "options": [
+                    "Falling water",
+                    "Swirling pebbles",
+                    "Wind",
+                    "Ice"
+                    ],
+                    "answer": "Swirling pebbles"
+                },
+                {
+                    "question": "Plunge pools form at:",
+                    "options": [
+                    "River mouth",
+                    "Waterfalls",
+                    "Plains",
+                    "Deserts"
+                    ],
+                    "answer": "Waterfalls"
+                },
+                {
+                    "question": "Incised meanders indicate:",
+                    "options": [
+                    "Erosion stopped",
+                    "Land uplift",
+                    "No river flow",
+                    "Deposition"
+                    ],
+                    "answer": "Land uplift"
+                },
+                {
+                    "question": "River terraces are:",
+                    "options": [
+                    "Mountains",
+                    "Former floodplains",
+                    "Deserts",
+                    "Lakes"
+                    ],
+                    "answer": "Former floodplains"
+                },
+                {
+                    "question": "Paired terraces are:",
+                    "options": [
+                    "Asymmetrical",
+                    "Symmetrical",
+                    "Random",
+                    "Underground"
+                    ],
+                    "answer": "Symmetrical"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Potholes are usually found in:",
+                    "options": [
+                    "Soft soil",
+                    "Rocky river beds",
+                    "Deserts",
+                    "Glaciers"
+                    ],
+                    "answer": "Rocky river beds"
+                },
+                {
+                    "question": "Plunge pools are associated with:",
+                    "options": [
+                    "Deltas",
+                    "Waterfalls",
+                    "Dunes",
+                    "Lakes"
+                    ],
+                    "answer": "Waterfalls"
+                },
+                {
+                    "question": "Entrenched meanders are:",
+                    "options": [
+                    "Shallow",
+                    "Deep cut meanders",
+                    "Straight rivers",
+                    "Ocean currents"
+                    ],
+                    "answer": "Deep cut meanders"
+                },
+                {
+                    "question": "Unpaired terraces indicate:",
+                    "options": [
+                    "Stable land",
+                    "Tectonic disturbance",
+                    "No erosion",
+                    "Wind action"
+                    ],
+                    "answer": "Tectonic disturbance"
+                },
+                {
+                    "question": "River terraces represent:",
+                    "options": [
+                    "Current floodplain",
+                    "Old floodplain levels",
+                    "Mountains",
+                    "Volcanoes"
+                    ],
+                    "answer": "Old floodplain levels"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Potholes are formed by abrasion\n2. Plunge pools form at waterfalls\n3. Terraces show river evolution",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "All"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Pothole – swirling pebbles",
+                    "Plunge pool – wind action",
+                    "Terrace – glacier",
+                    "Meander – desert wind"
+                    ],
+                    "answer": "Pothole – swirling pebbles"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                    "River terraces are random",
+                    "Incised meanders indicate uplift",
+                    "Potholes are depositional",
+                    "Plunge pools are wind formed"
+                    ],
+                    "answer": "Incised meanders indicate uplift"
+                },
+                {
+                    "question": "Paired terraces occur due to:",
+                    "options": [
+                    "Uneven erosion",
+                    "Uniform downcutting",
+                    "Wind action",
+                    "Glaciation"
+                    ],
+                    "answer": "Uniform downcutting"
+                },
+                {
+                    "question": "Entrenched meanders are found in:",
+                    "options": [
+                    "Deserts",
+                    "Hilly regions",
+                    "Oceans",
+                    "Plains only"
+                    ],
+                    "answer": "Hilly regions"
+                }
+            ]
+        }
+    },
+    {
+        "name": "River Depositional Landforms",
+        "notes": [
+            {
+                "heading": "River Depositional Landforms – Overview",
+                "points": [
+                    "Formed when river loses energy and deposits sediments",
+                    "Common in middle and lower course of rivers",
+                    "Depends on velocity, gradient, and sediment load",
+                    "Creates fertile plains and coastal features"
+                ]
+            },
+            {
+                "heading": "Alluvial Fans",
+                "points": [
+                    "Cone-shaped deposits at foothills of mountains",
+                    "Form where river suddenly loses slope and velocity",
+                    "Coarse sediments deposited first",
+                    "Common in piedmont zones",
+                    "Often found in arid and semi-arid regions"
+                ]
+            },
+            {
+                "heading": "Delta",
+                "points": [
+                    "Triangular or fan-shaped deposit at river mouth",
+                    "Formed where river meets sea or lake",
+                    "Deposition exceeds removal by waves/currents",
+                    "Distributary channels develop",
+                    "Example: Ganga-Brahmaputra delta"
+                ]
+            },
+            {
+                "heading": "Types of Deltas",
+                "points": [
+                    "Arcuate delta – fan-shaped (Nile)",
+                    "Bird’s foot delta – elongated channels (Mississippi)",
+                    "Cuspate delta – pointed shape (Tiber)",
+                    "Control by waves, tides, river load",
+                    "Very important classification"
+                ]
+            },
+            {
+                "heading": "Floodplains",
+                "points": [
+                    "Flat areas beside river channels",
+                    "Formed by periodic flooding",
+                    "Made of fine alluvial sediments",
+                    "Very fertile agricultural land",
+                    "Common in mature river stages"
+                ]
+            },
+            {
+                "heading": "Natural Levees",
+                "points": [
+                    "Raised banks along river channels",
+                    "Formed by deposition during floods",
+                    "Coarser sediments near channel, finer away",
+                    "Act as natural flood barriers",
+                    "Important for settlement patterns"
+                ]
+            },
+            {
+                "heading": "Point Bars",
+                "points": [
+                    "Depositional features on inner bends of meanders",
+                    "Form due to lower velocity of water",
+                    "Coarser sediments deposited first",
+                    "Opposite side shows erosion (cut bank)",
+                    "Key feature of meandering rivers"
+                ]
+            },
+            {
+                "heading": "River Meander Depositional System",
+                "points": [
+                    "Outer bend → erosion (cut bank)",
+                    "Inner bend → deposition (point bar)",
+                    "Helps river migration over time",
+                    "Creates floodplains",
+                    "Dynamic river landscape system"
+                ]
+            },
+            {
+                "heading": "Importance of Depositional Landforms",
+                "points": [
+                    "Create fertile agricultural regions",
+                    "Support dense human settlements",
+                    "Control river navigation",
+                    "Important for deltaic ecosystems"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Alluvial fans form at:",
+                    "options": [
+                    "River mouth",
+                    "Foothills",
+                    "Ocean floor",
+                    "Mountain peaks"
+                    ],
+                    "answer": "Foothills"
+                },
+                {
+                    "question": "Delta forms at:",
+                    "options": [
+                    "River origin",
+                    "River mouth",
+                    "Mountain top",
+                    "Desert"
+                    ],
+                    "answer": "River mouth"
+                },
+                {
+                    "question": "Floodplains are formed by:",
+                    "options": [
+                    "Wind",
+                    "Flood deposition",
+                    "Ice",
+                    "Volcanoes"
+                    ],
+                    "answer": "Flood deposition"
+                },
+                {
+                    "question": "Natural levees are:",
+                    "options": [
+                    "Mountains",
+                    "Raised river banks",
+                    "Deserts",
+                    "Caves"
+                    ],
+                    "answer": "Raised river banks"
+                },
+                {
+                    "question": "Point bars form on:",
+                    "options": [
+                    "Outer bend",
+                    "Inner bend",
+                    "Straight channel",
+                    "Ocean"
+                    ],
+                    "answer": "Inner bend"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Alluvial fans form due to:",
+                    "options": [
+                    "Increase in slope",
+                    "Decrease in slope",
+                    "Wind action",
+                    "Ice melting"
+                    ],
+                    "answer": "Decrease in slope"
+                },
+                {
+                    "question": "Delta formation requires:",
+                    "options": [
+                    "High wave energy",
+                    "Deposition > removal",
+                    "Strong wind",
+                    "Ice action"
+                    ],
+                    "answer": "Deposition > removal"
+                },
+                {
+                    "question": "Floodplains are mainly composed of:",
+                    "options": [
+                    "Rock",
+                    "Alluvium",
+                    "Sand dunes",
+                    "Ice"
+                    ],
+                    "answer": "Alluvium"
+                },
+                {
+                    "question": "Cut bank is associated with:",
+                    "options": [
+                    "Deposition",
+                    "Erosion",
+                    "Cooling",
+                    "Heating"
+                    ],
+                    "answer": "Erosion"
+                },
+                {
+                    "question": "Bird’s foot delta is found in:",
+                    "options": [
+                    "Nile",
+                    "Mississippi",
+                    "Ganga",
+                    "Amazon"
+                    ],
+                    "answer": "Mississippi"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Alluvial fans form in piedmont zones\n2. Deltas form at river mouths\n3. Floodplains are fertile",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "All"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Point bar – inner bend",
+                    "Cut bank – inner bend",
+                    "Delta – mountain top",
+                    "Levee – ocean floor"
+                    ],
+                    "answer": "Point bar – inner bend"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                    "Alluvial fans form at river mouth",
+                    "Deltas form at foothills",
+                    "Floodplains form by flooding",
+                    "Levees are erosional"
+                    ],
+                    "answer": "Floodplains form by flooding"
+                },
+                {
+                    "question": "Delta shape depends on:",
+                    "options": [
+                    "Wind only",
+                    "River, waves and tides",
+                    "Ice only",
+                    "Temperature only"
+                    ],
+                    "answer": "River, waves and tides"
+                },
+                {
+                    "question": "Point bars are formed due to:",
+                    "options": [
+                    "High velocity",
+                    "Low velocity deposition",
+                    "Wind action",
+                    "Ice melting"
+                    ],
+                    "answer": "Low velocity deposition"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Meanders, Oxbow Lakes & Braided Channels",
+        "notes": [
+            {
+                "heading": "Meanders – Overview",
+                "points": [
+                    "S-shaped bends in a river course",
+                    "Form in mature stage of river",
+                    "Develop in gentle slope areas",
+                    "Continuous erosion and deposition occur",
+                    "Highly dynamic fluvial feature"
+                ]
+            },
+            {
+                "heading": "Formation of Meanders",
+                "points": [
+                    "Water flows faster on outer bend",
+                    "Water flows slower on inner bend",
+                    "Erosion on outer bend",
+                    "Deposition on inner bend",
+                    "River gradually shifts sideways"
+                ]
+            },
+            {
+                "heading": "Slip-off Slope (Point Bar)",
+                "points": [
+                    "Formed on inner bend of meander",
+                    "Area of deposition",
+                    "Gentle slope",
+                    "Made of fine sediments",
+                    "Also called depositional side"
+                ]
+            },
+            {
+                "heading": "Undercut Bank (Cut Bank)",
+                "points": [
+                    "Formed on outer bend of meander",
+                    "Area of erosion",
+                    "Steep slope",
+                    "Caused by high velocity water",
+                    "Leads to lateral erosion"
+                ]
+            },
+            {
+                "heading": "Meander Migration",
+                "points": [
+                    "River shifts sideways over time",
+                    "Outer bank erodes continuously",
+                    "Inner bank deposits sediment",
+                    "Meander loops become larger",
+                    "Eventually may get cut off"
+                ]
+            },
+            {
+                "heading": "Oxbow Lake – Overview",
+                "points": [
+                    "U-shaped water body formed from abandoned meander",
+                    "Occurs when river cuts through neck of meander",
+                    "Old meander loop gets isolated",
+                    "Filled with water or sediments",
+                    "Important fluvial landform"
+                ]
+            },
+            {
+                "heading": "Formation of Oxbow Lake",
+                "points": [
+                    "Meander loop becomes very narrow",
+                    "Flood or erosion cuts through neck",
+                    "River takes a straight course",
+                    "Old loop gets separated",
+                    "Forms crescent-shaped lake"
+                ]
+            },
+            {
+                "heading": "Braided Channels – Overview",
+                "points": [
+                    "River splits into multiple channels",
+                    "Channels separated by sandbars",
+                    "Occurs in high sediment load areas",
+                    "Unstable river system",
+                    "Common in mountain and glacial rivers"
+                ]
+            },
+            {
+                "heading": "Conditions for Braided Rivers",
+                "points": [
+                    "High sediment load",
+                    "Variable water discharge",
+                    "Steep gradient",
+                    "Easily erodible banks",
+                    "Lack of vegetation"
+                ]
+            },
+            {
+                "heading": "Difference: Meandering vs Braided Rivers",
+                "points": [
+                    "Meandering → single channel, winding",
+                    "Braided → multiple channels",
+                    "Meanders form in low sediment areas",
+                    "Braided rivers form in high sediment areas",
+                    "Stable vs unstable system comparison"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Meanders are formed in:",
+                    "options": [
+                    "Youth stage",
+                    "Mature stage",
+                    "Old stage",
+                    "Glacial stage"
+                    ],
+                    "answer": "Mature stage"
+                },
+                {
+                    "question": "Slip-off slope is formed by:",
+                    "options": [
+                    "Erosion",
+                    "Deposition",
+                    "Wind",
+                    "Ice"
+                    ],
+                    "answer": "Deposition"
+                },
+                {
+                    "question": "Cut bank is formed by:",
+                    "options": [
+                    "Deposition",
+                    "Erosion",
+                    "Cooling",
+                    "Heating"
+                    ],
+                    "answer": "Erosion"
+                },
+                {
+                    "question": "Oxbow lake is:",
+                    "options": [
+                    "Straight river",
+                    "Abandoned meander",
+                    "Mountain lake",
+                    "Glacial lake"
+                    ],
+                    "answer": "Abandoned meander"
+                },
+                {
+                    "question": "Braided rivers have:",
+                    "options": [
+                    "Single channel",
+                    "Multiple channels",
+                    "No water",
+                    "Underground flow"
+                    ],
+                    "answer": "Multiple channels"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Outer bend of meander shows:",
+                    "options": [
+                    "Deposition",
+                    "Erosion",
+                    "Cooling",
+                    "Heating"
+                    ],
+                    "answer": "Erosion"
+                },
+                {
+                    "question": "Inner bend of meander shows:",
+                    "options": [
+                    "Erosion",
+                    "Deposition",
+                    "No change",
+                    "Wind action"
+                    ],
+                    "answer": "Deposition"
+                },
+                {
+                    "question": "Oxbow lake is formed due to:",
+                    "options": [
+                    "Volcano",
+                    "Cutting of meander neck",
+                    "Glacier",
+                    "Wind"
+                    ],
+                    "answer": "Cutting of meander neck"
+                },
+                {
+                    "question": "Braided rivers are common in:",
+                    "options": [
+                    "Deserts",
+                    "Mountain regions",
+                    "Forests",
+                    "Oceans"
+                    ],
+                    "answer": "Mountain regions"
+                },
+                {
+                    "question": "Meandering rivers are:",
+                    "options": [
+                    "Straight",
+                    "Winding",
+                    "Underground",
+                    "Frozen"
+                    ],
+                    "answer": "Winding"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Slip-off slope is depositional\n2. Cut bank is erosional\n3. Oxbow lake forms from meander cut-off",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "All"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Slip-off slope – inner bend",
+                    "Cut bank – inner bend",
+                    "Oxbow lake – glacier",
+                    "Braided river – single channel"
+                    ],
+                    "answer": "Slip-off slope – inner bend"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                    "Braided rivers are stable",
+                    "Meanders form in high slope areas",
+                    "Braided rivers have multiple channels",
+                    "Oxbow lakes are permanent rivers"
+                    ],
+                    "answer": "Braided rivers have multiple channels"
+                },
+                {
+                    "question": "Oxbow lake forms due to:",
+                    "options": [
+                    "Deposition only",
+                    "Erosion and cut-off",
+                    "Wind action",
+                    "Ice melting"
+                    ],
+                    "answer": "Erosion and cut-off"
+                },
+                {
+                    "question": "Braided rivers form due to:",
+                    "options": [
+                    "Low sediment load",
+                    "High sediment load",
+                    "No water",
+                    "Deep valleys"
+                    ],
+                    "answer": "High sediment load"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Groundwater (Karst Topography – Permeability, Percolation, Bedding Plains)",
+        "notes": [
+            {
+                "heading": "Groundwater – Overview",
+                "points": [
+                    "Water present below Earth's surface in soil and rocks",
+                    "Major agent in karst landform development",
+                    "Works mainly through chemical erosion (solution)",
+                    "Most effective in limestone regions",
+                    "Slow but powerful geomorphic agent"
+                ]
+            },
+            {
+                "heading": "Karst Topography – Overview",
+                "points": [
+                    "Landforms formed by dissolution of soluble rocks",
+                    "Mainly limestone, gypsum, dolomite regions",
+                    "Developed by groundwater action",
+                    "Characterized by underground drainage",
+                    "Caves, sinkholes, stalactites common features"
+                ]
+            },
+            {
+                "heading": "Permeable Rocks",
+                "points": [
+                    "Rocks that allow water to pass through pores or cracks",
+                    "Examples: limestone, sandstone (to some extent)",
+                    "Essential for groundwater movement",
+                    "High porosity + permeability = good aquifers",
+                    "Key for karst development"
+                ]
+            },
+            {
+                "heading": "Impermeable vs Permeable Rocks",
+                "points": [
+                    "Permeable → allows water movement",
+                    "Impermeable → blocks water flow (e.g., clay)",
+                    "Karst develops only in permeable soluble rocks",
+                    "Controls groundwater storage",
+                    "Important hydrogeology concept"
+                ]
+            },
+            {
+                "heading": "Percolation",
+                "points": [
+                    "Downward movement of water through soil and rock",
+                    "Driven by gravity",
+                    "Creates groundwater recharge",
+                    "Dissolves soluble rocks over time",
+                    "Leads to cave formation in limestone areas 🔥"
+                ]
+            },
+            {
+                "heading": "Bedding Plains",
+                "points": [
+                    "Horizontal layers of sedimentary rocks",
+                    "Common in limestone formations",
+                    "Act as pathways for groundwater flow",
+                    "Facilitate development of caves and joints",
+                    "Important structural control in karst regions"
+                ]
+            },
+            {
+                "heading": "Role in Karst Formation",
+                "points": [
+                    "Permeable rocks allow water entry",
+                    "Percolation dissolves calcium carbonate",
+                    "Bedding planes guide water movement",
+                    "Together create underground drainage systems",
+                    "Leads to caves and sinkholes formation"
+                ]
+            },
+            {
+                "heading": "Importance of Groundwater in Geomorphology",
+                "points": [
+                    "Creates unique underground landscapes",
+                    "Forms karst systems",
+                    "Supports springs and aquifers",
+                    "Influences water supply systems"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Groundwater mainly acts through:",
+                    "options": [
+                    "Wind erosion",
+                    "Chemical solution",
+                    "Ice action",
+                    "Volcanic action"
+                    ],
+                    "answer": "Chemical solution"
+                },
+                {
+                    "question": "Karst topography is formed in:",
+                    "options": [
+                    "Granite",
+                    "Limestone",
+                    "Basalt",
+                    "Clay"
+                    ],
+                    "answer": "Limestone"
+                },
+                {
+                    "question": "Permeable rocks allow:",
+                    "options": [
+                    "No water flow",
+                    "Water flow",
+                    "Heat flow",
+                    "Wind flow"
+                    ],
+                    "answer": "Water flow"
+                },
+                {
+                    "question": "Percolation means:",
+                    "options": [
+                    "Surface runoff",
+                    "Downward movement of water",
+                    "Evaporation",
+                    "Condensation"
+                    ],
+                    "answer": "Downward movement of water"
+                },
+                {
+                    "question": "Bedding planes are:",
+                    "options": [
+                    "Vertical rocks",
+                    "Horizontal rock layers",
+                    "Mountains",
+                    "Volcanoes"
+                    ],
+                    "answer": "Horizontal rock layers"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Karst regions are characterized by:",
+                    "options": [
+                    "Surface drainage",
+                    "Underground drainage",
+                    "No water",
+                    "Wind erosion only"
+                    ],
+                    "answer": "Underground drainage"
+                },
+                {
+                    "question": "Impermeable rocks:",
+                    "options": [
+                    "Allow water flow",
+                    "Block water flow",
+                    "Form caves",
+                    "Form rivers"
+                    ],
+                    "answer": "Block water flow"
+                },
+                {
+                    "question": "Percolation helps in:",
+                    "options": [
+                    "Wind formation",
+                    "Groundwater recharge",
+                    "Volcano formation",
+                    "Ice melting"
+                    ],
+                    "answer": "Groundwater recharge"
+                },
+                {
+                    "question": "Karst topography develops due to:",
+                    "options": [
+                    "Mechanical erosion",
+                    "Chemical dissolution",
+                    "Wind action",
+                    "Glaciation"
+                    ],
+                    "answer": "Chemical dissolution"
+                },
+                {
+                    "question": "Best rock for karst formation:",
+                    "options": [
+                    "Granite",
+                    "Limestone",
+                    "Shale",
+                    "Basalt"
+                    ],
+                    "answer": "Limestone"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Permeable rocks allow groundwater flow\n2. Percolation helps in cave formation\n3. Bedding planes guide water movement",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "All"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Karst – limestone",
+                    "Karst – granite",
+                    "Percolation – wind",
+                    "Bedding planes – vertical layers"
+                    ],
+                    "answer": "Karst – limestone"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                    "Karst forms in igneous rocks",
+                    "Groundwater is a slow agent",
+                    "Percolation is surface flow",
+                    "Bedding planes block water"
+                    ],
+                    "answer": "Groundwater is a slow agent"
+                },
+                {
+                    "question": "Karst landforms are mainly formed by:",
+                    "options": [
+                    "Wind erosion",
+                    "Chemical dissolution",
+                    "Ice erosion",
+                    "Volcanism"
+                    ],
+                    "answer": "Chemical dissolution"
+                },
+                {
+                    "question": "Permeability depends on:",
+                    "options": [
+                    "Rock texture",
+                    "Wind speed",
+                    "Temperature",
+                    "Ocean currents"
+                    ],
+                    "answer": "Rock texture"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Karst Erosional Landforms (Balkans & Adriatic Region)",
+        "notes": [
+            {
+                "heading": "Karst Region – Overview",
+                "points": [
+                    "Karst topography is well developed in Balkan and Adriatic regions",
+                    "Named after Karst Plateau in Slovenia",
+                    "Formed mainly in limestone areas",
+                    "Characterized by underground drainage system"
+                ]
+            },
+            {
+                "heading": "Balkan & Adriatic Karst Region",
+                "points": [
+                    "Located in Southeastern Europe",
+                    "Includes Slovenia, Croatia, Bosnia region",
+                    "Well-developed limestone landscapes",
+                    "Extensive caves and sinkholes present",
+                    "Classic example of karst geomorphology"
+                ]
+            },
+            {
+                "heading": "Swallow Hole",
+                "points": [
+                    "Natural opening where surface water disappears underground",
+                    "Acts as entry point to underground drainage",
+                    "Common in limestone regions",
+                    "Leads water into cave systems",
+                    "Important karst feature"
+                ]
+            },
+            {
+                "heading": "Sinkholes (Dolines)",
+                "points": [
+                    "Circular or funnel-shaped depressions",
+                    "Formed by dissolution of limestone",
+                    "Also called dolines",
+                    "Can be shallow or deep",
+                    "Very common karst erosional feature"
+                ]
+            },
+            {
+                "heading": "Collapse Sinkholes",
+                "points": [
+                    "Form when cave roof collapses",
+                    "Sudden and steep-sided depression",
+                    "More dramatic than normal sinkholes",
+                    "Indicates underground cavity presence",
+                    "Important structural feature"
+                ]
+            },
+            {
+                "heading": "Uvalas (Valley Sinks)",
+                "points": [
+                    "Large depressions formed by merging of sinkholes",
+                    "Irregular shape",
+                    "Intermediate between doline and polje",
+                    "Found in mature karst landscapes",
+                    "Important evolution stage"
+                ]
+            },
+            {
+                "heading": "Lapies (Karren)",
+                "points": [
+                    "Small grooves and furrows on limestone surface",
+                    "Formed by solution process",
+                    "Sharp ridges separated by fissures",
+                    "Develop on exposed limestone",
+                    "Early stage of karst erosion"
+                ]
+            },
+            {
+                "heading": "Limestone Ridges",
+                "points": [
+                    "Residual ridges left after dissolution",
+                    "Harder portions of limestone remain",
+                    "Irregular and rugged appearance",
+                    "Formed due to differential erosion",
+                    "Important karst relief feature"
+                ]
+            },
+            {
+                "heading": "Limestone Pavements",
+                "points": [
+                    "Flat exposed limestone surfaces",
+                    "Cut by deep cracks called grikes",
+                    "Blocks between cracks called clints",
+                    "Highly weathered karst surface",
+                    "Classic erosional landform"
+                ]
+            },
+            {
+                "heading": "Karst Erosional Sequence",
+                "points": [
+                    "Lapies → Sinkholes (Dolines)",
+                    "Sinkholes merge → Uvalas",
+                    "Collapse leads to larger depressions",
+                    "Surface evolves into rugged terrain",
+                    "Long-term dissolution process"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Karst region is mainly found in:",
+                    "options": [
+                    "Granite areas",
+                    "Limestone areas",
+                    "Basalt areas",
+                    "Clay areas"
+                    ],
+                    "answer": "Limestone areas"
+                },
+                {
+                    "question": "Sinkholes are also called:",
+                    "options": [
+                    "Dunes",
+                    "Dolines",
+                    "Moraines",
+                    "Canyons"
+                    ],
+                    "answer": "Dolines"
+                },
+                {
+                    "question": "Swallow holes are related to:",
+                    "options": [
+                    "Wind erosion",
+                    "Groundwater entry",
+                    "Glacier melting",
+                    "Volcanism"
+                    ],
+                    "answer": "Groundwater entry"
+                },
+                {
+                    "question": "Lapies are:",
+                    "options": [
+                    "Large valleys",
+                    "Small grooves on limestone",
+                    "Rivers",
+                    "Mountains"
+                    ],
+                    "answer": "Small grooves on limestone"
+                },
+                {
+                    "question": "Karst region is famous in:",
+                    "options": [
+                    "Balkans",
+                    "Sahara",
+                    "Amazon",
+                    "Himalayas"
+                    ],
+                    "answer": "Balkans"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Collapse sinkholes form due to:",
+                    "options": [
+                    "Wind erosion",
+                    "Cave roof collapse",
+                    "River deposition",
+                    "Ice melting"
+                    ],
+                    "answer": "Cave roof collapse"
+                },
+                {
+                    "question": "Uvalas are formed by:",
+                    "options": [
+                    "Single sinkhole",
+                    "Merging of sinkholes",
+                    "Wind action",
+                    "Glaciation"
+                    ],
+                    "answer": "Merging of sinkholes"
+                },
+                {
+                    "question": "Limestone pavement is characterized by:",
+                    "options": [
+                    "Smooth sand",
+                    "Clints and grikes",
+                    "Ice sheets",
+                    "River channels"
+                    ],
+                    "answer": "Clints and grikes"
+                },
+                {
+                    "question": "Lapies are formed by:",
+                    "options": [
+                    "Chemical solution",
+                    "Wind abrasion",
+                    "Ice erosion",
+                    "Volcanoes"
+                    ],
+                    "answer": "Chemical solution"
+                },
+                {
+                    "question": "Karst drainage is mainly:",
+                    "options": [
+                    "Surface",
+                    "Underground",
+                    "Wind-based",
+                    "Ocean-based"
+                    ],
+                    "answer": "Underground"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Sinkholes form in limestone regions\n2. Uvalas are larger than dolines\n3. Lapies are early stage karst features",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "All"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Dolines – sinkholes",
+                    "Lapies – rivers",
+                    "Uvalas – dunes",
+                    "Swallow hole – glacier"
+                    ],
+                    "answer": "Dolines – sinkholes"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                    "Karst forms in granite",
+                    "Groundwater dissolves limestone",
+                    "Lapies are depositional",
+                    "Sinkholes are wind formed"
+                    ],
+                    "answer": "Groundwater dissolves limestone"
+                },
+                {
+                    "question": "Limestone pavement consists of:",
+                    "options": [
+                    "Sand dunes",
+                    "Clints and grikes",
+                    "Moraines",
+                    "Floodplains"
+                    ],
+                    "answer": "Clints and grikes"
+                },
+                {
+                    "question": "Balkan region is famous for:",
+                    "options": [
+                    "Volcanism",
+                    "Karst topography",
+                    "Glaciation only",
+                    "Desert dunes"
+                    ],
+                    "answer": "Karst topography"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Karst Caves and Depositional Landforms (Stalactites etc.)",
+        "notes": [
+            {
+                "heading": "Karst Caves – Overview",
+                "points": [
+                    "Underground hollow spaces formed in soluble rocks",
+                    "Mainly developed in limestone regions",
+                    "Formed by dissolution of rock by groundwater",
+                    "Also known as caverns",
+                    "Important karst landform"
+                ]
+            },
+            {
+                "heading": "Role of Different Rocks in Cave Formation",
+                "points": [
+                    "Limestone – most suitable (easily soluble)",
+                    "Shale – weak permeability, limited cave formation",
+                    "Sandstone – forms caves through erosion and seepage",
+                    "Quartzite – very hard, caves rare and limited",
+                    "Rock type controls cave development significantly"
+                ]
+            },
+            {
+                "heading": "Formation of Caves",
+                "points": [
+                    "Groundwater percolates through cracks and joints",
+                    "Dissolves soluble minerals over time",
+                    "Expands fractures into tunnels and chambers",
+                    "Underground drainage systems develop",
+                    "Long-term chemical erosion process"
+                ]
+            },
+            {
+                "heading": "Caves and Tunnels",
+                "points": [
+                    "Caves – large underground hollow spaces",
+                    "Tunnels – narrow passageways connecting caves",
+                    "Formed by continuous water flow",
+                    "Can develop complex underground networks",
+                    "Important in karst hydrology"
+                ]
+            },
+            {
+                "heading": "Depositional Landforms in Caves – Overview",
+                "points": [
+                    "Formed due to precipitation of dissolved minerals",
+                    "Main mineral: calcium carbonate (CaCO₃)",
+                    "Occurs when water loses CO₂ inside caves",
+                    "Creates dripstone structures"
+                ]
+            },
+            {
+                "heading": "Stalactites",
+                "points": [
+                    "Hanging icicle-shaped deposits from cave roof",
+                    "Form due to dripping water rich in minerals",
+                    "Grow downward over time",
+                    "Made mainly of calcium carbonate",
+                    "Mnemonic: 'C' for ceiling → stalactite hangs"
+                ]
+            },
+            {
+                "heading": "Stalagmites",
+                "points": [
+                    "Form on cave floor",
+                    "Created from dripping water accumulation",
+                    "Grow upward over time",
+                    "Often cone-shaped",
+                    "Mnemonic: 'G' for ground → stalagmite rises"
+                ]
+            },
+            {
+                "heading": "Pillars (Columns)",
+                "points": [
+                    "Form when stalactites and stalagmites join",
+                    "Connect cave roof and floor",
+                    "Create massive vertical structures",
+                    "Indicate long-term deposition",
+                    "Common in mature cave systems"
+                ]
+            },
+            {
+                "heading": "Process of Deposition in Caves",
+                "points": [
+                    "Water enters cave carrying dissolved CaCO₃",
+                    "CO₂ escapes inside cave atmosphere",
+                    "Calcium carbonate gets deposited",
+                    "Forms dripstone features",
+                    "Continuous slow accumulation process"
+                ]
+            },
+            {
+                "heading": "Importance of Karst Caves",
+                "points": [
+                    "Store groundwater systems",
+                    "Support unique ecosystems",
+                    "Important for tourism and archaeology",
+                    "Provide paleoclimate evidence"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Caves are mainly formed in:",
+                    "options": [
+                    "Granite",
+                    "Limestone",
+                    "Basalt",
+                    "Clay"
+                    ],
+                    "answer": "Limestone"
+                },
+                {
+                    "question": "Stalactites hang from:",
+                    "options": [
+                    "Floor",
+                    "Roof",
+                    "Wall",
+                    "Ground"
+                    ],
+                    "answer": "Roof"
+                },
+                {
+                    "question": "Stalagmites form on:",
+                    "options": [
+                    "Roof",
+                    "Floor",
+                    "Wall",
+                    "Ceiling only"
+                    ],
+                    "answer": "Floor"
+                },
+                {
+                    "question": "Caves are formed mainly by:",
+                    "options": [
+                    "Wind erosion",
+                    "Water dissolution",
+                    "Ice melting",
+                    "Volcanism"
+                    ],
+                    "answer": "Water dissolution"
+                },
+                {
+                    "question": "Pillars are formed by:",
+                    "options": [
+                    "Wind action",
+                    "Joining of stalactite and stalagmite",
+                    "River deposition",
+                    "Ice accumulation"
+                    ],
+                    "answer": "Joining of stalactite and stalagmite"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Quartzite caves are:",
+                    "options": [
+                    "Very common",
+                    "Very rare",
+                    "Abundant",
+                    "Always formed"
+                    ],
+                    "answer": "Very rare"
+                },
+                {
+                    "question": "Stalactites grow:",
+                    "options": [
+                    "Upwards",
+                    "Downwards",
+                    "Sideways",
+                    "Underground only"
+                    ],
+                    "answer": "Downwards"
+                },
+                {
+                    "question": "Stalagmites grow:",
+                    "options": [
+                    "Downwards",
+                    "Upwards",
+                    "Horizontally",
+                    "Randomly"
+                    ],
+                    "answer": "Upwards"
+                },
+                {
+                    "question": "Cave formation is mainly a:",
+                    "options": [
+                    "Mechanical process",
+                    "Chemical process",
+                    "Wind process",
+                    "Ice process"
+                    ],
+                    "answer": "Chemical process"
+                },
+                {
+                    "question": "Tunnels in caves are formed due to:",
+                    "options": [
+                    "Wind erosion",
+                    "Water flow paths",
+                    "Volcanoes",
+                    "Glaciers"
+                    ],
+                    "answer": "Water flow paths"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Caves are formed by groundwater action\n2. Stalactites hang from roof\n3. Pillars form when stalactite and stalagmite meet",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "All"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Stalactite – roof",
+                    "Stalagmite – roof",
+                    "Cave – wind erosion",
+                    "Quartzite – easy cave formation"
+                    ],
+                    "answer": "Stalactite – roof"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                    "Caves form in granite easily",
+                    "Limestone is highly soluble",
+                    "Stalagmites hang from roof",
+                    "Caves are formed by wind"
+                    ],
+                    "answer": "Limestone is highly soluble"
+                },
+                {
+                    "question": "Cave deposition occurs due to:",
+                    "options": [
+                    "Evaporation of CO₂",
+                    "Wind deposition",
+                    "Ice melting",
+                    "Pressure increase only"
+                    ],
+                    "answer": "Evaporation of CO₂"
+                },
+                {
+                    "question": "Sandstone caves are formed mainly by:",
+                    "options": [
+                    "Chemical dissolution only",
+                    "Erosion and seepage",
+                    "Volcanism",
+                    "Glaciation"
+                    ],
+                    "answer": "Erosion and seepage"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Stalagmites and Pillar Columns",
+        "notes": [
+            {
+                "heading": "Stalagmites – Overview",
+                "points": [
+                    "Depositional landforms formed inside limestone caves",
+                    "Formed on cave floors",
+                    "Created by dripping water rich in calcium carbonate",
+                    "Grow vertically upward over time",
+                    "Common in karst regions"
+                ]
+            },
+            {
+                "heading": "Formation of Stalagmites",
+                "points": [
+                    "Water drops fall from cave roof",
+                    "Each drop leaves mineral deposits",
+                    "Calcium carbonate accumulates on floor",
+                    "Slow upward growth over time",
+                    "Continuous chemical deposition process"
+                ]
+            },
+            {
+                "heading": "Characteristics of Stalagmites",
+                "points": [
+                    "Found on cave floors",
+                    "Generally broader and shorter than stalactites",
+                    "Irregular cone or mound shape",
+                    "Grow upward due to gravity",
+                    "Highly slow formation process"
+                ]
+            },
+            {
+                "heading": "Mnemonic Tip",
+                "points": [
+                    "Stalagmites = G → Ground",
+                    "So they grow from the ground upward"
+                ]
+            },
+            {
+                "heading": "Pillar Columns – Overview",
+                "points": [
+                    "Vertical structures formed inside caves",
+                    "Created when stalactite and stalagmite meet",
+                    "Extend from cave roof to floor",
+                    "Also called limestone columns",
+                    "Indicator of mature cave systems"
+                ]
+            },
+            {
+                "heading": "Formation of Pillar Columns",
+                "points": [
+                    "Stalactite grows downward from roof",
+                    "Stalagmite grows upward from floor",
+                    "Both continue growing over time",
+                    "Eventually meet and join",
+                    "Forms a continuous column structure"
+                ]
+            },
+            {
+                "heading": "Characteristics of Pillar Columns",
+                "points": [
+                    "Strong vertical limestone structures",
+                    "Connect cave roof and floor",
+                    "Form in mature karst caves",
+                    "Indicate long-term deposition",
+                    "Stable geological features"
+                ]
+            },
+            {
+                "heading": "Stalagmites vs Pillar Columns",
+                "points": [
+                    "Stalagmites → floor-based deposits",
+                    "Pillars → stalactite + stalagmite combined",
+                    "Stalagmites are incomplete structures",
+                    "Pillars are fully connected columns",
+                    "Both are calcium carbonate deposits"
+                ]
+            },
+            {
+                "heading": "Importance in Karst Topography",
+                "points": [
+                    "Indicate long-term cave evolution",
+                    "Show underground water activity",
+                    "Used in paleoclimate studies",
+                    "Important tourist attractions"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Stalagmites form on:",
+                    "options": [
+                    "Cave roof",
+                    "Cave floor",
+                    "River bed",
+                    "Mountain top"
+                    ],
+                    "answer": "Cave floor"
+                },
+                {
+                    "question": "Stalagmites grow:",
+                    "options": [
+                    "Downwards",
+                    "Upwards",
+                    "Sideways",
+                    "Randomly"
+                    ],
+                    "answer": "Upwards"
+                },
+                {
+                    "question": "Pillar columns are formed by:",
+                    "options": [
+                    "Wind action",
+                    "Joining of stalactite and stalagmite",
+                    "River deposition",
+                    "Ice erosion"
+                    ],
+                    "answer": "Joining of stalactite and stalagmite"
+                },
+                {
+                    "question": "Stalagmites are mainly made of:",
+                    "options": [
+                    "Silica",
+                    "Calcium carbonate",
+                    "Iron",
+                    "Aluminium"
+                    ],
+                    "answer": "Calcium carbonate"
+                },
+                {
+                    "question": "Pillar columns are found in:",
+                    "options": [
+                    "Deserts",
+                    "Karst caves",
+                    "Glaciers",
+                    "Volcanoes"
+                    ],
+                    "answer": "Karst caves"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Stalagmites are formed due to:",
+                    "options": [
+                    "Wind deposition",
+                    "Dripping water deposits",
+                    "Ice melting",
+                    "River erosion"
+                    ],
+                    "answer": "Dripping water deposits"
+                },
+                {
+                    "question": "Pillar columns indicate:",
+                    "options": [
+                    "Young cave system",
+                    "Mature cave system",
+                    "No cave system",
+                    "Desert environment"
+                    ],
+                    "answer": "Mature cave system"
+                },
+                {
+                    "question": "Stalagmites are generally:",
+                    "options": [
+                    "Narrow and tall",
+                    "Broad and short",
+                    "Flat and wide",
+                    "Underground rivers"
+                    ],
+                    "answer": "Broad and short"
+                },
+                {
+                    "question": "Both stalactites and stalagmites are made of:",
+                    "options": [
+                    "Sand",
+                    "Calcium carbonate",
+                    "Clay",
+                    "Basalt"
+                    ],
+                    "answer": "Calcium carbonate"
+                },
+                {
+                    "question": "Pillar columns extend from:",
+                    "options": [
+                    "Ground to sky",
+                    "Cave roof to floor",
+                    "River to ocean",
+                    "Mountain to valley"
+                    ],
+                    "answer": "Cave roof to floor"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Stalagmites form on cave floors\n2. Pillar columns form by joining of stalactite and stalagmite\n3. Both are formed by chemical deposition",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "All"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Stalagmite – floor",
+                    "Stalagmite – roof",
+                    "Pillar – wind action",
+                    "Cave – glacier"
+                    ],
+                    "answer": "Stalagmite – floor"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                    "Stalagmites hang from roof",
+                    "Pillars are formed by water erosion",
+                    "Stalagmites grow upward",
+                    "Pillars are surface features"
+                    ],
+                    "answer": "Stalagmites grow upward"
+                },
+                {
+                    "question": "Pillar columns are also called:",
+                    "options": [
+                    "Sand dunes",
+                    "Limestone columns",
+                    "Rock folds",
+                    "Glacial horns"
+                    ],
+                    "answer": "Limestone columns"
+                },
+                {
+                    "question": "Formation of stalagmites involves:",
+                    "options": [
+                    "Wind deposition",
+                    "Mineral-rich dripping water",
+                    "Ice accumulation",
+                    "Volcanic eruption"
+                    ],
+                    "answer": "Mineral-rich dripping water"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Glacial Erosional Landforms",
+        "notes": [
+            {
+                "heading": "Glaciers – Overview",
+                "points": [
+                    "Large masses of moving ice",
+                    "Form in cold regions above snowline",
+                    "Act as powerful erosional agents",
+                    "Move due to gravity",
+                    "Create distinct erosional and depositional landforms"
+                ]
+            },
+            {
+                "heading": "Cirque (Corrie)",
+                "points": [
+                    "Bowl-shaped depression on mountain slopes",
+                    "Formed at the head of a glacier",
+                    "Created by glacial plucking and abrasion",
+                    "Steep back wall and hollow basin",
+                    "Birthplace of valley glaciers"
+                ]
+            },
+            {
+                "heading": "Tarn Lake",
+                "points": [
+                    "Lake formed in a cirque after glacier melts",
+                    "Occupies bowl-shaped cirque basin",
+                    "Clear cold freshwater lake",
+                    "Also called corrie lake",
+                    "Common in glaciated mountain regions"
+                ]
+            },
+            {
+                "heading": "Horns",
+                "points": [
+                    "Pyramid-shaped sharp mountain peaks",
+                    "Formed by erosion from multiple cirques",
+                    "Several glaciers erode a mountain from different sides",
+                    "Example: Matterhorn (Alps)"
+                ]
+            },
+            {
+                "heading": "Arêtes",
+                "points": [
+                    "Sharp, knife-edged ridges",
+                    "Form between two cirques or valleys",
+                    "Created by parallel glacial erosion",
+                    "Very narrow and steep ridges",
+                    "Common in high mountain glaciation"
+                ]
+            },
+            {
+                "heading": "Glacial Valleys (U-shaped Valleys)",
+                "points": [
+                    "Wide, deep U-shaped valleys",
+                    "Formed by glacial erosion",
+                    "Unlike river valleys (V-shaped)",
+                    "Steep sides and flat floor",
+                    "Classic glacial erosional landform"
+                ]
+            },
+            {
+                "heading": "Glacial Troughs",
+                "points": [
+                    "Another name for U-shaped valleys",
+                    "Over-deepened by ice movement",
+                    "Often contain lakes after melting",
+                    "Smoothened valley floors",
+                    "Important geomorphic indicator"
+                ]
+            },
+            {
+                "heading": "Fiords (Fjords)",
+                "points": [
+                    "Deep, narrow sea inlets",
+                    "Form when glacial valleys are flooded by sea",
+                    "Found in coastal glaciated regions",
+                    "Steep valley walls and deep water",
+                    "Example: Norway coast"
+                ]
+            },
+            {
+                "heading": "Sequence of Glacial Erosion",
+                "points": [
+                    "Cirque formation at glacier head",
+                    "Erosion deepens valley into trough",
+                    "Arêtes and horns form at ridges",
+                    "Melting creates tarn lakes",
+                    "Sea invasion creates fiords"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Cirques are formed by:",
+                    "options": [
+                    "River erosion",
+                    "Glacial erosion",
+                    "Wind action",
+                    "Volcanism"
+                    ],
+                    "answer": "Glacial erosion"
+                },
+                {
+                    "question": "Tarn lakes are found in:",
+                    "options": [
+                    "Deserts",
+                    "Cirques",
+                    "Deltas",
+                    "Plains"
+                    ],
+                    "answer": "Cirques"
+                },
+                {
+                    "question": "Arêtes are:",
+                    "options": [
+                    "Flat plains",
+                    "Sharp ridges",
+                    "River valleys",
+                    "Ocean trenches"
+                    ],
+                    "answer": "Sharp ridges"
+                },
+                {
+                    "question": "Glacial valleys are:",
+                    "options": [
+                    "V-shaped",
+                    "U-shaped",
+                    "Circular",
+                    "Triangular"
+                    ],
+                    "answer": "U-shaped"
+                },
+                {
+                    "question": "Fiords are formed by:",
+                    "options": [
+                    "River flooding",
+                    "Sea invasion of glacial valleys",
+                    "Wind erosion",
+                    "Volcanoes"
+                    ],
+                    "answer": "Sea invasion of glacial valleys"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Horn mountains are formed by:",
+                    "options": [
+                    "Single glacier erosion",
+                    "Multiple cirque erosion",
+                    "Wind deposition",
+                    "River deposition"
+                    ],
+                    "answer": "Multiple cirque erosion"
+                },
+                {
+                    "question": "Tarn lakes are:",
+                    "options": [
+                    "River lakes",
+                    "Glacial lakes in cirques",
+                    "Desert lakes",
+                    "Volcanic lakes"
+                    ],
+                    "answer": "Glacial lakes in cirques"
+                },
+                {
+                    "question": "U-shaped valleys are also called:",
+                    "options": [
+                    "River valleys",
+                    "Glacial troughs",
+                    "Wind valleys",
+                    "Coastal valleys"
+                    ],
+                    "answer": "Glacial troughs"
+                },
+                {
+                    "question": "Arêtes form between:",
+                    "options": [
+                    "Rivers",
+                    "Two cirques or valleys",
+                    "Oceans",
+                    "Plains"
+                    ],
+                    "answer": "Two cirques or valleys"
+                },
+                {
+                    "question": "Fiords are common in:",
+                    "options": [
+                    "India",
+                    "Norway",
+                    "Sahara",
+                    "Amazon basin"
+                    ],
+                    "answer": "Norway"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Cirques are glacial birthplaces\n2. Tarn lakes form in cirques\n3. Fiords are submerged glacial valleys",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "All"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Arête – sharp ridge",
+                    "Horn – flat plain",
+                    "Cirque – river mouth",
+                    "Fiord – desert valley"
+                    ],
+                    "answer": "Arête – sharp ridge"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                    "Glacial valleys are V-shaped",
+                    "Horn is formed by river erosion",
+                    "Fiords are flooded glacial valleys",
+                    "Cirques form at river mouths"
+                    ],
+                    "answer": "Fiords are flooded glacial valleys"
+                },
+                {
+                    "question": "Tarn lakes are formed due to:",
+                    "options": [
+                    "Wind deposition",
+                    "Melting of glaciers in cirques",
+                    "River flooding",
+                    "Volcanic eruption"
+                    ],
+                    "answer": "Melting of glaciers in cirques"
+                },
+                {
+                    "question": "Glacial troughs are characterized by:",
+                    "options": [
+                    "Narrow V-shape",
+                    "Wide U-shape",
+                    "Circular shape",
+                    "Flat desert surface"
+                    ],
+                    "answer": "Wide U-shape"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Glacial Depositional Landforms",
+        "notes": [
+            {
+                "heading": "Glacial Depositional Landforms – Overview",
+                "points": [
+                    "Formed by deposition of sediments carried by glaciers",
+                    "Material ranges from fine clay to large boulders",
+                    "Also called glacial drift deposits",
+                    "Occurs mainly during melting or stagnation of ice"
+                ]
+            },
+            {
+                "heading": "Glacial Till",
+                "points": [
+                    "Unsorted mixture of sediments deposited directly by ice",
+                    "Includes clay, sand, gravel, and boulders",
+                    "No layering or sorting",
+                    "Deposited as glacier melts",
+                    "Forms basic material for moraines"
+                ]
+            },
+            {
+                "heading": "Moraines – Overview",
+                "points": [
+                    "Accumulations of glacial till",
+                    "Can be found at sides, front, or underneath glacier",
+                    "Formed by direct ice deposition",
+                    "Irregular ridges or mounds"
+                ]
+            },
+            {
+                "heading": "Types of Moraines",
+                "points": [
+                    "Lateral Moraine – along sides of glacier",
+                    "Medial Moraine – formed when two glaciers merge",
+                    "Terminal Moraine – at glacier end (maximum advance)",
+                    "Ground Moraine – beneath glacier",
+                    "Each shows glacier movement history"
+                ]
+            },
+            {
+                "heading": "Eskers",
+                "points": [
+                    "Long, winding ridges of sand and gravel",
+                    "Formed by meltwater streams under glaciers",
+                    "Deposited in sub-glacial tunnels",
+                    "Look like inverted river channels",
+                    "Important stratified deposit"
+                ]
+            },
+            {
+                "heading": "Outwash Plains",
+                "points": [
+                    "Broad, flat plains in front of glaciers",
+                    "Formed by meltwater deposition",
+                    "Sorted sediments (sand, gravel)",
+                    "Carried by glacial streams",
+                    "Also called sandur plains"
+                ]
+            },
+            {
+                "heading": "Drumlins",
+                "points": [
+                    "Streamlined, oval-shaped hills",
+                    "Composed of till",
+                    "Formed under moving ice",
+                    "Steep side faces glacier origin, gentle slope opposite",
+                    "Indicate direction of ice movement"
+                ]
+            },
+            {
+                "heading": "Comparison of Depositional Features",
+                "points": [
+                    "Till → unsorted material",
+                    "Moraines → till ridges",
+                    "Eskers → meltwater ridges",
+                    "Outwash plains → sorted sediments",
+                    "Drumlins → streamlined hills"
+                ]
+            },
+            {
+                "heading": "Formation Sequence",
+                "points": [
+                    "Glacier carries debris (till)",
+                    "Deposition during melting forms moraines",
+                    "Meltwater streams form eskers",
+                    "Sediments spread as outwash plains",
+                    "Ice movement shapes drumlins"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Glacial till is:",
+                    "options": [
+                    "Well sorted sediment",
+                    "Unsorted sediment",
+                    "Volcanic ash",
+                    "River sand only"
+                    ],
+                    "answer": "Unsorted sediment"
+                },
+                {
+                    "question": "Moraines are formed by:",
+                    "options": [
+                    "Wind deposition",
+                    "Glacial deposition",
+                    "River erosion",
+                    "Ocean currents"
+                    ],
+                    "answer": "Glacial deposition"
+                },
+                {
+                    "question": "Eskers are formed by:",
+                    "options": [
+                    "Wind",
+                    "Sub-glacial meltwater streams",
+                    "Volcanoes",
+                    "Rivers only"
+                    ],
+                    "answer": "Sub-glacial meltwater streams"
+                },
+                {
+                    "question": "Outwash plains are made of:",
+                    "options": [
+                    "Unsorted till",
+                    "Sorted sediments",
+                    "Lava",
+                    "Clay only"
+                    ],
+                    "answer": "Sorted sediments"
+                },
+                {
+                    "question": "Drumlins indicate:",
+                    "options": [
+                    "Wind direction",
+                    "Ice movement direction",
+                    "River flow",
+                    "Ocean currents"
+                    ],
+                    "answer": "Ice movement direction"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Terminal moraine forms at:",
+                    "options": [
+                    "Glacier origin",
+                    "End of glacier",
+                    "Middle of glacier",
+                    "River mouth"
+                    ],
+                    "answer": "End of glacier"
+                },
+                {
+                    "question": "Eskers are:",
+                    "options": [
+                    "Flat plains",
+                    "Winding ridges",
+                    "Deep valleys",
+                    "Lakes"
+                    ],
+                    "answer": "Winding ridges"
+                },
+                {
+                    "question": "Outwash plains are also called:",
+                    "options": [
+                    "Sandur",
+                    "Delta",
+                    "Dune",
+                    "Plateau"
+                    ],
+                    "answer": "Sandur"
+                },
+                {
+                    "question": "Drumlins are:",
+                    "options": [
+                    "Circular lakes",
+                    "Streamlined hills",
+                    "River valleys",
+                    "Volcanic cones"
+                    ],
+                    "answer": "Streamlined hills"
+                },
+                {
+                    "question": "Moraines consist of:",
+                    "options": [
+                    "Only sand",
+                    "Mixed debris",
+                    "Only clay",
+                    "Only water"
+                    ],
+                    "answer": "Mixed debris"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Till is unsorted material\n2. Eskers are formed by meltwater streams\n3. Drumlins indicate ice movement direction",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "All"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Moraines – ice deposition",
+                    "Eskers – wind action",
+                    "Outwash plain – volcanic ash",
+                    "Drumlins – river deposition"
+                    ],
+                    "answer": "Moraines – ice deposition"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                    "Till is well sorted",
+                    "Eskers are straight ridges",
+                    "Outwash plains are sorted deposits",
+                    "Drumlins are water formed"
+                    ],
+                    "answer": "Outwash plains are sorted deposits"
+                },
+                {
+                    "question": "Medial moraine forms when:",
+                    "options": [
+                    "Two glaciers merge",
+                    "Glacier melts completely",
+                    "River joins sea",
+                    "Wind deposits sand"
+                    ],
+                    "answer": "Two glaciers merge"
+                },
+                {
+                    "question": "Drumlins have:",
+                    "options": [
+                    "Random shape",
+                    "Streamlined shape",
+                    "Flat surface",
+                    "Vertical cliffs"
+                    ],
+                    "answer": "Streamlined shape"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Waves and Currents (High Rocky Coasts & Low Sedimentary Coasts)",
+        "notes": [
+            {
+                "heading": "Waves and Currents – Overview",
+                "points": [
+                    "Marine processes shaping coastal landscapes",
+                    "Waves are primary erosional agents",
+                    "Currents redistribute sediments along coasts",
+                    "Together they create diverse coastal landforms"
+                ]
+            },
+            {
+                "heading": "Wave Action – Basic Concept",
+                "points": [
+                    "Generated by wind blowing over sea surface",
+                    "Cause erosion, transport, and deposition",
+                    "Energy concentrated in breaker zone",
+                    "Strongest impact on coastal rocks",
+                    "Controls coastal landform development"
+                ]
+            },
+            {
+                "heading": "Currents – Role in Coasts",
+                "points": [
+                    "Longshore currents move sediments parallel to coast",
+                    "Help in redistribution of sand and silt",
+                    "Responsible for deposition features like spits",
+                    "Influence coastline shape over time",
+                    "Work continuously and slowly"
+                ]
+            },
+            {
+                "heading": "High Rocky Coasts – Overview",
+                "points": [
+                    "Steep and rugged coastlines",
+                    "Dominated by erosional features",
+                    "Formed in resistant rocks (granite, basalt)",
+                    "High wave energy zones",
+                    "Example: Western coast of India (Konkan cliffs)"
+                ]
+            },
+            {
+                "heading": "Features of High Rocky Coasts",
+                "points": [
+                    "Sea cliffs – steep vertical rock faces",
+                    "Wave-cut platforms – flat erosion surfaces",
+                    "Sea caves – hollowed rock formations",
+                    "Sea arches – natural rock bridges",
+                    "Stacks – isolated rock pillars"
+                ]
+            },
+            {
+                "heading": "Formation of Sea Cliffs and Platforms",
+                "points": [
+                    "Wave erosion at base of rock",
+                    "Undercutting creates notches",
+                    "Collapse leads to cliff retreat",
+                    "Flat platform forms at base",
+                    "Continuous erosion process"
+                ]
+            },
+            {
+                "heading": "Low Sedimentary Coasts – Overview",
+                "points": [
+                    "Gentle sloping coastal plains",
+                    "Made of loose sediments (sand, silt, clay)",
+                    "Dominated by deposition processes",
+                    "Low wave energy environments",
+                    "Common in deltaic regions"
+                ]
+            },
+            {
+                "heading": "Features of Low Sedimentary Coasts",
+                "points": [
+                    "Beaches – accumulation of sand and pebbles",
+                    "Spits – narrow extensions of sand",
+                    "Bars – submerged ridges parallel to coast",
+                    "Lagoons – water bodies behind bars",
+                    "Deltas – river mouth deposition"
+                ]
+            },
+            {
+                "heading": "High Rocky vs Low Sedimentary Coasts",
+                "points": [
+                    "High Rocky → erosion dominated",
+                    "Low Sedimentary → deposition dominated",
+                    "High energy vs low energy environment",
+                    "Cliffs vs beaches contrast"
+                ]
+            },
+            {
+                "heading": "Coastal Evolution Process",
+                "points": [
+                    "Wave erosion shapes rocky coasts",
+                    "Sediment transport by currents",
+                    "Deposition in sheltered areas",
+                    "Coastline constantly changes",
+                    "Dynamic equilibrium system"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Waves are mainly caused by:",
+                    "options": [
+                    "Earthquakes",
+                    "Wind",
+                    "Tides",
+                    "Rivers"
+                    ],
+                    "answer": "Wind"
+                },
+                {
+                    "question": "High rocky coasts are mainly:",
+                    "options": [
+                    "Depositional",
+                    "Erosional",
+                    "Glacial",
+                    "Volcanic"
+                    ],
+                    "answer": "Erosional"
+                },
+                {
+                    "question": "Low sedimentary coasts are mainly:",
+                    "options": [
+                    "Erosional",
+                    "Depositional",
+                    "Mountainous",
+                    "Desert"
+                    ],
+                    "answer": "Depositional"
+                },
+                {
+                    "question": "Sea cliffs are formed by:",
+                    "options": [
+                    "Wind deposition",
+                    "Wave erosion",
+                    "River deposition",
+                    "Ice melting"
+                    ],
+                    "answer": "Wave erosion"
+                },
+                {
+                    "question": "Beaches are formed by:",
+                    "options": [
+                    "Volcanism",
+                    "Sediment deposition",
+                    "Earthquakes",
+                    "Wind erosion"
+                    ],
+                    "answer": "Sediment deposition"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Wave-cut platforms are:",
+                    "options": [
+                    "Depositional plains",
+                    "Flat erosion surfaces",
+                    "Volcanic cones",
+                    "Glacial valleys"
+                    ],
+                    "answer": "Flat erosion surfaces"
+                },
+                {
+                    "question": "Spits are formed by:",
+                    "options": [
+                    "River erosion",
+                    "Longshore drift",
+                    "Ice movement",
+                    "Wind erosion"
+                    ],
+                    "answer": "Longshore drift"
+                },
+                {
+                    "question": "Bars in coastal areas are:",
+                    "options": [
+                    "Rock cliffs",
+                    "Sand ridges",
+                    "Mountains",
+                    "Rivers"
+                    ],
+                    "answer": "Sand ridges"
+                },
+                {
+                    "question": "Sea caves form due to:",
+                    "options": [
+                    "Wind action",
+                    "Wave erosion",
+                    "River flow",
+                    "Volcanoes"
+                    ],
+                    "answer": "Wave erosion"
+                },
+                {
+                    "question": "Low energy coasts favor:",
+                    "options": [
+                    "Erosion",
+                    "Deposition",
+                    "Glaciation",
+                    "Tectonics"
+                    ],
+                    "answer": "Deposition"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. High rocky coasts are erosional\n2. Low sedimentary coasts are depositional\n3. Waves are primary coastal agents",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "All"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Sea cliff – erosion",
+                    "Beach – erosion",
+                    "Spit – glacier",
+                    "Bar – volcano"
+                    ],
+                    "answer": "Sea cliff – erosion"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                    "Waves only deposit sediments",
+                    "Currents transport sediments",
+                    "Cliffs are depositional",
+                    "Beaches are erosional"
+                    ],
+                    "answer": "Currents transport sediments"
+                },
+                {
+                    "question": "Wave-cut platforms are formed by:",
+                    "options": [
+                    "Deposition",
+                    "Erosion at cliff base",
+                    "Wind action",
+                    "River flooding"
+                    ],
+                    "answer": "Erosion at cliff base"
+                },
+                {
+                    "question": "Longshore drift is responsible for:",
+                    "options": [
+                    "Mountain formation",
+                    "Sediment movement along coast",
+                    "Volcanism",
+                    "Earthquakes"
+                    ],
+                    "answer": "Sediment movement along coast"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Coastal Erosional Landforms",
+        "notes": [
+            {
+                "heading": "Coastal Erosional Landforms – Overview",
+                "points": [
+                    "Formed by continuous wave action on coastlines",
+                    "Main process: hydraulic action + abrasion",
+                    "Common in high-energy rocky coasts",
+                    "Lead to development of steep and rugged coastlines"
+                ]
+            },
+            {
+                "heading": "Cliffs",
+                "points": [
+                    "Steep or vertical rock faces along coast",
+                    "Formed by wave erosion at base of landmass",
+                    "Wave cuts a notch → overhang collapses",
+                    "Cliff retreats inland over time",
+                    "Common in hard rock coasts (granite, basalt)"
+                ]
+            },
+            {
+                "heading": "Wave-cut Notch (Key Step)",
+                "points": [
+                    "Formed at base of coastal cliff",
+                    "Created by continuous wave attack",
+                    "Undercuts the rock face",
+                    "Leads to instability of upper part",
+                    "Triggers cliff collapse process"
+                ]
+            },
+            {
+                "heading": "Wave-cut Terraces (Platforms)",
+                "points": [
+                    "Flat, gently sloping rock surfaces",
+                    "Formed after cliff retreat",
+                    "Represent former sea levels",
+                    "Created by repeated wave erosion",
+                    "Important evidence of coastal evolution"
+                ]
+            },
+            {
+                "heading": "Caves",
+                "points": [
+                    "Hollow cavities formed in coastal rocks",
+                    "Develop along weak zones or joints",
+                    "Formed by wave hydraulic action",
+                    "Waves force air and water into cracks",
+                    "Cracks enlarge into caves"
+                ]
+            },
+            {
+                "heading": "Stacks",
+                "points": [
+                    "Isolated vertical rock pillars",
+                    "Formed after collapse of sea arches",
+                    "Highly resistant rock remains standing",
+                    "Eventually eroded into stumps",
+                    "Classic coastal erosion feature"
+                ]
+            },
+            {
+                "heading": "Sequence of Coastal Erosion",
+                "points": [
+                    "Cracks in cliff → caves form",
+                    "Caves enlarge → arches form",
+                    "Arches collapse → stacks form",
+                    "Stacks erode → stumps",
+                    "Continuous wave erosion cycle"
+                ]
+            },
+            {
+                "heading": "Terraces vs Cliffs",
+                "points": [
+                    "Cliffs → steep vertical erosion surface",
+                    "Terraces → flat former shoreline",
+                    "Cliffs show active erosion",
+                    "Terraces show past sea level",
+                    "Both indicate coastal evolution"
+                ]
+            },
+            {
+                "heading": "Importance of Erosional Landforms",
+                "points": [
+                    "Indicate strength of wave energy",
+                    "Show coastline retreat patterns",
+                    "Help in studying sea-level changes",
+                    "Important for coastal geomorphology"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Coastal cliffs are formed mainly by:",
+                    "options": [
+                    "Wind deposition",
+                    "Wave erosion",
+                    "River deposition",
+                    "Glacial action"
+                    ],
+                    "answer": "Wave erosion"
+                },
+                {
+                    "question": "Caves in coastal areas are formed due to:",
+                    "options": [
+                    "Wind action",
+                    "Hydraulic action of waves",
+                    "Ice melting",
+                    "Volcanism"
+                    ],
+                    "answer": "Hydraulic action of waves"
+                },
+                {
+                    "question": "Stacks are:",
+                    "options": [
+                    "Flat plains",
+                    "Isolated rock pillars",
+                    "River deltas",
+                    "Sand dunes"
+                    ],
+                    "answer": "Isolated rock pillars"
+                },
+                {
+                    "question": "Wave-cut terraces represent:",
+                    "options": [
+                    "Current sea level",
+                    "Former sea levels",
+                    "River beds",
+                    "Mountain tops"
+                    ],
+                    "answer": "Former sea levels"
+                },
+                {
+                    "question": "Cliffs are mainly found in:",
+                    "options": [
+                    "Low energy coasts",
+                    "High energy rocky coasts",
+                    "River plains",
+                    "Deserts"
+                    ],
+                    "answer": "High energy rocky coasts"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Wave-cut notch forms at:",
+                    "options": [
+                    "Cliff top",
+                    "Cliff base",
+                    "Sea surface",
+                    "River mouth"
+                    ],
+                    "answer": "Cliff base"
+                },
+                {
+                    "question": "Stacks are formed after:",
+                    "options": [
+                    "Cave collapse",
+                    "Arch collapse",
+                    "River erosion",
+                    "Wind erosion"
+                    ],
+                    "answer": "Arch collapse"
+                },
+                {
+                    "question": "Terraces are:",
+                    "options": [
+                    "Erosional features only",
+                    "Flat rock surfaces from past sea levels",
+                    "Volcanic plains",
+                    "Glacial deposits"
+                    ],
+                    "answer": "Flat rock surfaces from past sea levels"
+                },
+                {
+                    "question": "Sea caves develop along:",
+                    "options": [
+                    "Hard rock only",
+                    "Weak zones or joints",
+                    "River channels",
+                    "Mountain peaks"
+                    ],
+                    "answer": "Weak zones or joints"
+                },
+                {
+                    "question": "Stacks eventually erode into:",
+                    "options": [
+                    "Mountains",
+                    "Stumps",
+                    "Rivers",
+                    "Cliffs"
+                    ],
+                    "answer": "Stumps"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Cliffs are formed by wave erosion\n2. Caves can evolve into stacks\n3. Terraces represent past sea levels",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "All"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Cliff – vertical erosion face",
+                    "Stack – river deposit",
+                    "Terrace – dune",
+                    "Cave – glacier feature"
+                    ],
+                    "answer": "Cliff – vertical erosion face"
+                },
+                {
+                    "question": "Correct coastal erosion sequence is:",
+                    "options": [
+                    "Stack → cave → arch",
+                    "Cave → arch → stack",
+                    "Arch → cave → stack",
+                    "Cliff → dune → cave"
+                    ],
+                    "answer": "Cave → arch → stack"
+                },
+                {
+                    "question": "Wave-cut terraces are important because they:",
+                    "options": [
+                    "Indicate volcanic activity",
+                    "Show past sea levels",
+                    "Form river valleys",
+                    "Indicate wind direction"
+                    ],
+                    "answer": "Show past sea levels"
+                },
+                {
+                    "question": "Cliffs retreat due to:",
+                    "options": [
+                    "River deposition",
+                    "Wave undercutting and collapse",
+                    "Wind erosion",
+                    "Glacial melting"
+                    ],
+                    "answer": "Wave undercutting and collapse"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Coastal Depositional Landforms",
+        "notes": [
+            {
+                "heading": "Coastal Depositional Landforms – Overview",
+                "points": [
+                    "Formed by deposition of sediments by waves and currents",
+                    "Occurs mainly in low-energy coastal environments",
+                    "Sediments include sand, silt, and pebbles",
+                    "Shaped by longshore drift and wave action"
+                ]
+            },
+            {
+                "heading": "Beaches",
+                "points": [
+                    "Gently sloping accumulation of sand or pebbles",
+                    "Formed by wave deposition along shoreline",
+                    "Constantly reshaped by tides and waves",
+                    "Found in low-energy coastal areas",
+                    "Important tourist and ecological zones"
+                ]
+            },
+            {
+                "heading": "Types of Beaches",
+                "points": [
+                    "Sandy beaches – fine particles",
+                    "Pebble beaches – coarse material",
+                    "Shingle beaches – rounded gravels",
+                    "Tropical beaches – coral sand",
+                    "Each depends on wave energy and material supply"
+                ]
+            },
+            {
+                "heading": "Coastal Dunes",
+                "points": [
+                    "Wind-formed sand hills near beaches",
+                    "Formed by aeolian deposition of beach sand",
+                    "Vegetation helps stabilize dunes",
+                    "Act as natural barriers against sea intrusion",
+                    "Common in arid and coastal regions"
+                ]
+            },
+            {
+                "heading": "Types of Dunes",
+                "points": [
+                    "Barchan dunes – crescent-shaped",
+                    "Parabolic dunes – U-shaped with vegetation",
+                    "Transverse dunes – ridge-like",
+                    "Longitudinal dunes – parallel to wind",
+                    "Seif dunes – long straight ridges"
+                ]
+            },
+            {
+                "heading": "Bars",
+                "points": [
+                    "Submerged or emerged ridges of sand",
+                    "Formed parallel to coastline",
+                    "Created by wave deposition",
+                    "Can partially enclose water bodies",
+                    "Important for lagoon formation"
+                ]
+            },
+            {
+                "heading": "Types of Bars",
+                "points": [
+                    "Offshore bars – below sea level",
+                    "Barrier bars – above sea level",
+                    "Bay bars – across bays",
+                    "Coastal bars – parallel to shore",
+                    "All formed by wave deposition"
+                ]
+            },
+            {
+                "heading": "Barriers (Barrier Islands)",
+                "points": [
+                    "Long narrow sandy islands parallel to coast",
+                    "Separated from mainland by lagoon or bay",
+                    "Formed by wave and current deposition",
+                    "Protect coast from strong wave action",
+                    "Highly dynamic coastal features"
+                ]
+            },
+            {
+                "heading": "Spits",
+                "points": [
+                    "Narrow extension of sand projecting into sea or lagoon",
+                    "Formed by longshore drift",
+                    "One end attached to land",
+                    "Curved tip often due to wave refraction",
+                    "Can evolve into bars or barriers"
+                ]
+            },
+            {
+                "heading": "Formation Process",
+                "points": [
+                    "Sediment transported by longshore drift",
+                    "Deposition occurs in sheltered areas",
+                    "Waves lose energy → sediment settles",
+                    "Wind reshapes exposed sand (dunes)",
+                    "Continuous coastal reshaping process"
+                ]
+            },
+            {
+                "heading": "Bars vs Spits vs Barriers",
+                "points": [
+                    "Spit → attached at one end",
+                    "Bar → ridge parallel or across coast",
+                    "Barrier → offshore island separated by lagoon",
+                    "All formed by deposition"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Beaches are formed mainly by:",
+                    "options": [
+                    "Wind erosion",
+                    "Wave deposition",
+                    "Glacial action",
+                    "Volcanism"
+                    ],
+                    "answer": "Wave deposition"
+                },
+                {
+                    "question": "Dunes are formed by:",
+                    "options": [
+                    "Water",
+                    "Wind",
+                    "Ice",
+                    "Earthquakes"
+                    ],
+                    "answer": "Wind"
+                },
+                {
+                    "question": "Spits are formed by:",
+                    "options": [
+                    "River erosion",
+                    "Longshore drift",
+                    "Glaciers",
+                    "Volcanoes"
+                    ],
+                    "answer": "Longshore drift"
+                },
+                {
+                    "question": "Bars are formed by:",
+                    "options": [
+                    "Wind deposition",
+                    "Wave deposition",
+                    "River erosion",
+                    "Ice melting"
+                    ],
+                    "answer": "Wave deposition"
+                },
+                {
+                    "question": "Barrier islands are found:",
+                    "options": [
+                    "In deserts",
+                    "Parallel to coast",
+                    "In mountains",
+                    "In rivers"
+                    ],
+                    "answer": "Parallel to coast"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Parabolic dunes are:",
+                    "options": [
+                    "Crescent-shaped",
+                    "U-shaped",
+                    "Circular",
+                    "Flat plains"
+                    ],
+                    "answer": "U-shaped"
+                },
+                {
+                    "question": "Spits are attached at:",
+                    "options": [
+                    "Both ends",
+                    "One end",
+                    "No end",
+                    "Sea floor only"
+                    ],
+                    "answer": "One end"
+                },
+                {
+                    "question": "Bars can help form:",
+                    "options": [
+                    "Mountains",
+                    "Lagoons",
+                    "Valleys",
+                    "Plateaus"
+                    ],
+                    "answer": "Lagoons"
+                },
+                {
+                    "question": "Beach sediments are:",
+                    "options": [
+                    "Always clay",
+                    "Sand and pebbles",
+                    "Only rocks",
+                    "Only silt"
+                    ],
+                    "answer": "Sand and pebbles"
+                },
+                {
+                    "question": "Longshore drift transports:",
+                    "options": [
+                    "Ice",
+                    "Sediments along coast",
+                    "Lava",
+                    "Air"
+                    ],
+                    "answer": "Sediments along coast"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Beaches are depositional features\n2. Spits form due to longshore drift\n3. Dunes are formed by wind action",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "All"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Spit – one end attached",
+                    "Bar – wind erosion",
+                    "Dune – river deposit",
+                    "Beach – glacier feature"
+                    ],
+                    "answer": "Spit – one end attached"
+                },
+                {
+                    "question": "Barrier islands are:",
+                    "options": [
+                    "Connected to mainland",
+                    "Separated by lagoon",
+                    "Mountain ridges",
+                    "Volcanic cones"
+                    ],
+                    "answer": "Separated by lagoon"
+                },
+                {
+                    "question": "Correct formation process of spits is:",
+                    "options": [
+                    "River erosion",
+                    "Longshore drift deposition",
+                    "Wind erosion",
+                    "Glacial deposition"
+                    ],
+                    "answer": "Longshore drift deposition"
+                },
+                {
+                    "question": "Dunes are stabilized by:",
+                    "options": [
+                    "Ice",
+                    "Vegetation",
+                    "Rocks only",
+                    "Water currents"
+                    ],
+                    "answer": "Vegetation"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Weathering Factors (Topographic & Vegetative)",
+        "notes": [
+            {
+                "heading": "Weathering – Context",
+                "points": [
+                    "Weathering is controlled not only by rocks and climate",
+                    "Topography and vegetation also strongly influence it",
+                    "These factors modify intensity and type of weathering",
+                    "Important for understanding landscape variation"
+                ]
+            },
+            {
+                "heading": "Topographic Factors – Overview",
+                "points": [
+                    "Relate to relief, slope, and elevation",
+                    "Control drainage, exposure, and erosion intensity",
+                    "Influence rate of weathering processes",
+                    "Steepness is a key controlling factor",
+                    "Important geomorphological control factor"
+                ]
+            },
+            {
+                "heading": "Slope (Most Important Topographic Factor)",
+                "points": [
+                    "Steep slopes → faster removal of weathered material",
+                    "Gentle slopes → accumulation of debris",
+                    "Steep areas expose fresh rock surfaces continuously",
+                    "Increases mechanical weathering activity",
+                    "Direct control on weathering rate"
+                ]
+            },
+            {
+                "heading": "Relief and Elevation",
+                "points": [
+                    "High relief areas have intense physical weathering",
+                    "Low relief areas favor soil accumulation",
+                    "Higher altitude → lower temperature → freeze-thaw action",
+                    "Elevation influences climatic conditions",
+                    "Important for mountain geomorphology"
+                ]
+            },
+            {
+                "heading": "Drainage and Runoff",
+                "points": [
+                    "Rapid runoff increases erosion and exposure",
+                    "Water movement removes weathered material",
+                    "Stagnant water increases chemical weathering",
+                    "Drainage density affects rock breakdown",
+                    "Strong link with surface processes"
+                ]
+            },
+            {
+                "heading": "Vegetative Factors – Overview",
+                "points": [
+                    "Vegetation cover influences weathering intensity",
+                    "Acts as protective layer on rocks",
+                    "Controls soil moisture and temperature",
+                    "Important in biological and chemical weathering",
+                    "Key eco-geomorphic factor"
+                ]
+            },
+            {
+                "heading": "Role of Vegetation Cover",
+                "points": [
+                    "Dense vegetation reduces physical weathering",
+                    "Roots penetrate rocks causing mechanical breakdown",
+                    "Organic acids enhance chemical weathering",
+                    "Protects soil from direct rainfall impact",
+                    "Balances erosion and weathering"
+                ]
+            },
+            {
+                "heading": "Organic Activity",
+                "points": [
+                    "Plant roots widen rock cracks",
+                    "Decaying vegetation produces acids",
+                    "Microorganisms assist chemical breakdown",
+                    "Humus formation enhances soil development",
+                    "Important in biological weathering"
+                ]
+            },
+            {
+                "heading": "Vegetation vs Bare Surfaces",
+                "points": [
+                    "Vegetated areas → slower erosion but more chemical activity",
+                    "Bare surfaces → higher physical weathering",
+                    "Deserts show rapid temperature-driven breakdown",
+                    "Forests show slow but deep chemical alteration",
+                    "Strong contrast in landscapes"
+                ]
+            },
+            {
+                "heading": "Interaction of Factors",
+                "points": [
+                    "Topography controls exposure and drainage",
+                    "Vegetation controls protection and chemical activity",
+                    "Both modify climatic and geological effects",
+                    "Together shape landform evolution",
+                    "Integrated geomorphic system"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Steep slopes generally cause:",
+                    "options": [
+                    "Accumulation of debris",
+                    "Faster removal of material",
+                    "No weathering",
+                    "Only chemical weathering"
+                    ],
+                    "answer": "Faster removal of material"
+                },
+                {
+                    "question": "Vegetation mainly acts as:",
+                    "options": [
+                    "Erosion accelerator",
+                    "Protective cover",
+                    "Volcanic agent",
+                    "Ice agent"
+                    ],
+                    "answer": "Protective cover"
+                },
+                {
+                    "question": "Roots of plants cause:",
+                    "options": [
+                    "Chemical weathering only",
+                    "Mechanical weathering",
+                    "Wind erosion",
+                    "Deposition"
+                    ],
+                    "answer": "Mechanical weathering"
+                },
+                {
+                    "question": "Bare surfaces experience:",
+                    "options": [
+                    "Less weathering",
+                    "More physical weathering",
+                    "No change",
+                    "Only chemical weathering"
+                    ],
+                    "answer": "More physical weathering"
+                },
+                {
+                    "question": "High relief areas show:",
+                    "options": [
+                    "Slow weathering",
+                    "Intense physical weathering",
+                    "No weathering",
+                    "Only deposition"
+                    ],
+                    "answer": "Intense physical weathering"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Vegetation reduces weathering by:",
+                    "options": [
+                    "Blocking sunlight only",
+                    "Protecting surface from direct impact",
+                    "Increasing wind speed",
+                    "Stopping rainfall"
+                    ],
+                    "answer": "Protecting surface from direct impact"
+                },
+                {
+                    "question": "Organic acids in soil are produced by:",
+                    "options": [
+                    "Rocks",
+                    "Decomposing vegetation",
+                    "Wind",
+                    "Ice",
+                    "Ocean water"
+                    ],
+                    "answer": "Decomposing vegetation"
+                },
+                {
+                    "question": "Drainage affects weathering by:",
+                    "options": [
+                    "Controlling water movement",
+                    "Controlling earthquakes",
+                    "Controlling wind speed",
+                    "Controlling tides"
+                    ],
+                    "answer": "Controlling water movement"
+                },
+                {
+                    "question": "Vegetation-rich areas show:",
+                    "options": [
+                    "No weathering",
+                    "Higher chemical weathering",
+                    "Only physical weathering",
+                    "No soil formation"
+                    ],
+                    "answer": "Higher chemical weathering"
+                },
+                {
+                    "question": "Topography influences weathering through:",
+                    "options": [
+                    "Only temperature",
+                    "Slope and elevation",
+                    "Ocean currents",
+                    "Volcanoes"
+                    ],
+                    "answer": "Slope and elevation"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following:\n1. Steep slopes increase erosion rate\n2. Vegetation protects rock surfaces\n3. Roots can cause mechanical weathering",
+                    "options": ["1 and 2", "2 and 3", "1 and 3", "All"],
+                    "answer": "All"
+                },
+                {
+                    "question": "Which is correctly matched?",
+                    "options": [
+                    "Vegetation – chemical weathering increase",
+                    "Bare land – no weathering",
+                    "Steep slope – sediment accumulation",
+                    "Roots – no rock effect"
+                    ],
+                    "answer": "Vegetation – chemical weathering increase"
+                },
+                {
+                    "question": "Which statement is correct?",
+                    "options": [
+                    "Topography has no role in weathering",
+                    "Vegetation reduces all weathering completely",
+                    "Slope influences weathering intensity",
+                    "Weathering occurs only in plains"
+                    ],
+                    "answer": "Slope influences weathering intensity"
+                },
+                {
+                    "question": "Organic acids help in:",
+                    "options": [
+                    "Volcanism",
+                    "Chemical weathering",
+                    "Wind erosion",
+                    "Ice formation"
+                    ],
+                    "answer": "Chemical weathering"
+                },
+                {
+                    "question": "Dense forests mainly promote:",
+                    "options": [
+                    "Physical weathering",
+                    "Chemical weathering",
+                    "No weathering",
+                    "Only erosion"
+                    ],
+                    "answer": "Chemical weathering"
+                }
+            ]
+        }
+    }
+]

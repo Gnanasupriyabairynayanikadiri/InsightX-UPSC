@@ -1,0 +1,863 @@
+[
+    {
+        "name": "Agricultural Finance – Features & Criteria for Agricultural Credit",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Agricultural finance refers to financial services for agricultural activities",
+                    "Includes credit, loans, subsidies, and insurance for farmers",
+                    "Essential for increasing agricultural productivity and rural development"
+                ]
+            },
+            {
+                "heading": "Agricultural Finance – Meaning",
+                "points": [
+                    "Provision of funds to farmers for agricultural operations",
+                    "Includes short-term, medium-term, and long-term credit",
+                    "Supports purchase of inputs like seeds, fertilizers, machinery",
+                    "Promotes investment in agriculture"
+                ]
+            },
+            {
+                "heading": "Need for Agricultural Finance",
+                "points": [
+                    "Agriculture is dependent on seasonal cycles",
+                    "Farmers require capital for inputs and operations",
+                    "Helps adopt modern technology",
+                    "Reduces dependence on informal moneylenders",
+                    "Ensures stability in farm income"
+                ]
+            },
+            {
+                "heading": "Features of Agricultural Finance",
+                "points": [
+                    "Seasonal demand – credit required during sowing and harvesting",
+                    "High risk – due to dependence on monsoon and climate",
+                    "Small loan size – mostly for small and marginal farmers",
+                    "Scattered demand – rural and remote areas",
+                    "Long gestation period – especially for investments like irrigation",
+                    "Uncertain returns – due to price fluctuations and crop failures",
+                    "Subsidized interest rates in many schemes"
+                ]
+            },
+            {
+                "heading": "Types of Agricultural Credit",
+                "points": [
+                    "Short-term credit – for seeds, fertilizers, pesticides",
+                    "Medium-term credit – for equipment and livestock",
+                    "Long-term credit – for irrigation, land development, tractors",
+                    "Institutional credit – banks, cooperatives, NBFCs",
+                    "Non-institutional credit – moneylenders, traders"
+                ]
+            },
+            {
+                "heading": "Sources of Agricultural Finance",
+                "points": [
+                    "Commercial banks",
+                    "Regional Rural Banks (RRBs)",
+                    "Cooperative banks",
+                    "NABARD (refinancing institution)",
+                    "Microfinance institutions",
+                    "Self-help groups (SHGs)"
+                ]
+            },
+            {
+                "heading": "Criteria for Agricultural Credit",
+                "points": [
+                    "Purpose of loan – productive agricultural use",
+                    "Repayment capacity of farmer",
+                    "Creditworthiness and past record",
+                    "Collateral/security (land, assets)",
+                    "Scale of finance based on crop and region",
+                    "Risk assessment (climate, market conditions)",
+                    "Loan tenure matching crop cycle"
+                ]
+            },
+            {
+                "heading": "Principles of Agricultural Credit",
+                "points": [
+                    "Timely availability of credit",
+                    "Adequate amount of loan",
+                    "Affordable interest rates",
+                    "Flexibility in repayment",
+                    "Accessibility to all farmers",
+                    "Promotion of productive use"
+                ]
+            },
+            {
+                "heading": "Issues in Agricultural Finance",
+                "points": [
+                    "Limited access for small farmers",
+                    "Dependence on informal sources",
+                    "High NPAs in agricultural loans",
+                    "Inadequate institutional reach",
+                    "Delay in credit disbursement",
+                    "Lack of financial literacy"
+                ]
+            },
+            {
+                "heading": "Government Initiatives",
+                "points": [
+                    "Kisan Credit Card (KCC)",
+                    "Interest subvention schemes",
+                    "Priority Sector Lending (PSL)",
+                    "PMFBY (crop insurance)",
+                    "NABARD support and refinancing",
+                    "Financial inclusion programs"
+                ]
+            },
+            {
+                "heading": "Role of NABARD",
+                "points": [
+                    "Provides refinancing to banks",
+                    "Promotes rural development",
+                    "Supports SHGs and microfinance",
+                    "Strengthens credit delivery system",
+                    "Acts as apex institution for agri finance"
+                ]
+            },
+            {
+                "heading": "Way Forward",
+                "points": [
+                    "Expand institutional credit access",
+                    "Promote digital banking in rural areas",
+                    "Enhance financial literacy",
+                    "Strengthen risk management systems",
+                    "Encourage crop insurance",
+                    "Improve credit monitoring and recovery"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Agricultural finance provides:",
+                    "options": [
+                        "Taxes",
+                        "Loans",
+                        "Exports",
+                        "Imports"
+                    ],
+                    "answer": "Loans"
+                },
+                {
+                    "question": "Short-term credit is used for:",
+                    "options": [
+                        "Tractors",
+                        "Seeds",
+                        "Irrigation",
+                        "Land purchase"
+                    ],
+                    "answer": "Seeds"
+                },
+                {
+                    "question": "Major risk in agriculture:",
+                    "options": [
+                        "Technology",
+                        "Monsoon",
+                        "Exports",
+                        "Imports"
+                    ],
+                    "answer": "Monsoon"
+                },
+                {
+                    "question": "NABARD is:",
+                    "options": [
+                        "Commercial bank",
+                        "Apex rural bank",
+                        "Private bank",
+                        "Foreign bank"
+                    ],
+                    "answer": "Apex rural bank"
+                },
+                {
+                    "question": "KCC stands for:",
+                    "options": [
+                        "Kisan Credit Card",
+                        "Krishi Cash Card",
+                        "Kisan Cash Credit",
+                        "Krishi Credit Control"
+                    ],
+                    "answer": "Kisan Credit Card"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "Medium-term credit is used for:",
+                    "options": [
+                        "Seeds",
+                        "Equipment",
+                        "Taxes",
+                        "Exports"
+                    ],
+                    "answer": "Equipment"
+                },
+                {
+                    "question": "Institutional credit includes:",
+                    "options": [
+                        "Moneylenders",
+                        "Banks",
+                        "Traders",
+                        "Friends"
+                    ],
+                    "answer": "Banks"
+                },
+                {
+                    "question": "PSL means:",
+                    "options": [
+                        "Public Sector Lending",
+                        "Priority Sector Lending",
+                        "Private Sector Loan",
+                        "Primary Sector Loan"
+                    ],
+                    "answer": "Priority Sector Lending"
+                },
+                {
+                    "question": "Creditworthiness means:",
+                    "options": [
+                        "Income",
+                        "Repayment ability",
+                        "Exports",
+                        "Imports"
+                    ],
+                    "answer": "Repayment ability"
+                },
+                {
+                    "question": "Agricultural credit demand is:",
+                    "options": [
+                        "Continuous",
+                        "Seasonal",
+                        "Annual",
+                        "Fixed"
+                    ],
+                    "answer": "Seasonal"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Agricultural finance is seasonal\n2. NABARD supports rural credit\n3. All farmers access institutional credit",
+                    "options": [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Main issue in agri finance:",
+                    "options": [
+                        "High access",
+                        "Limited access",
+                        "Exports",
+                        "Imports"
+                    ],
+                    "answer": "Limited access"
+                },
+                {
+                    "question": "Non-institutional source:",
+                    "options": [
+                        "Bank",
+                        "Moneylender",
+                        "RRB",
+                        "NABARD"
+                    ],
+                    "answer": "Moneylender"
+                },
+                {
+                    "question": "Crop insurance helps in:",
+                    "options": [
+                        "Risk management",
+                        "Exports",
+                        "Imports",
+                        "Tax"
+                    ],
+                    "answer": "Risk management"
+                },
+                {
+                    "question": "Best reform:",
+                    "options": [
+                        "Reduce credit",
+                        "Increase access",
+                        "Ban loans",
+                        "Exports"
+                    ],
+                    "answer": "Increase access"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Agricultural Finance – Need, Sources & Problems",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Agricultural finance plays a crucial role in supporting farming activities",
+                    "Ensures availability of funds for production and investment",
+                    "Helps improve productivity and rural livelihoods"
+                ]
+            },
+            {
+                "heading": "Need for Agricultural Finance",
+                "points": [
+                    "Agriculture is seasonal and requires timely funds",
+                    "Purchase of inputs like seeds, fertilizers, pesticides",
+                    "Investment in irrigation, machinery, and infrastructure",
+                    "Adoption of modern technology and high-yield varieties",
+                    "Coping with risks like crop failure and price fluctuations",
+                    "Reducing dependence on moneylenders",
+                    "Ensuring stability in farm income",
+                    "Promoting commercialization of agriculture"
+                ]
+            },
+            {
+                "heading": "Types of Agricultural Credit (Context)",
+                "points": [
+                    "Short-term credit – for seasonal operations",
+                    "Medium-term credit – for equipment and livestock",
+                    "Long-term credit – for capital investments"
+                ]
+            },
+            {
+                "heading": "Sources of Agricultural Finance",
+                "points": [
+                    "Institutional sources:",
+                    "  - Commercial banks",
+                    "  - Regional Rural Banks (RRBs)",
+                    "  - Cooperative banks",
+                    "  - NABARD (refinancing institution)",
+                    "  - Microfinance institutions (MFIs)",
+                    "  - Self Help Groups (SHGs)",
+                    "Non-institutional sources:",
+                    "  - Moneylenders",
+                    "  - Traders and commission agents",
+                    "  - Landlords",
+                    "  - Friends and relatives"
+                ]
+            },
+            {
+                "heading": "Institutional vs Non-Institutional Credit",
+                "points": [
+                    "Institutional credit – regulated, lower interest rates, formal process",
+                    "Non-institutional credit – informal, high interest rates, easy access",
+                    "Shift towards institutional credit after nationalization of banks",
+                    "Still, many small farmers depend on informal sources"
+                ]
+            },
+            {
+                "heading": "Problems of Agricultural Finance",
+                "points": [
+                    "Limited access to institutional credit for small and marginal farmers",
+                    "Dependence on moneylenders with high interest rates",
+                    "Lack of collateral/security for loans",
+                    "Complex loan procedures and documentation",
+                    "Delay in credit disbursement",
+                    "Regional disparities in credit availability",
+                    "High risk due to monsoon dependency",
+                    "Low financial literacy among farmers",
+                    "Increasing Non-Performing Assets (NPAs) in agriculture sector"
+                ]
+            },
+            {
+                "heading": "Issues with Institutional Credit",
+                "points": [
+                    "Inadequate coverage in rural areas",
+                    "Bias towards large farmers",
+                    "Lack of timely credit",
+                    "Poor monitoring and recovery mechanisms",
+                    "Limited credit for tenant farmers"
+                ]
+            },
+            {
+                "heading": "Issues with Non-Institutional Credit",
+                "points": [
+                    "Exploitation through high interest rates",
+                    "Debt traps for farmers",
+                    "No legal protection",
+                    "Unregulated practices",
+                    "Perpetuates rural poverty"
+                ]
+            },
+            {
+                "heading": "Government Initiatives",
+                "points": [
+                    "Kisan Credit Card (KCC)",
+                    "Interest subvention schemes",
+                    "Priority Sector Lending (PSL)",
+                    "PMFBY (crop insurance)",
+                    "Financial inclusion programs",
+                    "Expansion of rural banking"
+                ]
+            },
+            {
+                "heading": "Way Forward",
+                "points": [
+                    "Improve access to institutional credit",
+                    "Simplify loan procedures",
+                    "Promote digital and mobile banking",
+                    "Enhance financial literacy",
+                    "Strengthen SHGs and microfinance",
+                    "Encourage crop insurance coverage",
+                    "Support tenant farmers with formal credit"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "Agricultural finance is needed for:",
+                    "options": [
+                        "Taxes",
+                        "Farm inputs",
+                        "Exports",
+                        "Imports"
+                    ],
+                    "answer": "Farm inputs"
+                },
+                {
+                    "question": "Institutional source:",
+                    "options": [
+                        "Moneylender",
+                        "Bank",
+                        "Trader",
+                        "Relative"
+                    ],
+                    "answer": "Bank"
+                },
+                {
+                    "question": "Non-institutional source:",
+                    "options": [
+                        "RRB",
+                        "Bank",
+                        "Moneylender",
+                        "NABARD"
+                    ],
+                    "answer": "Moneylender"
+                },
+                {
+                    "question": "Main problem:",
+                    "options": [
+                        "High access",
+                        "Limited access",
+                        "Exports",
+                        "Imports"
+                    ],
+                    "answer": "Limited access"
+                },
+                {
+                    "question": "Agriculture depends on:",
+                    "options": [
+                        "Technology",
+                        "Monsoon",
+                        "Exports",
+                        "Imports"
+                    ],
+                    "answer": "Monsoon"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "KCC provides:",
+                    "options": [
+                        "Taxes",
+                        "Credit",
+                        "Exports",
+                        "Imports"
+                    ],
+                    "answer": "Credit"
+                },
+                {
+                    "question": "PSL stands for:",
+                    "options": [
+                        "Public Sector Loan",
+                        "Priority Sector Lending",
+                        "Private Sector Loan",
+                        "Primary Sector Loan"
+                    ],
+                    "answer": "Priority Sector Lending"
+                },
+                {
+                    "question": "Main issue with moneylenders:",
+                    "options": [
+                        "Low interest",
+                        "High interest",
+                        "No interest",
+                        "Exports"
+                    ],
+                    "answer": "High interest"
+                },
+                {
+                    "question": "NPAs mean:",
+                    "options": [
+                        "Loans repaid",
+                        "Loans not repaid",
+                        "Exports",
+                        "Imports"
+                    ],
+                    "answer": "Loans not repaid"
+                },
+                {
+                    "question": "SHGs help in:",
+                    "options": [
+                        "Trade",
+                        "Microfinance",
+                        "Tax",
+                        "Exports"
+                    ],
+                    "answer": "Microfinance"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. Institutional credit is regulated\n2. Non-institutional credit has high interest\n3. All farmers access bank credit",
+                    "options": [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Main challenge:",
+                    "options": [
+                        "High access",
+                        "Financial exclusion",
+                        "Exports",
+                        "Imports"
+                    ],
+                    "answer": "Financial exclusion"
+                },
+                {
+                    "question": "Tenant farmers face:",
+                    "options": [
+                        "Easy credit",
+                        "Credit barriers",
+                        "Exports",
+                        "Imports"
+                    ],
+                    "answer": "Credit barriers"
+                },
+                {
+                    "question": "Best solution:",
+                    "options": [
+                        "Reduce banks",
+                        "Increase institutional credit",
+                        "Ban loans",
+                        "Exports"
+                    ],
+                    "answer": "Increase institutional credit"
+                },
+                {
+                    "question": "Crop insurance helps:",
+                    "options": [
+                        "Risk",
+                        "Exports",
+                        "Imports",
+                        "Tax"
+                    ],
+                    "answer": "Risk"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Measures to Improve Credit Flow to Agriculture & Co-operative Credit Societies",
+        "notes": [
+            {
+                "heading": "Overview",
+                "points": [
+                    "Improving credit flow to agriculture is essential for productivity and rural development",
+                    "Government and institutions have introduced several reforms and schemes",
+                    "Co-operative credit societies play a key role in rural credit delivery"
+                ]
+            },
+            {
+                "heading": "Need to Improve Credit Flow",
+                "points": [
+                    "Large number of small and marginal farmers",
+                    "Dependence on informal credit sources",
+                    "High risk in agriculture sector",
+                    "Need for modernization and investment",
+                    "Ensuring inclusive growth and financial inclusion"
+                ]
+            },
+            {
+                "heading": "Measures to Improve Credit Flow to Agriculture",
+                "points": [
+                    "Expansion of institutional credit through banks and RRBs",
+                    "Priority Sector Lending (PSL) targets for agriculture",
+                    "Kisan Credit Card (KCC) scheme for easy access to credit",
+                    "Interest subvention schemes to reduce borrowing cost",
+                    "Strengthening NABARD for refinancing support",
+                    "Promotion of Self Help Groups (SHGs) and microfinance",
+                    "Financial inclusion initiatives like Jan Dhan Yojana",
+                    "Digitization of banking and direct benefit transfers (DBT)",
+                    "Crop insurance schemes like PMFBY",
+                    "Encouraging agri-fintech solutions"
+                ]
+            },
+            {
+                "heading": "Role of NABARD",
+                "points": [
+                    "Provides refinance support to banks",
+                    "Promotes rural and agricultural development",
+                    "Supports SHGs and cooperative institutions",
+                    "Strengthens rural credit delivery system",
+                    "Acts as apex development bank"
+                ]
+            },
+            {
+                "heading": "Kisan Credit Card (KCC)",
+                "points": [
+                    "Provides revolving credit facility to farmers",
+                    "Covers crop production and allied activities",
+                    "Simplifies loan process",
+                    "Ensures timely availability of credit"
+                ]
+            },
+            {
+                "heading": "Interest Subvention Scheme",
+                "points": [
+                    "Provides subsidized interest rates to farmers",
+                    "Encourages timely repayment",
+                    "Reduces cost of borrowing",
+                    "Promotes formal credit usage"
+                ]
+            },
+            {
+                "heading": "Co-operative Credit Societies – Meaning",
+                "points": [
+                    "Member-owned financial institutions",
+                    "Provide credit to farmers and rural households",
+                    "Based on principles of cooperation and mutual help",
+                    "Important part of rural credit structure"
+                ]
+            },
+            {
+                "heading": "Structure of Co-operative Credit System",
+                "points": [
+                    "Short-term structure:",
+                    "  - Primary Agricultural Credit Societies (PACS)",
+                    "  - District Central Co-operative Banks (DCCBs)",
+                    "  - State Co-operative Banks (SCBs)",
+                    "Long-term structure:",
+                    "  - State Co-operative Agriculture and Rural Development Banks (SCARDBs)",
+                    "  - Primary Cooperative Agriculture and Rural Development Banks (PCARDBs)"
+                ]
+            },
+            {
+                "heading": "Functions of Co-operative Credit Societies",
+                "points": [
+                    "Provide short and medium-term loans",
+                    "Support agricultural operations",
+                    "Promote savings among members",
+                    "Provide input supply (seeds, fertilizers)",
+                    "Support rural development activities"
+                ]
+            },
+            {
+                "heading": "Advantages of Co-operative Credit",
+                "points": [
+                    "Easy access to credit in rural areas",
+                    "Lower interest rates compared to moneylenders",
+                    "Encourages collective responsibility",
+                    "Promotes financial inclusion",
+                    "Supports small and marginal farmers"
+                ]
+            },
+            {
+                "heading": "Problems of Co-operative Credit Societies",
+                "points": [
+                    "Poor financial health and high NPAs",
+                    "Political interference",
+                    "Limited resources and capital",
+                    "Inefficient management",
+                    "Regional imbalances",
+                    "Dependence on government support"
+                ]
+            },
+            {
+                "heading": "Recent Reforms",
+                "points": [
+                    "Digitization of PACS",
+                    "Strengthening governance and transparency",
+                    "Integration with core banking systems",
+                    "Recapitalization of cooperative banks",
+                    "Policy support from NABARD"
+                ]
+            },
+            {
+                "heading": "Way Forward",
+                "points": [
+                    "Strengthen cooperative institutions",
+                    "Improve governance and management",
+                    "Enhance financial viability",
+                    "Promote digital banking",
+                    "Increase outreach in rural areas",
+                    "Ensure better regulation and supervision"
+                ]
+            }
+        ],
+        "mcqs": {
+            "basic": [
+                {
+                    "question": "KCC provides:",
+                    "options": [
+                        "Tax",
+                        "Credit",
+                        "Exports",
+                        "Imports"
+                    ],
+                    "answer": "Credit"
+                },
+                {
+                    "question": "PACS stands for:",
+                    "options": [
+                        "Primary Agricultural Credit Societies",
+                        "Public Agricultural Credit System",
+                        "Private Agricultural Credit Society",
+                        "Primary Agro Credit Service"
+                    ],
+                    "answer": "Primary Agricultural Credit Societies"
+                },
+                {
+                    "question": "NABARD is:",
+                    "options": [
+                        "Commercial bank",
+                        "Apex rural bank",
+                        "Private bank",
+                        "Foreign bank"
+                    ],
+                    "answer": "Apex rural bank"
+                },
+                {
+                    "question": "Cooperative societies are:",
+                    "options": [
+                        "Government owned",
+                        "Member owned",
+                        "Private owned",
+                        "Foreign owned"
+                    ],
+                    "answer": "Member owned"
+                },
+                {
+                    "question": "Interest subvention reduces:",
+                    "options": [
+                        "Income",
+                        "Interest rate",
+                        "Exports",
+                        "Imports"
+                    ],
+                    "answer": "Interest rate"
+                }
+            ],
+            "moderate": [
+                {
+                    "question": "DCCB stands for:",
+                    "options": [
+                        "District Central Cooperative Bank",
+                        "Direct Central Credit Bank",
+                        "District Credit Control Bank",
+                        "Development Cooperative Credit Bank"
+                    ],
+                    "answer": "District Central Cooperative Bank"
+                },
+                {
+                    "question": "Cooperative credit helps:",
+                    "options": [
+                        "Large farmers only",
+                        "Small farmers",
+                        "Exports",
+                        "Imports"
+                    ],
+                    "answer": "Small farmers"
+                },
+                {
+                    "question": "Main issue:",
+                    "options": [
+                        "High profit",
+                        "Poor management",
+                        "Exports",
+                        "Imports"
+                    ],
+                    "answer": "Poor management"
+                },
+                {
+                    "question": "PSL ensures:",
+                    "options": [
+                        "Exports",
+                        "Credit flow",
+                        "Tax",
+                        "Imports"
+                    ],
+                    "answer": "Credit flow"
+                },
+                {
+                    "question": "SHGs promote:",
+                    "options": [
+                        "Trade",
+                        "Microfinance",
+                        "Tax",
+                        "Exports"
+                    ],
+                    "answer": "Microfinance"
+                }
+            ],
+            "advanced": [
+                {
+                    "question": "Consider the following statements:\n1. PACS are grassroots institutions\n2. NABARD supports rural credit\n3. Cooperative societies are private companies",
+                    "options": [
+                        "1 and 2 only",
+                        "2 and 3 only",
+                        "1 and 3 only",
+                        "1, 2 and 3"
+                    ],
+                    "answer": "1 and 2 only"
+                },
+                {
+                    "question": "Main challenge:",
+                    "options": [
+                        "Efficiency",
+                        "Governance",
+                        "Exports",
+                        "Imports"
+                    ],
+                    "answer": "Governance"
+                },
+                {
+                    "question": "Best reform:",
+                    "options": [
+                        "Reduce credit",
+                        "Digitization",
+                        "Ban societies",
+                        "Exports"
+                    ],
+                    "answer": "Digitization"
+                },
+                {
+                    "question": "Cooperative system is based on:",
+                    "options": [
+                        "Profit",
+                        "Mutual help",
+                        "Exports",
+                        "Imports"
+                    ],
+                    "answer": "Mutual help"
+                },
+                {
+                    "question": "Goal of reforms:",
+                    "options": [
+                        "Weak system",
+                        "Strong credit flow",
+                        "Exports",
+                        "Imports"
+                    ],
+                    "answer": "Strong credit flow"
+                }
+            ]
+        }
+    }
+]
