@@ -1,5 +1,15 @@
 # 🚀 UPSC InsightX
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 
+![React Native](https://img.shields.io/badge/React_Native-Mobile_App-61DAFB?logo=react)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi)
+
+![OpenAI](https://img.shields.io/badge/OpenAI-AI-black)
+
+![License](https://img.shields.io/badge/License-MIT-green)
+
+![Status](https://img.shields.io/badge/Status-Active-success)
 > An AI-Powered Smart Learning Platform for UPSC Aspirants
 
 UPSC InsightX is an intelligent learning platform designed to transform traditional UPSC preparation into a personalized, data-driven, and engaging experience.
