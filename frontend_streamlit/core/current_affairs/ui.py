@@ -28,7 +28,7 @@ def fetch_current_affairs():
 
         data = response.json()
 
-        st.write("DEBUG response:", data)
+        
 
         return data.get("data", [])
 
