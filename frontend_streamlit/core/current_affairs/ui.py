@@ -7,7 +7,7 @@ import pandas as pd
 # CONFIG
 # =========================================================
 
-API_URL = "http://127.0.0.1:8000/ca/daily"
+API_URL = "https://insightx-upsc-production.up.railway.app"
 
 
 # =========================================================
