@@ -19,7 +19,7 @@ def fetch_current_affairs():
     try:
 
         response = requests.get(
-            API_URL,
+            f"{API_URL}/ca/daily",
             timeout=10
         )
 
