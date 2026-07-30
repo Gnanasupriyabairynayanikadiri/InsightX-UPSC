@@ -483,6 +483,9 @@ def answer_writing_ui(user):
         # =================================================
         if submit:
 
+            st.session_state.timer_running = False
+            st.session_state.writing_started = False
+
             if len(answer.strip()) < 30:
 
                 st.error("Write more content")
@@ -492,11 +495,9 @@ def answer_writing_ui(user):
             # =============================================
             # EVALUATION
             # =============================================
-            result = evaluate_answer(
+            result = evaluate_answer(question, answer)
 
-                question,
-                answer
-            )
+            st.session_state.evaluation_result = True
 
             score = result.get(
 
@@ -647,7 +648,7 @@ def answer_writing_ui(user):
         # =================================================
         # AUTO REFRESH TIMER
         # =================================================
-        if st.session_state.timer_running:
+        if st.session_state.timer_running and not st.session_state.get("evaluation_result"):
 
             time.sleep(1)
 
