@@ -11,6 +11,7 @@ from sqlalchemy.orm import Session
 
 from app.database.connection import SessionLocal
 from app.database.repository import CurrentAffairsRepository
+from app.database.models import CurrentAffairs
 
 from app.fetchers.news_fetcher import fetch_daily_news
 
@@ -580,16 +581,20 @@ def process_daily_news():
 
             seen_titles.add(title)
 
+            # Skip if same link already exists
+            existing_link = db.query(CurrentAffairs).filter(
+                CurrentAffairs.link == news.get("link")
+            ).first()
+
+            if existing_link:
+                continue
+
             article = process_news_item(
-
                 news,
-
                 db
-
             )
 
             if article:
-
                 processed.append(article)
 
         print()
