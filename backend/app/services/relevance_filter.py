@@ -174,70 +174,28 @@ BLACKLIST = [
 # MAIN FILTER
 # =========================================================
 
-def is_upsc_relevant(title, description="", source=""):
+def is_upsc_relevant(title, description, source):
+    text = f"{title} {description} {source}".lower()
 
-    text = f"{title} {description}".lower()
+    # Strong India-UPSC keywords
+    strong_keywords = [
+        "india", "indian", "new delhi", "parliament", "supreme court",
+        "cabinet", "ministry", "policy", "scheme", "rbi", "isro", "upsc",
+        "brics", "asean", "quad", "g20", "united nations", "bangladesh",
+        "pakistan", "china", "usa", "trade agreement", "fta", "ai summit"
+    ]
 
-    # -----------------------------------------------------
-    # 1. Entertainment/Sports filter
-    # -----------------------------------------------------
+    # Ignore generic international opinion/editorial content
+    ignore_keywords = [
+        "opinion", "editorial", "research article", "vision of", "future trajectory",
+        "inside the games", "council on foreign relations", "parliament magazine",
+        "commonwealth round table", "9dashline", "e-international relations"
+    ]
 
-    for word in BLACKLIST:
+    if any(k in text for k in ignore_keywords):
+        return False, "Generic opinion/editorial article"
 
-        if word in text:
+    if any(k in text for k in strong_keywords):
+        return True, "Contains strong UPSC-relevant India keywords"
 
-            return False, f"Ignored keyword: {word}"
-
-    # -----------------------------------------------------
-    # 2. India articles
-    # -----------------------------------------------------
-
-    if "india" in text or "indian" in text:
-
-        return True, "India related"
-
-    # -----------------------------------------------------
-    # 3. Country relevance
-    # -----------------------------------------------------
-
-    if is_country_relevant(title, description):
-
-        return True, "Important country"
-
-    # -----------------------------------------------------
-    # 4. UPSC keywords
-    # -----------------------------------------------------
-
-    for word in UPSC_KEYWORDS:
-
-        if word in text:
-
-            return True, f"Matched keyword: {word}"
-
-    # -----------------------------------------------------
-    # 5. Government sources
-    # -----------------------------------------------------
-
-    source = source.lower()
-
-    if any(x in source for x in [
-
-        "pib",
-        "press information bureau",
-        "prs",
-        "isro",
-        "rbi",
-        "mea",
-        "mha",
-        "mospi",
-        "government"
-
-    ]):
-
-        return True, "Government source"
-
-    # -----------------------------------------------------
-    # Default
-    # -----------------------------------------------------
-
-    return False, "Not UPSC relevant"
+    return False, "Not sufficiently India-UPSC relevant"
